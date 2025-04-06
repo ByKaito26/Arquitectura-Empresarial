@@ -1,18 +1,18 @@
-This is LuaHBTeX, Version 1.22.0 (TeX Live 2025/Arch Linux)  (format=lualatex 2025.3.22)  6 APR 2025 18:21
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.4.6)  6 APR 2025 18:56
  restricted system commands enabled.
 **sample.tex
 (./sample.tex
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-01-18>
-Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-12-25>
+Lua module: luaotfload 2024-02-14 v3.28 Lua based OpenType font support
 Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended 
 collection.
-luaotfload | conf : Root cache directory is "/home/marie/.texlive/texmf-var/luat
-ex-cache/generic/names".
+luaotfload | conf : Root cache directory is "/home/kaito/.texlive2024/texmf-var/
+luatex-cache/generic/names".
 luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
-olved path "/usr/share/texmf-dist/tex/luatex/luaotfload/fontloader-2023-12-28.lu
-a".
+olved path "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader-2023-
+12-28.lua".
 Lua-only attribute luaotfload@noligature = 1
 luaotfload | init : Context OpenType loader version 3.134
 Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
@@ -20,8 +20,8 @@ Inserting `luaotfload.node_processor' in `hpack_filter'.
 Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
 Inserting `luaotfload.define_font' in `define_font'.
 Lua-only attribute luaotfload_color_attribute = 2
-luaotfload | conf : Root cache directory is "/home/marie/.texlive/texmf-var/luat
-ex-cache/generic/names".
+luaotfload | conf : Root cache directory is "/home/kaito/.texlive2024/texmf-var/
+luatex-cache/generic/names".
 Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
 Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
 Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
@@ -39,19 +39,19 @@ Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
-Inserting `tracingstacklevels' in `input_level_string'. (/usr/share/texmf-dist/
-tex/latex/beamer/beamer.cls
-Document Class: beamer 2025/02/04 v3.72 A class for typesetting presentations
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
-(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+Inserting `tracingstacklevels' in `input_level_string'. (/usr/share/texlive/tex
+mf-dist/tex/latex/beamer/beamer.cls
+Document Class: beamer 2024/01/06 v3.71 A class for typesetting presentations
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count194
 )
 \beamer@tempbox=\box52
 \beamer@tempcount=\count195
 \c@beamerpauses=\count196
 
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
 \beamer@slideinframe=\count197
 \beamer@minimum=\count198
 \beamer@decode@box=\box53
@@ -59,7 +59,7 @@ Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \beamer@commentbox=\box54
 \beamer@modecount=\count199
 )
-(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 )
 \headdp=\dimen140
@@ -106,18 +106,18 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \beamer@toclastsection=\count284
 \beamer@tocsectionnumber=\count285
 
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
-(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 ))
 \beamer@paperwidth=\skip50
 \beamer@paperheight=\skip51
 
-(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count286
@@ -133,30 +133,31 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen163
 \Gm@dimlist=\toks18
 )
-(/usr/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks19
 \pgfutil@tempdima=\dimen164
 \pgfutil@tempdimb=\dimen165
 )
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box61
 )
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
-(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks20
 \pgfkeys@temptoks=\toks21
 
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.te
-x
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered
+.code.tex
 \pgfkeys@tmptoks=\toks22
-))) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
 \pgf@x=\dimen166
 \pgf@xa=\dimen167
 \pgf@xb=\dimen168
@@ -170,7 +171,7 @@ x
 \c@pgf@countc=\count291
 \c@pgf@countd=\count292
 )
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen174
 \pgfmath@count=\count293
 \pgfmath@box=\box62
@@ -178,47 +179,54 @@ x
 \pgfmath@stack@operand=\toks24
 \pgfmath@stack@operation=\toks25
 )
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
 .tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
-x) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
-.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count294
 )))
-(/usr/share/texmf-dist/tex/latex/extsizes/size17.clo
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size17.clo
 File: size17.clo 1999/11/11 NON-Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from /home/marie/.texlive/texmf-var
-/luatex-cache/generic/names/luaotfload-names.luc.gz)
-(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+luaotfload | db : Font names database loaded from /home/kaito/.texlive2024/texmf
+-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 )
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: luatex.def on input line 106.
 
-(/usr/share/texmf-dist/tex/latex/graphics-def/luatex.def
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def
 File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
 ))
 \Gin@req@height=\dimen175
 \Gin@req@width=\dimen176
 )
-(/usr/share/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \pgf@x=\dimen177
 \pgf@y=\dimen178
@@ -241,34 +249,36 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \t@pgf@tokc=\toks28
 \pgf@sys@id@count=\count299
 
-(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-luatex.def
 
-(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-luatex.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-luatex.def
 File: pgfsys-luatex.def 2023-01-15 v3.1.10 (3.1.10)
 
-(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 )))
-(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfsyssoftpath@smallbuffer@items=\count300
 \pgfsyssoftpath@bigbuffer@items=\count301
 )
-(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))
-(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: luatex.def on input line 274.
 
-(/usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -279,11 +289,12 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen187
 \pgf@picmaxx=\dimen188
@@ -300,98 +311,111 @@ File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@zx=\dimen199
 \pgf@zy=\dimen256
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@path@lastx=\dimen257
 \pgf@path@lasty=\dimen258
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@shorten@end@additional=\dimen259
 \pgf@shorten@start@additional=\dimen260
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box63
 \pgf@hbox=\box64
 \pgf@layerbox@main=\box65
 \pgf@picture@serial@count=\count302
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen261
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
-ex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@pt@x=\dimen262
 \pgf@pt@y=\dimen263
 \pgf@pt@temp=\dimen264
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
 File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
-x
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowsep=\dimen265
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen266
 \pgf@sys@shading@range@num=\count303
 \pgf@shadingcount=\count304
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box66
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
 File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
 File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-(/usr/share/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+))) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
 Package: xxcolor 2003/10/24 ver 0.1
 \XC@nummixins=\count305
 \XC@countmixins=\count306
 )
-(/usr/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
 
-(/usr/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
-(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 
-(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
-(/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -399,24 +423,24 @@ Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 \pdftexcmds@toks=\toks29
 ))
-(/usr/share/texmf-dist/tex/latex/hycolor/hycolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
 
-(/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 
-(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count307
 )
-(/usr/share/texmf-dist/tex/generic/stringenc/stringenc.sty
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
@@ -424,15 +448,15 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 \Hy@linkcounter=\count308
 \Hy@pagecounter=\count309
 
-(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
 )
-(/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count310
 
-(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Option `bookmarks' set `true' on input line 4040.
@@ -447,17 +471,17 @@ Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
 Package hyperref Info: Bookmarks ON on input line 4424.
 \c@Hy@tempcnt=\count311
 
-(/usr/share/texmf-dist/tex/latex/url/url.sty
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen268
 
-(/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
@@ -478,10 +502,10 @@ Package hyperref Message: Stopped early.
 
 )
 Package hyperref Info: Driver (autodetected): hluatex.
- (/usr/share/texmf-dist/tex/latex/hyperref/hluatex.def
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
 File: hluatex.def 2024-11-05 v7.01l Hyperref driver for luaTeX
 
-(/usr/share/texmf-dist/tex/latex/base/atveryend-ltx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
@@ -489,22 +513,22 @@ with kernel methods
 \Fld@listcount=\count314
 \c@bookmark@seq@number=\count315
 
-(/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
-(/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 ))
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty)
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbasefont.sty
-(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasefont.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks30
 \symAMSa=\mathgroup4
@@ -513,39 +537,39 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/usr/share/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
 Package: sansmathaccent 2020/01/31
 
-(/usr/share/texmf-dist/tex/latex/koma-script/scrlfile.sty
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
 Package: scrlfile 2024/10/24 v3.43 KOMA-Script package (file load hooks)
 
-(/usr/share/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
 Package: scrlfile-hook 2024/10/24 v3.43 KOMA-Script package (using LaTeX hooks)
 
 
-(/usr/share/texmf-dist/tex/latex/koma-script/scrlogo.sty
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
 Package: scrlogo 2024/10/24 v3.43 KOMA-Script package (logo)
 )))))
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
-(/usr/share/texmf-dist/tex/latex/translator/translator.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
 Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 ))
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbasemisc.sty)
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty)
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
 \beamer@argscount=\count316
 \beamer@lastskipcover=\skip52
 \beamer@trivlistdepth=\count317
 )
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbasetitle.sty)
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetitle.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasesection.sty
 \c@lecture=\count318
 \c@part=\count319
 \c@section=\count320
 \c@subsection=\count321
 \c@subsubsection=\count322
 )
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
 \beamer@framebox=\box67
 \beamer@frametitlebox=\box68
 \beamer@zoombox=\box69
@@ -561,29 +585,29 @@ Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 \framewidth=\dimen272
 \c@framenumber=\count326
 )
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
 \beamer@verbatimfileout=\write4
 )
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
 \beamer@splitbox=\box70
 \beamer@autobreakcount=\count327
 \beamer@autobreaklastheight=\dimen273
 \beamer@frametitletoks=\toks32
 \beamer@framesubtitletoks=\toks33
 )
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
 \beamer@footins=\box71
 )
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbasecolor.sty)
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
 \beamer@frameboxcopy=\box72
 )
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbasetoc.sty)
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetoc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
 \beamer@sbttoks=\toks34
 
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
 \bmb@box=\box73
 \bmb@colorbox=\box74
 \bmb@boxwidth=\dimen274
@@ -596,8 +620,8 @@ Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 )
 \beamer@blockheadheight=\dimen281
 ))
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty
-(/usr/share/texmf-dist/tex/latex/tools/enumerate.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
 \@enLab=\toks35
 )
@@ -607,29 +631,29 @@ Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
 \abovecaptionskip=\skip58
 \belowcaptionskip=\skip59
 )
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbasenavigationsymbols.tex)
-\beamer@section@min@dim=\dimen282
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenavigationsymbols.tex
 )
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
-(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+\beamer@section@min@dim=\dimen282
+) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2024/11/05 v2.17t AMS math features
 \@mathmargin=\skip60
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks36
 \ex@=\dimen283
 ))
-(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen284
 )
-(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count330
@@ -680,7 +704,7 @@ LaTeX Info: Redefining \Relbar on input line 970.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-(/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks41
 \thm@bodyfont=\toks42
@@ -694,19 +718,19 @@ Package: amsthm 2020/05/29 v2.20.6
 )
 \c@theorem=\count342
 )
-(/usr/share/texmf-dist/tex/latex/beamer/beamerbasethemes.sty))
-(/usr/share/texmf-dist/tex/latex/beamer/beamerthemedefault.sty
-(/usr/share/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty)
-(/usr/share/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty)
-(/usr/share/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasethemes.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemedefault.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
 \beamer@dima=\dimen292
 \beamer@dimb=\dimen293
 )
-(/usr/share/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)))
-(/usr/share/texmf-dist/tex/latex/mathtools/mathtools.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
 Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
 
-(/usr/share/texmf-dist/tex/latex/tools/calc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count343
 \calc@Bcount=\count344
@@ -719,7 +743,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count345
 \calc@Cskip=\skip68
 )
-(/usr/share/texmf-dist/tex/latex/mathtools/mhsetup.sty
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
 \g_MT_multlinerow_int=\count346
@@ -734,31 +758,115 @@ Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 \xmathstrut@box=\box77
 \xmathstrut@dim=\dimen303
 )
-(/usr/share/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaT
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2025/01/01 v25.1 The multilingual framework for pdfLaTeX, LuaLaT
 eX and XeLaTeX
 
-(/usr/share/texmf-dist/tex/generic/babel/luababel.def
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
 \bbl@readstream=\read3
 \l@dumylang=\language2
 Package babel Info: Non-standard hyphenation setup on input line 118.
 \l@nohyphenation=\language3
-\l@catalan=\language4
-\l@galician=\language5
-\l@spanish=\language6
+\l@vietnamese=\language4
+\l@hebrew=\language5
+\l@piedmontese=\language6
+\l@croatian=\language7
+\l@latin=\language8
+\l@mongolian=\language9
+\l@greek=\language10
+\l@uppersorbian=\language11
+\l@arabic=\language12
+\l@catalan=\language13
+\l@indonesian=\language14
+\l@dutch=\language15
+\l@kannada=\language16
+\l@estonian=\language17
+\l@belarusian=\language18
+\l@gujarati=\language19
+\l@oriya=\language20
+\l@usenglishmax=\language21
+\l@russian=\language22
+\l@pinyin=\language23
+\l@polish=\language24
+\l@ibycus=\language25
+\l@ethiopic=\language26
+\l@serbian=\language27
+\l@hungarian=\language28
+\l@portuguese=\language29
+\l@assamese=\language30
+\l@thai=\language31
+\l@romanian=\language32
+\l@italian=\language33
+\l@monogreek=\language34
+\l@latvian=\language35
+\l@hindi=\language36
+\l@czech=\language37
+\l@bengali=\language38
+\l@turkish=\language39
+\l@sanskrit=\language40
+\l@coptic=\language41
+\l@marathi=\language42
+\l@ngerman-x-2024-02-28=\language43
+\l@friulan=\language44
+\l@basque=\language45
+\l@lithuanian=\language46
+\l@turkmen=\language47
+\l@ancientgreek=\language48
+\l@bulgarian=\language49
+\l@serbianc=\language50
+\l@ukenglish=\language51
+\l@irish=\language52
+\l@pali=\language53
+\l@finnish=\language54
+\l@galician=\language55
+\l@farsi=\language56
+\l@slovak=\language57
+\l@churchslavonic=\language58
+\l@kurmanji=\language59
+\l@armenian=\language60
+\l@malayalam=\language61
+\l@slovenian=\language62
+\l@esperanto=\language63
+\l@ukrainian=\language64
+\l@panjabi=\language65
+\l@spanish=\language66
+\l@danish=\language67
+\l@georgian=\language68
+\l@swedish=\language69
+\l@icelandic=\language70
+\l@afrikaans=\language71
+\l@classiclatin=\language72
+\l@nynorsk=\language73
+\l@romansh=\language74
+\l@french=\language75
+\l@german=\language76
+\l@interlingua=\language77
+\l@bokmal=\language78
+\l@german-x-2024-02-28=\language79
+\l@albanian=\language80
+\l@welsh=\language81
+\l@occitan=\language82
+\l@schoolfinnish=\language83
+\l@macedonian=\language84
+\l@liturgicallatin=\language85
+\l@ngerman=\language86
+\l@swissgerman=\language87
+\l@mongolianlmc=\language88
+\l@telugu=\language89
+\l@tamil=\language90
 \babelcatcodetablenum=\catcodetable14
 \bbl@pattcodes=\catcodetable15
 )
 \babel@savecnt=\count347
 \U@D=\dimen304
-\l@unhyphenated=\language7
+\l@unhyphenated=\language91
 
-(/usr/share/texmf-dist/tex/generic/babel/luababel.def
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
 \bbl@attr@locale=\attribute4
 )
-LaTeX Info: Redefining \textlatin on input line 3835.
+LaTeX Info: Redefining \textlatin on input line 3834.
 
-(/usr/share/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks47
 \es@quotdepth=\count348
@@ -767,24 +875,23 @@ Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
 
-(/usr/share/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-es.tex
+(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-es.tex
 UTF-8 Spanish hyphenation patterns
-(/usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-es.tex))))
-(/usr/share/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex
+(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-es.tex)))
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex
 Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 11.
-)
-(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
 
-(/usr/share/texmf-dist/tex/latex/logreq/logreq.sty
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count349
 
-(/usr/share/texmf-dist/tex/latex/logreq/logreq.def
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
 \c@tabx@nest=\count350
@@ -840,14 +947,14 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 \bibhang=\skip77
 \blx@bcfin=\read4
 \blx@bcfout=\write5
-\blx@langwohyphens=\language8
+\blx@langwohyphens=\language92
 \c@mincomprange=\count393
 \c@maxcomprange=\count394
 \c@mincompwidth=\count395
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/blx-dm.def
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex custom data model...
@@ -937,17 +1044,17 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-unicode.def)
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/blx-compat.def
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.def
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
 \c@textcitecount=\count464
 \c@textcitetotal=\count465
@@ -966,12 +1073,12 @@ File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
 File: numeric.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count473
 \c@bbx:relatedtotal=\count474
@@ -979,7 +1086,7 @@ File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
 File: numeric.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -996,54 +1103,54 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Document encoding is UTF8 ....
 
-(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2025-01-18 L3 programming layer (loader) 
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-12-25 L3 programming layer (loader) 
 
-(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
 File: l3backend-luatex.def 2024-05-08 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count475
 Inserting `l3color' in `luaotfload.parse_color'.
 \l__pdf_internal_box=\box78
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2025-01-18 L3 programming layer (loader) 
+(biblatex)             2024-12-25 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
-(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2024-08-16 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 ))
-(/usr/share/texmf-dist/tex/latex/xurl/xurl.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xurl/xurl.sty
 Package: xurl 2022/01/09 v 0.10 modify URL breaks
 
 xurl: Set penalties for biblatex
-) (/usr/share/texmf-dist/tex/latex/cancel/cancel.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/cancel/cancel.sty
 Package: cancel 2013/04/12 v2.2 Cancel math terms
 )
-(/usr/share/texmf-dist/tex/latex/svg/svg.sty
+(/usr/share/texlive/texmf-dist/tex/latex/svg/svg.sty
 Package: svg 2020/11/26 v2.02k (include SVG pictures)
 
-(/usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
 Package: scrbase 2024/10/24 v3.43 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 Applying: [2021/05/01] Usage of raw or classic option list on input line 254.
 Already applied: [0000/00/00] Usage of raw or classic option list on input line
  370.
 )
-(/usr/share/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
-(/usr/share/texmf-dist/tex/latex/tools/shellesc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
 Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 77.
 )
@@ -1051,22 +1158,22 @@ Package shellesc Info: Restricted shell escape enabled on input line 77.
 \svg@box=\box79
 \c@svg@param@currpage=\count477
 )
-(/usr/share/texmf-dist/tex/latex/transparent/transparent.sty
+(/usr/share/texlive/texmf-dist/tex/latex/transparent/transparent.sty
 Package: transparent 2022-10-27 v1.5 Transparency with color stacks
 
-(/usr/share/texmf-dist/tex/latex/transparent/transparent-nometadata.sty
+(/usr/share/texlive/texmf-dist/tex/latex/transparent/transparent-nometadata.sty
 Package: transparent-nometadata 2022-10-27 v1.5 Transparency via pdfTeX's color
  stack (HO)
-
-(/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-))) (./beamerthemekthpq.sty
+)))
+(./beamerthemekthpq.sty
 Package: beamerthemekthpq 2023/10/05
-(./kthpq-files/beamerfontthemekthpq.sty
-(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
+ (./kthpq-files/beamerfontthemekthpq.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
-(/usr/share/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaT
 eX
 \l__fontspec_script_int=\count478
@@ -1084,30 +1191,78 @@ eX
 \l__fontspec_tmpb_dim=\dimen306
 \l__fontspec_tmpc_dim=\dimen307
 
-(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-luaotfload | cache : Lookup cache loaded from /home/marie/.texlive/texmf-var/lua
-tex-cache/generic/names/luaotfload-lookup-cache.luc.
-(/usr/share/texmf-dist/tex/latex/unicode-math/unicode-math.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+luaotfload | cache : Lookup cache loaded from /home/kaito/.texlive2024/texmf-var
+/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | aux : font no 30 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 30 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 30 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 30 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 30 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 30 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 31 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 31 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 31 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 31 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 31 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 31 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 32 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 32 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 32 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 32 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 32 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 32 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 33 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 33 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 33 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 33 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 33 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 33 (nil) does not define feature smcp for script dflt
+ with language dflt
+(/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math.sty
 Package: unicode-math 2023/08/13 v0.8r Unicode maths in XeLaTeX and LuaLaTeX
 
-(/usr/share/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty
 Package: unicode-math-luatex 2023/08/13 v0.8r Unicode maths in XeLaTeX and LuaL
 aTeX
 
-(/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
 )
-(/usr/share/texmf-dist/tex/latex/base/fix-cm.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
 
-(/usr/share/texmf-dist/tex/latex/base/ts1enc.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
-(/usr/share/texmf-dist/tex/lualatex/lualatex-math/lualatex-math.sty
+(/usr/share/texlive/texmf-dist/tex/lualatex/lualatex-math/lualatex-math.sty
 Package: lualatex-math 2022/01/01 v1.12 Patches for mathematics typesetting wit
 h LuaLaTeX
 Lua module: lualatex-math 2013/08/03 v1.3 Patches for mathematics typesetting wi
@@ -1117,7 +1272,7 @@ th LuaLaTeX)
 \l__um_primecount_int=\count491
 \g__um_primekern_muskip=\muskip23
 
-(/usr/share/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
+(/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 117.
 
@@ -1153,14 +1308,13 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 e 117.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 117
 .
-
-(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 117
 .
 
-(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -1181,11 +1335,15 @@ ut line 117.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  TU/LatinModernMath(3)/b/n --> TU/FiraMath(3)/b/n on inp
 ut line 117.
+luaotfload | aux : font no 77 (nil) defines no feature for script math
+luaotfload | aux : font no 77 (nil) defines no feature for script math
 \sym__um_fam1=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `__um_fam1' in version `normal'
 (Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/m/n on input line 117.
 LaTeX Font Info:    Overwriting symbol font `__um_fam1' in version `bold'
 (Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/b/n on input line 117.
+luaotfload | aux : font no 86 (nil) defines no feature for script math
+luaotfload | aux : font no 86 (nil) defines no feature for script math
 \sym__um_fam2=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `__um_fam2' in version `normal'
 (Font)                  TU/ArialItalic(0)/m/n --> TU/ArialItalic(0)/m/n on inpu
@@ -1193,6 +1351,8 @@ t line 117.
 LaTeX Font Info:    Overwriting symbol font `__um_fam2' in version `bold'
 (Font)                  TU/ArialItalic(0)/m/n --> TU/ArialItalic(0)/b/n on inpu
 t line 117.
+luaotfload | aux : font no 93 (nil) defines no feature for script math
+luaotfload | aux : font no 93 (nil) defines no feature for script math
 \sym__um_fam3=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `__um_fam3' in version `normal'
 (Font)                  TU/ArialBold(0)/m/n --> TU/ArialBold(0)/m/n on input li
@@ -1200,6 +1360,8 @@ ne 117.
 LaTeX Font Info:    Overwriting symbol font `__um_fam3' in version `bold'
 (Font)                  TU/ArialBold(0)/m/n --> TU/ArialBold(0)/b/n on input li
 ne 117.
+luaotfload | aux : font no 98 (nil) defines no feature for script math
+luaotfload | aux : font no 98 (nil) defines no feature for script math
 \sym__um_fam4=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `__um_fam4' in version `normal'
 (Font)                  TU/ArialBoldItalic(0)/m/n --> TU/ArialBoldItalic(0)/m/n
@@ -1209,38 +1371,38 @@ LaTeX Font Info:    Overwriting symbol font `__um_fam4' in version `bold'
  on input line 117.
 )
 (./kthpq-files/beamerinnerthemekthpq.sty
-(/usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
 
-(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodeparttextbox=\box80
-)
-(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
 \pgf@nodesepstart=\dimen308
 \pgf@nodesepend=\dimen309
 )
-(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-))
-(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen310
 \pgffor@skip=\dimen311
 \pgffor@stack=\toks48
 \pgffor@toks=\toks49
 ))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
-x
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@plot@mark@count=\count492
 \pgfplotmarksize=\dimen312
@@ -1261,7 +1423,8 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikznumberofchildren=\count494
 \tikznumberofcurrentchild=\count495
 \tikz@fig@count=\count496
- (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfmatrixcurrentrow=\count497
 \pgfmatrixcurrentcolumn=\count498
@@ -1269,31 +1432,32 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 \tikz@expandcount=\count500
 
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-topaths.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (/usr/share/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
 
-(/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
-(/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks50
 \XKV@tempa@toks=\toks51
 )
 \XKV@depth=\count501
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(/usr/share/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 -ends (calc, etex, pgfmath)
 )
-(/usr/share/texmf-dist/tex/latex/adjustbox/trimclip.sty
-Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
 
-(/usr/share/texmf-dist/tex/latex/collectbox/collectbox.sty
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \collectedbox=\box85
 )
@@ -1301,14 +1465,13 @@ Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \tc@lly=\dimen322
 \tc@urx=\dimen323
 \tc@ury=\dimen324
-Package trimclip Info: Using driver 'tc-luatex.def'.
 
-(/usr/share/texmf-dist/tex/latex/adjustbox/tc-luatex.def
-File: tc-luatex.def 2025/02/26 v1.1 Clipping driver for luatex
-
-(/usr/share/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
-File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
-)))
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pgf.def
+File: tc-pgf.def 2019/01/04 v2.2 trimclip fall-back clipping driver using PGF
+)
+Package trimclip Info: No clipping driver 'tc-luatex.def' available.
+(trimclip)             Using fall-back PGF driver.
+)
 \adjbox@Width=\dimen325
 \adjbox@Height=\dimen326
 \adjbox@Depth=\dimen327
@@ -1318,11 +1481,11 @@ File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
 \adjbox@pdepth=\dimen331
 \adjbox@ptotalheight=\dimen332
 
-(/usr/share/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
 \c@checkoddpage=\count502
 )
-(/usr/share/texmf-dist/tex/latex/varwidth/varwidth.sty
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box86
 \sift@deathcycles=\count503
@@ -1338,6 +1501,26 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \headerwidth=\skip96
 )
 (./kthpq-files/beamercolorthemekthpq.sty))
+luaotfload | aux : font no 105 (nil) defines no feature for script latn
+luaotfload | aux : font no 105 (nil) defines no feature for script dflt
+luaotfload | aux : font no 105 (nil) does not define feature smcp for script lat
+n with language dflt
+luaotfload | aux : font no 105 (nil) does not define feature smcp for script dfl
+t with language dflt
+luaotfload | aux : font no 105 (nil) does not define feature smcp for script lat
+n with language dflt
+luaotfload | aux : font no 105 (nil) does not define feature smcp for script dfl
+t with language dflt
+luaotfload | aux : font no 108 (nil) defines no feature for script latn
+luaotfload | aux : font no 108 (nil) defines no feature for script dflt
+luaotfload | aux : font no 108 (nil) does not define feature smcp for script lat
+n with language dflt
+luaotfload | aux : font no 108 (nil) does not define feature smcp for script dfl
+t with language dflt
+luaotfload | aux : font no 108 (nil) does not define feature smcp for script lat
+n with language dflt
+luaotfload | aux : font no 108 (nil) does not define feature smcp for script dfl
+t with language dflt
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/BitstreamVeraSansMono(1)/m/n on inp
 ut line 29.
@@ -1425,7 +1608,7 @@ LaTeX Font Info:    ... okay on input line 40.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count506
 \scratchdimen=\dimen335
@@ -1438,51 +1621,52 @@ LaTeX Font Info:    ... okay on input line 40.
 \MPnumerator=\count510
 \makeMPintoPDFobject=\count511
 \everyMPtoPDFconversion=\toks53
-) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package hyperref Info: Link coloring OFF on input line 40.
- (./sample.out)
-(./sample.out)
+
+(./sample.out) (./sample.out)
 \@outlinefile=\write6
 
 \openout6 = sample.out
 
-(/usr/share/texmf-dist/tex/latex/translator/translator-basic-dictionary-English
-.dict
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
+-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
-(/usr/share/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-
-English.dict
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-bibliography-dic
+tionary-English.dict
 Dictionary: translator-bibliography-dictionary, Language: English 
 )
-(/usr/share/texmf-dist/tex/latex/translator/translator-environment-dictionary-E
-nglish.dict
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-environment-dict
+ionary-English.dict
 Dictionary: translator-environment-dictionary, Language: English 
 )
-(/usr/share/texmf-dist/tex/latex/translator/translator-months-dictionary-Englis
-h.dict
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-months-dictionar
+y-English.dict
 Dictionary: translator-months-dictionary, Language: English 
 )
-(/usr/share/texmf-dist/tex/latex/translator/translator-numbers-dictionary-Engli
-sh.dict
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-numbers-dictiona
+ry-English.dict
 Dictionary: translator-numbers-dictionary, Language: English 
 )
-(/usr/share/texmf-dist/tex/latex/translator/translator-theorem-dictionary-Engli
-sh.dict
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
+ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
 LaTeX Info: Redefining \. on input line 40.
 LaTeX Info: Redefining \% on input line 40.
 Package biblatex Info: Trying to load language 'spanish'...
 Package biblatex Info: ... file 'spanish.lbx' found.
- (/usr/share/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
 File: spanish.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 )
 Package biblatex Info: LuaTeX detected.
@@ -1816,6 +2000,12 @@ File: kthpq-files/figs/logo/logo-tadeo.png Graphic file (type png)
 Package luatex.def Info: kthpq-files/figs/logo/logo-tadeo.png  used on input li
 ne 268.
 (luatex.def)             Requested size: 48.36967pt x 31.1196pt.
+
+
+LaTeX Font Warning: Font shape `TU/BitstreamVeraSansMono(0)/m/it' undefined
+(Font)              using `TU/BitstreamVeraSansMono(0)/m/n' instead on input li
+ne 268.
+
 LaTeX Font Info:    Font shape `TU/BitstreamVeraSansMono(0)/m/it' will be
 (Font)              scaled to size 15.55188pt on input line 268.
 
@@ -1923,7 +2113,7 @@ File: kthpq-files/figs/logo/logo-tadeo.png Graphic file (type png)
 Package luatex.def Info: kthpq-files/figs/logo/logo-tadeo.png  used on input li
 ne 349.
 (luatex.def)             Requested size: 48.36967pt x 31.1196pt.
-<img/Migraciones.png, id=298, 253.94875pt x 300.12125pt>
+<img/Migraciones.png, id=297, 253.94875pt x 300.12125pt>
 File: img/Migraciones.png Graphic file (type png)
 <use img/Migraciones.png>
 Package luatex.def Info: img/Migraciones.png  used on input line 349.
@@ -1959,7 +2149,7 @@ File: kthpq-files/figs/logo/logo-tadeo.png Graphic file (type png)
 Package luatex.def Info: kthpq-files/figs/logo/logo-tadeo.png  used on input li
 ne 378.
 (luatex.def)             Requested size: 48.36967pt x 31.1196pt.
-<img/gpl.png, id=317, 72.27pt x 30.3534pt>
+<img/gpl.png, id=316, 72.27pt x 30.3534pt>
 File: img/gpl.png Graphic file (type png)
 <use img/gpl.png>
 Package luatex.def Info: img/gpl.png  used on input line 378.
@@ -2045,7 +2235,7 @@ ne 388.
 
 
 ]
-<kthpq-files/figs/logo/by-sa.png, id=386, 97.0827pt x 33.9669pt>
+<kthpq-files/figs/logo/by-sa.png, id=385, 97.0827pt x 33.9669pt>
 File: kthpq-files/figs/logo/by-sa.png Graphic file (type png)
 <use kthpq-files/figs/logo/by-sa.png>
 Package luatex.def Info: kthpq-files/figs/logo/by-sa.png  used on input line 39
@@ -2083,9 +2273,12 @@ LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
 )
  ***********
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-01-18>
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-12-25>
  ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -2098,26 +2291,26 @@ Package logreq Info: Writing requests to 'sample.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 43707 strings out of 475506
- 100000,1977958 words of node,token memory allocated
- 3972 words of node memory still in use:
-   91 hlist, 10 vlist, 13 rule, 3 disc, 6 local_par, 110 glue, 11 kern, 18 penal
-ty, 15 glyph, 364 attribute, 82 glue_spec, 184 attribute_list, 5 write, 1 save_p
-os, 37 pdf_literal, 1 pdf_start_link, 1 pdf_end_link, 14 pdf_action, 12 pdf_colo
-rstack, 4 pdf_setmatrix, 6 pdf_save, 6 pdf_restore nodes
-   avail lists: 1:2,2:1438,3:1361,4:327,5:161,6:39,7:6446,8:121,9:841,10:66,11:4
+ 43762 strings out of 475518
+ 100000,2373549 words of node,token memory allocated
+ 4586 words of node memory still in use:
+   105 hlist, 10 vlist, 13 rule, 3 disc, 6 local_par, 124 glue, 11 kern, 18 pena
+lty, 15 glyph, 460 attribute, 82 glue_spec, 232 attribute_list, 7 write, 3 save_
+pos, 71 pdf_literal, 1 pdf_start_link, 1 pdf_end_link, 14 pdf_action, 12 pdf_col
+orstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
+   avail lists: 1:2,2:1294,3:1327,4:327,5:161,6:39,7:6432,8:121,9:827,10:66,11:4
 51
- 65334 multiletter control sequences out of 65536+600000
- 136 fonts using 37928959 bytes
+ 65386 multiletter control sequences out of 65536+600000
+ 123 fonts using 37364287 bytes
  128i,15n,126p,893b,2938s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/fonts/TTF/VeraMoIt.ttf></usr/share/fonts/TTF/VeraMono.ttf></usr/shar
-e/texmf-dist/fonts/opentype/public/firamath/FiraMath-Regular.otf><./kthpq-files/
-fonts/Figtree/Figtree-Italic.otf><./kthpq-files/fonts/Figtree/Figtree-Regular.ot
-f></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb>
-Output written on sample.pdf (33 pages, 1965351 bytes).
+</home/kaito/.fonts/VeraMono.ttf></usr/share/texlive/texmf-dist/fonts/opentype/p
+ublic/firamath/FiraMath-Regular.otf><./kthpq-files/fonts/Figtree/Figtree-Italic.
+otf><./kthpq-files/fonts/Figtree/Figtree-Regular.otf></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/latxfont/line10.pfb>
+Output written on sample.pdf (33 pages, 1957686 bytes).
 
-PDF statistics: 436 PDF objects out of 1000 (max. 8388607)
- 339 compressed objects within 4 object streams
+PDF statistics: 429 PDF objects out of 1000 (max. 8388607)
+ 335 compressed objects within 4 object streams
  91 named destinations out of 1000 (max. 131072)
  96 words of extra memory for PDF output out of 10000 (max. 100000000)
 
