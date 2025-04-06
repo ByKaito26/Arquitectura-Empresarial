@@ -1,0 +1,10 @@
+\babel@toc {spanish}{}\relax 
+\beamer@sectionintoc {1}{Hallazgos \textit {papers}}{2}{0}{1}
+\beamer@sectionintoc {2}{Predicting forced displacement using a generalised and automated agentbased simulation}{4}{0}{2}
+\beamer@sectionintoc {3}{An Agent - Based Model to Identify Migration Pathways of Refugees: The Case of Syria}{6}{0}{3}
+\beamer@sectionintoc {4}{Teorı́a de la migración colectiva como explicación al desplazamiento forzado en colombia}{8}{0}{4}
+\beamer@sectionintoc {5}{Importancia de la economı́a campesina en los contextos contemporáneos: una mirada al caso colombiano}{10}{0}{5}
+\beamer@sectionintoc {6}{Impacto económico de la violencia armada sobre la producción campesina, caso municipios zona de distensión departamento del Meta, Colombia (1991-2014)}{12}{0}{6}
+\beamer@sectionintoc {7}{Ideas}{14}{0}{7}
+\beamer@sectionintoc {8}{Licencia proyecto}{25}{0}{8}
+\beamer@sectionintoc {9}{Referencias}{27}{0}{9}

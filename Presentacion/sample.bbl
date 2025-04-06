@@ -1,0 +1,409 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{EVA2020}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=f37ab67ecea02503d2ef49b7b56bf0fd}{%
+           family={{Departamento Nacional de Planeación de Colombia}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{f37ab67ecea02503d2ef49b7b56bf0fd}
+      \strng{fullhash}{f37ab67ecea02503d2ef49b7b56bf0fd}
+      \strng{fullhashraw}{f37ab67ecea02503d2ef49b7b56bf0fd}
+      \strng{bibnamehash}{f37ab67ecea02503d2ef49b7b56bf0fd}
+      \strng{authorbibnamehash}{f37ab67ecea02503d2ef49b7b56bf0fd}
+      \strng{authornamehash}{f37ab67ecea02503d2ef49b7b56bf0fd}
+      \strng{authorfullhash}{f37ab67ecea02503d2ef49b7b56bf0fd}
+      \strng{authorfullhashraw}{f37ab67ecea02503d2ef49b7b56bf0fd}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Evaluación de Valoración Ambiental (EVA) 2020}}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://devx.meta.gov.co/media/centrodocumentacion/2022/05/16/EVA_2020.pdf
+      \endverb
+      \verb{url}
+      \verb https://devx.meta.gov.co/media/centrodocumentacion/2022/05/16/EVA_2020.pdf
+      \endverb
+    \endentry
+    \entry{farodiroma_choco_2025}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=695d1ffeccba68df94d68ec70cff08b5}{%
+           family={{FarodiRoma Editorial Team}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{695d1ffeccba68df94d68ec70cff08b5}
+      \strng{fullhash}{695d1ffeccba68df94d68ec70cff08b5}
+      \strng{fullhashraw}{695d1ffeccba68df94d68ec70cff08b5}
+      \strng{bibnamehash}{695d1ffeccba68df94d68ec70cff08b5}
+      \strng{authorbibnamehash}{695d1ffeccba68df94d68ec70cff08b5}
+      \strng{authornamehash}{695d1ffeccba68df94d68ec70cff08b5}
+      \strng{authorfullhash}{695d1ffeccba68df94d68ec70cff08b5}
+      \strng{authorfullhashraw}{695d1ffeccba68df94d68ec70cff08b5}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{FarodiRoma}
+      \field{note}{Accessed: 2025-04-05}
+      \field{title}{Colombia. Chocó sigue sufriendo la pandemia de la violencia, el abandono estatal y la corrupción}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.farodiroma.it/colombia-choco-sigue-sufriendo-la-pandemia-de-la-violencia-el-abandono-estatal-y-la-corrupcion/
+      \endverb
+      \verb{url}
+      \verb https://www.farodiroma.it/colombia-choco-sigue-sufriendo-la-pandemia-de-la-violencia-el-abandono-estatal-y-la-corrupcion/
+      \endverb
+    \endentry
+    \entry{Finagro2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=fd3b01e8f3e62255f684b4c39ce783c9}{%
+           family={{FINAGRO}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{fd3b01e8f3e62255f684b4c39ce783c9}
+      \strng{fullhash}{fd3b01e8f3e62255f684b4c39ce783c9}
+      \strng{fullhashraw}{fd3b01e8f3e62255f684b4c39ce783c9}
+      \strng{bibnamehash}{fd3b01e8f3e62255f684b4c39ce783c9}
+      \strng{authorbibnamehash}{fd3b01e8f3e62255f684b4c39ce783c9}
+      \strng{authornamehash}{fd3b01e8f3e62255f684b4c39ce783c9}
+      \strng{authorfullhash}{fd3b01e8f3e62255f684b4c39ce783c9}
+      \strng{authorfullhashraw}{fd3b01e8f3e62255f684b4c39ce783c9}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-03-27}
+      \field{title}{{Aguacate Hass en Colombia}}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.finagro.com.co/sites/default/files/2022-05/aguacate_hass.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.finagro.com.co/sites/default/files/2022-05/aguacate_hass.pdf
+      \endverb
+    \endentry
+    \entry{groen_fabsim3_2023}{misc}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=5cfef059eb6c314b9c37f5b1f41ba772}{%
+           family={Groen},
+           familyi={G\bibinitperiod},
+           given={Derek},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{80742d1b62f04dd0027ca5f87689e454}
+      \strng{fullhash}{80742d1b62f04dd0027ca5f87689e454}
+      \strng{fullhashraw}{80742d1b62f04dd0027ca5f87689e454}
+      \strng{bibnamehash}{80742d1b62f04dd0027ca5f87689e454}
+      \strng{authorbibnamehash}{80742d1b62f04dd0027ca5f87689e454}
+      \strng{authornamehash}{80742d1b62f04dd0027ca5f87689e454}
+      \strng{authorfullhash}{80742d1b62f04dd0027ca5f87689e454}
+      \strng{authorfullhashraw}{80742d1b62f04dd0027ca5f87689e454}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://fabsim3.readthedocs.io/en/latest/}}
+      \field{note}{Accessed: 2025-03-30}
+      \field{title}{FabSim3: Automation Toolkit for Computational Research}
+      \field{year}{2025}
+    \endentry
+    \entry{groen_flee_2023}{misc}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=5cfef059eb6c314b9c37f5b1f41ba772}{%
+           family={Groen},
+           familyi={G\bibinitperiod},
+           given={Derek},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{80742d1b62f04dd0027ca5f87689e454}
+      \strng{fullhash}{80742d1b62f04dd0027ca5f87689e454}
+      \strng{fullhashraw}{80742d1b62f04dd0027ca5f87689e454}
+      \strng{bibnamehash}{80742d1b62f04dd0027ca5f87689e454}
+      \strng{authorbibnamehash}{80742d1b62f04dd0027ca5f87689e454}
+      \strng{authornamehash}{80742d1b62f04dd0027ca5f87689e454}
+      \strng{authorfullhash}{80742d1b62f04dd0027ca5f87689e454}
+      \strng{authorfullhashraw}{80742d1b62f04dd0027ca5f87689e454}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/djgroen/flee}}
+      \field{note}{Accessed: 2025-03-30}
+      \field{title}{FLEE: A Flexible Large-Scale Agent-Based Simulation Framework for Modeling Refugee Movements}
+      \field{year}{2025}
+    \endentry
+    \entry{Gutierrez2012}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=b51650e8a1d08579f0a4d00165e4c771}{%
+           family={Gutiérrez},
+           familyi={G\bibinitperiod},
+           given={Diego},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b51650e8a1d08579f0a4d00165e4c771}
+      \strng{fullhash}{b51650e8a1d08579f0a4d00165e4c771}
+      \strng{fullhashraw}{b51650e8a1d08579f0a4d00165e4c771}
+      \strng{bibnamehash}{b51650e8a1d08579f0a4d00165e4c771}
+      \strng{authorbibnamehash}{b51650e8a1d08579f0a4d00165e4c771}
+      \strng{authornamehash}{b51650e8a1d08579f0a4d00165e4c771}
+      \strng{authorfullhash}{b51650e8a1d08579f0a4d00165e4c771}
+      \strng{authorfullhashraw}{b51650e8a1d08579f0a4d00165e4c771}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Econografos Escuela de Economía No. 16}
+      \field{title}{Teoría de la Migración Colectiva como Explicación al Desplazamiento Forzado en Colombia}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.2139/ssrn.2194565
+      \endverb
+      \verb{urlraw}
+      \verb https://ssrn.com/abstract=2194565
+      \endverb
+      \verb{url}
+      \verb https://ssrn.com/abstract=2194565
+      \endverb
+    \endentry
+    \entry{hebert2017agent}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=83b0c17ea18761a689687b34e1b7e277}{%
+           family={Hébert},
+           familyi={H\bibinitperiod},
+           given={Guillaume\bibnamedelima Arnoux},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=8eb3b96f5468607b2aa2805ccaa91906}{%
+           family={Perez},
+           familyi={P\bibinitperiod},
+           given={Liliana},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1dc0d4afcdbc34ba6b95e6575694bd35}{%
+           family={Harati},
+           familyi={H\bibinitperiod},
+           given={Saeed},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4a306f4c60eb190ceaa1806606bee7f6}
+      \strng{fullhash}{4a306f4c60eb190ceaa1806606bee7f6}
+      \strng{fullhashraw}{4a306f4c60eb190ceaa1806606bee7f6}
+      \strng{bibnamehash}{4a306f4c60eb190ceaa1806606bee7f6}
+      \strng{authorbibnamehash}{4a306f4c60eb190ceaa1806606bee7f6}
+      \strng{authornamehash}{4a306f4c60eb190ceaa1806606bee7f6}
+      \strng{authorfullhash}{4a306f4c60eb190ceaa1806606bee7f6}
+      \strng{authorfullhashraw}{4a306f4c60eb190ceaa1806606bee7f6}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Agent-Based Models and Complexity Science in the Age of Geospatial Big Data: Selected Papers from a workshop on Agent-Based Models and Complexity Science (GIScience 2016)}
+      \field{title}{An agent-based model to identify migration pathways of refugees: the case of Syria}
+      \field{year}{2017}
+      \field{pages}{45\bibrangedash 58}
+      \range{pages}{14}
+    \endentry
+    \entry{CifrasSectoriales2021}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=faa6d79d0bfc09330090c4d02455c830}{%
+           family={{Ministerio de Agricultura y Desarrollo Rural de Colombia}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{faa6d79d0bfc09330090c4d02455c830}
+      \strng{fullhash}{faa6d79d0bfc09330090c4d02455c830}
+      \strng{fullhashraw}{faa6d79d0bfc09330090c4d02455c830}
+      \strng{bibnamehash}{faa6d79d0bfc09330090c4d02455c830}
+      \strng{authorbibnamehash}{faa6d79d0bfc09330090c4d02455c830}
+      \strng{authornamehash}{faa6d79d0bfc09330090c4d02455c830}
+      \strng{authorfullhash}{faa6d79d0bfc09330090c4d02455c830}
+      \strng{authorfullhashraw}{faa6d79d0bfc09330090c4d02455c830}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-03-27}
+      \field{title}{{Cifras Sectoriales del Aguacate}}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://sioc.minagricultura.gov.co/Aguacate/Documentos/2021-03-31%20Cifras%20Sectoriales.pdf
+      \endverb
+      \verb{url}
+      \verb https://sioc.minagricultura.gov.co/Aguacate/Documentos/2021-03-31%20Cifras%20Sectoriales.pdf
+      \endverb
+    \endentry
+    \entry{perez2016impacto}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=7eb347b098b203c76e043a3f801f9ba3}{%
+           family={Pérez},
+           familyi={P\bibinitperiod},
+           given={Camilo\bibnamedelima Pacheco},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Santo Tomás Bucaramanga}%
+      }
+      \strng{namehash}{7eb347b098b203c76e043a3f801f9ba3}
+      \strng{fullhash}{7eb347b098b203c76e043a3f801f9ba3}
+      \strng{fullhashraw}{7eb347b098b203c76e043a3f801f9ba3}
+      \strng{bibnamehash}{7eb347b098b203c76e043a3f801f9ba3}
+      \strng{authorbibnamehash}{7eb347b098b203c76e043a3f801f9ba3}
+      \strng{authornamehash}{7eb347b098b203c76e043a3f801f9ba3}
+      \strng{authorfullhash}{7eb347b098b203c76e043a3f801f9ba3}
+      \strng{authorfullhashraw}{7eb347b098b203c76e043a3f801f9ba3}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Lebret}
+      \field{number}{8}
+      \field{title}{Impacto económico de la violencia armada sobre la producción campesina, caso municipios zona de distensión departamento del Meta, Colombia (1991-2014)}
+      \field{year}{2016}
+      \field{pages}{93\bibrangedash 123}
+      \range{pages}{31}
+    \endentry
+    \entry{santacoloma2015importancia}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=258f5421ecd18eaa89b69f44482c28d4}{%
+           family={Santacoloma-Varón},
+           familyi={S\bibinithyphendelim V\bibinitperiod},
+           given={Luz\bibnamedelima Elena},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Libre, Cali, Colombia}%
+      }
+      \strng{namehash}{258f5421ecd18eaa89b69f44482c28d4}
+      \strng{fullhash}{258f5421ecd18eaa89b69f44482c28d4}
+      \strng{fullhashraw}{258f5421ecd18eaa89b69f44482c28d4}
+      \strng{bibnamehash}{258f5421ecd18eaa89b69f44482c28d4}
+      \strng{authorbibnamehash}{258f5421ecd18eaa89b69f44482c28d4}
+      \strng{authornamehash}{258f5421ecd18eaa89b69f44482c28d4}
+      \strng{authorfullhash}{258f5421ecd18eaa89b69f44482c28d4}
+      \strng{authorfullhashraw}{258f5421ecd18eaa89b69f44482c28d4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Entramado}
+      \field{number}{2}
+      \field{title}{Importancia de la economía campesina en los contextos contemporáneos: una mirada al caso colombiano}
+      \field{volume}{11}
+      \field{year}{2015}
+      \field{pages}{38\bibrangedash 50}
+      \range{pages}{13}
+    \endentry
+    \entry{suleimenova2020predicting}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=bd94f1a0a1c8745d7a114e20ae531202}{%
+           family={Suleimenova},
+           familyi={S\bibinitperiod},
+           given={Diana},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Brunel University London}%
+      }
+      \strng{namehash}{bd94f1a0a1c8745d7a114e20ae531202}
+      \strng{fullhash}{bd94f1a0a1c8745d7a114e20ae531202}
+      \strng{fullhashraw}{bd94f1a0a1c8745d7a114e20ae531202}
+      \strng{bibnamehash}{bd94f1a0a1c8745d7a114e20ae531202}
+      \strng{authorbibnamehash}{bd94f1a0a1c8745d7a114e20ae531202}
+      \strng{authornamehash}{bd94f1a0a1c8745d7a114e20ae531202}
+      \strng{authorfullhash}{bd94f1a0a1c8745d7a114e20ae531202}
+      \strng{authorfullhashraw}{bd94f1a0a1c8745d7a114e20ae531202}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Predicting forced displacement using a generalised and automated agent-based simulation}
+      \field{type}{phdthesis}
+      \field{year}{2020}
+    \endentry
+    \entry{Visualflee}{misc}{}{}
+      \name{author}{2}{}{%
+        {{hash=bd94f1a0a1c8745d7a114e20ae531202}{%
+           family={Suleimenova},
+           familyi={S\bibinitperiod},
+           given={Diana},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a8b2e39951bba535f313f563f6abaef6}{%
+           family={contributors},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{10ef21947f294f199bd6bbb6fb4978a3}
+      \strng{fullhash}{10ef21947f294f199bd6bbb6fb4978a3}
+      \strng{fullhashraw}{10ef21947f294f199bd6bbb6fb4978a3}
+      \strng{bibnamehash}{10ef21947f294f199bd6bbb6fb4978a3}
+      \strng{authorbibnamehash}{10ef21947f294f199bd6bbb6fb4978a3}
+      \strng{authornamehash}{10ef21947f294f199bd6bbb6fb4978a3}
+      \strng{authorfullhash}{10ef21947f294f199bd6bbb6fb4978a3}
+      \strng{authorfullhashraw}{10ef21947f294f199bd6bbb6fb4978a3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/cspgdds/Visualflee}}
+      \field{note}{Accessed: 2025-04-05}
+      \field{title}{Visualflee: Visualization of Refugee Movements and Population Dynamics}
+      \field{year}{2019}
+    \endentry
+    \entry{eswiki:166396423}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Internet; descargado 26-marzo-2025]}
+      \field{title}{Meta (Colombia) --- Wikipedia{,} La enciclopedia libre}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb \url{https://es.wikipedia.org/w/index.php?title=Meta_(Colombia)&oldid=166396423}
+      \endverb
+      \verb{url}
+      \verb %5Curl%7Bhttps://es.wikipedia.org/w/index.php?title=Meta_(Colombia)&oldid=166396423%7D
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
