@@ -6,7 +6,7 @@
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("beamer" "17pt" "t" "lualatex")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("amsmath" "") ("amssymb" "") ("mathtools" "") ("babel" "spanish") ("biblatex" "") ("hyperref" "") ("xurl" "") ("cancel" "") ("svg" "")))
+                     '(("amsmath" "") ("amssymb" "") ("mathtools" "") ("babel" "spanish") ("biblatex" "") ("hyperref" "") ("xurl" "") ("cancel" "") ("svg" "") ("import" "") ("example" "")))
    (add-to-list 'LaTeX-verbatim-environments-local "semiverbatim")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
@@ -27,9 +27,9 @@
     "hyperref"
     "xurl"
     "cancel"
-    "svg")
-   (LaTeX-add-labels
-    "fig:p1f1")
+    "svg"
+    "import"
+    "example")
    (LaTeX-add-bibliographies
     "referencias"))
  :latex)
