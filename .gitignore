@@ -5,5 +5,5 @@ tmp/
 *.aux
 *.bbl
 *.blg
-*.ou
+*.out
 *.toc
