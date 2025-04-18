@@ -1,0 +1,353 @@
+[00:00]
+Bueno, para esta grabación es pues quedan las van a ver los decanos de las universidades y bueno, lo que venga en el proceso estamos de nuevo en nuestro día de grabación esta vez con el ingeniero Mario Charlie un pionero pionero de la de los sistemas realmente como vamos a ver que cuando Mario nos habla, nos va a hablar mucho de fechas, no Mario para nosotros tener en cuenta las fechas y pionero como empresa de software y todo lo que nos va a contar. Estamos el mismo grupo o gestor de este proyecto y y pues vamos al grano, o sea, vamos a comenzar a darle la palabra Mario para que nos vaya contando su historia más o menos como le escribimos que quisiéramos que fuera Mario entonces adelante adelante.
+
+[01:00]
+A Beatriz a Sandra a Kevin y muchas gracias por la presentación que hicieron y personajes ilustres todos veo el perfil de uno jamás será tan grande como el de ustedes, pero para mí es un honor poder compartir un poco la historia de mi vida, un poco en cuanto a la actividad profesional.
+
+[01:27]
+yo soy
+
+[01:43]
+básicamente primaria en el municipio allá en Barrancabermeja en ese momento arranca, pues era una un municipio muy importante para el país, porque lógicamente la empresa o la producción industrial de petróleo, pues estaba centrada principalmente era ya hubo mucho desarrollo motivo por el cual digamos, papá decidió estabilizarse allá una vez había pasado su año rural y digo año rural porque él es médico especialización en pediatría y allá nos quedamos sin embargo, pues era una ciudad muy agitada en todos los sentidos y siempre estuvo pendiente de sacarnos rápidamente de allá para estudiar hicimos, primaria y posteriormente vinimos a estudiar.
+
+[02:43]
+Un año en el Colegio Mayor del Rosario internos como era la forma de salir de la provincia a estudiar y por haberse motivos decidimos continuar en Zapatoca con los salesianos el resto de bachillerato hicimos allá tres años más en la misma modalidad internos y posteriormente si le solicité a papá que nos que me dejara ir a Bogotá porque necesitaba uno como civilizarse un poco no mantener solo el conocimiento sobre la provincia sino ver la ciudad a conocer la ciudad y entrar en el mundo profesional que ya se venía pronto y vine a hacer quinto y sexto de bachillerato aquí en el Instituto del Carmen de los Hermanos Maristas ya no interno ya llegué ya llegué.
+
+[03:43]
+Familiar y ahí pude hacer esos esos dos años como experiencia en esa parte inicial, puedo decir que los internados no eran malos. Era una forma de vida, pero además el que tenía ganas de hacer, he quedado mucho tiempo para estudiar, le quedaba mucho tiempo para jugar retos con los mismos compañeros hacer cosas y así cosas que me acuerdo de de como el espíritu de uno por el estudio en esa época. Usábamos valor cuando veíamos álgebra y pues parte del orgullo, que tengo es que no hubo ejercicio alguno que se quedara por resolver todos absolutamente todos los fáciles y los imposibles todo eso lo resolvimos y eso en competición con con otros compañeros en los cuales.
+
+[04:43]
+La forma de poder avanzar en el conocimiento y era retándome.
+
+[05:43]
+y ojalá que tuviera visión internacional y por eso le aplicamos a los Andes con el debido respeto para los de la otra universidad y que hoy en día realmente bien operando muy bien porque he contratado ingenieros de todas estas universidades que se dan en el medio, pero la ansiedad uno de muchacho, era lo mejor lo mejor lo mejor y tuve la oportunidad de nos ofreciera de esa oportunidad de estudiar aquí y estudiamos en los Andes arrancamos y lógicamente al principio pues le puedo decir que fue muy fácil la universidad tuve compañeros genios, que lógicamente no lo dejaban a uno visualizar o sea, no era visible uno sin embargo, como data anecdótico, yo le puedo decir las matemáticas, se me hacían muy fáciles esa edad natural para mí eso era que sin embargo los genios que tenía yo ahí de compañeros consuelo Franky
+
+[06:43]
+De de de envíos allá de la Universidad que uno no fuera tan tan visible pero definitivamente más me llamó la atención la carrera más me entusiasmo.
+
+[06:56]
+Cuando empezamos ya a ver algo de programación confort ni hablar fue la goma total y sentí que ella tenía una herramienta de trabajo y ahí es cuando empieza la lucha con la vida y decirle a papá, yo me pago, no estamos hablando ya del tercer semestre. Dije no, yo ya no, yo creo que me puedo pagar y empecé con gestión hacer gestión y rápidamente tuve oportunidades, siendo la Universidad de los Andes una universidad diurna exigente estresante.
+
+[07:34]
+Pues me pude dar el lujo de trabajar y estudiar y tenía lo que hoy tenemos como tiempos abiertos de tal manera, que yo veía cuando trabajaba cuando cumplía cuando entregaba y lo mismo respondía por la Universidad fueron ocho semestres donde yo estuve trabajando todo el tiempo.
+
+[07:59]
+Como profesional a mí me contrato una empresa que llamaba Anás no sé si usted los jóvenes no van a saber qué es esa vaina, pero los que tenemos unos daños, eso eran los que representaban de participar en ese proceso y yo ya no era catalogado ingeniero allá y asistir a las reuniones asistir a las presentaciones hacía presentaciones viajaba con ellos y esa oportunidad, pues lógicamente va madurando lo a uno de lo que puede hacer en ese momento cuando yo termino empiezo a darme cuenta.
+
+[08:47]
+Que el mercado no era cosa de máquinas de porque si hacíamos buena gestión y vendíamos máquinas y como que el cliente compra y ahora qué no entonces le vendíamos un problema al cliente.
+
+[08:59]
+En ese momento ya decido sé que yo me voy a retirar y voy a competir con con los que hacen software, que era una base mínima y poco preparada tecnológicamente y empieza uno a dar resultados básicamente, pero ya se me graduó muy rápido. Bueno, hablemos un poquito. Echemos un reverso un poquito. Mira, fue un icono en esa época sí, la empresa donde estás trabajando como estudiante, verdad Mario yo empecé como estudiante estaba inclusive dirigiéndola Darío Meza y con Darío desde desde esa época salió trabajado en Darío manejaba, la línea de negocios de Juan de Anás y y la tecnología cuéntanos un poquito porque Juan fue.
+
+[09:59]
+Un poco líder al comienzo en redes tiene tipo de cosas, verdad? Cuando yo entré al pues es ahí, si usted me dice, se saltó la Universidad bueno, es que la Universidad la hice con trabajo también, pero cuando empiezo a trabajar, digamos, yo empecé a trabajar y hacerle competencia a los programadores de COBOL que eran las figuras máximas que habían con procesos de línea de balance de tecnologías de esas de línea balance y hacer ordenamiento de datos cosas de esas y lo contratan uno para hacer eso y uno hace eso sin embargo, cuando empieza a haber oportunidades como los microcomputadores que trajo Juan que habían otros ya, pero Juan revolucionó un poco el mercado porque pasó de el almacenamiento en cassette y yo ya empezó con la lía más chiquita que era.
+
+[10:59]
+Un disquete entonces ya tenía uno la posibilidad de almacenar y jugar con esos datos de manera más dinámica y ahí sí que se dio la gran irrupción y donde realmente se empezó a atrapar el mercado porque uno llegaba con muchas ideas con muchas formas de trabajar un poco diferentes a lo que se venía haciendo no es todo lo que el año más o menos.
+
+[11:26]
+Eso fue como en el año 80 no como en el año 75 más o menos 75 7 6.
+
+[12:07]
+Yo como dato anecdótico puedo decirles yo en alguna oportunidad vi a un señor de pelo blanco porque ya desde esa época compartiendo una clase que me lo iba a tropezar después como empresario que nos iba a apoyar y nos iba a ayudar a hacer la gestión comercial en este medio en una de esas costuras y sí, claro que que a Manuel lo lo distingue desde antes de conocer las costuras de programación.
+
+[12:38]
+para ustedes el hecho de importante sí es que programar en BASIC
+
+[12:52]
+Y con esas maquinitas tan chiquitas y empezaron a hacer magia, no?
+
+[12:56]
+Por supuesto, uno hace magia y las empresas por donde trabajé antes.
+
+[13:06]
+Cuando vieron lo que yo estaba haciendo me llamaron, pero no me llamaron solamente a que les trabajaran, me llamaron el dueño de eso me llamó y me dijo Mario hazte cargo de estos negocios que creo que tú eres capaz y me dejó un grupo de empresas.
+
+[13:24]
+Grupo de empresas como plastilina granitos y mármoles americana ampolletas y una financiera que se me olvida ya el nombre en fin fueron siete empresas que me dejó y que para que les resolviera porque yo tenía capacidades y lógicamente uno inocente y todo dice claro echémosle 24 horas me toca trabajar en esa época estoy hablando ya cuando empecé realmente ya estaba graduado y tenía tiempo pero realmente se lo dediqué mucho al salir adelante y a cumplir como con la responsabilidad que me había delegado un personaje personaje era un inglés que vino hizo un poco de patria aquí y después volvieron a llamarlo allá en Londres y se fue entonces me dijo Mario te encargo esto yo sé que tú puedes digamos que esa manera yo nací en la universidad con un pie adelante.
+
+[14:24]
+En Juan me dijo hace cargo de esto no me vendas más máquinas. Hazte cargo de su inmortal es eso y lógicamente ahí arranqué, digamos el concepto empresarial que tenía que hacer software que sirviera para una para otra para otra y el concepto de parametrización ambientación globalidad de software, ahí empezamos con el esquema. Estamos hablando de sistema operacionales primitivos, que hoy en día creo que ninguno de ustedes de pronto los conocidos CPM fue el autor de CPM yo tomé cursos con killer en Estados Unidos no y la historia del curiosa es que cuando cuando salió el IBM PC llamaron a kildal para que le diera el sistema operacional y qué es la que estaba muy importante, le dijo IBM que él no tenía tiempo porque ese jueves el montado en su avioneta deportiva y entonces IBM dijo no me
+
+[15:24]
+Llamar a ese señor y ese era de los mejores sistemas operacionales de la época corrían todas las máquinas entró en depresión que murió por depresión, es una historia de vida absolutamente triste, no? Porque ahí fue cuando llegó Bill Gates no y arrancó, pues con IBM él tiene razón, en esa época. Usábamos muchos CPM exactamente versión de sistema. Era MPM no queda el multiuso usuario que podíamos hacer en este tipo de máquinas y arranca, aparece IBM con su sistema operacional y lógicamente arranca uno a ver cómo hace migración duro, porque el software que uno tenía era hecho para esos ambientes y ya habíamos avanzado muchísimo como para que rápidamente tener que volver a migrar hacia esas nuevas tecnologías.
+
+[16:24]
+cosa que sucede permanentemente hoy en día uno hoy desarrolla algo y explota lo rápido porque en unos años ya eso está pasado obsoleto las tecnologías no son esas y entonces empieza ya no conseguir gente en fin en esa época a pesar de que estamos hablando de que de los años finales de los años 70 y la velocidad era muy muy impresionante Juan si yo creciendo y con su sistema así él llegó a tener equipos competitivos contra IBM grandes y lógicamente hay tu oportunidad de participar en varios proyectos y conocer mucho software realmente tenían mucho software y todo ese conocimiento que uno cogió realmente me sirvió para
+
+[17:23]
+Cuando arranco mi vida comercial poder aplicarlo y poder dar y vamos a atender a toda esta cantidad de clientes y yo sin experiencia empresarial sin experiencia laboral sin experiencia en este desarrollo del software masivo pude hacer siete empresas y con unos niveles de parametrización con unos niveles de flexibilización muy grandes y cómo fue un poco la vida universitaria, por ejemplo, ya hablaste con suero Franky nos hablaste de Darío Meza porque era una parte empresarial pero dentro de la universidad que qué puedes mencionar del colegas profesores de tu época a ver como les contaba desde el principio no tenía mucho tiempo de compartir y esto no me dejaron fue figurar mucho realmente esa consuelo era una una fenómeno.
+
+[18:23]
+Es lo mismo que Víctor Manuel toro, se movían los nombres, ya estaban lo persigue a uno y rápidamente todos esos que están hoy en día o que estuvieron ya, porque ya la mayoría también se compartió, me tocó compartir con una generación muy pila muy muy pila y Roberto Pardo te tocó de alguna manera Roberto parto, lo conocí ya en el mundo laboral profesores con los que trabajé mucho y trabajé y me tocó manejar su su rigor de notas.
+
+[19:13]
+Enrique Varela de Industria de las cuchillas máximas donde tengo la la anécdota de que bueno una cuchilla, el tipo era tremendo y lo mantenía uno estresado ya en la vida laboral de pronto me llamaron de consultorías con K
+
+[19:36]
+Que están interesados en el software de nómina y no sé qué que aún no atento a todo lo que fuera aventar listo. Bueno, entonces cita para mañana que nos reunimos acá aquí con el torre Enrique Varela bárbaro, seguramente le va a destruir a uno al programa que le falta le falta y lo haría mejor, no? Qué te pasa? Es un de una calidad espectacular tuvimos una relación de gestión comercial impresionante su equipo de trabajo grandísimo y donde él iba aterrizando con sus consultorías nos iba llevando en lo que pudiéramos nosotros la razón era simple. Es que escuchamos mucho. Escuchamos al cliente, lo escuchamos a él, así que proyectos enseguida y pero aportaba, no.
+
+[20:36]
+No era la figura temeraria que uno observaba en la en la universidad era oh, Señor un partner de negocios impresionante.
+
+[20:49]
+Y lógicamente que hay en adelante, tuvimos fue un gestor y la razón, básicamente como le digo servicios para para nosotros lo que él dijera así no nos lo pagarán, no importamos, se hagamos lo que eso es en beneficio del producto y siempre eran ideas y avanzar entonces ahí ahí meto la cuchara un poquito para que sepan quiénes van a ver esto Mario fue autor de los primeros programas de contabilidad y nómina especialmente en esos años los sistemas se llamaban nómina Charlie contabilidad Charlie y realmente era un ganador en ese sentido y creo que vivimos mucho porque en lógica yo usaba los programas de Mario y por ejemplo la Ley 50 la Ley 100 los cambios de leyes y legislaciones, yo había que cambiar inmediatamente el software y en ese sentido sí fue un ganador.
+
+[21:49]
+porque programas como la nómina en Colombia es un sistema de una complejidad increíble por eso habla de parametrización tanto seguramente no Mario
+
+[21:59]
+me estaba acordando, era de cuando arranca uno de esos procesos de comercialización, estoy hablando con saltos grandes y comercialización de los clientes uno llegaban del cliente y le ofrecía el producto y cuando venía la parte comercial valores, la gente se sorprendía cómo ustedes me van a cobrar todo eso por un disquito que me van a entregar que lo copian y ya lo tienen y lo copien por copiar, me van a cobrar eso no la lucha para
+
+[22:39]
+Transmitirle que eso no era solamente copiar un disco es la la adecuación la capacitación, el soporte el explicarles que no tenían gente preparada para manejar esto y que les iba a ayudar a que esto fuera de un proceso exitosos porque en esa época el computador asustado como hoy que los niños ya están familiarizados con un celular y no en esa época cuando le asignaban que tenían que ir a recibir capacitación se asustaba a la gente, no, pero como dato anecdótico es uno llegaba listo, cuánto vale tanta tanto? Entonces me van a cobrar por esto y si ustedes lo copian ya lo tienen hecho vendame una copia, eso es lo que le vendo una copia esto tiene un poco desarrollo.
+
+[23:39]
+Esas maromas le tocó me tocó sortear en el proceso de asesoría de deformar a los empleados de entrenarlos de asesorar en el proceso diferente a lo que hoy a lo que hoy hacemos no muy diferente porque realmente comprar el computador ellos pensaban, que ya resolvían el problema en sus empresas la parte administrativa, ya queda lista y hacerle entender que eso no era y después el esfuerzo y decir, pero eso no es, no era un computador el que te ayuda a resolver esto mire que eso no está costando, cuánto tiempo llevamos en esto cargando datos cargando información no acá, que se armara disciplina de información, cómo se mete no se puede meter a todo un proceso que nos tocó culturizar a la gente y si hubo mucha cuenta y esa es una de las razones por la que hoy en día hoy en día, nosotros no vendemos software. Nosotros vendemos.
+
+[24:39]
+Entonces a mí me llama al banco tal me dice necesito esto yo le digo listo, yo le cobro, no por el programa yo le cobro por el servicio y hacemos un contrato con un horizonte normalmente cuatro años y eso es lo que hoy en día y hacemos, no vendemos software por vender software como hacíamos en esa época cuando nosotros hacíamos software para replicar y hacer negocios túneles se acuerda de eso de palabrita que se regala eso por todas partes fuera por eso y en parte lo logramos porque realmente para esa época con la difusión con la ausencia de redes sociales y la publicidad digamos que era muy costosa no es esa la forma de hacer la la poca cultura en el en el tema, hacía que la la venta se dificultará mucho más sin embargo, nosotros.
+
+[25:38]
+Llegamos a colocar un volumen de contabilidad desde el orden de las 500 contabilidades ni del país y nómina creo que llegamos como a 180 y era realmente para mí son hoy en día, es que hay hoy compañías como sigo que tiene 4.000 clientes, sí me parece muy bien y lo han hecho y lo han hecho muy bien, no teníamos como ni tenía la visión comercial en fin, digamos que no era uno el genio del comercio, pero creo que el haber hecho 500 contabilidades sistemas de sistemas administrativos porque no era solo contabilidad sistemas administrativos que llaman hoy en día se llama ERP hace 500 clientes fue una labor titánica y de reconocimiento no con Manuel hicimos una gestión muy importante que con el acompañamiento inclu.
+
+[26:38]
+De Carvajal en fin, hicimos es una exitosa para mí visitamos ciudades íbamos y hacíamos conferencias en los seminarios normalmente nos están invitando para que contáramos experiencias, digamos que muy muy entretenida la vida la vida profesional ahí, vale? La pena afinar que el software de Carvajal a nivel nacional fue todo este digo nuestro software, el software, que trabajamos con Mario y otros colegas, no? O sea, Carvajal a todos nuestros software y de un día para otro tuvimos oficinas en todo el país que eran las oficinas de Carvajal esa esa fue una historia y hay otra anécdota que quiero quiero contar que es esta un colega, llegó con un programa de contabilidad de 40.000 pesos, no sé si te acuerdas Mario que fue un escándalo, no un programa gringo y de ahí nació una reunión en lógica de las casas de software de microcomputadores Ignacio industry.
+
+[27:38]
+Y Mario fue fue tú estuviste en la junta directiva de si no estoy mal y que fue el comienzo de esta asociación en realidad.
+
+[27:50]
+son experiencias que a nivel de a nivel de asociación porque en ese momento la piratería se estaba disparando entonces de pronto aparecía software en empresas donde uno no había vendido en esa época llega el fruto de los mismos colaboradores de uno o usuarios que aprendieron a marear software y entonces lo fueron negando y lo iban dejando donde sus clientes y eso tocó organizarnos y fue cuando apareció en tu soft en tus ojos nos ayudó a impulsar y a tratar de muchas cosas en el sector no empezar a pensar de que había que legislar alrededor del software de que debía tener ventajas tributarias ventajas de gestión en fin, digamos que se alcanzó a a
+
+[28:50]
+trabajar en eso y de pronto fue que apareció o nació.
+
+[29:08]
+Es básicamente desde el punto de vista de asociación, si tuvimos que asociarnos para controlar piratería y tratar de que los precios estuvieran en cierto nivel, no, que no fue la parte más crítica.
+
+[29:25]
+Y los derechos de autor que no existían en el tema del software que se trabajó con la Oficina de Derechos de Autor de Colombia y se adoptó la ley de la música, la misma legislación porque no existía ninguna legislación en ese sentido y tú tienes razón, era una época que se vendiera software más que asesoría en signos.
+
+[29:47]
+Pero pero para rescatar que me moría la de Manuela la claro que sí, los derechos de autor fue parte fundamental en la en la labor que tuvimos ayer ese en esa asociación, entonces nos hacía hicimos que cuando vendieron los software presentara que era certificado que era producto nacional, que estaba homologado en fin, fue una lucha a eso de eso fue una lucha grande, no muy memoria, Manuel definitivamente que toma que consume para la memoria no es que lo vivimos muchísimo porque tuvimos que crear la ley, pues tomar la ley que existente para defenderse no realmente el mercado de esa época de esa época, no? Y tú estuviste en la junta directiva de tus ojos y no estoy mal si en varios periodos estuve participando.
+
+[30:47]
+Yo realmente a las juntas y a pertenecer en esos en esos grupos de dirección trato de no participar mucho porque demanda mucho tiempo de uno si quiere hacer las cosas bien, no? Y realmente siempre vivía como acosado de hacer más hacer más hacer más cubrimiento o actualizar el software o esto dirigiendo consiguiendo gente, pues nosotros llegamos a tener una empresa de 52 empleados yo de manejar gente, no tenía ni idea el trato humano era terrible que les da a los empleados sin embargo, funcionamos y hicimos una visión a nivel nacional, teníamos un por ejemplo de las cosas importantes que hicimos crear nuestro nicho de desarrollo en una ciudad donde producía ingenieros de sistemas y no sabían qué hacer con ellos porque no había puestos de Trump usted ya abrí una oficina en Ibagué ellos reclute allá gente y los puse a trabajar.
+
+[31:47]
+Permanecía yendo y viniendo a Ibagué no que mi señora me decía que qué es la idea de Ibagué qué es lo que tiene por allá pero bueno dentro de las anega claro, allá tuvimos un equipo de siete ingenieros en desarrollo ellos posteriormente estuvieron acá y para orgullo de uno la mayoría de los que trabajaron conmigo en la parte de desarrollo en la parte de creación hoy en día son personas grandes o son empresarios del software también.
+
+[32:25]
+Eso para mí es gratificante y definitivamente creo que hice una buena tarea en el mercado al dejar gente que siguiera porque ya hoy si tengo algunas actividades porque mi hija está ahí detrás de su negocio, pero no, yo ya estoy, que no quiero trabajar más en esta vaina, porque es que no acaba de aprender uno algo cuando ya está en otro cuento me puse a estudiar, me puse a estudiar, me puse a estudiar redes neuronales y cada vez que abría alguna algún artículo alguna cosa ya lo que había visto ya no se usaba porque es que ahora la forma de hacer la optimización es a través de con otra cuestión a ver volvamos a aprender y cuando aprendí algo ya estaban en otro escenario. Esto no es para uno ya uno se demora mucho aprendiendo y ella no más ya tengo una sola utilización que utilizó unos muslitos de inteligencia.
+
+[33:25]
+Redes neuronales exactamente que utilizo para hacer unas optimizaciones en unos esquemas de inversiones que estoy desarrollando no que es lo último que voy a hacer en esa área tecnológica, pero ya no quiero aprender más esto va muy rápido demasiado en ese sentido Mario que acaba de mencionar y tus empleados y tu gente que puedes contarnos de los muchachos que contrataba que contratas porque todavía tú estás vigente, es decir sobre los nuevos ingenieros la juventud en el tema de los sistemas que cómo ves tú esa formación que ha habido de esos jóvenes a ver la experiencia nuestra es de una compañía que en ese momento y tiene que reaccionar y ver qué va a pasar por qué? Porque nosotros preparamos mucha gente la curva de aprendizaje por la curva de volver productivo un ingeniero hoy es de un
+
+[34:25]
+año
+
+[34:26]
+en ese año que tienen que hacer enseñarle en qué estamos trabajando? Con qué herramientas? Qué niveles de seguridad toca mantener en qué bases de datos? En qué nube? Qué características tiene cada uno de esos y para habilitarlos y que sean realmente productivos?
+
+[34:46]
+Un año el gran riesgo es que la afluencia de compañías del extranjero han hecho que se lo prepara un año y le trabajan seis meses cuando ya lo empiezan a llevar y lógicamente en uno que entrar en esquemas de nivelación salariales no hay forma de competir y hoy en día, sigues creciendo mucha posición es remotas 100 dólares y lógicamente para la gente le les atrae y no lo dudan un minuto en retirarse porque hay gente que realmente queda muy preparada y lo digamos, trabajamos tratamos de trabajar con lo que esté a línea porque además es nuestro gran cliente son los bancos el motivo por el cual nos toca estar alineados, básicamente principalmente.
+
+[35:46]
+Trabajamos con Bancolombia banco y Banco de Occidente no con el banco directamente, sino con la fiduciarias y con ellos hay que estar al día con ellos, hay que estar sincronizados porque los requerimientos de ellos es hacia las plataformas que ellos tienen o que atiendan necesidades de acuerdo a unos a una a unos protocolos que ya tienen definidos, entonces nos toca estar como muy al día la gente nos toca prepararlas muy bien y cuando están listos fácilmente se lo llevan.
+
+[36:23]
+Pues los buenos no también hay un grupo de ingenieros que uno encuentra y normalmente no son los perfiles que uno necesitaría para el arte de la programación o el arte del manejo de estas tecnologías tan dinámicas, pero sigues en programación es decir, sigues teniendo equipo de software de desarrollo, sí, claro, porque yo para atender mi cliente cuando yo digo, estoy dedicada asesoría, digamos que al servicio entonces yo le digo qué problema tiene yo lo resuelva entonces para Colombia me dice no es que vamos a sacar la misión de acciones de TV son 200.000 inversionistas en estado manejara, que salió nadie lo ha podido hacer y esto necesita un equipo más grande. Yo le resuelvo el problema así era y ahí con ese con ese negocio de TV entrega banco.
+
+[37:23]
+Se me abrió la puerta y después quería que le siguiera haciendo cosas así especiales cosas que no hay en el mercado decía por qué no me resuelve eso sí hay que hacer software, hay que ambientarlo y todo y lo que uno hace es uno responde por todo eso el manejo que a cargo de ellos, pero no está ahí eso su servicio de primera mano cosa que el banco no les hacía porque la Fiduciaria era ahí no les atendía pero no con la misma oportunidad con que uno lo hace ni le desarrollaba toda la el requerimiento que de pronto el cliente quería y ahí digamos que en base a eso es que hoy en día sobrevivimos y es servicio Servicio servicio Servicio lógicamente eso viene con una fase inicial de desarrollo de software, es así como nosotros ese éxito es que los como el de TV nos lanzó al éxito.
+
+[38:22]
+Democratización accionaria que hizo Bancolombia a la democratización accionaria que hizo sura la democratización accionaria que hizo Ecopetrol que ya no fueron 150.000 fueron 700.000 inversionistas no tuvo dos experiencias una con otro banco ya fue terrible por supuesto apenas iban a sacar la segunda emisión dijo Bancolombia y la Colombia dijo lo que quiero resaltar de todo esto es que el hacer una cosa bien.
+
+[39:01]
+eso desencadena muchos procesos muchos inmediatamente y eso nos llevó a escenarios como el caso de la de la cartera de Baloto 70.000 puestos de venta y esto lógicamente con software que nosotros lo manejamos cuando al otro estaba administrado por la multinacional ICT
+
+[39:23]
+ahorita está por una compañía nacional, no sé cómo cómo le esté yendo, cómo le están haciendo, pero digamos la experiencia de TV nos lanzó a una confianza con un cliente grande que los que están aquí saben lo que es entrar al mercado a Edgar sabe qué es entrar al mercado bancario es muy difícil y para entrar y más y como empleado como persona es difícil como compañía prestadores de servicio muchísimo más y digamos que eso es parte de lo que considero exitoso en nuestros procesos y eso se dio hace en los últimos 20 años ya casi llevamos 20 años trabajando con con Bancolombia bastante tiempo, no como siempre muy fieles al cliente y el cliente muy fiel con uno proyecto nuevos, creo que ni
+
+[40:23]
+Siquiera nos mandan a bien tres cotizaciones nada, eso vamos con Charry a la FIA a conceptos de ese tipo para uno es muy muy interesante y muy sabroso escucharlo claro, porque no es una lucha del mercado abierto, sino ya de mantener al cliente, básicamente no sí.
+
+[40:44]
+Es correcto en qué desarrollan hoy en día Mario qué plataformas? Qué tecnología?
+
+[40:51]
+La que tiene el banco, cómo dice la que tiene el banco supongo no digamos que el banco nos coloca algunas algunos protocolos, no? Y el esquemas de seguridad eso sí tienes todo un proceso es toda una una gestión que hay que estar permanentemente sobre ellos software, básicamente con bases de datos trabajados principalmente hora con el ciclo es lo que regularmente están usando en Colombia de trabajo principal es herramientas de trabajo todas las que circun inmediatamente y que en un momento pasamos por angular, por eso hay cualquier cantidad o lo que se esté imponiendo para darle cómo se dice facilidad de manejo al usuario se está se está metiendo estamos trabajando.
+
+[41:51]
+Servidores no estamos en la nube como tal a algunas razones allá técnicas que tenemos y trabajamos. Básicamente seis servidores en seis países diferentes la razón algo así como por seguridad tenemos uno que respalda al otro el otro respalda al otro y nivel de seguridad total es así que para cuando nos dan un trabajo, no tenemos problema de esto porque ya digamos, estamos como homologados por ellos mismos y cualquier auditoría con nosotros, pues realmente se pasa no digo que sea fácil, pero las observaciones son mínimas porque siempre estamos como muy pendientes de lo que está sucediendo y mejorando todos estos procesos.
+
+[42:43]
+Y estamos enfocados y estamos enfocados en en manejos, específicamente de carteras como una gran audiencia de alguna una una observación una una ampliación.
+
+[42:59]
+el programa de nómina
+
+[43:01]
+Digamos que hoy en día, nosotros ya no lo mantenemos. Ya lo mantiene una compañía a quien le vendimos todo ese software, que teníamos y hoy en día todavía me llaman a que les de servicios de nómina como para resaltar un poco de lo que es el ganar un nombre yo hoy en día lo llaman a pesar de que hay ofertas de servicios muchísimo más barata prefieren ir a la fija con uno y eso vuelve y le digo eso es parte de la satisfacción de uno que lo busquen los gerentes de pronto un hospital y le digo oiga, resuelva este problema aquí ya lo he intentado y no hacer un lío. Yo sé que usted me maneja eso y así ya dice está a cargo y él no, pero es que no le pagaba la cotización. Bueno, pásenme la está a cargo, no, eso es niveles de confianza, que le permite uno decir impresionante para digamos hacer un poco anecdótico toda esta gestión.
+
+[44:01]
+que todavía alcance uno a recoger frutos de
+
+[44:05]
+Eso una una cosa Mario como una gran audiencia van a ser las universidades que están formando jóvenes ingenieros a nivel nacional. Sí hay algún comentario que tú quisieras hacer es decir de de procesos en los cambios de formación o orientaciones o algo que creas que tú puedes comentar lo que mencionaba anteriormente no es posible que nuestra curva de aprende sí, la curva de aprendizaje nuevo sea muy muy larga.
+
+[44:43]
+Tengo tengo tuve un tengo tuve un empleado que un año completico no fue sino que leyéramos está a cargo de tal proyecto cuando se fue.
+
+[44:58]
+A de 150 millones nos costó ese chiste de prepararlo pagarlo y cuando ya estaba listo, se lo llevaron.
+
+[45:08]
+El mercado yo digo, sí, pues yo he vivido al mercado, pues de vez en cuando le la semana pasada y eso esa esas curvas de aprendizaje tan largas significa que la Universidad sí, enseña, pero los manda muy bisoños.
+
+[45:26]
+Como que y eso es así ve tan fácil que era hacer y mire cómo me enredo yo de facilito. Ah, o sea la parte de
+
+[45:38]
+yo pensaría que necesitamos como más que por lo menos hiciera las Antillas en varios segmentos o el lenguaje, que el pulsar un nuevo lenguaje, por ejemplo hoy en día un lenguaje, no? Pues es que el que no aprende en 15 días está mandado que si aísle porque esto rota mucho que yo ahora estoy trabajando, no importa mucho la circulación muy similar a esto ok miremos la diferencia, que pero que nos gastemos tanto tiempo mentalizando a la gente en la herramienta que uno, o sea, yo creo que se puede mejorar muchísimo y ahí en la parte de productividad y eso y ni hablemos y lo que viene, no? Yo no sé, me sorprendió.
+
+[46:38]
+la otra vez cuando el uniandino se mostraba los proyectos que están haciendo en inteligencia artificial y esto buenísimo, no sé qué tanta experiencia lo estén teniendo sobre esos sobre esos sectores y cuál sea la efectividad o qué tan eficaz está haciendo sus investigaciones, pero eso me pareció que era bueno que siendo estudiante ya estudiaron involucrado inmerso en esos procesos cosas que cuando yo salí mi sueño, si no es porque uno ya tiene una experiencia ahí, pero manejar negocios ni idea cuando visite un cliente porque tengo que contratar más gente entonces vamos a difundir en fin, aparte la parte práctica creo que puede la universidad puede ser a hacer algo más no tanto de enseñarle un lenguaje, no un lenguaje tiene que aprender a que eso es más debería tener un curso como en
+
+[47:38]
+Cuatro lenguajes y hacer proyectos en uno y repetirlo en el otro y repetirlo en el otro y porque es mejor uno que el otro no eso sí podía ayudar muchísimo hoy en día podríamos hablar de herramientas de inteligencia y por qué las redes neuronales son unos generadores de buen buenas formas de aprendizajes automáticos esa parte porque yo sigo pensando a lo viejito no que los lenguajes que se están dando las que tiene uno que aprender pero inteligencia artificial hay en mil de herramientas sobre el cual se va uno es tratar de unirse por la de las grandes por los que tengan algún respaldo tecnológico grande Google Microsoft no y y pero eso debería uno tener alguna práctica antes de y no poner al inversionista de pronto a trabajar sobre eso para gastar en eso cuando se podía avanzar.
+
+[48:38]
+mucho la universidad
+
+[48:40]
+Y yo creo que es el cambio de las nuevas tecnologías es si es un cuello de botella en la época, tú comenzaste a hablar de COBOL cobrar un lenguaje que tenía 12 instrucciones sí y manejaba hoy en día, se maneja el lenguaje se maneja la conexión con las redes se maneja con la conexión con las bases de datos relacionales con las bases de datos, no estructuradas es decir, hay una una red más complejo hoy en día, no claro y no depende, no sé, es ver qué opinan ese sentido depende del mercado, es la variedad de conocimientos que hay demasiada diversidad y entonces los gustos también entren no solamente porque además ahora tenemos más énfasis en el promedio antes no nos preocupamos por eso los caracteres eran.
+
+[49:40]
+caracteres y tenían que aceptarlos las pantallas verdes y las blancas y negras que aceptaban hoy en día el cliente exige más amigabilidad metodologías entonces entre otras
+
+[49:54]
+Hay mayor mayor más cosas que aprender, pero también formar al cliente, no la otra vez alguien nos mostró. Necesito un ingeniero que sepa de y la lista eran como dos páginas no tendrá que saber de todo entonces también hay un aspecto en las empresas, cómo está eso Mario es decir, las empresas grandes cuando contratan no sé si lo sepas tienen tiempo de formación de la gente o espera que lleguen sabias en todos.
+
+[50:28]
+No, no no no no no no, yo pienso que lo que buscan es gente que tenga algún tipo de expertise de experiencia que no les toque ese lo que le toca a uno que se señaló y prepararlos a navegar en este mundo, no. Y pero yo creo que las épocas van cambiando no cuando nosotros empezamos con la micro computación la gente asustada con el computador entonces le tocaba uno socializar el computador después socializar el software y después no le tenga miedo haga los errores pueden aparecer y entonces cómo se manejan, no? Y no me vaya a hacer a satanizar el proceso porque le falta un error no es todo un proceso hoy en día, no hoy en día le sale un error los esquemas de pruebas, cómo se hacen pruebas esto un arte, o sea no es solamente programar o la compañía de software toda una línea de de trabajo en lo nuestro es pruebas el testing.
+
+[51:28]
+Para nosotros fundamental precisamente para evitar errores en la operación, porque un banco no puede parar un banco, no tiene. Ah, no se salió un error, no, no su estado no lo podemos dar llame media hora en una hora no tiene que ser contigo. Sí, entonces hoy en día las el conocimiento las demandas están mucho más claras por parte del cliente y sabe en dónde está y para dónde puede ir y lo mismo también sabe que eso tiene unos grados dificultad y que tiene unos costos y y entre más grande y más madura sea la compañía más entiende eso no las compañías nuevas o medianas o pequeñas siempre se quedarán con el costo de lo que sea de tecnología sin embargo, terminan comprando lo porque lo necesitan sin tecnología hoy no se avanza.
+
+[52:22]
+Eso ya es un hecho. Bueno, ha sido pues muy interesante Mario y sigues vigente, yo te escucho muchas veces como un deseo de retirarse, pero no puedes sigue vigente en el tema de la empresa, no de todas maneras dirigiendo a pesar de que haya delegado el manejo de una empresa de todas maneras, uno lo puede soltar. Es que el el así sea solamente de la parte financiera si se pierde el control del dinero no hay como pagarles porque de todas maneras valen no cualquier persona, vale? Usted tiene que tener personas en desarrollo personas en atención servicio al cliente tiene que atender el desarrolladores de proyectos de ideas de esto la parte de cine es súper importante y tal vez.
+
+[53:22]
+Hoy en día de lo más clave es seguridad nosotros en seguridad cuando entramos al mar son anécdotas cuando nosotros entramos a trabajar con el banco y listo y así vamos una cantidad de problemas, pero nunca nos auditan en cuanto cómo lo hacíamos en donde nos hicieron una visita y lógicamente al día siguiente teníamos un memorial de este tamaño con la normatividad de seguridad a cumplir en los siguientes tres meses nos tocó meter un genio de la seguridad para que nos asegurara esas cuentas con el banco porque no podíamos dejarlas ahí al al vaivén, lógicamente hoy en día, por eso le digo nosotros estábamos por fuera y con todos los estándares que demanda el banco o los bancos y cualquier usuario que se haya asignar siempre tiene que ser autorizado como si nosotros.
+
+[54:22]
+Parte del banco si a una terminal porque el ingeniero se fue a trabajar desde Barranquilla y va a ser un trabajo el banco de que la autoriza para que le dé acceso a esa máquina, entonces todo está amarrado desde el punto de vista bancario, sí flexibilidad movilice, pero siempre bajo el control del banco ahí digamos que nos dieron nuestro lapto en seguridad que no le habíamos puesto cuidado en la vida y sí, estamos hablando es experto en el tema y ha logrado un cloro de colegas muy expertos en el tema de seguridad no, no sé si quieres comentar algo de Edgar aunque el entrevistador es Mario pero no hemos nunca hablado de este tema de manera tan formal tu experiencia en ese tema no? Pues es que de hecho los bancos han sido los más avanzados en los temas de seguridad yo.
+
+[55:22]
+Porque trabajé en el Banco de la República fuimos pioneros en muchos elementos y en el análisis y desarrollo y la preparación de los de las personas entre otras precisamente seguimos dando un diplomado en seguridad de la información Informática en la Universidad Piloto y años y la mayoría de los egresados, pues obviamente se ubican muy bien por las demandas que hoy en día son mayores, no? Y pues con mayor razón en el tema de la ciberseguridad a pesar de que haya y promulgamos el tema de la seguridad local, la política, pues nos vamos a preocupar más por la seguridad en la nube, las transacciones las interacciones el código en todo lo que les están exigiendo les hicieron después de la auditoría y muchos de nosotros yo entre otros trabajé en el empresa de
+
+[56:22]
+Auditoría y teníamos que aceptar este tipo de auditorías a bancos varios bancos y corríamos programas de seguridad de los software y damos y determinamos riesgo el vulnerabilidades, etcétera y claro, pues eran las recomendaciones para que los bancos que son los pioneros en esto, pues tengan mucha capacidad y seguridad imperfecciones garanticen y generen confianza, pues obviamente todas las características integridad de la seguridad de la información y claro, supongo que eso lo están ya manejando de manera ya en tu empresa realmente son los costos que nunca nosotros lo estimamos y lógicamente no se puede abandonar. Eso es continuo. Eso es permanente, o sea, hay un asesor, que está trabajando casi que me dio tiempo.
+
+[57:22]
+En atender todas las demandas de y este, cómo andan en esto cómo andan en esto y cómo están resolviendo esto en fin y experto en el tema, lógicamente.
+
+[57:36]
+Buenísimo es un tema es un tema, es un tema que hoy en día es primordial conmigo el banco no se puede dar el lujo de de yo como administrador como director o gestión de de un negocio salgo de vacaciones y de pronto. Yo le digo yo me llevo la máquina y si de pronto necesito hacer algo, no? Entonces tiene que autorizarlo y entonces lógicamente tenemos que colocarlo en el software como un usuario posible y en dónde va a estar con esto y siga paso uno pasos paso tres para que se pueda conectar. Eso es todo unos protocolos de de manejo grande grande, no? No digamos que no es fácil.
+
+[58:21]
+La importancia como gestores de de de de resultados de gestión cuando tenemos la experiencia con el banco nos va muy bien, nos visitan, nos dicen tienen cero en seguridad, qué vamos a hacer entonces el banco dice no los podemos perder y nosotros no podemos perder hermanos como de acuerdo y empezamos en una carrera hacia la normalización de zoom y impresionante sí, estoy hablando del Banco de Colombia no, o sea, sí, no más y todo mundo me pregunta de cómo llegó cómo hizo trabajando calidad calidad hay que hacerle, pero pero realmente esto de seguridad nos dieron nos sorprendió sin preparación para eso y nos tocó alinear rápidamente contratar gente que supiera nada que hacer.
+
+[59:16]
+Y bueno, tú sabes que así se ha trabajado en seguridad muchos años, no, en el tema de seguridad informática su revista permanentemente está en ese tema el evento de seguridad el Compex de Colombia cuando le hackearon el celular a Santos el gobierno inmediatamente algunos grupos. Nosotros estuvimos metidos ahí nacionales e internacionales encerrados en la presidencia, eso fue una época en ese rol para sacar un cóctel de seguridad que después se olvidó un poco y verifica acaban de crear una agencia, no sé si has oído Mario sobre eso agencia de ciberseguridad al lado de la Agencia Espacial el tema del espacio, digamos que definitivamente ese prerrequisito ya no solamente por los banco para todo el mundo y como todo el mundo se tiene que conectar si usted tiene un negocio, tiene que estar conectado con una con un
+
+[01:00:16]
+Un bolsillo una una plataforma de entregas de dinero manejo y eso es pura seguridad es más de la dificultad mayor es la seguridad que el mismo desarrollo que maneja eso es impresionante y así vamos y quién sabe qué otros niveles de proceso nos van a tocar o les va a tocar a la nueva generación es superar, no? Pero si a mí me ponen a un recorrido rápido como visto la devoluciones desde cuando empecé hasta hoy es impresionante y ya hoy un Ingeniero no es capaz de manejar dos sectores, dos áreas de la tecnología, no? O sea, con tanto los segmentos son tantas las opciones que usted tiene que formar equipos y ahí sí, ya las empresas no pueden ser como las que uno manejaba pequeñas.
+
+[01:01:16]
+30 empleados no, ella tiene que ser unos ejércitos porque tienen que manejar todas las áreas que se demandan y ya unos eso. Sí ya no le jaló ya hasta aquí llegué y no nomás ya suficiente gestión ok Mario no sé si hay algunas preguntas.
+
+[01:01:49]
+Bueno, apuntar que había una parte que él decía que que parecía muy importante y es que no importa cuando salga el ingeniero porque pues.
+
+[01:02:04]
+Siempre van a estar saliendo nuevas actualizaciones de programación e incluso lo que estamos aprendiendo ahorita pueda que no nos 345 años nada más esté sirviendo, pero lo más importante creo que es tener esa esas habilidades blandas que nos da la Universidad sobre todo como en la lógica de programación, esa vista sistémica el pensamiento holístico sobre todo el contexto que que puedan haber en las diferentes problemáticas que vayamos a enfrentar en el campo laboral es lo que nos nos marca nosotros no importa, cuál sea la el nuevo programa. El nuevo lenguaje no importa siempre sé que el ingeniero esté con esas habilidades, pues va a poder atacar cualquier problemática.
+
+[01:02:57]
+Yo creo que vi que que Mario Mario afirma mucho lo que tú siempre nos has dicho de que el ingeniero de sistema no es solo el que sabe programar. Tú has hablado bastante de un ingeniero holístico, o sea que que cubre mucho más que solamente el tema de la programación, yo creo que Mario nos ha mostrado eso el tema empresarial el tema de dirigir gente el tema de la velocidad con las nuevas tecnologías mire, cómo ellos descubren que la seguridad no eran buenos y el cliente se lo hace notar y descubren que eso es todo un nicho que no hayan pensado y que es costoso, creo que va muy bien con esa idea que tú siempre nos has mencionado Kevin de la formación del ingeniero, no como estudiante como lo es, pero con muy buen sentido de dice Mario como como determinan que sus software es mucho mejor, cómo
+
+[01:03:57]
+lo siguen prefiriendo, pues eso demuestra del conocimiento del sistema de información de los procesos de la calidad de análisis y comprensión, pues de todo el problema que va mucho más allá inclusive de los detalles que puedan tener los clientes que seguramente están implementados y el cliente por eso los prefiere.
+
+[01:04:22]
+Hay un término muy académico que que tiene la industria del software de Estados Unidos que en la palabra en inglés es transporte, es una es hasta dificilísimo describir el sentido de digno de confianza y digno de confianza, no solo el software son las personas y a mí me parece que los barrios ha descrito, no me parece porque lo conozco mucho, es ese digno de confianza donde ya el banco le dice bueno con lo que valga, hágale a esto porque tenemos un problema que resolver sabemos que usted lo puede resolver cualquiera que sea el problema. Creo que ese concepto de digno de confianza no solamente del software, sino de las personas, no? Y es un tema la calidad y no se dedica a tener todas las soluciones a la mano, no con un copy page no no, pero sí tener la capacidad de resolverlas esas son conclusiones Mario que nos quedan no, si quieres dar a una conclusión final Mario de esta conversación tuya para
+
+[01:05:22]
+Para ese rato hay muchas cosas que uno podía concluir y para cerrar el Este pero si a mí me dicen por qué fue exitoso en el mercado, que ya no quiero seguir ganando más éxito. Mire lo único que ya hacía era escuchar al cliente.
+
+[01:05:39]
+La prepotencia de pronto que de que se habla de un niantic que ni siquiera se enteraron que yo era un andino y el hecho es que yo lo escuchaba yo les ponía cuidado y lo único que le preguntaba para qué le sirve en donde la va a utilizar y qué facilidad eso porque lo quiere en fin trata de ver por qué era importante y eso se volvía importante dentro del objetivo de lo que se tenía que hacer y eso ha sido la visión que se ha tenido de la empresa.
+
+[01:06:21]
+Hoy en día además de eso le digo a a los empleados, hoy hay que aprender a hacer más con menos.
+
+[01:06:31]
+Por qué los costos son muy altos y entonces cada uno tiene que aprovechar a ser más, si queremos seguir siendo competitivos en el medio, no? Entonces no solamente es hacerlo bien y esto hay que aprender a saber aprender a producir más con menos.
+
+[01:06:52]
+O lo que se quiere decir que con lo mismo que yo gano tengo que producir mucho más, porque no me voy a llenar yo de de gente en este proceso porque el mercado está demandando y el mercado es competencia pura así como yo me encuentro una solución en más económicas también me encuentro otras más caras pero económicas se encuentra un montón y hay que aprender a competir y sin que se vuelva eso un gran problema, hay que saber hacer más con menos o con lo mismo es poco el lo que busco hoy en día y le trato de transmitir a la gente.
+
+[01:07:30]
+El caso es de pronto, nos demoramos mucho haciendo un proyecto y esto qué pasó? No? Es que aquí me sale algo de estar fallando la dirección está más diseñado, qué pasó? En dónde está? Si estaba mal, debía haber reaccionado antes, no ahoritica no empezamos como a buscar la fuente del problema para corregir el problema y no darle y darle y darle en parte, era lo que hacía uno antes, no esto lo sacó hoy, porque lo saco y se tiraba uno 48 horas, una semana completa en una bobada cuando si comparte el problema lo hace más entonces mi mensaje hoy es mi mensaje para la compañía, es hay que aprender a hacer más con menos. Trabajemos más. Traemos menos para producir mucho más y vamos a ver cómo aplicamos la fórmula dentro del punto de vista de la ingeniería.
+
+[01:08:30]
+Definitivamente creo que ya al igual que la medicina ya no podemos hablar de médicos y lo sabe todo para que tenga idea de todo, pero que sepa te toca especializarse en los diferentes sectores y son muchos creo que son muchas malas ramas del área de la tecnología que el área de la medicina dentro de dentro de esas está la medicina o no, pero también esto ya se se desbordó y se ya no podríamos hablar de la Ingeniería de Sistemas digamos que estar empezando a hablar de áreas muy específicas para poder especializarse y poder realmente ser muy productivos como tenemos que aprender a hacerlo.
+
+[01:09:11]
+Porque el país no es más dinámico, no es no ha avanzado más. Yo tuve la oportunidad hace que unos 30 años me invitaron de España a conocer el estado del arte que tenían allá y fui y lógicamente conocí un poco de cosas, vamos de tú a tú teníamos y estamos haciendo lo mismo hoy en día, yo le puedo asegurar que España tiene muchísimo más productos muchísimo más desarrollos para mostrar que los que tenemos en el país que pasó.
+
+[01:09:45]
+es lo que sí tenemos un rezago y creo que nos toca países como Argentina
+
+[01:09:55]
+tienen un gran desarrollo de tecnología a pesar de ser un país en el estado en que se encuentra, pero la tecnología uno de esos seminarios y hay un montón de oportunidad un montón de oferta y Argentina Chile viene en el mismo sentido, creo que en ese sentido si nos hace falta como el despertar un poco más a atender soluciones más globales y que nos permitan que nos sirvan no solamente aquí en el país, sino que sean exportables están dando, pero vamos a una velocidad menor creo que países como Venezuela iban muy bien, por ejemplo iban muy bien ahorita, pues ya todo se fueron, pero pero venían desarrollando nos quedamos ahí pienso que hay mucho por por
+
+[01:10:55]
+escudriñar y ver qué está pasando porque nos estamos quedando como lo mismo entonces hay que meternos en un poco más de espíritu innovador y creativo y sobre todo sobre cosas más globales no que sirvan que atiendan que resuelvan.
+
+[01:11:13]
+Yo estoy de salida ya, pero pero creo que hay mucho cuando me pongo a pensar, digo, uy, aquí hay oportunidad hace como 20 años y no te has sentido. Mira Mario el otro colega del grupo que Rafael García que no lo mencioné él no podía venir hoy sí, el Politécnico él maneja, la maratón de programación no es una maratón de estudiantes. Tú lo sabes que eso existe son 4000 universidades en el mundo y llegan 100 o 110 a la mundial Colombia siempre llega con dos equipos, por lo menos no Rafa ha hecho una una labor en el tema en el tema de de programación, no, pero yo creo que aquí ha sido el el mensaje del empresario Edgar cierto y Sandra el mensaje del empresario de software, que comienza desde la programación pura, porque es que
+
+[01:12:13]
+Lo que ha hecho Mario pero que ahorita tiene una mirada empresarial del cliente del escuchar al cliente de no andar con esas elegancias es que yo soy de tal universidad y es que yo tengo tales cosas, sino lo importante es el cliente, pero que ese es un mensaje muy importante y Colombia muy muy local, es que los argentinos los venezolanos bien lo dices el gran competidor de Colombia en la maratón de programación ha sido Venezuela ahorita, hay crisis, pero siempre ha sido y Chile bueno, entonces Colombia es muy local. Nosotros somos todavía muy locales hasta en el tema del idioma, no de que los estudiantes pues no, el inglés es una dificultad etcétera, ese es un mensaje importante y habla y hablaste tú de esas prácticas profesionales, no que quieren hacer los estudiantes en acercarlos a las empresas.
+
+[01:13:12]
+Bueno, Sandra tienes alguna preguntita, estás por ahí? No? No, señor, yo iba a ser una arquera enfocada, a qué consejo podríamos darle a los jóvenes desde toda esa experiencia y esa trayectoria.
+
+[01:13:28]
+Sería tan importante, pero la respondió todo en la última intervención no creo que ya abordamos procesos, correcto y por experiencias, muchas gracias, sí. Bueno, pues Mario eso era una enseñanza importantísima. Estás colaborando en un proyecto verdaderamente bonito grande importante que se está evolución de la ingeniería y obviamente después mirarás porque cada época tiene nuestros propios criterios, tuvimos un egresado joven que decía a mí ya nadie me enseña nada. Yo aprendo solo el autoestudio y nos dictó una charla suya tan buena que le dijimos y usted deberá ser profesor en una universidad y dije yo que les enseño si el estudiante aprende solo y no que les voy a enseñar, que no, que fue un comentario muy muy interesante u otro no dijo el mismo que decía y yo cuando era.
+
+[01:14:28]
+No me interesaba nada, me interesaba el aprender, es decir conceptos que cambian mucho de épocas remotas, no? Y obviamente tú has vivido estos cuarenta y pico de años no sé cuántos yo ya tengo 50 años de El graduado, papá, no tú tienes 40 y algo así son épocas que has pasado por una historia, no? Y a dónde has llegado? Ya quisiera uno Manuel que que eso fuera un ADN global, no esos esa estos jóvenes, pues esa filosofías y me parece súper interesante, pero si los pudiéramos inyectar a a todos los estudiantes de que la autogestión o el autoaprendizaje va a ser permanente y si lo amamos claro, porque es que hoy en día es permanente usted no acaba de estudiar algo cuando ya tiene que volver.
+
+[01:15:28]
+A mirar nuevas tecnologías y hay que sacarle provecho, eso es eso nos da la oportunidad.
+
+[01:15:37]
+De que no está todo perdido aquí como está saliendo todo nuevo veamos a ver, vamos a ver cómo nos enfocan o cómo nos enfocamos a las nuevas generaciones para que podamos competir adelante y no ir como al rezago cargándolas al que va adelante, sino poder adelantarnos la inteligencia artificial nos está abriendo muchas puertas, pero aquí parece que la usamos mucho para la parte especulativa, no un resultado mire y es que usted este discurso lo vio lo que usted parte hace hermano el que tiene eso mire este discurso perfecto, bonito. Sabe qué significa mire la personalidad ese señor cosas de eso que nos permitan avanzar que es identificar cosas a poder concluir cosas saber que de pronto le están a uno diciendo mentiras por qué? Porque estoy eso y no tuvo que pasar por por ningún voy a llamar detector de mentiras o eso hacia allá.
+
+[01:16:37]
+Hacia allá va el desarrollo y hay mucho por hacer, creo que lo importante es que podamos enfocar o ayudar a la juventud a los jóvenes a decir mire aquí hay un problemita, quién quiere medirse de esto es incierto el resultado pueda que sea bueno, pueda que sea malo, pero que se le quiere a mí esos retos son los que nos toca empezar a afrontar si queremos tomar algún liderazgo en ese en esta carrera es impresionante yo estoy preocupado que ya a esa velocidad no prendo yo ya no prendo no es imposible, no muy bien, muy bien, sí, hay mucha especulación. Estoy de acuerdo con estos temas también Mario yo creo que ha sido ya vamos cerrando, pero ha sido muy interesante oírte hay una foto que toma Beatriz
+
+[01:17:28]
+sí, sí, yo estoy aquí entonces abre la cámara y Kevin también y Sandra
+
+[01:17:39]
+Ahí va la foto entonces a ver.
+
+[01:17:52]
+Listo, yo ya la tomé listo, ahí queda para la para la historia Mario gracias, seguimos de lo que fue la historia y de lo que considero que puede ser importante para la juventud en este sector tecnológico.

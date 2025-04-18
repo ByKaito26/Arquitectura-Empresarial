@@ -1,0 +1,686 @@
+[00:00]
+Y vamos a pedirle fechas no es muy importante. Bueno, cuando estamos con germanes corcia, uno de los pioneros de la de la computación en Colombia de la Ingeniería de Sistemas de los primeros ingenieros que cómo vamos a ver yo no voy a presentarlo porque el mismo va a contarnos su historia que está hoy en México y que tiene una trayectoria que ha influido enormemente para la Ingeniería de Sistemas colombiana como vamos a ir escuchándolo y observando, no? Entonces con Germán nos va a contar como siempre lo hacemos en estas charlas desde su experiencia en el colegio la universidad, ya estamos hablando con él de ese mecanismo y es una charla informal, pero muy profunda no de de la persona y de la ingeniería de sistemas en su visión siendo uno de los pioneros y veteranos de Colombia en este tema como vamos a ver.
+
+[01:00]
+entonces el mal, pues ahí estamos con Sandra con Beatriz con Edgar con Rafa como siempre para los que ven estos vídeos después y vamos a comenzar oyendo a Germán sobre esa historia agradecerle que que esté con nosotros Germán pues es una gran alegría estar de vuelta con los amigos en Colombia y
+
+[01:24]
+Rápido, puedo decir la Pulga donde picó? Necesitamos el volumen, está un poquito bajito el volumen.
+
+[01:34]
+A ver, a veces pasan así está mejor mejor mejor, vale? Estaba comentando que
+
+[01:44]
+Arrancó temprano porque un poquito inquieto me había metido en la primaria hacer el el presidente del Círculo Literario y por esas casualidades, yo era el secretario de mi papá me ayudó y desde muy pequeñito, estaba todavía en la escuela primaria, ya sabía redactar actas de reunión acuerdos y cosas de ese estilo que me sirvió toda mi vida y por estar en esas nos invitaron a una cosa que se llamó átomos para la paz que fueron una exhibición que recorría los países de América porque pues estuvimos en el tiempo de la guerra fría con aquella amenaza de el conflicto en Cuba y todas estas cosas y la amenaza nuclear entonces átomos para la paz llegó con una carpa.
+
+[02:44]
+gigante que parecía un gusano y adentro acontecieron dos prodigios
+
+[02:51]
+el primero fue que me regalaron un una copia en papel del tablero de instrumentos de la cápsula Géminis
+
+[03:04]
+ustedes no se pueden imaginar cuántos viajes interplanetarios hice?
+
+[03:14]
+Con ese papel no era increíble, me llevó a que hoy todavía estoy metido en el tema de constelaciones satelitales inteligentes y que aprenden entre sí, con estar lindo y todas las demás.
+
+[03:30]
+Y la otra cosa que aconteció fue.
+
+[03:34]
+Que empezaron a hablar conmigo de un tema carísimo, estaba en primaria la teoría cuántica.
+
+[03:43]
+Eso me sirvió porque al terminar la primaria me dan el premio de Ciencias con un con un trabajito que ahora me asombra a decir cómo me metí yo en eso no entiendo todavía, pero pero que se llamaba la teoría corpuscular de la luz y que abordaba desde muy temprano el problemita que había entre que decían que la luz era de corpúsculos que era fotones.
+
+[04:12]
+Y que la otra teoría que decía que la luz era ondas.
+
+[04:19]
+Y entonces tenía el problema de que si ponías una tabla con un agujero la luz penetraba cuando haces en el agua ese experimento el agua entra y genera ondas y llena todo el recinto, pero cuando era luz penetra por el agujero y se va en unas directo hasta el otro lado de Nueva York ese problema era fascinante entonces me metí en esos temas y terminé la primaria.
+
+[04:51]
+Y una tía me consiguió un cupo en un colegio que se llamó el Colegio Simón Rodríguez Colegio Distrital para hijos de educadores.
+
+[05:04]
+Qué cosa fue aquella perdí todas las materias todas en rojo todas, pero aprendí a colarme en los buses a robar en el día y en el vida que eran los que había en aquella época sólo por el hecho de que veíamos los guardas robarse una cosilla y sin que te detectaran ese era la gracia, no? Entonces éramos malos tipos malos.
+
+[05:33]
+Como perdí todas las materias que cambiar de colegio y me llevaron al colegio al bachillerato de la Universidad de Gran Colombia ahí acontecieron otro par de plugins.
+
+[05:48]
+Bachillerato normal todas esas cosas era Pilo me tenía tenía unos amigos que trabajaban muy fuerte las matemáticas y todo eso a mí me costaba trabajo. Entonces me pegué con ellos hicimos un muy buen trabajo un equipo muy chévere, pero tuvimos al final del bachillerato dos profesores David Luna de física.
+
+[06:15]
+Que nos enseñó a amar la física. Éramos 60, ya saben bachillerato dos secciones A y B de 30 estudiantes cada uno de los 60 40 nos metimos a ingeniería.
+
+[06:31]
+Este cuate hizo algo prodigioso. Dije tipos que odiabamos las matemáticas y nos gustaba estar de vagos por ahí todas esas cosas como nos hizo esa conversión en los docentes que son capaces de hacer esas cosas, no y había otro aún mejor el profesor de trigonometría.
+
+[06:56]
+Que nos desafiaba las calificaciones en Villar entren a su gallo.
+
+[07:07]
+Y la calificación de todo el curso se las juego en una partida, si yo gano todos sacan uno con cinco.
+
+[07:16]
+Si ustedes me ganan sacan 45, no? Porque el 5 solamente para mí.
+
+[07:22]
+Entonces entrenamos y ya como locos y cosas y luego nos llevó.
+
+[07:29]
+Él daba clases en un colegio femenino aquella época en los colegios estaban separados y ese nos llevó niñas del colegio donde él daba clases. Estaban en el mismo nivel y daba la misma clase de trigonometría. La llevó al colegio, fue una un acontecimiento, o sea, todo el mundo en el colegio asomado viendo que las niñas llegaban a competir contra nosotros.
+
+[07:55]
+Por suerte ganamos, entonces nos fue bien y todas esas cosas y luego nos llevó a nosotros a competir contra ellas.
+
+[08:06]
+Al final éramos unas hachas en trigonometría.
+
+[08:12]
+yo todavía tengo lo iba a traer y se me olvidó un vasito que acabo de comprar que tiene una base triangular y el círculo arriba y eso genera una superficie de transición que después allá en la universidad, uno empezaba a ver esos fundamentos y nos enseñó a amar esas cosas a entenderlas cosas, que después se volvieron muy complicadas, entonces quedaron fundadas las bases para que
+
+[08:41]
+Yo tenía una inclinación y en mis exámenes vocacionales, salió que me inclinación era más hacia las ciencias humanas y económicas.
+
+[08:50]
+Y mi padre y mi familia venían de por ahí, entonces este era un invento raro de esto de ingeniería y cosas cosas me empezó a gustar. Le tenía terror, a que íbamos a tener que tomar muchas matemáticas y todo eso, pero bueno, nos fuimos avanzando total.
+
+[09:09]
+Me seguían gustando los viajes espaciales, me enteraba mucho buscaba la manera de saber que estaba pasando con los viajes espaciales y me gustaba mucho, me iba de conejillo a la Biblioteca Luis Ángel Arango y pasaba horas leyendo sobre esos temas raros de la teoría cuántica de la teoría corpuscular de la luz y todas estas cosas me fascinaba un poquito el tema era un poco raro pero pero eso rápidamente me dio la idea de que yo lo que quería estudiar era algo que tal vez en Colombia no se daba y empecé a buscar me encontré que lo que más me gustaría hacer era estudiar Ingeniería Nuclear eso no existía en Colombia solo había dos universidades en Estados Unidos que la ofrecían y no había manera de conseguir una beca, entonces no teníamos recursos para echarme la carrera ya, así que bueno ni modo.
+
+[10:09]
+Pensé en Australia y Australia resultó ser un tema muy interesante porque cuando le dije a mi padre me dijo que quise estudiar en Australia y espero que tú lo puedas hacer para que cumplas mis sueños. Bueno, no hubo lana tampoco, así que bueno la es mexicano porque ya les dijimos que estoy ahora viviendo en México entonces se me van a salir de pronto algunas algunos mexicanismos por acá el caso es que nos fuimos a buscar en la Universidad Nacional estaba empezando también una carrera de Ingeniería administrativa, que luego derivó en Ingeniería de Sistemas
+
+[10:52]
+Pero y había una en la universidad los Andes que era muy lejana para mí, o sea dice no, pues este va a costar mucho dinero no va a tener, pues me presenté fui a la universidad hablé allá y me dijeron que podemos dar un cuarto de venta consigue de otra media en el ICEX y con eso arranca si te damos un crédito.
+
+[11:16]
+Fue muy raro eso en la universidad y hacían tres a los años presenté el examen de admisión y pasó algo prodigioso por estar metido leyendo tanta cosa y todo eso ya manejaba bastante inglés entonces en el examen de clasificación de inglés de los Andes yo salí sobrado me metieron a literatura inglesa porque a todos los demás lo metían al inglés uno a inglés dos y era una sufridora espantosa, yo veía todos mis compañeros y era hablaban igual que el Departamento de Matemáticas del muro de las lamentaciones.
+
+[11:51]
+cuando empezamos en Ingeniería en Sistemas
+
+[11:56]
+Empezaron a surgir algunas cosas raras. Yo era un espécimen raro para la Ingeniería de Sistemas mucho las computadoras pueden imaginar ustedes el drama un tipo que está estudiando una carrera para manejar computadora y no le gustan las computadoras entonces elijo.
+
+[12:18]
+Y me sentía un poco con esa sensación de que se reforzó porque mi primer trabajo publicado en una revista formal y todas esas cosas me lo publicó la Facultad de Filosofía y Letras de la Universidad de los Andes en el Departamento de Español porque hice un estudio de Gabriel García Márquez y toda la generación y como estaba aprendiendo a programar entonces me fue muy fácil armar las relaciones entre las familias las generaciones y todo eso y a la gente de la Facultad de Filosofía y Letras que se habían leído n veces las novelas de García Márquez esto fue luz en la caverna, o sea, para ellos fue una maravilla donde publicaron y todas esas cosas al rato me metí en las clases de Economía no sabía.
+
+[13:18]
+y resulte medio bien dotado como muy superdotado para economías a qué cinco en el final de la materia ella requete vienen todos los exámenes y profesor me puso de asistente fue fantástico era una materia dura de la Universidad de Los Ángeles economía, no era perita en dulce entonces para mí no había secretos con la elasticidad de la demanda todas esas cosas y la macroeconomía y la microeconomía de gran dominio de esas cosas y ahí conocí a Enrique que se acababa de ganar un proyecto de la Fundación Rockefeller para estudiar el pensamiento de los grandes ejecutivos a lo largo de los años en un programa parecido a este le iban preguntando a la gente usted qué opinaba sobre este problema cuando tenía esta edad y cuando tenía esta otra y cuando tenía esta otra entonces tabula vamos ahí conocí al doctor Eduardo Aldana que era uno de
+
+[14:18]
+Pocos expertos en Colombia que sabía manejar una cosa que había llegado y que podía funcionar en la universidad los Andes que era el programa SPSS de estadísticas entonces con eso empezamos a trabajar y la Fundación Rockefeller me publicó un estudio fue mi primera publicación internacional todavía estaba por ahí en tercer año de la universidad en los Andes interesante porque lo menciono porque yo me sentía en esa ambivalencia entre esas partes que tienen que ver con la economía con la política con el humanismo no y la dureza de la ingeniería del sistema que era tan altamente exigente bueno se decía en nuestra época no sé si eso continuará así que uno podía hacer ingeniería de sistemas y había estudia.
+
+[15:18]
+la licencia de de la Licenciatura de Matemáticas
+
+[15:27]
+Y yo tenía un coco, llegué hasta el tercer año y debía una materia que se llamaba álgebra por alguna razón, me retiré seis veces de esa manera llegué hasta el final del grado, no recuerdo y no podría quedar registrado aquí como hice para llegar hasta el final de la carrera debiendo un prerrequisito de tercer año que era álgebra abstracta, pero negocia, con el departamento matemáticas no puedo decir con quién pero dije, mire ya empecé a ver la carrera de circuitos lógicos, que era fascinante la daba Rodrigo querubín.
+
+[16:11]
+Esplendorosa era una materia que te disparaba la mente él sobre todo dando la clase era era una una delicia, esa realmente una agasajo ir a clase con Rodrigo entonces yo entendía mucho de cómo era que funcionaban las computadoras y no me explicaba por qué diablos todo eso se basaba en álgebra abstracta y los tipos del Departamento de Matemáticas no entendían esa materia, para qué servía para nosotros entonces yo llegué al Departamento de Matemáticas y dije a ver.
+
+[16:45]
+Qué pasa si yo les hago un súper escrito de todos estos temas del Álgebra Abstracta cómo se usan en las computadoras digo va te ponemos nada más raspando la materia si haces el escrito lo hice y estaba yo sacando recordarán ustedes sus publicaciones se hacían en un alcoholímetro, no que eran unas páginas azules salidas era morado. Entonces estaba yo sacando mis morados ahí y llegó un profesor.
+
+[17:23]
+que había invitado al Departamento de Matemáticas el doctor Moore
+
+[17:28]
+sí, lo había invitado el doctor sorgo que era el director del departamento en ese momento y
+
+[17:35]
+Él vio es escrito, ya hablaba español poquito, pero hablaba vio el título de mi de mi escrito y toda esa cosa y lo he hecho un ojo y me dijo me regalas una copia así al otro día me mandaron llamar del Departamento de Matemáticas y me dijo es impresionante lo que usted ha escrito. Yo estoy escribiendo un libro sobre teoría de reticulados y quiero que usted me ayuden. Entonces aquí que está ahora el estudiante. Dice estudiante pollito terminé metido en teoría de reticulados con este cuarto, o sea, algebra, abstracta y todas esas cosas eran tachuela con lo que terminé metido por por esa por esa coincidencia extraordinaria pasado eso yo creo que tal vez haciendo un poquito de memoria.
+
+[18:30]
+Otra cosa que pasó allí que influyó muchísimo el rumbo que uno toma había como muchas ventanas por donde mirar la Ingeniería de Sistemas tenía ese arte la universidad en aquel momento de que te daba muchos tipos de posibles, salidas, no? Entonces uno iba armando sus últimas materias en trayectoria. Entonces yo me metí con Ernesto Lleras en el curso de cibernética.
+
+[18:56]
+Aquello fue un Big Bang una explosión la clase de Ernesto y eras él no se sentó una silla, la volteaba se sentaba encima del pupitre nos juntaba alrededor en un círculo y empezaba a hablar de todas aquellas teorías y entonces poco a poco fuimos entendiendo todos nosotros que claro el tema era que el primitivismo de las máquinas obligado los lenguajes de programación, pero ese no era el problema el problema eran los sistemas de información el comportamiento de los sistemas los sistemas abiertos los sistemas cerrados Raúl tres estabilidad el feedback montones de cosas que empezamos a entender recuerda una frase que desde esa época la van a ser 50 años son 49 años en esa época.
+
+[19:56]
+Ellos había una frase ahí en en el estudio Stratford que decía la ciencia de la cibernética, se aplica.
+
+[20:06]
+Al gobierno y la noción de gobierno está presente en todos los organismos.
+
+[20:15]
+Todas las máquinas y en todas las construcciones de los seres humanos, los partidos políticos las academias entonces empezamos a entender que feedback no era un asunto de la teoría de Chano de los de los ruidos y en los canales y todas esas cosas, sino que eso era importante en los partidos políticos a mí me sonó eso supremamente importante en todas las construcciones humanas total, que me empecé a meter allí y olvidé mencionar ahora que estoy recordando perdón va a haber un poquito de desorden North pero pero ahora que me acuerdo en el primer año.
+
+[20:57]
+El terror a las matemáticas se acrecentó porque yo venía de ser había concursado en el había estado ahí en el concurso de mejores bachilleres de Colombia un concurso que se llamaba de concurso de yo venía de ser un súper estudiante en el bachillerato de la Universidad Gran Colombia sí metido en estos temas como les dije amantes de la física y de la trigonometría y de cosas de ese estilo y en el primer semestre en la en el primer examen de matemáticas que presenté me tocó con el doctor Castro y saqué 1.2.
+
+[21:38]
+En todo el bachillerato no había visto tal cosa excepto ese año en que perdí todas las materias y me sorprendió mucho.
+
+[21:47]
+Todos los días a las 7 de la mañana a Edgar Páez y a mí nos pasaba el doctor Castro al tablero, pues que creen que eso creó una amistad indisoluble que dura hasta ahora un amor entre nosotros Edgar y yo estudiábamos matemáticas como locos cinco o seis horas diarias mucho, estudiábamos mucho cuando el examen final lo hizo el departamento no el profesor entonces nosotros sacamos cinco en el examen y pasamos la materia entonces eso me conecto con una red de amigos que éramos muy Pilo muy estudiosos, estudiábamos mucho entonces ahí estaba Edgar para y luego conectamos con Alberto con Arturo Villarreal que era que fue en aquel momento el promedio más alto de la Universidad de los Andes y fue imbatible hasta que una sobrinita mía le batió el récord del promedio más alto de la Universidad no se ahora.
+
+[22:47]
+Cómo está eso? Quién lo lleva pero pero en aquel momento era Hijo tú eres amigo del tipo que tiene el promedio más alto de la Universidad los
+
+[22:56]
+El caso es que para no extender mucho allí creo que la universidad en aquel momento y yo creo que lo sigue siendo estableció unos niveles muy altos de calidad en los profesores.
+
+[23:14]
+Porque lo que la mayoría de nosotros recuerda son profesores excepcionalmente buenos. Yo todavía puedo repetir de memoria, aunque hacen las 50 años pero pero pero aparte de Rodrigo querubín, que sus clases eran fantásticas. Había unas clases espectaculares, por ejemplo, tal vez ustedes recuerden a doctor sad, que daba una clase de diseño en una clase de imaginación, hoy sería un taller esplendoroso de aprender innovación en aquel momento se llamaba diseño, pero era un reto a la mente, nos ponían los problemas más increíbles recuerdo mi primer ejercicio fue diseñar una ballesta.
+
+[23:59]
+Entonces, tú llegas ahí con un poco esa idea de ingeniería de sistema y no tienes que diseñar una ballesta dice cómo es eso a estudiar ballesta y estudiar tensión y estudiar cosas y tal era increíble y luego nos decía. Bueno, sí, pero ahora sin cuerdas, qué? Y a ver, entonces era muy muy muy muy muy interesante, había había profesores como Isaac por ejemplo en la parte ingeniería eléctrica y todas esas cosas era importantísimo profesor Garcés también eran en teoría sistemas y todas estas cosas, o sea que había cosas impresionantes, pero yo no dejaba el tema que me hacía cosquillas y un día muy presionado por porque era muy dura.
+
+[24:59]
+Yo hoy pienso que casi sería imposible de tener la disciplina que nosotros tuvimos que aportar para salir adelante con esas asignaturas era muy duras muy exigentes todos los textos estaban en inglés sepas o no dale con un diccionario y a pedalear y muchas cosas no las entendíamos porque estaban hechas para el ambiente educativo norteamericano donde se daban por sentadas y eso no lo teníamos etcétera, pero fatigado con eso el consejero que uno tenía me dijo, sabes que métete de urgencia a cursos de Humanidades para que aflojes un poquito entonces el próximo semestre métete a eso pero el consejo me lo dijo tarde cuando me fui a escribir ya no había cursos de las que ofrecían en la Facultad o los que la Facultad de Ingeniería permitía en Humanidades así que me metí a ciencia política.
+
+[25:58]
+Y eso fue otro prodigio porque en ese departamento también tenían profesores extraordinarios, entonces a mí me tocaron profesores como Rafael Rivas posada el doctor en estrofa, que después fue rector de la Universidad Externado en sistemas y que le hizo entender a todo el mundo la gran diferencia entre la teoría del conflicto y la teoría del marco estructural y entonces empezabas a entender el papel de la tecnología en la sociedad y cómo la visto desde diferentes marcos, políticos tenía significados en pactos diferentes, entonces era supremamente importante porque mencionó eso porque fue muy útil y al terminar a mí me pareció.
+
+[26:58]
+publique varios trabajos ahí en la facultad de de Ciencias Políticas y al terminar me decía, no podemos creer que un pollo de Ingeniero haya venido y haya salido con las bajas calificaciones de la Facultad de Ciencias Políticas entonces generó una visión de la ingeniería de sistemas desde el punto de vista de su impacto social, no la he dejado de esos tiempos, o sea, después de estar en una clase de Rafael Rivas posada o de estos grandes no era posible pensar que el volumen otra vez no era posible pensar en la en la en la ingeniería de sistemas solita, no como perdón me cambia aquí un poco a ver si mejora cómo manejar el
+
+[27:58]
+Tema del impacto de la Ingeniería de Sistemas en la sociedad empecé a trabajar en eso aún no terminábamos la carrera.
+
+[28:06]
+Y empecé con esos temas entonces me colaba en las clases, no, aunque no estuviera escrito y no pudiera registrarme formalmente y una vez me colé en una en un seminario externo de alto nivel que se celebraba en una sala anexa, la rectoría de la Universidad el conferencista era el capitán Alberto Ospina que había sido fundador de conciencias y fue a ver una clase sobre polos de desarrollo acompañado del doctor Patiño Roselli que era autor de la teoría yo salí impactado fascinado la manera de cambiar el desarrollo de una nación y dice no es parejo no es una tela, si tú creas polos de desarrollo luego los conectas y cada pueblo de desarrollo, atrae a su alrededor, sí, inversiones empleos y capacidades para la gente estábamos todavía.
+
+[29:07]
+Habilidades compañeros de viaje y trabajaban un poco en las computadoras programando y yo estaba metido en los temas de polos de desarrollo y conocer al capitán Ospina fue muy importante porque por las preguntas que yo le hice me dijo usted debe ir a hablar con el director de sistemas de información de conciencias.
+
+[29:34]
+Y me mandó entonces yo fui porque la puerta oiga, que el capitán los pinale empezamos a hablar y en conciencia se empecé a aprender el tema de que la teoría general de sistemas que yo sabía tenía una aplicación importantísima para conectar los sistemas de información científica del país muy en mis primeros días en los primeros artículos que publicaba.
+
+[30:09]
+Ese director me enseñó que él publicaba una cosita que llamaba la agenda la la boleta parroquial y la boleta parroquial era que todas las semanas él ponía en una hojita, una página por doblada por la mitad entonces generaba cuatro carillas. Y en las cuatro carillas, hacia un resumen de todo lo que va a pasar un importante en la semana y todas las semanas salía una entonces yo seguí con esa disciplina en todos mis trabajos. Siempre hago la hojita parroquial y la hojita parroquial en aquel momento empezaba a hablar de que decía yo cosas como esta la calidad de la investigación científica de una nación es directamente proporcional a la calidad de la información con la que se alimenta.
+
+[31:04]
+y tenemos muy malos sistemas de información en Colombia luego no es esperable que tengamos buena investigación científica, hay un diferencial Delta que lo crea el científico, pero si el científico está mal alimentado, pues la investigación final no será tan buena a pesar de su capacidad o conocimiento entonces creamos en conciencias después una cosa que se llamó el Sistema Nacional de Información
+
+[31:33]
+y ahí empezamos un poco a desarrollar esos temas regreso, un salto atrás un momentito porque esa conexión con conciencia fue prodigiosa por qué porque en Ingeniería de Sistemas las tesis tenían que ver con temas o de programación o de desarrollo de problemas empresariales o cosas de ese estilo entonces la mía se volvió una tesis rarísima porque yo escogí primero que todo el único que entendía de todas estas cosas y me escuchaba que era el doctor Eduardo Aldana que era el rector de la Universidad
+
+[32:08]
+De mis compañeros me decían loco, no te vas a graduar nunca porque a quién se le ocurre escoger al rector de la Universidad como director de su tesis primero te va a reventar y segundo no tiene tiempo de atenderte, así que vas a durar años en graduarte el doctor Aldana hizo un muy buen trabajo, me dio muchísimo en todos esos temas luego apareció.
+
+[32:36]
+el doctor Ernesto Lleras que se ofreció a ser codirector de la tesis porque el doctor Aldana evidentemente no tenía tiempo de estar leyendo mis escritos y todo eso entonces entre el doctor Aldana Eduardo Aldana y Ernesto dirigieron mi trabajo pero no era una tesis de programación ni de computadoras lo que yo creé fue un sistema de información para la industria de alimentos que se montó y se estableció se creó en el Instituto de Investigaciones Tecnológicas que en aquella época existía ahí en el final de la Universidad Nacional en la 30 con la 53 ahí estaba la construcción del Instituto de Investigación de tecnológicas sostenido por la OEA conciencia si un grupo de empresarios se creó el sistema de información sobre Tecnología de Alimentos
+
+[33:31]
+Y eso generó mi tesis de grado.
+
+[33:35]
+Que me dio mucho gusto, porque pues yo veía las tesis de mis amigos que eran tesis dirigidas a ser guardadas en la universidad y no iba a pasar nada más con eso en cambio, la mía era una tesis que yo podía ir a visitar mi tesis porque habían construido el Centro de Información en el instituto y estaba conectándose en red con otros no teníamos telecomunicaciones ni nada de esas cosas para el tema, pero eso me conecto con conciencias, los que creen que pasó.
+
+[34:12]
+Con ciencias, me invitó a colaborar con ellos, pero antes yo me gradué normal como todos los estudiantes años 75, ya vamos el año entrante para los 50 años y al terminar.
+
+[34:28]
+Pasaron dos cosas como estaba conectado con el doctor Ernesto hileras, él era muy amigo de Guillermo Perry que lo habían nombrado en esos días Director de Sistemas de la administración de impuestos.
+
+[34:44]
+Y acabaron de comprar una computadora, por eso lo habían llevado a él para allá necesitaban una persona de gran capacidad para manejar un tema como ese habían comprado una supercomputadora para para estas para esta administración, probablemente era una de las más grandes de Colombia y entonces el jaló un poco, le pidió a Ernesto que es jalar a unos estudiantes de los Andes para que le ayudaran allá en el en el Ministerio de Hacienda ahí vi una de las primeras metáforas que me ha seguido toda mi vida y la uso todavía como ejemplo ahora que estamos con estos temas de inteligencia artificial y todas esas cosas estábamos trabajando pollo de ingeniería en unas mesitas ahí en la noche había que trabajar de noche, por supuesto para eso lleva los estudiantes sí, y estábamos estar de esa noche trabajando allí y de pronto vimos una doña.
+
+[35:40]
+Gordita bajita que llegó con un banquito se paró en el banquito y le echó una botella completa de Coca-Cola de las grandes adentro de la encima de las rejillas de la computadora.
+
+[35:54]
+Cuando vimos aquellos, salimos corriendo y Señor es que esta cosa nos va a quitar el empleo.
+
+[36:01]
+Nunca olvidaré que eso dijo no, entonces fue muy interesante porque ahora que estamos con los temas de inteligencia artificial y te dicen es que la inteligencia artificial te va a quitar el empleo. Sí, recurro a esa metáfora de decir hombre, lo que terminó pasando ahí en la administración de impuestos es que tuvieron que triplicar el personal no solamente no les quitó el impuesto, sino que se tuvieron que crear montones de puestos nuevos para ser funcionar la computadora. Se pagaba solo decía que decía el doctor Perry porque los recaudos habían aumentado de una manera tan especial que pagaba todo el crecimiento y la compra las máquinas y todas estas cosas de manera, que eso fue muy interesante. Yo creo que esto es como todo este episodio que viene desde la formación.
+
+[37:01]
+En el colegio y luego ese periodo esplendoroso de la Universidad sí, este tengo que decir honesto en decir que no disfruté mucho el campus de la universidad, pero pero porque no voy a hacer un estudio, voy a hacer un repasito y de pronto acabas de hacer, pues un recorrido muy interesante para personas como como yo que que en esa época estábamos en la universidad, me encuentro con varias cosas interesantes que fuiste del no sé cómo lo llamaste el centro literario en el colegio. Sí, pues yo ahí me tocó ser presidente del Centro literario en La Salle sí y estudiábamos en castellano antiguo. El Mío Cid pero era en épocas donde había mucho el tema de la lectura en esos colegios muy interesante.
+
+[38:01]
+Satelital yo estoy trabajando con los satélites de la Unión Europea del proyecto, Copérnico y trabajando en algoritmos con ese tema actualmente, pues estoy en eso me gustó mucho lo del billar, porque en La Salle tenemos 21 Villares mira, eso es paralelos tan raros, no? Y el profesor de geometría era el que nos acompañaba a jugar billar, no? Y también era una fiebre enorme con el millar, no? Que pero pero había una ciencia, no en el juego no era solamente aquel juego.
+
+[38:33]
+Todavía tengo el libro de Samuelson de economía, pero tengo aquí al lado mío y mantequilla, en eso estamos todavía no lo he terminado de leer, pero todavía lo tengo y lo miro porque nos movió unas cosas que de verdad como tú dices que no, no sabíamos.
+
+[38:53]
+Eduardo Aldana fue mi presidente de tesis también sobre el transporte trabaje ese desarrollo con SPSS con Guillermo Perry mira estas coincidencias no en unos modelos de econometría sí ya graduado no, pero es que son paralelo lo que yo estoy aquí como mencionando Edgar Páez fue mi vecino de María Teresa que era la presidenta de sol micro system, te acuerdas que tuviera una cosa muy interesante ella era brillantísima ejecutiva él también profesional pero él se dedicó a cuidar a la familia.
+
+[39:31]
+En una época para que María Teresa surgiera, tú te acuerdas esa historia él vive aquí a la casa siguiente? Mira y pues también grandes amigos profesor SAP que jugaba fútbol. Él era de civil, me acuerdo mucho, no como no Ernesto en la historia de la computación, que te conté, está Ernesto va a mandar esos vídeos que están mencionando personas que bueno en resumen eso que estás contando muestra mucho la orientación suya hasta el concepto de la sociedad de la política en el buen sentido de la información para hacer un país mejor, no? Porque seguramente nos vas a contar algunas cosas de sobre ese tema, pero pero veo muy bien muy bien, pues muy interesante el recorrido porque parte de lo que nosotros hemos visto acá con el grupo es cómo se forma un proyecto de vida, no?
+
+[40:27]
+Como personas como Roberto Pardo trabaja en lo que trabaja hoy en día como etcétera, etcétera todos los que hemos entrevistado tal manera, que es una secuencia muy interesante, no sé si alguno tiene tiene alguna pregunta en este momento, aunque vamos a seguir claro, hermano, muchas gracias, yo tengo varias, además que además que es que es muy grata la historia y agradezco la narración porque porque igual creo que todos encontramos identificaciones en en distintos momentos.
+
+[41:11]
+Ahí ahí en el proceso del estudiante unos intereses declarados y además algunas algunas cosas que parecen azar, pero pues sabemos que no lo son y entonces ese ese joven que permanezca que está en la Universidad de los Andes y de pronto pasa por el Departamento de Matemáticas casi que de manera casual, yo lo digo de manera casual, porque pues yo soy residente ahí, entonces uno siempre resulta pasando de manera casual. Y en algún momento algo lo enamora.
+
+[41:49]
+Algo lo enamora y se queda en en esos sitios donde donde después va encontrando sus caminos.
+
+[42:03]
+Hacia dónde voy? Voy hacia la distancia que de alguna manera toma el joven Escocia de del resto de sus compañeros, sí, toma alguna distancia por motivos, además académicos.
+
+[42:26]
+Entonces eso me imagino que que alteró el proceso para ubicarme en tiempo solamente para eso ustedes tienen más más esa referencia.
+
+[42:43]
+Pedí enfoque que si no puedes ubicar un poquito en años en fechas uno, pero además y hacia allá es hacia donde iba mi reflexión nos puedes contar un poco de cómo es esa distancia.
+
+[42:58]
+Porque igual el estudiante también tiene que tomar los cursos de programación los cálculos y ahí tiene que tener una relación distinta con sus compañeros.
+
+[43:10]
+Pero sin embargo, el que está aquí.
+
+[43:13]
+Con unos intereses está en estos otros cursos.
+
+[43:17]
+Cómo es esa esa relación con el resto de la comunidad de estudiantes porque en últimas esos son los que resultan haciendo también los compañeros en todo el entorno y el desarrollo profesional.
+
+[43:33]
+Pues es muy interesante. Yo creo que esto va como en las series, no? Entonces vamos a ver, entremos en un episodio ahora que que yo creo que tiene para mí para mi vida profesional una enorme significación y se basa en los antecedentes que tú estás comentando fui encontrando espacios en donde claro, había que desarrollar programas y toda clase de cosas, pero los temas míos eran distintos entonces yo por ejemplo, empecé a hacer cuando había que hacer los primeros cursos de programación de Portra ni cosas de ese estilo mis trabajos eran.
+
+[44:13]
+En el área de Biomedicina yo empezaba ya hablar de esos temas porque yo había oído hablar en casa al doctor Hugo Génesis ver que era director de departamento genética ya en la universidad los Andes y él hablaba de las dos fila y fue la primera vez que yo vi a hablar de ingeniería genética, no se me borró y entonces cuando teníamos que hacer temas de programación, pues uno podía escoger, o sea, qué problema resolver y entonces yo me metía en cosas rarísimas, o sea, muy muy muy especiales, no? Y y ya les digo que con este tema de los sistemas de información, pero poco a poco sí, fui en forma muy intencional saliéndome hacia el tema de los sistemas de información, o sea, para mí el tema era que la carrera de Ingeniería de Sistemas y que dedicarse a programar máquinas era un espacio.
+
+[45:13]
+Que la verdadera importancia del tema era entender los sistemas aprender a diseñarlos entender las entradas y las salidas de la información entender las perturbaciones y los procesos difíciles de manejar y que a eso metido en el ser humano y las comunidades y las empresas y las organizaciones y los ministerios y todas estas cosas todavía le faltaba una enorme cantidad de trabajo de corrección, entonces desde muy temprano entendí que el milagro no iban a hacer las computadoras, sino que el milagro iban a hacer los diseños de los sistemas sigue siendo hoy en día y en estos días que tengo que dar conferencias explicando los temas de Inteligencia Artificial recordaba yo que con las tarjetitas perforadas de la KP 29.
+
+[46:14]
+programamos en Fortnite y una de las cosas que con algunos de los compañeros empezamos a medio jugar un poquito era un trabajo para aprender Fortran pero podíamos programar entonces le enseñamos a a jugar a gato lo llaman aquí en México cómo se llama en Colombia
+
+[46:37]
+Triki le enseñamos a jugar friki al 36044 de la Universidad y entonces poco a poco fuimos entendiendo jugando con la computadora lo que hoy son los principios de Inteligencia Artificial entonces uso mucho esa metáfora para explicarle a la gente que lo que está pasando con la inteligencia artificial dijera fácil cuando tú haces tu primera jugada en triqui, pones una bolita en algún lugar del Triki y la computadora contestada pero a la computadora le damos dado la instrucción de que guardara las jugadas y entonces luego le dijimos en una sub rutina que guardara las jugadas que conducían a ganar y luego en otra todas las que conducían a perder en diferentes categorías y estados de la jugada total que fuimos aprendiendo el manejo de información.
+
+[47:30]
+Y era lógico lo que nos pasó que luego de que la computadora mientras más entrenamiento recibía porque jugabamos más. Sí mayor a cierta tasa de aciertos tenía hasta el punto en que no le pudimos volver a ganar porque ya empezábamos a ver sin sin entender muy bien honestamente, pero empezábamos a ver patrones de comportamiento, entonces cuando le decíamos a la computadora que escogiera la jugada que conducían a ganar, pues encontraba patrones de comportamiento y entonces escogía una jugada óptima con la cual vencía, a los contrincantes entonces casi siempre la computadora ganaba y lo máximo que sacábamos era empates y menciono esto porque tiene que ver con esta cosa, que yo quería comentar que me parece supremamente importante y como este episodio que viene ahora entonces saliendo de la Universidad
+
+[48:30]
+como les decía mi primer encargo fue ahí en la Administración de Hacienda pero luego una ingeniera brillantísima que dirigía el departamento de sistemas del Ministerio de Obras me llamó y fui a trabajar como como Analista de Sistemas allá.
+
+[48:47]
+Este era rudo porque había que no, el Ministerio no tenía computadora. Entonces había que llevar las tarjetas y los programas a la computadora de Lincol a que quedaba por ahí al frente en el Centro Administrativo Nacional y ese tipo de procesos este me puso muy en contacto con otra realidad y este ahí aprendí, por ejemplo que la nómina del sindicato de los trabajadores del sindicato del Ministerio incluían hasta cinco concubinas y sus familias negociaciones del sindicato, entonces cuando uno con su lógica de nómina dice nombre de la persona cónyuge y ta ta ta y las prestaciones y todas esas en México me dice, oye, este no es así son cinco con sus familias y no sé qué más y bueno.
+
+[49:47]
+Entonces cosas, entonces se perdían había que ir a llevar los cheques hasta las obras y entonces que hacen el trabajador con un cheque por haber metido en la mitad ahí entendían. Esto no puede ser así, o sea cómo les estamos mandando cheques impresos. Yo voy orgulloso por las a las 3 de la mañana. Mandaban una camioneta del ministerio que me recogiera la casa porque ya iban a salir los cheques y yo tenía que estar presente junto con un guarda porque eran impresos en cosas de seguridad.
+
+[50:14]
+Y empezaban a salir todos esos cheques y yo decía y luego agarrar una camioneta ir hasta el distrito de obras, en no sé dónde me tocó una vez en Quebrada Blanca o que se le había sufrido aquellas problemas y todas esas cosas, entonces yo decía este tipo era con un cheque. Estamos haciendo un mal antes nos recibían los cheques y todas esas cosas, entonces había cosas muy interesantes que yo veía y dice esto hay que arreglarlo esto no puede seguir siendo así, así que mucho de todos esos cosas cambian y estaba metido en esos rollos cuando me llamaron de conciencias.
+
+[50:50]
+Que el director que yo había conocido, se retiraba se iba a un cargo en la OEA y me ofrecían a mí la posición, entonces inmediatamente acepté sin preguntar cuándo puedo empezar y si yo ya empecé señor, yo ya estoy trabajando aquí, o sea, lo siguiente que estoy oyendo de usted es estoy oyendo a mi jefe, le dio risa. Me dijo a ver, te voy a hacer un examen. Te voy a dar estos libros que son de política científica, léete pasado mañana y te hago un examen. Te voy a hacer muchas preguntas duras sobre todo eso, entonces nos imaginan, cómo estoy yo toda la política científica desde Mario Bunge todo todo todo todo todo a estas cosas y encontrábamos mi viejo problema, que yo había identificado desde el principio que era que la investigación científica estaba muy mal alimentada en Colombia por la información y no y yo soñaba con conectar porque habíamos visto esas cosas.
+
+[51:50]
+Universidad dice pero por qué la Biblioteca de la Universidad Nacional no está conectada con la de la manga no había conexiones no no había tecnología para eso no pero simplemente dice no se hablan entonces creamos un proyecto que lo promovía la OEA que se llamó el proyecto de préstamo interbibliotecario los conseguí fondos de las Naciones Unidas ahí empecé la primera vez a negociar fondos financieros y creamos un programa de préstamos entre bibliotecarios en donde unas camionetas de las Naciones Unidas administradas por conciencias iban de biblioteca en biblioteca dejando y recibiendo libros para que el usuario de una biblioteca en el Seat en Palmira o de la Universidad de los Andes si pudiera leer un libro que no estaba en los Andes pero que estaba en la en la Nacional entonces ese era el mecanismo era complejo.
+
+[52:50]
+Papeles una cosa difícil y ya empezábamos a pensar en esto ese capítulo lo cierro años más tarde María Consuelo Frankie compañera de la universidad programó una cosa que llamamos el formato común de comunicaciones que se volvió un estándar internacional Mundial por la UNESCO la consultoría la hizo para conciencias María Consuelo y el resultado de esa consultoría lo mandamos a París y se generó un estándar internacional para intercambio de referencias bibliográficas entre todas las bibliotecas del mundo, o sea no fue trivial fue una cosa interesante entonces eso dio origen a una cosa que se llamó el Sistema Nacional de Información el SN que tenía varios subsistemas el subsistema de todas las bibliotecas y centros de documentación de energía de Agricultura de salud de educación teníamos siete subsistemas y en los subsistemas intentábamos conectar.
+
+[53:50]
+Entre sí todas estas cosas era lógico que apareciera las primeras necesidades de tele comunicar unos con otros entonces estuve en los primeros experimentos de usar módems y las pequeñas intentos de comunicación entre universidades para intercambiar referencias bibliográficas de los libros.
+
+[54:12]
+Y eso en conciencias fue tomando fuerza el Sistema Nacional de Información se volvió muy importante y empezó la administración y aquí viene un punto que a mí me parece que fue muy muy importante para la vida de de esta profesión y de estos temas en Colombia no solamente la profesión como tal, pero la vida de estos temas y es que casi como relatando el episodio digo yo miren con la mano apoyada ahí en el pincel de la puerta.
+
+[54:46]
+Hablaba.
+
+[54:51]
+Político y escritor francés muy famoso amigo del presidente de aquella época que estaba empezando su mandato el doctor Belisario Betancourt a mí no me caía muy bien porque en aquella época Colombia era muy sencilla la política o eres conservadora liberal y yo no quería ser conservador entonces tampoco era tan liberal pero pero este no era tan amigo del presidente pero empezamos a hacer esa ese tema de que la llegada de la informática era importante le dijo al presidente esto tengo grabado a fuego.
+
+[55:31]
+Presidente para qué correr a subirse en el último vagón de un tren que ya está llegando a su destino que es la industrialización en vez de tomar asiento de primera en un tren que está al partir la informática cambie la dirección de las inversiones del país.
+
+[55:57]
+Eso dicho ahí una sala en la Presidencia de la República la oficina del presidente.
+
+[56:05]
+Podría no haber tenido ninguna repercusión, pero que cree en el presidente que era poeta y literato entendió perfecto y tomó acción.
+
+[56:18]
+Acciones muy importantes en aquel momento la primera creo el Consejo Nacional de Recursos Humanos e informática ojo el orden de las palabras fuimos muy cuidadosos en eso yo estaba de asesor porque estaba en conciencias entonces era asesor de Ciencia y Tecnología en la presidencia.
+
+[56:36]
+Se creó el pero antes de ver qué resultó déjenme continuar con este episodio de lo que pasó. Eso es Servan striver. Le dijo eso servano SCRA había escrito dos libros de profecías uno era el libro que se llamó Desafío Mundial de mundial y otro que se llamaba el desafío americano se pronosticaron allí las crisis del petróleo los cambios en la tecnología los grandes cataclismos en las economías que habrían aquella época todo eso, así que en realidad me parece que que eso fue muy interesante y él le dijo al presidente vengo acompañado de dos amigos.
+
+[57:27]
+Uno que lo presentó como Nicolás negro, ponte dice esto es un loquito que trabaja conmigo en París en una cosa que se llama el centro mundial de la informática.
+
+[57:41]
+Y este igual que yo que el tema de la informática va a darle la vuelta al mundo y que este vamos a tener que tomar acciones económicas y educativas muy trascendentales para los próximos años entonces él está trabajando en eso sí hablan de una cosa rara estos señores que la llaman ellos inteligencia artificial.
+
+[58:12]
+Esto fue el 22 de noviembre de 1982 en la presencia.
+
+[58:21]
+Y él presentó a un cuate que venía con él de nombre.
+
+[58:31]
+Hoy considerado uno de los verdaderos padres de la inteligencia artificial, él era el director del programa de inteligencia artificial de Lema Haití en aquel momento y comparto con todos los que nos seguirán en esta grabación cosas prodigiosas, que yo escuché esa tarde.
+
+[58:52]
+dijo negro Ponte
+
+[58:57]
+Presidente nos estamos moviendo de una civilización.
+
+[59:04]
+basada en átomos a una civilización basada en bits y la economía está pasando de ser una economía basada en la extracción de materias primas del territorio a una economía basada en la en el aprovechamiento de la materia gris residente en personas
+
+[59:31]
+Para que me entienda, nos movemos de átomos a bits y la economía se está moviendo del territorio a la mente.
+
+[59:40]
+Donde poner el dinero cuando es escaso.
+
+[59:46]
+prodigioso
+
+[59:48]
+sea si yo hubiera sido jefe de Estado igual me quedo en aquel momento con la cosa muy clara, hay una manito encendida, no sé si fui yo es la tuya.
+
+[01:00:04]
+Y él dijo, pero yo no estoy loco, el que es loco es este que está aquí al lado mío, que es cimor y escuché dos cosas muchas no, pero tenemos tiempo limitado, pero esto es importante.
+
+[01:00:20]
+Dijo paper.
+
+[01:00:24]
+el problema principal con la tecnología
+
+[01:00:27]
+radica en él aprendizaje
+
+[01:00:32]
+Y para que me entiendan el aprendizaje solo acontece por curiosidad, exploración y descubrimiento.
+
+[01:00:45]
+Los sistemas educativos están diseñados para que lo primero que hacen es darle la respuesta al individuo y luego calificarse la si es correcto o no e inhiben todo el proceso que realmente conduce al aprender que es la exploración el descubrimiento y la curiosidad.
+
+[01:01:04]
+pues dice es una enfermedad planetaria que nos costará mucho erradicar y se será peor que muchas como estaba en Colombia dijo mencionó a la malaria porque conocí a Juan Manuel
+
+[01:01:21]
+Dijo también cosas como esta.
+
+[01:01:25]
+dijo miren los niños deben aprender lenguajes de programación
+
+[01:01:33]
+de la misma manera que aprenden lenguajes naturales porque en 30 años van a vivir escenarios dominados por la inteligencia artificial era casi inentendible esta frase en 1982 hoy todos entendemos lo que nos pasó.
+
+[01:01:54]
+Y si se hubiera hecho caso seríamos una potencia mundial porque la mayoría de todas las civilizaciones desde esa época hasta acá hubiese aprendido inteligencia artificial en la escuela, por qué él había diseñado un lenguaje de programación basado en que se llamó lobo que era el primer lenguaje de inteligencia artificial para niños allá lo llevamos a Colombia y entonces él proponía que los niños lo que tenían era que aprender a pensar y que la mejor manera de aprender a pensar era darle instrucciones a un objeto que no sabía nada entonces que en vez de repetir la lección del maestro, el niño, lo que tenía que hacer era enseñarle a un objeto y con pocos comandos 4 6 6 comandos arriba abajo, izquierda, derecha y giros.
+
+[01:02:54]
+A la izquierda o derecha los niños aprendían a programar objetos a darles instrucciones y aprendían a pensar muy importante esto muy importante porque todavía tenemos tiempo, pero hay que hacer la tarea que la tenemos dibujada desde el año 82.
+
+[01:03:12]
+Pasó como en los circos.
+
+[01:03:16]
+Ese esa misión de de sí se llevó al enano, entonces yo me fui con las patas de cierto, fue muy interesante cada hora cada minuto cada cosa era supremamente interesante tendría muchas frases que compartir con ustedes de cosas magníficas que pensaban estos amigos en aquella época años después ellos crearon el Medialab en myt muy famoso y este y años después este hoy se les reconoce que fueron los que entendieron para dónde iba el tema de la inteligencia artificial y que sería un tema dominante en toda la humanidad.
+
+[01:04:01]
+En serio, esto no fue jugando ahí les regreso a donde estábamos el presidente entendió y empezó a tomar acciones tomamos cinco grandes muchas pero cinco que yo recuerdo muy bien acciones importantes la primera les había dicho la creación del Consejo Nacional de Recursos Humanos informática designó al expresidente Pastrana para dirigir ese consejo llamó muchos ministros y ex ministros y altas autoridades se van skriver, le dijo, pon la gente de más alto nivel del país aquí porque esto es otro país el que vas a construir.
+
+[01:04:41]
+Creamos la Secretaría de Informática de la Presidencia de la República de mi puño y letra es no tenía acuérdense que las máquinas en aquella época eran de esferita.
+
+[01:04:54]
+y entonces siempre estaban ocupadas así que a mano escribimos el decreto que crea la Secretaría de Informática de la Presidencia de la República
+
+[01:05:04]
+La dirigió tal vez Manuel se acuerde, se me escapó el nombre en este momento antes el rector de la Universidad EAFIT de Medellín se lo trajo el presidente porque era amigo de él y lo trajo como presidente de la de la de la de la de la Secretaría de informática se crearon los centros públicos de acceso a informática en las cámaras de comercio que tenían oficinas muy centrales en todas las ciudades del país y en el primer piso donde la gente hacía los trámites había mucho tráfico de personas. Entonces ahí pusimos los centros de acceso a la informática, nos conseguimos una donación de Apple y que acababan de salir, o sea, era una donación de no máquinas viejas, sino de recién salidas y algunas IBMs peces y con eso en el caso de Bogotá le enseñamos a los gamines.
+
+[01:05:59]
+A no robarse las máquinas sino a cuidarlas y luego con un truco del doctor paper que ya lo había aplicado del en Boston les enseñó a los gamines a decir, oiga, la encargada se enfermó y no puede venir hoy, tú puedes dar la clase y atender a los que van a llegar y entonces los gamines daban la clase de cómo usar las computadoras en las cámaras de comercio, creamos también un programa de becas. Yo mismo fui a ver las principales embajadas de de los principales gobiernos en Colombia para pedirles becas sobre informática ingeniería de sistemas y todas estas cosas para el desarrollo de este tema en el país se arruinó un poco todo este asunto porque poco tiempo después apareció la toma del Palacio de Justicia y la tragedia del volcán nevado de
+
+[01:06:59]
+Gobierno la prioridad el presidente este descompuso mucho todo eso aún así.
+
+[01:07:10]
+me propusieron ser el director del secretario de informática apoyó esa moción Ernesto Lleras que le pidieron una recomendación de la Presidencia pero yo acababa de aceptar, o sea me gané un premio internacional que de Ciencias de la International develo de Canadá y entonces, pues no era cambiable esa distinción de recibir un premio por dos años ir a trabajar con la persona que más sabía en el mundo sobre los temas que yo estaba investigando y y ponerse a trabajar en la Presidencia de la República entonces no pude aceptar vino Jorge Philips hizo un trabajo magnífico una persona con un profundísimo conocimiento del tema y del sector y eso si yo
+
+[01:08:10]
+ese rumbo que luego dio paso años después a cosas como la agenda nacional digital o la agenda de conectividad y varios tipos de procesos nacionales relacionados con estos temas tal vez sea interesante mencionar que
+
+[01:08:31]
+Terminando la la Universidad surgió algo también muy prodigioso.
+
+[01:08:38]
+estaba aquí acompañándonos Beatriz Caicedo de Asís pero yo escribí de puño y letra de nuevo porque no teníamos acceso con la manito los estatutos para crear Asís
+
+[01:08:54]
+la Asociación Colombiana de Ingenieros de Sistemas
+
+[01:08:58]
+Fue muy interesante porque era una combinación de grandes de los egresados que menciona Manuel que nos habían antecedido a nosotros, que ya eran ingenieros graduados y estaban desempeñando posiciones altísimas y un equipo de estudiantes patojos como nosotros que arrastrándome a la Biblioteca Luis Ángel Arango que fue donde se creó donde se firmaron los estatutos y estaban pidiendo una cuota de algo una vacuna cuota de ingreso una cosa así yo ese día no tenía un peso y me dio vergüenza ir a pedir dinero. Entonces me devolví, no, pero no importa.
+
+[01:09:57]
+De ahí en adelante, pasaron cosas extraordinarias con Azis yo terminé en un grupo que se llama la historia de la computación latinoamericana a raíz del programa de la historia de la computación colombiana y cosas que lo llaman a uno le dio varias veces Brasil Argentina de presentado historias de nosotros y el año pasado intentamos iniciamos a escribir la historia de Asís te recomiendo lo que tú puedas compartirme sí, porque seguramente el otro año vamos a ir al evento internacional y queremos presentar la historia de así. Yo la tengo escrita. Ya nos reunimos con con los que iniciaron tú contigo, no estabas, pero te dejo esa recomendación porque es muy importante y es muy valiosa. Yo creo un poquito antes.
+
+[01:10:58]
+del inicio formal de la sesión antes en cámaras este estábamos hablando con Beatriz de cosas que ahora voy a relatar justamente porque
+
+[01:11:08]
+Fueron creando convergencias en el tiempo entonces existía así y ya yo había ayudado como me gustaba tanto la parte académica por estar en conciencia, si todo eso entonces empecé a dirigir el salón de informática que se llamó así en aquel tiempo y se hacían Corferias y todas esas cosas, hubo algunas sesiones que fueron prodigiosas también extraordinarias en todo esto y quiero relatar dos nada más en este momento porque son es una historia que pudiera ser realmente importante y muy larga, pero hay dos que si conectan muy bien con esto la primera es que empezó a generarse un ambiente político y apareció una cosa en el escenario que se llamaba el Instituto Iberoamericano de informática que creaba un seminario que se llamaba el seminario de autoridades latinoamericanas en informática.
+
+[01:12:08]
+Y para preparar esas cosas propuse así la creación de un seminario que se llamó Ingeniería de Sistemas y problemas nacionales.
+
+[01:12:20]
+Hicimos varias ediciones no duró mucho, pero fue muy importante la primera fue informática y libertad.
+
+[01:12:30]
+Para los ingenieros de sistemas esto era un poco exótico, no? O sea, informática y libertad luego yo metí otro tema que se llamaba informática y flujos transfronterizos de datos, sí, informática y empleo informática y satélites informática y aprendizaje y así fuimos llevando temas y resulta que por los ambientes políticos había aparecido una cosa que se llamó el club de Cali que lo presidía Carlos Andrés Pérez pero haya sido creado en Colombia el expresidente de Venezuela y entonces el club se reunía y trabajaban estos temas de alto nivel con con todos estos asuntos entonces por primera vez empezó a aparecer el tema de que la Ingeniería de Sistemas estaba vinculada no solamente a grandes problemas nacionales sino a grandes problemas mundiales importantes.
+
+[01:13:30]
+sí, informática y soberanía, por ejemplo se llevó tres sesiones fue una cosa supremamente dura de manejar y ya era visible eso originó el siguiente tema que fue flujos transfronterizos de datos porque había asistido un amigo mío de un amigo mío, no era una persona que conocía de la Cancillería que había estado en las Naciones Unidas tratando el tema de flujos transferidos y lo presentó en Asís etcétera, fuimos moviendo esos temas y y entonces empiezas a encontrar, que esta profesión tenía mucho que ver con la libertad con la soberanía con el territorio con la mente con un montón de otras cosas que el asunto no eran las computadoras nada más obviamente te AMPAS en la potencia de estas máquinas para los nuevos desarrollos que había, pero que estaban pegándole ya a otros temas entonces yo creo que
+
+[01:14:30]
+ahí se generó una dimensión política.
+
+[01:14:33]
+Que no teníamos y que no tenían las universidades en aquel momento sobre el impacto de estas nuevas tecnologías en la sociedad en la humanidad y y eso se volvió realmente muy importante, no?
+
+[01:14:47]
+déjeme decir que que después de esa sesión con el doctor paper y todo eso yo me fui a trabajar como les dije porque tuve extraordinario privilegio que fue ganarme ese premio ya desapareció era insostenible del aire así y del Parlamento de Canadá que consistía en que te vas dos años a trabajar con el mejor científico del mundo en el tema de que tú estás investigando con todo pagado con mi familia con todas esas cosas entonces ellos se encontraron que en la Universidad de Waterloo
+
+[01:15:24]
+Había uno de los desarrollos más avanzados en los temas que yo estaba estudiando en ese momento que era un tema que había aprendido en París que era el de tecnología para utilizar el intervalo de blanqueo vertical de la señal de televisión para transmitir datos digitales. Entonces la propuesta era muy sencilla, si ya tenemos una infraestructura mundial pagada de para emitir y recibir señal de televisión y tú le puedes inyectar señal digital, podemos convertir cada televisor instalado en una terminal de computadora para propósitos educativos que era lo que yo empujaba propósitos educativos y científicos ganó después el entretenimiento y se desató una carrera entre esa apuesta y las computadoras personales.
+
+[01:16:21]
+Debo declarar que yo empujaba fuertemente por la puesta de utilizar la infraestructura instalada y pagada ya en televisión y que no nos costaba nada inyectar las señales de televisión porque la señal es digitales porque el intervalo de digital no se estaba utilizando eso me ganó el premio concurs con candidato de toda América Latina estaba concursando el secretario de Informática de la Presidencia de la República cuando yo llegué al examen y lo vi lo conocía porque había ido a visitarlo. Dije pues ya estoy perdido porque no le gano al secretario de Informática de la presidencia del Brasil y resulta que él presentó examen primero que yo y salió diciendo no voy este no soy tan bueno en inglés como yo creía y pedí traductor y fue un desastre mi presentación.
+
+[01:17:21]
+cuando él me dijo eso dice entonces a ver, me voy a lucir y eché el examen gané me mandaron al concurso mundial gané el concurso mundial y fui a dar a Canadá a trabajar con el doctor Frank pompa que en ese momento estaba dirigiendo un proyecto que se llamaba el English Oxford dictionar que era volver a compilar todo el diccionario de la lengua inglesa pero con algoritmos que conectaban entre sí, los términos y entonces todo lo que hoy conocemos como tesaurus dinámico conectado y todas esas cosas eran bases en aquel momento, pero aquello fue un prodigio en el corredor donde estaba mi oficina, estaba la oficina de Johnny Walker que había inventado el concepto de token ring y más adelantito estaba el doctor Larsson que había enseñado diseñado el sistema de las de la
+
+[01:18:21]
+cabeza retráctil para leer los discos duros de la época en aquel momento no entonces eran algunas autoridades porque era importante esa universidad porque nosotros en los Andes habíamos aprendido a programar en Fortran con un con una versión que se llamaba el Watford
+
+[01:18:39]
+de la Universidad de Waterloo
+
+[01:18:45]
+era muy curioso entonces yo estaba ya en Waterloo y que me encuentro que en el Museo tenían una 36044 que era hermana de una que ellos tenían y que la habían negociado con una universidad en Suramérica
+
+[01:19:04]
+que se llamaba la Universidad de los antes.
+
+[01:19:08]
+entonces resulta que termine viendo allá a la máquina hermana, donde habíamos estudiado y que nosotros habíamos aprendido a compilar Fortran con el compilador diseñado en la Universidad de Waterloo ese ese ese proyecto tuvo una importancia que fue que muchas de las primeras aplicaciones de las computadoras empezaron a tener foco en cómo aprender entonces muchos de los software que empezaron a salir los primeros programas eran para dirigirse a educar, podemos cerrar este episodio, simplemente diciendo que
+
+[01:19:50]
+En paralelo nos empezamos a dar cuenta de que el asunto no era ingeniero de sistemas que la asunto iba a ser más grande y que iban a necesitar que toda la población entendiera que era este asunto.
+
+[01:20:07]
+Y no parecía ser obvio, eso no como tiene que aprender mi viaje y sistemas o qué o qué? O qué es lo que aspiras era muy importante pensar en aquel momento en esos temas y en Asís apareció otra oportunidad un día en una sesión Guillermo Santos se levanta y dice oigan, voy a crear una cosa que se llama la página de informática en el tiempo.
+
+[01:20:38]
+De la página de computación en el tiempo y necesito que algunos de ustedes me ayuden a escribir y entonces como yo a mí se me daba lo de escribir y había aprendido a escribir en tono de resolución en tono de funcionario en tono de investigador y entonces ya sabía diferentes cosas, así que yo le dije y mira, yo te escribo y te puedo escribir en varias fórmulas no puedo escribir artículos para títulos firmes puedo escribir yo para firmar, yo puedo escribir como catedrático como técnico o incluso con caricaturas y empezamos a generar la página de informática, no entendíamos nosotros mismos en ese momento el alcance de aquello.
+
+[01:21:18]
+Sí, tenía muy claro Guillermo dice la mayoría de la gente tiene que empezar a entender esto que son los bits los dedícate a explicar y explicábamos y explicábamos y cada rato y queríamos competir con José que tenía en aquella época una sección en el tiempo muy establecida que era la de automotriz automóviles, no me acuerdo cómo se llamaba autos. Creo que se llamaba, no me acuerdo el caso, es que pues yo salí a rodar en la bicicleta con mis hijitos y nos echábamos por ahí por la calle 68 para llegar al tiempo a la hora de la Armada los domingos por la mañana y a pelear con el jefe de armada, que tenía un par de anclas aquí en los brazos, parecía Popeye le dije pero por qué pusiste un aviso de lincora debajo del tema donde estamos explicando qué es el Software
+
+[01:22:14]
+Que por qué qué me mostraba la sangre en la página de computadoras después Guillermo santos, nos dijo les doy tres meses para que ustedes consigan que la página se financie sola o la cerramos entonces empezamos a hablar ahí con algunos IBM borro amigos ahí de Asís que tenían empezaban a hacer algunas empresas Texas y algunos de esos empezaron a poner a visito dice ahí porque nos acariciaban la cabecita así. Ay, muchacho. Bueno, ahí lo va a poner un aviso.
+
+[01:22:55]
+Y resulta que en esos tres meses conseguimos tanto financiamiento que financiamos casi la mitad del periódico, entonces nos dijeron. Ah, pues échale ganas que dirían aquí en México no decir bueno síganse con el tema y nos fue muy bien.
+
+[01:23:12]
+Supe por el mismo Guillermo que después eso se después de que se vendió el tiempo y todas esas cosas. Él quedó con la publicación enter que no estoy todavía seguro si continúa pero en el fondo de toda esa idea hay una didáctica dice toda la población tiene que atender y entender estos temas. Bueno, déjenme cerrar pasar a otro episodio muy rápidamente que tiene que ver con se me ocurre proponer ahora que pasaron varias cosas no del proyecto que empezaron a surgir allí y yo estuve con varias consultorías ayudando a hacer agenda nacional en Colombia digital en diferentes con Planeación Nacional tenía amigos con el BID que nos ayudaban a financiar etcétera hicimos una consultoría con con transfer o que era una pequeña sociedad consultora que creamos.
+
+[01:24:12]
+con Jaime Tabares y nuestro amigo del Banco Mundial un colombiano insigne que trabaja en educación, ahora está en en ciudades inteligentes me parece del Banco Mundial el caso, es que empezamos a mover el tema de
+
+[01:24:29]
+Cómo poner una agenda nacional? Cómo hacer que los que las instituciones del gobierno todas tuvieran alineación proyectos y cosas de ese estilo por estar metido en eso terminé en la Comisión Nacional de sistemas y su secretario varios años una persona en una publicación en alguna ocasión intentando criticar me dijo pues en esta Comisión Nacional de sistemas bajo el mandato de Germán todos los proyectos han sido aprobados por supuesto la Comisión Nacional de sistemas había sido creada para convertirse en un dique que impidiera que las instituciones públicas gastaran en comprar computadoras y tecnología la idea era la computadora que tenemos es la computadora que es la del Dani y todas las instituciones públicas hagan fila lleven sus tarjetas o sus cintas y el danés les procese.
+
+[01:25:29]
+Ese era el criterio y yo llegué allá y dije es al revés.
+
+[01:25:34]
+Todas tienen que tener su propio sistema, pero como era un tema de Presupuesto Nacional entonces lo que se buscaba era una racionalización ese era el nombre de la guía del trabajo de la Comisión Nacional de sistemas racionalizar el uso de la informática, entonces en ese caso fue muy difícil salir adelante con estos temas, pero yo lo que hacía era más bien propulsar a las instituciones para que tuvieran en aquel momento los primeros mini computadores. Sí, era era casi sacrílego hablar de de mini computadores sobre todo el mundo tiene que tener un mainframe para que la cosa fuera en serio, entonces empezamos a mover redes y conectarlos unos con otros y todo eso hablando de redes.
+
+[01:26:25]
+Aconteció un episodio después de conciencias me invitó IBM aquí fuera director de sistemas académicos de la IBM para Colombia y estando allí este me mandaron a hacer una residencia en Nueva York para establecer un programa de cooperación entre la IBM y las agencias de cooperación más importantes del mundo, el Banco Mundial el Banco Interamericano de Desarrollo UNICEF las Naciones Unidas entonces fui a Nueva York a Washington todo me la pasé en esas y estando en esas me dicen desde Colombia que estaban empezando a crear la primera conexión de Internet y estaba la Universidad de los Andes con nuestro amigo.
+
+[01:27:14]
+cómo se llama estaba la Universidad Nacional y la Universidad de los Andes se sabía una pequeña Zipi y Zape ahí de quién se va a quedar con el nodo en Colombia y todas esas cosas así, pero sí está bien, pero ahora como lo vas a conectar y entonces se necesitaba hacer una prueba con la Universidad de Stoney Brooks la Universidad de Nueva York en estos libros la New York State University en Stoney Brooks y resulta que estando en la residencia Nueva York
+
+[01:27:43]
+Me habían pedido que tratara de conseguir un módem de IBM que se necesitaba para hacer la conexión y empezar a tener una conexión entre Stoney book y el nodo colombiano que sería en los Andes o en la Nacional finalmente terminó siendo en los Andes y cuando llego yo a mi oficina, había una fotocopiadora conectada a un módem y yo veía que no imprimía nada nunca ni una impresora fotocopiadora y nada y nada de nada, entonces había yo veía el modo y verifique era la referencia del que se necesitaba que creen que pasó sin saberlo la IBM prestó el módem que viajó en la cajuela, de mi coche y fue a dar a Stoney Brooks y allá se hicieron las los primeros enlaces con ese par de modesta estaba en storybooks para crear las primeras redes.
+
+[01:28:43]
+Interesante porque ya teníamos claro, el sistema de redes. Yo siempre proponía que las instituciones públicas lo que tenían que tener en las redes y si la idea era racionalizar el uso de los recursos tecnológicos y de la programación y de las tarjetas y entonces esas cosas, pues sabía que establecer redes entonces siempre fue una un que estuvo en Los Andes en esa época fue Hugo en el tema de Internet y del lado de la Nacional estaba una figura muy conocida, me va a venir el nombre en un momento. Ay, lo estoy viendo de la Universidad Nacional Mauro flores.
+
+[01:29:35]
+Sí, Mauro Flores está, pero también había José Miguel José Manuel José figura fuimos muy amigos en aquella época pero interesante pero perdóname pero no Alfonso Pérez gama.
+
+[01:29:55]
+Alfonso Pérez curioso accidental con un modo en que todavía no yo dejé en la Sony con el compromiso de que yo lo devolvieran a la IBM porque yo me iba a los pocos días espero que lo hayan devuelto en todo caso por razones del tiempo que tratemos de de de de cerrar un poquito sí pero que era una una limitación un poquito no mira no no muy rápido ahora creo que podemos hablar un poquito de qué está pasando y para dónde vamos entonces en este momento aquí hay una cosa que se llama la aquí en México está la Asociación Mexicana de industrias de tecnología de información que es un cluster de empresas que incluye a
+
+[01:30:55]
+IBM Google Apple Microsoft etcétera todas las grandes y todas las chicas de los estados de la gente de empresas que no son solamente de tecnología de información sino por ejemplo ya tenemos participación de Tesla
+
+[01:31:10]
+Que es automotriz pero participan en nuestra asociación por temas de inteligencia artificial.
+
+[01:31:16]
+Entonces con ellos estamos armando el mapa de ruta sobre inteligencia artificial.
+
+[01:31:24]
+Vamos, nos falta como unos tres meses para terminar con una metodología de cambios. Yo la he usado porque he ayudado a hacer mapas de ruta para varios sectores estratégicos del país hice una especialización en prospectiva y entonces trabajo mucho en diseño de escenarios del futuro para tener futuros intencionales, no futuros casuales, entonces el mapa de rutas se enfoca en eso en tratar de tener un posicionamiento nacional en el tema de Inteligencia Artificial definiendo con mucha precisión, qué queremos? Dónde queremos estar? En qué tiempos para lograr qué cosas a Colombia no le está pasando, pero le va a pasar lo que ya está pasando aquí que llegaron antes de Tesla que tienen un ruido enorme aquí una gigafactoría de Tesla y viene aquí resulta que el secretario de Economía nos dijo en una entrevista ayer estoy trabajando en el mapa haciendo entrevistas y todo eso este.
+
+[01:32:24]
+Hay empresas chinas que llegaron primero en silencio sin hacer ningún ruido se llevaron toda la gente que pueden que puede que pudieron que sepa de estos temas de tecnología y todo eso están creando un vacío y están metid solamente en la reconversión de manufactura a electromovilidad en el sector automotriz, sino en crear una capa nacional de personas que manejan inteligencia artificial para toda clase de aplicaciones, ellos lo que ven es un gran source de inteligencia artificial para servir en todos los sectores refrescos banca lo que quieras.
+
+[01:33:12]
+Es más un colombiano en días pasados que vino aquí a un simposio militar de Asuntos Estratégicos decía que el crimen organizado sobre todo en América Latina se movió de las drogas a la extorsión que las drogas eran un nicho y la extorsión es en todos los negocios, dijo este colombiano aquí digo hoy hay extorsión a los que venden croquetas para los perros.
+
+[01:33:39]
+Entonces la pequeña fábrica que o la grande que producen croquetas para los perros todos están pagando un derecho para poder vender las croquetas, entonces ese colombiano hizo ese símil y dijo aquí que esa idea de tener estos grandes job de talento en informática y sobre todo en inteligencia artificial es un camino para el que se están robando toda la humanidad y que no es trivial andar diciendo que eso es algo que todo el mundo tiene que aprender yo uso la frase incluso para quitarle tengo una conferencia montada que la llamo del miedo al dominio.
+
+[01:34:23]
+Y ya ustedes oyeron toda esta historia de las razones de paper diciendo la programación por qué la inteligencia artificial no debe ocasionarnos miedos, sino que debemos dominarla y lo que yo digo es que la inteligencia artificial no te va a quitar el puesto, te lo va a quitar alguien que domine la inteligencia artificial mientras tú no? Y cierro, simplemente diciendo dos cosas queridos amigos todos los que nos seguirán en la grabación.
+
+[01:34:52]
+Que veo yo venir dos cosas. Estoy trabajando muy seriamente con varios organismos internacionales en un tema de la ciudadanía, digital global es re entender las reglas del juego las definiciones y una serie de cosas ya estamos viviendo con estos desarrollos que nosotros mismos hicimos sí, en un planeta que para algunas cosas es muy fuerte con las fronteras y para otras las fronteras ya no existen entonces las nacionalidades, las fronteras las ubicaciones y cosas de ese estilo dejan de desaparecer mi sobrina me llamó ayer a decirme que en la empresa le habían exigido que no tuviera oficina ni siquiera en su casa. Dice aprende, necesitamos que aprendas a trabajar desde cualquier lugar en el autobús en un tren en una playa dice, no importa, vete a la playa. Mándanos fotos tomando chela en la playa es lo que
+
+[01:35:52]
+Queremos ver no queremos ver que las nuevas generaciones trabajen igual que las anteriores diciendo que están trabajando sin oficina, dice, no, no es homeless no es Office es una nueva forma de pensar. Bueno cierro diciendo que entonces esto tiene nuevos tipos de derechos. Yo empecé a decir si yo puedo crear unos avatars que son agentes míos y ese agente lo mando a la Junta de condominos del edificio con unas propuestas y resulta que me lo eligen vocal de la Junta porque las propuestas fueron muy interesantes, será muy fácil hacer una lista de todas las cosas que decía ese agente no puede hacer.
+
+[01:36:36]
+Hacer la lista de las tres que sí puede hacer va a ser muy difícil porque una sola que aceptemos sí generará de aquí para adelante la aceptación social de una nueva de un nuevo tipo de ciudadano.
+
+[01:36:52]
+Y tendremos que definir qué tan responsable eres tú de las decisiones o propuestas que haga ese agente y cosas de ese estilo y cierro diciendo que lo que yo veo es la siguiente orden por muchos años, pasé todo el continente hablando de ahí viene la sociedad de la información y del conocimiento, ya saben por qué? Porque lo dijo negro, ponte ahí de los átomos a los bits, entonces yo ande con ellos con el Mighty por toda América diciendo ahí viene la Sociedad de la Información en el conocimiento.
+
+[01:37:29]
+Pues ahora ando en una campaña igual pero de otra órbita.
+
+[01:37:34]
+Nos vamos a mover a la sociedad de la imaginación.
+
+[01:37:39]
+y ya se está empezando a configurar una nueva economía la economía de la imaginación es bastante lógico pensar que nadie entendió lo de la información de la Sociedad de la Información hasta que apareció Google
+
+[01:37:54]
+Ahora ya teníamos una evidencia de una empresa que solo maneja datos y que vale más que todas las automotrices juntas, pues ya entendimos el cambio de industrialización a informatización y el siguiente cambio es imaginación, cómo creen que va a ser el recurso más caro de los próximos años, claro, la imaginación de la mente colocarse más allá de la frontera de donde están llegando nuestros algoritmos hoy entonces si ya todo lo van a poder hacer los algoritmos, dónde vas a poner valor el valor de las personas va a recibir en su capacidad de imaginar cosas más allá en estas fronteras, pero no es trivial la creatividad no es algo que se puede improvisar es la más rigurosa de las disciplinas. Entonces nos estamos moviendo a una economía basada en la imaginación, que a su vez es una economía basada en la atención todos nosotros.
+
+[01:38:54]
+Por una pantalla de celular que es una especie en extinción, no? Ahora van a ser los espacios físicos tridimensionales los que se comunican con nosotros y entonces la atención es el nuevo nombre de la competitividad, las empresas hoy en día compiten en los mercados, al principio, el de la tienda competía con el del frente que estaba cruzando la calle, pero hoy en día está en los botones que tienes en tu celular, que hoy son promedio 40 y que van a llegar a 300 y luego van a desaparecer esas competiciones, son por la atención, qué es lo que espera un botón de esos que tú lo piques y si picas el botón tienes un nano segundo para captar la atención y dos para retenerla, esa es la nueva guerra. Entonces ahí toda la inteligencia artificial y todo eso va a jugar un juego extraordinario economía.
+
+[01:39:54]
+De la imaginación es la señal que yo les comparto hacia el final de lo que yo veo en la siguiente orden una conclusión importantísima sí, porque todo lo que nos está diciendo es para dónde van las cosas. Yo me acordé ahora que hablábamos cuando Obama se reunió con bring y hablaron de que la computer science ya no era solo una carrera, sino una forma de pensamiento y si comenzaron a hablar de la pensamiento computacional sí, como política pública no básicamente bueno, como tenemos el tiempo nos mata porque tenemos actividades las actividades si quiere alguno comentar y si quieres Edgar para darle la palabra también como siempre o por ahora por ahora reconocer pues de los inmensos aportes que nos ha dado a esta sociedad del conocimiento y la informática de Germán
+
+[01:40:54]
+También el desarrollo y la participación en estos pioneros de de todo lo que nosotros hoy venimos apoyando y creo que nos no conocemos toda la historia, pero estamos muy satisfechos y muy contentos de ser ahora que continuemos estas labores y creo que tú pues la charla es muy pedagógica muy instructiva y nos satisface mucho todo el desarrollo del interés, que ya has podido tener en los diferentes aspectos en los que te ha retado y que te han invitado inclusive a participar, no, no nos llevamos gratamente la historia no tendría por ahora preguntas adicionales, pero sí le daría la palabra a Kevin que es nuestro estudiante para que él pueda concluir el tema.
+
+[01:41:51]
+Bueno, buenas tardes Germán se estaba escuchando lástima que se acaba el tiempo porque estaba muy chévere, como relatas cada parte de la historia porque el literal se va a escuchar como cada parte también como va evolucionando.
+
+[01:42:13]
+Todo, o sea, prácticamente es lo que más me llamó la atención. Fue como la conexión en contraste dentro de la carrera en el ámbito político también, o sea, cómo encuentro uno también como ese poder que tiene la tecnología una que yo lo diría como si fuera una una fuerza transformadora ni en la esfera política, entonces eso me llamó mucho la atención tu trayectoria también fue lo que lo que más me tenía ahí escuchando y ya sobre todo eso muy muy muy muy muy muy muy chévere es un homenaje a alguien alguien hermano un poco metafísicamente es que el tiempo no dura tal cual, pero sí podemos tener a Germán con nosotros Kevin o sea, porque yo creo que va a haber.
+
+[01:43:13]
+Como siempre lo hemos hablado si es lo que viene que te son acerca es nuevamente porque es que tú estás haciendo una cosa de un futuro bueno, o has manejado el futuro permanentemente a mí no me gusta la frase, que dice que el futuro ya llegó, sí, porque el futuro nunca llega sí, pero toda esa trayectoria, indudablemente es súper valiosa y si bien el tiempo nos molesta por las actividades y que esto, pero esto da pauta para que te nos vuelvas a acercar entonces estos procesos, no por último mensaje Manuel Kevin viendo a Beatriz quiero mandar una señal.
+
+[01:43:54]
+De los movimientos estratégicos que viene es el espacio, hay una canción mexicana aquí que dice tú para arriba volteas muy poco y yo para abajo no sé mirar la cosa así.
+
+[01:44:05]
+No estamos mirando el espacio y la función de Inteligencia Artificial espacio va a crear portentos cosas increíbles en el espacio y Colombia ha tenido una tradición ahora lo mencionó Manuel muy importante en la mirada al espacio yo batallé en Viena y en París contra los que hoy se están convirtiendo en los principales aliados de Colombia para la defensa de los derechos de en el espacio y empezar a generar una nueva noción de soberanía tridimensional porque con sus satélites estar link si uso al satélite dentro de una bolsa entonces los noruegos que eran los principales enemigos de Colombia en la época de la de órbita geoestacionaria, hoy dicen un gringo loco metió al planeta entre una bolsa que es su red de 36.000 satélites que aprenden entre sí que se hablan entre sí y una serie de cosas entonces, pero habrá.
+
+[01:45:05]
+Fábrica nuevas cosas hay una inversión enorme traza el dinero y dónde se está poniendo el dinero de las grandes potencias en el espacio hay que mirar el espacio como cuando empezábamos Ingeniería de Sistemas y no sabíamos todo lo que iba a venir y había que formar la mente poner inversión comprar las máquinas y hacerlo necesario para estar preparados para ese futuro que vendría así que se está haciendo un primer trabajo que estamos diseñando en un segundo satélite de la de las Fuerzas Armadas que ahora se llama aeroespacial corregir una una un ambiente espacial muy fuerte hay dos asociaciones. Yo he venido trabajando con las universidades ellos son testigos de contraria los decanos y los directores que es importante el tema satelital que no existe muy fuerte en Colombia pero bueno oírte nos da fuerza para seguir trabajando en ese tema que que es indudablemente.
+
+[01:46:05]
+en un en un evento de así cierro así ya una nueva en Corferias
+
+[01:46:15]
+Creamos la primera videoconferencia que se transmitió en América un cuate amigo mío.
+
+[01:46:23]
+Que trabajaba en la NASA en Houston este me dijo me acaban de dar un aparato que tiene un nombre raro, lo llaman teléfonos celular y sabes que uno puede comunicarse desde Leticia en el Amazonas hasta Nueva York sin cables, yo mismo no creí y fue una conferencia de Asís eso es histórico la primera que creó una videoconferencia en medio de la conferencia, la antena de hecho contá que estaba recibiendo la señal desde Nueva York y transmitiendo la de todas esas cosas sí, canceló el permiso y estaba uno de nuestros colegas ahí que había estado trabajando en el Ministerio de Comunicaciones y le tocó llamar a la antena y encontró que había un alumno y uno que había sido alumno de que era el que era cortado el permiso y le gritó por el teléfono. Nosotros estábamos ahí en plena escena le gritó por el teléfono si algo.
+
+[01:47:23]
+Por usted en su educación es el momento que me pague levante la señal otra vez dieron la embajada americana que va prestado los equipos y todas esas cosas llevo botellas de champaña y celebramos allá en Corferias en el evento de Asís la primera videoconferencia usando telefonía celular, que era la primera vez que se usaba en Colombia muy bien, felicidades.
+
+[01:48:09]
+porque bueno, habrá otras cosas que hacer dentro de unos pocos minutos la retomaremos, pero pero esta esta charla no debería terminar acá es decir si uno mira si miro mis apuntes tengo por lo menos unas 10 preguntas que hacer y como mínimo unos cuantos temas sobre los cuales me gustaría que pudiésemos conocer tus opiniones y cuando digo unos cuantos no dejan de ser seis entonces y cada uno va a tener profundidad entonces dadas las condiciones de tiempo más bien me gustaría y creo que no me no me van a decir que no todos los compañeros de la mesa algún día tenemos que cuadrar es decir, te vamos a dejar colgar solamente con la
+
+[01:49:09]
+De hacer una segunda parte o una un nuevo encuentro gran generosidad de ustedes, yo escribo tres páginas tengo escritas lo mismo que dice Rafa de tal manera que viene en camino ve ese proceso estar con nosotros de nuevo y seguimos analizando ya retomando, por ejemplo este tema que acaba de último de mencionar porque es el tema de la nueva forma de pensamiento de la de la gente, no? Y en los pies y esto no debe quedar en nosotros, perdón por decirlo, así me parece importantísimo que incluso más allá del producto que va a salir de de todo este trabajo que estamos haciendo.
+
+[01:49:52]
+y abusando de una vez de Germán hablando también por redes la red de Decanos de afines, creo que que sería muy grato que este por lo menos un un webinar alguna cosa lograremos hacer invitando a cientos de estudiantes a todos los que van a ayudar a mover esta frontera y a seguirla moviendo en Colombia
+
+[01:50:19]
+Si ellos te escuchan el 20% de lo que nos dijiste va a haber mucha más pasión impactar haciendo haciendo sentir este superpoder que tenemos en las manos vía la tecnología estamos llegando a 500. Hagamos los espejos simultáneamente podemos proponer una charla con con ese tema para seguir, o sea, vamos a seguir. Creo que que el proceso contigo es de esa de esa forma cuenten, conmigo es algo que desearía yo incluso en lo personal para devolverle a Colombia tanto tanto.
+
+[01:51:03]
+Me llama agradecidos muy agradecidos.
+
+[01:51:10]
+Bueno, me invitaron a una reunión ayer en Los Andes y no pude ir sobre el tema de Inteligencia Artificial estoy conectado con el tema de inteligencia artificial porque acaba de salir el mapa en Colombia y yo estoy terminando el de México entonces estamos queriendo ver cómo hacemos metodológicamente y en conclusiones y en trazados cosas que puedan ayudar a ambas naciones, no? Y eventualmente volver a latinoamericano, así que trataremos y por supuesto que si llego a Colombia iré a casa de nuevo y Manuel gran generosidad de tu parte. Sí, una amistad que nos une de tantos años y este una trayectoria extraordinaria de tu parte también, así que te sigo cuenta conmigo y
+
+[01:52:10]
+no le funcionó la tarjeta de crédito.
+
+[01:52:12]
+un poquito afuera en una cosa que se llama bosque real que es un condominio extraordinario una especie de ciudad dentro de la ciudad muy moderna diseñada para hacer una ciudad inteligente luego eso porque me metí en ese tema con el lema Haití con él sensible la pregunta de Betty yo creo que que va porque vamos para México en marzo ahora en el existe, pues las maratones de programación el Mundial de programación que este fin de año será en en Astana en el cómo se clasifica el Mundial vía un torneo que se conoce como que se llama programadores de América programadores de América ha tenido una
+
+[01:53:12]
+Competencia regional latinoamericana previa y los 40 mejores equipos de Latinoamérica van a competir en Guadalajara en intenso?
+
+[01:53:22]
+Vamos a estar en ITESO en marzo muy conocido del 14 al 18 es en Guadalajara sí, 14 al 18 de marzo.
+
+[01:53:35]
+Ok a ver si a ver cómo podemos conectar por lo pronto dos señales Beatriz para que conectemos la primera es que les comenté que soy miembro de la Academia Mexicana de informática y a lo mejor no tiene de esta academia algo parecido no es un equipo de profesionales y todo eso, pero ver cómo podemos apoyar la maratón yo fui uno de los creadores de la maratón y todo lo que yo pueda hacer para para apoyar sería fantástico y ayudé a crear una ciudad dentro de Guadalajara que se llama Ciudad Creativa Digital por asuntos políticos y todo eso no llegó a la expansión que se necesitaba, pero terminó convertida en un hub de Industrias Creativas y se reúnen ahí pequeños startups y empresas de programación y la ciudad les presta servicio y todas esas cosas.
+
+[01:54:35]
+Es posible que es posible que pueda haber una conexión interesante el ITEO es primer nivel aquí es muy importante el ITEO de manera que donde van a estar es marca mayor, pero esta Ciudad Creativa puede tener conexión llevar jóvenes, vemos que se necesita y cómo se puede apoyar la iniciativa para cuando vengan acá excelente. Bueno, muchas muchas gracias, muchas felicidades.

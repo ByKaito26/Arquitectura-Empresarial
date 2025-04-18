@@ -1,0 +1,338 @@
+[00:00]
+Bueno, un saludo de nuevo a todos los que nos están viendo en estos vídeos de la evolución de la ingeniería de sistemas en esta ocasión vamos a hablar con el ingeniero Carlos Mario Giraldo graduado en el año 82 que tiene pues una historia de la época en que podríamos decir llegaron los microcomputadores a Colombia época donde la tecnología era extraña en la sociedad y por lo tanto es uno de los pioneros de la computación dedicado a su tema de desarrollo de software, como él nos va a ir contando él tiene también su historia que que no lograba narrar y vamos a grabarla y será parte del material de este proyecto de la evolución de la Ingeniería de Sistemas entonces Carlos Mario bienvenido y y bueno.
+
+[01:00]
+Desde el comienzo a ver qué nos puedes contar de esa historia tan interesante Carlos Mario adelante. Bueno Manuel muchas gracias, tocará remontarse a bastantes años atrás, pero exprima desde los 14 o 15 años recuerdo en esa época yo podía estar en segundo bachillerato, tercero bachillerato y mi interés siempre para ingeniería y en particular yo quería ser ingeniero industrial, por qué bueno me pertenezco a una familia. Tengo seis hermanos tres hombres mayores que yo y tres mujeres los tres hombres no dos de los tres hombres fueron eran ingenieros que están ingeniería en esta época. Luego a mí las matemáticas y todo ese tipo de cosas en el colegio siempre como que me atraían y la ingeniería.
+
+[02:00]
+Me llamaba mucho la atención toda la parte de procesos industriales y ese tipo de cosas me llamaba mucho la atención pero a los pocos años digamos la ingeniería de sistemas o conocí la Ingeniería de Sistemas por un una persona cercana a Richard Jiménez que estudiaba ingeniería sistemas en los Andes y pues le pregunté que qué tal era eso me parecía la maravilla pensar en computadores. Lo ve en esa época, pues lo veía eso como como Viaje a las estrellas, como cualquier cosa de esas de ciencia ficción maravillosa y pensar en programar un computador y hacer este tipo de cosas del imaginario que puede tener uno esa edad. Me parecía perfectamente apasionante igual Richard me contó, me habló de
+
+[02:59]
+y realmente me apasionó y gracias a eso no tuve que tomar ninguna clase de orientación profesional ni nada de ese estilo porque estaba decidido a estudiar Ingeniería de Sistemas así fue como en el año 74 me gradué del colegio, me presenté a la Universidad de los Andes en qué año del 74 para mi papá y para mi familia, pues eso prácticamente era un imposible porque mi papá venía de una quiebra pues no tan reciente pero no se había podido recuperar entonces una universidad muy costosa en ese momento pues no era fácil, pero igual me presenté en los Andes y coincidió con que mi papá lo trasladaron para Medellín o consiguió un trabajo en Medellín y mi familia tomó la decisión de examina yo mantenía la ilusión de que se miren la en los Andes
+
+[03:59]
+Pero mis papás se opusieron de todas las formas posibles me dijeron que me presentaran la Bolivariana de admisión queriendo, no pasarlo y casi lo logró, pero pasé, no, no sé cómo si hubo influencias familiares ahí o qué, pero el caso es que desafortunadamente pase en la Bolivariana y empecé a estudiar ingeniería mecánica. No hubo forma que me dejaran quedar en Bogotá estudiando la ingeniería de sistemas en los Andes entonces empezó a ser ingeniería mecánica en la Bolivariana la verdad me aburrió bastante, no primer semestre, pues fue medianamente duro, pero el segundo semestre a mitad ya no soporte más y me retiré con la intención de en algún momento poder volver a Bogotá a estudiar empecé a trabajar con mi papá.
+
+[04:59]
+Una empresa de comestibles o algo en esa época después cuando vivía en Medellín porque el trabajo que se fue originalmente algo pasó y montó un negocio entonces yo lo estuve ayudando un rato en eso fue bien simpático, pero ya llegó el punto en que en que tome la decisión que me tenía que devolver para Bogotá y marea sin haber recursos en la familia ni nada pero yo no voy a quedar en Medellín sin hacer absolutamente nada o no sé, hasta pensaba que iba a terminar de mensajero de droguería y como buen pan en fin, no sé el caso es que volvía a Bogotá aceptaron mis papás y volví a la Universidad de los Andes a presentar el examen de admisión llevándome la ingrata sorpresa que no me dejaban inscribir porque yo ya había estado inscrito en el 74 y no había hecho ninguna gestión para guardar el cupo o cualquier cosa.
+
+[05:59]
+Ese estilo y fue un golpe bastante fuerte, pero bueno, no siempre tienen angelitos de la guarda por ahí que aparecen y gracias a un hermano que conocí a alguien de la Junta de los Andes o no sé el Consejo y me permitieron presentar el examen nuevamente.
+
+[06:18]
+El examen de admisión en el año 70 para empezar en el año 77 o sea finales del 76 con la buena fortuna de haber aprobado pase el examen, pero ahora venía el problema de la matrícula. Bueno voy a contarles una cosa bien simpática como era tan costosa y era por declaración de renta y realmente no tenía los recursos para eso entonces yo hice una declaración de renta donde mis papás estaban a mi cargo.
+
+[06:53]
+Y mis ingresos eran cualquier cosa de tal manera que logré entrar a la universidad con la matrícula con la matrícula mínima a una tierra costosa, pero bueno, ya era ya era más manejable.
+
+[07:09]
+Un hermano me prestó la plata para el primer semestre realmente no me lo prestó, creo que me la me la me la donó para el primer semestre y en ese primer semestre tuve la buena fortuna por haber estado en la experiencia de haber estado en la Bolivariana me sirvió muchísimo, por eso lo agradezco por muy bueno haber pasado por la Bolivariana y empezar a tener la la disciplina que se requiere para una universidad porque en el colegio yo no estudiaba yo no tenía ningún tipo de disciplina. Yo hacía las tareas a las nueve de la noche, el domingo para llegar el lunes al colegio no hice ningún esfuerzo realmente en el colegio para para estudiar y me aburría además entonces, pues uno en la universidad si necesita cierta disciplina y ciertos conocimientos para por lo menos para para sobrevivir.
+
+[08:09]
+sobre todo en un semestre donde entramos 120 personas a estudiar Ingeniería de Sistemas
+
+[08:16]
+si no me equivoco, creo que fue el primer semestre en que abrieron dos secciones de estudiantes.
+
+[08:25]
+Para para las clases de introducción a sistemas y este tipo de cosas antes era una sola ahora esta vez tuvieron que abrir dos secciones porque había mucha gente bueno, el caso es que gracias a mis logros del primer semestre y al beneficiar estudiaban la Bolivariana me fue bastante bien y eso me permitió acceder a bueno, mi papá tenía un conocido en el Banco Ganadero el gerente general y me considero me conseguí un crédito en el Banco Ganadero por media matrícula.
+
+[09:02]
+pero igual la otra media matrícula a mí me quedaba imposible entonces fui a la universidad al Decanatura de estudiantes de acuerdo una señora Elena
+
+[09:15]
+No sé cómo me conseguí la otra media el préstamo para la otra mitad para para poder cumplir entonces yo estudié en la universidad con dos créditos universitarios, lo cual era bastante duro porque eso me obligaba a no perder materia a estar al día. Eso era bastante difícil sobre todo que fue una época en la universidad donde la presión académica era muy alta, no creo tanto por la cantidad de estudiantes que hubiera entrado, sino yo se lo atribuyo a la huelga, que hubo en la universidad a finales o a mediados del 76. Yo me imagino que las directivas dijeron si estos tienen tiempo para vagar entonces pongamos los a estudiar un poquito más y nos apretaron bastante las tuercas y fue una época bien bien fuerte de de estudio.
+
+[10:15]
+Vamos a huelga de las escaleras, no la llamaban así y creo que fue anterior la vuelta fue una época en la que estuvo Piero cantando y apoyando a los estudiantes en el los americanos obviamente sí, sí, bueno, logramos sobrevivir ese primer semestre no diría que me fue bien afortunadamente y ya el segundo semestre empezó por tercer semestre empieza uno a ver programación.
+
+[10:51]
+Y eso sí es como si a mí me hubieran puesto en el área donde toda la vida, quise estar usted no se imagina la pasión que a mí me daba aprender a programar por la noche, me acuerdo que cogía y ponía unos vasos en la mesa que los vasos eran las posiciones de memoria, entonces para poder empezar a manejar a cambiar la cabeza a lo que es la el pensar paso a paso cosas de ese estilo entonces yo jugaba con los vasos y en los vasos, iba poniendo los datos de memoria y cada una de esas cosas era era bien interesante. Me apasionaba. Me daban las dos tres de la madrugada jugando con programaciones. Me gustó muchísimo ahí empecé con esa programación me acuerdo que bueno en primer semestre veíamos al como un brochazo de un de un compilador de un lenguaje que había en la universidad que se llamaba antes.
+
+[11:51]
+Perdón, ya estabas avanzado en el lenguaje antes la versión estable, empezamos a programar en ese momento en los Andes era un IBM 360 que tenía un disco duro de 4 megas y una memoria RAM de 64 K de acuerdo perfectamente y uno lo más cerca que tenía un computador siendo ingeniero, existe una ingeniería de sistemas en los años era la ventanilla, donde uno le entregaba y le decíamos al mono las tarjetas perforadas que en los sótanos del edificio ingeniería.
+
+[12:51]
+Se clavaba por las noches a teclear instrucciones en tarjetas perforadas y esas las entregaba uno por esa ventanilla y esperaba al día siguiente los resultados el listado en unas hojas rayadas en verde y blanco lleno de errores, si no no entender ni siquiera que estaba haciendo ni qué estaba pasando, pero bueno, esas eran las primeras experiencias ya en la parte de programación. Bueno, después ya pasaron tiempo y estructuras de información, me encantó, me fascinó también esa materia y al año o al año y medio fui monitor de
+
+[13:41]
+Estructuras de información en la universidad y por esas épocas me consiguió un trabajo en la cara en la Corporación Autónoma Regional de esa época en el departamento de Hidrología y embalse y mi cargo era el enlace de tecnología con sistema desafortunadamente no hice nada parecido fuera del codificar el resultado el meteorológicos y cosas de ese estilo pero no bueno un tiempo de un trabajo donde yo corría desde la universidad se quedaba en la primera hasta la hasta la décima corriendo para trabajar unas horas poder volver a la universidad a tomar clases siempre fue un corre corre bien interesante ese semestre fue como en octavo semestre más o menos a esa época ahí puedes mencionar el nombre de profesores te acuerdas de ese momento.
+
+[14:41]
+Pacho rueda Francisco Rueda además que fue mi asesor durante toda la carrera fue mi profesor de estructuras de información me acuerdo de Darío Meza en programación comercial bueno Rodrigo López qué bueno también lo recuerdo que eso fue como el maquillaje algo así era bien interesante también me acuerdo de Messi ayer en álgebra abstracta que yo no sé que era más abstractos y el francés de mercurio pero bueno un personaje
+
+[15:41]
+estaba el profesor Parra que él no tenía que pasar por él quisiera o no quisiera y era más la mala imagen que tenía que era muy buen profesor y interesante no era tan tan cruel como lo lo mencionaban con mutación lo vi con Elena
+
+[16:06]
+Los hermanos son los dueños de ellos son los dueños de eran los dueños de claro, claro, todavía está trabajando Elenita me imagino claro que si una empresa son los que representan a Sri el tema de mapas sí, el tema de allí, si todo eso, claro, ven interesante, recuérdame el apellido recuerdas. Nos acordamos ahora más tarde aquí yo noto no cuando yo estoy escribiendo, no estoy jugando. Estoy anotando porque ellos fueron muy famosos. Son no es una empresa en el desarrollo de todo esto, claro que sí, bueno también en esa época, pues estaba Alberto García estaba solo también. Yo fui monitor de Pepe en estructuras de información bases de datos fue muy bueno él.
+
+[17:03]
+Alberto García era profesor de COBOL no Ecobol me lo dio a mí Darío mecha Alberto García tal vez en ese momento estaba dictando algo cercano a bases de datos sino si no me falla la memoria y Pepe en bases de datos fue muy famoso también Alberto López y Julio López también me tocó obviamente Margarita de mesa en el Departamento de Matemáticas me parece más interesante que llegue a
+
+[18:03]
+Como a noveno semestre oye y el 9 semestre no había visto un computador tocado un computador lo más cercano era una calculadora programable que tenía un hermano, pero me enteré que había un pequeño departamento un salón de que no sé cómo llamarlo microprocesadores pensaría que puede ser. Eran unas pequeñas consolas Texas Instruments un monitor en blanco y negro un televisor cualquiera en blanco y negro y una casetera de esas viejas de cassette que uno los conectaba y ahí guardaba los datos o leía datos, entonces tenías acceso secuencial un pequeño teclado y un monitor y ahí fue donde empecé a hacer mis primeros programas tenía un lenguaje BASIC muy básico pero funcionaba y se hacían el programitas ese fue.
+
+[19:03]
+Mi primera aproximación real con un computador porque ya tú lo aprendí era bien interesante ver cómo hacía pequeños programas y los podías grabar en el cassette y en el mismo caset grabar datos y entonces empezaron a jugar, cómo acceder esos secuencialmente y poder jugar con esas cosas, pero ya fue una buena aproximación. Me pareció muy muy interesante y para sorpresa mía. Yo comento con compañeros que esa época y nadie recuerda ese esa ese salón de microprocesadores, pero qué año qué año era qué año era? Porque los mitos 81 81 principios del 81 creería yo habían llegado los primeros micros no no eran no eran micrófonos como te digo con un monitor en blanco y negro un teclado y lo simpático es que conectaron.
+
+[20:03]
+Que tengan recuerdo que tenían un micrófono, no sé si recuerdan las caseteras que tiene un control de micrófono donde uno desde el micrófono podía parar o continuarla el movimiento del casete, entonces el computador controlaba ese arranque y parada y así era como no podía leer datos y almacenarlos los programas bien bien interesante. Bueno, llegamos a finales de la carrera sobreviviendo porque fue duro no ya los en la mitad de la carrera fue una época fuerte muy dura académicamente, pero ya los semestres cuando uno entra a las materias que son propias de la de la carrera realmente uno se apasiona se interesa y
+
+[21:03]
+las maneja las maneje bien y me fue muy bien con toda esa parte estando en décimo semestre me contrató una empresa.
+
+[21:16]
+En una consultoría en la mitad del año me acuerdo para ayudarles a desarrollar como la planificación y adquisición de un computador o peso de un centro tecnológico, pues para el departamento de sistemas ya en esa época empezaban. Ya, ya había micro computadores existía. Básicamente dos computadores que eran el radio, pero aquí no había llegado mucho.
+
+[21:54]
+El caso es que pues cuando me enfrenté a hacer todo el análisis de requerimientos de la empresa.
+
+[22:04]
+Y pues no era una cantidad de datos exorbitantes o más bien, yo diría reducida para pensar en computadores y lo que uno conseguía en el mercado y lo que estaba de lo que tenía algo de trascendencia, en el mercado eran los indicadores. Me acuerdo que había el BASIC por estaba el sistema 34 y 36 de IBM existía. Tal vez un prime así como pequeño sigue y tal vez el movía bastante bien, pero eran unos precios bastante elevados para una empresa, digamos la pequeña en cantidad. Era una empresa que tenía recursos económicos, vendía muy bien, pero no, no manejaba miles de clientes ni miles de productos ni nada de ese estilo. Entonces me acerqué no sé por qué.
+
+[23:04]
+Me llegó a la mano la información de radio chat y me fui a una empresa que tú ves conocer Manuel que se llamaba Microtech que quedaba en la en la en la carrera séptima con calle 66 en el almacén grande sí correcto la información y llegué a la conclusión de que un microcomputador de sociedad suficiente para una pequeña empresa obviamente en ese momento el software que existiera mínimo tampoco prácticamente nada y presenté la propuesta, pues el estudio a la empresa y me tocó defender bastante bien por qué un microcomputador cuando ni siquiera tenía discos duros y no eran discos flexibles de de cinco un cuarto de pulgadas que le cabían 80 cada de memoria por un lado.
+
+[24:04]
+Ya lo sacaron de doble cara doble densidad de 160 de 320 k. Perdón porque después pasaron a 160 después a 320 casos convencer a la gerencia de que eso era suficiente que por si era costoso, pero no era tan costoso como un mini computador que de todas maneras iba a requerir una cierta infraestructura un ingeniero hasta para aprenderlo porque pues tenía su sistema operativo propio y tenía pues ciertas características un poco más complejas que lo que estaba ya apareciendo empezando apareciendo en el mercado y me aprobaron la propuesta la propuesta, entonces el paso siguiente fue adquirir el computador.
+
+[24:51]
+Y el paso más interesante es que me contrataron para desarrollar el primer software para esa empresa, entonces empecé con un sistema de cartera de cuentas por cobrar para los clientes y empecé a desarrollar ese sistema en algún momento tuve que recurrir a Microtech y me encontré con Fernando Dávila pues que lo conocía tal vez el Maillo el computador o algo así y trabajar, pues no, no sé si él, pero me asesoraba y trabajamos juntos, se enteró que yo tenía un sistema de carteras y de inventarios. Entonces me propuso que por qué no se lo dejaba ver para que Microtech los comercializará y ahí entonces apareció el señor Manuel Dávila y conoció el software conoció el sistema de cartera de inventarios me empujó.
+
+[25:51]
+Sustancialmente pues profundamente a la que siguiera avanzando en el desarrollo mientras tanto en esa época, perdón, que hable de ti Manuel estaba desarrollando un software, que se llamaba, lo llamaste el Saz para desarrollar software. Era un generador de software, es muy bueno, porque uno le dice qué quiere y él SAS escribía el software, el nombre del programa fue creo que lo cambiaste a Génesis si no me falla la memoria, pero bueno, el caso es que me invitaste a participar de ese proyecto, nos conocimos conociste mi software y fue donde empecé ya en forma a desarrollar el software de facturación de inventarios y cartera para esa empresa para la que estaba trabajando entonces pues
+
+[26:51]
+El producto era para ellos hablé con la gerencia y le propuso de esa empresa y le propuse un negocio que yo le seguía desarrollando el software, lo seguía evolucionando que yo seguía desarrollando los módulos que me faltaban, pues básicamente para facturación o alguna otra cosa más y nómina, pero que a un costo inferior pero que me dejaran a mí comercializar libremente este software y llegamos a un acuerdo y fue muy bueno para las dos partes en especial para mí porque ahí fue donde arranque yo como independiente después de dos años de estar trabajando en esta empresa, me independicé. Fue cuando nos conocimos tú y yo Manuel y empezamos a hacer esa aventura de vender software administrativo.
+
+[27:51]
+En un país que hay unas penas las calculadoras de escritorio a la máxima tecnología que teníamos, pero fue un proceso muy muy muy muy interesante porque bueno, va a ser recuento el primer cliente que tuvimos fue una estación de servicio de gasolina.
+
+[28:13]
+Era increíble llegar a esa empresa a instalar el computador.
+
+[28:23]
+Y la persona que lo iba a manejar era la esposa del dueño, que pues había salido de del salón de belleza y de vivir su vida bien tranquila, a manejar un computador y a eso fue lo que nos empezamos a enfrentar de ahí en adelante, empezar a introducir a personas, completamente neófito de tecnología para empezar a manejar nuestro software, entonces enseñarle a cómo copiar datos a cómo prender el computador que no los iba a morder el pánico era como si se estuvieran enfrentando a un león fuera de la jaula, era le estaba pánico y así fue como como empezamos en serio, me pareció bien interesante porque digamos que estas primeras experiencias todas fueron.
+
+[29:22]
+No era solo vender el computador ni vender el software, sino tener la paciencia de enseñarle a estas personas a manejar el computador, además del software y cómo usar una impresora y cómo comprar papel y qué comprar y cómo guardar las copias que me parece yo ahora lo pienso y es admirable que una pequeña empresa.
+
+[29:52]
+Tiene que recurrir en los incurrir en los costos, perdón, incurrir en los costos de un computador de un software que no era barato y se meten en toda esa parafernalia de tecnología para empezarla a sacar adelante, me pareció bien bien interesante y esta experiencia se repitió muchas veces donde llegaba uno y obviamente entonces la secretaria o la asistente de gerencia era la que sentaban a frente del computador y tenían que enseñarles entonces uno se volvió el asesor tecnológico, me llamaban para preguntar qué compraban qué conmutador telefónico necesitaban nada que ver con mi trabajo, sino que el ingeniero de sistemas en esa época era él. Él sabe lo todo mejor. Teníamos que dominar toda la ciencia de esa época y era muy interesante y se apoyaban en nosotros para todos.
+
+[30:52]
+De requerimientos que tenían en cualquier cosa que se pareciera tecnología en mi caso estoy hablando de la pequeña y mediana empresa con las empresas grandes por no decir que que nulo me enfoqué en mi negocio software del desarrollo de los sistemas administrativos fue todo enfocado a la pequeña y mediana empresa y la verdad es que éramos los primeros en eso en este en este negocio y muy muy personal, o sea, el gerente recuerdo caso no va a mencionar nombres que deben importante que ponía de operar ahora al hijo porque era un vago, sí y entonces tenía que hacer algo, no? Y era el hijo y me lo educan decía me acuerdo y estoy hablando de empresas importantes, pero no gigantes, pero muy muy notorias en Bogotá y teníamos.
+
+[31:52]
+Enfrentar ese personal tienes toda la razón y además aprender de contabilidad, no y de las legislación y todo eso y de parte y parte no para mí fue un proceso muy interesante porque pues uno si sale la universidad con conocimientos básicos de contabilidad, pero el reto de procesos administrativos y cosas de este estilo en esa época cero cuando yo llegué a esta empresa a hacer esa asesoría para la adquisición y este montaje bastante sistemas me dijeron que iban a implementar la cartera y se imaginan obviamente que era lo que yo estaba pensando una cartera y yo que va a ser una cartera cargada en el en el hombro empezar uno a familiarizarte con salsa, entonces conocimientos administrativos aprender contabilidad de verdad porque si uno va a desarrollar un sistema de cartera tiene que aprender a de cartera.
+
+[32:52]
+Y lo mismo los inventarios y lo mismo la facturación, entonces tiene que aprender uno a como costear inventarios, cuáles son todas las opciones que existen de costeo de inventarios lo mismo la contabilidad como va a empezar a manejarse la contabilidad, cuál es la mejor forma en esa época la contabilidad era bastante libre de manejar, no existían planes de cuenta ni nada de ese estilo cada empresa mientras cumpliera con unos unos reportes básicos su balance supps mayores y una serie de cosas de estilo, pero no importará cómo lo llevara la parte administrativa, entonces ya en ese momento el Ministerio de Hacienda entonces puso creó el Plan Único de cuentas y empezaron a adaptarse a todas las las legislaciones.
+
+[33:52]
+fue fue muy interesante, pero en la parte de tecnología fue todavía más interesante porque el primer computador con la que con el que se compró para esa empresa el rey de Shark trabajaba con un sistema propietario que se llamaba y manejaba un lenguaje BASIC interpretado los programas que se hicieron que hice que hice la primera vez fue en un basic interpretado era muy interesante donde no había recursos absolutamente de nada, entonces si uno quería yo manejar archivos, medianamente grandes o con algo de información, entonces uno tenía que crear los índices inventarse como iba a manejar árboles binarios que en la universidad todo bien duro le dio a uno haciendo recursividad y ese tipo de cosas y llega o no a la realidad y se da cuenta lo útil que
+
+[34:52]
+Del desarrollo fue muy interesante después vino un sistema operacional que se llamaba CPM que eso ya era genérico de de todos los computadores uno ya podía desarrollar en CPM en un basic ya compilado. Entonces uno podía desarrollar en un radio shack, pero lo podía pasar muy fácilmente o casi que transparente a un IBM o a una te acuerdas esos computadores Carvajal entonces uno ya cómodo, entonces uno ya se podía mover libremente entre microcomputadores con ese sistema operativo operacional CPM y con y con un basic compilado entonces.
+
+[35:52]
+que que para pasar a CPM todo ese software que se tenía en esas máquinas diversas, desarrollamos un software que convertía el software es decir el input de software, no desarma que teníamos inicial se tenía y el output era un software compatible con CPM con el BASIC de CPM DPM que tiene algunas diferencias con nuestro colega Maricha estuvo acá hace 8 días recordábamos la historia de Gary Gilda el desarrollador de CPM
+
+[36:28]
+que fue en digital, yo tengo un curso con Gary killer, para diseñar un BIOS multiusuario que se llamaba MPM ese no alcanzó a salir mucho y Gary Gilda fue el primero que llamó Microsoft para que le proveyera el sistema operacional para el PC y Gary Gilda se portó vanidoso con IBM y BM no lo volvió a llamar y llamó a Bill Gates y Gary Gilda porque yo escribí sobre la historia de él murió en depresión porque él se dio cuenta después que eso no era una con una tarea como artesanal, sino que esté una cosa que iba a nivel mundial y ese era una historia muy triste de Colombia fue una historia muy triste y era un tipo muy bueno y en Colombia el CPM fue muy famoso en esa época no en realidad no correcto así pues después
+
+[37:28]
+Empezaron a llegar todas esas herramientas de apoyo, me acuerdo que existían antes de las bases de datos como tal para microcomputadores, pero existía unas herramientas, si no me falla la memoria era Beatriz creo que era de Nobel una empresa de redes de no sé si todavía existe entonces uno ya se podía apoyar y generar archivos hacer un manejo más eficiente de archivos con ese tipo de herramientas, porque poco después fue que aparecieron las bases de datos y más, si recuerdas una muy famosa, que se llamaba el problema es que para uno poder desarrollar en trabajar con debate como base de datos tenía que desarrollar en debate, entonces tener uno toda su software en el metodología y su tecnología y tener que pasar ahí veis que será muy complejo, entonces era preferible este tipo de herramientas que empezaron a salir como el Beat y algunas otras que lo que hacían era.
+
+[38:28]
+Un manejo de de índices básicamente para para tus archivos, entonces eso ha sido un poquito más eficiente la la programación, eso fue bastante académicamente hablando como esto lo van a escucharle canos estudiantes es que no había tecnología había que construirla si había que hacer un short de un archivo habría que programar y tocaba estudiar los libros famosos de de algoritmos, no? Porque para ser eficientes habría que hacer unas cosas muy bien hechas y si no era imposible tal vez juegues interesante que busque crear tecnología que hoy en día es que utilices que están ahí a la mano están ahí de acuerdo y después de eso, entonces ya llegaron a las bases de datos, pero seguían siendo muy aisladas en cierto sentido.
+
+[39:28]
+Me refiero a porque no eran no eran muy integrables con con software externo. Ya después fue cuando empezaron a llegar las redes de computadores y vuelva y juega entonces otra vez vuelvo estoy diseño porque si una cosa es diseñar un manejo de archivos mono y otra cosa es ya manejarlo multiusuario. Entonces empieza otra vez a cambiar todo en la lógica de del software, que uno tiene para el manejo de archivos, entonces aparecieron las redes tuvimos que estudiar sobre redes como desalmados, porque pues eso era toda una novedad dificultad para instalarlas para ponerlas a funcionar a punto no era nada fácil sobre todo que no había nada estándar en ese sentido Microsoft ya había empezado incipientemente a manejar algo de redes, no era fácil en ese sentido le ganaban. Me parece a mí.
+
+[40:28]
+En esa época no vendía algunas otras empresas que realmente tenían unos una red bastante sólidas estable y eso era bien interesante, pero aún así estábamos todavía aprendiendo y desarrollando cosas no era generando toda esa tecnología que no existía esa parte fue muy interesante ya cuando uno está estable en redes y ya tienes el software adjunto y está manejando de todas esas cosas aparece Windows entonces no lo dejan uno en paz, ni siquiera un par de años no tiene que estar uno entonces aparece Windows y con todo un cambio, no en todo sentido porque es que cuando tú estás trabajando bajo un sistema operacional como de OBS donde tú tienes que hacer todas las instrucciones para manejar el sistema operativo, te enfrentas a un sistema donde tú lo que haces es con un ratón.
+
+[41:28]
+digital sobre un icono le tengo que confesar que qué dificultad para apropiar esta tecnología algo que es tan simple para cualquier uso relativamente simple en esa época para cualquier usuario para uno que estaba metido dentro del sistema operativo y dentro de casi que del procesador del microprocesador de la máquina llegar a una cosa que hace con clic hace todo uno como que no le cree y como que no sabe por dónde es que tiene que hacer porque se lo puede hacer por acá o por allá o por el otro lado y es lo mismo empieza a cambiar toda su tecnología entonces ahí sí se empieza a imponer la programación por objetos cambio completamente todo el manejo y la evolución te cuento mucho de que yo estuve en lanzamiento del mouse en el en un computador de Apple que se llamaba
+
+[42:28]
+Steve Jobs no cuando la doctora Elisa creo que era la hija no sí exactamente y le dio ese nombre al primer antes de Macintosh
+
+[42:47]
+Y lanzaron el mouse en Estados Unidos yo estuve en el lanzamiento y me acuerdo que la ergonomía horizontal de la mano que se hoy día no se piensa, no sí, y un curso que se movía vertical y la mano derecha horizontal generaba un conflicto ergonómico y entonces uno cogía el mouse con la mano derecha y subí el mouse, no? A ver si el cursor se subía eso hoy en día, no lo nota nadie ya el cuerpo humano está totalmente transformado y tiene razón, o sea, cambios simples y importantísimos y que cambiaron hasta este sistema ergonómico de manejar el mouse.
+
+[43:31]
+Con Windows que fue una copia de la idea de Steve Jobs que Bill Gates le copió a Steve Jobs no sí correcto caigo todo un conflicto y hubo demandas te acuerdas y todo eso respecto a Windows y el sistema operativo de Apple que era bien interesante por estas épocas fui profesor universitario Juan que es un poco antes fui profesor en la Universidad Javeriana en la Facultad de Ingeniería Civil les daba programación a los primíparos pésate entonces era muy chévere era muy interesante porque para mí programar es una pasión entonces enseñar enseñar a programar era interesante y sobre todo es una maravilla uno como profesor ver cómo lograr cambiarle la forma de pensar estructuradamente paso a paso a los estudiantes.
+
+[44:31]
+Esa parte, qué año era en ese momento?
+
+[44:36]
+85 creería yo cuando fui profesor en la Javeriana por primera vez porque fui profesor de programación y un par de años después no así como dos años y me retiré dos años y después volvía de parte de la Facultad de Ingeniería de Sistemas en la Javeriana y estuve dictando estructuras de información como tres o cuatro semanas eso ya fue como en el año 98 997. Ah, y teoría de sistemas con un colega un tipo muy querido que me llevó a dictar con este gesto de sistemas Camilo Rodríguez entonces teníamos una clase de teoría de sistemas que nos divertimos muchísimo con los primeros porque la verdad que eso era una forma muy grata de hacerles.
+
+[45:36]
+ver los sistemas entonces nos fuimos mucho por lo social y ese tipo de cosas y fue fue interesante como uno puede aprovechar toda la teoría de sistemas para navegar por estas zonas medio grises y álgidas de las de la de la sociología y de este tipo de cosas nos divertimos mucho, eso fue un par de años bien interesante, pero ahí me llevé la
+
+[46:03]
+No sé cómo llamarlo la sorpresa más extraña y es que perdón ya dijeron que fue, pero no querían los estudiantes, no querían programar ninguno todos querían ser administradores de sistemas en el mejor de los casos o si no gerentes o cualquier cosa ese estilo, pero pero yo no sé no entiendo para qué estudiaban Ingeniería de Sistemas sino no iban a hacer nada, era más una tarea administrativa. Lo que siempre querían hacer era bien extraño de hecho, me sorprendía terriblemente que llegaran a estructuras de información con unas bases muy muy muy pobres de programación.
+
+[46:49]
+Esa parte era un poco triste digamos y esta es la hora en que sigo pensando. Bueno, no estoy retirado de la parte académica, pero yo no sé ahora si si la gente aprende o no a programar que yo considero que en mi época pues puede terminar o sea, si uno iba a ser ingeniero de sistemas en esa época cuando yo me gradué era requisito casi obligatorio en manejar de alguna manera de hecho tuve un conflicto grande cuando me agradar porque
+
+[47:23]
+Casualmente, mi tesis no tenía absolutamente nada de desarrollo de software y el director departamento de esa época no me quería aceptar la tesis después de haberla ya prácticamente terminado porque no tenía programación quién era Jorge no, pero fíjate que fue muy interesante porque en la en el evento de unión vinos en Barranquilla de ahora noviembre del año pasado. Él confesó que fue una posición bastante rígida, que no tenía por qué ser así lo cual me congratu es la vida no se arrepiente y pero fíjate que mi tesis no tenía nada de qué era la tesis el impacto social de la de la computación.
+
+[48:23]
+En las empresas o sea, de qué manera impactaba la a las empresas la toda la tecnología que computacional que estaba llegando con programación, pero pero graciosamente creo que los compañeros míos de la Universidad soy de los pocos que he hecho desarrollo software por largo tiempo o ninguno y después pasaron a cargo ya más administrativo, las gracias de la vida, que casi no me puedo, que no me aceptan mi tesis de grado por no tener desarrollo y medial desarrollo finalmente la parte organizacional y eso me llamaba mucho la atención en esa época de la universidad, pero bueno, di clases entonces en baja.
+
+[49:23]
+estructuras de información me retiré me tuve que retirar parte de las razones del Retiro es porque yo no tenía ningunos estudios posteriores formales todo lo que había tenido que estudiar para mantenerme donde estaba todo lo que tuve que estudiar de redes de bases de datos de diseño de software de todo ese tipo de cosas no era no era avalado como tal ni la experiencia de tantos años entonces no me ofrecían opciones pero realmente no las quise no las quise tomar en ese momento yo y otras condiciones adicionales algo que me salté que creo que es importante en la parte de la tecnología es el año tú recuerdas Manuel 87 889 nos asociamos varios desarrolladores de software para crear index la primera Asociación de Desarrollo
+
+[50:23]
+En esa época muy difícil podemos poner de acuerdo a todos los miembros de sistemas con nuestras con nuestro carácter bien especial, pero logramos sobrevivir un poco de tiempo hasta que llegaron las grandes empresas se dieron cuenta cómo era de esto acá y nos montaron la competencia que creo que ese fue el inicio de Microsoft y hora actual yo trabajaba con todas las casas de software de micros en esa época de lógica, mi empresa claro, yo sabía que todos eran muy buenas personas, pero entre grupo eran competidores, no se veían con los ojos de competidores y yo invité a una reunión en lógica sin decirles quién iba y eran todos todos los competidores que resultaron ser amigos de universidad colegas, se identificaron que les gustaba el software y ahí nació in the USA pues.
+
+[51:23]
+si tienes toda la razón, que años después se convirtió en
+
+[51:28]
+pero duramos varios años con
+
+[51:32]
+llevar y lo logramos hacer algo, no realmente no creo que hayamos sido lo suficientemente.
+
+[51:40]
+Eficientes o eficaces no sé para lo que queríamos irnos y tratamos de como estandarizar cosas pero pero por ejemplo no logramos llegar a ser una una voz visible en el ministerio de la tecnología del gobierno Ignacio estilo fue muy muy como fijar como políticas y cosas de ese estilo que sí fueron útiles para para muchos de nosotros pero pero bueno era el arranque, no y sobre todo el mundo copiaba pero bueno, pero fue interesante fue una tarea bien bien bien bien bien grata en esa época y yo diría que pues ahí sigue mi historia básicamente en el desarrollo de software ya aprendí incorporando todas las nuevas metodologías de desarrollo.
+
+[52:40]
+Ya empecé a cambiar ya no trabaja en BASIC y en temas más empecé a trabajar con otro tipo de herramientas con una en esta época. Ahora se llama el embarcadero, pero antes se llamaba una empresa que desarrollaba un software para desarrollo bajo ambiente Windows era bien interesante a todas estas nuevas herramientas de programación por objetos con bases de datos relacionales y todo bajo ambiente ya Windows con unas presentaciones mucho más elegantes porque es que hacer una ventana de
+
+[53:40]
+Era punto por punto raya por raya cuadrito por cuadrito color por color era bastante complejo ya con nuestras con estas nuevas herramientas, uno tenía toda una una plataforma de diseño y cosas de ese estilo muchísimo más más manejable y digamos que es lo que siguió fue la aventura de seguir desarrollando y comercializando el software para para los clientes y traerlos a esta nueva versión de Windows y ya en redes y bueno, después de toda esa parte aparece entonces todo el manejo web en el país.
+
+[54:24]
+Y ahí en el reto ya es muchísimo más grande de cómo vamos a cambiar todo nuestro software.
+
+[54:32]
+A todo el manejo web y ya yo no pude ni tenía el músculo financiero ni las ganas ni la juventud ni nada de ese estilo para para seguir en estas líderes, desarrollé software web cosas puntuales para manejo de bases de datos y cosas de ese estilo manejo de páginas de empresas no recuerdo algunas cosas. Ah, bueno, un manejo para repuestos de llantas de una empresa muy grande, que lo hacía a nivel nacional, entonces quería manejar todo el inventario desde ahí y más que el inventario todos los requerimientos de los de los distribuidores a nivel nacional esto eso ya se hacía web que ya empecé a meterme un poco más por ese lado del desarrollo web, hasta que ya es por hobby termine haciendo un juego de cartas que se llama King no sé si lo conocen que es un juego muy
+
+[55:32]
+Interesante en alguna medida parecido al Frisch que creo que es más conocido y digamos que eso fue lo último que de esfuerzo que hice para desarrollo eso actualmente, cómo se llama el software, el juego de cartas se llama una anotación importante y tal vez en la observación para Kevin como como un observador joven tecnología de punta no porque si este recuento va desde que no existía nada existían los mainframes pasaste por los mini computadores mencionaste los prime sí que entre otras cosas si eran de Elena de los Gutiérrez se llamaban.
+
+[56:32]
+O sea, eran mini computadores pasas o pasó la historia de Colombia los micros sí, donde había disquetes, no había discos duros. Sí, aparecen varias marcas. Ahí aparecen algunos colegas cómodo lo traje Guillermo santos del tiempo radio charlo traje yo Apple se me olvidó el nombre del gran amigo que trajo Apple tú te de pronto te acuerdas bueno, que también fueron digamos los primeros y era muy primitivo, o sea, disque no había disco duro, después aparece el PC aparece Windows aparece el mouse, no los discos duros, déjame te hago una interrupción ahí que que te simpática y es que después de los bistecs empezó a traer unos discos duros. Sí, creo que eran de 2 megas por un mega o algo así eran unas cajas muy grandes, sí, pero uno tenía una serie de problemas tuve dos situaciones muy
+
+[57:32]
+Con esos discos duros uno era que había que colocarle en Cali unos clientes en Cali tenían que ponerle ventiladores encima para mantenerlo refrigerado y el otro es que un disco duro se le perdía la información cada vez que apagaba y tocó llevarlo a que haya en Cali lo arreglarán los ingenieros y cuando abren el el disco duro había un ratón de acuerdo. Yo tengo esa historia no puedo contar el lenguaje del dueño, sí, porque no queda como bien acá, pero nos llamó llamó a decir los listados, me salen vueltos y una palabra que comienza por m, cuando los ingenieros descubrieron el ratón dijeron, ya entendemos por qué le sale eso no se consigue hoy en día el ratón vivía.
+
+[58:32]
+En el disco duro de acuerdo, sí, eso tiene razón, son historias rarísimas, que pero así eran en ese momento lo que pasa es que desde la perspectiva de ahora es muy simpático ver como un disco duro que podía medir 50 centímetros por 50 o 60 un poco más era unas cajas muy grandes y altas de 25 centímetros o algo así para poder almacenar uno o dos megas.
+
+[58:59]
+Un celular el celular que cualquiera nosotros tenemos ahora es que 70.000 veces más potente que el IBM 360 que ocupaba el primer piso del edificio ingeniería en los años totalmente de acuerdo y una una cosita los discos duros de los mainframes sonaban o sonaban cabezas y la música que generaba el oído le indicaba a uno en qué proceso iba el sistema entonces remotamente cuando yo energía yo diría eso a las 3 de la mañana pedía que le pusieran el teléfono en el disco duro ayer un profesor de los Andes me contó que contado esa historia en sus clases que yo se la conté entonces ponían el teléfono yo ya desde mi casa decía ya está fallando en el merch, de la facturación de Bogotá una vena gigante pasen tal y utility corre, no sé qué entonces era una época que que los discos duros sonaban eran pequeños.
+
+[59:59]
+Pero bueno, toda esa historia pasaste la red locales mencionaste a Nobel de acuerdo, tal vez en Unix si no llegaste a trabajar en Unix creo que no no trabajé en Unix con otra empresa paralela, fuimos distribuidores de Unix trajimos informes los primeros. Bueno, no decir que los primeros pero en la época cuando estaba llegando el informe al país con un socio que tuve empezamos a distribuir informes acá fuimos por la distribución siempre este tipo para Estados Unidos por la distribución y llegó dos horas tarde a la reunión, entonces obviamente la distribución la quitaron nos dejaron seguir vendiendo informes, hicimos unos desarrollos en informes me acuerdo para Cummings de Colombia y para un laboratorio para ejemplar también en informes, pero te estoy hablando a ver eso fue año.
+
+[01:00:59]
+Uy no, 8 perdón, 90.
+
+[01:01:05]
+Más o menos en esa época en que el informe que empezó a llegar al país, en igual era una competencia fuerte para ahora con el instrumento y de hecho fueron las primeras bases de datos que ya se empezaron a manejar sobre todo para para sistemas grandes.
+
+[01:01:22]
+Sí, muy bien, muy interesante eres tú eres. Te cuento tal vez de los colegas entrevistados, el que más ha contado esa trayectoria sí, de de la tecnología de lo que nos estás contando. Estás en el primero que logra apuntar la historia, no sí, tecnológica porque normalmente los jóvenes pues entran ya con con Google y con toda la parafernalia actual, no, pero esto que tú has hecho ha sido lo que estás haciendo es muy interesante porque ahí va el proceso, lo llevas en el año 90 obviamente ya como profesional habla de informes, que pues ahora con él, después viene ahora con todas las bases de datos relacionales, pero no existían, básicamente es lo que debe saberse que eso no existía en una época de acuerdo. Sí, sí, pues es que la verdad nos tocó una época y yo diría gloriosa difícil porque tiene que acomodar uno la cabeza.
+
+[01:02:22]
+El que venimos de de tarjetas perforadas a programar en el celular, o sea, hacer apps para para los celulares, o sea, no sé si la gente joven alcanza, a medir la magnitud de transformación que que hemos vivido porque sí es cierto, te va a dar risa, pero yo a mi hija le tengo que pedir el favor que me cuadre el celular para que haga cosas porque yo ya no puedo, hay cosas que a mí se me salen de las manos en cambio una persona de un joven de no un niño de 8 años. Eso es pan comido, ya vienen con el chip adentro es perfectamente fácil a nosotros nos tocó a una transformación. Sí, como la como la planteamos desde que a mí me parece relevante es haber pasado por esa época a finales de acción de la Universidad en esos microprocesadores.
+
+[01:03:22]
+Apple los peces de IBM todo ese proceso fue bien interesante ver las redes Nobel ver como ahora es que estamos conectados interconectados todos con todos eso eso nos nació eso no fue generaciones espontánea. Eso tomó mucho tiempo y realmente creo que nosotros acá en Colombia de una u otra manera siempre no va a decir que estuvimos a la vanguardia pero si hemos estado asimilando y consumiendo tecnología yo diría que rápidamente no sé si te acuerdas Manuel una vez que estábamos en tu oficina y fue un gringo algo no sea que fue un gringo hijo así espera un momento voy a hacer esto fue año 8 5
+
+[01:04:22]
+Y sacó toda la información de la de la empresa, yo me acuerdo que tuvimos nos quedamos mirando y diciendo esto puede ser, no no puede ser que en esa época un tipo se está conectando con tu computadora en California en alguna parte, por eso es que eso no existía aquí en Colombia son existían comunicaciones, es correcto obviamente y hay otra parte de la tecnología paralela, que es bien interesante en esa primera empresa, que yo trabajé existía un teletipo.
+
+[01:05:04]
+Yo creo que si le preguntas a muchos de los jóvenes y ahora que es un teletipo no tienen ni idea, no, no saben qué hacer era un equipo para transmitir información.
+
+[01:05:15]
+análogo para transmitir información y igual eran unos que se perforaban y eso transmitían los datos de ventas de cosas de ese estilo que se necesitaban después del teletipo que apareció el taxi perdón, a la primera firma dará por Kevin le puede dar risa todo esto porque pero igual la primer firma traslada por fax, eso era uno iba a verla, cómo es que esto está funcionando así un documento por parte que llegara y que lo pudieran leer al otro lado del documento como tal o peor una fotografía que fue lo que nos pasó ya con toda la información periodística a nivel mundial que tú antes para que una fotografía te llegara a la redacción de un periódico algo así se tomaba sus días, cómo es que al otro día
+
+[01:06:15]
+no, a la media hora de haber tomado la fotografía ya llegó al tiempo el reactor por allá de instantáneo mandando las fotos, eso es absurdo y otra cosa interesantísima que se nos olvidó el módem de los de los de los teléfonos que no se me olvidará el ruido cuando se estaba conectando al internet por por medio del módem telefónico sí te acuerdas que era un pitido de para que sepa que es un gran espectador de esto de conectado el computador al módem y por vía telefónica yo hice la primer transmisión por radio de un chat en todo el Art programa de trasnochadores 4 horas de 12 de la noche a 4 de la mañana y dieron con nosotros para hablar de estas cosas por radio yo llegaba ya instalamos un cable de muchos metros a un a una lista de Telefónica
+
+[01:07:15]
+El módem hicimos los primeros chats, eso era rarísimo y claro, cuando tú llamabas el modo invitaba, hay una anécdota del presidente de flor América le contemos eso que fue socio mío Tomás killer como presidente de América trajo el primer teletipo que tú dices aflora América una empresa gigante era la más grande del mundo en Flores colombiana instalaron la la el teletipo y a las 3 de la mañana, el teletipo comenzó a funcionar solo es decir a recibir información y el celador lo destruyó con un palo porque pensó que era un fantasma sí ese es una historia de Tomás que era increíble, o sea no le avisaron mire esto a las 3 no? Él estaba cuidando y seguramente durmiendo con su ranita y comenzó a funcionar este aparato solo era eran ese tipo de épocas no que eso pues hoy día no se lo imaginan.
+
+[01:08:15]
+Bien, sigue que está muy bien toda la historia la pena mencionar eso, porque es que las comunicaciones y la computación fue cuando empezaron a andar ya cada vez acercarse más antes la comunicación iba por un lado lo que eran las comunicaciones en general iban por un lado y la computación iba por otro ya cuando apareció el teletipo ya después el cuando empezaron a aparecer los módems ya las comunicaciones y la computación ya se volvieron hermanitos y creo el día que para terminar un poco toda esta conversación. Es que yo me gradué en el año 82 en el año 85 era éramos todos los ingenieros de esa época, los sabios de la tecnología nos consultaban todo absolutamente todo creo que hasta asesores matrimoniales fuimos o cualquier cosa de decirlo y llegamos ya un punto de especialización en
+
+[01:09:15]
+Yo sé desarrollar software.
+
+[01:09:17]
+Pero no sé, pues, o sea, sé muy poco de redes, sé un poco de comunicaciones un poco de diseño gráfico un poco de bases de datos un poco de muchas cosas, pero ya tener uno el control que tenía sobre la tecnología existente en el momento y es imposible ya es especialista en algo y es muy difícil abarcar todos los temas todas las metodologías todas las tecnologías ya uno se le sale, se le se le desborda todo el conocimiento que existe actualmente. Yo creo que ahora existen demasiadas especializaciones demasiadas cosas y uno no puede abarcar todas esos ingenieros transversales es como los llaman cosas, que ya nos pasó nuestro cuarto de hora dejémoslo a Kevin y a los exigen después porque ya no los jóvenes.
+
+[01:10:17]
+es un ritmo infernal por lo tanto para no enloquecerme decidí recluir me en el campo bueno, pero ya con buen Internet ya como en Internet es que había sido muy necio, porque como no quería estar muy cerca la tecnología no había querido instalar Internet y créanme que sobreviví un año con el internet del celular, pero el Ciclón como como digamos un poco también cerrando la conversación una una cosa que hay que agradecerte es que fuiste primero en tocar esa historia como tan detallada, no casi siempre todos hablan del momento, no, pero esta historia es sumamente valiosa en ese conocimiento personal que
+
+[01:11:17]
+Tenemos de ti, sé que la música ha sido un tema central en ti sí porque hemos encontrado, por ejemplo Bernardo Liébano mi vida y gran amigo desarrollador de software, también terminó siendo violinista y tú te acuerdas, no tenía un conjunto de cámara y el siguió siendo ingeniero civil, pero se moría con su violín y fue maravilloso. Él murió sé que en el caso tuyo la música ha sido un tema fundamental y mencioné son temas que a veces no se conocen Carlos Mario
+
+[01:11:51]
+Hasta dónde puedo mencionar lo que tú quieras menos cuando tocábamos los dos en alguna época de la vida, pensamos más bien dedicarnos a la música y dar serenatas en Cartagena en la en el parque en la plaza del reloj o alguna cosa de ese estilo, pero no, no mentiras, pues la verdad o más bien empiezo por el final les voy a contar lo más maravilloso, que me está pasando. Ahora me metí de lleno a la música vivo en tempo y existen el Instituto de Cultura de tempo donde tiene unos programas de música bien interesante gratuitos. Esto no lo puedes ir muy duro porque dentro de poco empiezan a cobrar, pero entonces estoy en clases de guitarra de piano de técnica vocal y estoy esperando que me admitan en teoría musical entonces.
+
+[01:12:51]
+Llevo este otra vez volví a empezar primer semestre compré un folder compré hojas de repuesto compré espero y estoy estudiando otra vez universidad empezando a estudiar música ya formalmente desde cero y estoy que no me cambio por por nadie lo que debe haber hecho a los 8 años que la música siempre me fue ingrata y para contarles porque me ingrata les voy a contar una sola anécdota desde el principio. Yo tenía 8 años, estaba en primero de primaria en el colegio. Hubo audiciones para el coro me presenté al coro presente la audición y me fui, no, no entendí que me dijeron ni qué pasó ni que nada a los 8 días de un compañero me dice oiga, lo llamaron a la lista del coro porque no fue. Ah, porque yo no sabía si me habían aceptado o no fui a hablar con el profesor del coro.
+
+[01:13:51]
+Y el profesor me dijo, no, ya dejémoslo para el año entrante entonces no puedo entrar al alcohol a los 11 años. Yo quería una guitarra eléctrica, una guitarra porque un vecino tenía una guitarra eléctrica y tocábamos satisfacción de los Rolling Stones me pedía al Niño Dios una guitarra.
+
+[01:14:19]
+Y el Niño Dios me trajo un triple en esa época no creo que ahora puede que sí, entonces la verdad es que toda la vida para mí la música fue, pues iba yo nunca. Entonces me dediqué estudié toque guitarra, porque aprendí solo toda la vida, creo que hacemos tenido más de una tertulia simpática con tiro con Mary con otras personas nos hemos divertido algo alrededor de la música y es así ha sido mi pasión. Me gusta, me gusta muchísimo me gusta más que la música soy un también soy algo melómano, pues más por el lado de la música popular me gusta mucho la música clásica, no soy muy conocedor, pero me encantan todos los cantantes de mi época que tú bien, sabes que conozco muy bien y me encanta cantar esta música.
+
+[01:15:19]
+Mi historia de la música y espero dentro de poco tiempo estar realmente ya metido y entre otras cosas voy a comparar la programación con la con el aprendizaje de de música es increíble como es tan parecido estudiar programación a aprender a leer yo leo algo partitura, pero aprenderás a leer ya formalmente una partitura requiere mucha disciplina misma o más disciplina que aprender a programar porque es que aprender a programar cuando uno no le han fichado la cabeza a programador. Eso es un cambio muy fuerte lo mismo aprender a leer música es tan difícil como es más difícil que aprender a programar, pero es un lenguaje curioso, porque uno ve un programa como programador y le siente el alma, no cuando veo un fuente, no sí, eso no lo hace cualquier persona sino un programador como uno no pasa con la partitura que tuve la
+
+[01:16:19]
+Y sientes la música no, eso es eso, yo no soy entrevistado, pero pues Dios tú sabes que yo leo partituras de música clásica y tengo colección de esas cosas estudié acordeón y eso y por eso el valor de la música y en ti que si eres hacia como digo yo ahorita había seremos y con esta no alcanzo a tanto, pero el gusto por la música sí, siempre ha existido y sé que lo tuyo era muy importante, era bueno que nos comentaras esa parte música la partitura el software todo eso que son, pero evidentemente es que la música si es matemática pura eso sí es lo más bello en ese sentido es tan exacto ahí terminamos esa parte con yo lo menciono mucho cuando hablamos de música Descartes escribe un libro sobre por qué la música produce sentimientos.
+
+[01:17:19]
+Y la escribió a los 22 años para hacerle digamos mostrarle al profesor que él también sabía de música y en ese sentido es un libro de física y matemática.
+
+[01:17:32]
+Sí, la física física por la vibración del cuerpo y los instrumentos y él dice especialmente los de cuerdas matemáticas porque indudablemente es matemática, no? Y la relación con el alma porque él hablaba de que de que el cuerpo se une con el alma por la hipófisis. Sí, la pituitaria la llama a él, no? Y entonces la música la vibración el cuerpo y él habla de la música de tono bajo tono alto si la sensación y habla de la sentimientos a través de la música, o sea que que y es un libro de física y matemáticas que es algo muy interesante, no esas cosas que se saben Mario quieres y comentar algo como como inhala con un poquito de cierre y Sandrita tú estás ahí ahora.
+
+[01:18:32]
+Por aquí estoy aquí estoy presente aquí estoy, voy a tratar de prender la luz porque estoy estrenando celular y como tú dices la tecnología va volando entonces no encuentro aquí donde es un personaje de la Universidad Nacional importantísimo y no porque esté ella presente ya lo sabe también es fundadora con nosotros de redes, tú fuiste presidenta de rey, no Sandra sí señor, estuve de presidente reírse en el año tal vez 2013 2014 Presidente Vicepresidente no porque ahí el vicepresidente ayuda al nuevo presidente cuando llega a gestionar las actividades de la red, entonces estuve creo que más o menos en esa época estuve con fuimos.
+
+[01:19:32]
+Con Edgar Ruiz exactamente el grupo no el grupo que estamos trabajando, pues Carlos muchas gracias por tu presentación supremamente esquemática secuencial un recuento histórico de muchos de los aspectos tecnológicos que vivimos y que siguen estando vigente en nosotros la primera base de datos que yo trabajé justamente fue informes en los juzgados de Tunja para tratar de consolidar ayunar información importante y relevante y luego trabajamos informes en la Fiscalía cuando entré a trabajar allí a hacer pues a tener una experiencia laboral alcancé a trabajar con informes y y también comparto, pues el gusto y el amor por la música, mi hija está estudiando guitarra clásica en la Javeriana y dirección de orquesta y efectivamente.
+
+[01:20:32]
+Es un lenguaje, no donde confluye todas estas estas ciencias no está ajena a nosotros está muy cercana y un gusto pues escucharte soy profesora de la Universidad Nacional desde el año 2000 es transitado desde las diferentes asignaturas desde las más complejas hasta hasta la más entre comillas sencilla ahorita estoy con los vivíparos recibimos en la Nacional 148 estudiantes en primer semestre entonces estoy trabajando con ellos y he transitado, pues también por las por las cuestiones administrativas, que pues también es un deber de los profes en la Nacional entonces estaba la coordinación del programa las direcciones de departamento la Dirección de Bienestar y actualmente representando al Consejo Superior en la Facultad de Enfermería aportando un granito de arena en esas otras facultades, entonces, pues muchas gracias y y qué gusto.
+
+[01:21:32]
+Escucharte preguntas, no tengo por qué en esa secuencia de en ese relato tan bonito, pues se iba respondiendo todas las inquietudes que uno iba teniendo en ese en ese transitar de esa historia de la ingeniería de sistemas en nuestro país, muchas gracias.
+
+[01:21:51]
+Bueno, no a ustedes muchísimas gracias, fue una experiencia muy grata hora y media echando carreta. Yo no sé dónde salió tanta, pero igual me alegro y fue para mí también muy muy grato muy interesante recordar toda la historia o toda mi vida profesional es un ejercicio muy agradable, que parece un poco ese programa que hay los en Caracol los sábados desde tu banda sonora o algo así donde uno recuerda toda su vida a través de anécdotas. Creo que esto me revivió bastante época bastante épocas de la vida que fueron la verdad muy gratas, creo que solo tengo palabras de agradecimiento con la ingeniería de sistemas del país con la Universidad a pesar de lo duro que nos dio y todo eso, pero pero creo que estoy plenamente satisfecho con con todo lo que hice alrededor de esto siempre hubiera querido hacer más, pero ya.
+
+[01:22:51]
+Ya es hora de decidir que paraba el motor, no tengo la energía que tiene Manuel de seguir trabajando en en en en temas nuevos, no? Ahora solo quiero mi música muy bien, muy interesante y siempre la conclusión que nos hace Kevin sí para que sepas tú sabes que aquí estamos Rafa García no sí, de la famosa maratón de programación. Él no está hoy lo mismo que Edgar que somos el grupo, no el grupo que estamos conformando este proyecto y Kevin que nos ha acompañado obviamente Beatriz Caicedo que ha sido centro para nosotros de tantas cosas que además acaba de recibir gratis un premio nacional importantísimo por su actividad en la asociación y Kevin que como estudiante nos hace la la conclusión de de tu charla Kevin danos tus opiniones, por favor.
+
+[01:23:45]
+bueno, pues primero que todo resaltar otra vez como decía Sandra como como esa línea temporal tan perfecta tan detallada con la que hablabas no solo de lo que ibas viviendo, sino de lo que iba pasando alrededor de la tecnología y siento que que es chévere porque pues por lo menos de mi parte como que vivir esos cambios tan tan drásticos en la tecnología a veces ni siquiera lo podemos ver porque son tan rápidos y a veces ya son muy muy como digamos los muy una actualización es digamos, cambiamos el botón de aquí para acá y ya es sí, pero en cambio que te digan a ti no trajimos el computador de bolsillo o esas cosas el mouse, esa anécdota que decía también Manuel esas cosas y pues digamos que
+
+[01:24:45]
+Por mi lado es difícil de vivirlas hoy, pero es chévere, escucharlas y saber también, cómo cómo influye tanto en en en en en todo el contexto que estábamos viviendo entonces, pues eso me pareció muy muy chévere y ya me quedo con esa forma relata también las anécdotas que siento que me parece muy muy muy chévere, que lo recuerda siempre con algo algo muy simpático que haya pasado en esa historia, entonces eso también me lo llevo muy bien, qué bien, muchas gracias, como siempre Carlos Mario pues sí, yo tenía que tocar el tema de la música contigo mucha suerte en ese nuevo proceso los amigos. Tú sabes que te seguimos y bueno, con eso cerramos y y no sé si Beatrices este conecta o no, oye, yo sé que ella tenía una actividad.
+
+[01:25:46]
+La voz está con entrecortada, que yo sé que ella está en una actividad o la Beatriz ahí te vemos.
+
+[01:25:54]
+Sí, la voz es diferente cortada, pero pero Beatriz que ella no necesita mucha presentación porque es el centro de todos nosotros la verdad con ella nos ayuda en todo lo imaginable y agradecemos mucho que es el centro también de este proyecto va a decir, muchas gracias la foto, quién toma la foto Kevin sí, señor la va a tomar bueno y ya en su momento le contaremos a Carlos Mario el vídeo mirar. Ahora lo demás todo esto porque nos has contribuido muchísimo Carlos Mario de esa manera, lista la foto.
+
+[01:26:34]
+Sí, bueno, muchas gracias a todos Carlos Mario nos vemos, muchísimas gracias a todos buena tarde. Gracias, chau, hasta luego todo. Nos vemos. Nos vemos. Hasta luego.

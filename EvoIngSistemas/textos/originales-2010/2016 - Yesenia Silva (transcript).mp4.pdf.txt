@@ -1,0 +1,464 @@
+[00:00]
+Bueno, estamos con Yesenia Silva de la Universidad agradable en la Universidad Nacional y el grupo que siempre hemos acompañado, aquí está en este momento el profesor Edgar Ruiz Beatriz Caicedo y así es Kevin como el buen master. Estamos esperando también la Santa Adriana Rojas y Rafael García está en la maratón de programación que es exigente no puede estar pero es del grupo, entonces la entrevistadora debe ser Sandra pero si llega seguirá ella de todas maneras lo que queremos escuchar el proceso de Yesenia no sé si Edgar quiere comenzar algo como introductorio y arrancamos no Yesenia pues básicamente nosotros hemos entrevistado personas desde el nacimiento de la carrera aquí en Colombia y pues hemos tenido.
+
+[00:59]
+Distintas visiones de acuerdo con su formación de acuerdo con el currículo que siguieron de acuerdo con su relación con la tecnología en sus diferentes experiencias laborales y de acuerdo también a las experiencias académicas posteriores entonces pues más o menos lo que queremos es como en este sentido tú como has participado en todo es evolución y y bien lo decía Manuel quisiéramos saber desde el interés que te surgió antes de ingresar a la carrera.
+
+[01:36]
+Exacto, mientras tú hablas yo tomo algunas noticas, pero no crees que estoy mandando correos ni nada de ese estilo, no adelante. Yo sé. Bueno, pues yo me gradué del colegio en el año 2009.
+
+[01:57]
+Estudié un colegio público en Mosquera Cundinamarca me interés por por estudiar Ingeniería de Sistemas pues surgió en el colegio en la clase en el curso de sistemas que nos enseñaban cosas como principalmente como utilizar las herramientas de ofimática y y ya en el último curso en 11 una profesora que teníamos un poco también como el concepto de algoritmo y entonces ahí me surgió como como esa intriga de saber cómo cómo funciona el computador que estábamos usando porque no lo usamos para cosas como muy avanzadas más que hacer como presentaciones en Power Point hace como planas de mecanografía y esas cosas pero sí o sea me me inquieta.
+
+[02:57]
+Necesito saber cómo funcionaba que estaba pasando ahí en la CPU y en los pocos conceptos que nos enseñaron ya como de computación, si si me daba mucha curiosidad saber qué pasaba por dentro por dentro del computador y creo que ahí fue donde nació como mi interés por por la Ingeniería de Sistemas y por querer estudiar esta carrera entonces pues en 2009 me gradué inmediatamente entré a estudiar Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia en el primer semestre de 2010.
+
+[03:38]
+Ahí cuando cuando ingresé el primer semestre, pues se me hizo duro o difícil sobre todo la materia de cálculo diferencial, o sea, yo sentía que no estaba preparada para para esa materia a pesar de que no me tocó hacer la nivelación de matemáticas.
+
+[04:00]
+Y después del primer parcial dije como no y terminé cancelando la y siendo asistente de matemáticas básicas en una clase y así estuve todo este mes hasta que de verdad me nivele en los conceptos que necesitaba y al siguiente pues ya retomé esta decisión fue digamos dura porque sabía que me iba a trazar porque esa era el requisito para todas las otras materias, que que siempre era creo que tres entonces, pues ahí estuve como atrasada todos los siguientes semestres por esa decisión, pero pues fue la mejor decisión porque si no creo que no no hubiera logrado pasar esa materia con los conocimientos que tenía de base.
+
+[04:42]
+Después qué materias me gustaron mucho en la carrera? Me gustó mucho la materia de bases de datos aprendí muchísimo tenía un profesor bastante. Bueno que transmitía sus conocimientos muy muy dinámicamente y otras materias que también me gustaron mucho fueron ingeniería de software y arquitectura de software, puedes mencionar nombres de los propios cuando quieras no es parte del tema cuando
+
+[05:18]
+El profesor de base de datos no no recuerdo su nombre de ingeniería de software.
+
+[05:31]
+Se me escapa el nombre del profe, no importa no importa no cuando te acuerdas.
+
+[05:41]
+y esas materias me gustaron bastante en la universidad también cuando iba como en sexto o séptimo semestre tal vez no cuando yo comencé estos semestre decidí aplicar al programa de mejores promedios para aprender francés y hacer un intercambio académico en Francia entonces en el año 2013 para el segundo semestre 2013 empecé el intercambio académico en una universidad en Francia que en ese momento la universidad se llamaba University de París
+
+[06:27]
+Actualmente la universidad se cambió de nombre, se llama universidad Gustav Eiffel allá estuve un año pues viendo materias de el Máster uno de informática.
+
+[06:46]
+y cosas como de programación en Payton de criptografía materias de lenguaje y pues también en francés avanzado para
+
+[07:06]
+Cómo terminar de complementar el estudio en francés y ya cuando regrese en qué ciudad es la universidad?
+
+[07:18]
+Mar de la vales se llama, vale? Sí, es una ciudad universitaria pequeñita que queda en Ildefons o sea, está París que es la zona 1 2 3 y era en la zona 4 o sea, cerquita a París
+
+[07:40]
+y ya luego regresé, pues homologue las materias hay bastantes fueron como por electivas y pues continué la la formación en la Universidad y empecé a hacer la práctica profesional en el Banco de la República
+
+[08:02]
+Inicialmente, pues iba a ser los seis los seis meses de práctica y se los seis en el banco me preguntaron si quería continuar y pues dado que me quedaba, solo creo que una materia para el último semestre, entonces decidí continuar hice, pues la última batería que me quedaba y repetí repetir la práctica, entonces tuve un año haciendo práctica en el Banco de la República en el departamento de seguimiento a la infraestructura financiera ahí fue muy chévere, porque estuve trabajando en un proyecto de Inteligencia de Negocios entonces estaba en la etapa de hacer el diseño de la Bodega de Datos para para ese proyecto, entonces estuve trabajando en eso y ahí ya llega el momento en que me gradué en agosto 2016.
+
+[08:58]
+Y en el banco me proponen continuar trabajando en ese proyecto como pero como no como empleada del banco sino a través de la temporal.
+
+[09:23]
+El profesor Edgar trabajó en el Banco de la República maravillosa ha sido, no? Y lo fue también en esas épocas en la universidad un poco el ambiente colegas amigos actividades distintas al estudio o deportes o arte o eso cómo fue esa esa vivencia sí y bueno cuando me acuerdo, no sé la semana de inducción entre y o sea, para mí fue sorprendente ver tantos niños porque creo que fuimos como 87 admitidos a la carrera y sólo tres niñas tres nos graduamos todo el tiempo.
+
+[10:15]
+Sí, solamente tres de 87 venía yo de colegio femenino claro, entonces sí, pero pues sí se hizo muy buenos amigos amigas también de las otras dos niñas y también estoy, trabajamos en algunos proyectos en diferentes materias hice dos muy buenos amigos que con ellos también viajé al intercambio en Francia aún seguimos siendo amigos y pues trabajábamos bien muy bien en lo académico y también en actividades extracurriculares, qué más cosas? Cómo sentías eso? Tú sabes que hoy en día el tema del género es todo un tema estudiado cómo sentías eso o como mujer, casi todos hombres estuvo bien sin muchas diferencias o como como lo
+
+[11:15]
+Si fue un reto para ti esa adaptación ahí en realidad no se sentía como muchas diferencias, lo único de pronto era que en las clases pues uno resaltaba por por ser mujer, entonces sí, siempre al que le preguntaban era uno ese como ese tipo de cosas, pero nunca sentí discriminación ni nada de eso y por qué? Por qué crees que en esa época sólo entraste tú podían haber entrado muchas más que restricciones veías como para que no hubiera motivación o orientación para que estudiaran esa carrera.
+
+[11:59]
+Y no sé por ejemplo, viéndolo como en mis compañeras del colegio la mayoría querían cosas como psicología más como hacia la ciencias humanas muy pocas que que yo sepa es terminaron estudiando ingeniería y creo que de mi salón yo fui la única que que salió ingeniera de sistemas.
+
+[12:28]
+También de las tecnologías que había en ese momento computador, cómo era la cuestión en esa época que te apoyaste tecnológicamente para el desarrollo. Sí, pues ya habían computadora en la universidad. Habían salas de computadores también, pues uno como estudiante de Ingeniería de Sistemas también tenía su propio computador portátil. Yo tuve uno, que pues me duró toda la carrera.
+
+[13:02]
+Ya no sé en los celulares, a mí me dieron mi primer celular para para entrar a la universidad a pesar de que en el colegio todo el mundo ya tenía celulares. A mí a mí no, no me daba el celular en mi primer celular. Me lo dieron mis hermanos cuando entré a la universidad ya ya era color y era táctil, pero no tenía para wifi, solo tenía como para datos, si podía entrar como a redes sociales y eso, pero pues con datos salía más costoso entonces en realidad lo utilizaba más que todo como para llamar.
+
+[13:45]
+Y la universidad tenía un centro de cómputo, tenía mi computador. Sabías eso? Sí, sí, ya habían salas de computadores, no eran no se me hacían buenos, o sea, yo siempre, por ejemplo, prefería llevarme por computador personal, o sea, todos los días cargado mi maleta pesada, todo ese computador, pero prefería llevarlo porque en los computadores que habían pues primero, pues no estaba el software instalado que seguramente yo necesitaba y también era, pues lentos entonces si aunque había había recursos y servía para hacer de pronto algunas algunas tareas que fueran de pronto en en word o algo así o enviar correos, no, no, como tal para hacer el desarrollo de los proyectos.
+
+[14:42]
+Cómo era el programa de mejores promedios, cuál era la idea?
+
+[14:48]
+Que el programa de mejores promedios para aplicar había que tener creo que más de cuatro de promedio académico del ponderado acumulado.
+
+[15:00]
+Y creo que más del 60% de la carrera ya no recuerdo bien las características, pero era eso ya cuando lo admitían a uno entonces le daban a uno un año de formación en el idioma.
+
+[15:21]
+Y pues le hacían un seminario como a los de francés, pues un seminario enfocado a la cultura francesa también lo guiaban a uno a cómo escribir las cartas de motivación para las universidades y hacer como todo el proceso, pues para aplicar a las universidades y poder poder viajar también un poco de acompañamiento con el Icetex para quienes teníamos que pedir algún crédito yo, por ejemplo, pedí crédito de sostenimiento, entonces también teníamos el acompañamiento y como el aval de la universidad, pues para que nos ayudaran con los trámites.
+
+[16:02]
+Y la experiencia llegará en Francia cómo fue digamos ya el idioma, en qué nivel estabas cómo te sentiste? Hiciste, amigos franceses extranjeros o había sobre el grupo colombiano? Cómo fue para poder viajar el requisito era sacar B2 en el DELF que es el examen internacional de francés, entonces, pues ya iba con buen nivel de francés, pero pues cuando uno llega ya también es como uy, ya no entiendo ya no entiendo nada porque también los acentos son diferentes sobre todo ahí en esas zonas cercanas París como que se come más las es que en otras zonas entonces al principio, pues fue difícil como entender y acoplarse las clases, creo que si las entendía porque pues los profesores hablan así más pausado, pero hacer como cosas cotidianas, no sé, no me servía el calentador y en la habitación ir a decirle esas cosas.
+
+[17:01]
+una persona que hacía esas cosas era se me hacía difícil adaptarse a esas situaciones fue difícil pero pues una experiencia retadora también que que pues es bueno para el para el desarrollo de un allá hice varios amigos sobre todo como internacionales porque pues uno llega y lo acogen como todos los internacionales vengan les damos semanas de inducción les mostramos la Universidad todos entran al curso de francés entonces pues conocí muchos españoles colombianos íbamos dos tres de la Universidad y otra muchacha de los Andes habían rumanos varios taiwaneses italianos alemanes daneses entonces como que más que todo conocí o
+
+[18:02]
+tuve mucha relación con personas extranjeras
+
+[18:06]
+Con franceses más bien poco con algunos de las clases, que ya ha tomado uno que o sea diferentes al curso de francés.
+
+[18:15]
+Pero no, no sé no logré hacer como una relación tan cercana con ellos solo con una con una francesa, pero era porque ella también estaba interesada en practicar español porque estudiaba estudiaba lenguaje y entonces, por eso nos hicimos bastante amigas. Aún seguimos charlando.
+
+[18:44]
+Bueno, muy bien, entonces volviste a la universidad.
+
+[18:47]
+Y bueno, seguiste tus estudios había actividades deportivas o artísticas o algo en la universidad o muy centrados en el estudio Manuel pero yo quisiera preguntarle si tuvo diferencias tecnológicas allá en el aprendizaje o no de acuerdo con la Nacional algunas estructuras o si diferencias tecnológicas que hubiera aprendido desarrollado contacto y que los tenía.
+
+[19:19]
+En experiencias tecnológicas bueno, uno creo que las salas de computadores de allá funcionaban mejor. Allá creo que casi nunca tenía que llevar mi computador siempre trabaja en los computadores de allá y otra no tanto así como como en cosas de la Universidad sino en temas como por ejemplo de celulares.
+
+[19:45]
+recuerden esa época acá casi nadie tenía como plan postpago y eso porque era demasiado caro allá era como
+
+[19:55]
+no recuerdo el precio, pero era muy barato y era como 10 GB que acá yo ustedes me decía cada 10 gigas de navegación.
+
+[20:03]
+O sea, ahorita sí, pero pero hace 10 años que ya fue eso, o sea, era bastante y aparte le daban a unos cinco de roaming para internacional en toda Europa eso, o sea, se me hacía impresionante tener toda esa navegación en el celular.
+
+[20:22]
+Y otra cosa que también se me hace impresionante y creo que todavía me impresiona la aplicación del clima, o sea, porque haya uno siempre veía y está lloviendo y si estaba lloviendo en cambio, acá creo que eso no no nunca funcionaba también, pero allá sí, o sea, si le sugería el celular hoy lleve paraguas, tocaba llevar paraguas porque era cierto esas cosas.
+
+[20:51]
+Muy bien, en cuanto al software, por ejemplo, hay más licencias, se maneja el software libre o hay muchos software propietario en las cómo se maneja ese tema no las configuraciones de los computadores eran como bien parecidas a las de acá sí, y pues le enseñaban tecnología o similares, no sé lenguajes de programación que también estaban en el pensum de acá.
+
+[21:28]
+de qué trabajas en el lenguaje es como se llamas más Python sí Visual Basic estoy mal, verdad, pero Python en esa época todavía no se movía o se oía se movía sí de hecho en los cursos que tomé allá en Francia en varios fueron en país en alguna clase ya no se nos empezaron a hacer utilizar Python
+
+[22:02]
+Muy bien, muy bien, sigue entonces el proceso ya estás en la universidad otra vez cierto vuelves, qué semestre era que estabas en la universidad que no anoté en ese momento de Francia que se me estabas.
+
+[22:18]
+sería como el séptimo semestre ya casi para terminar 2013 2014 había tres opciones hacer tesis hacer materias de maestría o hacer para Santiago
+
+[22:41]
+yo hice pasantías, me gradué con una opción de grabar pasantía.
+
+[22:47]
+Tesis pasantías y el otro era cual y materias de maestría hay maestría.
+
+[22:56]
+Claro, muy bien y yo la dijiste la pasantía precisamente en el banco.
+
+[23:05]
+En el Banco de la República del banco te acuerdas de algún ingeniero de sistemas con que trabajaste sí, si con la persona que más trabajaba era ingeniero de sistemas él se llama Carlos Alberto cadena.
+
+[23:24]
+y tenían alguna relación o eran personal del área en el que trabajabas o tenían relación con los departamentos de sistemas o de seguridad el trabajador en el departamento donde yo estaba y pues la mayoría de actividades las realizaba con
+
+[23:44]
+el banco se para ciertas áreas especializadas y tiene personal técnico, pero hay ciertas dependencias directas con con el departamento de tecnología con el área de tecnología tuviste relación con ellos sobre los el bosque se trabajaba allá.
+
+[24:11]
+Tecnológicas destacas en banco, sí, pues yo estaba trabajando en como practicante en el proyecto de Inteligencia de Negocios entonces pues cada proyecto tiene, o sea aparte de tener como el gerente que es del área del negocio siempre tienen un ingeniero líder que es de tecnología entonces sí tenía relación con partícula cómo se llamaba?
+
+[24:43]
+Pero yo creo que le dije ingeniero el sistema no, no recuerdo bien, pero él es la ingeniero líder para ese proyecto.
+
+[24:58]
+Y de ahí, pues y de ahí, o sea, por ese lado digamos del banco, pero trabajamos con contratistas que era al final los que iban a desarrollar la herramienta, entonces por ese lado había un arquitecto de bei y las personas que trabajaban con él que eran desarrolladores también para para herramientas de Inteligencia de Negocios entonces ahí también interactúe con con varias personas de esa entidad.
+
+[25:40]
+qué época estabas tú Edgar
+
+[25:59]
+Bueno, y entonces te gradúas con la pasantía, vamos a ello.
+
+[26:08]
+Y ahí seguir trabajando en ese proyecto ya como profesional Junior y empleada de la temporal que le prestan los servicios al banco.
+
+[26:21]
+Y en teoría iba a estar un año que es como el máximo tiempo que no puede estar como de temporal.
+
+[26:30]
+Pero cuando iba como seis meses o un poco menos se dio la oportunidad de entrar a trabajar directamente con empleada del banco, pero en otro departamento y en el banco, pues tienen algo chévere que es cuando no es practicante su hoja ya queda como en un semillero. Entonces lo puede contratar más fácil por ya haber sido practicante entonces me llamaron entrevista.
+
+[26:58]
+Y me dijeron que sí y entonces estuve ahí al final solamente seis meses en el proyecto.
+
+[27:07]
+Con acuerdo como de empalme me fui al otro lado ya como empleada del banco y estuve como un mes haciendo empalme a las personas nuevas que entraron.
+
+[27:18]
+Y entré a trabajar al departamento de inversiones internacionales a un grupo es un departamento financiero, pero somos cuatro profesionales de la ingeniería de sistemas que trabajamos ahí todavía estoy trabajando ahí allá. Voy siete años siete años, qué pensaban tus papás en esas épocas de ti con la expectativa del papá y la mamá del desarrollo de su hija.
+
+[27:51]
+Y pues digamos cuando me grabé muy muy contentos porque yo en una de una familia muy grande, o sea, mis papás tuvieron ocho hijos muchos los yo soy ya de las menores los mayores no, no estudiaron porque pues no, con qué recursos entonces mi hermana que es un poquitico mayor que yo ella vive en España ya se puede para allá muy joven y de hecho muchos de todos mis hermanos mayores se fueron para allá.
+
+[28:27]
+Y ella estudió ya medicina y se graduó, entonces fue como la primer profesional de la familia y ya después yo acá la segunda entonces, pues muy felices de de tener, o sea, de poder ir al grado de ver todo, cuántas mujeres son en tu familia somos cinco?
+
+[28:48]
+Y las dos primeras fueron mujeres las dos primeras grabadas.
+
+[28:56]
+ya después mis otros hermanos y también también pudieron estudiar gracias a Dios
+
+[29:03]
+Pero sí, pues con la expectativa y muy contentos también de que me pudiera quedar trabajando en el banco, claro, sí, vale la pena.
+
+[29:15]
+Sí, la verdad que el banco donde está inversiones internacionales donde se administran las reservas. Ah, pero entonces estás en el departamento de cambios internacionales, no inversiones inversiones, no, pero es que el departamento también tiene, tiene tres áreas tiene deuda externa compensación de inversiones, pero entonces si estás en qué piso tenían tiene las de ellos en el cuarto cambios ya es el departamento donde hay transacciones realmente no donde están los deals y dónde están todas. Ahí está Camilo Restrepo Camilo Restrepo es mi compañero que él es ingeniero de sistemas también. Él era mi usuario funcional cuando yo estaba en el banco.
+
+[30:15]
+Camilo Restrepo ha sido un apoyo fundamental para los practicantes y bueno, lo sabe guiar es un muy buen tutor y yo he tenido varios practicantes allá dirigidos por él entre otros me sigue pidiendo cuando se presentan oportunidades y nosotros todos los semestres tenemos dos practicantes de Ingeniería de Sistemas y siempre estamos ahí con Camilo y con otro compañero somos, pues el tutor digamos legal es nuestro jefe, pero nosotros somos los que estamos ahí acompañándolos todos los días cuáles eran más o menos las funciones tuyas eran y son en el departamento. Bueno, pues cuando entré era tenía cargo profesional.
+
+[31:07]
+Y luego ascendía profesional especializado entonces cambiaron un poquito, pero siguen teniendo mucha relación cuando ingresé.
+
+[31:18]
+Bueno, primero me tuvieron que capacitar mucho en temas de finanzas porque pues de eso sí no sabía no sabía nada y la principal función conciliación de información entre los diferentes sistemas en los que se manejan todas las inversiones, esa es la principal, entonces responsable ahí de todo el tema de información y de decirle a las personas listo, la información ya está lista en el sistema o tenga el reporte ya puede usarlo para sus funciones también apoyando la ejecución del plan de continuidad. Si inicialmente era sobre todo eso como hacer que se ejecutarán las pruebas de continuidad del negocio para eso, pues ahí pues diferentes como estrategias entonces no?
+
+[32:18]
+Sé cómo conectarse remoto, qué hago si este sistema está caído? Pues entonces esta es la contingencia manual ese tipo de cosas, entonces era como apoyar la ejecución de las estrategias y también desarrollo, pero más como un mantenimiento de aplicaciones que que habían en Visual Basic for application.
+
+[32:46]
+Básicamente esas eran las funciones y ya cuando bueno luego para ascender a profesional especializado tuve que hacer una certificación en finanzas.
+
+[33:02]
+Que es una certificación que da el Instituto si se llama investment foundations.
+
+[33:12]
+Eso más dos años de experiencia siendo profesional y pues haber cumplido como mis logros o los proyectos que me asignara mi jefe.
+
+[33:25]
+ya siendo profesional especializado, tengo muchas de esas labores que tenía antes pero con un poco más de responsabilidad entonces ahora más como administradora de los sistemas un poco relacionado con continuidad Más como liderando esa continuidad del negocio revisando y creando nuevas estrategias y participando activamente pues en la en las reuniones que se dan con diferentes áreas del banco para para llevar eso a cabo y también gerenciando proyectos que van saliendo pues dependiendo las necesidades del negocio por ejemplo últimamente creciendo del lado del negocio la implementación de bots en tecnología RPA
+
+[34:23]
+Pues y que eso lleva conlleva contactar varias áreas de o varios líderes de diferentes áreas del banco para poder que salga o que avance el proyecto.
+
+[34:40]
+Esas son básicamente las responsabilidades y también siempre tener un practicante y guiarlo durante todo toda la todo el semestre.
+
+[34:56]
+Enseñarle un poco de finanzas de las tecnologías que tenemos del proceso de inversión.
+
+[35:07]
+Cómo fue la experiencia de la inteligencia de negocios que parece que trabajaste bastante cierto?
+
+[35:14]
+Sí, lo trabaje como practicante y luego en el área que estoy también tuvimos un o sea, migramos nuestra información a la Bodega de Datos y actualmente, pues la estamos explotando.
+
+[35:30]
+Con tecnologías como obi de Oracle power bi eso es como lo que lo de ahorita en el momento en el que fui practicante y y temporal para para el proyecto en la otra en la otra área, pues aprendí mucho de arquitectura de vi ahí, porque pues es estuve en el momento cero en que empezó el proyecto. Entonces vi como salían todas las ideas todas las necesidades de de organizar la información y y qué era lo que querían como los altos mandos ver en sus reportes que al final pues ese es el objetivo de la inteligencia de negocios que tengan unos reportes que se actualicen casi que automáticamente y puedan verlos muy rápido y poder tomar decisiones informadas entonces.
+
+[36:30]
+Entonces aprendí muchísimo de todos los conceptos de bioquímica del diseño también, pues como de esa relación con el contratista y de que me entregué y yo pruebo también estuvimos trabajando con fábrica de pruebas, entonces ver qué resultados me entregaba fábrica de pruebas, entonces esa esa experiencia fue muy enriquecedora porque no solo aprendí sobre vida y sino también de cómo funcionaba el mundo con los contratistas que ahora pues es como funciona el desarrollo de software.
+
+[37:13]
+Y tú bueno, el banco ha establecido y ha mantenido algunas políticas de desarrollo de ciertas características en este en este tipo de contratos que tienes te rigen por algún marco un framework, alguna están trabajando agilismo o qué tipo de Marcos están siguiendo.
+
+[37:38]
+Pues depende del proyecto, por ejemplo, nosotros ahorita solo tenemos contratista para mantenimiento de una aplicación entonces, pues al ser mantenimiento y solamente, o sea, tenemos como el contrato con ellos funciona por horas y funciona es que ellos nos entregan como el análisis del requerimiento tenemos yo, o sea, pues soy del departamento del área de negocio, entonces igual tengo mi ingeniera líder, que es de tecnología. Entonces ella acepta que sean tantas horas de desarrollo de dependiendo también como de acuerdo a su experiencia y por parte del negocio. Yo estoy pendiente de que el requerimiento si tenga o sea, si cumpla las necesidades que hicimos que pedimos.
+
+[38:38]
+Pero pues digamos que toda esa parte como de la gestión, la hace la ingeniera libre la ingeniera que trabaja ya directamente con tecnología porque el contrato es con tecnología.
+
+[38:55]
+Y quién es y te acuerdas? Eran los que fueron gerentes del banco en esas épocas tuyas te acuerdas de directivos importantes porque es que los directivos del banco siempre han sido personas muy presta en el país no a nivel de Economía Finanzas
+
+[39:17]
+Te acuerdas quién es quiénes dirigían algunos dirigentes y cuando yo era practicante era Juan José me recuerdo el apellido.
+
+[39:27]
+José Echevarría sí
+
+[39:32]
+y luego fue.
+
+[39:40]
+Leonardo y no te tocó nada.
+
+[39:56]
+fue en la época remotas muy importante la Junta Directiva creo que hasta presidente fue el banco y él fue director de fe desarrollo y con Guillermo Ferri y con Juan José Echevarría trabajé con SPSS haciendo haciendo econometría de los proyectos que ellos enseñaban y era gente muy del banco no muy cercanos al Banco de la República
+
+[40:35]
+bueno
+
+[40:36]
+Y hoy estás entonces muy bien ubicada en el banco relación con la universidad después de graduada, has tenido alguna relación?
+
+[40:47]
+pues no mucho mantengo contacto con una de las profesoras que es la ingeniera Jenny Marcela Sánchez
+
+[41:00]
+Ella fue mi tutora en la práctica y en la pasantía.
+
+[41:07]
+Y sí, regularmente como que nos saludamos.
+
+[41:13]
+Pero con la universidad no mucho, no mucho y con Sandra porque Sandra Liliana fue la que nos remitió su nombre algunas con ella.
+
+[41:28]
+No tanto yo sí la conocí en la universidad, pero entiendo que fue la profesora Jenny Marcela la que le dio mi nombre a la profesora o que la profesora Jenny o de otra área.
+
+[41:50]
+Creo que ahorita está como algo en la dirección ahí en la universidad.
+
+[41:58]
+Bueno, veo que tú fuiste estas estudiantes y luego profesionales, pero sobre todo cuando llegaste que ya había una tecnología ya existían los microcomputadores existía celular. Aquí hemos visto en entrevistas cuando no había nada, sí, solamente un gran computador central, no? Y luego vienen todas estas tecnologías, o sea, ya había tecnología. Ya tenías tú tu PC etcétera y obviamente, has visto el desarrollo de cómo ha avanzado de esta tecnología no desde ese punto de vista alguna visión comparativa de cuando tú entraste al banco y como estás ahora desde el punto de vista tecnológico algún comentario del cambio.
+
+[42:46]
+Pues sobre todo como en las características de los computadores, que pues han mejorado un montón en la memoria RAM y ahora pues no corre todo todo más rápido sobre todo sobre todo eso. Ah, bueno y también el acceso remoto, que antes no sé antes de la pandemia, era como no desde la casa, no? Porque riesgo en esa parte pues tienen que haber trabajado mucho en la seguridad para que podamos conectarnos desde desde fuera de la organización, eso yo creo que de los avances más grandes más grandes que han tenido muy bien y estás ubicado en Bogotá estás viajando al exterior o más que todo me está en Bogotá
+
+[43:41]
+más que todo aquí a veces me mandan a cursos en el exterior de capacitación, por ejemplo, bueno, por la pandemia no, no volvimos a viajar los hacíamos virtuales, pero ya este año retomamos y ahorita en el otro mes voy a un seminario de entrenamiento en finanzas en París
+
+[44:12]
+Pero pues en general trabajo es acá el banco, entonces el banco tiene fama de ser un gran patrón como se dice en el lenguaje, o sea que yo vea mucho a su gente que sea formativa que mejore no dentro de sus trabajos. Siempre ha sido muy ejemplar la verdad, no?
+
+[44:40]
+Edgar que quisiéramos indagar pues digamos a mí me gustaría de acuerdo a tu experiencia actual y de acuerdo a las relaciones que has tenido laborales y ahora pues interacción con los usuarios que recomiendas que deberían tener los currículos académicos para fortalecer a los estudiantes para que se enfrenten a la vida actual y podrías unirlo a la a la visión que tiene de los practicantes que son jóvenes no particularmente en nuestra carrera. Yo creo que algo que forme como en habilidades blandas porque muchos de los muchos de mis compañeros en la universidad.
+
+[45:40]
+Muy tímidos a veces se les dificultaba trabajar en grupo y eso que siempre nos requiere muchísimos proyectos en grupo, pero sí sentía que había había como, o sea, como que les faltaba desarrollar esa esa parte de comunicación. Entonces creo que eso incluso ahorita con los practicantes que he tenido durante estos años siento que y sobre todo en los hombres, o sea, cuando tengo dos niñas, siento que son más abiertas preguntas se comunican mejor, pero los niños a veces son como muy muy tímidos y casi que hay que decirles, pero venga, cuénteme, qué le pasa al final al final cuando ya cogen como más confianza si son más abiertos y o sea, se siente la evolución que que tienen durante el semestre, pero no sé si de pronto cuando llegan a trabajar a otro lado vuelven y
+
+[46:40]
+Nacido tímidos entonces creo que hace falta algo de eso de trabajar las habilidades blandas porque a veces uno de ellos son excelentes en técnicamente, pero si no tienen esa esas habilidades blandas de pronto llegan a una entrevista y pues ni se hacen notar y ya está hasta hasta ahí quedó. Digamos la oportunidad, que y he visto muchos que son muy muy buenos, o sea, no les ve el trabajo y no, o sea, si tuviera un poquito más desarrollada esa habilidad de comunicar de socializar tendría mejores oportunidades.
+
+[47:21]
+Y desde ese punto de vista entonces porque tú ahora ya estás más metida en temas de negocio, no? Pues obviamente tecnología, qué recomendación darías al respecto? Porque pues de hecho las demandas si bien y bien son de gente técnicos tecnólogos programación etcétera y no se ve desatender la codificación la programación la arquitectura de más la visión hacia el ingeniero de sistemas con visión holística, qué piensas para meterte tú en el negocio?
+
+[47:57]
+Como si me termine el negocio, estás más en como eres soporte técnico, pero has avanzado en el conocimiento de la funcionalidad en el que está qué recomiendas para un chico para que tenga esa capacidad de aprendizaje sobre el negocio en el que se va a involucrar.
+
+[48:24]
+Pues no sé, es que nuestra carrera es como tan versátil y puede entrar con cualquier área, que eso es algo que que es muy chévere, que si uno puede trabajar con muchas disciplinas y combinarla y hacer cosas muy grandes, entonces no esa esa pregunta está muy difícil porque son demasiadas áreas, entonces creo que no sé es como más y creo que si no lo si si lo aprendí en la universidad y es la trabajar en diferentes temas cuando uno ve por ejemplo, taller de proyectos interdisciplinarios poder trabajar con todos los de ingeniería y decir ustedes tienen esta esta necesidad o este problema creo que ahí se está desarrollando y en ese tipo de material funciona bien y digamos cuando yo entré empecé a trabajar en esto de las finanzas, pues no sabía nada.
+
+[49:24]
+Me dejó guiar. Dejo que me enseñen pregunto todo lo que tenga dudas pregunto porque no soy experto en el tema. Entonces creo que simplemente tener esa actitud de quiero aprender y y sé que no soy la experta en esto entonces siempre me tengo que apoyar del experto. Yo creo que en el Banco de la República es una buena muestra y tú sabes que Francisco Rivas que es el director de El gerente corporativo, es ingeniero de sistemas, no? Y bueno, ahí tenemos algunos otros el sugerente industrial. Bueno, hay varios y y ha progresado mucho precisamente por la visión holística que se tiene y la facilidad de aprender de otras áreas, no, que no pasa lo mismo a pesar de que se supone que debe ser con carreras.
+
+[50:24]
+Entra a competir con ellos, pero el soporte el desarrollo de la tecnología la relación con las personas pues genera ciertas habilidades en los ingenieros de sistemas como veo que los tienes tú no? Entonces me alegra destacar esto Yesenia porque esto es un aportes importantes. Esto lo van a conocer decanos de ingeniería de sistemas, como recordamos a un cine universitario de de la personalidad de del ingeniero de sistemas es muy importante cierto. Yo hice un yo yo yo hice una pequeña investigación sobre la psicología la llamé psicología y filosofía del hacker teniendo tener el hacker como el concepto del programador cierto de la persona apasionada y dentro de ese tema me encontré mucho con con esa.
+
+[51:23]
+Personalidad solitaria no a veces no silenciosa cuando yo hablo de eso a veces me critican y me dicen no nosotros vamos a discoteca y bailamos y todo eso, pero sí mire que tú estás hablando de una tendencia al silencio una tendencia a no comunicarse verbalmente de acuerdo y y y dos elementos estudiados uno fue con Freud que el psicoanalista sí que habla de de soledad buscada no dice la persona que busca la soledad prefiere estar con una máquina sentado pues no había computadores hoy en día en esa época pero la personalidad no y el otro que he hecho Pen Hauer que habla de la insociabilidad del ser que le da valor a la soledad del del técnico no o del músico en el sentido de que en esa soledad es que puede componer puede hacer tecnología o cosas de ese estilo pero por ejemplo en una entidad como el banco.
+
+[52:23]
+La personalidad tiene que ser muy abierta cierto otra cosa. Es que entra una casa de software donde van a estar con Python las 8 horas en the booking y en ese tipo de cosas no? Y yo creo que ese es un mensaje interesante para las universidades para nosotros lo que estamos escuchando porque según tú dices captas, que ahí hay una falencia.
+
+[52:48]
+Y no sé más, cómo tener como esa actitud al servicio, porque puede que sí, cuando yo me siente a trabajar me concentro y estoy aquí solita y hago todo bien, pero tener esa, o sea, esas habilidades de comunicación y y como ser muy servicial, pues hace que también las cosas funcionen mejor los proyectos avancen más a veces no sé de pronto alguno que es muy tímido, no pregunta y se fue por el camino que no era hace perder tiempo en el proyecto también son cosas que que se ven impactadas por ese tipo de como de comportamientos.
+
+[53:34]
+Sobre todo la Universidad el banco es una muy buena escuela, no? Porque todo el mundo está dispuesto a enseñar, no? Sí sí, la verdad es que hay o sea el ambiente laboral.
+
+[53:48]
+Así que uno se sienta muy cómodo como en confianza de preguntar de las personas están dispuestas a uno a enseñarle, entonces eso eso también es muy bueno.
+
+[54:03]
+Habrá cambiado la cultura tú como llamas a tus jefes por el nombre por el título por el cargo a mi jefe.
+
+[54:16]
+Me permite, me permiten tener un minuto sigan, pero no se me vayan y yo pregunto eso digamos la cultura en y se mantiene a conocerlo como llamas a tus jefes, si por el nombre por el título o por el cargo, por ejemplo por el nombre y casi que en diminutivo como muy muy cercano muy cercano, esta es una cultura que mantiene no inclusive, tú le puedes decir al gerente por su nombre y él te tratará también por tu nombre ninguno por doctor o por jefe muy rara vez los USA pero pero lo común es que la gente se conozca más como persona no sí, como persona de pronto los abogados. Sí son así más formales, pero el resto de personas y si por su nombre, pero aún así si tú les dices por el
+
+[56:28]
+Ya llevo pensionado 20 años entonces, pues bueno.
+
+[56:36]
+Mucha historia sigue Manuel no, no bien, no me parece que simplemente repitiendo que esa comentarios sobre la personalidad de los jóvenes es muy importante, no creo que estamos muy pegados a la máquina, no todavía no.
+
+[56:58]
+Y eso no se para de la comunicación con las personas.
+
+[57:03]
+Que que hay que trabajar a nivel de la Academia sí que no esperar a que lleguen a las empresas para que les exijan esas competencias, sino que hay que acercarlos más desde desde la academia efectivamente.
+
+[57:18]
+Yo me acuerdo cuando en un minuto graduamos había grados y y a uno le toca darle la mano a todos los de la que se gradua sí, y uno captaba la diferencia de como la daba el ingeniero civil, sí, como la de sistemas como lava los que trabajaban en temas de comunicación gráfica, los artistas no es decir, indudablemente como que la profesión marca una manera de ser personas, pero creo que en la ingeniería de sistemas sí hay que seguir trabajando estas estos temas de habilidades blandas que menciona Yesenia es un mensaje. Yo creo que es bien importante.
+
+[58:03]
+de ingeniería de software y arquitectura eso excelente excelente profesor y también cada miembro de Asís
+
+[58:41]
+Qué bueno y olvidé mencionar también otra materia que me gustó mucho en la universidad pensamiento sistémico y que creo que es como, o sea, la que nos hace ingenieros de sistemas que nos enseña ese pensamiento holístico a analizar los sistemas a entender las entradas las salidas importantísima, o sea, sé que muchos salen como pensando soy programador y ya, pero creo que esa es la que de verdad nos da a nosotros las habilidades para poder precisamente lo que hablábamos ahorita ser multidisciplinar.
+
+[59:21]
+Y me la dio la profesora Jenny Marcela Sánchez como la tienes tan presente y yo la dictó en mi universidad, qué tal? Si te invito a una charla sobre este tema.
+
+[59:37]
+Sí, pues echaría una repasadita, pero sí, es que no tienes que repasar solamente contar tu experiencia como aplicas el pensamiento sistémico a la vida, entonces sí sí, señor, con mucho gusto, te invitaré para ahora en noviembre ese concepto de entrada salida ustedes saben que unos grandes programadores son profesionales que estudiaron química.
+
+[01:00:11]
+Que tiene el concepto de entrada proceso y salida hay muchos de gente de sistemas que que tuvieron esa experiencia de química y también de física entre otras cosas el inglés que hizo el html era físico, no sé si te acuerdas del nombre Edgar él era físico no es una cosa curiosa que es pensamiento sistémico, no lo que ella acaba de mencionar.
+
+[01:00:43]
+Y otra cosa que o sea, yo siento que me hizo falta en la universidad salir hablando inglés.
+
+[01:00:56]
+El currículum, pues tenía sus cuatro niveles de inglés, pero con el examen de admisión uno pasaba algunos al final yo tuve que hacer solo dos, pero pues en realidad era muy básico uno no iba a salir hablando inglés con con esos dos cursos. Entonces creo que sí, eso hizo muchísima falta incluso dentro de la carrera, me hizo falta porque cuando me mandaban lecturas en inglés yo era como no. Y mientras los otros se leían eso en una hora, pues yo me gastaba ocho horas ahí traduciendo. Entonces creo que si hubiera tenido el idioma mucho más fuerte hubiera sido más fácil llevar algunas asignaturas y también más fácil después porque casi que ya terminando la carrera fue que cuando volví de Francia dije, no tengo que aprender inglés y una vez me metí a estudiar inglés y dure como año y medio y ya con un buen nivel que con un buen nivel pero pero sí SEN
+
+[01:01:55]
+Me hacía falta de antes y de pronto si en el momento que me gradué, que bueno, ahí ya sabía, pero si me hubiera graduado sin sin tener ese nivel de inglés, creo que hubiera estado como en desventaja de las demás universidades que sí salen sabiendo inglés, no? Y ahora con mayor razón, porque los trabajos son globales, no, o sea, hay muchos que trabajan con empresas multinacionales y ya aquí inclusive les pagan en dólares pero que tienen relación con India con otros países de Asia pero manejan en inglés
+
+[01:02:32]
+Yo creo que es un mal nacional, no, el tema Colombia está mal en el tema del inglés, ese es nacionales es un problema grande, pero para los de sistemas tenemos que fomentar que tienen que salir bien y hay unas teorías de que somos muy endógenos en Colombia no muy dentro de nosotros mismos, no. Y todavía el extranjero nos parece guau, mire ese extranjero en francés, etcétera, y lo que no pasa en otros países en donde hay más cercanía, digamos con Colombia tiene ese problema y el tema del inglés es verdaderamente un problema grande desde el colegio, no desde el colegio porque duran 10 años estudiando inglés y no salen los problemas y la verdad en la vida profesional se sufre mucho, no?
+
+[01:03:32]
+Nosotros los veteranos que tuvimos esa dificultad y que nos tocó hablar en salir al exterior y hacer negocios y hablar por teléfono en inglés y llegar a un país así como decía esto es así como como arreglo el calentador que no me prende como tú bien, lo dices, no es una experiencia muy dura, no? Y en cambio. Bueno, si hay jóvenes y hay colegios cuando uno los ve no colegios, por ejemplo, creo que el hijo de Beatriz alemán cierto, si no estoy mal en el alemán, pero pero nosotros veteranos, no, o sea que es un sufrimiento grande y un problema que hay que ver en el país de genérico. Sí que desde la academia, toca promover fuertemente para que estos chicos mejoren el inglés miren que la experiencia, por ejemplo, en la maratón que organizamos todos los problemas son en Inglés para que los muchachos se preocupen en que debe mejorarlo deben entenderlo si van a representar.
+
+[01:04:32]
+país en cualquier cosa pues tienen conocer un poquito más de su idioma de este idioma Beatriz viaja todos los años a la maratón mundial se va para para Egipto de unos días con dos equipos de la Universidad Nacional o de la Nacional son requete campeones le tocó alguna vez en la universidad o ir a hablar de la maratón, sí con el profesor Fabio González desde la universidad no sé si él te dio clases es quien lo ha de liderado si yo vi algoritmos con él y sí varios compañeros prestaban ahí en el tema de la maratón, claro, claro y Jorge Camargo será de tu época no no te suena Jorge Eliécer Camargo él también es de la Nacional hoy en día es decano de una universidad de la Nariño de la Nariño es que él es súper pupilo de Fabio las buenas personas los de la Nacional son buenas personas y bueno estudiantes además
+
+[01:05:32]
+Tiene muchas cosas a su favor aquí les hemos echado muchas flores de los de la Nacional no la verdad, pero son muy complementarias cuando trabajamos en conjunto nacional de contribuir en esa formación, entonces nos entendemos, o sea, pareceríamos que fueran de extremos, pero no es así, no no, no, no, no no universidad eso ha salido siempre en estas conversaciones y sobre todo los orientan mucho hacia el estudio. Mira la orientación para que ella se fuera al exterior, no sí es unos propósitos, por eso son tan buenos y la universidad es tan buena indudablemente.
+
+[01:06:32]
+Qué vas a decir que también que te acordaste de otra persona vea las actividades extracurriculares en la universidad?
+
+[01:08:04]
+Entonces también podía uno hacer otras cosas diferentes a las que ve, o sea, diferente a ver sus materias o haber electivas de otras carreras, sino tomar esos cursos libres, entonces podíamos tomar clases de tango que tenían así su horario, entonces tengo creo que era una vez a la semana como los miércoles por la noche también vi me escribía a salsa que esa también era dos días a la semana es con el ánimo, o sea, no solo de aprender salsa, sino de hacer algún ejercicio porque a veces sentía que me levantaba a la universidad todo el día en la Universidad llegue a la casa agarra trabajos y no tenía como el espacio para para estar activa entonces eso eso me servía porque salía de clase iba a la clase de salsa y ya me venía luego a la casa, eso también fue chévere, pero pues no, no todo el mundo lo lo aprovecha.
+
+[01:09:00]
+Pero así como ese habían muchos cursos cursos de guitarra de masajes de danza árabe y esos cursos tienen créditos o son, no esos son como cursos que da bienestar y uno pagaba una tarifa muy poquita para inscribirse.
+
+[01:09:20]
+eso eso es muy importante porque lo debiste vivir en Europa está existiendo aquí la última frase en Europa conozco muchachos investigadores que han ido a hacer su maestría Francia la Francia precisamente de París y Lyon
+
+[01:09:40]
+y los llamaron y le dijeron, no acá a las 5 usted se va aquí no lo queremos ver por la noche, ni queremos que nos mande correos por la noche en Europa hacen una vida cultural personal y un grupo de esos muy muy intelectuales de sistemas estudiaron salsa y crearon un grupo de salsa y se presentaban después en teatros como aficionados y venían a Colombia a comprar toda la ropa el sombrero y todas esas cosas y para completar hubo unos que se dedicaron al tango sí y además de uno es profesor de tango, sí es decir tomaron los nombres de acuerdo el león sí que vi en un folleto de Turismo el nombre de uno de ellos, porque los de tango salen a bailar en la calle a las milongas, tú sabes las milongas.
+
+[01:10:40]
+Pero es una historia bonita porque siguen siendo programadores ingenieros de investigaciones con el top complejas y universitarios, digamos como profesores etcétera, pero tuvieron esa un poquito forzados por la cultura europea, también nos falta. Creo que aquí estamos muy encerrados en todos los sí, eso es cierto, solo trabajar y trabajar y estudiar todo el tiempo y como que si no estoy como productivo como que, que estoy haciendo no estoy haciendo algo. Entonces creo que eso sí sí, también nos falta como aprender a disfrutar más la vida y lo y los espacios de recreación de acuerdo, eso es una cosa que también las universidades deberían promover más y no hace ese sentir culpable porque se juega cine o a un teatro cosas de esas en lugar de estar trabajando y eso sí es cierto.
+
+[01:11:40]
+En la cultura francesa, que eso sí es algo que le sorprende a uno que uno ve a las cinco ya y ellos empiezan a trabajar como a las 10 de la mañana y pues ella es así de resto no lo atiendo, no nada y es chévere porque entonces, pues uno también se acostumbra que ah, bueno en estos horarios nadie me interrumpe con cosas que no sean personales y además tienen muchos semanas de vacaciones al año.
+
+[01:12:06]
+Como dos meses una cosa exacta vacaciones de verano a que se ven desde otoño vacaciones de primavera.
+
+[01:12:19]
+Bueno, yo creo que estamos como cerrando ya sí está bien, muchas gracias, sé que hiciste un esfuerzo hoy porque tenías algo que me contaste pero lograste salir adelante y no te lo agradecemos para no romper como la la secuencia de lo que estamos haciendo está haciendo, estás haciendo un gran aporte a este proceso con tu experiencia, no sé si alguno quiere alguna conclusión y a ti nos toma la foto. Yo les tomo la foto del cierre y de la sonrisa a mí me gusta que que Kevin que es estudiante y le está que participe que haga la última pregunta cómo vio este ejemplo de Ingeniero de Sistemas actual.
+
+[01:13:05]
+Que aprendizajes.
+
+[01:13:14]
+Con con lo que ella dice de una reflexión siempre piensan que los ingenieros somos sólo programas y yo siento que no no es solo que seamos un programador programador es un programador y un ingeniero de sistemas de son ingeniero de sistemas que sepamos programar es una habilidad de nosotros más no es nuestra profesión. Entonces esa es una reflexión que siempre me meto siempre la tengo presente porque siempre dicen como no, pero ustedes solo sirve para programar. Yo digo no, eso no es cierto, no, no sabemos muchos más y por eso somos tan valiosos, porque cualquiera puede aprender a programar curso 345 meses. Lo puede hacer, he tenido amigos que estudian comunicación social y termina siendo programadores, pero sistemas como tú lo decías esos materiales de pensamiento sistémico de
+
+[01:14:14]
+Ahorita con el profe que tenemos arquitectura empresarial son materias que uno se da cuenta que tenemos una una misión y es que tenemos que ver todo el panorama que es la visión holística y eso es eso es lo que nos hace a nosotros distintos a los programas con eso me quedo muy bien conclusiones participativas al muchacho, lo que él acaba de decir como estudiante muy importante.
+
+[01:14:59]
+Yesenia moraleja final y cerramos quisieras decir algo sí relacionado con lo que dijo Kevin yo siento que ahorita muchas personas están aprendiendo a programar.
+
+[01:15:16]
+Porque pues la industria lo pide y entonces creo que que sí tenemos que recalcar eso que no, que no somos solo programadores, sino más allá de eso, porque esa va a ser una habilidad que así como ahorita a uno le dicen tiene que saber inglés.
+
+[01:15:35]
+Desde ya y en muy pocos años a la gente le van a decir, tiene que saber hacer ciertas cosas de programación en Excel o en así sean cosas muy básicas, pero que lo tienen que saber hacer entonces eso que nosotros somos más que eso.
+
+[01:15:56]
+Y que van a hacer unas, o sea esa habilidad, la van a tener muchas personas, entonces tenemos que sobresalir por otras cosas.
+
+[01:16:04]
+Buena conclusión muy interesante creo que con eso vamos a cerrar agradecerte Yesenia nuevamente por estar con nosotros y bueno y todos no, nosotros que logramos estar muy bien con eso cerramos. Entrega, hay una reunión que vamos a hacer pronto con Edgar no para los planes de los vídeos los tenemos para lo que sigue y pues mucha suerte y tienen tu futuro, no se encuentran unos amigos que aunque no seamos de la Nacional somos muy cercanos, el banco es una excelente escuela para las prácticas en las diferentes áreas miren como el banco no puede como enviarle como a cada universidad.
+
+[01:17:04]
+Como esta es la convocatoria, porque si no tendría que moverse las a todos se sacan la convocatoria pública y se presenta muy poquitos de Ingeniería de Sistemas ah no digas, no sé de pronto es porque uno está en la universidad y piensa solo Google IBM para este semestre solo habían cuatro cuatro postulados y necesitamos cinco puestos, sí, pero yo le he hecho a Camilo que nos que aparte de la publicación que me que me mande el enlace y yo puedo no solamente en mi universidad, sino mandar las redes y así entonces conviene un poco y mira que nosotros desde Asís también podemos ayudarles a hacer esas convocatorias para que realmente llegue más gente y aproveche el espacio no, por lo menos que nos manden el enlace de la publicación pública porque si y a veces nos dicen cómo es que no hay.
+
+[01:18:04]
+Consigan hojas de vida o publiquen la convocatoria o es entonces sí, sí lo tendré en cuenta porque a veces lo que yo hago es como decirle a los practicantes los últimos que he tenido como ayúdenme a compartir con sus amigos que les falta hacer la práctica, pues conmigo con la Tadeo también, ahí te dejo en el chat, mi nombre mi correo, mi correo electrónico del celular, de verdad que para cualquier cosa con mucho gusto, te ayudamos. Ay, muchas gracias, hasta luego.

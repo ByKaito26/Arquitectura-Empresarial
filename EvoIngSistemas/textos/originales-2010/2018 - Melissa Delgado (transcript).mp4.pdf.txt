@@ -1,0 +1,509 @@
+[00:00]
+Bueno, entonces ya oficialmente muy buenas tardes para todos lo primero es estamos hoy con con Melissa delgado, siempre le he dicho entonces para mí eres Melisa entonces, pues me dice delgado su ingeniera de sistemas egresada de la Universidad Francisco de Paula Santander a quien agradezco enormemente que haya aceptado esta esta invitación esta invitación como como te decíamos Melissa con un grupo de de amigos en últimas de colegas todos que estamos revisando un poco alrededor de la evolución de la ingeniería de sistemas en Colombia entonces para empezar no va a ser solamente el háblanos de ti, sino si no ponerte un poquito en para que tomes el hierro y tomes un poquito de impulso.
+
+[01:00]
+Me gustaría o nos gustaría que nos hablaras un poco de cómo era esa niña.
+
+[01:10]
+Cuando esa niña se encarga y decide por ejemplo, estudiar Ingeniería de Sistemas qué pasó por en toda esa fase antes de que entraras a la universidad hay una única condición que ponemos siempre cuando nos estás contando la historia, no te nos vayas a graduar dentro de 20 minutos.
+
+[01:29]
+Porque a veces a veces nos están contando, qué pasó? Y a los 10 minutos dicen y entonces me gradué y empecé a trabajar en mí, pero pero queremos que nos hables un poquito para empezar y hasta donde quieras como es tu familia o como estaba constituida en ese momento, porque tomas esa decisión etcétera en la medida que puedas no en la medida que puedas fechas estaría bien. Bueno, entonces creo que comienzo hablándoles un poquito de mí. Soy hija, única familia de tres personas, mamá, papá. Yo nací en Bogotá estudia en Bogotá nací porque también novecientos noventa y cinco y nos mudamos a Cúcuta en el año 2007.
+
+[02:23]
+Justo cuando empezaba la etapa del bachillerato, mi mamá es de Cúcuta entonces nos movimos, pues como por razones familiares allá y mi papá es profesor. Bueno, era profesor de química química biología de entonces siempre como estuve hace poco como de enseñanza de siempre fue una buena estudiante desde muy chiquita como que siempre está, que eso creo que hacía parte de mí, pues de lo que yo era siempre buena estudiante siempre bueno y llega de pronto el momento de bueno, uno cambio de ciudad cambió como de Cultura de cierta manera, porque es muy diferente lo que es como la vida en Bogotá lo que era la vida en Cúcuta y llega un poco el momento de bueno se acerca al final del grado once y bueno, no se acerca el momento de elegir como que
+
+[03:23]
+vamos a estudiar, no? Y empiezan como en el colegio recuerdo mucho que nos hacían como muchas de estas orientaciones vocacionales y test como intentando guiar a los estudiantes y decirles como bueno de acuerdo a tu perfil de acuerdo a tus habilidades como que en qué carrera se iría bien como intentando hacer un poquito eso y yo no tenía ni idea. Qué quería estudiar. Soy muy honesto. Esa es mi respuesta.
+
+[03:52]
+Como que de muchas vueltas revise como el estudiante en matemáticas, entonces como que la ruta correcta o la ruta que en ese momento todas las personas te decían como no la ruta correcta es que estudiaron la ingeniería porque lo puede sacar porque va a ser una buena carrera porque vas a tener un buen futuro y nada, entonces uno comienza a revisar como ingeniería por ingeniería me enfermo. Bueno, a dónde podría apuntarme que me llama la atención y recuerdo que al final tenía dos opciones, yo me presenté para ingeniería de petróleos.
+
+[04:27]
+Y para ingeniería de sistemas Ingeniería de Petróleo fue un poco como que la carrera que todo el mundo decía como no es que es una carrera muy buena no tal cosa, entonces fue como un poquito influenciada.
+
+[04:38]
+Y me presenté Ingeniería de Sistemas pues como un poco como por decisión propia un poquito como de curiosidad digamos, que siempre me había llamado un poco la atención como no sé cacharrear en el computador aprender cómo se hacían cosas era muy curiosas, nunca había programado en mi vida, pero me causaba curiosidad como el entender cómo funcionaba las máquinas, qué pasaba detrás detrás de computador donde más podríamos llegar.
+
+[05:07]
+Pero bueno, me presenté ambas carreras y fue como uno de esos momentos en los que realmente como que no sabes qué decisión tomar, pero que cuando tienes dos opciones tiras una moneda al aire y te encuentras deseando que caiga una cara, yo me encontré deseando no pasar ingeniería de Petróleos en ese momento, supe que quería estudiar sistemas. Creo que fui muy afortunada porque cuando comienza la carrera esto fue 2012 recuerdo mucho las charlas de orientación que nos daba el director de carrera director de plan de estudios el ingeniero Oscar Gallardo y yo me sentía un poco intimidada porque entré en un punto donde muchos de mis compañeros ya todos al menos alguna vez en su vida, habían programado muchos entraron ahí porque no sé habían hecho cosas en Visual Basic que hacían trabajos en sus colegios tal vez les habían enseñado como que muchos de los que estaban ahí como que sabían que estaban haciendo ahí.
+
+[06:07]
+Yo no tenía ni idea.
+
+[06:08]
+Yo llegué como bueno y recuerdo mucho que que no soy director de plan de estudio nos decía como muchos de los que entraron aquí entraron porque les gusta estar en el computador todo el día para cuando termina la carrera y estar en una vida profesional, eso va a cambiar, no les va a gustar, no van a querer ver un computador, o sea, como que él decía mucho como que su perspectiva lo que es estar con computador va a cambiar va a cambiar con el tiempo nadie le creyó en ese instante nadie, dijo. Esto puede ser cierto, pero fui bastante afortunada porque yo entré simplemente con curiosidad y resulta que a mí me gustó.
+
+[06:52]
+Otra de las cosas que recuerdo que nos decían es como la persona que diga que esté aquí porque le gusta miente porque no sabe lo que se está metiendo como que no tienes la perspectiva realmente para saber si esto te va a gustar o no te va a gustar que les comentaba yo entré por curiosidad y fui afortunada porque me gustó desde el primer momento en el que empecé a estudiar desde el primer momento en que pasaron a enseñarme a programar desde el primer momento en el que tiré mi primero era mundo. Me gustó, me gustó y de ahí como que fue un camino que solamente fue mejorando, pero pero sí veo definitivamente fui muy muy afortunada en ese momento de mi vida.
+
+[07:37]
+Qué bueno que que divertido pues además como lo cuentas es divertido es y sí más de uno entró a estudiar Ingeniería de Sistemas y eso creo que nos incluye a todos los que estamos por aquí en como una especie de acto de fe y de curiosidad una mezcla ahí rara y de pronto pasamos por esa fase de elegir entre una ingeniería, no quiero la civil porque me embarro, entonces mejor me pienso la mecánica, me llenaría de grasa. Entonces bueno, entras por curiosidad y lo que te encuentras te gusta. Además tienes una influencia muy directa de en el mundo académico porque padre ha estado siempre entonces ligado con con la enseñanza tu mamá también de ser creyente en la en la educación, digamos que siento que la duda de
+
+[08:37]
+Estudiar o no la duda de hacer la apuesta académica no existió en ti, se sabía que había que estudiar sí y el problema fue que y afortunadamente la curiosidad nos dio por el camino correcto. Bueno, además de Manuel que que nosotros nos habíamos encontrado con con algo parecido, no en ese fenómeno sino con la frase que decía el profesor el profesor de Melissa que les dice su lectura va a ir cambiando con el tiempo y no va a ser lo mismo dentro de unos años eso suena algo parecido de yo ya superé la etapa de la programación hay gente que dice eso hay gente loca en todas partes entonces yo ya superé lo de la programación o lo que yo siempre he llamado la deserción después de la carrera después del grado entonces nada aparentemente ese no fue tu caso porque cada vez te emocionaba y te apasionaba más el tema.
+
+[09:37]
+de la programación
+
+[09:40]
+además de encontrarte con un grupo de estudiantes que aparentemente sabían ellos sí sabían dónde están aparentemente tú que empezaste a estudiar qué tecnologías te encontraste? Qué es esto que empezaste a descubrir además de que por fin te funcionó el hola mundo.
+
+[09:59]
+El primer programa que compila que eso siempre es una una sensación grata, qué fue eso que empezaste a encontrar y qué cosas estudiabas?
+
+[10:10]
+Empezó todo como orientación a objetos fue como nosotros entramos de cabeza programación orientado a objetos y ya va, era lo que nos enseñaba entonces desde primer semestre como primero hablamos porque creo que las cosas más fuertes que vi como en ese primer semestre era bueno programación 1 Programación Orientada objetos básica y Matemáticas Discretas que fue un gran problema para muchos de mis compañeros, pero pero no sé yo recuerdo con mucho, cariño, esa materia es como me gustó de ahí en adelante fue como bueno era programación programación programación hasta que llegó a tercer semestre y me encuentro.
+
+[11:10]
+Fue un poquito un break porque esa material menos en mi universidad era considerado un filtro, o sea, no mucha gente pasaba era era esas materias que era un decía que es duro de caballo. Buen promedio. Le había ido bien todo y se enfrentaba, no sé a estructuras de datos y tiene problemas esa es la verdadera. Respuesta tiene problemas y a la final de nuevo como esas decisiones que uno toma entre soy una buena estudiante, me preocupa mi mi promedio. Estoy becada, puedo tomar una decisión arriesgada y quedarme teniendo en cuenta que todavía como que las cosas no iban tan bien o puedo cancelarla tomé la decisión cobarde y decido cancelar la materia pero decido seguir asistiendo a clases.
+
+[12:08]
+Justo fue porque empezábamos a ver como todo lo que era esta temática de árboles y yo no me sentía segura de decir voy a llegar a un examen parcial y voy a jugarme la nota de la materia con un tema que de verdad estoy teniendo problemas de de ese semestre te dedica a estudiar y hacer todos los ejercicios.
+
+[12:38]
+Luego llega el cuarto semestre.
+
+[12:42]
+Y pasas a material como como si fuera un carrito.
+
+[12:46]
+En fin, esa esa fue divertida y es un poquito irónica, porque yo creo que es de datos es de las materias que más me gusta es como que más le tengo cariño, es como uno de los domingos que más más me apasiona.
+
+[13:01]
+Y más o menos por esa época cuarto quinto semestre descubre los maratones de programación.
+
+[13:11]
+Llega una invitación mi universidad no solía participar mucho en estas cosas y llegó un día una invitación y nos decía, no hay unas competencias algún profesor le mencionó y nos dijo como ve quien quieren participar hagan equipos de tres, yo hago equipo con mi mejor amigo, un chico de semestre más adelante y decidimos ir a competir varias gente de la Universidad decidiera competir.
+
+[13:34]
+No teníamos ninguna guía. Nos habíamos cómo funcionaba y de repente nos encontramos con un nuevo reto en el que primera competencia nos fuimos en blanco obviamente. Bueno, la gran mayoría la gente que estaba ahí salió muy aburrida, es como siento, es que fuiste un día cinco horas a perder la tarde de un sábado en la que no lograste nada, entonces la gente salió con el ánimo por el piso.
+
+[13:58]
+Excepto mi equipo, mi equipo quedó mi equipo quedó picado como qué es esto? Por qué no somos capaces de hacerlo? Queremos volverlo a intentar, no puede ser tan difícil. Aquí hay algo que no sí, como que quedamos picados como la palabra que usaría y ya salimos volverlo a intentar. Estábamos un poquito mal de la cabeza, decimos volverla a intentar y ahí quinto semestre mi carrera como que toma un ritmo un rumbo totalmente diferente porque creo que la gran mayoría de mis esfuerzos dentro de la universidad y la mayoría de cosas que logré en mi carrera universitaria fue gracias a la programación competitiva, empezamos practicábamos. Decíamos como en algún momento, lo creímos y vamos, vamos a lograrlo, llegamos a nuestra primera maratón nacional en blanco deprimidos.
+
+[14:58]
+Dijimos no, o sea, medio año entrenando entrenando yo no solamente los sábados a competir pero pues el reno.
+
+[15:06]
+De presión absoluta y luego por cosas del destino, pues bueno por la participación que habíamos tenido y porque habían quedado grupos nos invitan a una latinoamericana y ahí llegamos como a conocer lo que era realmente la comunidad de programación competitiva, porque la maratón latinoamericana si se hacía en Bogotá lo que pasaba en la región del norte, es que en mi ciudad no se competía en Bucaramanga tampoco se competía entonces como que los equipos no tenían buen nivel, no había comunidad, no había nada pero de repente llegamos a Bogotá conocemos otros equipos conocemos otra gente y comienza ese intercambio de conocimiento de ustedes están programando en Java pero qué les pasa? Están mal de la cabeza, nunca les van a pasar los ejercicios, no están optimizando el buffer, o sea, todas las cosas que no sabíamos que no habíamos tenido una guía, no las empiezan a soltar en un bar en Bogotá tomando cerveza y nosotros quedamos impactados como
+
+[16:06]
+Todo el mundo detrás que nosotros no como que no estábamos explorando.
+
+[16:13]
+Y de nuevo bueno, en la Latinoamérica no los fue tan mal logramos hacer algo y decidimos nosotros vamos a mejorar y eso lo aplicamos como que en todo el resto de la carrera, entonces como que todas las cosas que vamos aprendiendo del lado de maratones de estudiar los ejercicios también nos servían para el resto de materias, que estábamos viendo cuando veíamos redes, por ejemplo, entonces era como ah, bueno, no sí, nosotros hacemos. Sabemos hacer un camino de ruta mínima porque esto ya lo hemos hecho en las maratones o no sé cuando entramos cuando veíamos por lo menos análisis de algoritmos en la universidad era como ah, bueno, yo sé porque no puedo hacer un n cuadrado porque yo nunca me va a entrar el ejercicio la maratón entonces como que muchas de las cosas muchos de los conceptos realmente como que los veíamos aplicados en las competencias y muchas de las cosas de las competencias, las llevábamos al otro lado, digamos que tanto fue, así que que mi compañero mejor.
+
+[17:13]
+En esa época creo que aún todavía y yo decidimos como bueno, a nosotros nos fue mal porque no teníamos nadie que no se orientara, pero nosotros vamos a poder orientar gente, decidimos hablar con los profesores de la Universidad y creamos un como un grupo de programación competitiva. Entonces vimos, vamos a entrar a estos pollos desde que están chiquitos desde que están en primer semestre y los vamos a enseñar como como se hace programación competitiva, pues era como no se van a estrellar de una manera en la que nosotros nos estrellamos.
+
+[17:47]
+Y pues realmente una de las mejores maneras que uno tiene para aprender es enseñar es toda cosa que nosotros aprendemos al grupo todo. Lo enseñábamos todo lo compartimos en realidad fue un gran reto porque era difícil como involucrar gente era difícil tener gente motivada era pedirles como una inversión bastante alta de tiempo, pero básicamente desde que me eliges a conocer los maratones su universidad digamos que fue transformada completamente por eso y eso fue hasta el momento básicamente en el que me gradué. Yo creo mi tesis, por ejemplo, mi tesis de grado fue muy orientada también a maratones. Fue como poner la síntesis de todo lo que habíamos hecho con el grupo de todo lo que esa metodología que habíamos creado de crear una plataforma de seguir de decir como podemos seguir adelante con esto, pues como que todos mis.
+
+[18:47]
+esfuerzos de la Universidad quedaron ahí
+
+[18:51]
+digamos que ese fue como el legado que nosotros dejamos aquí intentamos dejar en la universidad.
+
+[18:59]
+Pues una historia una historia bellísima lo que nos lo que nos has compartido a mí me emociona. Además escucharla y empieza.
+
+[19:09]
+Por por el manejo de la frustración allí hay un componente muy fuerte una frustración y la resiliencia fíjate que que no pasa solamente en competencias de programación y lo hemos encontrado también como factor común en muchos personas de esta generación de me apareció un reto en tu caso fue estructuras de datos y por el motivo que sea toma una decisión con respecto a ese objeto y se transforma en un reto personal.
+
+[19:41]
+Tercer semestre que le ha ido muy bien, tengo muy buen promedio. Tengo todo y de pronto problemas, entonces justamente es no estoy acostumbrada a recibir ese tipo de golpes que me va a llamar y de pronto recibo un golpe y bueno versión personal como la programación es algoritmos más estructuras de datos. Entonces se te estaba, se estaba yendo de las manos algo justamente por el tema de estructuras de datos decides hacer todos los ejercicios eso también lo escuchamos la vez pasada tomar el libro y hacer todos los ejercicios hasta que aprendí después cuando tomé el curso volaba más adelante decidí ir a la primera competencia y sentí que había perdido una tarde de mi vida.
+
+[20:41]
+También lo hemos escuchado en este escenario y después viene la depresión absoluta todas esas cosas esas sensaciones, porque Manuel ha estudiado mucho ese fenómeno está el asunto del ego del ego de programador de la personalidad del programador y cuando le dicen a uno que su programa no funciona, yo creo que los que tienen hijos preferirían que les dijeran que su hijo es feo que le digan que su programa no funciona, entonces después de eso surge otro asunto otra línea.
+
+[21:22]
+Que es no, solamente por estoy haciendo esto para para digamos resumir cosas como fíjate que decides en algún momento darle un propósito distinto a las cosas.
+
+[21:35]
+Tu fuiste las que entonces junto con Jerson imagino que el amigo arquero referencia muy interesante también personajes muy valioso ustedes decidieron entregar entrenar a otros allanar el camino de los que venían.
+
+[21:54]
+De ahí salió, por ejemplo, después pony salvaje y todo esto toda esta otra generación.
+
+[22:04]
+Cómo es esa historia y cuál es tu experiencia en dejarle un legado, sino más bien allanar el camino a los que vienen así han sufrido fue como o no solamente ha sido sufrido sino porque puede haber sido mucho frío como para tratar de allar se los demás, pero también así es sufrido y así de maravilloso fue como para allanar el camino a los demás para que accedan a esta a esta belleza por decirlo de esa manera, perdón por la emoción, pero esta situación es algo de ese estilo. Sí, digamos que lo que nosotros nos damos cuenta como en el comienzo o como en esas conversaciones era claro, es que todo el mundo tiene alguien que lo guíe a nosotros nos tocó guiarnos a nosotros mismos y aprendimos a punta de de errores.
+
+[22:54]
+Que después en el camino también conseguimos mentores, porque la comunidad que se formó en esa época era muy bonita. Era una comunidad muy grande muy bonita, había gente de todas las universidades. Yo me acuerdo que llegamos a un punto en el que competíamos todas las noches, hacíamos un compás de una hora y lo a ver a otra hora discutiendo con la misma gente de las otras universidades, qué fue lo que siempre me parecía muy lindo de la comunidad de programación competitiva y es que la gente era muy dada a ayudar y no estaba como ese sentimiento de yo no te ayudo porque si no me vas a pasar sino yo te ayudo porque así el nivel de todo sube porque es más divertido competir contra, o sea, de qué me sirve ganarle a alguien de quien no sabe nada mejor que todos sepan así mi también como que mi, o sea si ya lo es como, o sea, estoy compitiendo con gente que de verdad entonces recuerdo, claro. Nosotros tuvimos muchos mentores, pero el problema de que estos todos estos mentores estaban de fuera y nosotros decíamos nuestra región es la única que no tiene como una representación fuerte también nosotros.
+
+[23:54]
+O pensábamos mucho como qué divertido hubiera sido empezar en un segundo o un tercer semestre nosotros de cierta manera empezamos muy tarde, o sea, empezamos en quinto semestre y empezamos como como si hubiéramos estado en primer semestre, empezamos a aprender desde cero, entonces digamos como hubiéramos tenido más tiempo para competir. Hubiéramos tenido más tiempo para entrenar. Hubiéramos pasado como que hay muchas cosas que nos hubieran gustado que hubieran sido distintas también eran como las grandes oportunidades que te habría te habría competir en mi caso en particular como que yo siempre tuve mucho la perspectiva como un poquito como de salir como de conocer, otras ciudades como de viajar en perspectiva un poquito más abierta, pero no es la perspectiva normal en Cúcuta o al menos no lo era. Hace unos años la gente ahora como muy de soy de aquí no salgo de aquí, no conozco a nadie más, no viajo, entonces también era un poquito como darle esa oportunidad a la gente de como de cambiar un poquito el chip y de abrirles.
+
+[24:54]
+Entonces también era una cuestión de crear las oportunidades de crear las oportunidades de conocer gente, yo creo que aún hoy en día muchos de mis amigos y de personas que me han ayudado en mi carrera profesional vienen de maratones y no fue gente con la que yo estudié, pues gente con la que me conocía en un chat hablando discutiendo ejercicios, entonces son relaciones muy bonitas que se formaron en esa época de las cosas que más feliz me haces que todavía en la universidad se mantiene bueno, hasta pandemia más o menos se mantenía, digamos que este legado de seguir entrenando a gente y habían equipos entonces como que sentíamos como que no se había perdido porque sabemos lo difícil, que es tener gente motivada también otra de las cosas que nosotros notamos era por ejemplo, claro, con esa competir a un niño o una mujer en quinto semestre que bueno tiene cuatro semestres de carrera y luego la enfrentas contra un niño el primer semestre de la Nacional que fue hoy.
+
+[25:53]
+Entonces no, ya nada que hacer nosotros nos faltaba mucho más y decíamos, no lo vamos a conseguir en los cursos de la carrera. Nos lo vamos a conseguir en las materias, entonces hay que abrir un camino distinto porque si bien como que las cosas se complementan nunca vas a tener como un foco muy específico que te ayude a decir como este curso es dedicado para que sepas cómo participar en este tipo de competencias. Eso no lo teníamos entonces decidimos crearlo un poquito.
+
+[26:21]
+La idea detrás de eso era divertido entrenar gente es muy divertido eso que nos cuentas, además de esa afición por las digamos que en quinto semestre te cambió la vida con el tema de maratones de programación ya estás en Quito semestre, qué más se estudiaba además de temas de programación.
+
+[26:43]
+sí, de pronto nos dicen yo estudié cálculos, pero yo no sé todavía ni para qué me pudo haber servido pero
+
+[26:51]
+Que conste que no soy yo de los que piensa así, pero pero qué otras cosas tenías que ver y además eso uno por un lado y por otro lado.
+
+[27:01]
+Siempre hay una a veces hay una no, una pugna, pero sí hay varias corrientes los que trabajan en métodos formales o trabajamos en métodos formales programación competitiva programación etcétera a veces con un tono un componente importante de pedantería podemos estar mirando como como no tan bien a la gente que está haciendo ingeniería de software y él a veces miran como como medio rayado los a los demás, entonces, cómo se lidiaba en en la universidad con con todos esos fenómenos que ocurren de todas maneras ocurren, no digo que sean bonitos, pero en los comentarios es muy interesante que lo que más miedo le dio es lo que más le gusta.
+
+[28:01]
+La estructura de datos se asustó y hoy en día es lo que más le gusta ese es un mensaje muy interesante el tema de los errores y la frustración. Yo tengo un dicho que digo que la experiencia es un archivo de embarradas bien organizado, es decir, el que no ha fallado, no, no, no sale adelante, sí y creo que esa esa es el lograr pasar de las lágrimas y la frustración a un reto es un mensaje de la vida muy importante, me parece muy interesante Rafa y Melissa que la programación competitiva y las maratones es una forma de vida, es decir jóvenes que han competido están aprendiendo algo más que competir en una en una cuestión de programación de computadores de acuerdo, es una experiencia de la vida en muchos otros sentidos muy interesantes y contarte que en la época nuestra yo llevo 50 años de
+
+[29:01]
+Estructura de datos y sus famosos libros no trabajamos en un lenguaje ensamblador llamado mix, no? Y eso unos libros fantásticos de que aprendimos y lo último es que en la psicología del programador de
+
+[30:01]
+De roscones no era, pero cosas parecidas relajo Coca-Cola aquí caos y ese caos era lo que generaba la relación entre los estudiantes, por eso me llama mucho la atención que en el bar de Bogotá tomando cerveza compartieron y hablaban de buffer de memoria y seguramente memoria caché y ya y todo eso que es algo muy interesante de la personalidad de los programadores. Bueno, eso quería resaltar, que es muy interesante entonces sígueme.
+
+[30:33]
+De las competencias y de la programación competitiva sí hay charlas y hay campamentos y hay competencias y demás, pero donde más se aprende es antes después de las competencias. El durante es miremos a ver qué podemos hacer, pero antes y después esa comunidad es una comunidad que tiene una forma distinta de ver la vida en la que en la que tocaste, además dos factores uno superar los retos convertir las dificultades en retos y ayudar a los otros son son ejes fundamentales. Cuéntanos del tema de ese que te mencionaba de las de las otras líneas y de qué otras cosas se estudiaba y demás.
+
+[31:33]
+Bueno, creo que sí, como quien quinto semestre comienzo a ver análisis de algoritmos, es otra de las materias que amo con locura, me encantó, pero es que va como muy de la mano a mirar otro material que era considerada así como medio filtro, pero pero para mí era, no sé, era increíble arquitectura de computadores. Fue otra que fue bien interesante es porque ahí tuve que programar y el ensamblador directamente montando máquinas virtuales con Windows XP porque ya en el momento en ese momento de la vida, yo no podíamos correr ensamblador en ninguna otra máquina. Entonces tocaba como emular todo esto entonces fue como wow no es algo que aplicáramos o que yo aplique hoy en día, pero fue una experiencia interesante como como un poquito al pasado de aprender como todos esos movimientos.
+
+[32:33]
+De memoria como todas estas cosas también un curso era difícil porque era muy muy abajo el nivel, pero pero era interesante era un poquito como de cierta manera como historia, pero también era como bueno, estas son las bases de lo que hacemos, no que que la carrera ha avanzado lo suficiente para que nuestra vida sea un poquito más fácil, pero en el fondo estas son las cosas que suceden eso fue otro curso que fue muy interesante ya como en sexto semestre, entonces mi carrera digamos que esa era como la base o era la línea base como el sexo semestre se habían como más o menos dos ramas muy enfocada a redes de computadores y la otra es muy enfocada en ingeniería de software.
+
+[33:18]
+y la programación ya quedaba un poco de la
+
+[33:21]
+Habían muchos retos porque en ese momento claro, nosotros queríamos explorar cosas nuevas, entonces habíamos venido como de aprender ya vaya, vaya, vaya, vaya queríamos. Queremos aprender otro lenguaje porque no podemos intentar otra cosa y era siempre un gran reto intentar comenzar a los profesores, tenías que encontrar como un profesor que tuviera un poquito la mente un poquito más abierta y te dejará como ok bueno, puedes intentarlo en otro lenguaje o puedes intentar ir por otra vía, eso era un poquito complejo, pero en algunos casos lo logramos sobre todo en esas materias que era como integradoras como de bueno, vamos a hacer un proyecto y ahí te permitían como un poquito aplicar más como nuevas técnicas hagamos un juego en java, script o hagamos, no sé algo la otra cosa en PHP metámonos en el mundo web. Entonces como que ya empezaban a cambiar un poquito las perspectivas y ya llegando como hacia el final de
+
+[34:21]
+Correr, entonces tenías la línea de ingeniería de software que era muy muy muy tradicional con todo lo del documentación diagramas, entonces era muy enfocada a hacer un proyecto de software completo que en ese momento uno no entiende lo importante que es uno solamente quería programar y uno solamente quería salir el código y hacer las cosas interesantes y en el momento, qué aburrido hacer esto hay porque tanto foco en esto hay porque tenemos que usar como porque tenemos que hacer esto con cascada y porque no podemos hacer usar, no sé, es cromo. Entonces era como toda esa pelea, porque claro para nosotros eso ya era antiguo, pero pues era lo que se enseñaba, digamos que en algún momento yo creo que cuando ya empiezo a trabajar luego entiende la importancia de estas cosas y uno valora un poquito más esto yo creo que en algún momento un poquito medio lo odiaba era como por qué?
+
+[35:21]
+Construir porque no puedo hacer más cosas porque entonces siempre estaban en los equipos siempre porque esas eran materias como que se trabajaban muy en equipo, entonces estaba la persona que hacía la documentación y la persona que hacía el código o la persona que realmente no era un trabajo tan en equipo era como hacemos esto, pero tú te encargas de esto dependiendo como también como el perfil de las personas que estaban en ese momento porque había gente que llegaba a ese punto y decía, yo quiero mi título, pero yo no quiero programar. Yo no me quiero ir por el lado del proyecto. Yo me quiero ir por el otro lado y como que entre más avanzamos más se veía como esa como eso un poquito como esa distinción y también se notaba con los profesores que nosotros a veces éramos como éramos el grupito raro, que a veces traía resultados, pero como que nadie entendía que era lo que hacíamos entonces era un poquito el semillero es el que solamente enseña a programar eso éramos nosotros y si entonces era como las dos áreas ingeniería de software, pero muy muy ingeniería.
+
+[36:21]
+De eso para te hago el diagrama con toda la Convención UML de todas las cosas que yo también chocaba un poquito.
+
+[36:30]
+Con esa perspectiva porque para mí un diagrama, o sea, hago, creo que aún hoy en día mantengo un poquito esa posición es como tú necesitas cajas flechas y una convención y el objetivo del diagrama es comunicar y transmitir una idea existen estándares, pero si tú logras comunicar tu idea de manera, clara, o sea, me parece que es el objetivo, la verdad es como que nos enfocamos mucho en la herramienta y no en el objetivo del por qué se debe usar la herramienta entonces con el hacer las cosas como simplemente porque nos decían que tocaba hacerlas de esta manera, pero por qué? Por qué no me puedo hacer de una manera distinta?
+
+[37:11]
+Y lo que teníamos como el área de redes, esa era como las dos ramas o te ibas por ingeniería de software, muy enfocado muy muy a proyectos o tenías el área de redes también tenías como un conjunto de el área de recio muy muy enfocada de lo que es como que seguía todo el que las pruebas de Cisco todas esas cosas. Yo trabajaba yo tuve la experiencia porque trabajaba en la universidad. Yo hacía como un trabajo parcial en el área de redes de la Universidad es como que muchas de las cosas que veían redes como que tenía la oportunidad de aplicarlos realmente porque yo trabajaba en ese departamento, entonces eso también era interesante como ah, vamos a configurar un servidor o vamos a instalar, no sé ampliar la red a este nuevo edificio de la Universidad y era un trabajo un poquito más, vamos a cablear, le vamos a parchar cables. Le vamos a hacer este tipo de cosas entonces.
+
+[38:11]
+Mi experiencia con redes que creo que la disfruté un poquito más en el hagamos cosas de nuevo más que tanto en la en la parte teórica y luego tenías como el conjunto de lectivas que hay como ya podías elegir un poquito más, pues habían muchas opciones que es lo bonito que tiene la ingeniería de sistemas, no que te da una base, pero tú tienes demasiadas ramas. Ah, bueno, hoy es demasiado ramas por las que te puedes inclinar y todos los días estás aprendiendo algo nuevo, entonces ahí, a dónde venían las selectivas es como bueno tienes todos estos sabores de cosas, si te gusta la inteligencia artificial tienes la lectivas y te quieres ir por nuevas tecnologías, tienes la lectiva desarrollo móvil. Entonces como que te dan como el abrebocas de lo que iban a hacer esas cosas no era como una línea muy fija, sino te dan como la oportunidad de experimentar también era interesante una cosa Rafa y Melissa el
+
+[39:11]
+El caso de la documentación no en el software libre, por ejemplo los que programamos es programar no es un poco la frase no es programar y programar pero yo comencé a descubrir que como yo programo Rafa no rezo, pero sí programa no, entonces descubrí que la documentación de un algoritmo con el tiempo. Yo hago muchos software y cuando tengo que regresar a ver mis algoritmos no me acuerdo cómo los hice no los entiendo veo el lenguaje fuente digo pero qué estaba haciendo? Yo no sé que cuando lo hice eso me felicité dije es por pero ahora yo no veo, qué fue lo que hice entonces la documentación micro documento va conformando después una gran documentación descubrí también por este como este esta charla es un poquito pedagógica también no Rafael descubrí que el de la documentación UML de los
+
+[40:11]
+no sirve porque al otro día pones una una una instrucción más y ya es otro programa sí, entonces yo personalmente desarrolla un auto documentador no de tal manera que que si yo cambio tres líneas le doy enter a mi autodo y me dibuja todo el UML que es el de hoy claro, realmente tú miras la documentación y ya no sirve y el programa entonces de cierta manera siempre hay una excusa para programar no cierto qué pereza se REML pero hacer un programa que lo haga puede ser interesante pero es muy bueno oírte porque esa es una falla grande del miedo y la pereza de la documentación, pero la documentación se vuelve en sí un proceso del mismo aprendizaje la historia de la niña de la Universidad
+
+[41:08]
+Y de todas maneras y de todas maneras no nos neguemos que aunque uno hoy sabe que es necesario que sirve para comunicarse que sirve para muchas cosas. El pedazo más emocionante no es el de la nosotros seguimos encontrando más emoción en por ejemplo, generar un programa que automáticamente fabrique la documentación. Eso es un tipo de cosas, es mucho más chévere, fíjate que que también mencionas el tema de hacer como mecanismo de aprendizaje el hacer como como esa esa forma que te permite romper la caparazón y crecer redes te pareció más chévere lo que estabas haciendo que lo que veías en los cursos.
+
+[42:04]
+Hoy cuando lo necesitas, digamos que ingeniería de software, el asociado a algunas metodologías que se usan en Ingeniería de Software hoy, por ejemplo, dices son necesarios. Me gustan porque lo hago y necesito comunicar ciertas cosas y mantener ciertas otras e igual cuando los proyectos y el cómo romper y mover las las barreras abrir caminos que lo has usado varias veces me parece muy chévere, eso de abrir caminos es porque lo era haciendo no eres una persona de de venga, yo espero a que me voten todas las cosas en las clases o en donde sea o en las conferencias o donde se esté desarrollando con el ejercicio, sino más bien, tengo que identificarlas los retos las fronteras que debo romper lo que me lo está imponiendo.
+
+[43:04]
+Y y hacer ponerlo en marcha, eso eso me parece bien interesante que que no todos lo tienen, pero pero sí insisto en el tema del propósito hacer las cosas con propósito. Bueno, ya casi estás por graduarte ya casi está posgrado.
+
+[43:24]
+Un detalle que estaba dejando pasar por alto que lo mencioné con lo de a ir haciendo es que además de estudiar estamos trabajando y que lo hacías en la universidad es otra historia pero igual estudiando y trabajando cómo era esa experiencia de estudiar trabajar simultáneamente era era un programa que tenía la Universidad como para ayudarte, creo que con el 50% de la matrícula o un porcentaje no recuerdo muy bien y entonces tú trabajabas creo que era no me acuerdo cuántas horas a la semana eran pero bueno, tú aplicas y habían varios departamentos en la universidad, entonces podías hacer no sé en el Departamento de Bienestar Universitario siento más o menos como un trabajo como de secretaría nosotros en sistemas, éramos afortunados porque teníamos dos departamentos que eran relacionados con Sistemas entonces estaba como el departamento de mantenimiento de computadores y estaba el de redes, entonces yo entré a trabajar al de redes.
+
+[44:24]
+Por una manera de ayudarme económicamente pero también era como bueno, pues era era una opción bastante fácil, porque lo que hacías es como tú decías las horas, que voy a servir, es por ejemplo, tengo este hueco entre clases. Entonces voy hago beca trabajo lo organizaba como tú querías o lo hacías? No sé dedicabas decías, no quiero salir de todas las horas. Entonces lo hago en la tarde, entonces como que tú era como tener una materia más de cierta manera con una carga mucho más alta, pero igual en la universidad no tenías que desplazarte, o sea, te dabas como muchas facilidades y pues lo bonito en este caso es que era relacionado con nuestra carrera. Entonces, pues de cierta manera están este otro tema del trabajo, pero además desde quinto semestre en adelante también es cuando decidiste todo el vincularte a la comunidad de programación competitiva y entonces ya tenemos tres actividades. Esa es el trabajo los estudios regulares más esto otro que te está apasionando.
+
+[45:24]
+Qué pasaba con la vida de Melissa siempre resultó haciendo esta pregunta a veces discreta, pues el resto de la vida está uno en la universidad, no solamente irse a tomar una cerveza para hablar del gobierno.
+
+[48:05]
+Cuéntanos, cómo cómo se hace el cierre de tu pareja el duelo fue Jason y yo decidimos que no queríamos hacer duelo y retrasamos la tesis de un año para poder competir un año más culpables, entonces nosotros como buenos niños y buenos estudiantes terminamos nuestras materias en los días semestres que eran teníamos todo listo, pero nos hicimos los tontos con la tesis porque teníamos un año para hacerlas entonces decidimos como si lo retrasamos un año podemos competir un año más este va a ser nuestro año esa era nuestra entonces decimos como bueno enfoquémonos en esto tal.
+
+[48:54]
+entonces digamos que como ese año en el que decidimos dedicarnos a la tesis únicamente yo también recibí una oferta de trabajo para mudarme a Cali
+
+[49:09]
+digamos que una de las cosas que yo tenía un poco claras era que yo no me quería quedar en Cúcuta yo no sé yo crecí en una ciudad grande, entonces supongo que me acostumbré y me gustan las ciudades grandes yo yo lo tenía como muy claro y que yo me iba a graduar y yo iba a conseguir trabajo fuera de Cúcuta
+
+[49:34]
+Y me hacen una oferta de trabajo con una de estas como semilleros de trabajo semilleros para profesionales donde van y es como un periodo de capacitación y me hicieron una oferta.
+
+[49:47]
+Y decido mudarme a Carmen ese año de mi tesis comienzo a trabajar, sigo con las maratones iban de la mano y me voy a trabajar acá una empresa llamada open sistems que tal vez la conocen.
+
+[50:04]
+Entonces yo caigo allá era un proceso de un semillero de dos meses donde como que era era como entrenamiento y pues luego sí, pasaba, digamos como la prueba entrabas ya a trabajar y así es parte de la plantilla todo ese proceso pasa digamos que durante más o menos el momento en el que iba a ser la última maratón latinoamericana a la que yo iba a ir.
+
+[50:26]
+Y recuerdo que que para viajar a la competencia la competencia era un sábado y yo quería viajar el viernes como para tener el tiempo como descansar y ir a competir el sábado y me tocó pasar por ese momento de ir a pedir permiso en recursos humanos de cómo oigan estoy en un entrenamiento, pero me pueden dar el viernes.
+
+[50:46]
+Me acuerdo mucho que me dijeron que no y me dijeron que era responsable que yo estaba tenía que estar trabajando, qué tal me pareció muy injusto porque había otra persona que también había perdido el tierras libres y se lo habían dado y fui yo como dije hoy quiero estar esto de mi universidad. No sé pero es que ya no estás en la universidad por lo que me dijeron quieres que pensar en tu futuro me acuerdo que me enojé mucho y que casi renunció, pero dije, bueno, está bien y es como no, no ya se acerca la entrega final de proyecto y tienes que terminarla yo dije como bueno, listo. Yo soy capaz con las dos cosas no me dieron el permiso está bien, no importa yo viajo el viernes en la noche viernes en la noche me voy yo para Bogotá hago mi competencia vuelvo y me acordé que esa persona de Recursos Humanos luego estaba preguntando como y Melissa viajó y yo sí, yo viaje y aquí está mi proyecto y está perfecto. Muchas gracias por tu ayuda, pero pero sí.
+
+[51:46]
+Fue mi última maratón lloré como nunca después de la competencia, la última competencia no logramos una mundial claramente, pero fue una gran experiencia después de todo vuelvo a Cali y continúa trabajando en esa empresa por como por el año más o menos después de eso y pase a la empresa claramente y sí, pero tuve mi choque con recursos humanos. Yo creo que hasta el momento en el que partía la empresa tuve un choque con recursos humanos que te dijeron entonces es algo así como si ella si la persona.
+
+[52:46]
+Que no me busque porque no lo voy. Sí, sí, un poquito todavía lo tengo fresco, todavía tengo esa idea. Creo que lo que me molestó mucho que ese cuando se inventaron la palabra recurso humano los filósofos protestaron yo estoy yo tengo una maestría en filosofía, entonces leo todas esas cosas protestaron y se dijeron. Oye, ahora ahora nos llaman recursos humanos y otro dijo y nos manipulan con una cosa llamada management ese yo lo he mencionado inclusive con administradores de empresas que me miran regular, pero fíjate un poco como esa estrictez de los recursos humanos frenan la creatividad y la libertad de las personas no por eso esa molestia con la con la Unidad de Recursos Humanos
+
+[53:44]
+yo creo que lo que me molestó en ese momento fue que intentó llamarme irresponsable porque yo tenía como una expectativa o tenía ilusiones o quería algo más aparte del trabajo y como que de cierta manera me llamo incapaz, fue como si vas a esto entonces no vas a terminar tu proyecto entonces era como
+
+[54:04]
+Pero sí, creo que creo que eso fue lo que me molestó mucho en ese momento es como yo no quiero renunciar a una vida solo porque tengo un trabajo o no quiero yo le tengo mucha ilusión a esto y esto es parte importante como de lo que yo era en ese momento, entonces era muy bueno.
+
+[54:25]
+Sí, muy interesante esas esas lecturas distintas que vas haciendo sobre ese mismo sobre esa anécdota son muy muy muy interesantes porque además nuevamente aparece el tema del reto usted me está diciendo que yo no soy yo a ver si le entendí bien, no sabe con quién está hablando no conocen mis capacidades, uno está la otra de de ella. Es que yo tengo mis retos personales que van más allá de ese asunto y complementándolo a mí no me volvieron a hablar de recursos humanos que en ninguna parte los que me conocen porque porque se acostumbraron a que si alguien dice que soy recurso humano, yo le digo que es gasto fijo, entonces bueno, eso es anécdota, pero pero bueno, y entonces se elabora el duelo.
+
+[55:25]
+Llorada después de la última maratón y entonces decides graduarte presentan el trabajo de grado que tiene que ver con la metodología que usaban ustedes para para entrenar, sería muy bueno entre otras cosas invitarte a y eso lo hablo desde desde la comunidad de de programación competitiva invitarte a compartir parte de eso que hicieron darlo a conocer al menos se debe conocer en tu universidad y de pronto en algunos otros, pero normalmente resultan esos proyectos de grado haciendo círculos cerrados, entonces dar a conocer eso en universidades que están empezando estamos haciendo un trabajo muy dedicado a universidades que están empezando con sus procesos en maratones de programación entonces de pronto te contacto para para contar parte de esa historia. Perdón, por ello creo que
+
+[56:25]
+Grisel eso sí, la recuerdas de Pony salvaje, su proyecto de tesis fue como una segunda capa de mí de mi proyecto de tesis El Vivero enfocado a estudiantes de universidad ellos lo adaptaron para que fuera para estudiantes de colegio entonces como creo que era con códigos de blog que o algo así pero pero sí sé que hubo como una extensión de mi tesis cómo se llamó el proyecto tuyo
+
+[56:50]
+Yo no me acuerdo el nombre de la plataforma.
+
+[56:55]
+Sí, era para entender más el tema, no que ustedes lo conocen, era bueno era como compuesto de dos partes, entonces era como toda la metodología del grupo del entrenamiento de que se hizo de cómo se establecían las temáticas el currículum demás y por el otro lado era la plataforma de las competencias, pues lo que nosotros hicimos creamos nuestra propia plataforma interna para poder ejecutar competencias hacerlas públicas privadas como que era la herramienta que soportaba nuestro como nuestro currículo de cierta manera y lo hicimos abierto, pues como para que se pudiera usar en otras universidades de otros países, que nosotros llamamos gente como llegó aquí, pero sí, la verdad la plataforma no me acuerdo ahorita mismo como como terminamos de bautizarla, pero pero te lo puedo buscar y los comparto claro que sí, y lo agradeceremos muchísimo.
+
+[57:54]
+Y revivir revivir todo esto me parece, me parece clave para esas instituciones que arrancan bueno, y después que sigue en tu vida, después te graduaste estuviste trabajando con Open durante casi un año y con todo y tus encuentros con recursos humanos después de eso entonces qué pasa con con Melissa y con sus propósitos? Cómo hace para seguir creciendo y cómo está ahora?
+
+[58:35]
+Yo bueno, yo termino materias, yo me gradué en el junio de 2018 empecé a trabajar en Cali en 2017, la media desde 2017, yo me voy a Cari y a principios de 2018 no sé, tal vez marzo consigo una oportunidad de una entrevista con Microsoft gracias a un compañero ex compañero de maratones a Juan Camilo y me recomendó, entonces me salté el primer filtro de las entrevistas de Microsoft que es el de la hoja de vida, entonces eso me garantizo una primera prueba. Yo hago todos estos entrevistas mientras estaba trabajando y logro llegar a la fase de las entrevistas virales al for loop, que en mi caso fue en Argentina bueno, me tocó poner una excursión en el trabajo pedir permiso y decir no es que tengo un viaje súper importante y me fui a Argentina a presentar.
+
+[59:35]
+Y paso esas entrevistas, entonces me la oferta para irme hacia el principio de junio y yo tengo el grado oficial a mediados en junio del 2018. Yo llego a graduarme como futuro ingeniero de Microsoft era como mientras tanto en la empresa open estaba en un proceso como de migración, porque ellos tenían un producto bastante antiguo donde gran parte de los procesos estaban en PL SQL entonces buena parte de los equipos trabajaban solo en pl yo de nuevo fui muy afortunada porque yo estaba yo entré a formar parte de uno de los equipos que hacían las migraciones, entonces la idea era como sacar todas esas cosas que estaban en pl y llevárselas allá abajo, entonces yo estaba en esos procesos, entonces era como bueno tecnologías nuevas haciendo cositas.
+
+[01:00:35]
+Y trabajando ahí en la empresa conozco como a los que trabajaban como en el área de investigación.
+
+[01:00:44]
+Como un préstamo interno ellos me sentaban recursos mi jefe, me mandó allá y me perdió, se me hizo amigo de la parte de la gente que estaba en investigación y cuando se había una vacante allá yo no quería aplicar porque sabía que me vi para Microsoft entonces yo decía como bueno es estar medio año aquí es como bueno cambio de área, o sea, como me parecía mal como que robaron la oportunidad a otra persona, si yo sabía que me iba a ir en menos de no sé un año medio año, pues la persona que iba a ser mi jefe en ese momento él sabía lo de Microsoft fue bastante amigo mío y al me dijo pues habla con el director ponle las cartas sobre la mesa y si él decide aceptarte pues pues te vienes para estar ahí, entonces yo le digo pues hago las pruebas como para el cambio de área, le digo como yo me voy.
+
+[01:01:44]
+En un año si me quieres aceptar porque pues cambiar de equipo implica que hay que hacer un engorden que hay que hacer un training lo que es tiempo en el que uno no va a ser productivo. Estás entrenando a alguien igual te vayas, no me dieron como que agradezco tu honestidad, te recibo en el equipo y yo bueno, entonces paso a formar parte del área como investigativa era un equipo bien interesante porque éramos 12 personas y cada uno tenía como un foco. Entonces era investigación en seguridad en devox en base de datos y operaciones con diferentes áreas y yo entré en la parte de box, porque me encantaba y ahí yo creo que hago uno de los proyectos que más me enorgullecen aún hoy.
+
+[01:02:30]
+Porque había un proyecto muy antiguo en la empresa que es como un castillo de naipes que nadie lo tocaba porque funcionaba pero no se le podía agregar una nueva funcionalidad no se podía utilizar no se podía hacer nada y nos dieron esos retos como, eh? Será que lo pueden optimizar y nosotros mirábamos el código y decíamos, es que no entendemos nada. Esto está muy complejo.
+
+[01:02:53]
+Y decidimos hacer lo que todo ingeniero decide hacer, vamos a hacerlo desde cero porque por qué no y fue un proyecto muy muy interesante porque era como un motor de flujos, entonces un motor de flujos en el fondo es grafos y yo dije aquí está lo que a mí me gusta y lo construimos desde cero fue pura puro aplicado, porque lo que hicimos fue arrancar dos de los test y era entrevistando a la gente que usaba el producto, o sea, no les mostrábamos el código ni nada, sino les decíamos. Bueno, tenemos esta situación, qué debería hacer el motor en este momento entonces la gente nos explicaba entonces era como reconstruir el producto, pero desde desde lo que hacía el producto actual, pero sin mirar el código porque si mirabas el código entonces lo que estás haciendo es como transcribir el código en otro lenguaje y él va a tener los mismos problemas, iba a tener todas las mismas cosas, entonces dijimos.
+
+[01:03:53]
+Como muy interactivo. Bueno, cuál es la funcionalidad más básica que debería tener esto no? Que no sé que se conecta y qué flujo, vaya de esta manera listo. Lo hacía todo. Olvidamos, les mostramos bueno, hace esto qué más debería hacer entonces fue como muy construyendo, lo construyendo. Lo construyéndolo hasta que logramos migrar lo completamente.
+
+[01:04:09]
+pero fue un proyecto bastante divertido porque pude aplicar cosas de grafos voy a aplicar cosas nuevas migración muy interesante entonces ese tiempo como que bueno finales del 2018 como pasa una situación delicada como a nivel familiar y es que mi papá le diagnostican cáncer entonces como que de repente mis ilusiones de irme a vivir así no me quiero ir a vivir tan lejos, entonces como que empieza una situación no tan chévere y empiezan a cambiar mis un poquito mis perspectivas en ese momento he intentado hablarlo con Microsoft intento, pues poner la oferta como
+
+[01:05:09]
+no sé, no me quiero ir en el 2019. Qué tal si me ven en el 2020.
+
+[01:05:13]
+Y no me acuerdo, me dicen que pues que no, que en ese caso, pues me tocaría aplicar de nuevo.
+
+[01:05:20]
+Yo lo pienso un montón todo esto es inicio del 2019 no pienso un montón y decido no irme, entonces decido rechazar la oferta y les digo, muchas gracias, no, no me voy a ir.
+
+[01:05:34]
+Pero también decido buscar como nuevas perspectivas en Colombia porque mi trabajo era presencial completamente yo vivía en Cali mis papás estaban en Cúcuta yo quería pasar más tiempo con ellos de estar más mi jefe en ese momento era siempre fue un gran amigo y él como que si yo necesitaba viajar y me da los permisos y necesito ir a Bogotá por los exámenes de mi papá, o sea, podía viajar y trabajar en moto, pero no era la cultura de la compañía. Entonces como que siempre se siente esa aflicción de cómo es la persona privilegiada que puede hacer esto, o sea los demás personas no conocen tu situación, pero siempre es tal como ahí ya la tratan distinto. Entonces como que quería buscar un lugar que me permitiera y tener esa flexibilidad en que fuera de cierta manera algo especial, entonces empiezo a pensar en cambiar de trabajo, pues bueno Microsoft ya no es, pero vamos a cambiar.
+
+[01:06:25]
+Y por esos momentos me contactan de buenas tardes, me contactan de tu horario, no sé si la conozcan es una startup.
+
+[01:07:10]
+Un par de días después me escribe mensaje un Daniel Bilbao por whatsapp, no es que tengo una oferta de trabajo mi primera reacción fue esto es un estado, porque esta persona tiene mi número porque me está escribiendo que le pasa entonces yo me volteo y le muestro el mensaje a mi jefe como mira lo que me acaban de escribir y otra persona el grupo se levanta. Ay, a mí también me contactó esta persona entonces como él qué está pasando aquí y lo que me dijo en ese momento Daniel Bilbao fue no es que David te recomiendo yo cual David yo no conozco a ningún David de quien le está hablando bueno Daniel Bilbao es una persona bastante importante porque es bien insistente entonces comienzo yo a charlar con él y me dice no es que tengo una Zara no sé qué y te quiero en el equipo. Luego descubrimos que fue que este chico que se fue a tu Ilio la encontró con un compañero de universidad de mi valle, que es David cuadrado y David es el sitio entonces la recomendación venía por ahí pero
+
+[01:08:10]
+Nunca me contaron la historia en el momento en el momento. Yo pensé como quien es esta persona porque tiene miedo.
+
+[01:08:15]
+Decían entrevistarme con ellos, estaba haciendo procesos con global, te estaba haciendo proceso. Bueno, estaba haciendo varios procesos en ese momento y llega.
+
+[01:08:25]
+Con una oportunidad laboral bastante interesante con muchos retos con venderme a David cuadrado como un crack en tecnología.
+
+[01:08:36]
+Con una prueba técnica muy interesante y digo como bueno proceso, estoy haciendo entrevistas porque no vamos a intentarlo.
+
+[01:08:46]
+De las cosas raras que me pasan en ese momento mientras Daniel Bilbao intentaba reclutar, mira que me llamaba todo el tiempo.
+
+[01:08:52]
+Y me decía ay, mira, es que estoy intentando contratar un pie en Brasil quieres entrar a la llamada y yo.
+
+[01:08:58]
+Extra la llamada y me contaba cosas de la empresa. Yo solamente decía como que este personaje es muy particular, no, no entiendo porque me cuentas cosas y ni siquiera estoy contratada y yo era como bueno, está bien nada. Hago la entrevista, siento que es la peor entrevista de mi vida.
+
+[01:09:18]
+Una entrevista técnica en la que me sentí como que era una ingeniera, yo estaba súper orgullosa de mi prueba técnica y llegó yo a la entrevista y la sustentación más dura que he hecho en mi vida. Yo salí a esa entrevista diciendo lo hice fatal, no me va a llamar.
+
+[01:09:36]
+Lo comentaré que al parecer David dijo que mi entrevista había sido una de las mejores y yo decía, pero sí terrible del mal me dio palo todo lo que pudo yo decía como como hay muchas cosas que que no sé, pero lo divertido de esa entrevista que a pesar de que es bastante dura y de que él te lleva como el límite es que te enseña.
+
+[01:09:56]
+Entonces y no te acepta decir que no, yo siempre soy una persona que sí me preguntara algo y como que y yo no sé la respuesta. Yo prefiero ser honesta y decir no lo sé a inventarme cosas David no me dejaba decir que no esa entrevista. Él me preguntaba algo y le decía, no sé, digo. Bueno, piensa porque por qué crees que es esto me obligaba a llegar a una conclusión, me llegaba, me obligaba a llegar. Estoy como un poquito porque realmente no sé si es esto, pero toda la entrevista era así y él te explicaba al final entonces como no esto esto esto y esto es por tal cosa a pesar de que sentí que había sido una entrevista terrible. Dije como esta persona sabe mucho y fue como una gran clase, o sea, fue una clase de dos horas en realidad dije. Bueno, no me van a llamar esa noche, me llaman y me hacen una oferta, entonces tenían una oferta de global y tenía una oferta de prueba.
+
+[01:10:47]
+Y llegó. Bueno, qué hago ahora parece interesante claro decirle eso a mi mamá no fue la decisión más sencilla paso de la empresa conocida a una empresa que nadie conoce mi mamá pregunta, pero pero eso sí es seguro y claro, pues era como una empresa grande como que habían horarios. Yo recuerdo que le pregunté a Daniel como bueno, listo, ya empiezo el lunes, a qué horas llego no? Yo creo que puedes llegar como a las 10 de la mañana. Yo creo que a esa hora ya hay alguien en la oficina y yo.
+
+[01:11:20]
+Pero en donde me estoy metiendo, entonces le preguntaba yo bueno, y me vas a dar computador o a donde tengo que o sea como que yo le preguntaba muchas cosas y él me decía él respondía como es divertido contratar mujeres, porque usted usted como que piensan más. Yo contrato muchachos y nadie me pregunta todas las cosas que me preguntan tú y yo, pero yo bueno.
+
+[01:11:39]
+La perspectiva muy interesante de la empresa será mi primer día era una casa era una casa, no? No era una oficina era una casa gigante en Cali llegó yo algunos ingenieros ahí de los pocos que madruga a las 10 de la mañana.
+
+[01:11:57]
+Me hacen un tour por la casa, pero la piscina y me dan las llaves, estos son tus llaves y yo.
+
+[01:12:05]
+Como que las llaves de la oficina no entiendo qué está pasando aquí. Bueno, luego lo descubrí, pero la tiene como estar bastante nueva. Tenían alrededor de un año ponle por mucho, no era tan pequeña para hacer una estará. Éramos cuando yo entré, éramos como unas 50 personas de las cuales más o menos unos 20 25 éramos el equipo de ingeniería, entonces era un equipo de ingeniería grande para hacer una espada y ellos se dedicaban a hacer chequeos de antecedentes y su meta o su misión era combatir el fraude en Latinoamérica era algo supremamente ambicioso.
+
+[01:12:47]
+Y era interesante porque era retador yo no decía cómo vamos a acabar con este problema es como entonces.
+
+[01:12:55]
+Entro ahí un cambio del cielo a la tierra porque pasé de ser claro, yo yo me gradué muy joven, me gradué, pero siempre era como la niña, o sea, como la más pequeña en el equipo. Entonces era la insolente era la que le podía molestar a los compañeros y no pasaba nada porque era la chiquita llegó aquí está un brazo. Está compuesta. Básicamente por graduados, no por estudiantes de la gente todavía más joven que yo.
+
+[01:13:22]
+En 2020 2019 entonces yo pasé de hacer la niña pequeña en el equipo a pasear el rol model o la grande y yo en qué momento pasó esto y aprendí muchísimo porque ahí me enseñaron a como que aprendas equivocándonos tu responsabilidad, no sé un mes, ya tenía credenciales, no había un ambiente Stegen era producción y yo cuando me grabé en esas credenciales, yo me acuerdo que decía yo yo no quiero estar la espontaneidad que se caiga algo y sea mi culpa, la fue toda una aventura literalmente ahí me obligaron a aprender haciendo fue que yo fue un poquito lo contrario, que yo decía como porque me dan tantas responsabilidades y como, qué es esto?
+
+[01:14:18]
+Y estuve dentro era durante tres años así un poquito más de tres años y fue uno de los momentos de mi vida, los que más he aprendido técnicamente fue lindo porque entré en un punto en el que todavía era capaz de conocer a todas las personas de la espada. Entonces yo sabía quién era quién y a medida de que fue creciendo también era como bueno tal vez yo no construye, esto, pero yo sé cómo está hecho esto y sé a quién tengo que preguntarle entonces tenía contexto de todo porque no era, pero pero siempre en un punto bastante bueno, vi crecer el equipo de 50 personas a más o menos 130 cuando me fui creo que ella ahorita están como en 200 y fue increíble trabajar con tanta gente joven.
+
+[01:15:11]
+Porque era literalmente eran niños de universidad que encontraron en esa oportunidad, que yo encontré en maratones de programación era un poquito la perspectiva la vida de esos niños era otro, era ahí era donde hacían los retos entonces proyecto de universidad no, esto lo aprendí en nuevas tecnologías era era literalmente aprendamos haciendo aprendamos equivocándonos David cuadrados, un excelente mentor. Yo creo que uno de los mejores mentores que he tenido y tuve mucho apoyo, como de toda la presa yo entro a tu hora a mediados de 2019.
+
+[01:15:53]
+Mi papá fallece en noviembre 2019 después de una época bastante complicada para mí que vino como con muchos cambios con mucho impostor sin romper que no era capaz de nada y siempre tuve como el apoyo constante de las personas de prueba del equipo de ingeniería de mis compañeros como que siempre sentí como que mi trabajo era reconocido y yo no tenía que hacer, pues por eso como que alguien estaba ahí y alguien lo reconocía sin que pudieras como que decir como ella hago estas cosas.
+
+[01:16:35]
+Fue todo un viaje compartir con ellos antecedentes. Luego fue cambiando a validación de identidad de conocimiento documentos fue mucho de Inteligencia Artificial luego de procesos de caigua y sí de hablar como un cliente como todas esas cosas y al final mudó un poco a ofrecer todas estas soluciones en Canarias que se usan en Latinoamérica en este caso era whatsapp, por ejemplo, entonces como que puedes hacer todo tu proceso te ofrecemos toda la suite para que tú hagas como que toda la validación de identidad de tus clientes y mira, lo puedes hacer por whatsapp o mira, lo puedes hacer con por web. Igual habían retos de todo tipo, puede pasar de tener una escala que no tenía un ambiente de staking a tener infraestructura como código para todo hubo demasiado retos ahí.
+
+[01:17:36]
+Recuerdo mucho también que contratada por gente yo tenía un poquito como de países, cuando entraba las entrevistas recuerdo que dos de las personas que contratamos habían sido maratonistas de unidades.
+
+[01:17:54]
+Y claro, yo entraba las entrevistas y yo veía su código y yo esta persona yo inmediatamente era capaz de identificar esta persona con la manera en la que su código estaba estructurado y recuerdo que una vez tuve una una conversación con David luego de la entrevista y me hacía porque te gusta yo. Ah, porque hacía maratones de programación y él me dice a mí no me gusta por lo mismo y yo como así me decía no es que la gente que hace un maratones de programación tiende a ser muy desordenada el código es muy espagueti, no sé como que no le gustaba los patrones que aprendían cuando hacían programación competitiva y yo le decía como mírame a mí yo yo vengo de ese mundo y uno puede cambiar. Me parece más importante tener como la lógica que luego uno aprende cómo hacer código yo lo idea no hago el mismo código que hago cuando hacían maratones porque la velocidad es un factor muy importante, pero yo tenía como un como esta persona en su inteligencia esta persona sabe.
+
+[01:18:54]
+Sabe aceptar un reto y él era un poquito, me preocupa que las malas prácticas que aprendió como que se mantengan demasiado y así como no la gente se puede moldear. Mírame a mí pues era gracioso cuando lo grabamos contratar gente que había sido maratonista porque teníamos justo esas discusiones.
+
+[01:19:11]
+y
+
+[01:19:14]
+qué bonita, qué bonita historia esa esa parte está bellísima una solo una curiosidad después de todo aquel que está todo tan también. Qué pasó por porque estás en Madrid cuando a ver una cosa que ha sido muy particular de mi vida, es que yo nunca he sido una persona muy buena con las metas, entonces usualmente cuando alguien me preguntaba desde muy pequeño, qué vas a hacer en cinco años? Yo no sabía, o sea es como y eso me generaba bastantes problemas, cuando era más joven hasta que un día aprendí creo que también fue otra de las enseñanzas de David sino todo el mundo funcionará la misma manera como hay personas a las que tener como un plan súper súper y sin eso no pueden funcionar. Yo soy un poquito más de pues yo doy.
+
+[01:20:14]
+De mí cada día y eso me tendrá que llegar a que llevara un buen lugar, pero una de las únicas metas que yo había tenido cuando estaba en la universidad era que yo había querido trabajar para una compañía grande.
+
+[01:20:27]
+Y yo lo tuve con Microsoft pero pues luego lo dejé ahí, pero en el momento en el que yo lo dejé ir yo dije yo soy muy joven y yo estoy completamente segura, que puedo volver a aplicar.
+
+[01:20:37]
+Entonces en el momento no me arrepentí, no me arrepiento fue la mejor decisión que pude tomar en ese momento.
+
+[01:20:44]
+Pero yo dije lo voy a poner en pausa. Luego lo hago lo que pasa es que cuando pasas de trabajar en la compañía mediana, llamemos apenas medianas, no puro creativas, una compañía organizada a pasos a una locura, en la que te dan las llaves de la casa, donde trabajas claro el impacto que tienes es mucho más grande, o sea ese tipo de cosas ese tipo de retos es muy difícil conseguirlos en una empresa ya ya formada. Entonces a pesar de que yo estaba pasando por un duelo y muchas cosas me encantaba, era como ser así como ser un pez grande en una persona más chiquita era como ves el impacto de lo que haces si haces algo bien, se nota si haces algo más se nota si daño es algo, se nota es como no es tu impacto no es un granito de arroz en una cesta gigante, sino tu impacto de verdad se nota.
+
+[01:21:39]
+Y entonces llegó un punto en el que yo estaba increíblemente feliz en tu era y yo dije, me quiero quedar aquí entonces como eso de vámonos para mi aquí estoy feliz aquí me gusta.
+
+[01:21:52]
+Y estaba como de hecho tuvo momentos de crisis en algún punto porque fue como bueno, lo único que yo había querido en mi vida, era esto y ahora ya no lo quiero. Entonces quién soy? Para dónde voy? Qué va a pasar con mi vida? Tuve como un momento de esos, pero luego pasó un poquito el tiempo y fue como
+
+[01:22:13]
+Que ya tenía demasiado responsabilidades que yo agradezco mucho eso y como ese apoyo, pero yo pasé de ser como una ingeniera, sabía pequeña entrar a tu casa porque era de las pocas personas que tenían experiencia.
+
+[01:22:32]
+Entonces llegó un punto en claro, yo lleva más camas cada día más arriba como para ese perfil del yo decía como yo nunca he tenido como mentor, o sea, me gusta mentorear a la gente, no tengo un problema enseñándole, pero yo también quiero quiero que la responsabilidad no sea mías, quiero también poder fallar. Quiero permitirme aprender de otras personas quiero permitirme no ser la que siempre toma la responsabilidad. Entonces dije como quiero otras cosas y si sigo aquí no las voy a conseguir.
+
+[01:23:01]
+Entonces dije vamos a buscar otros retos. Estaba en ese proceso cuando me contactaron de Amazon yo me había hecho la mente, que quería cambiar y que quería un reto distinto y me contactaron de Amazon y yo bueno, porque no vamos a hacer la entrevista. Eso fue el año pasado como en mayo.
+
+[01:23:25]
+Me dijeron que tenían ofertas. Yo ni siquiera miré para dónde simplemente me dijeron que habían ofertas y habían posiciones abiertas en Kindle y yo bueno Kindle me gusta mucho como producto, pues por qué no igual quiero probar nuevas oportunidades, me sirve como para hace mucho no hago entrevistas, pues me sirve al menos como para ver cómo estoy en ese proceso, mi objetivo nunca era pasar y simplemente voy a probar.
+
+[01:23:50]
+Hago mi primera entrevista. La paso hago mi segundo entrevista la paso y luego tengo la oportunidad de nuevo del pull loop de las cuatro entrevistas tuve una entrevista buena o la entrevista desastrosa y dos entrevistas buenas.
+
+[01:24:13]
+Pero si de algo me sentí como muy orgullosa, es creo que lo hablábamos, pues lo hemos hablado más temprano es como fallar no es fácil y fue también otras de esas cosas que aprendí en tu era, porque sobre todo los ingenieros solemos tomarnos muy personal cuando alguien te pone un comentario y te dice, oye, esto está mal o esto no me gusta o cuando en un diseño te dicen estas cosas, no? Y si es porque nos pega mucho al ego David solía decir que o sea, que nuestro trabajo es muy creativo crear códigos creativos. Entonces él los comparaba un poco con ser como un artista, entonces decías como no sé si le critica la Mona Lisa Da Vinci obviamente, se va a sentir atacado porque pues tenemos que de cierta manera pone su alma en lo que hace entonces hay que aprender un poquito a separar, pero no es fácil obviamente cuando fallas no es fácil, cuando te critican es fácil y sobre todo a mí me costaba mucho mucho fallar, fue algo que aprendí en me costaba fallar como así, yo había tenido retos y lo superaba pero
+
+[01:25:13]
+No me dejaba con una buena sensación fallar no es bonito, pero ahí aprendí que de fallarte aprende yo creo que sí hubiera tenido una entrevista de desastrosa antes me hubiera puesto a llorar, si algo me sentí muy orgullosa, es que tuviera entrevista desastrosa de una hora e inmediatamente seguía la siguiente y la siguiente creo que para mí mejor.
+
+[01:25:36]
+Entonces yo creo que no voy a pasar, pero me siento muy feliz de que tuve una buena entrevista después de haber tenido un fallo un fallo, feo. Yo dije no me importa pasar. Creo que creo que me ha durado como persona creo que sí he aprendido cosas a nivel personal. Bueno, yo dije la seguro no pasó.
+
+[01:26:02]
+Y después dos semanas después me dicen como ah, listo. Mira pasaste y tienes una semana para para aceptar.
+
+[01:26:13]
+Y en ese momento es que empiezo a pensar como yo sí me quiero pasar a Madrid o sea, yo si me quiere ir a trabajar allá como qué es esto yo yo no esperaba que pasara en realidad y ahí está bien cuando no se da cuenta que a medida que pasan los años o no, uno piensa más tenía la perspectiva de irme hacia Aarón yo simplemente estaba feliz y yo decía, sí, me voy a ir la perspectiva de irme de Madrid era más difícil. Yo decía dónde voy a vivir, no conozco a nadie, es un país nuevo.
+
+[01:26:45]
+Y me sentí bastante angustiada y luego dije como por un momento me sentí tonta dije, pero es que Melisa del 2018 no le importaba esto cuando se iba a ir a Microsoft o sea, estoy ganando miedos a medida que maduro.
+
+[01:26:59]
+Luego descubrí que no es que un hogar en miedo sino que es que uno es más maduro y por eso pienso más las decisiones que tiene que tomar.
+
+[01:27:06]
+Pero luego le veo también dije fue como que es lo peor que puede pasar si voy no me gusta.
+
+[01:27:15]
+Entonces dije, bueno, a ver no soy la primera persona que va a emigrar si la primera persona que se mueve a otro país a trabajar en la vamos a intentarlo. Bueno, tengo una pregunta más además de agradecerte todo este tiempo creo que todos hemos estado súper encantados con con tu entrevista, pero pues no es que sea tiempo de televisión, pero igual allá son siete horas más allá estás a las 10 de la noche lanzándonos a nosotros tampoco tampoco se trata de abusar en ese sentido una sola pregunta tengo y me dijiste recordar que siempre hago esa referencia, pero me la hiciste recordar cuando hiciste una referencia a David y sentiste, has sentido durante todo este trasegar en ingeniería desde desde que empezaste a
+
+[01:28:15]
+Algún sesgo algún asunto.
+
+[01:28:20]
+Alguna dificultad adicional es muy difícil saber si eso es adicional o no por el hecho de ser mujer en este en este ambiente de la ingeniería.
+
+[01:28:31]
+Es un tema que en estos días está muy en boga, no? Y además cada vez hay más mujeres en ingeniería, etcétera, entonces, cómo fue tu experiencia al respecto y
+
+[01:28:44]
+siempre ha sido como súper clara de que somos la minoría no hay manera de negarlo desde el momento en el que entra la universidad era como entonces me acostumbré mucho a estar rodeada de hombres muchos de mis amigos hoy en día son hombres es como que no tienes opción. Yo creo que ha sido bastante afortunada porque yo creo que nunca me he enfrentado a una situación en la que yo diga ser mujer me ha puesto en desventaja.
+
+[01:29:13]
+En parte es porque yo lo creo que sea una desventaja, entonces yo no creo tener menos capacidades o sea, no y ha sido afortunada porque yo sé que esas cosas pasan, o sea, con nuestra historia con su gente no puedo decir eso no sucede, soy afortunada porque eso no me ha sucedido a mí siempre he dado con gente que que respeta mis opiniones que o sea, nunca me he sentido infravalorada por el hecho de ser mujer.
+
+[01:29:39]
+En Amazon se nota un poco más es el hecho es como un poquito de la desigualdad de género y y ahora tenía mucho foco en contratar mujeres en contra de mujeres sin ingeniería se lo tomaban muy muy en serio, entonces claro, al ser un ambiente más pequeño, digamos. Bueno, yo era la única ingeniería de mi equipo, pero conocía a las mujeres de los otros equipos aquí se nota mucho más la falta de mujeres, o sea, son equipos en los que hay mucho más hombres.
+
+[01:30:10]
+Igual de nuevo yo nunca me he sentido como siempre siento que mis opiniones son válidas, son tomadas en cuenta y si incluso aquí en Amazon no no me ha pasado ninguna situación de ese estilo.
+
+[01:30:25]
+qué bueno, pues José Manuel si quieres agregar algo, si Sandra Beatriz no sé, me gustaría también por la carrera ese como autoinmune siendo hija, única, no, de acuerdo que es capaz de viajar, que es capaz de salir que tiene un sueño que logra llegar a la gran empresa es parte importante de esta entrevista que tú nos has dado obviamente desearte los éxitos, que seguro que los vas a tener digamos asegurar lo que viene con Amazon muy interesante la pasión por la programación eres del grupo de que eres eres del grupo de que de que le va a ir a fiestas prefieres ir a programar eso, eso te lo te lo entendemos una persona chévere y
+
+[01:31:25]
+una cosa como que quiero comentar Edgar Ruiz estuvo todo el tiempo, pero tuvo que salir con una reunión con la Universidad la Tadeo y no quiso interrumpir, pero me dejó un mensajito se puede hace unos segundos y él es una persona muy clave también este grupo lo otro es que Kevin que es alumno de Edgar y estudiante nos hace siempre una conclusión entonces si te parece Rafa y Melissa le vamos a pedir una conclusión a Kevin luego la palabra Rafa y si Sandra quiere comentar algo pues maravilloso entonces
+
+[01:32:05]
+Bueno, hola, cómo estás? Creo que no nos habíamos podido saludar, pero escuchando y me pareció muy chévere, que que sea como que está saliendo de uno de lo profesional y lo que pasaba también como en la universidad como que o sea fuiste de las pocas que que relaciona mucho los humanos no como como se sentía qué es lo que pasa alrededor, porque eso es parte importante también en el en el crecimiento personal. Entonces, pues me pareció chévere como decir, o sea me ha terminado la universidad y ya está en Microsoft y después sigo escuchando, no lo ve, pero se da cuenta que a veces esos esas esas cosas que no piensan que son tropiezas en la vida, pues a la final son
+
+[01:33:05]
+Pues los mejores momentos que uno lo lo llevan a de verdad formar uno su propio camino y pues eso eso me pareció interesante.
+
+[01:33:15]
+Muy muy interesante Sandra agradece, no por compartir la experiencia de vida muy inspiradora refleja, tu personalidad es un mensajito de Sandra de la Universidad Nacional persona muy importante en el gremio de sistemas entonces Rafa pues pues muchísimas muchísimas gracias por por este espacio y por regalarnos no solamente tu experiencia tu lectura, sino también tu historia de vida y tu lectura de la vida es bellísimo. Esto que me quedo particularmente con además de muchas de las cosas.
+
+[01:34:05]
+Con una frase tuya de doy, lo mejor de mí cada día y punto.
+
+[01:34:11]
+Y ya eso eso es toda una declaración de vida, entonces y nos consta a los que de una u otra manera tenemos conocido, que así es entonces hay muchísimas, muchísimas gracias, si el número telefónico que tengo sigue siendo el mismo te voy a contar, sigue siendo el mismo, te voy a contactar en algún momento para escribir tu mensajito para para ver si podemos transmitir parte de esos mensajes tuyos a las mujeres en Ingeniería en Colombia estamos tratando de hacerlo fuerte alrededor de eso y esa invitación a la gente en las maratones de programación me parece pocos lo transmiten con la pasión que tú lo haces, aunque llevemos toda la vida en esto la pasión tuya finita. Entonces muchas muchas muchas gracias y de pronto nos veremos pronto en Madrid muchas gracias por invitar.
+
+[01:35:10]
+Que sepas que este es tu casa, no muchas gracias, estás viajando pero de alguna manera el eterno retorno como decía Nietzsche porque estás acá con nosotros y eres parte del grupo y Beatriz pues muchas gracias otra vez por por esta ayuda con lo de Asís entonces creo que nos despedimos, no? Muchísimas gracias. Un abrazo para todos de verdad, una tarde muy, muy chévere para ti ya no.
+
+[01:35:41]
+Hasta luego, gracias a todos muy lindo muy interesante. Gracias, gracias, hasta luego. Gracias, hasta luego.

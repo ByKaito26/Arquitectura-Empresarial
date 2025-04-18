@@ -1,0 +1,320 @@
+[00:00]
+iniciamos nuestra entrevista de hoy de octubre 13, como siempre estamos el profesor Edgar Ruiz de la Tadeo Manuel Dávila yo la Liliana debe estar conectándose y Rafael García de pronto también que somos como el Grupo Promotor pero vamos a estar y estamos con Alfredo José Bayuelo sierra que nos va a contar su historia bajo bajo el esquema que hemos venido trabajando estas entrevistas y vamos a darle la palabra al Pedro no comencemos Alfredo por el comienzo colegio, no cuando entraste a la universidad, les cuento y Señor estaba así que año era en ese momento, por favor, ok si o sea, vamos siguiendo cronológicamente y en el momento que usted me diga paramos y
+
+[00:59]
+Un poco sobre la época en la que en la que vamos entonces iniciando por el bachillerato yo soy de la promoción del 2002 en una Fundación Educativa en Barranquilla o sea, yo no soy de un colegio ni privado ni público específicamente sino de una Fundación Educativa en la ciudad llamada la Fundación Educativa de instituto experimental del Atlántico José Celestino Muñoz esto es una fundación que que creó profesor Alberto Aza que es un inmigrante que que hizo algunas instituciones educativas en la ciudad y en particular para bachillerato hizo esta institución entonces un colegio muy pequeño en el que los estudiantes entran en sexto año en primero bachillerato y son los mismos que se mantienen hasta el final algunos salen pero nadie más entra entonces como un proyecto en el cual se va guiando un grupo de personas.
+
+[01:59]
+Me gradué en el 2002 y yo inicialmente, me presenté a la Universidad Nacional a estudiar Ingeniería Electrónica en el año 2000. Yo hice Olimpiadas de computación en el colegio en el bachillerato aprendimos a programar desde tal vez octavo noveno grado.
+
+[02:19]
+y yo en el año 2000 en décimo hice Olimpiadas colombianas de computación en el año 2000 2001 y en el año pero en el año 2001 en el año 2002, o sea, mi décimo y mi undécimo grado hizo Olimpiadas de computación y en el año 2002 cuando yo estaba en un décimo grado en sexto bachillerato tenía una base bastante fuerte en programación había hecho olimpiadas y esas cosas y por ese motivo no, no era para mí tan en ese momento tan llamativa la ingeniería de sistemas en particular tampoco había en la ciudad de Ingeniería de Sistemas públicas y tampoco Ingeniería Electrónica entonces yo me fui un poco más por el lado de la ingeniería electrónica me presentaré la universidad y fui admitido en el año 2003 en el segundo semestre del 2003 a Ingeniería Electrónica
+
+[03:19]
+En Ingeniería Electrónica bueno se me fui a Bogotá con muy pocos recursos, la Fundación que comentó es una fundación que brinda educación gratis para los estratos más más necesitados a más bajo más pobres de la ciudad trató 0 1 y 2 un momento y hora estrato 2 y yo me fui a Bogotá a estudiar Ingeniería Electrónica Universidad Nacional con muy pocos recursos al cabo de un par de semestres que ya empecé a ver elementos circuitos 1 circuitos laboratorios como tal para mí fue bastante difícil trabajar y estudiar al mismo tiempo.
+
+[04:03]
+y por esa razón y por la que ya venía haciendo Olimpiadas de desde la desde el colegio y también las hice olimpiadas en la Universidad de Ingeniero electrónica me cambié a Ingeniería de Sistemas yo presenté nuevamente el examen en el 2008 entré como tal al programa de Ingeniería de Sistemas volví a presentar examen para presentarme y pasé al programa de Ingeniería de Sistemas y este programa dada como las experiencias que ya tenía incluso había trabajado en algunas cosas de desarrollo, no solamente como algorítmico, sino ya desarrollo a nivel a nivel de aplicación empresarial de aplicaciones web y de aplicaciones embebidas me cambié a sistemas con la idea de que era más fácil para mí trabajar al tiempo que
+
+[05:03]
+A tomar algunas clases estar trabajando y dedicar un poco menos de tiempo. Entonces yo entré en el año 2008 y lo que sucediera que como varias de las asignaturas que ya había visto que son básicas del del de la ingeniería, o sea, de las líneas básicas de ingeniería de las matemáticas y todas esas cosas ya las había visto realmente no, no hice como como tanto contacto con un solo grupo de de, o sea, como con una camada o con una promoción que yo diga yo entré con esto de estudiantes y me mantuve todo el tiempo con ellos, sino que estaba disperso en varias materias en varios semestres y tuve como mucho contacto con varias promociones en particular era muy cercano a otros estudiantes que estaban en la misma condición uno que venía de mecánica otro que venía de agrícola que se habían cambiado de carrera y tenían veíamos la introducción a ingeniería.
+
+[06:03]
+De sistemas con todos los de esa promoción, pero además teníamos matemáticas 4 teníamos física 2 o sea, teníamos otra materia más adelantadas con ellos, sí, mantuve como más contacto el resto y compañeros cercanos con los que compartir muchos fueron con los que habían entrado unos tres o cuatro semestres antes que yo.
+
+[06:28]
+Las Olimpiadas que habías participado eran con qué institución y en las inicialmente son las Olimpiadas colombianas que la aún las instituciones es la Universidad Antonio Nariño incluso yo fui luego tutor luego fui como jurado fui coach del equipo colombiano en la Olimpiada Internacional de bachillerato y la universidad y participe en estas olimpiadas de Reddit axis, o sea, con las que ustedes están las de ACM ah, ok ok en la universidad en la universidad muy bien muy bien sí señor y con ACM sí hice varios.
+
+[07:27]
+Años ha ido olimpiadas y en la universidad ahora cómo cómo algunas preguntas que se hacen un poco el factor humano, cómo se vive tú tú has venido a Bogotá ya antes de venir a estudiar por olimpiadas y como como yo le comentaba en el 2001 y en el 2002 décimo y 11, yo fui a Bogotá a Olimpiadas no conocía a Bogotá realmente solo iba a ir a Antonio Nariño que queda en Nicolás de Federman en la parte de atrás tiene unas casas que son para los para alojar a los estudiantes que vienen a Olimpiadas de todo de matemáticas de Física de astronomía de sistemas y yo me quedaba ahí en esas casas y sólo conocía más o menos el trayecto del terminal a la casa, la casa olimpiadas y ese pedacito de Nicolás de Ferman y de pronto galerías, que nos íbamos.
+
+[08:27]
+Las costumbres las diferencias, cómo viviste esa esa parte humana? Digamos para para mí fue realmente chocante, o sea, las culturas son muy diferentes sin embargo del colegio en el que yo me gradué varios pasamos.
+
+[08:48]
+Yo realmente fui en el segundo semestre de 2003 y varios de mis compañeros de curso, si se fueron el primer semestre del 2003, entonces cuando llegué ya tenía algunos cercanos a gente con la que viví los últimos seis años, además esta institución que yo le decía de bachillerato es de jornada continua, o sea, yo tenía 10 horas de clases diarias con esos compañeros desde sexto año desde 1997 tuvimos todos los días todo el día juntos en el colegio y somos bastante Unidos es cuando yo me fui a Bogotá nosotros hicimos como una medio sociedades entre nosotros que a pesar de que no estamos todos en el mismo programa algunos en química algunos en matemáticas.
+
+[09:32]
+Nosotros teníamos como un grupo bastante cerrado de personas que eran egresadas de ese colegio sí, todas aquí Barranquilla entonces en esa época es mucho más anteriores y nuestros amigos de Barranquilla y la costa, que los queríamos mucho y entendíamos las diferencias, no ellos jugaban béisbol, por ejemplo, no, no fútbol, sino me acuerdo mucho y ellos hacían su combo no con sus costumbres te entiendo eso muy bien y señor. Bueno, decía que fue un poco más llevadero esa parte como de choque cultural, porque éramos muchos una comunidad como de 2030 personas.
+
+[10:26]
+Que vivíamos en los mismos lugares en el mismo barrio en Palermo en la parte sobre la 45 más arriba que hay muchas pensiones universitarias, ahí vivíamos nosotros y pues también me parece que ese barrio es como una mini ciudad una mini Colombia dentro de la ciudad porque hay gente de todas partes que vive como en las cuadras y ese y se veía muy diferente. Yo tengo familiares en Bogotá para realmente la primera vez que yo fui a Bogotá fue en el 97 a visitar a un familiar allá había ido antes más niños.
+
+[11:02]
+Y conocía un poco más y tengo familia en Bogotá pero yo no viví con ellos nunca porque pues era más fácil vivir cerca de la universidad para transportarse de más, pero además por la cuestión cultural. O sea, no nos entendíamos también muy bonito. Yo vivía en Palermo yo conozco muy bien, calle 45 con 24 por ahí vivía yo por la Toledo muy cerca de la Nacional un circuito Paraguay sí señor exactamente me acuerdo que en esa época cuando hacían huelgas mis amigos llegaban a mi casa corriendo hasta hasta las pensiones hasta allá arriba se sienten los gases hasta la 17 cuando hay pedreas en la universidad sin zapatos corriendo a mi casa porque bueno, muy bien todo eso eso nos sirve mucho saberlo. Está cerca de la universidad una gran ventaja y un barrio bonito un barrio.
+
+[12:02]
+Tradicional casas de ladrillo muy inglesa correcto bueno muy bien a veces identifico esa misma ventana en películas de los años 60 50 las mismas ventanas que uno ve en Palermo y me dejaron hablar de Colombia 15 minutos no donde estaba yo estudiando y y les mostré cosas de Bogotá y le mostré casas allá en el Parque Nacional no que ya de saber dónde es absolutamente inglés casas de arquitectura inglesa eso había una influencia y yo conocí la casa ahí en todo al lado del parque de un señor que era que ha pedido Wilde Alfredo también se llama Alfredo Wilde y él mantenía su casa estilo así inglés y el piano en la entrada las escaleras de curvas de madera y demás.
+
+[13:02]
+Y el reloj grande, o sea, hiciste tu grupo de gente de tu mismo origen? Digamos de territorial correcto.
+
+[13:20]
+Bueno, volviendo por donde estábamos entonces en 2008 con material de mucho semestres seguí estudiando Ingeniería de Sistemas y digamos lo que más entendí es que no tenía idea de que era ingeniería de sistemas que habían muchas más cosas que simplemente el la programación ahí aprendí un poco más de desarrollo y de otras cosas de ingeniería.
+
+[13:51]
+Qué me decía que comentara sobre materias, pero no se específicamente de qué materia podría como hablar cosas no, si seguramente estructura de datos y el algoritmia, temas de patrones hablando inteligencia artificial o no, no? Bueno, como de la primera parte de patrones de estructura de datos de todo eso todas esas materias. Yo las evacue muy rápido al principio porque son todos los temas que uno aprende en Olimpiadas entonces cuando entré a la universidad, había una profesora que mide yo no recuerdo el nombre de ella. Ella hacía un examen como de suficiencia de programación así como ya la de suficiencia en inglés había un examen de suficiencia en España en programación y yo hice ese examen y enseguida entré a hacer el curso de estructuras en el primer semestre y pues llueva, que todas esas materias poco más rápido incluso la el curso de
+
+[14:51]
+Algoritmos también los aprende uno en Olimpiadas hacer exámenes análisis de complejidad y todas esas cosas uno lo aprende eso en Olimpiadas entonces al momento de entrar a la universidad manejaba ya estos temas y más que todo internet además, yo alcancé a conectarme por tu utopía y por por teléfono o sea, conectando el módem del teléfono al equipo y y sobre todo para enviarme comunicaciones con Olimpiadas más que todo porque antes estos buscadores como yupi.
+
+[15:39]
+alcanzado a usar, pero no sabía muy bien, cómo cómo buscar información, por ejemplo ahorita en los nuevos estudiantes que uno entrena en Olimpiadas ya usan unos jueces en línea ya utilizan otros recursos que antes no los había gente que comparte los análisis que hace de programas, sí o sea, ahorita la información de de ese tipo de competencias abunda más y además está más fácil de encontrar y de compartir, por ejemplo en el en Olimpiadas era muy común no llegar a fotocopiar el córner y el no sé si el Libro Rojo y el Libro Blanco para aprender estos temas porque antes uno no encontraba nada de eso en ninguna parte, o sea era como pues como la humanidad era tan difícil acceder al conocimiento sin los libros, eso se alcanzó a vivir un poco de años más para los que nos van a
+
+[16:39]
+Después era la época de los primeros trabajos en Internet y tu utopía fue el primer correo electrónico popular que llegó a Colombia en esa época y el módem, la conexión que habla Alfredo era a través de un módem, que cuando uno llamaba por el teléfono conectado a través del móvil pitaba el model, no se conectaba en el comienzo por decirlo ya, ya había un adelanto pero qué bueno la mención de tus famosa en esa época, no? Y ellos proveían la conexión como la salida. Yo realmente no sabía en ese, no sé ahora todavía tocaría revisarlo que era lo que ellos hacían, pero ellos le garantizaban un usuario una contraseña, no solo para el correo, sino para además hacer la navegación, o sea, como para conectarse al servicio ahorita uno va enciende el computador y ya está conectado a Internet pero en ese momento uno tenía que primero establecer una conexión con un servidor de Internet no sé qué era lo que ellos hacía.
+
+[17:39]
+Proxy ok o eran los que servían el DNS o algo así pero uno primero se conectaba a través de ellos y luego si podía hacer la navegación en Internet Explorer que era lo que había en ese momento.
+
+[17:52]
+que no lo era tan natural en electrónica como correcto y pues todo el tiempo que estuve Bogotá me mantuve haciendo sitio web como vaquen programación de embebido programación de dispositivos móviles en ese momento incluso programaba J2 ya va para para dispositivos móviles en un momento así bastante incipiente de los dispositivos todavía están eran dispositivos de botones y demás llegó la profe Sandra o la
+
+[18:37]
+Bueno, en el año ahí en 2008 entré al programa de Ingeniería de Sistemas y en el año creo yo que era el 2010. Yo sufrí de pulmonía en Bogotá o sea, en las casas en las que estaba viviendo y ya no tenía como
+
+[18:57]
+yo pienso que era que no había muy buen refugio del frío, en ese momento y ahí sufrí como estar en un lugar al que no estaba acostumbrado yo tuve pulmón, o sea, tuve una neumonía.
+
+[19:08]
+Estando en uno de mis semestres finales y eso me generó que yo me tuve que regresar a Barranquilla dos años sin terminar sin terminar yo me volvió a un noviembre pero no estoy seguro si era 2010 o 2011 creo que era 2011 me regresé a Barranquilla y ese semestre me tocó cancelarlo y todo el siguiente y el siguiente año, o sea los dos pausas que uno podría hacer las dos cancelaciones del semestre. Yo las tomé seguidas y el siguiente año eso fue 2011 porque yo regresé a Bogotá en el 2012 y en el 2013 uno retomé la Universidad el 2012 septiembre regresé a Bogotá porque me ofrecieron un empleo en una empresa con la que hoy todavía trabajo empresa.
+
+[20:08]
+es un startup Fintech que se llama algo Codex y ahí habían unos compañeros míos de promoción, por eso hacía el comentario antes que como yo entré regado en varios semestres tenía como amigos en diferentes etapas de la carrera y de los que está más adelantados que yo conocía trabajaban en esta empresa y me recomendaron y me dieron un empleo ahí regresé en 2012 septiembre y en 2013 volvió a la Universidad
+
+[20:41]
+La retomé donde había dejado a terminar materias y esas cosas, yo no hice tesis de pregrado porque pues desde que yo estaba en el colegio. Yo tenía como una.
+
+[20:54]
+Un derrotero bien definido que era la Academia entonces yo tomé esta opción de materias de maestría.
+
+[21:08]
+Por lo que no hice trabajo de grado.
+
+[21:12]
+si no tome material en esa fase tomé dos tomé la de patrones de diseños y tomé la de algoritmia avanzada que eran como las cosas que más me interesaba Kevin
+
+[21:32]
+Voy a aprovechar que se haya ya comenzó la grabación. Un saludo Alfredo Manuel buenas tardes, qué pena que tuve aquí un problema de conexión a Internet o sea, no había nada que hacer entonces si no respirar y esperar a que regresara el internet, entonces, pues ya estoy aquí conectada para que lo necesiten y escuchando muy atentamente tu historia de de formación. Bueno, entonces decía que en 2012 y regresé a la ciudad en 2013 uno retomé la universidad y ahí se me materias de maestría como de grado y algoritmia, avanzada comentaba que estaba ahí en los grupos de investigación y tenía ya un como un interés por los sistemas inteligentes de los cursos que había visto con el profesor Luis Fernando niño, con el que seguí trabajando más.
+
+[22:32]
+adelante
+
+[22:34]
+en el año 2000 al 2014 terminé materia y en 2015 me gradué y me presenté de una vez a la maestría.
+
+[22:46]
+En ese punto dejé de trabajar en la empresa que mencionaba hice la maestría hacia el doctorado y después terminar el doctorado fue que volvía a la misma empresa, o sea ellos como que me esperaron a que hicieran mi maestría y doctorado y después me re contrataron la maestría fue y el doctorado en la Nacional sí, señor, yo entré al programa de maestría y por cuestiones de la beca de conciencias. Yo pasé al doctorado antes de terminar la maestría, entonces como un en 2016 dos había una ventana para uno acceder a la beca de doctorados nacionales en conciencia y yo me presenté a esa convocatoria. Entonces me pasé al doctorado de una vez.
+
+[23:39]
+Sí, señora, ese punto los sistemas inteligentes eran como el área que a mí más me interesaba entonces empezamos a aplicar sistemas inteligentes a varias cosas en la Maestría estuve trabajando con con algo de biología molecular. Entonces utilizábamos los sistemas inteligentes para hacer acoplamiento para hacer predicción de proteínas, o sea, con el propio Luis Fernando niño, hacíamos como aplicación de sistemas inteligentes a diferentes campos en el grupo de investigación había gente de muchas como de muchas disciplinas y las aplicamos a varios y en mi caso particular empecé haciéndolo con con mecánica molecular y estos algoritmos para mecánica molecular son muy parecidos a algoritmos para
+
+[24:39]
+Robótica en últimas son lo mismo como buscar ahí en un espacio de estados por lo que cuando me pase de la Maestría el doctorado conocí a un egresado previo también del de la Universidad que se llama Jaime Leonardo Bobadilla que es profesor de la Universidad de la Florida la Universidad Internacional de la Florida y él fue mi codirector en la tesis del doctorado entonces fue aplicar todas sus conocimientos de sistemas inteligentes a algoritmos de robótica que fue finalmente a lo que me decidí hacer en eso fue mi tesis del doctorado y mi contratación es hacer ese tipo de cosas ahora o sea, además de trabajar en esta empresa algo code que luego se volvió Billy ahorita fui contratado por la Universidad de la Florida para hacer algoritmos.
+
+[25:39]
+de robótica utilizando sistemas inteligentes
+
+[25:43]
+De cierta manera clasificaste a la electrónica pero sí usar el internet de las cosas tal vez no podríamos decir. Sí señor en particular los trabajos que nosotros hacemos, son más que todos algorítmicos.
+
+[26:02]
+Pero mi corto background en electrónica me da un plus para estos algoritmos porque la mayoría de la gente con la que trabajamos casi no entiende como como las cosas ya físicas como de hacer cosas funcionar y ese lado yo tengo ese plus de que si hago cosas electrónicas aún y me entiendo con electrónicos y hago cosas que sí funcionan en el mundo real y por ejemplo una mención de algún trabajo de estas épocas o épocas recientes que nos puedes contar trabajo para alguna empresa o trabajos académicos entrados y académicamente con con el grupo de investigación si este en el en la Universidad de la Florida Internacional de la Florida te sigues conectado con ellos y yo, o sea, mi conexión inicial fue durante el doctorado que hice.
+
+[27:02]
+Una pasantía en yo seguí conectado con ellos trabajando ayudando a sus estudiantes y ahorita si me contrataron en con un proyecto que hay allá y sigues conectado con el profesor, Bobadilla sí, sí señor, él es el director ahorita del proyecto en el que estamos trabajando en facebook, cómo se llama el proyecto que estás en este momento a ese proyecto se llama no tengo el dato preciso que es un proyecto de de unos vehículos superficiales robotizados para ser monitoreo de las aguas de la bahía de Miami en Miami hay un proceso que todos los años sea que como una explosión de algas que genera como una muerte de peces y una contaminación del agua y entonces el proyecto en el que estamos.
+
+[28:02]
+Trabajando se basa en una boya una boyas robotizadas que son vehículos superficiales que toman características del agua en tiempo real, si es el proyecto está en donde ubicar la boya transmitir esa información tenerla disponible hacer algunas predicciones y así hay un montón de artículos que están relacionados a este proyecto muy interesante un profesor muy cercano a nosotros acá de Bogotá diseñó un pescadito, no? Y además con un concepto de arte no hay una universidad en Estados Unidos que habla de arte e ingeniería y el pescadito lo que hace es eso no es la química del agua es trazar con Internet de los resultados menos que es algo de ese estilo.
+
+[28:49]
+Y es parecido sólo que estos no. Bueno, sí, aquí la voy a tienen una sonda que mide la columna.
+
+[28:59]
+Ok, bueno, muy bien, esa es una es interesante ver, te cuento, no la diferencia del estudiante que el universidad y que se dedicó solo a estudiar en una universidad privada y estudios de los cinco años y no trabajo y salió y se graduó etcétera, no, al estudiante que tuvo que trabajar cierto son muchos la mayoría sufrir un poquito esa ese es un montón y el otro del que viene una ciudad que no es Bogotá aguantar el frío. La ducha helada cierto y el Pentágono de la 45, no? Porque este es un túnel, que queda neumonía, bajar de toda la montaña hasta lo mismo que pasa en la 19 con el Monserrate y Guadalupe ese es el sitio de mayor viento en Bogotá y obviamente de frío, pero es una experiencia muy interesante el acoplarse con sus colegas de
+
+[29:59]
+Regiones sí que tal vez les facilitó el choque cultural o más rígido esta personalidad, pero bueno colombianos al fin y al cabo es un es muy interesante, o sea que yo seré un proceso como muy natural, muy natural, muy natural, que se te fue dando claro, los dos años que volviste, pero desde el punto de vista del estudio como como que se podía prever lo que te iba a ir pasando, no?
+
+[30:28]
+por la experiencia de la programación
+
+[30:33]
+sí, señor, sí, sí, luego de tomar la decisión de pasarme a sistemas y fue como influir más natural y ya me iba mucho mejor en las clases y demás ahora hoy en día estás viviendo en Bogotá en este momento estoy en Barranquilla pero el otro mes ya había a Miami pero estás que tú estás sentado es en Miami en este momento correcto que Alfredo cuando se fue no realmente se fue porque nosotros lo sentíamos presente o sea, sentíamos su presencia a pesar de su ausencia, porque Alfredo también durante su proceso de formación en el pregrado el truco como como profesor auxiliar. Nosotros tenemos allí una modalidad que es la de profesores auxiliares, que es profesores de las maestrías o estudiantes de las maestrías son profesores de los estudiantes de pregrado en la modalidad de becas que da la universidad.
+
+[31:33]
+como un subsidio también económico entonces Alfredo pues era uno de los pioneros también en el área de programación de esos estudiantes que se le sienten el amor y la pasión por la Academia y por por la enseñanza y pues comienza a apoyarnos con los grupos de programación de la Universidad que nosotros pues tenemos un grupo grande porque se dicta la asignatura como servicio en la Facultad de Ingeniería a los 8.000 estudiantes que tenemos activos en la Facultad entonces por semestres son más o menos unos mil estudiantes en los cursos de programación y Alfredo nos apoyaban el desarrollo de ver contenido de la asignatura como tal con un enfoque matemático también y también en el desarrollo de los cursos y en la preparación de los parciales a realizarse también como desde el enfoque del estudiante no para no hacer esas preguntas clásicas formales sobre sobre sintaxis y semántica que cae uno mucho en eso cuando es profesor en vez de
+
+[32:33]
+Álvaro buscar ejercicios que sean de pronto más prácticos y representativos para el estudiante Alfredo nos apoyó mucho en eso y y le tomaron mucho cariño los estudiantes entonces él como que le estaba pasando estas cosas pero no voy al otro lado y el otro lado que se hizo profesor Alfredo a estar con tu familia pero ya el percance de salud si no lo tenía tan presente entonces me decía bueno no no se preocupen que va a volver, o sea tenía una certeza como yo le preguntaba al profesor Luis Fernando y Alfred me dice no te preocupes que él va a estar en la maestría y de plano está en el doctorado, o sea esto para el profesor Luis Fernando era algo que era así que iba a pasar entonces nosotros los demás compañeros no lo sentimos en esa línea de programación actualmente aprueba nos ayudó en una cosa muy importante con misión TIC 202.
+
+[33:33]
+y 2023 y eso es así como un secreto que sale a la luz pública ahorita aquí en esta entrevista y es que alrededor nos ayudó a diseñar las preguntas de valoración para clasificación de los niveles de formación de los estudiantes en Colombia que ingresaron a estos procesos de formación en un 2022 su función principal fue la de asesorarnos y revisar puntualmente cada uno de las preguntas que eran objeto de aplicación pues a nivel nacional por parte de la Universidad y del ministerio de Ciencias de tecnología y de comunicación, entonces aquí nos están, pues yo también bastante y pues siempre ha estado ahí pendiente y presente en el área de informática con el profe Luis Fernando nos alegra mucho saber que vas a trabajar con Leonardo él lo tiene ahí en el listado con
+
+[34:33]
+de vida de los posibles entrevistados para como tejer esta historia de vida, que es otra historia que se da y que se presenta mucho en la Universidad Nacional y ese el esfuerzo tan grande que hacen los estudiantes de las regiones cuando se desplazan a Bogotá a formarse como ingenieros, entonces creo que es un elemento muy importante y por esa razón, cuando consultamos a los profes en la Nacional que que quienes les gustaría que nos representaran este espacio de historia la ingeniería porque son historias para resaltar y las cuales nos sentimos muy orgullosos, estás tú nuestros corazones en el departamento entonces agradezco a Manuel por iniciar la entrevista yo decía mentalmente como la chica de Pepsi está tratando de comunicar mejor a Manuel ya ya empezaba con Alfredo porque es una historia muy representativa de los estudiantes de la
+
+[35:33]
+Que hacen todo ese proceso de formación de pregrado maestría y doctorado, pues mucho esfuerzo y mucha dedicación brillante Alfredo en esto de la educación siempre algunos tips que nosotros como profesores deberíamos tener en cuenta en este proceso de transición de los estudiantes que ya tienen el acceso a la tecnología y nosotros que nos tocó como crear ese y participar en la creación de esta tecnología que son dos digamos como yo lo marca así como dos épocas y en distintas en esos procesos de formación. Yo tenía una pregunta Alfredo para ti, que fue lo más representativo en tu época de formación como estudiante con tus compañeros en la universidad, que digamos y antes de antes de eso como un poquito de contexto cronológico es que yo sufrí pulmonía durante el pregrado y cuando volvía la maestría que me el trabajo para hacer la maestría fue que que tu
+
+[36:33]
+Auxiliar y asistente docente, o sea, hice la docencia mientras estaba en la maestría y el primer semestre del doctorado porque como me dieron luego la beca desde el segundo semestre del doctorado ya no podía seguir con la beca de conciencia ya no puede seguir con la beca de la Universidad de asistencia docente ese fue el motivo por el que no pude seguir haciendo docencia que es una de las cosas que me gusta a mí muchísimo como buscar la forma de mostrarle a otra persona, cómo funcionan las cosas.
+
+[37:08]
+Y buscar la mejor forma de transmitir el conocimiento a otras personas.
+
+[37:12]
+Entonces de ahí, el esmero por por ese tipo de por esa búsqueda por ver cómo cómo llega uno mejor a otra persona para transmitirle una información de las cosas significativas para mí siempre ha sido como el ejemplo de los profesores, o sea, encontrarme con estas personas que tienen una dedicación por la Academia y por por dar buen ejemplo, por hacer las cosas bien. Creo que eso para mí fue bastante significativo en la universidad y de pronto, por eso tengo tan buenas relaciones con la mayoría de los profesores de mi de mi curso por la universidad, porque pues no conoce como gente de muchas de muchos lugares y en ellos uno ve como se transmiten esa pasión por
+
+[38:12]
+Hacer las cosas bien hechas por por ser buena persona y por dar buen ejemplo, eso es para mí sí, fue muy significativo.
+
+[38:22]
+Y ahorita sobre ese tránsito que vas a hacer salir de Barranquilla a Miami como como es ese tránsito que y que y que sientes y los puedes contar respecto a ese ese paso en tu vida.
+
+[38:38]
+Tengo mucha expectativas, voy a hacer algo como de poder hacer algo grande de poder hacer algo importante hacer aporte significativo, si tengo mucho con muchas expectativas al respecto yo yo estuve en Miami haciendo la pasantía y sabía muchas cosas que para mí eran muy muy familiares, el clima la como está esta actividades de playa como la navegación la pesca la el disfrute de la playa misma ese tipo de cosas fueron como muy familiar para mí y sumado a esta otra experiencia desde ciudad grande.
+
+[39:30]
+ciudad grande como el paseos que hice en Nueva York
+
+[39:35]
+a Orlando a por lo del DELE por ahí cerca de la costa Este tengo como mucha expectativa alrededor de esas otras ciudades a las que no he ido y que quisiera ir y puede el aporte que podamos hacer ahorita más adelante con esta nueva con este nuevo encargo.
+
+[39:55]
+y si me lo permites preguntar cómo ha sido la articulación de ese proceso de tu vida académica y laboral con la vida familiar que nos puede descontar de Alfredo BA
+
+[40:09]
+bueno, si es bastante difícil porque por el tiempo.
+
+[40:17]
+O sea quisiera como dedicarle más tiempo a algunas cosas, pero cuando uno adquiere ahí esa responsabilidad de familiares, entonces ya no se puede incluso. Yo quería seguir estudiando otras cosas, o sea, como aplicar ingeniería de sistemas algoritmos y eso a medicina como a que esas cosas, o sea investigar, qué podemos aplicar sobre el cuerpo agregarle eso a la biología humana, pero ya mi esposa me dijo ya nuestra familia para cuándo y ahorita estás casada? Tienes hijos? No tenemos hijos, ya tenemos seis años de casados de de de que aprendí de mis profesores de dar buen ejemplo y eso a mí me ha quedado muy marcado y por ejemplo muchas de mis decisiones también las tomaba pensando en el ejemplo que le da.
+
+[41:17]
+Entonces en la sociedad en la que yo crecí en el barrio en el que yo crecí el normal transcurriera que un muchachito embarazada a la novia y por eso era que le obligaban a casarse entonces a través de mi ejemplo yo le mostraba a ellos, que no era necesario que yo me podía oír casar con mi esposa porque era mi decisión y y no era porque teníamos un hijo ahí ya pendiente y nos tocaba y demás, sino que disfrutábamos nuestra nuestro tiempo de matrimonio y luego pensamos en los hijos y tomamos unas decisiones bien planeadas y que eso sirviera ahí también como ejemplo a mis hermanos, pero lo que que algo funcionó porque mi hermano mayor más o menos sigue, si yo la misma la misma senda de esa responsabilidad.
+
+[42:05]
+Que me transmitieron a mí mis profesores.
+
+[42:08]
+Bueno, muchas gracias Alfredo Manuel yo tengo que sigas que tú ibas muy bien ahí moderando no me gusta mucho, hay varias cosas Alfredo que en los procesos de la vida, uno no alcanza, a definir lo que está transmitiendo, digamos, no? Porque uno cuenta literalmente lo que pasó, pero está este es una transmisión de un proyecto de vida muy interesante sí, el tema de que hayas programado desde el colegio todo lo que ya hemos hablado de venir a otra ciudad y también ese mide un poco llamémoslo la esencia de las de las universidades de las almas Mater nuestras.
+
+[42:54]
+Y hemos encontrado mucho este cariño por la Universidad y por los profesores en el caso de la Nacional es algo, que ya lo hemos mencionado en otros casos con otros ingenieros jóvenes todos queremos que hemos entrevistado donde hay un aprecio muy grande y la palabra de dar buen ejemplo y ser buenas personas, es de pronto más importante que el algoritmo no, señor, es un ejemplo de vida fundamental que que lo recibimos muy bien porque parte de este tema es también llevar esa lección hacia los mismos profesores que nos van a oír y las instituciones sobre ese carisma, no que tienen las universidades y la formación de personas antes que ingenieros físicos y que se dan con la rigurosidad de la Nacional que en tu caso yo lo veo así como como dice un filósofo mirando desde la Luna no, cómo se forma una académico.
+
+[43:54]
+Nacional sí o cómo la Nacional forma académicos así después trabajan en empresas y todo, porque la relación con los colegas que ustedes de la nacionalidad. Yo soy andino. Siempre hemos observado ese amor por la investigación esa formalidad por el desarrollo de los proyectos, no? Y digamos de esa formación académica aparte de lo de lo propiamente laboral, entonces el teléfono esto pasa que estas reuniones virtuales, pero pero muy interesante ese aspecto no además de lo concreto y bueno, yo creo que que ha sido hasta ahora pues muy interesante no sé si de pronto Egan los pernos con alguna cuestionamiento. Bueno sí, señor, no, yo estoy gratamente sorprendido por la formación de Alfredo y
+
+[44:54]
+Estaba pensando en cómo es un buen programador, no? Que un programador que programa y cumple con el propósito de vida con determinación y con disciplina proyección y que lo ha llevado desde el principio hasta poderlo volver ejemplo, que que hoy en día está demand se mucho este tipo de personalidad quiero decir que nos están insistiendo, no solamente en las habilidades técnicas, sino en las blandas en la transversalidad y y con fortuna se ve que tu formación en este sentido es muy bien desarrollada tanto que ha sido responsable hasta en el manejo y desarrollo de la familia, entonces me gusta mucho el la personalidad que se ha armado a través de la influencia de la formación en la nacional.
+
+[45:54]
+La vida porque bien lo decía Manuel toda la experiencia que has tenido en este estar luchando por las cosas y valorar, cada momento y cada circunstancia tener que retirarse volver, o sea me parece que es un excelente ejemplo de vida a través de la computación que va de la mano ya que no es que la computación sea solamente herramienta tecnológica, sino también humana me gusta mucho eso entonces lo que yo preguntaría es porque entiendo que fuiste profesor y entonces cómo te sientes al Influencer desde ese punto a los que fuiste vacío docente y qué aspiras que sean ellos a través de tus enseñanzas.
+
+[46:47]
+Como agregando a esto que usted comentaba el otro día me descubrí a mí mismo en una situación en la que decía. Bueno, cuáles son los objetivos que me voy a plantear los específicos, cuál es el general? Cuáles son las metas y como una estructuración ahí en el pensamiento para para todas las cosas que da esa academia, qué aspiro yo yo identifico en mí como alguien a que el fundador de la institución en la que yo hice mi bachillerato.
+
+[47:19]
+Logró, lo que él quería, o sea yo identifico que él quería a alguien que retransmitir esas ideas que él tenía como como si fuera un virus como transmitirle el virus para que se transmite entonces yo quisiera lo que yo esperaría es lograr ese tipo de cosas con yo he tenido estudiantes de estar en varios niveles en Universitario en técnico en incluso cuando regrese a Barranquilla que me casé y me vine a Barranquilla a terminar la tesis del doctorado. Yo daba clases en la institución de la que yo salí al niño de sexto séptimo octavo y ahí más o menos también diseñe un programa que que lo que buscaba era no tanto que aprendieran a programar sino que aprendieran a identificar el uso de la programación en cualquier cosa que quisieran hacer en adelante la experiencia en el grupo de investigación con
+
+[48:19]
+Fernando fue muy valiosa porque venía gente de toda de muchos lugares de lingüística de biología de arquitectura en muchos lugares en medicina y tenía como un conocimiento más o menos amplio de cómo actuar de cómo de uso prácticos de la ingeniería de sistemas en particular de la programación en varias áreas del conocimiento con estos estudiantes de bachillerato tenía una idea clara de esto te va a servir para puedes usar en estas cosas en esta otra y sobre todo en la forma de razonar como de definir algoritmos y ese tipo de cosas entonces yo quisiera yo hacer eso mismo que hicieron conmigo que ellos se vuelvan como esparso del virus de enseñar a otros y de hacer que otros también enseñen a otros muy bien, muchas gracias, yo quisiera que nos contaras un poquito cómo fue esa experiencia porque
+
+[49:19]
+Fue en tu institución allá en Barranquilla con los chicos con que querían aprender a programar, cómo fue esa esa experiencia y qué aprendiste de ellos no? Qué tan difícil? Es que un niño pueda tomar el cariño por la programación desde esa temprana no sé.
+
+[49:41]
+Difícil sin embargo que no es representativo porque la institución como comenté al principio es una Fundación Educativa en el que es como una casa pequeña donde se enseñan a un grupo de gente muy reducida y además muy escogida como varios filtros y al final de 250 que se presentan hasta hasta un décimo entonces no está representativa pero sí representa varios retos que ellos se lo facilitan a uno, o sea, estoy muy consciente de que eso mismo que intenté en el colegio este no lo puedo lograr en una institución pública de aquí incluso de la misma ciudadanía en que en que que yo hablo el mismo dialecto de todos los de toda la gente de aquí incluso soy bastante dado a comunicar a compartir con gente que no conozca.
+
+[50:41]
+Subir a un a un bus de transporte público y aquí en Barranquilla es muy muy es muy común que uno se sube a un bus de transporte público y no y hable con gente que no conoce y hace conversación. Yo tengo eso a pesar de que me dedico a la academia y esas cosas tengo bastante de facilidad para para hablar con gente y tramar así conversaciones y seguir hablando y y aún así entiendo que la experiencia que tuve con lo que quise armar con ellos no es significativo con respecto a otros a otros a otros colegios de esta misma ciudad y digamos con barreras culturales incluso más difícil, o sea, por ejemplo yo ir a Bogotá un colegio público a enseñar cosas entiendo que hay unas dificultades bastante grandes sin embargo, si es algo que me gusta mucho, o sea, encontrar la forma de que los estudiantes se sorprenden y se apasione entonces creo que
+
+[51:41]
+Que estoy en mora de de consolidar todas esas cosas que hice allá y hay muchas cosas de juego de aprender, cómo cómo las consolas funcionaban antes como aprender de píxeles un montón de cosas que son muy prácticas y que me gustaría en algún momento como recopilar todo eso y poner disponible en algún lugar para que para que se use.
+
+[52:06]
+Alfredo nos colaboró en el año creo que en el 2020 fue con un proyecto desarrollado la Universidad Nacional en conjunto con el Ministerio de Educación y el Consejo Británico y era como a llegar a un número excesivo bastante representativo de formación en los niños con una coffee también trabajamos si era interesante porque lo mismo la perspectiva que nos daba nos brindaba Alfredo sobre la formulación de esos ejercicios para que sean prácticos y que lleguen a los niños pues no era una fácil para nosotros y sin embargo cuando le decíamos Alfredo diseñe el problema formula el problema en el contexto para esos niños a él se le facilitaba mucho entonces yo creo que es una parte que valdría la pena que siguiéramos trabajando desde las universidades para la arti.
+
+[53:06]
+Entre entre los diferentes niveles educativos, no entre lo que es la básica la media y la superior para poder llevarlos en esa línea de formación muy bonito y yo seguí trabajando con ellos incluso ahorita estamos trabajando también con un con una empresa con un una organización en Canadá con el mismo profesor Mauricio de ACOFI Mauricio duque pero ahora con una organización en Canadá que se llama prest que también hace algunas cosas parecidas para la enseñanza de las matemáticas sí que es el pueblo regional de Canadá para la enseñanza de las ciencias exactas, muchas gracias Alfredo muy chévere este trabajo comentarle Alfredo que bien no sabes que la profesora Sandra muy fuerte en stem el tema bueno lo de Mauricio Mauricio Duque es que fíjese que este es como una como un club no todos nosotros en UNIMINUTO nosotros llegamos a tener 35.000 niños.
+
+[54:06]
+con 300 colegios robótica no el distrito de la Alcaldía de Bogotá el tema de robótica para niños
+
+[54:25]
+Y en estos medios hemos entrevistado a los niños conversatorio donde son los niños los que hablan, que yo cuento una cosa, que siempre me parece curioso cuando hablo de esto un niño de 11 años diciendo es que esta experiencia me cambió la vida porque ellos no hablan mucho del robot curiosamente y es lo que programan y conclusión de nivel internacional hablan de la experiencia con sus amigos con los mismos competidores. Es que me encanta porque los competidores cuando no saben yo les enseño dicen, por ejemplo los niños no, entonces hay una formación de principios, no solamente del aspecto técnico y hay un movimiento muy grande. Bueno, tú lo sabes, claro, Alfredo y las personas estén del año de tal manera que hay una gran experiencia y ese origen de Mauricio Duque también, pero hay una cosa que se extendía mucho con los niños, no? Yo siempre lo que hablo de eso es que ellos son los ciudadanos de la quinta.
+
+[55:25]
+Industrial porque a veces pensamos solo en los grandes profesionales los actuales no sí los de la maestría del doctorado, pero es que los niños son la los ciudadanos de ese futuro y está tan cercano, no? Entonces es muy interesante esa inquietud tuya sobre los niños sí, la invitación es para que sigas trabajando en eso y que desde la distancia igual que siempre estés allí con nosotros igual pensamos un montón porque no siempre se generan esas ideas tan fácil así como como Manuel en general nuestras redes de conocimiento y trabajando por ese tipo de deformación y esta articulación tan importante entre esos niveles educativos no todos trabajan o trabajamos tan fuerte como quisiéramos en eso y hay personas que nacen con ese don de transmitir y entender cómo transmitir esas esos ejercicios esos talleres esos trabajos y esos retos a los niños y a los jóvenes en el área de programación
+
+[56:25]
+Después agradecerte el que hayas estado partiendo ese trabajo con nosotros y y pues esta es la oportunidad también para darse a conocer a las personas y cómo podemos trabajar con eso, cómo podemos integrarnos y cómo podemos aprovechar estas oportunidades que de repente la vida nos nos brinda para transmitir lo que sabemos eso, eso era lo que iba a decir Manuel los dejo para continuar ellos son muy juiciosos ahí donde los tienen una metodología a seguir con las preguntas son detallados, entonces claro algo yo como articular esas preguntas que tengo aquí en mi soplete aquí miro así, a ver si nos falta alguna o si ya las cumplimos Manuel que tal vez unas moralejas, debemos entrevistado colegas tuyos también de la Nacional que están en Australia por ejemplo un colega y de ahí cierta emoción no, porque encuentran que este es su casa así.
+
+[57:25]
+Nosotros no sabemos de la Nacional yo le comentaba en el pasado. Yo tenía dos grupos de estudio uno de los Andes que éramos cinco de carreras distintas no Bogotá no y tenía dos amigos que eran de la Nacional y nos reuníamos a estudiar. Sí, no, yo puedo decir por ejemplo que en toda mi época estudio no una aguardiente por ahí ni nada de ese estilo no era estudio y estudio y los dos de la Nacional tenían esa esa independencia, esa pasión propia dentro de ellos estudiaban porque querían estudiar no tanto porque le estaban ordenando de tal manera, que encuentras y que te va a estar en la Florida Colombia es tu casa y este mundo académico sigue acogiendo porque por eso estás invitado por la profesora Sandra y pues nosotros que te acabamos de conocer. Yo creo que si hay alguna conclusión que quieras decir de lo que hemos hablado y vamos cerrando la conversación.
+
+[58:25]
+Conclusión no, no quisiera ser aún esperar, voy a empezar mi mi cuarta década. Yo tengo 38 años y voy a empezar mi cuarta década. Entonces quiero no tener no hacer conclusiones aún muy agradecido por por la oportunidad incluso la oportunidad que me dieron a mí mismo de ponerme a pensar en en esos tiempos a veces uno está tan enfocado en que mañana toca esto esta semana esto otro y ahorita cuando con las notificaciones que me hacía el profesor Manuel que recuerda que este viernes tenemos ya yo tenía como en mente recordar las fechas así salí del colegio así quería hacer esto entonces esa pausa la agradezco mucho para mirar un poquito atrás tomar impulso para seguir adelante la doctora Beatriz se quiere poner su cámara estás peinadita.
+
+[59:27]
+Desde luego que estoy peinadita y estoy organizada. Sí, claro, no la pongo, tengo que cambiar esta vez tengo mi fondo de reúne un evento, cómo están un saludito a todos, qué rico verlos.
+
+[59:42]
+Muy bien Beatriz la maratón. Está en eso ella viaja todos los años al exterior con con Rafa y con los demás son Rodrigo Cardoso la nacional siempre gana no está súper normalmente, no lo dejemos en siempre, normalmente normalmente, no siempre gano últimamente hay competencia dura y competencia dura se lucen las universidades públicas como la Tecnológica de Pereira también de acuerdo de acuerdo y bueno, es una agrupación grande Edgar que decir algo, sí, yo quisiera preguntarte Alfredo pues tú ya estás ya eres un trabajador globalizado y obviamente, pues lo haces desde acá o seguramente es de cualquier lugar del mundo y te irás a Miami precisamente en trabajos.
+
+[01:00:42]
+Que afectan en la globalidad como tú consideras que deberíamos también aprovechar este tipo de contraste que tienes con otras profesionales del mundo y qué diferencias de formaciones ves? Que nosotros deberíamos tener en cuenta para formar nuestros estudiantes aparte del bilingüismo alguna otra cosa que propongas como oportunidad de mejora para que nosotros en nuestros currículos tengamos en cuenta para que sean profesionales globales.
+
+[01:01:24]
+sí, tengo una idea al respecto un segundo por
+
+[01:01:29]
+De ciertas experiencias que tuve a raíz de lo que comentaba que muchos de mis compañeros de escuela entraron a otras carreras a física química y una cosa que yo veía era que los esfuerzos son muy independientes en todas las facultades entonces mi amigo por ejemplo de Física yo lo a veces me pedía y el favor, ayúdame con esto y yo los veía que estaban programando una cosa que hubiese sido muy sencilla para un estudiante de sistemas pero hay como cierto orgullo de ir a pedir favor a la otra facultad para que me haga esto y lo mismo pasaba del otro lado, entonces estábamos en conversaciones y y y vamos a ver cómo usamos este algoritmo de de palabras para entender en biología molecular.
+
+[01:02:29]
+Cómo hacer estos arreglos entonces nos da pena ir allá biología a preguntar a que nos expliquen bien cómo funciona esto que trabajan con nosotros que ustedes entiendan y queremos hacer como cada quien su esfuerzo independiente, eso es una cosa que a mí me parece que que hace falta mejorar no sólo a nosotros en la nacional, sino otras experiencias que he visto y es como desde arriba dar el ejemplo de de trabajos mancomunados, que uno ve a su a sus propios decanos a sus propios profesores a sus propios, cómo trabajan conjuntos, sinvergüenza, prácticamente parece una cuestión como de orgullo, como decía yo no voy a ir allá a pedirles ellos este favor porque yo lo puedo hacer yo mismo, sino algo más, como lo que promueven estas experiencias de robótica que hay un grupo grande y gente por este lado y luego.
+
+[01:03:29]
+Creo que hace falta un poco más de eso como de dejar un poco el orgullo al lado y hacer más trabajo transversal entre facultades Inter facultades, sí sí, o sea, sin desmeritar que si hay muchos, o sea, por ejemplo llega gente de todas partes, pero creo que hace falta más eso gente haciendo esfuerzos, por ejemplo un sistema en el que yo entré y mire hay aquí, hay alguien trabajando en eso que finalmente las las revistas indexadas y estos como programas que uno ve en la red que uno busca que estás quien está trabajando en esto y la la las publicaciones lo que intentan es como decirle a la comunidad. Yo estoy trabajando en esto si alguien quisiera contacto y trabajamos juntos, entonces tal vez a nivel universidades también tener aquí en el grupo, estamos trabajando en esto y y necesitamos a esta gente o
+
+[01:04:29]
+si quieren contante nos aquí tenemos disponibilidad para que vengan y ese tipo de cosas creo que es un sistema de esas características podría ser muy útil porque por ejemplo, nosotros tenemos Hermes pero no veo a Hermes como como una cosa en la que la gente va y mire para ver quién está trabajando en algo, sino más bien como algo de burocracia en la que yo voy siguiendo unos pasos que me está dando la aplicación para que sea más como estilo Facebook como Pepito le gusta la robótica o este grupo está trabajando en aquello y ya me interesa, háblame más de eso cosas de ese estilo serían súper interesantes, me da vueltas esa idea de la integración las ciencias para la vida y las ciencias y tecnologías para la vida, que siempre hablamos mucho nosotros de eso hoy en día interactuamos y yo digo la tecnología ya no es de nosotros, sino de la sociedad y
+
+[01:05:29]
+Interactuamos con filósofos filólogos psicólogos no se quedan matemáticos solamente ingenieros no ser abogados en la sisa y abogados que son miembros de la Asociación porque tiene seguridad entonces ya ya la vida está llena de tecnología y ahí donde está una de las grandes responsabilidades éticas de nosotros no hemos sacado con Beatriz una revista sobre ética digital donde lo dijimos filósofos ingenieros y ya ya ya hay una integración de las profesiones y ayer que estaba en el IGAC pero hablando de satélites ese es un tema de Física matemática y biología, por ejemplo, no física matemática biología y mecánica no y muchos otros ingredientes obviamente entonces hay una integración ya que es muy bueno lo que menciona aquí debe impulsarse la integración de profesiones.
+
+[01:06:25]
+Sí, señor.
+
+[01:06:26]
+Mira que que la solución que te propone Alfredo está ahí para todos nosotros en los sistemas de nuestras facultades y nuestra universidad porque tenemos montado el sistema, pero es un sistema muy sólido que no permite la interrelación o interconexión entre los investigadores y las personas que adelantan los trabajos ese módulo no está entonces nos queda de trabajo con con Edgar adelantarlo en cada una de nuestras instituciones saber cómo nos va con el prototipo, por lo menos incluso eso que, que pues son una idea, pero si se le pregunta la gran comunidad seguramente habrán un montón más de ideas que van aportando y van llenando.
+
+[01:07:09]
+Muchas gracias, pues muy bien. Bueno, yo creo que fíjate que por ejemplo con el con el chat, el trabajo con lenguaje natural yo trabajo en minería de opiniones y análisis de sentimientos y desarrollo software en ese sentido esos software, primario y a comparar con lo que hacen estos gringos tan impresionantes, pero a mí ya me toca trabajar en el tema de adjetivos sustantivos de verbos conexión sinonimia etcétera, no como ingeniero de sistemas, entonces la integración, pues bueno con el lenguaje natural hoy en día es es enorme, no? Y el tema de la inteligencia artificial en ese sentido bueno, y muchas otras cosas como tú no los has dispuesto en tu trabajo.
+
+[01:07:55]
+creo que con eso vamos cerrando si les parece oírte vuelvo a decir que esté Colombia es tu casa, no solo Barranquilla no y ahora Miami y no olvidar que Barranquilla es la Miami de Colombia y a mí, eso es lo que dicen entonces Beatriz todo todo bien Beatriz que vamos a ir cerrando Kevin pones la cámara para que quedes Kevin está en práctica profesional con
+
+[01:08:33]
+Perfecto, todo muy bien, desde luego vamos a ver que con la cámara de todos para la foto del recuerdo porque como dice Manuel vamos a un libro con todas estas entrevistas tan interesantes y todo esta historia que tenemos aquí acumulada Beatriz aprovechando, que Kevin está ahí, que es estudiante mío y que esta entrevista creo que le llega muy cercana y si era escuchar tu opinión alrededor de después de haber escuchado todas las anteriores que son más históricas este es más actualizado y contemporánea para tu generación, qué opinas al respecto?
+
+[01:09:07]
+Pues, o sea que puedes ir.
+
+[01:09:13]
+La verdad, últimamente como que lo que me ha dado cuenta es como que uno entra a la universidad y piensa es como más en lo técnico o práctico es como que bueno, vamos a yo me metí a esta carrera, pues porque yo quiero ser programador o quiero ser alguien en la vida que gane bueno, porque esa es la verdad todos entramos es como más pensando en lo económico más, no, en lo en lo personal y a medida que no va avanzando como que se dan dando no cuenta que que a medida de lo profesional también puede uno formar un perfil, o sea, a medida que no va avanzando en lo profesional, uno puede ir formando un perfil más personal y dándose cuenta de también que que es uno que habilidades tiene uno y cómo cómo eso también va formando la vida de uno y es lo que decía él, o sea, como, que me parece muy chévere, lo que dijo que que volviera al colegio y darle clases a niños de sexto séptimo es algo que hace poquito hablé.
+
+[01:10:13]
+Con el rector de mi colegio y él me decía que que sería chévere como que fuera a darle la clase y uno decía como uy, claro, sería vaca, no como como eso, pero es como como que a uno lo le nace eso de verdad como de de querer hacerlo porque ya es como como que nace la persona de uno, si me hago entender no es como que sí, yo ya ahí pasa mucho en los profesores, no? Porque tú sepas de un tema significa que puedes enseñarlo, tienes que primero ser muy muy persona como que tener esa empatía para poder entender y para poder enseñar entonces como que eso ya lo aprendí, solo estos últimos semestres. Ojalá lo hubiera entendido desde el inicio, pero pero eso es lo que me ha llevado de todas estas estas entrevistas este te cambió la vida de pronto el trabajo, no, no, no es como muy tranquilo porque corremos mucho pero pero es
+
+[01:11:13]
+me gusta, me enamorado es eso como que darse cuenta de que hay muchas muchas perspectivas porque uno digamos que el perfil Delta es muy cerrado, sí, eso pasa mucho porque tengo amigos de los Andes o de las avellanas y como que pues al inicio cuando nos conocíamos es como y tú dónde estudias y yo decía no el Atadell
+
+[01:12:13]
+Darse cuenta de que está su perfil su hoja de vida porque tengo un conflicto con ese con esa con esa palabra porque hoja de vida no, no en las hojas de vida, la gente no escribe de verdad de su vida es como su perfil profesional no está subida en sí, pero es cuando lo escuchas te das cuenta como que wiza, o sea, como que haz de cuenta que ahí hay algo mucho más detrás de de de de un cartón es es chévere.
+
+[01:12:40]
+Y estarías dispuesto a porque debes aprovechar que aquí tenemos los contactos Alfredo José pues ya queda como parte de nuestra red podrías tú aprovechar e invitarlo a una de nuestras clases, no creas.
+
+[01:12:54]
+Sí, claro, claro que sí, ya quedó planillado bueno fíjese Alfredo todo lo que hace de tu conversación aquí con Kevin que está terminando su carrera, vamos a cerrar y gracias a todos Alfredo mucha suerte no, aquí estamos y con la profesora Liliana en contacto como siempre una llamada a una amiga que te acuerdes de mí. Igualmente tienen ahí mi contacto y lo que pueda servir serviré muy querido Alfredo

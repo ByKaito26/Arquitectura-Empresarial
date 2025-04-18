@@ -1,0 +1,575 @@
+[00:00]
+Listo adelante bueno bueno, entonces un saludo nuevamente para quienes en su momento van a ver este esta conferencia de todas las conferencias sobre charlas más bien sobre la evolución de la ingeniería de sistemas en Colombia estamos aquí ya reunidos. Estamos con Dalia cuchillo, ingeniera muy importante como van a ver en el tema de la Ingeniería de Sistemas y pues que hace un gran honor también al grupo femenino de ingenieras, que un tema que seguramente vamos a tratar, estamos Edgar y Rafael Ruiz y Rafael García un saludito a Dalia Edgar encantado de verte y poder compartir contigo la historia y la evolución de la ingeniería de sistemas en Colombia
+
+[00:59]
+Cuenta tu posición actual en la tradeo la grabación y yo estoy pues soy profesor asociado de la Universidad porque todos lo sano, he sido director del área de tecnologías digitales y pues actualmente manejo todos los temas relacionados con el sector externo a la universidad y a los programas perfecto perfecto Edgar don Rafa García por favor, un saludo Dalia un placer que estés con nosotros y un placer para nosotros estar contigo en en este en esta tarde. Muchísimas gracias de antemano por el por el tiempo que nos vas a dedicar pues como lo decía Manuela Rafael García ingeniero de sistemas también y computación, o sea creo que aquí todos tenemos ese vicio.
+
+[01:59]
+En este momento oficio como decano de la facultad de ingeniería diseño de innovación de Politécnico Grancolombiano y pues me conocen más que por eso me conocen por todos los temas de maratones de programación en Colombia que es uno de los de los trabajos en los que andamos inmersos entonces sobre todo muchísimas gracias y con mucha expectativa de escuchar tu historia.
+
+[02:29]
+Bien, para los que nos van a escuchar después, nosotros tres nos conocemos bastante, pero contamos para los que no nos conocen Manuel Dávila ingeniero de sistemas también ya 50 años de historia las canas son de verdad sí y 23 años en un minuto bueno, un traje muy grande en la ingeniería de sistemas, pero el centro de estas reuniones, la ingeniera que nos va a contar poco a poco desde el comienzo no tanto su hoja de vida del estilo que hemos hablado este momento sino cómo fue su trayectoria y comencemos darle porque se nos ubique en el año en que estás en el colegio finalizando y dijiste porque estudiaste sistemas comencemos por ahí y nos vas contando esa trayectoria, que cuando entras a la universidad el tema académico asignaturas todo eso y más cosas que van a salir Dalia entonces adelante. Muchísimas gracias, muchísimas gracias por por sus saludos por su bienvenida.
+
+[03:29]
+Y un honor para mí estar aquí con ustedes primero que todo bueno y yo estudié en el colegio en un colegio femenino de de religiosas.
+
+[03:43]
+Pero yo pienso que esto es importante contárselos y estoy en un colegio femenino de religiosas un poco diferente en el sentido en que la hermana rectora se paraba ya arriba en el en las izadas de bandera a decirnos a nosotros de ustedes nunca deben depender de un hombre.
+
+[04:09]
+Y creo que eso fue algo algo que cayó muchísimo en mi vida y mi cara todavía en mi vida, porque es una proyección diferente y sobre todo hace algunos años, no cuando a pesar de que estés en un colegio religiosas, pues que haya una proyección de vida de esta manera en esa medida también era la hermana rectora a pesar de ser un bachillerato común y corriente nos preparó suficiente para que si las personas no podían seguir estudiando pudieran trabajar así yo vi mecanografía desde primero de bachillerato, o sea, desde sexto yo vi que grafías y técnicas de oficina bit técnicas de Bibliotecología y y pues muchas herramientas.
+
+[05:09]
+Para que como les digo si no se podía seguir estudiando como bachiller, había manera de trabajar. Yo me gradué en el 86.
+
+[05:32]
+Ese mensaje segundo que eso eso caló mucho mi vida, en ese momento no había computadores en los colegios de hecho no había computadora en el colegio mi profesor de matemáticas a lo que sí siempre me gustaría que voy a hacer una confesión yo no fui buen estudiante a mí solamente me iba bien en matemáticas, el resto de cosas me iba mal, no me gusta mi Ciencias Naturales y Ciencias Sociales mi literatura y similares a mí me gustaba dos cosas las matemáticas y la música y el deporte así que pues.
+
+[06:32]
+Para mí fue relativamente fácil escoger el área en el que iba a trabajar porque tenía que ser temas que tuviera que ver con matemáticas cuando estaba en quinto de bachillerato, o sea, en décimo y ahora el colegio compró computador.
+
+[06:52]
+Y el computador estaba en una habitación donde nadie podía entrar solamente el profesor de matemáticas yo por cierto, todo el mundo le tenía susto, pero yo no, porque a mí me iba bien en matemáticas. Entonces, pues a mí me llamaba la atención y lo veía de lejos y veía de lejos, que él iba allá solo hacer, quién sabe qué cosas allá en esa en esa habitación ese realmente fue el único contacto que yo tuve como sistema reales antes de escoger Ingeniería de Sistemas y qué computadora nunca pude entrar a mirar en esa habitación que había.
+
+[07:42]
+Totalmente ignorante mi ignorancia, respecto a sistemas era total. Yo sabía que quería estudiar algo relacionado con matemáticas y sabía que no eran ingeniería industrial.
+
+[08:07]
+Y dentro de una de las de los finalistas estaba ingeniería civil.
+
+[08:14]
+pero no estudié ni así y aquí siendo muy muy sincero, es muy
+
+[08:23]
+difícil para una mujer
+
+[08:29]
+Está yendo un poquito la la transmisión, sí, aquí tengo un problemita.
+
+[08:58]
+de raíz
+
+[09:02]
+Era una de mis de mis finalistas, pero ese medio es muy difícil o era en ese momento muy difícil para una mujer y por eso fue que decidí decidí no la estudiaba.
+
+[09:22]
+Así que quedaba ingeniería sistemas, pero como les digo eran muy ignorante al respecto. Decían que era la ingeniería del futuro.
+
+[09:34]
+Y llegó una película que se llama y vi la película y me encantó.
+
+[09:41]
+Me encantó y eso me enamoro realmente. Yo soy ingeniero, sistema. Gracias a la película porque realmente no tenía más de don, o sea, no tenía ningún contacto con sistemas ninguno, así que bueno, me gradué, tengo que decirles además que yo tengo tres hermanos mayores mis tres hermanas mayores estudiaron temas de salud, o sea se fueron por el rango de salud por el tema de Psicología sí, ese tipo de cosas y para mí era muy claro que yo de salud no iba a estudiar, o sea, ya sea algo total, totalmente diferente, así que, pues también me fui hacia hacia lo que es temas de ingeniería.
+
+[10:34]
+Así me grabé realmente muy muy ignorante en este aspecto entré a la universidad empecé en la Universidad de los Andes y pues también tiene para mí era importante estudiar en esa universidad, sabes que su proyección y la manera como como pues como es la universidad para mí era importante logré logré entrar y empecé a estudiar y y yo no tan tan ignorante en el tema de sistemas que que les va a contar una anécdota y yo vi introducir a la informática con María Cristina cuella y me acuerdo, tal vez la segunda clase la segunda clase con ella ella decía bueno y entonces ustedes van a hacer laboratorios.
+
+[11:34]
+Y entonces van a ir al laboratorios que queda ya detrás del edificio el W y van a ir a los laboratorios de los sapos.
+
+[11:47]
+Y empieza a hablar de los laboratorios de los sapos y yo en mi angustia, usted no se imagina la angustia mía diciendo yo estudié ingeniería para no tener nada que ver ni con ratas ni con sapo ni nada de eso porque mis hermanas habían tenido laboratorios de ratas de ratones de todo de eso y llegaron a mi casa con ratones y llegaron a mi casa con ratas y y bueno yo tuve de todos los animales en mi casa y entonces llegué y yo, pero laboratorios de los sapos pero por qué? Porque yo tengo que ver sapos que tiene que ver los sapos con con la informática, pero me pusieron a ver química cosa que yo nunca entendí para que me ponían a ver química y dije bueno, si tengo que ver química de pronto porque a mí me toca hacer algo con sapos y yo esa clase sufrir no se imaginan de qué voy a hacer yo con sapos y cuando voy allá era el laboratorio de los Apple
+
+[12:51]
+Pero realmente yo muy ignorante yo muy ignorante de lo que estaba empezando a estudiar muy ilusionada, pero pero ignorante y bueno, digamos que ahí empecé a trabajar con Karen el robot. Si ustedes recuerdan y realmente me empecé a enamorar de la carrera de una manera impresionante, o sea, yo yo desde ese momento ya hace 36 años amo mi carrera desde desde el momento en que empecé a dar informática, no?
+
+[13:51]
+Puede ser antes porque no sabía exactamente tenía la esperanza de que fuera una buena carrera, pero pero más allá de eso no, no fue así.
+
+[14:01]
+En general, pues en la universidad sí fue un proceso totalmente diferente al colegio. Yo estaba absolutamente rodeada de matemáticas, así que está encantada con eso más más los temas de desarrollo y que en general me gustaron todas las materias a excepción de las materias que tenía que ver con hardware lo que era circuito lógico y arquitectura de computadora y lo que tuviera que ver con Harvard para mí, sí, ese no era el punto día redes tampoco a pesar de que Carlos ortiga muy buen profesor, pero pero con redes tampoco me gustaba bien el tema muy siempre trabajando desarrollo en esa medida en eso.
+
+[15:01]
+marcó muchísimo y pues trabajar con Víctor Toro desde cuarto semestre Víctor percibí profesor en taller de micros desarrollando la Semler verdad, pero la como Víctor pues está muy en el tema de ingeniería de software, la manera como él aborda abordaba y el tema del desarrollo pues a mí me encantó y desde ahí mi foco es ingeniería de software desde que vi la materia con
+
+[15:44]
+había un computador central en esa época perdón en los Andes ni antes cierto, cuál era el primer semestre trabajé con con los sapos y ahí es donde donde hicimos el laboratorio de Carol de robot y ya el segundo semestre eran los entonces eso era bien interesante con Pascal
+
+[16:11]
+Yo no desarrollo con tarjetas y yo empecé a trabajar con Pascal en segundo semestre, entonces uno iba al laboratorio los borro cierto en una máquina, creando todo está con las diferentes terminales un teclado así de gordo duro durísimo y recuerdo que empiezas a escribir tu programa en Pascal y si quieres ir abajo, o sea, el siguiente página efectivamente presionadas el botón de siguiente página y abajo decía comando en cola.
+
+[16:48]
+Y había que esperar un rato a que bajara la siguiente página hay mentiras, queda arriba y así era como se desarrollaba el pequeño programa en Pascal porque el tiempo no daba hacer algo más que un pequeño programa en Pascal y por supuesto se mandaba con Pilar y cuando uno mandaba con Pilar vaya al día siguiente por el listado para compilar y si dejas al otro día y si de casualidad se te había olvidado un punto y coma en la segunda línea.
+
+[17:30]
+en la segunda línea paraba el compilador y de ahí en adelante, dejaba de compilar porque era un compilador de una sola pasada y así fue como yo aprendí el segundo semestre a desarrollar en pascal un Pascal
+
+[17:49]
+esto significaba digamos en los términos de ingeniería terminales no inteligentes para no decir brutas que no me gusta la palabra sí que no tienen inteligencia, sino que todo está centrado en la CPU del computador central compilación de una sola pasada en la misma si mandabas con Pilar y compila entonces ahí mismo se veía la ejecución cierto todo enlistados de esos verde blanco verde blanco así era como como salvia no se me pusieras ejecuciones muy simples muy sencillas, no sé cosas de cálculo básico donde ese estilo porque pues era muy muy básico recuerdo que
+
+[18:49]
+Tercer semestre ya pudimos también trabajar en las terminales en las terminales de acuerdo el nombre.
+
+[19:04]
+Pero es terminales que no tenían disco duro.
+
+[19:09]
+No tenían disco duro y me acuerdo la primera vez que compré un disquete, o sea, ya tengo un disquete en mi mano cinco un cuarto y recuerdo que yo llegué a mi casa y le dije a mis papás misma, ya tengo un discreto para mí fue un momento muy emocionante de como que ya estoy, estoy tocando la tecnología y al día siguiente fui a meter el disquete en en la terminal.
+
+[19:47]
+En la terminal lo metí y no pasó nada.
+
+[19:53]
+No pasó nada, entonces me fui allá de la persona de la Universidad y dije mis que salió dañada y me dice ya lo formateaste yo y eso qué eres?
+
+[20:11]
+Digamos que en una en una inocencia en una ignorancia realmente ahorita muy graciosa, pero es que yo no tenía ni idea de computadores o sea, nada, sí, entonces pues así fue como como empezamos aquí en estos televisores, aquí hicimos unos desarrollos también en pascal con una compañera este trabajo que se llama Marta Vanegas que ahorita pues ella tiene su empresa en San Francisco y pues las dos aprendiendo aprendiendo nuestro programa en Pascal en ese momento estábamos con María Consuelo Frankie de estudiantes y ya estábamos, me acuerdo, teníamos un proyecto muy a punto de terminar solo.
+
+[21:11]
+Faltaba la documentación ya funcionaba perfecto y al momento de documental lo último llegamos llorando de maracuyá que entregar el trabajo.
+
+[21:33]
+Ya le pasaron Norton el acuerdo de eso, o sea, ya le pasaron por el norte, no ni idea qué es eso entonces le dijo Marcela Hernández que por favor ayudar a recuperar el el disquete que nunca se pudo recuperar nunca nunca se pudo recuperar entonces de ahí en adelante aprendimos a el concepto de bacala, que en ese momento tocaba dejar de memoria cambiar de disquete y grabarlo para poder tener tener para acá, entonces digamos que que así se trabaja en ese momento desarrollos pequeñitos, pues obviamente el monocromáticas cosas muy muy simples muy simples, pero así fue como como aprendí a desarrollar. Ahí habría que
+
+[22:33]
+Digamos comentar toda esta historia que tiene su significado que para hacer un programa había que pensarlo muy bien antes de crearlo lo que hoy no pasa tanto porque por sistema de prueba y error sí hago con pilot rápido, no, pero en ese momento la compilación al otro día implicada que había que pensar muy bien la escritura de programa fuente señaló lo que era el hacer los algoritmos en escritorio y escribirlos en papel antes de escribirlo en el computador cierto, yo sabía que que que pensar muy bien, pero otra de las ventajas que hay en ese momento es que había que fijarse muy bien fijarse, que los punto y coma transparentes hacerlo por compilación, era era muy demorado sobre todo.
+
+[23:33]
+Porque ahí sí, teníamos los compiladores de border si ustedes se acuerdan y estos compiladores, pues ya daban retroalimentación inmediata. Entonces, pues por lo menos uno uno puede compilar, pero desafortunadamente en la medida que hay más facilidades también las personas dejan de ser tan exhaustivas cierto en su diseño en su análisis y eso pues ocasiona que en este momento haya más más errores o errores diferentes llamaría yo en el desarrollo, pero ese fijarse esa manera de aprender fijándose bien, verificando bien las cosas. Eso hacía que incluso muchas veces uno escribía el programa y ahí mismo corrido y bueno, digamos que que así.
+
+[24:33]
+empezamos luego como dije, pues trabajamos con las emblemáticas y no lo recuerdan a nivel ahí era era con una máquina diferente es de anotar, que en ese momento no había Internet en ese momento no, no había Internet y
+
+[25:01]
+Y pues ahí lo que lo que había también a trabajar en la simple la primera ese manejo, que pues gracias a la Diego López puede tener ese trabajo que ahora en este momento el producto, que estoy trabajando en este momento lo pudimos hacer. Gracias a ese pensamiento de compiladores que habían después del producto que tenemos ahora.
+
+[25:35]
+Hay una unas palabras burlan, lo mencionaste fue tal vez la primera empresa que creó compiladores para estos lenguajes en micros de esa época de acuerdo distribuidos por la misma gente de los sapos, sí, bueno, la palabra borla, para que sepa un poco que era, pero muy bien, vamos muy bien Rodrigo era profesor Rodrigo López fue el profesor mío, digamos que que hemos sido compiladores.
+
+[26:15]
+Cardoso también muy importante en la información donde digo tiene una forma de enseñar y muy purista, se manejo del diseño muy purista que además no pude, le puede sacar más jugo de Rodrigo Cardozo en la Maestría en pregrado sí estuve clásico en él, pero fue mucho más más empático que también fue muy formador en el producto que estoy trabajando ahora en el manejo de lenguaje de radio tardó muy colega de Rafa García que está acá en el tema de la maratón que es mundial y que en algún momento hablaremos de eso después de la maratón de programación Rodrigo Rafa líderes en ese proceso acompañado siempre de Beatriz Caicedo también.
+
+[27:15]
+Músico además músico excelente excelente entonces yo vi también dentro de lo que estoy viendo lenguajes de programación entonces yo vi y no solamente programación estructurada en ese momento no no orientado y también programación lógica de programación funcional comprobó y con listo eso pues gracias también a Jorge a Jorge Villalobos de lenguajes.
+
+[27:57]
+Y ven en refuerzo para mí también muy importante que hace Víctor Toro en los temas de ingeniería software.
+
+[28:06]
+Y eso lo vimos si mal no recuerdo en séptimos semestre séptimo octavo por allí esas son las materias que me marcaron profundamente la lenguajes, los diferentes lenguajes de programación de necrosis, ingeniería de software, compiladores y algoritmos algoritmos con Jaime Jaime orquesta también fue muy muy importante donde ahorita. Yo digo ellos. Me marcaron profesionalmente.
+
+[28:49]
+Yo hice mi tesis mi tesis de de grado la hice en control de versiones.
+
+[28:58]
+ese CSS y RCS los papás de CBS que son los papás de mi tesis fue en ese CSS
+
+[29:19]
+Y gracias a Luis Cobo es un compañero también que ha sido un colega muy muy querido por mí, pues me entró también en RSS que era la tecnología de punta en ese momento él está Decano hoy en día, entonces con él trabajabas cuál fue la relación con él profesor en el grupo en el grupo que que yo me hice en la universidad estaban los tres mejores sitios de mi promoción Luis Juan Carlos Uribe mira el otro e Iván Peña era el tercero los tres mejores chicas estudiaron ingeniería sistemas.
+
+[30:22]
+Y pues dicen es una persona muy querida entonces con un con una habilidad impresionante impresionante recuerdo una vez que estábamos en estos computadores.
+
+[30:43]
+En ese momento muy especial en la parte gráfica.
+
+[30:51]
+y no me funcionara el programa y no me funcionaba, estaba como una compañera que se llama Adriana Otero haciendo el programa no me funcionaba y dijimos Luisito tú qué ves aquí porque dice que ya uno le hace le hace le hace no no logra verlo y muy simpático y dice esto se ve raro, así nos dice, no acaba de ver el código y simplemente hice esto se ve raro y de pronto, simplemente coge un dedo y dice mira aquí está el error en 30 segundos lo detectó en algo muy muy rápido ese es el cerebro del hombre es impresionante perfecto y una cosita de Jaime Borges Jaime fue un seguidor de Astra
+
+[31:41]
+Que fue el padre de la programación estructurada que prohibió el y era tan seguidor o lo es que las conferencias de él era con la letra de Dylan ni esas cosas, no, sino era era el Font de la letra de dais que escribió muchísimo a mano es una historia rara, no, pero especialista en el tema de lógica y algoritmo, no?
+
+[32:09]
+Muy especial.
+
+[32:12]
+Si el grupo el grupo en ese momento perdón, el grupo de métodos formales era, pues es realmente liderado por Rodrigo y por y por Jaime y por Jaime y tenían cuando tú estabas estudiando cuando empezaste a tomar esos cursos, el equipo de monitores que trabajaban con Rodrigo y con Jaime estaba airo Rocha Carlos Haya y estaba yo entre esos eran los los que andábamos en ese en ese cuento será difícil.
+
+[32:47]
+Porque la exigencia que ellos tienen y en el y en la primer revista y así años 77 uno de los artículos fue acaba de prohibirse el Go To en la programación no, no? Bueno, ahí va una historia que que marca una época no indudablemente.
+
+[33:09]
+Pero como mi línea fue desde pregrado ingeniería de software, pues estas son las personas que me marcaron profundamente bien, hablando de compañeros y compañeras, no, cómo era la situación en esa época en ese momento era muy padre en términos de la cantidad de personas en mi promoción empezaron éramos 240, empezamos muchísimo.
+
+[34:00]
+Terminamos 60 pero en general era muy par. Digamos la casi la misma cantidad de hombres con la misma cantidad de mujeres en una relación también muy par. Digamos, que no es que por ser hombre por ser mujer más o menos, no, yo nunca lo sentí de esa manera y muy muy padre y creo que eso eso marca un tema importante en el sentido en que después he visto situaciones diferentes que son dolorosas en el sentido de sentir que un género es más que otros, pues eso no, no creo que sea así.
+
+[34:53]
+Y bueno, digamos entonces mi tesis fue de CSS lenguaje C era ya lo último en tecnología y iónico sistema 5 eso era, pues lo último en tecnología así pues básicamente las tres cosas sistema 5 desarrollo sense SSS para poder de automatizar las conspiraciones y salí del 12 de septiembre 1992.
+
+[35:32]
+Y el 14 de septiembre empezaré a trabajar en una empresa porque en ese momento aún no lo llamaban de las diferentes empresas y pues para para trabajar con ellos y pues me ofrecieron un buen puesto en una empresa financiera y allá y allá fue a dar, pues básicamente en este momento me di cuenta que uno debe escuchar su corazón y lo que sí era claro, en ese momento es que yo no estaba contenta de entrar a trabajar allá.
+
+[36:10]
+Entonces, pues empecé a trabajar allá RPG a ese 400 y no un esquema totalmente piramidal analista A B C D y pues también para mí fue bastante frustrante sentir que estaba trabajando en las últimas tecnologías estaba echando para atrás, pero lo que más me costaba trabajo era el esquema piramidal y pues para hacer este esta historia también muy divertida dure tres días y medio trabajando allá.
+
+[36:57]
+Pues básicamente mi actual esposo en ese momento todavía no me dijo renuncia, si vas a estar tan mal, no tiene sentido entonces, pues renuncian al tercer día y medio y decisión compleja de todas maneras, pues se supone que que era un buen puesto, así que hay cosas, me subieron de Víctor Toro muy triste, me subí. Me dijo Víctor son las doce del día que es esto acá y le dije renuncié y él se ataca de la risa pagado la risa y me dice yo sabía que tú no eras bien.
+
+[37:37]
+Y bueno, gracias a Víctor le recomendó a un ir a un lugar, me dijo si yo fuera tú me gustaría trabajar en tal parte.
+
+[37:53]
+Entonces fui a esta parte es una historia muy simpática porque pues vi una casa golpeen y ustedes de casualidad no no?
+
+[38:07]
+Y curiosamente ellos se la pasaban viajando y ese día estaban los dos en la oficina Jorge Eduardo Estrada me imaginé estaban en la oficina y me atendieron Jorge Eduardo ustedes saben es parte de los fundadores de la Escuela Colombiana de Ingeniería así que todas las personas de la carrera de la Escuela Colombiana de Ingeniería y cuando me entrevistaron me dijeron. Y tú cómo sabías que estábamos de pronto buscando contratar a alguien de los santos.
+
+[38:43]
+No sabía no sabía simplemente.
+
+[38:48]
+Y pues enrosca caro que marca profundamente mi vida, sí, y allá trabajaban desde hacía tiempo ese CSS trabajaban en el sistema sistema 5 de Unix en unos paradigmas de desarrollo sobre C totalmente avanzados y pues bueno, fue un aprendizaje espectacular empecé, o sea me llevaron a las 6 así que empecé a trabajar en la maratón de programación desde hace un rato largo y fui parte del grupo de la maratón y allá si era la única mujer una maratón no había mujeres, era la única y estuvimos trabajando en este momento con el mando converse con Guillermo caro, la maratón que en ese momento no era hace.
+
+[39:48]
+Eso lo pusimos después.
+
+[39:54]
+Hay una una anotación cita otra vez de los términos, el RPG era report program generator y era un lenguaje orientado a sacar reportes que fue el que no resistirse sino tres días sí, en esta máquina que comentas que pues era de las grandes y la S 400 la RPG no podría ser para ti no eso esa era un comentario sobre esa parte, no? Bueno, entonces seguiste valga la pena decir una cosa en el grupo Guillermo caro y tú y el grupo logró éxitos en bases de datos más eficientes que las bases de datos relacionales programando en C de acuerdo, eso es historia de la computación colombiana.
+
+[40:47]
+Aunque bueno, entonces ahí si te encontraste obviamente ahí sí, porque pues estamos hablando en ese momento última tecnología las pantallas eran en los datos estaban en sí todo estaba así.
+
+[41:04]
+Pues daría yo creo que que perdón Manuel por la interrupción, pero yo creo que antes de que te gradúes hay algunas preguntas por hacer porque fíjate tratando en una empresa, ya estás trabajando con Guillermo ya estás trabajando en pues en empresa ya, ya saliste al mundo real y de todas maneras, pues entre otras cosas más llamado mundo real, no? Porque cuando uno dice mundo real es como si la Academia fuera de mentiras pero
+
+[41:37]
+Antes de que te gradué, yo quiero preguntarte un par de cositas. Bueno, estamos hablando de una niña.
+
+[41:47]
+Afortunadamente, gracias a a Tron te enamoraste de la Ingeniería de Sistemas ahí de las cosas que que a mí personalmente más me enamoraron de esa escena de la máquina está aprendiendo cuando empiezan a jugar friki, pero bueno, cuando tú entras uno de los motivos es que te llama la atención las matemáticas, te llama la atención, qué pasaba en ese cuarto raro donde entra un profesor de matemáticas, yo quiero saber qué pasó, ahí está lo de trono. Está todo alrededor de matemáticas. Después estás muy rodeada de métodos formales de matemáticas de la del formalismo, vía vía, pues la influencia de Jaime Rodrigo etcétera, entonces escuela él mismo Rodrigo López con compiladores y demás y en algún momento.
+
+[42:47]
+Hay un tránsito hacia la ingeniería de software, cómo fue ese tránsito porque en de todas maneras hay alguna disyuntiva que tomar allí.
+
+[42:59]
+Sigo en lo formal, sigo en los algoritmos o me muevo hacia la ingeniería de software, eso hay una decisión que tomar allí, aunque en ese momento estaban muy juntas, pero cómo fue eso para ti? Cómo cómo fue ese tránsito de la niña que ama las matemáticas a la ingeniería es otra ok es una pregunta interesante y a mí lo que me lo que me cautiva y todavía me cautiva y me sigue cautivando es la magia de una idea volver a la realidad volver la realidad de nosotros es eso me parece mágico todavía a pesar de que te hay un montón de matemáticas detrás y bueno, el desarrollo eso fue lo que me cautivó, no? Entonces ya vas por eso moverme hacia ingeniería de software, por supuesto al lado de los de los métodos formales que en últimas para mí son el apoyo para que
+
+[43:59]
+Ese software quede mejor?
+
+[44:01]
+Pero es el volver los software lo que a mí me cautiva de hecho hay un pedazo que me salté y es la práctica empresarial.
+
+[44:12]
+cuando yo estaba en la universidad la práctica empresarial no era obligatorio era opcional y si uno hacía práctica significaba quedarse un semestre más entonces también Juan Manuel riñón, me convenció que hiciera práctica empresarial para no salir sin tener conocimiento de la vida real como tú lo llamas Rafael digamos que sin tener ese conocimiento entonces yo hice práctica empresarial en el Banco de la República
+
+[44:43]
+Ahí empecé a trabajar con Guillermo Estrada en lo que se llamaba en este momento en la UCO la unidad de de apoyo al usuario y pues era muy idea apoyar el usuario y estar allá y la impresión no me sirve. Oye, hay que prender la impresora, no cosas de estilo pasaban. En serio, de verdad. Pasaban entonces ahí también me di cuenta de mí misma que me gustaba hacer el servicio al cliente y me gustaba el servicio a las personas, eso me gustó, pero lo que más me cautivó es que a mí me tocó en la en el momento de la feria del libro, porque el banco tiene un stand en la Feria del Libro y había una persona anterior que había hecho un pequeño desarrollo en debate, entonces había hecho ese desarrollo en debate y yo tenía que ser el mantenimiento entonces.
+
+[45:43]
+En lugar de hacer el cambio que te digan los usuarios, ahí me engorde a los usuarios y le dice, además unas mejoras y y bueno, digamos que hubo hay alta satisfacción de parte de los usuarios y mandaron carta de agradecimiento y todo eso, pero digamos que hay me di cuenta que lo que me gusta es eso es construir y esas ideas construirlas para el servicio de los otros, si te tauco también fue muy importante para mí el el paso por el Banco de la República para para además, darme cuenta que no era solo producir software, sino producir software con sentido que tuviera un sentido de que le sirviera a las personas ese tema también es importante. Entonces por eso es que tú me da decisión de lo que a mí me gusta es construir software que tenga sentido y por eso es que para mí la agilidad es tan tan clave.
+
+[46:43]
+Y que esté al servicio de los negocios al servicio de las personas, entonces ya la parte del método formales queda un poquito al lado porque es es por ahí el tema.
+
+[46:55]
+Y también para el lenguaje de eBay ya era una base de datos relacional y usaba SQL es correcto. Yo vi la materia con que te va solo de base de datos SQL en base a datos en ese momento estaban y también en Colombia no estaba sí y SQL Server no era de Microsoft y no era también era muy muy muy muy nueva entonces uno no trabajaba con eso en ese momento.
+
+[47:48]
+Este entonces practicamos que no sé si alguna pregunta más antes de graduarme, vuelvo a retomar la historia cuando ya ya me grabé.
+
+[47:56]
+Por mí no, moleste. Sí, claro.
+
+[48:06]
+Todo el tema del Seguro Social en otras cosas no, entonces el primer proyecto que yo tuve antes de ver el seguro en Emanuel proyecto fue una una contabilidad financiera parametrizable en C o sea, pantallas en C datos en C todo totalmente, entonces me encuentro allá un generador de código una belleza de generador de código en donde se ponían un archivo las especificaciones y te generaba el código en C básicamente con las pantallas básicas de tal manera, que uno el desarrollo lo que tiene que ser ajustar esas pantallas. Sí, digamos que ahí existe Jorge Guillermo son unos cerebros impresionantes.
+
+[49:06]
+Esa capacidad de ellos de crear es impresionante.
+
+[49:10]
+Entonces ahí aprendo esa teoría que de pronto en algún momento hablaba en el Rodrigo Cardoso la veo funcionando de una manera muy práctica en estos generadores que que ellos hacen Mike que era el sistema de archivos que construyó nuestra en Jorge Eduardo Estrada y se llama Mike porque es manejador de archivos de entrada un sistema de archivos con una rapidez impresionante una rapidez impresionante y por eso fue que posteriormente un par de años después se ganó la licitación del Seguro Social porque las velocidades del manejo de estos archivos era muy superior ahora de ese momento y pues a las bases de datos relacionales y por eso se ganó esa licitación.
+
+[50:09]
+Y bueno, pero entonces me devuelvo un poquito a este proyecto que les cuento en donde fue también el primer aterrizaje de metodológico, porque hicieron las especificaciones con una empresa X donde entregaron unos libros así de grandes tres libros me acuerdo que la etapa era amarilla y ahí estaba todo lo que había que desarrollar y nosotros lo único que teníamos que hacer era desarrollar lo que estaba ahí escrito y ya ya y cobrar ya. Eso es lo que había que hacer.
+
+[50:48]
+Y pues bueno, la vida uno no lo empuja ciertas cosas y a mí me tocó muy rápidamente, no sé como a los seis meses liderar ese proyecto, porque ustedes de la vida yo me grabé muy joven y entonces realmente estaba, pues personalmente muy muy madura.
+
+[51:16]
+Este y pues me enfrento a ese a ese que significa liderar un proyecto y me doy cuenta que los problemas no están tanto en el Vivian el manejo de personas y yo en eso era nula, o sea, yo sabía las matemáticas pero pero no más y por eso y entonces y otras cositas decido estudiar una especialización en Gestión Humana entonces mis compañeros eran psicólogos sociólogos de ingeniería nadie y bueno, y mi esposo, pero de resto un tema totalmente diferente que si me cambia bastante el paradigma que era la idea y pues puedo digamos que aterrizar mucho más en la humanidad de los de los equipos.
+
+[52:16]
+Y eso también fue muy importante en mi vida, no para cortar este proyecto, en qué resultó? Pues bueno, ya cuando fuimos a entregar, por supuesto como siempre pasa esto no es así hombre, pero los libros dice que sí sí, no me importa así no es y hay que hacer los ajustes correspondientes que hacemos los ajustes, me hago amiguísima del contador Distrital porque pues nos la pasamos justo todo el tiempo haciendo pruebas ajustando haciéndonos y pues ya está visto el software listo para salir a producción se va a hacer el anuncio de la salida producción del nuevo sistema y me dice el el contador. Bueno, hay un pequeño detalle, pero cuál es el detalle el código contable?
+
+[53:16]
+Es una contabilidad financiera, no? Entonces el código contable no es de 7 dígitos, sino de 11.
+
+[53:23]
+Estamos hablando de C en lenguajes de 32 bits, donde el código era una siete dígitos, pero si ya son 11, pues no cabe entonces el cambio siento que para él era muy simple significaba convertir en todas las pantallas en todos los métodos y todas las tablas convertirlo a string.
+
+[53:53]
+O sea, no era un cambio por tanto, no pudo ver la luz ese software, hubo que ir a demandas, sí, porque pues no querían pagar, pues porque no se ha puesto en producción.
+
+[54:09]
+Se ganó la demanda un par de años después, pero pues uno no quiere ganar demanda, sino lo que quieres poner cosas de producción, pero bueno, digamos que ese fue esa experiencia también muy enriquecedora y que por más que tengan los libros firmados porque estaban firmados. Sí, eso no significa que sean los requerimientos.
+
+[54:33]
+Y bueno, digamos que tuvimos en caro tuve muchas más más proyectos con Oracle 3.
+
+[54:46]
+En pantalla verde también desarrollamos el oráculo ya y si son bases de datos relacionales cierto, entonces ya decía profundamente que te ha dado solo haya sido mi profesor de base de datos, porque si hay un buen profesor de base de datos, se llama eso es impresionante.
+
+[55:10]
+Y ahí también hice mi primera experiencia en pruebas cuando fue las pruebas de año 2000 en 1997 en una entidad financiera.
+
+[55:28]
+Y al mismo tiempo estudié la maestría ya que voy a meterme en temas de metodologías para ir a claro, que quería aprender a desarrollar mejor y meterme en temas de metodologías, entonces por eso estudié la maestría del sistema y al mismo tiempo. Yo trabajaba casi tiempo completo es un momento muy simpático en donde yo estudiaba de dos de la tarde a 5:30 más o menos de ahí salía al banco, trabajaba de seis de la tarde a 6 de la mañana y ya él me iba a dormir y para vivir a clase y pues obviamente en el momento de crisis de de sacar las cosas de terminar las pruebas, pero sobre más o menos como unos dos meses y fue una época muy interesante.
+
+[56:21]
+Y empecé pues a conocer el maravilloso mundo de las pruebas y de la automatización de pruebas, porque la primera vez que yo automatizan pruebas fue ahí y utilizando un software, que se llamaba robot, que después lo compró racional, que después lo compruebe.
+
+[56:38]
+la primera experiencia en automatización de pruebas
+
+[56:46]
+y pues digamos que en esta época de seis años aprendiendo muchísimo y disfrutando y
+
+[57:07]
+bueno, digamos que está el día termina la maestría.
+
+[57:11]
+trabajé un poco también en la empresa de Juan Manuel y ya estaba fundada algunos proyectos que se tenían con el Banco de la República ahí nos conocimos con él y
+
+[57:29]
+Terminé la la maestría y la maestría la la hice mi tesis fue en rational trabajando con casos de uso y básicamente la temática de mi tesis fue el complemento en pruebas en arquitectura de la metodología estoy complementando más temas de pruebas dentro de la metodología, pero pues allí conocí que también fue muy muy importante algo que olvidé decirles en la mitad.
+
+[58:10]
+Es que cuando tal vez tenía un año de graduada algo así Juan Manuel estaba trabajando en las averiana. Él estaba trabajando con Oracle y a él le pidieron suplir apoyar unos cursos en las avellanas, entonces yo le dije o ya a mí me gustaría dictar clase porque no hablas a ver si de pronto yo puedo editar clase y pues empecé también mi tema docente que para mí también ha sido fundamental, entonces yo ahí empecé a dictar lenguaje C y sistema operacional Bionics en las averiadas, que en ese momento no existía la carrera de Ingeniería sistemas, sino que era electivas de las otras ingenierías, entonces eso debió ser.
+
+[59:09]
+Yo primero vi que unos cursos en porque estaba caro, tenía convenio con cursos de Unix y después de eso, pues empecé a dictar en la Javeriana y después ya cuando se empezó la carrera a mí me llamaron para dictarle a los a los primeros a los primeros estudiantes.
+
+[59:40]
+Eran los siete más o menos empezar informática de la carrera, entonces yo cogí estos estos chicos y me vinieron a mí en un montón de materias, porque pues yo dictaba en un semestre y luego viajaba el curso armado y luego dedicado en el siguiente semestre informática desde taller, perdón, sí, ayer de programación de bases de datos desde que muchísimas materias hasta que quede en lo que allá llaman procesos. Llamaban muy muy interesante porque ayudé a la universidad yo estaba bien por el Comité currículum y todo eso.
+
+[01:00:40]
+Pues ayude también a apoyar en la creación de sistemas de la familia.
+
+[01:00:47]
+Todo eso por supuesto lo hice sin hijos, no?
+
+[01:00:58]
+Digamos que al mismo tiempo yo estudié al mismo tiempo trabajé tiempo completo al mismo tiempo.
+
+[01:01:07]
+Aprendiste aprendiste amor a no dormir y ahora al mismo tiempo crías cuatro hijos no es un poco más difícil.
+
+[01:01:31]
+Después de esto ya ya después de graduarme, yo me grabé la Maestría en el maestría y entonces daba mi conocimiento en la metodología en razonar y Ecuador de la metodología y el creador de UML y pues digamos que por eso, por eso me llamaron. Fue también unos momentos muy interesantes, porque aprendí desde los creadores que si no tiene acceso a información clasificada porque en la Maestría yo estudié basado en libros en Internet en ese momento.
+
+[01:02:31]
+Existía, pero no era como ahora no digamos que el conocimiento no estaba tan regado como ahora y de hecho cuando yo trabajé en extra caro las primeros años no, yo no tuve acceso a Internet yo no tenía acceso a Internet yo recuerdo que pues desde el pregrado son muy amiga de Pablo Figueroa y Pablo tenía acceso a business, entonces él podía mandar correos estudiantes en Francia me acuerdo en particular y él me mostraba. Mira él me manda aquí un correo y yo le respondo ya me parecía eso era espectacular por por esa manera tan rápida con alguien de otro país, pues espera espectacular.
+
+[01:03:26]
+Entonces si yo ya cuando estudié era maestría había internet, pero no era con ese montón de conocimiento que hay ahora y que definitivamente cambia totalmente el ámbito de desarrollo de software.
+
+[01:03:43]
+No tenía acceso algunas cosas.
+
+[01:03:48]
+y sí, pues me tocó leer muchos libros, entonces cuando entro ya a dudar ya había mejor internet por cierto, entonces puedo acceder a información clasificada y me doy cuenta que no había entendido nada, me doy cuenta que no había entendido casos de uso, me doy cuenta que no había entendido la metodología me doy cuenta que que el cambiar de metodología del cascada aditivo como que ponía racional se necesitaba un cambio de paradigma muy fuerte y que las personas no lo comprendían porque la gente pensaba que trabajar con Ruth era ser diagramas en UML entonces lo que había era que llenarse de diagramas de UML como ml tenía nueve diagramas, entonces había que hacer los toros y pues nunca fue así nunca fue así pero pues uno veía todos los proyectos y pues asesoría muchas empresas tanto allí y pues aquí en Colombia en Venezuela
+
+[01:04:48]
+Es mucho Medellín asesoría bastante bastantes empresas y y veía como la gente pensaba que trabajando con OMR ya cumpliría la metodología y como la metodología eran framework, en eso entra gente, no entendía lo que era entonces el facebook decía 33 roles 145 artefactos. Entonces hagamos los todos hagamos todos los roles pescando. Eso se llenaba de documentación a la gente y nunca nunca la metodología realmente quiso decir eso, pero eso refleja algo que todavía estoy viviendo fuertemente y es que la ingeniería es otra, ha cambiado mucho de paradigma, pero la gente va detrás, o sea, ahorita la gente habla de agilidad, pero yo me doy cuenta que no cambian el paradigma, o sea que realmente no pueden aplicar y eso es de los de
+
+[01:05:48]
+los temas que que ha sido difícil para que las empresas realmente podamos paradigmas que
+
+[01:05:54]
+más difícil que aprender es desaprender.
+
+[01:05:59]
+Entonces, pues fue una experiencia realmente realmente muy importante muy muy interesante yo pues renuncié hasta básicamente porque me volví mamá hasta acá me volví mamá y al volver de mamá no podía viajar tanto.
+
+[01:06:24]
+Porque yo viajaba mucho muchísimo y ya pues ahí la vida cambia totalmente.
+
+[01:06:32]
+entonces empecé a trabajar en
+
+[01:06:36]
+empieza una etapa nueva totalmente mi vida de aprender a trabajar una empresa grande hasta el momento ya había trabajado en clases pequeñas.
+
+[01:06:47]
+Esto pues es una empresa de patronal de empleados y moverse allí es bastante más lindo, en qué año era más o menos el TV momento de TV 2003.
+
+[01:07:08]
+Entonces yo entre TV para dirigir el grupo de ingeniería de software de facturación, te estaba cambiando sus sistemas completamente cambiaron todo al mismo tiempo.
+
+[01:07:25]
+Y pues digamos que yo yo dirigí, este grupo también la intención era que yo le enseñara la organización a trabajar la nueva metodología en ese momento era ERP usted, será mover la organización hacia las nuevas metodologías fue una experiencia bien bien interesante, pues terminando terminamos siendo un grupo de 80 personas haciendo varios varios sistemas varios proyectos con los diferentes retos en general, tuvimos éxito en la mayoría de los de los proyectos a excepción de algunos de acuerdo, uno en particular en donde ustedes saben qué hacer sector público, pues lo tiene ciertas restricciones de contratación y había una empresa X que ellos se comprometieron a hacer un desarrollo que nosotros.
+
+[01:08:25]
+Nosotros sabíamos que era un desarrollo de siete meses se comprometió a nacer en el mes, por supuesto baratísimo y para la manera como salió la contratación no había manera de no adjudicarse y este desarrollo que tenía que salir en siete meses porque era algo transitorio y venía que ser en esa época, pero digamos que se notaba que que el contratista no sabía ni de la tecnología porque en ese momento era JC o sea, ya estamos empezando las nuevas arquitecturas de ese momento porque te da multiniveles, pues no sabían ni la tecnología ni la metodología ese proyecto sigue desafortunadamente nunca pudo salir.
+
+[01:09:25]
+Proyectos al mismo tiempo y y los otros pues sí se salieron a los a los bien porque realmente pues obviamente con sus con sus dificultades, verdad, pero pero en general bien hay un desarrollo muy bonito y es que el contar con un buen equipo es es muy chévere porque desarrollamos un integrador imagínense un tipo.
+
+[01:09:56]
+Obviamente un poco más pequeño más específico, pero lo logramos y con una muy buena arquitectura y unas buenas velocidades.
+
+[01:10:04]
+Es de las partes que me siento satisfecho de de lograr cosas innovadoras.
+
+[01:10:14]
+Y otros desarrollos.
+
+[01:10:19]
+Pero pues les cuento personalmente para mí trabajar una empresa grande es difícil, es difícil. A mí me gusta más las empresas más pequeñas.
+
+[01:10:32]
+Y pues yo esperaba que al tener mi segunda, hija, ni fuera, pero cuando volví me pusieron el reto de instaurar el área de requerimientos arquitectura empresarial entonces, pues me enamoré de ese otro reto y empecé también a entender lo que es arquitectura empresarial que en ese momento era algo súper novedoso y el tema de requerimientos y crea algo, yo no me había dado cuenta de lo que había hecho hasta que le escuché la descripción a otra persona y me dijeron que dijo mire ella fue quien se inventó la fábrica de requerimientos y era un concepto para poder contratar requerimientos de manera variable, entonces después ese concepto pues se pasó a las organizaciones para poder tener especificaciones de requerimientos.
+
+[01:11:32]
+Y pues así no, no logramos trabajando con con temas nuevos por supuesto, no todo salió perfecto, pero pero te mando novedoso, se estimación en punto de casos de uso y lograr una manera en que la organización pudiera ir avanzando, dinámicamente en términos de requerimientos.
+
+[01:11:57]
+Y pues bueno, cuando ya pueden interceder, hijos y definitivamente no podía seguir de empleada.
+
+[01:12:14]
+Yo tomé después estuve trabajando en un tiempo también en dexo organizando mucho el tema de calidad allá en el tema de pruebas y calidad apoyando, pues para que el producto de ellos pudiera tener, pues un mejor una mejor rendimiento para que pudieran también expandirse y mejorar a otras empresas como algo muy corto.
+
+[01:12:45]
+Y ya hay pues salí al mundo de del freelancer, ya me volví freelancer y pues estuve trabajando en algunos proyectos como como.
+
+[01:12:59]
+Dentro de esos vale la pena resaltar el proyecto del final el milagro en algo pues hizo un cambio de color bancario grande.
+
+[01:13:12]
+Pero sin abro no es un banco de primer piso un banco es el segundo piso entonces, pues el el concepto diferente ahí, pues me contactó Carlos Salamanca que era el asesor de Presidencia hicimos un trabajo, me pareció chévere metodológicamente en términos de especificaciones especificar bien lo que se lo que se necesitaba para poder contratarlo y demostrar porque pues qué bien totalmente comprar comprar comprar comprar comprar comprar comprar comprar el software, pero hicimos un trabajo de requerimientos para demostrarle a la Junta que comprar en la mala decisión y yo le decía Carlos que cuando bajó me acuerdo de la Junta estaba molesto, pues porque se llegó a la conclusión de que no se podía comprar y pues ya teníamos.
+
+[01:14:12]
+Si teníamos estaba tu hermana contratación, pero yo le dije, mira, yo conozco varios casos en donde las empresas piensan que comprar la mejor solución y después se dan cuenta que el proyecto era de 20 millones de dólares con caso y después se dan cuenta que adaptar la solución les cuesta 40 millones de dólares más.
+
+[01:14:40]
+Entonces, el darse cuenta desde antes de comprar no es tan malo, no fue un tema interesante entonces, pues se fue hacia de desarrollo y se contrató una una casa de desarrollo y pues estoy acompañándolos la primera fase del desarrollo.
+
+[01:15:11]
+al mismo tiempo que se apoyó y otras empresas Movistar
+
+[01:15:18]
+diferentes empresas y estoy apoyando en temas de metodologías apoyando como como diferentes proyectos el tema metodológicos
+
+[01:15:36]
+Y después ya no me meto en lo que son temas de metodología y cálida.
+
+[01:15:44]
+en donde pues ya con la empresa empezamos a hacer proyectos de aseguramiento de calidad como proyectos de seguramente de calidad al inglés a República Dominicana en la mano en
+
+[01:15:58]
+compensar
+
+[01:16:02]
+y ahí es donde ya hay que anotar que que hace unos 14 años más o menos es donde conozco las metodologías ágiles y ese conocer la metodologías ágiles, a mí me cambió el paradigma, o sea, eso mismo que yo había vivido con los otros diciendo, oiga, cámbiale paradigma, pues a mí me tocó cambiar el paradigma. Voy también enfrentándome a la vida real, que es la interacciones, son son muy buenas, pero no suficientes entonces, pues entro en el conocimiento de las metodologías ágiles me dio duro, me dio duro tenernos paradigmas, no puedo, no puedo negarlo, pero pues digamos que yo viaje a diferentes lugares a aprender me gustó cuando en las
+
+[01:17:02]
+Efectivamente los primeros años pero luego con Manuel trabajemos más mucho más los temas de educación, no? Entonces con Manuel el primer curso que dictamos ya no me acuerdo hace cuántos años Manuel como 18 años por ahí, pero el curso de UML entonces con así es empezamos a trabajar los temas de capacitación en UML en la metodologías interactivas en requerimientos en pruebas y pues ya cuando conozco la agilidad, digo ok hay que traer el evento a Colombia entonces ahí fue con apoyo de las y también llevamos un par de amigos de antes a
+
+[01:18:02]
+Hay que traer nuestros ángeles, es un evento a Colombia y por eso pues trajimos ágiles, armamos el primer ángel es aquí en Bogotá con todos los retos del mundo y pero eso pues ya lo logramos hace unos seis años y pues quedó ya instaurado que se mueven en diferentes lugares del país, el evento de agilidad acá en Colombia que fue la semana pasada por cierto en Barranquilla los últimos años.
+
+[01:18:48]
+Y bueno, digamos que ahí en ese momento cuando empiezo a trabajar con las empresas y ayudarles a meterse en agilidad y en la metodologías ágiles me doy cuenta que el uno de los puntos más difíciles de las empresas en trabajar en agilidad son las pruebas.
+
+[01:19:12]
+Entonces, logran hacer iteraciones en desarrollo pero pruebas no y pues hubo también momentos que me marcaron marcaron muchísimo muchísimo, o sea hubo acá un evento de la Universidad Nacional que logró, que si era una de las conferencias que para mí también fue muy interesante muy impactante poder tenerlo ahí y poderle preguntar cosas que hacer no son fáciles de responder y preguntarle mire es posible trabajar ágiles con PMI con PNP y él dice definitivamente no son compatibles un golpe. Yo vengo de otra escuela, no? O sea, yo vengo de una escuela formal una escuela de PBI una escuela cierto y
+
+[01:20:12]
+meterse el tema de agilidad y que te digan no son compatibles, pues es eso también me cambió mucho.
+
+[01:20:20]
+Y le pregunté por qué, por qué me dice básicamente porque la base de los dos es totalmente diferente la base del PN y es comunicación gerente que controle la base de la de la agilidad es que el equipo es autogestionado son dos bases diferentes, pero es que no son compatibles, porque los principios básicos están aparte ese fue una de las preguntas que me respondió y la otra que te fue muy interesante porque me demoré como media hora en la discusión con él hasta que yo por fin entendí porque yo le decía miren Colombia aquí tenemos empresas que hacen pruebas, entonces se hace el desarrollo interactivo ágil y luego se le entregan a las personas de pruebas para que prueben entonces no me acuerdo bien, cómo fue la pregunta, pero pues le explicaba yo eso ir me decía, no, eso no es algo, así no es sino es si sale de la integración es porque ya está aprobada.
+
+[01:21:20]
+Con toda la paciencia del mundo, no, si sale a la iteración tiene que estar certificado y pues ahí yo hice un clic cuando por fin entendí porque le costaba trabajo a él cuando por fin entendí hice un clic y dije miércoles, hay que cambiar totalmente paradigma de calidad totalmente para él, o sea, este tema de que los probadores son los certificadores finales ese tema que los probadores no pueden ser jueces y parte bueno, un montón de paradigmas que tiene pruebas y que yo venía enseñando porque pues estuve así enseñando un montón de cosas. Eso hay que cambiarlo si realmente queremos hacer agilidad, hay que cambiar ese paradigma y pues ha sido un camino de ahí en adelante.
+
+[01:22:20]
+largo interesantísimo en donde pues creo de alguna manera, una metodología propia muy orientada hacia que las pruebas sean realmente ágiles y de ahí es donde surge la idea, entonces me doy cuenta la automatización es fundamental en la agilidad es fundamental la automatización pero
+
+[01:22:46]
+Si no se hace automatización rápida no puede haber agilidad 1 y 2 tiene que haber colaboración entre el equipo tiene que ver colaboración, o sea, las personas de pruebas y las personas de desarrollo tienen que estar colaborando, si no se puede dar desde ahí es donde vengo trabajando en una plataforma que es la de estos delfines, que ustedes ven detrás mío.
+
+[01:23:16]
+O esta mañana me preguntaban en una demostración que estaba haciendo por qué delfines son delfines porque los delfines fluyen porque los delfines juegan.
+
+[01:23:28]
+porque los delfines son equipos entonces por eso es que nuestro logo son delfines y es lograr que las personas de pruebas y las personas de desarrollo las personas de requerimientos que son esos tres roles jueguen entre ellos y fluyan y la plataforma ayuda por medio de la automatización en lenguaje natural a que la calidad de este presente desde el primer día del desarrollo y se puede hacer automatización, pues hemos logrado ya que se haga en un 20% del esfuerzo con personas que no saben de automatización y pues con unos resultados realmente muy buenos y que fluya el equipo alrededor de la calidad y que se pueda hacer tener agilidad para eso, después ya hemos podido trabajar estos temas en algunas en algunas empresas como neuronas como la Bolsa de Valores con como
+
+[01:24:28]
+Futuro y pues bueno, digamos que es básicamente no excelente la terminación con tus delfines porque sabemos que ese es producto de tantos años de experiencia, que a veces los usuarios creen que las cosas llegan un día no ya, GPT llega un lunes a las 6 de la mañana, no cierto y este es una experiencia que nos muestra parte del tema Dalia es como el proyecto de vida de las personas va fluyendo, verdad? No se sabía para dónde ibas comenzaste así y con un proceso hasta lo que eres porque lo que hay que decir es que el área es la líder una de las líderes son muy poquitas líderes en el tema de pruebas requerimientos y obviamente critican el tema automatización en el tema, no para ir cerrando si Edgar y Rafa tienen alguna pregunta y vamos cerrando con esas preguntas ya.
+
+[01:25:28]
+Para terminar entonces Edgar adelante. Bueno, no, a mí me llama la atención importante que generalmente cuando hablamos de la evaluación.
+
+[01:25:39]
+Hablamos de la evolución de la tecnología y nos referimos más a la infraestructura y y casi poco lo sea la evolución de los seres humanos y su relación con la ingeniería de software y esto entrevista de Dalia me causa mucho curiosidad impacto de más, porque de alguna manera mueve otra sensibilidad no bien. Lo decía María Isabel que ella también veía que lo que les estamos enseñando mucho a los ingenieros de sistemas es la parte más de computación y menos lo de sistemas o los sistemas de información o de ingeniería de software o lo de arquitectura de software, arquitectura empresarial que es en el fondo el camino que ha promovido Dalia entonces no, mi pregunta es cómo estimulamos tanto a las universidades o a los mismos interesados estudiantes.
+
+[01:26:39]
+A trabajar en esa formación integral que tú la tuviste con una visión del recorrido, pero que estabas más sensiblemente direccionada hacia eso.
+
+[01:26:51]
+Yo creo que es importante señal de la gente para que uno desarrolla sí, yo le decía a mis estudiantes. Yo volvía a dictar entre grado. Yo me había alejado de pregrado, estaba siempre en posgrados y maestrías y decidí ahora el que mis hijos está más grande por cierto a volver a pregrado, yo le decía a los muchachos que tienen que tener conciencia que una cosa es programar y otra cosa es dar una solución a un negocio sí, y no es lo mismo, no es lo mismo y en esa medida mi gran preocupación a veces se me está encontrarme con todos los estudiantes hombres, eso me tiene realmente muy preocupada porque las mujeres tenemos una visión más integral.
+
+[01:27:51]
+Es parte de nuestras características, no significa que uno sea más bueno más malo o más arriba o más abajo, no cada uno tenemos características diferentes y la ingeniería de software, necesita de las de las características masculinas y las características femeninas la mujer tiene y por eso también mi énfasis en temas de calidad tenemos más visiones. Ya es, no y el hecho de de no tener mujeres tantas mujeres realmente me parece que eso no es bueno para la ingeniería, pero yo creo yo le decía a Denisse cuando estaba en el tema de misión TIC el año pasado yo le decía de mis mira ella estaba muy preocupado porque casi no había mujeres lo mismo en el tema de sentir es que hay que enfatizar más.
+
+[01:28:51]
+Que es solución a problemas y no des y solo programación y toda una mujer le pone los temas de crear de conceptualizar los requerimientos y eso le llama la atención y la mujer a temas de validación y eso le llama la atención por alguna razón. A mí me gusta codificar y todavía lo hago y el producto mío tiene varios componentes que los hice yo, pero no todas las mujeres les gusta programar. Sí es como menores ese tema, pero es que desarrollar fronteras mucho más que programar sí, y esa visión creo que se está perdiendo mucho y creo que hay que fomentarla muchísimo muy buen comentario con relación entre género y solucionar y no solo la parte mecánica, llamé.
+
+[01:29:51]
+lo de programar Rafa
+
+[01:29:54]
+Además de una una, o sea, estamos creo que aquí los tres estábamos fascinados escuchándote y a todo aquel que vaya a hacer parte de esta, pues vaya a ver estos vídeos va a estar tanto más fascinado que nosotros y estamos en la parte aburridora, porque es cuando nosotros más hablamos cuando estabas hablando todo era mucho más entretenido, hay algo que me llama mucho la atención y siempre resultó preguntando cosas en esa en esa dirección y es asociado con dos fenómenos uno, el qué cosas pasaron con tu formación en ingeniería que hayas dicho me faltó esto.
+
+[01:30:47]
+Me faltó. Nos faltó, por ejemplo, en algún momento hablabas de cuando empezaste a manejar un equipo muy muy muy recién salida, yo puedo saber todas las partes técnicas, pero no tengo formación. No sé cómo manejar un equipo de gente. Es que estos son son personas.
+
+[01:31:08]
+Y eso es eso puede ser complicado. Además de eso que faltó y te tocó después a las malas y que crees que el que se ha perdido más allá de de por ejemplo, este este tema que ha tocado de género que es bien importante, pero qué otros temas crees que se han perdido por lo que has visto ya que tienes estudiantes y has estado ahora nuevamente de cerca con los con los pregrados.
+
+[01:31:47]
+Del error se aprende, pero no se debe castigar entonces uno de los puntos que yo soy rebelde ahorita en la universidad y yo sé que no soy una profesora fácil porque yo no entrego notas del 40% antes de la fecha sí y por qué no entrega nada porque hay que darle la oportunidad a los estudiantes de equivocarse y de aprender de las equivocaciones, si yo entrego notas en el 40% y todavía no han aprendido, pues ya se van a bajar porque sí, fue mal desde el principio y de hecho es que uno le va a llamar desde el principio, no significa que no vaya a aprender después y que no sea brillante después y yo pienso que la educación es todavía muy tradicional en ese sentido y eso se ve totalmente reflejado en el en el trabajo y en la agilidad se promueve.
+
+[01:32:47]
+En los errores no se ocultan los errores, simplemente se aprende de ellos ese es un punto que creo que pero parece que cambiar la manera como se como se califica la manera como se interactúa con los estudiantes, lo importantísimo muy bien Sandra tiene una pregunta, es precisamente la tenía invisible Rafa querías terminar algo adicional, no, no, solamente quiere decir que que compartimos eso el error como como posibilidad de exploración, el error como parte del aprendizaje hay que aprender a cometer el error incluso para aprender a cometerlo voluntariamente tiene conciencia del error mismo y ahí aprendió y de hecho ahorita, cómo se trabaja la ingeniería de software, la manera como se trabaja en ingeniería Sofi yo promuevo en un tema que se llama felpas equivocate rápido.
+
+[01:33:47]
+Es mucho mejor que equivocarse en grande y hay culturas todavía organizacionales muy fuertes en castigar, el error y los indicadores de las empresas hacían cuáles son los errores para que luego se castiguen entonces yo creo que eso hay que fomentarlo desde la escuela desde la formación desde ahí hay que fomentar y todavía estamos fomentando que los errores se castigan muy interesante, o sea, la experiencia es un archivo de errores bien organizado. Yo he dicho investiga algo nuevo, si está de malas, le funciona de una sola vez.
+
+[01:34:39]
+Sí, si está de buenas no le funciona porque es el esfuerzo de salir adelante Sandrita tiene una pregunta yo yo no como no habías puesto la cámara y tengo aquí un humor aquí escribiendo todo no te ha visto adelante, por favor, Sandra adelante, buenas tardes Dalia muy interesante tu tu recuento de de la ingeniería y del desarrollo hay una parte que me llama mucho la atención y es dices pasar de una metodología tradicional de desarrollo de software al uso de las metodologías de desarrollo ágil, cuesta muchísimo yo ahorita. Estoy dictando en pregrado y hay una parte que es la parte de introducción a la ingeniería de software, en los primeros semestres y me da como angustia, que me recomiendas más es más una recomendación, qué me recomiendas? Porque claro, uno empieza ingeniería de software y empieza con la metodologías tradicionales las metodologías tradicionales son estas las
+
+[01:35:39]
+Tecnologías emergentes son estas y en ese momento ya está marcando un punto muy fuerte y es la metodología tradicional de desarrollo de software, cómo piensas tú que debería ser la forma de abordar esta temática en los primeros semestres de formación con los estudiantes de una manera como lo hago es por la historia de la ingeniería. Entonces lo que hago es explicarle a los estudiantes la ingeniería de sopes algo realmente nuevo correcto y nace en los 50, pero realmente como los 50, entonces digo mire incluso en esta película que me encanta que se llama talento ocultos, ahí se ve algo del inicio de de la ingeniería cierto tres mujeres afroamericanas que trabajan en la NASA matemáticas entonces.
+
+[01:36:39]
+Nosotros utilizamos esa esa película para concientizar o sensibilizar sobre el cierre de la brecha de género en tecnología justamente para para promover un poco más la formación me parece importante ahí digamos que se entiende y cuando pues el ser humano se empieza a tener algo novedoso utiliza, el conocimiento anterior para tratar de de agarrarse de algo entonces él no se centra y sobre todo en el 70 Winston Royce que hace el paper que se llama administrando desarrollo de los grandes sistemas allí él pone en papel, la forma o la clasificación que Taylor en la era industrial enseñó, pero eso en sistemas.
+
+[01:37:38]
+Entonces Taylor enseña que lo mejor es dividir el trabajo y especializar el trabajo de acuerdo, eso funciona para la era industrial, entonces el ser humano lo que hace es eso pasarlo a los novedosos de la ingeniería sistemas y de ahí nace el cascarón que es primero, hagamos requerimientos desde el sistema. Luego requerimientos de software, pero interesante es que ese paper dice Winston Royce yo creo en este concepto, pero este concepto es altamente riesgoso porque es en el momento de pruebas que nos damos cuenta los errores y es muy tarde, entonces yo le explico a la gente que ese fue una manera de agarrar algo, totalmente novedoso utilizando un paradigma anterior, pero que se sabía desde entonces lo que va a causar problemas y así me acercas antes el mundo se se evolucionaba por décadas que ahorita el mundo evoluciona cada dos años.
+
+[01:38:38]
+Pero antes era por décadas entonces en los 80s nace la crisis del software es cuando el Departamento de Defensa de Estados Unidos se da cuenta del montón de dinero que está gastando en desarrollo de software, empiezan, digamos que grandes fracasos y en particular esta leche 18, que es un es un avión asistido por computador y pues va a ser la curva el piloto y en lugar de hacer la curva sigue derecho y se estrella y cuando revisan se dan cuenta que es un if que no tiene el esa concientización genera lo que se llama la crisis de software y entonces lo que hacen que te va a tener el departamento Defensa de Estados Unidos es contratar a la universidad de gemelos.
+
+[01:39:38]
+Pero se convierte en el refuerzo de lo mismo entonces lo que tratan es que la el mismo cascada lo que hagamos es documental lo más, eso lo hace en los oyentes y fíjate que el primer proyecto que yo tuve en el 92 es que la ventaja mía es que ya con cierto recorrido un recorrido parte de la historia, no? Entonces en el 84 nace CMN en el 92. Yo vi con mis propios ojitos que esa aplicación de ese concepto de formalizar los papeles no funcionó.
+
+[01:40:18]
+En la mitad yo no les dije un pedazo yo un tiempo que que lidere la fábrica de la fábrica de desarrollo en que hay diferentes experiencias y allí también la fábrica de desarrollo, me pasó que la gente formalizada los los requerimientos y el hecho de estar firmado no significa que eso sea.
+
+[01:40:39]
+y entonces ahí va ahí va el punto que como que vuelven a reforzar lo mismo vuelven a reforzar lo mismo sí formalizando, pero cuando tú te lees el libro de cómo nació scrum con eso sorprende porque nace también el Departamento de Defensa de Estados Unidos en el 86 scrum nacen en 86, no, no ahorita como la gente piensa y muestra que simplemente una gente rebelde, que dice a mí no me ha gustado comentar a mí lo que me gusta producir software y ella se empiezan a producir software de una manera diferente y scrum, ya sale a la luz en 93 y luego se reúnen el creador de Scrum el creador de cristal el creador de este programa en el 2001 entonces a mí me gusta contar la historia para que
+
+[01:41:39]
+Que la gente entienda que es una evolución.
+
+[01:41:42]
+Es una evolución de conocimiento cuando se creó era lo que se pensaba, pero ya ahorita está demostrado que es otra manera, pero lo que sí me parece fundamental. Es que en la práctica uno ve que la gente sigue enseñando cascada, porque es que primero enseñemos requerimientos. Entonces entrégame el documento de requerimientos y ahí pasan, no sé cuántas semanas luego enseño diseño de arquitectura y muéstrame el documento arquitectura y pasan no sé cuántas semanas de tal manera que las pruebas quedan al final de la materia como la última no hay que cambiar la manera como se como se enseña sí, entonces mis estudiantes entregan software desde la cuarta semana y lo vamos evolucionando.
+
+[01:42:42]
+Cierto, lo vamos complementando y así dentro de la práctica está manejo iterativo, así es como estoy haciendo ahorita no estoy diciendo que ya si sea de la manera como se debe hacer, pero creo que es mucho más coherente en términos de que lo que se está explicando es lo que se está haciendo en la materia listo. Muchas gracias muy interesante. Eso es la historia. Me parece muy además muy muy humano por decirlo, hay un libro que famoso que llamas es digno de confianza y lo que cuenta es como las metodologías nacieron de la industria de los automóviles.
+
+[01:43:21]
+Sí, entonces cascada nació por la Volkswagen por ejemplo no, que era compra el carro y ya cuando tenga problemas nos llama a ver qué hacemos y mejoramos, no y obviamente todas esas metodologías tienen una una historia y una trayectoria creo que es una manera suave interesante de contar la historia de lo que nos acabas tú de decir el horario. Bueno, el tiempo se nos fue sí y podríamos estar mucho más tiempo habrá más oportunidades de conversar con Dalia pues agradecer a Dalia y a nosotros también, porque este es un esfuerzo de de colegaje para para los demás colegas, la historia es muy interesante, es muy muy muy muy chistosa, la historia de los sapos, no? O sea, esa fue muy buena y me acordé aquella propaganda de Navidad que que el niño le dijo a la madre se acuerdan el niño, le dice la mamá de castor, no toda la noche haciendo un disfraz de castor.
+
+[01:44:21]
+Para el colegio en la madrugada sin dormir el niño comenzó a decir vamos castores, vamos, resulta que era ahora sino de castores de la historia tuya de los sapos y ese digamos. Buen humor en el proceso ha sido muy interesante como decía Rafa yo creo que cerramos porque toca cerrar legal y bueno, seguimos seguimos adelante con todo este proceso de Beatriz está por ahí. Muchas gracias, porque la yo de Beatriz ha sido fundamental ya sacó foto, no sé si la fotografía de la despedida.
+
+[01:45:21]
+Ya nos dices cuando usted la foto bueno, entonces muchas gracias a todos feliz tarde. Muchas gracias la opción. Además me gustaría mucho como poder este esta historia que les cuento esta manera pues como les digo pues esto termina una metodología creada propia como poderlo llevar a las diferentes partes a las diferentes universidades UNAM
+
+[01:46:21]
+Es que mira, vamos a proponer bien, vamos a proponer no están saliendo temas maravillosos y este es espectacular, además es presente también el final de juntar muchas muchos elementos muchos y la humano siempre no fantástico muy importante. Bueno Kevin gracias que Kevin también a veces nos invisibiliza tampoco hacemos nada. Hasta luego, muchas gracias.

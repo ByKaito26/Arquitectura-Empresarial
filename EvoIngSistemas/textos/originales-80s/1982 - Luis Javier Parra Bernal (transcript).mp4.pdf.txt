@@ -1,0 +1,365 @@
+[00:00]
+exacto perfecto, bueno, muy bien seguimos entonces con esta historia de la evolución de la ingeniería de sistemas que para repasar un poco vamos a ir desde el año 70 hasta la época actual con colegas que han sido pioneros en estos temas y que nos van a ayudar mucho a ver cómo ha sido el proceso en las épocas distintas de la ingeniería de la tecnología y el factor humano lo especialmente de cada uno en este aspecto hoy tenemos a Luis Javier Parra que es el actual presidente de Asís una persona muy conocida muy conocida en Ingeniería de Sistemas y vamos a tener la charla que hemos tenido similar a los otros a los otros colegas, vamos a hacer una parte antes de Luis Javier al Luis Javier no le vamos a pedir que
+
+[00:59]
+Porque se va a presentar durante una hora o más, pero en el grupo gestor estamos Edgar Ruiz que no está en estos momentos de las nacionales, la Tadeo y Rafael García del politeísmo, que sí está en este momento entonces yo le pediría a Rafa saludar a que nos conocemos, pero la grabación no nos conoce entonces para que como hemos hecho se conozca a quienes estamos no? Entonces Rafa adelante del grupo gestor. Muchísimas gracias Manuel Luis Javier bienvenido a este espacio que que hemos venido trabajando y promoviendo desde diferentes frentes y pues es un placer que se saca con nosotros mi nombre es Rafael García decano de la Facultad de Ingeniería de Sistemas de la facultad de ingeniería diseño de innovación de Politécnico gran colombiano.
+
+[01:59]
+Se va viendo en tu hoja de vida que nos comparte Manuel cuando tú te estabas graduando yo estaba empezando el pregrado en la Universidad de los Andes Ingeniero de Sistemas y Computación de unidades y bueno sobre todo entusiastas como todos nosotros como lo decíamos hace un rato de nuestra carrera de nuestra profesión y con muchas expectativas por escuchar tu versión de lo que ocurría en esos tiempos cuando cuando empezaste a estudiar y durante todo tu proceso.
+
+[02:34]
+Muchas gracias, gracias.
+
+[02:42]
+Un saludito es muy conocida obviamente.
+
+[02:48]
+Gracias Manuel bueno pues a ver, abrimos esta cámara y Beatriz Caicedo yo soy la directora ejecutiva de Asís tengo a Luis Javier pues muy de cerca porque Luis Javier es el presidente de la Asociación desde hace tres años larguitos y aquí súper contenta con este programa y esta actividad que vienen desarrollando puestos queridos miembros de redes Decanos o directores de programas cercanos con el liderazgo de Manuel desde así es importante siempre recordar que nos gusta apoyar este tipo de iniciativas y actividades de manera, que muchas gracias Luis Javier por estar con nosotros y al equipo pues por esa iniciativa tan interesante.
+
+[03:31]
+Muy bien, gracias, muchas gracias por invitarme.
+
+[03:34]
+Gracias Beatriz y Kevin nuestro practicante y webmaster saludo de siempre que le tocó saludar.
+
+[03:48]
+bueno
+
+[03:52]
+pues con Luis Javier hemos hablado un par de veces y es chévere, es como un como un diría yo como un estilo de vida de un profesional al que uno quisiera aspirar siendo tan pues en mi caso estudiante y y comenzando mi carrera profesional y ya, pero cuéntanos de que de qué universidad yo soy Ingeniero de Sistemas de la Universidad Jorge Tadeo Lozano estaba haciendo mis prácticas en así, ya llevo seis meses trabajando en Asís como lo decía en algún otro momento enamorado el proceso y nada aprovechando esos espacios porque son muy muy importante si y llenos de experiencia ustedes son
+
+[04:52]
+un un libro viviente de experiencia
+
+[04:57]
+seguramente todas estas charlas.
+
+[05:02]
+La generación que nos va a reemplazar no que no, o sea que ya que se preparando bueno Luis Javier un saludo obviamente para nosotros, tú eres una persona súper conocida y vamos a comenzar entonces comenzando lo primero es el análisis de la época en que estudiaste es decir enfocarse mucho en la persona la época del futuro hablamos ahora de tu colegio porque el comienzo no cuando entraste a la universidad comienza a contarnos, cómo fue esa historia tuya del inicio no se me adelantes mucho al futuro para ir avanzando en la conversación, no? Entonces arranca con el comienzo de tu estudio vamos a ver si la cronología me ayuda a no adelantarme tanto pero a groso modo puedo decir que digamos cuando la época en que inicie.
+
+[06:02]
+A entrar a la universidad en esa época había una serie de digamos prácticas para que le guiaban a uno la carrera de hacer unos exámenes psicotécnicos y todos esos temas yo salí del Liceo de Cervantes todo el tiempo estuve en el Liceo de Cervantes kinder primero toda la el bachillerato toda la Universidad todas el elemental y el bachillerato hasta entrar a la universidad y digamos que dentro de la vocación que yo sentía siempre me gustaba las matemáticas y la física siempre venía yo con ese con ese interés y básicamente la situación fue que cuando yo entré a la universidad, yo entré fue a Ingeniería Mecánica yo no, no conocía siquiera a pesar de que seguramente hablaban yo no conocía lo que era la ingeniería de sistemas.
+
+[07:02]
+En el primer semestre claro, la ventaja de entrar a una universidad que mezcla todas las ingenierías me mostraron lo que era la Ingeniería de Sistemas una amiga un amigo un amigo me a mí me interesó y me empecé a a a a a apasionar por el tema y tanto que fui a la como asistente a todas las clases de introducción de ingeniería sistemas que las estaban guiando en esa época Ernesto Lleras con un libro maravilloso que era un libro que nos permitía como entender y desarrollar problemas de toda índole entonces eso digamos que como era una formación tan matemática, me siguió apasionando y yo al otro semestre inmediatamente entré a solicitar doble doble titulación doble doble programa paralelo, porque a mí la mecánica siempre me gustó.
+
+[08:02]
+Le sigue gustando mucho por por el tema de física pues tanto que realmente en el curso de la del estudio de la Ingeniería de Sistemas yo mezclé mucho temas más allá de la de la física que exigía la ingeniería de mecánica, entonces tomé todas las ingenierías todas las físicas física, uno fincados cicatriz física 4 astrofísica física atómica y nuclear laboratorio física atómica y nuclear mejor dicho estuve casi 6 meses tomando temas de física para complementarlo de lo de ingeniería mecánica, pero la paralelamente el tema de sistemas que ahora pues uno entiende que es transversal todo lo lo inclusive me ayudó mucho ese concepto de sistemas a ser efectivo en mis estudios porque siempre estaba como analizando el tema de la información etcétera, entonces básicamente.
+
+[09:02]
+el tema de la del trabajo de estudio para mí nunca fue un trabajo siempre fue algo agradable algo en el cual lo disfrutaba muchísimo y en ese en esa época de la Universidad yo veía que los profesores principalmente de Ingeniería de Sistemas eran profesores muy muy versados que venían de otras universidades internacionales entonces típicamente encontramos profesores de Francia y profesores de Estados Unidos los que más se destacaban y los que más digamos cooperaban y contribuían a que uno aprendiera temas maravillosos entonces esa mezcla creo que que hizo en mí una una situación muy característica porque para el tema del grado
+
+[10:02]
+De las dos carreras e hice un trabajo de grado que era el primer proyecto que se hizo en la Universidad de los Andes no sé si en Colombia de diseño asistido por computador basado en tecnologías de gráficas que en esa época estaban incipientes el primer terminal de computación gráfica que llegó a la Universidad de los Andes fue utilizado para algunos proyectos varios entre esos, el que yo desarrollé de desarrollo del diseño gráfico de ejes mecánicos, cuál fue el año? Si el año que iniciaste cuál fue el año que entraste a la universidad yo me encargo del reverso, no te preocupes ok en qué año comenzaste yo yo me gradué en 1975 del colegio pero tuve un año de intercambio.
+
+[11:01]
+De intercambios aquí dentro de la universidad realmente en el 76 276 de acuerdo antes de hablar de digamos, vamos en el grado, pero echemos un reverb eran dos años iguales para las ingenierías en esa época le tocó eso cuatro semestres cuatro cinco un básico un básico un básico que lo debiste gozar porque era el matemáticas física y Humanidades en ese momento que había de en la universidad, qué computadora existía como era esa situación y tus compañeros también porque era muy nuevo todavía los sistemas.
+
+[11:55]
+Claro, claro, los sistemas sean totalmente nuevos estaba el IBM 360 en esa época que se programaba con tarjetas perforadas nos volvimos muy expertos en la mecanografía. Yo nunca tuve una sola, pero ahí aprendimos con las perforadoras Madrugá a poder hacer los paquetes de tarjetas para los programas ese computador IBM 360 que creo que fue con el que inició la carrera en los Andes esa parte no me la conozco bien, pero en 1972 según me cuentan algunos profesores. Fue cuando inició la carrera, o sea que nosotros empezamos como cuatro años, después entramos en el 76, o sea, yo creo que que había una había una promoción que se acaba de graduar con el 360, el 360 después lo cambiaron con un
+
+[12:55]
+Se cambió el centro de cómputo bueno, el progreso de la Universidad en todos sus aspectos se veía y el borus fue el siguiente computador un main frame, no me acuerdo ahorita exactamente el modelo, pero era un borroso que se había funcionando con con tarjetas, aunque después ya fue cambiado por terminales, entonces ya uno empezaba a ya eliminar el tema mecánico de la tarjeta por el tema de de registrar los las líneas del programa y el borde se programa en alcohol, por ejemplo, mientras que el IBM se programaba en assemble o se programaba confort muchas de las primeras tareas y trabajos que hicimos en el foro en el en el IBM 360 fueron hechos en Fortran y me acuerdo muchísimo.
+
+[13:55]
+una una un proyecto de de microcomputadores que dictaba Joaquín Oramas que en paz descanse gran profesor y compañero del colegio que nos pidió como proyecto de ese curso hacer un primero un ensamblador
+
+[14:15]
+basado en en un lenguaje que se llama Andes CVT
+
+[15:15]
+y el carburador y empezó a entenderlo, pero ya en este momento también los nuevos carros son totalmente una caja negra casi que no se sabe ni cómo funciona el carburador ni nada y cuando están los eléctricos y ya va a ser que menos esa interesante esa analogía porque pienso que el tema de
+
+[15:40]
+Del conocimiento estructurado de capas desde la detallada hasta la más abstracta es la que considera que considero que crea una buena capacidad de abstracción para la ingeniería de desarrollo de software y de programación, porque ese es una habilidad que se desarrollaba mucho con la parte matemática la abstracción cómo abstraer un problema y vivirlo cajas negras y eso que acaba de decir establece una un punto el de Borox porque el primero fue el 650 que era de tubos que era de museo no lo conocimos prácticamente en realidad el primer lo conocemos por allá en el guardado, no para arriba en la universidad que me acuerdo que que compila va y generaba el código ejecutar en tarjetas era terrible, ese no lo conocimos luego el 11 30 fue el primero después de eso antes del 360, pero lo que acabas de decir es interesante la evolución.
+
+[16:40]
+Porque ya en el borro el sistema operacional creo que se llamaba MCP y era en alcohol del lenguaje de máquina era el gol de alto nivel y que ya había terminales, digamos ese ese fue otro concepto. Entonces eso eso bueno, eso se puede orientando y hablaste también de profesores franceses y profesores norteamericanos, no? Y también fue una época nueva en la universidad, o sea que te tocó también esa época de los profesores franceses, no? Y se me olvidó a los alemanes porque bueno, dentro de los temas alemán en física está y que fue mi maestro en física que fue el Franz que murió en el laboratorio de física atómica. Él murió allá de un infarto en la misma universidad. Nosotros sea.
+
+[17:40]
+Con con Jorge Ortiz otro colega del sistema es muy muy brillante con él y él era alemán y es también nos nos presionó, digamos, nos dio para que utilizamos mucho la computación en todo lo que eran los trabajos de Física entonces Rafa quiere decir algo. Pues Luis Javier eso está buenísimo, pero me llama muchísimo la atención un asunto y me atrevo a preguntar lo que pena interrumpir que está buenísimo la narrativa. Estás estudiando en 1977 más o menos estás estudiando ingeniería mecánica y te gustan las matemáticas y la física.
+
+[18:30]
+y entonces por qué una un ingeniero en un estudiante de Ingeniería Mecánica
+
+[18:37]
+que le gustan las matemáticas y la física en lugar de decir lo que me pasó a mí, por ejemplo, estudio matemáticas también en lugar de de hacer un segundo programa con matemáticas o con física que le que le apasionaban dice oye me suena esto Ingeniería de Sistemas
+
+[18:56]
+Qué es lo que atrae a ese estudiante y ese prospecto de Ingeniero Mecánico hacia los sistemas y no hacia las matemáticas?
+
+[19:04]
+sí, Rafael esa pregunta es muy importante y uno se la hacía constantemente la yo dudé en si sería física o matemáticas o si me metían más bien, pero yo digamos, no lo dudé, lo pensé pero desde que entré a ese clase la primera clase que salí del de introducción a la Ingeniería de Sistemas dictada por Ernesto Lleras
+
+[19:28]
+Quedé enamorado del concepto que él estaba hablando de de lo que era entender problemas y buscar soluciones múltiples a problemas, eso era todo lo que él decía en ese momento y que con la ingeniería sistema uno podía abstraer fue algo que realmente dije por aquí es donde y no lo dudé, es más. Pues ya los que me conocen saben que después de haber terminado Ingeniería de Sistemas aunque he desempeñado temas de Ingeniería Mecánica proporcionalmente a mi dedicación profesional es menor yo diría que un 20% en mecánica y el resto del tiempo profesional dedicado a la al área de sistemas sin embargo, siempre trato de unir las dos cosas y y me ha gustado muchísimo ese tema porque es interesante entonces.
+
+[20:28]
+De tantas maneras reclamamos en Ingeniería de Sistemas en nuestra disciplina es que a ese muchacho también hubo un rol model alguien que lo sedujo entre sus profesores y le pareció el discurso tal que yo quiero esto para mí qué bien, gracias y bien, si bien desde Ernesto ya eras en ese en esa en esa clase, porque la introducción tenía una característica que vi en la coordinada un profesor, pero invitaba a muchos profesores de diferentes lados, entonces eso también fue maravilloso esa diversidad de opiniones, porque invitaron a personas de Ingeniería Eléctrica donde hablaban de cómo funcionaba el tema eléctrico, los transistores, la evolución de eso también me apasionó todo toda esa mezcla fue la que me me unió mucho a tomar la decisión de hacer las dos las dos cámaras.
+
+[21:28]
+En el programa mi bios de televisión que hicimos sobre los pioneros está Ernesto orientación, que yo creo que toca mucho con con Javier es sistemas y sociedad. Él es un hombre que habla de la sociedad y la influencia de todo esto en la sociedad y esto es importante porque en cada una de las charlas hemos tratado de mencionar esos profesores influyentes que siempre recordaremos cada uno tiene su modelo y bueno, vas en ese tema de que con Ernesto te ilusionaste con la Ingeniería de Sistemas entonces sigue relato dentro de la universidad, digamos asignaturas materias que que puedes decir de esas épocas soy un caso un poco atípico porque me tocaba tomar de las dos lados a pesar de que el ciclo básico era muy similar. Yo siempre me metía más hacer cosas desde sistemas entonces, por ejemplo, además del tema de la introducción que, que pues no.
+
+[22:28]
+pero la introducción de mecánica sirvió entré a mirar temas relacionados, por ejemplo con todo lo que era la lógica matemática, el tema de circuitos de Ingeniería Eléctrica lo que está dictado por por villano, pero no es Jorge Villalobos sino otro día lo ahorita no me acuerdo el nombre de él donde también un profesor extraordinario que que supo comunicar como estructura, cómo se estructuran los computadores físicamente entonces yo me metí en todas las posibilidades porque mi carrera formada ingeniería mecánica y la estaba siguiendo aquí en la letra y tomaba dos materias adicionales de sistemas como para adelantar hay una anécdota interesante que me gustaría contar, pues Olga Lucía Giraldo en esa época fue profesor la mía de
+
+[23:28]
+Era un tema de era era sobre temas sobre temas de de de software también y no pude ella ella me dijo que yo mientras no tenía, no fuera aprobada no hubiera probado las dos cosas al tiempo las dos carreras al tiempo no podía tomar el curso de ella entonces como que no y bueno, eso fue una anécdota que finalmente salió positivamente y me permitieron seguir entrando en esa clase y finalmente se formalizó esos créditos, entonces fueron situaciones y anécdotas personales interesantes de cuando en la universidad que tampoco está muy acostumbrada a tener un estudiante con dobles ahorita es muy común, pero en esa época no era tan común y había muchas reglas y cosas que se que se dificultaba entonces.
+
+[24:28]
+Un año más bueno bueno, sigue sigue adelante una una materia donde le enseñan a unos todo lo que implica la el análisis de grandes, volúmenes de datos se habla de Big Data verdad en esa época cuando uno veía esas esas algoritmos para poder calcular estadísticas y promedios ahí empezaron a visualizar el poder de la computación en ese tipo de cosas.
+
+[25:21]
+Eso fue algo maravilloso, me acuerdo mucho también de una materia que tomé con Klaus más le Ingeniería Eléctrica perdón con Klaus Mayer de ingeniería eléctrica que era computación analógica, entonces cuando se habla del origen de la computación todo el mundo habla de la computación medio digital, aunque todo viene realmente en cierta forma analógica donde se divide lo analógico de lo digital es simplemente un nivel arbitrario que uno le pone al nivel de voltaje y ya deja de ser analógico, pero el fondo de toda operación y ahorita estamos volviendo a eso nuevamente con la computación cuántica, la computación cuántica tiene ya no tiene los bits tiene los cubits y los cubits realmente son estados amplios múltiples estados entonces bueno, volvemos a esa historia de la computación anal.
+
+[26:21]
+Ese curso para mí también me marcó algo importantísimo y es entender todo el tema de compuertas lógicas para poder generar funciones y y eso se usaba mucho en los modelos que simulaban digamos procesos procesos de la de la naturaleza muy muy interesante, entonces eso fue otro otro otro otro curso valiosísimo para para una formación integral de lo que era la aplicación de la computación en la vida con cotidiana. Otro curso que tomé como totalmente opcional en unas vacaciones de un profesor alemán que ese sí se llama Claus Marchena él vino invitado por Sergio Fajardo que fue profesor mío de lógica, vino esas vacaciones a dictar un curso que se llama algoritmos probabilísticos.
+
+[27:22]
+Ese ese proceso de entender que hay algo que los algoritmos sí, en teoría computador siempre da una sola respuesta y debe ser esa y no otra, pero cuando entran conceptos de la probabilidad en la creación de los algoritmos, esto es algo increíble y vuelvo al tema de la computación cuántica en la computación cuántica, en este momento tiene ese concepto de que el resultado no es único pueden ser múltiples resultados y dependiendo de algunas funciones de valoración, se puede saber cuál es el el digamos el resultado más adecuado para resolver un problema, entonces ese fue otro otro curso que impactó muchísimo digamos mi interés por la por la computación y eso ha sido curso transcurso transcurso porque así como la introducción de sistemas me la me inicio cada semestre. Yo tenía algo que me me impulsaron me impulsaba más, por ejemplo.
+
+[28:22]
+Después cuando llegó Jorge Phillips de su posgrado de Stanford también fue un maestro para mí donde se mostró lo que era la verdadera computación por qué? Porque en la época que yo estudié había una cierta debate una cierta, digamos sí, como controversia de que la si la Universidad debía ser Ingeniería de Sistemas todo el tema de las cajas y no de computación o sistemas y computación o solo computación, esa era un en la época que yo estuve digamos en los últimos semestres hubo inclusive choques entre profesores que que abogan de que la Ingeniería de Sistemas de los Andes debería concentrarse exclusivamente en temas de de de de de de cajas de sistemas, o sea, lo que es entrada proceso y salida mientras que las demás la corriente.
+
+[29:22]
+No hay que profundizar es en cómo se hace el la caja blanca o sea que qué pones tú para que eso funcione de esa manera, o sea, el software y las estructuras, entonces esas ese dilema fue muy interesante para para la formación de la época y Jorge y Roberto Pardo eran yo creo que habían como dos corrientes, una la corriente de sistemas que venía un poco influenciada por la por los profesores de ingeniería industrial, que pues muy valioso obviamente, pero que querían o que decían que eso era lo más importante mientras que estaban los demás que decían eso importante, pero es más importante, cómo se hace el software, cómo se pone a funcionar ese esa caja negra y bueno, ahí ahí eso fue muy interesante mi posición actual.
+
+[30:22]
+Debe ser más el tema integrado entre la parte de computación y la parte de sistemas el concepto de sistemas es valiosísimo, pero si no sabes qué está pasando adentro también igual mira sin buscarlo, estás dando un punto importantísimo de la ingeniería saber porque tú sabes que este esta iniciativa nace de raíz, no la red de programas de Ingeniería de Sistemas que somos 100 universidades, que siempre estamos discutiendo hacia dónde va la ingeniería. Aquí está estableciendo una diferencia entre una gran preocupación hoy en día de la misma tecnología, o sea que nos llegan los temas que no llegan de tecnología se vuelven una preocupación como central de la formación y tú nos estás hablando de un momento en el conocimiento integral es lo que forma formaba parte de esa preparación como ingenieros habla de la física.
+
+[31:22]
+De la matemática habla de todo lo que nos has hablado sin que en ese se estuviera hablando de cuál es la tecnología, en sí que existía en el momento lo cual es muy valioso y aporta mucho a estas discusiones que tenemos nosotros porque hoy en día es un poco pragmático, digamos, no, el hecho de las tecnologías eso eso va muy bien adelante. Entonces Luis Javier vamos por muy buen camino. Me ha parecido muy muy valioso, que yo me acuerdo de las materias y sobre las materias hago una evolución. Mira, hay otra materia muy importante que tomamos que era sistemas expertos sistemas expertos y casi que en esa época lo que pasaba era que se identificaba la manera de hacer un problema o una o desarrollar un programa con el lenguaje entonces en estructuras de lenguajes y en herramientas de lengua.
+
+[32:22]
+Y lenguajes de programación del cual yo fui profesor después de graduarme generamos una digamos una clasificación unas características que permitían identificar los lenguajes según el tipo o el paradigma de programación entonces, por ejemplo ahorita se hablan de Inteligencia Artificial la inteligencia artificial maravilloso y se asocia mucho Python a la inteligencia artificial y pero fíjate que desde esa época Minsk en había creado list y yo tomé un curso de list que era donde se veían todos esos conceptos de como el autoaprendizaje que podía llegar a crear un programa a sí mismo y crear un programa que generará otro programa de él eso eso se estaba viendo desde esa época y pues digamos que no evolucionó tan rápidamente, pero hay unos conceptos muy básicos ahí lo mismo.
+
+[33:22]
+los sistemas expertos los sistemas expertos que eran en esa época eran desarrollados con Prolog que era otro lenguaje que era programación lógica y qué qué pasaba se estaban eran reglas y los programas empezaron a aplicar las reglas según ciertos conceptos que eso es también como la primera parte de una evolución hacia la hacia la lo que hoy se denomina inteligencia artificial que bueno eso habría mucho que hablar al tema pero esos dos programas esos dos digamos cursos que tomé en cuanto a esos tipos de lenguajes fueron muy muy valiosos en la misma estructuración de los lenguajes que Abstral y todos los demás también crean otra paradigma de desarrollo me acuerdo que Jorge Philips nos metió en un grupo que se llama
+
+[34:21]
+Y que permitía crear una serie de de soluciones a problemas, que podríamos decir que eran de inteligencia artificial de esa época entonces también una cosa que quiero dejar es que si bien en este momento muchas personas hablamos de de cosas y se vuelven como modas o forma de decir desde esa época en que nosotros estudiamos estaban estaban o incipientes o están en diferentes estados de devolución, pero las bases del conocimiento ya estaban formándose en ese momento como los que acabo de decir de Ford de todos esos lenguajes que eran las bases para lo que después se derivó en otras cosas, pero aún más el tema en física de lo que era la identificación por radiofrecuencia, el RSA Haití radiofrecuencia que fue después la base de todo el desarrollo.
+
+[35:21]
+De las cosas eso ya se estaba viendo por lo menos en eléctrica se veía en ese tipo de conceptos de cómo podías tú identificar y el desarrollo de Bluetooth y todo eso venía ya estructurado con los conceptos de de las redes, otro tema vital que nos vivimos nosotros fue el desarrollo de Internet porque el desarrollo de Internet sí que lo vivimos nosotros desde el main, frame al computador personal y a la red al internet, eso fue justo en en ese spande tiempo donde nosotros estudiamos y en los primeros semestres después de graduados donde precisamente con el Politécnico gran colombiano. Yo le des ayudé a desarrollar el el currículum para el manejo de un programa de Telemática donde la base era cómo entender la creación de las redes de computador.
+
+[36:21]
+Cómo se comunicaban los computadores que era un módem como eran los diferentes niveles de las capas de comunicación la capa física la capa bueno el modelo de capas de redes que después fue básico del cual tuvimos profesores excelentes entre ellos Roberto Pardo entre ellos una persona eléctrica ahorita Fajardo que no me acuerdo ahorita el nombre no es no es Sergio Sergio fue por el sonido de lógica y Margarita Meza fue profesora mía de álgebra lineal de Ángel abstracta, perdón por Sergio Fajardo entonces digamos todos esos conceptos de matemáticas se evolucionaron muy bien y eran la base para para la creación de de todos estos nuevos conceptos en ese momento los compañeros te acuerdas más o menos.
+
+[37:21]
+Compañeros tenía de estudio en épocas que tienen números más o menos preciso y 40 y pico de personas finalmente en el 82. Bueno, realmente terminé en el 81 diciembre y me grabé en el 82 de febrero, éramos 40 y pico y luego en septiembre de ese mismo año del 82 me gradué de sistemas con 40 y pico también éramos como con ingeniería y recuerdas recuerdas más o menos, cuántos compañeros tenías en esos primeros semestres porque se gradúan digamos, cuarenta y tantos ingenieros de sistemas, pero pero cuántos habían empezado más o menos cuando cuando tú ibas de asistente a esos cursos por el curso de introducción, yo creo que era casi el doble, o sea, básicamente en los cursos de introducción que habían varias secciones.
+
+[38:21]
+Había por lo menos dos o tres secciones de 30 o dos de 40 o 3 de 30 más o menos entre 80 y más o menos de los que ingresamos en esa época, si mal no está mi memoria, pero no la época anterior la época nuestra del 72 éramos 10 10 que comenzamos y 10 que terminamos sí era un poco raro, no años 72 digamos, pero ya 80 ya ya la ingeniería comenzaba a verse y tal vez para establecer una línea de tiempo año 82, que te graduaste en el en el los siempre han existido pero pero su auge está terminando al final antes de 79 78 en el 80 llegaron los microcomputadores y de vuelta en ese año y ya en el 82 había redes locales y ciertas cosas de tecnología cierto, ya había avanzado un poco eso, no y segu.
+
+[39:21]
+Lo has dicho perfectamente entre el 76 y el 82 pasaron demasiadas cosas. Bueno, la verdad en dos años pasan peor, pero no, no, en cada una semana en una semana pasada me acuerdo perfectamente de ti Manuel cuando tú representaba radio Chac y vendíamos y vendía los los yo iba y hicimos algún proyecto, eso fue tal vez recién graduado, pero pero o estaba yo todavía en los últimos semestres ya estaba entrando los microcomputadores, me acuerdo de echar perfectamente con sus disquetes de 8 pulgadas se inició la época.
+
+[40:21]
+Sí, yo la época de programación lo que te contaba para la para la tesis que fue el primer terminal gráfico de Hewlet Packard un terminal gráfico.
+
+[40:34]
+Que que estaba ahí imagínate que ese no tenía disquetes todos los archivos se graban en unas cintas, entonces nada, dan una hora de trabajo máximo porque ese era lo más usado todo el mundo quería usarlo ver cómo se salían las gráficas y tenía una hora de la cual. Yo me gastaba casi 10 minutos cargando el programa memoria o cinco minutos y 5 minutos para grabar lo que había hecho ahí por ahí tengo todas las cintas, que eso ya no sirve para nada porque pues imagínate yo me pongo a pensar con un terminal de 32 k de memoria, se hizo lo que se dice es algo impresionante realmente viendo lo que lo que hoy hay.
+
+[41:30]
+así así era yo estaba programando con Iván Obregón salino software de asignación del tripulantes a los vuelos de branniff, vía, satélite año 79 y había comprado un micro Iván dijo que es eso y se llama micro, no sí, y dijo como este dato es de algoritmo, no de grandes datos hagámoslo en el micro y programamos el sistema en el micro en BASIC sí, con una cosa realmente primitiva y ahí fue donde comenzó el interés en el caso amigo de los micros porque en el 80 comenzamos con digamos esa época 80 comienzan los micros con software es muy importante que todos hemos integrado alrededor, no de la venta del hack, sino del software y de la tecnología y bueno, va a ser esa época donde ya, ya había micros en los Andes obviamente en el año 81 82 ya está por todo eso también me acuerdo de de quien lo representaba aquí una ventaja que llamaba CDM comercializadora manzanas dirigida por
+
+[42:30]
+Bueno, muy interesante todo este tema, me has hecho acordar con cuando hablamos de BASIC de un tema importante que tiene que ver también con la influencia, que yo tengo de parte de mi mamá de mi madre, que es ella, es artista ella ella es diseñadora textil todavía vive cumplió 90 años hace poco y en la época en que yo me estaba graduando tomé un curso con cyber Hernández de computación gráfica. Él acababa de llegar de y dio un curso el que yo estaba esperando que llegara quedas de computación gráfica antes de mi graduación y eso me llevó a muchas cosas entre esos a escribir en BASIC un primer programa de diseño textil que tú le das los parámetros de qué tanto era la trama y la urdimbre los colores los
+
+[43:30]
+gruesos y el tejía sobre la pantalla despacito no porque era un look y iba como tejiendo toda toda y llenaba la pantalla de cómo se vería una tela con esas características de trama y urdimbre y eso lo presentó mi mamá yo con mi mamá en una en una conferencia que ella hizo en la Cámara de Comercio
+
+[43:54]
+hace rato por ahí debe haber algún artículo del tiempo de 1982 sobre ese tema me gusta mucho tu anécdota y perdón por meterme porque es que ese programa exactamente ese yo lo utilice para una para un trabajo que hice justamente cuando era estudiante porque él quería una pregunta que tenía Tiberio era dado que esas telas que se pintaban de esa manera, pues la tela tiene dirección entonces, cómo se debería cortar una tela de esas para hacer diseños entonces yo hice un programa que era dada la la tela, eso lo hice en pascal, la tela diseñada por tu programa no sabía que era tuyo, no, no, no, no ese fue un un primer programa pionero de lo que después se Tiberio desarrolló que se llamaba IX
+
+[44:54]
+Lidia y el esposo que en paz descanse también hicieron una empresa y desarrollaban software y ellos con base en lo que yo les mostré, que yo había hecho por puro hobby porque eso nunca se hizo nada en BASIC ellos desarrollaron el dixel pero de pronto no, entonces no era el mismo pero pero yo recuerdo que que la entrada para ese para ese proyecto que yo hice también no era ni de ninguna materia ni nada parecido era justamente un programa en Pascal perdón en BASIC que pintaba de esa manera y después yo le añadí una parte que uno le le leía los moldes y decía cómo había que cortar para desperdiciar la menor cantidad de esa.
+
+[45:54]
+Y respetando las respetando ese urdimbre que me acuerdo perfectamente un hito en esa época con José Tiberio tuvimos o hemos tenido un muy buen acercamiento este y él también me me enamoró de la computación gráfica tanto que después de que me gradué. Bueno, no sé si ya entramos, nos graduamos o seguimos hablando en la universidad, no? Ya te vas a ir graduando, pero acá le tocaron juntos, pero acá dentro en un punto vital que es la parte de computación gráfica, que es uno de tus grandes temas ya como profesional, o sea que vas por el camino, dale con lo que estás hablando y tal vez Rafa quería decir algo. Sí, yo quería ser solamente una una pregunta antes de que te gradúes porque siempre nosotros en estos espacios y por la disciplina hablamos de que estudiábamos que materias veíamos que vínculos allá con otras cosas.
+
+[46:54]
+Pero esos estudiantes.
+
+[46:56]
+Esos estudiantes qué otras cosas hacían claro, cómo era la rumba? Cómo era el cómo era la vida universitaria en ese momento que eso afectaba directamente ese desarrollo de la ingeniería, éramos había muchas mujeres en ingeniería, éramos considerados bichos raros de alguna manera o no, cómo te fue con eso? Cómo cómo era esa vida universitaria para mí la red social de la universidad estaba en lo que se llamaba los perros el carrito de perros ahí era la red social ahí uno se encontró todos los amigos y amigas y ahora que lo menciona si había pocas personas pocas mujeres en ingenierías en general en Ingeniería Mecánica me acuerdo dos Dora Turk bueno había un mal. Me acuerdo dos principalmente que eran muy muy sobresalientes, pero digamos.
+
+[47:56]
+Una poquitita las de Ingeniería Mecánica habría más en Ingeniería de Sistemas de por sí mis mejores amigos y colegas son mujeres de por sí Marta Elena Vargas con la que desarrollamos después el programa que seguramente voy a tener que mencionar porque tiene que ver con la parte gráfica y socia mía de una empresa que arrancamos que se llamaba progresión Sara Cristina mantilla, que también trabajó Carolina Rubio que también trabajó en esa empresa y y éramos mujeres que que hombres y en los perros digamos la rumba era como la misma que yo no tenía cuando se graba con todo el colegio que la fiesta aquí que yo nunca he sido muy rumbero, la verdad me encanta socializar y todo pero me gusta más las reuniones pequeñas que que esas multitudinarias pero sí hicimos muy buenos amigos y amigas.
+
+[48:56]
+en la Universidad de forma que se trabajó bastante pues para algo personal yo durante la universidad tuve solo una novia que estuve a punto de casarme con ella también Ingeniería de Sistemas Ana María lamos que que fue mi primera novia de Casillas del colegio entonces, pues por eso también estaba muy enfocado más bien como como estar con con el grupo de ella y el mío de compañeros de colegio inclusive menos de la Universidad
+
+[49:27]
+Muy bien, bueno, entonces vamos por el interés de la computación gráfica que estás comenzando que es un gran camino no dale dale porque ya vamos para el grado, no? Ya me gradué, ya te grabaste, se me ocurre algo si me acuerdo algo muy interesante, entonces mira, ahí había una pregunta que que decía bueno y cuáles fueron su primer trabajo y todo eso realmente antes de graduarme tuve una experiencia en ingeniería de sistemas muy muy enriquecedora con el Instituto ser de investigación dirigido por Eduardo Aldana que fue la creación de un banco de datos para el Ministerio de Agricultura ese ese proyecto también trabajamos con
+
+[50:27]
+con Jorge Philips y con Roberto Pardo trabajamos haciendo el proyecto y le hicimos el primer graficador sobre un terminal alfanumérico que ponía y pintaba sobre gráficas la altura de las cosechas que se habían hecho en cada departamento, por ejemplo si fuera con el tamaño o en cada fecha en cada año y con el tamaño un proyecto interesantísimo, yo trabajé en el módulo del desarrollo de gráfico con Roberto es un proyecto grande un proyecto que que el Instituto ser se le entregó al Ministerio de Agricultura yo estaba estudiando todavía y ahí estaba Ana María Lamus Marcela Cárdenas estaba Iván Laguado estaba Gabriel Arias varios que trabajamos y
+
+[51:27]
+hay cosas mucho también porque íbamos a trabajar y el Instituto sea en esa época quedaron de hoy queda el con subsidio el teatro con subsidio ahí en uno entonces bajábamos y ahí tomamos 11 pasamos muy contentos ahí entre trabajo y
+
+[51:46]
+y relación entonces ese fue como el primer punto antes de graduarme queda trabajo porque era un era para para pues nos pagaban como como estudiantes luego el primer trabajo formal donde firmé contrato laboral fue con tomas de la tomas de la Ruth en esa época y creo que todavía sigue siendo dueños los los bautistas Fernando Bautista y el otro hermano que ahorita no me acuerdo el nombre ellos tenían la representación de de Tomas De la Rúa acá en Colombia y tenían un contrato con el banco de la república muy interesante que era fuera del transporte de valores por la cual se se ha distinguido tomas de largo, tenían una importación de una máquina inglesas que
+
+[52:46]
+Los billetes y detectaban si el billete era falso, si el billete estaba dañado roto era un robot, básicamente yo tengo unas fotos ahí también se ponían los fajos de billete los clasificaba y sacaba en siete en tres bolsillos y al final se acaba los que estaban dañados los que se veían supuestamente falsos y los que estaban sucios y por último saca los que sí podían reciclar. Eso era un proceso era un computador Texas Instrument 990 y yo fui contratado como ingeniero asistente del del ingeniero de de mantenimiento de la máquina, esta máquina nos llamaban de golpe a las 11 de la noche nos decían la máquina falló. Venga para acá, entonces vamos para allá y llegábamos y teníamos que entender que era lo que pasaba, claro.
+
+[53:46]
+En una máquina muy sofisticada muy compleja tenía microprocesadores en k, tenemos cilindros y cada uno de esos cilindros estaba pasando los los billetes era una mezcla de mecánica electrónica y sistemas todo completo ahí metido perfecto ese fue mi primer trabajo que me pues para mí era perfecto y yo voy a seguir ahí de no sé por qué dos cosas yo me había ganado una beca para ir a estudiar a Stanford u otra beca para ir a estudiar a Grenoble con la Embajada de Francia y y no fui a ninguna de las dos.
+
+[54:23]
+Porque tomé la decisión consciente y no me arrepiento de trabajar con Jorge Philips en la creación de la empresa Mikel que seguramente tiene que aparecer por ahí en algún punto de la historia, porque mi Creel venía que el nombre de Miquel significa microelectrónica Jorge es electrónico su base es electrónica, pero él es un maestro de software y unido con Roberto Pardo Ernesto Murillo bueno, nosotros éramos otra generación, pero también estábamos ahí y era gente muy muy brillante como Gabriel Arias como bueno, ahí había muchas personas y van la guau, estuvo ahí también creamos muchos proyectos interesantísimos y entonces yo la acepté a a Jorge Jorge fue el gestor de la empresa que que yo voy a trabajar.
+
+[55:23]
+Pero no, no lo hice y hice un postgrado fue aquí trabajando en emprendimientos ese fue el primero esa empresa fue financiada por por Salomón y estaba formada. Trabajaba en un sitio en la zona industrial en la Calle 13 en las bodegas de Ester Bruc y quien nos servía como diría yo de mentor de la emprendimiento era Ignacio villavesas.
+
+[56:23]
+Hacer digamos telas por computador dibujando las en BASIC eso es una cosa maravillosa y lindísima, pero si eso no se vende o no sirve para algo, entonces ahí fue un una parte de mi carrera muy importante, pero ya con un mentor como Ignacio y a veces hermano de Francisco Villa a veces, que también estaba ahí y de el presidente de de Banco de Colombia ahorita el otro hermano no, no me acuerdo ahorita el nombre. Eso fue una época muy interesante y y me quedé trabajando en eso luego apoyamos. Luego Jorge nombrado secretario informática de la presidencia de de Belisario Betancourt y ahí también trabaja trabajé apoyé como consultor en varios proyectos. Bueno, ahí ya la historia es demasiada se multiplica mucho porque porque se trabajó en muchos aspectos.
+
+[57:23]
+Uno antes de entrar a trabajar con con Mikel yo formé. Ah, no después de que de que Jorge aceptó la la presidencia la el cargo de secretario de informática secretario informático de la presidencia de Belisario Mikel se acabó por qué él era el gestor y y básicamente ahí se dividió Roberto dijo yo me voy y se asoció con Jordan con Fernando Fernando
+
+[58:14]
+Julio es el centro después con Marta Elena Vargas empezamos a trabajar Julio César a trabajar un proyecto varios para de desarrollo de software para los sectores de la floricultura de la Bolsa de Valores de los corredores de bolsa de bueno hay una serie de proyectos de software que se desarrollan en esa época, pero el más interesante fue uno en el cual nos llevó el fonai había un trabajo que nos conocía Sanabria no me acuerdo ahorita el nombre de él que era el director del hermano de la negra Sanabria que estudian los Andes también y nos conocía o nos alguien, nos refirió y terminamos haciendo un sistema de información para un proyecto que era el proyecto de la recuperación de los centros de las ciudades del país y que era encajada en lo que me gustaba era que querían un sistema de información gráfico.
+
+[59:14]
+Entonces hicimos el yo diría, no sé si el primero ahí no, no sabría la la cronología, pero el un sistema de información geográfico que se llama el sí sistema de información urbana donde empezamos a dibujar con el GKS el sistema que estaba surgiendo en esa época, el primer programa que dibujaba mapas de ciudad y con con información temática Julio César por el otro lado también fue contratado en el Fonade y estaba desarrollando algo parecido y ahí fue cuando decimos unimos para formar progresión, después desarrollamos otro otro programa muy interesante que se llama el sisu sistema de información de servicios urbanos que era con la red de redes de servicio público ahí unimos dos.
+
+[01:00:14]
+La tecnología raster que era toda la información que teníamos disponible de las ciudades por medio de de fotografías, aéreas o fotografías satelitales con la tecnología vectorial y unimos esa parte antes de desarrollar cromado probarlo desarrollamos después en progresión y eso fue pues un trabajo maravilloso trabajo que nos dio mucha satisfacción hasta que ya no lo pudimos mantener no, no tuvimos en esa época realmente la inversión necesaria para poder continuar ese proyecto, pero trabajamos con la Empresa de Acueducto y alcantarilla de Bogotá y todas las redes de acueducto y alcantarillado Bogotá de la época fueron digitalizadas por primera vez con mesas digitalizadoras eso ya es de museos y ya no existe mesas digitalizadoras me acuerdo la dibujante que la entrenamos.
+
+[01:01:14]
+porque eran ellos dibujaban a mano y las entrenamos para cómo dibujar sobre la mesa y que el dibujo pasara y cómo los convencimos de que eso no decía quitar el trabajo y todo y eso fue una cosa Inés Varela se llamaba ella la directora del grupo de dibujantes y estaba también Triana
+
+[01:01:36]
+los nombres a mí se metían a veces, pero él dirigió el proyecto y y fue un éxito en lo que fue todo el tema en la empresa acueducto compromiso muchas cosas, por ejemplo mapas temáticos de la violencia del país hicimos el mapa del dragado de la de la del de las Bocas de Ceniza desde el río Magdalena ese proyecto sí que fue interesante porque fue la primera vez que integramos dos sensores un sensor de de de profundidad una ecosonda y un sexo un giróscopo que que genera y lo metimos al programa para poder ver por dónde era la ruta la ruta de la draga y calcular las cantidades de material que podría
+
+[01:02:36]
+fue un proyecto espectacular porque unimos electrónica con con software de hoy se habla mucho de ciudades inteligentes y demás y fíjate que que era un tema que no habías tocado de aquellos que tienen orígenes en estos tiempos y hoy son son boom, igual que la inteligencia artificial y demás pero pero fíjate que los orígenes están en esos momentos es otro tema que también se origina en esa época y darle énfasis a lo que dice Javier lo dijo hace rato como el 360 y todo esa época marcó el inicio de mucha tecnología que hoy día es el estado del arte no eso eso no se conoce mucho, pero eso es un poco la historia hay un tema hay un tema que marcó un hito grande y Belisario Betancourt cerró las importaciones en Colombia
+
+[01:03:36]
+Y todos los que estábamos trabajando en importación de equipos de alguna manera que hacíamos de la software, tuvimos que hacer una variante hacia el software, porque el hardware se volvió difícil para algunos las grandes empresas podían podían había que exportar para poder importar, eso fue con Belisario la época de hablaste de Jorge Philips no y la Secretaría informática que creó Belisario ese fue un hito importante, eso puede cerca de los 80s más o menos que a finales de los 80 y valga la pena que eso fue lo que hizo que después se fundara intu y hoy día porque muchos la variante fue bueno, no podemos tener aquí algunos no, que éramos profesionales de sistemas, pero hagamos software y eso marca marco un hito de esos medio invisibles en su momento que tú acabas de mencionar y el tema y el tema de de mapas y de esto para que la gente sepa.
+
+[01:04:36]
+que que pues el presidente eres tú Luis Javier tenemos un grupo de Geomática no dónde estamos hablando de raster y de vectorial y de satélites y de drones y realmente ese ser pioneros en ese tema, pues ha sido muy importante para lo que hoy en día ese tema no estamos hablando hace casi 40 años cuando se hizo el Proma cuando estaban manejando imágenes satelitales de lanza que nos
+
+[01:05:11]
+Para poder analizar los cultivos hicimos muchas cosas maravillosas impresionantes, eso era una cosa cada día y nos transmitamos haciendo las cosas no eran otras épocas y claro, vivimos nos ganamos nuestro pan de cada día como dice el Padre Nuestro muy bien ganado y estuvo súper bien esa época fue maravillosa. A mí me recuerdo con mucho cariño y con mucha digamos proyección que te podía haber hecho con con ese tipo de tecnologías. Bueno, ahí faltaron temas de gobierno pienso yo, porque si eso mismo hubiera pasado ahorita con los emprendimientos estoy cada vez seguro que un pro map no, porque lo haya hecho yo, sino o alguno equivalente hubiera podido llegar a ser uno de esos los Rapids de esta época habrían sido si hubiera habido en esa época los mentores hubiera habido los inversionistas de riesgo.
+
+[01:06:11]
+Y hubiera habido un ecosistema más interesante para desarrollar las empresas de tecnología, pero tú mencionaste una cosa muy interesante Manuel y es los gremios en los gremios también hay algo muy importante que que hablar porque tú dices fue digamos que empezó a defender la la creación de los derechos de autor de los que creaban software, pero también había se había atomizado la en esa época hubo había otras dos asociaciones una de acción que era la Asociación Colombiana de investigación operacional pretendía reunir a los ingenieros de sistemas y y estaba ahí estaba y había otra más que ahorita se me escapa el nombre.
+
+[01:07:11]
+Que en esa época se llamó fedecol, se fusionó de esas tres empresas de esas tres agremiaciones y finalmente el centro de apropiación de las Tecnologías de la Información Katy que fue para financiar para financiar desarrollos, pero eso no no no no, no, no duró mucho y y eso es lo que ahora es el centro investigaciones de software como semi caña entonces ese, pero pero la primera que se desarrolló en ese tema con conciencia fue Katy centro de la apropiación de la tecnología de la información se trabajó en esa época.
+
+[01:08:11]
+Pues yo también estuve como cofundador de defensas, éramos cinco empresas asumimos a la que nos unimos como como firmantes de esa de esa escritura que por ahí estará, que estaba open estaba sigo estaba como el el líder de esa época y estaban progresión que éramos nosotros entonces de lógica trabajaba con muchas clases de estas que por las importaciones nos dedicamos solo al software y curiosamente esas casas de lógica, era era mi software y comercializar de terceros. Eran todos enemigos familia, no se veía el competidor como enemigo, no, pero
+
+[01:09:11]
+Amigo de todos y un día invite a un almuerzo en lógica a todos no, que cuando llegaron todos sintieron que yo les había hecho trampa porque estaba el que el equipo del negocio, el que no sé qué, pero comenzó algo muy importante en la mesa en la mesa del almuerzo. Oye, los dos estudiamos juntos, le decía el uno al otro cierto los dos éramos amigos, no? Y como dije yo en alguna entrevista es muy difícil que la gente hace software, se llama la persona porque es que no hay tiempo entonces sí y ahí comenzaron a generarse unas amistades donde ya eran amigos, no que perdieron el negocio era otra cosa y para protegernos de la piratería se creó en tu shop que fue cae tal vez uno de los elementos fuertes y después vino la idea de ustedes de exportar software, hasta hicieron una misión a la India en esa época estaba también Víctor duque excelente de la IBM trazando lo que lo que es hoy, pero que si no está saliendo en la historia de todas maneras en estas historias, no correcto.
+
+[01:10:11]
+Formalización de la industria de software es algo vital para cualquier país y y yo pienso que que la labor que ha hecho Fede soft es excelente y sin entrar ahora en lo de Asís porque así también es muy importante que ahí sí que tiene mucha más historia que de eso y que reúne a todos los profesionales individuos que han trabajado y han aportado para la para la informática del país entonces así es hay que defenderlo a como dé lugar y tenemos que ir trabajando muy fuertemente para que tenga una proyección más allá de lo que hemos logrado hasta el momento la alianza con redes me parece vital ojalá que mantengamos siempre una cooperación muy importante.
+
+[01:11:11]
+Y una una colaboración para que eso se logre y y así se ha evolucionado muchísimo. Yo estuve en Asís primero como vocal de una junta directiva ya ni me acuerdo cuando Beatriz tiene esa fecha, pero yo no me acuerdo vocal. Luego fui tesorero y en varias oportunidades y recientemente acepté la responsabilidad de de ser presidente y nos tocó la pandemia fue bastante complejo la situación en esa época y bueno, seguimos y reconocerlo, seguimos buscando la manera de que así tenga una autonomía una una forma de estar generando y sea genere autosuficiencia porque nos toca muy duro para para mantener la paz es la labor de de Beatriz que es.
+
+[01:12:11]
+Histórica desde que se fundó prácticamente así y es los fundadores de de Asís Alfredo amore Diego Escobar bueno una cantidad yo se me escapan seguramente muchos nombres de los que arrancaron así entonces ahí hay una historia que hay que manejar y ahí yo un mensaje muy interesante y es unir el país alrededor de una gremion por qué? Porque también pasa lo que pasaba cuando se formó había cuatro tres asociaciones que querían hacer lo mismo pero nadie hacía nada entonces logramos unirnos listo y el objetivo era la Federación de la industria. Ahora tenemos una una un vehículo que llama cita asociación Colombiana y le cambiamos el nombre recientemente para incluir más personas más más.
+
+[01:13:11]
+Digamos disciplinas que tienen que ver con la con la informática y con la computación entonces Asociación Colombiana de informática, sistemas y tecnologías afines para quitarle el nombre que solo fuera de Ingeniería de Sistemas y Computación entonces ese nombre ya se se universaliza y yo sí quisiera lanzar, si hacia alguna vez esto se publica un llamado a todas las asociaciones regionales de Medellín de Cali que quieran que se unan a a esta causa y que creamos. Creemos una sola agremiación de ingenieros de múltiples disciplinas que estemos apasionados por la aplicación de las tecnologías en beneficio de la sociedad del país. Entonces está muy bien como estamos hablando de la evolución de la Ingeniería de Sistemas valga la pena decir esto la tecnología ya no es de los ingenieros.
+
+[01:14:11]
+Ecosistemas la tecnología de la sociedad es del taxista, es del abogado, es del pie del estudiante, es de la sociedad, no? Y para los que nos van a oír en esta charla Reis que es la red de programas de Ingeniería y Sistemas somos en universidades a raíz de raíz se crearon la red de todas las ingenierías Ingeniería Industrial Ingeniería americana mecatrónica etc son 8 redes y todas giran alrededor de la tecnología de tal manera, que así se va a tener que convocar a esos ocho presidentes que tenemos un grupo llamado rey de redes, porque el blog civil está manejando todo ese software, para generar impresionante que existe hoy en decir cada una de las ingenierías, entonces así es un puntal muy importante ha sido y será para para el futuro muy bien, haberlo mencionado. Bueno, yo creo que sea una y triple colombiana que sea una ACM colombiana pero
+
+[01:15:11]
+De todo el país porque si nos dividimos te pasa lo que te pasó a ti cuando invitaste a tus amigos cada aquí no estamos compitiendo cada hay que buscar es la sinergia de cada una de esas asociaciones de cada uno para tener más sólido toda la vida ante el Gobierno también porque si estamos fraccionados el gobierno, claro, claro, la experiencia de rey de haber creado la red nacional no Rafa Freddy nació solo en Bogotá hoy en día en todo el país y realmente si se puede trabajar y quitar el fantasma del centralismo, no, si no es una cosa global de la profesión, eso es importante, estamos sobre el tiempo más o menos como decía Rafa al principio aquí podíamos durar todo el semestre hablando de esto y seguramente habrá fase 2 o no lo sabemos, pero pero verdaderamente Luis Javier agradecerte, porque es que reúnes una generación cierto.
+
+[01:16:11]
+Hay que ver esa generación tuya como como creo cosas novedosas para el futuro no y ya se va pensando desde el comienzo que era hoy un computador la programación en fortalt todo esto y luego comienza a darse más conocimiento como no la inteligencia artificial que en esa época se estaba trabajando con Prolog y todo eso que mencionaste eso suma mucho. Esto lo van a oír seguramente estudiantes esto por ahora vamos a recopilar todo esto y en algún momento publicaremos estas conversaciones, no pues es algo que queremos enseñando en el proceso, no sé si Rafa quiere comentar algo como para ir cerrando y luego le damos la palabra otra vez a Luis Javier Sandra también ya está con nosotros desde hace un buen rato fantasmita y ahí la vemos.
+
+[01:16:59]
+hola Sandra
+
+[01:17:01]
+Muy buenas tardes un placer haber escuchado esta retórica cerca de la ingeniería en Colombia desde las personas que hicieron parte de ese desarrollo de tecnología en nuestro país y que si quisiera hacer una pregunta manual y está relacionada con porque es que durante la entrevista nos hacían paralelo muy interesante entre la tecnología que estaba en la época de los 80 y la tecnología parte de esa tecnología que se desarrolló y se usa actualmente y me gustó mucho el aporte y la motivación que en esa época brindaban los docentes y los empresarios o los gestores de tecnología entonces de pronto hacer énfasis en cuáles eran esas características que llevaron a motivar a esos jóvenes de los años 80 a desarrollar empresa a utilizar la tecnología a crear.
+
+[01:18:01]
+Desarrollo para el país, si de pronto nos nos pudiera hablar un poquito sobre eso.
+
+[01:18:07]
+Preséntate, perdona que lo diga de esa manera para que te identifique no te vemos bien en la pantalla en la cámara tenemos oscuro oscuro oscuro oscuro y estamos de día quién sabe si es aquí la donde está el modo de efecto, será coméntale tu rol en la Nacional lo que estás para que les advierte identifique mejor, aunque él te conoce.
+
+[01:18:40]
+sí, mi nombre es Sandra Liliana Rojas Martínez Ingeniera de Sistemas de la Universidad Nacional de Colombia profesora del Departamento de Ingeniería de Sistemas de industrial actualmente pues trabajo mucho con con los jóvenes para promover el desarrollo de la programación de computadores a nivel de la Universidad en las sedes y a nivel de del país con el Ministerio de Tecnologías de Información y Comunicaciones y pues apoyarlo a Manuel en rey y a Rafa con esta labor que que han desarrollado desde hace muchos años de impulsar la ingeniería de sistemas en Colombia
+
+[01:19:18]
+Esa pregunta de Sandra en tu época esa de estar presa y todo si quieres comentar algo como para resumir sí, yo resumiría el hecho de que el país en general siempre se ha preocupado para crear empresas, pues creo que es algo importante y esa es como como un ADN que viene en algunas personas, no perdón, no iré al país el país ha tratado de fomentar la creación de empresas en muchos momentos sin embargo, el caso de la tecnología creo que el momento más importante ha sido desde que se descubrió el Silicon Valley San Francisco y se empezó a ver y se trató de de de replicar esos modelos de creación de riqueza a través de la tecnología a través de la empresa privada de tecnología.
+
+[01:20:18]
+en mi época sí había Fomento el Fonade que lo mencioné y ahorita se me olvidó otro proyecto muy importante que que se gestó en esa época era que en esa época el buscaba la manera de financiar proyectos que que tuvieran impacto social o impacto en en la tecnología, además de ese del recuperación de los centros de las grandes ciudades en la cual participamos que ya lo mencioné estaba uno que era cómo hacer que los muchachos aprendieran programación de mejor forma más rápido más fácil y una idea que pues resultó ser que su destino era adecuada la hipótesis no era no resultó falsa pero que si podían programar con un lenguaje que fuera en español podría ser más fácil con base en esa idea y
+
+[01:21:18]
+Están llegando a los computadores los IBMs peces y los XT que venían cuando tú los prendías automáticamente lanzaban un intérprete de BASIC ese intérprete de BASIC pues empezó a hablar en uno para programarlo tenía que decirle igual o en inglés las primitivas, entonces se ocurrió la idea de crear un basic en español y financió ese proyecto ese proyecto lo desarrollamos también con el Instituto ser y no me acuerdo y trabajamos. Ah, no, ese fue fue con mi crédito y y trabajamos en eso, Ernesto que hizo con herramientas de Unix el Jack y el Lex todo el analizador lexico, ya que es el que genera el compilador, o sea el analizador semántico el Jetta no el compay con pilot con eso.
+
+[01:22:18]
+Generamos el el intérprete en BASIC en español se llamaba básico.
+
+[01:22:24]
+Es un funcionó en algunos pilotos, pero no, no progresó después, pero una cosa importantísima eso es que para que eso funcionara teníamos que reemplazar el prom del IBM PC que ya lanzado automáticamente el Basic y reemplazarlo con nuestro intérprete de básico y para eso trabajamos Gabriel Arias y yo en la creación de ese ese fue nos sacamos canas tratando de entender los buses los tiempos de interrupción todo lo que era necesario para que el el básico eso fue un proyecto muy interesante y de ahí hubiera podido surgir una empresa interesantísima, pero no teníamos la la yo creo que lo que ha faltado aquí es es el tema de la inversión privada para que crea en ese tipo de proyectos.
+
+[01:23:24]
+Que con Roberto hablamos de que lo que estudiamos fue computer science, no en el comienzo sí, en los 80s apareció el de o ese apareció el CPM de Gary Gilda que era el primer sistema operacional en micros para todos los micros que iba a ser el candidato para el IBM psi, higar y kildal es el profesor mío. Yo estudié con él para generar, imagínate imágenes sistemas operacionales multiusuarios para micros ese eran los temas que nos preocupaban en alguna parte y él le él se portó regular con IBM varie kildal y vive me dijo no me llaman más el Señor porque negó una cita un jueves porque ese día manejaba su avioneta sí y Gary killer murió de depresión es la historia de Gary Gildan y en ese momento pasó Bill Gates que dijo yo tengo el Basic y tengo el de o ese y ahí arrancó y luego IBM sacó el cenit Cenis fue el pionero de Yunis era Junin realmente, pero imagínense en
+
+[01:24:24]
+Eso era un poco extraño decirlo ustedes fue una época donde la tecnología comenzó a dar esas vueltas para comentar en el 80. Creo que creo que que Windows se vino a crear como un poco en el 84 o algo de ese estilo no, bueno, ese es un poco la historia de que seguiremos tratando. Bueno, esta historia hay una historia interesante después de la de la el antagonismo entre Windows y Unix eso es bien interesante, pero acabas de mencionar y el desarrollo de las redes cosa que Bill Gates no creía en las redes, no creían en internet, porque así fue hay declaraciones históricas de él, que decía que que el internet no iba a funcionar y la el antagonismo con
+
+[01:25:24]
+Una empresa en la que yo cuando yo trabajé son micro System y que son significa Stanford University network.
+
+[01:25:33]
+Son fue lo que más le digamos era era el antagonismo con Windows y el fundador de somac Milly era totalmente antagonista con con Bill Gates creíble eso ver esos temas era era muy interesante y ver cómo después la evolución del internet hizo que que Windows cambiará totalmente y no no creía en los browsers y después sacó su propio cauce. Bueno, son temas una época que se la historia se movió muchísimo en ese sentido en esa época y Santa Cruz operation, no nosotros íbamos cada año Bill Gates en eso, que se dio lo de semix que tenía la base de la de la estructura de las redes, se lo cedió para que lo desarrollan el UNIX para
+
+[01:26:33]
+Para para Windows era pecado mortal era pecado mortal y Santa Cruz nosotros viajamos decía cada año viajamos un grupo un mes a la Universidad de Santa Cruz estudiar esta historia ahí porque si no, no acabamos porque cuando sale el hilo será era pecado sí, para hablar de eso en esa época que ya no Santos fundó fundó su revista se me olvidó ver la revista de Guillermo Santos era solo Microsoft y él me invitó y me dijo Manuel escribas una columna sobre Linux en la de Microsoft si yo escribí un artículo que se decía habrá vida más allá de Windows y no me volvieron a invitar a escribir, no? Porque habían cagones, no había antagonismo, no barras bravas. A mí me parece a mí también me invitaron a escribir artículos sobre todo en la columna, que él tenía en el tiempo de los lunes.
+
+[01:27:33]
+Y no, no me volvió a invitar porque fui en alguna época un poco antagonista. Sí, pero bueno, eso cambió obviamente eso cambió Guillermo ha sido un tipo universal y grandes cosas. Bueno, vamos a finalizar porque toca finalizar así es la vida la vida es dura como decía un profesor, no, pero la charla da para para mucho que si quieres Rafa hace alguna algún comentario Sandrita un comentario y le damos la palabra para cerrar a Luis Javier gracias, gracias, muchísimas gracias en nombre de todo este equipo. Muchísimas gracias, no, solamente por tu tiempo, sino por la pasión.
+
+[01:28:17]
+Por la huella que evidentemente existe en la computación en la disciplina en nuestro país, gracias.
+
+[01:28:25]
+No, solamente la generación sino en particular a Luis Javier para hay cosas que que definitivamente han afectado lo que nosotros somos y hacemos. Me gustaría escucharte una pequeña opinión sobre bueno, sabemos cuando uno mira hacia atrás pierde pensar en un montón de cosas maravillosas, pero nada no somos ángeles. Digo yo siempre no somos ángeles, es no todo era perfecto y también había muchas cosas que que uno dice esto se perdió y valdría la pena recuperarlo entonces ahora cuando cuando cierres de pronto si nos dices algo de qué hay en esa dirección que nos perdimos que crees que se debería recuperar.
+
+[01:29:16]
+Y que se mantiene que sabemos que no funcionó y que definitivamente ojalá y Dios no salga y se elimine.
+
+[01:29:24]
+Entonces y sobre todo un agradecimiento infinito por esta esta sesión muy interesante y divertidísima, además no, gracias, gracias Rafael Manuel Beatriz y Sandra Kevin pues miren sobre esa pregunta es difícil ser Ángel y vibrar hacia atrás y decir qué, qué sigue que es valioso? Creo que lo más valioso que que hay que mantener es el contacto con con los colegas, no, el contacto vía las las redes, o sea, yo creo que la una cosa que que se está perdiendo en la sociedad y todo a pesar de que este no es presencial, pero pero es diferente a muchos reuniones. Yo creo que sí es muy importante las tertulias presenciales donde se discutan temas específicos. Yo creo que eso se ha perdido mucho.
+
+[01:30:24]
+Eleonora está haciendo unas tertulias buenísimas los sábados de cosas así entonces yo diría que o usar la tecnología, pero unas tertulias de este estilo me parecerían muy enriquecedora para las personas que que puedan participar.
+
+[01:30:41]
+Y yo creo que lo importante es mantener la aplicabilidad de la tecnología para el bienestar social para el bienestar de nuestra comunidad para unirnos el tema de de mantener la unión, lo que decía de los gremios vital que que hayan el representante de la industria, el representante de las profesiones y y que haya una sinergia inclusiva entre esas dos grandes representantes de de de de de las de los actores de la tecnología y de la aplicación social, va a ser muy importante que el que se mantenga eso bueno, muy bien Sandra quieres comentar algo?
+
+[01:31:31]
+Sí, pues agradecerte por por la presentación por el detalle tanto a ti como a Manuel y a Rafael por el detalle tan minucioso de la explicación de las tecnologías, en esa época tanto de lenguajes de programación como el software que se desarrolló como como el detalle en la descripción de los elementos técnicos, que yo creo que enriquece este resumen o este recuento de la historia de la ingeniería de nuestro país. Muchísimas gracias.
+
+[01:32:03]
+Bueno, muy bien, como les había, pues muchas gracias, creo que lo último que dijiste como dice la quinta revolución industrial volver a lo humano de acuerdo este comentario tuyo volver a lo humano no que se trabajaba con una pasión enorme porque hablábamos de saber que en alguna de estas generaciones entraron la universidad y no sabíamos en que íbamos a trabajar nadie estaba diciendo ahora en esto para ganar, plata eso no existía existe una pasión enorme por la el conocimiento básicamente no, entonces danos la despedida Luis Javier y vamos a cerrar la tertulia. Bueno, gracias Manuel reitero, mis agradecimientos para todos. Bueno, yo humildemente diría que hay muchísimas más personas que han aportado a la tecnología a la historia y que ojalá se pudiera entrevistar a todos los posibles porque cada persona.
+
+[01:33:03]
+Aportar muchísimo en en este cueste en esta aventura de de recuperar que es la historia de la de la computación para Colombia hay muchísimas personas valiosísimas que pueden pueden estar complementando todo lo que nosotros podemos estar hablando ahora entonces no agradecerles y quedó mucho tema por hablar de tecnologías nuevas, nos quedamos en 1989 90. Bueno, sí, este era reminiscencia, no reminiscencias, no la viene la foto de Beatriz en la foto que yo aproveché y tomé cuando vi a Sandra aquí, por favor históricamente que parezca en la historia.
+
+[01:34:02]
+eso
+
+[01:34:09]
+Cómo está aquí minuto que haya quedado buena?
+
+[01:34:17]
+Listo listo, ok, muchas gracias a todos. Seguimos viendo, seguimos viendo. Hasta luego, está bien, muchas gracias, pues para la grabación que

@@ -1,0 +1,437 @@
+[00:00]
+inicio salud
+
+[00:05]
+Bueno, pues buenas tardes a todos. Buenas tardes. Buenas tardes. Un saludo. Estamos con Fabio Mauricio Pinzón degradado en el Grado en el 82 para este proceso de la evolución de la ingeniería de sistemas en Colombia y obviamente es un aporte maravilloso por todo el historial que él tiene ya vamos a ver porque lo lo decimos obviamente. Estamos cerca Ruiz y yo como encargados de del tema en este momento Edgar va a ser el entrevistador central, llevaré algunas preguntas de pronto y la idea con él es como siempre hemos visto en las entrevistas anteriores, ver cómo evoluciona la ingeniería de en este caso desde la época de Mauricio desde decimos desde el colegio mismo y porque estudio esto en esa época y cómo lo escribió y que sabía y toda esa trayectoria es una conversación.
+
+[01:05]
+De amigos pero que va a ser una contribución maravillosa para la red de programas de Ingeniería de Sistemas que como le decía Mao antes de iniciar somos ya más de 100 universidades en libros de nacional, que después saldrá esto, pues al aire un poco cada con esta contribución que agradecemos mucho de Mauricio entonces siendo este del grupo de Edgar en este proyecto de paso la palabra Edgar Ruiz y y seguimos para adelante con la entrevista yo pues Dávila ingeniero sistemas de los primeros años 72 graduado ya lo hemos dicho en otras entrevistas, pues con muchos años las canas son de verdad y seguimos vigentes en todo esta trayectoria de Jerez de sistemas y obviamente Edgar que también va a comentar sobre él y arranca luego con la entrevista para Mao entonces Edgar adelante, por favor. Bueno, muchas gracias Manuel por la palabra así, pues estaba muy
+
+[02:05]
+Ha sido de poder invitar a Mauricio Fabián Mauricio Pinzón ha tenido hemos sido colegas tanto académicamente como laboralmente y reconociendo su aporte que ha hecho la tecnología pues es interesante poder compensar con él de mi parte, pues sí, yo soy Ingeniero de Sistemas y Computación trabaje en el banco más de 20 años me jubilé y luego dedicado mis esfuerzos a al apoyo del talento ti en el país participando en academia, en redes en Asís en otras instancias mesas vectorial que lo tenía más y por eso este tipo de proyectos me entusiasman, porque pueden ser pedagógicos y motivacionales para las nuevas generaciones, entonces bueno, vamos buenas tardes.
+
+[03:05]
+Llama mucho la atención en no ponernos a presentarnos, sino más bien que tú mismo seas quien te presentes inicialmente y luego empecemos con las preguntas sobre el recorrido de tu interés desde el colegio, en qué cosas te destacaba a ti que te llama la atención para que era atractivo en la formación de secundaria para después tomar la decisión a encarrilar en esta profesión, entonces adelante sí, pues a ver, arranquemos gracias muy amables, si no pues a mí la aproximación por décadas me parece interesante que no no nos pone me pone a mí en contexto también con con el con el trabajo que hice en el Banco de la República pero bueno, arranquemos efectivamente yo soy yo entré a la Universidad de los Andes en el año 76 a estudiar Ingeniería de Sistemas en aquella época yo tenía pues 16 años.
+
+[04:05]
+Entonces y yo era bueno en matemáticas y era digamos uno de los jóvenes del curso mis compañeros, pues en esa época tenían 18 19 años y y como que eso me daba cierta fuerza en el grupo el ser de los buenos en matemáticas sin más con solo eso me dio por estudiar Ingeniería de Sistemas porque decían que su ingeniería de sistemas eso era para los que sabían matemáticas. Sí, así me vinculé a los Andes y pues con un ICFES relativamente decente entré a la Universidad de los Andes en 1976 allá pues desarrolla el programa normal cuando llegué yo realmente quedé fascinado con que quede mucho más digamos contento de haber escogido la carrera. Yo creo que por como por tres frentes cuando cuando entramos la introducción a sistemas de aquella época de acuerdo con me tocó con Ernesto olleras.
+
+[05:05]
+a mí me fascinó ese tema de resolver problemas, pues prácticamente por fuera de la caja no cualquier cosa que apareciera retadora buscar las formas de resolverlo eso por un lado el tema de lógica me fascinaba el tema de lógica matemática también todos los islos a los toda la construcción lógica que había me encantaba y pues cuando vi programación a mí eso me fascinó entonces realmente yo quedé muy contento con la escogencia de la carrera efectivamente yo yo duré seis años en la universidad yo tomaba mi semestres, digamos un poco más relajado porque también por esa época me fascinaba y todavía hoy en día, pues me encanta el deporte pero pues por esa época el deporte de competencia voleibol basket fútbol micro fútbol, pues yo le dedicaba también un tiempo extenso en los Andes tengo que confesarlo y no les cuento mi promedio en los Andes que se vio afectado por por esa actividad deportiva pero en fin realmente fue una temporada muy buena en la universidad los Andes
+
+[06:05]
+Deportiva como de aprendizaje ahora según recuerdo en el año 76 cuando yo fui a mirar Ingeniería de Sistemas estaba en los Andes todavía no no aparecían otras otras universidades en el escenario en Bogotá entonces para mí fue la única Ingeniería de Sistemas a la que me inscribí en esa época sí, pero no antes de tan lejos porque si era opción la Universidad de los Andes en sistemas en el colegio si te llamaba mucho la atención las matemáticas generalmente las orientadoras profesionales y demás conocían mucho más temas como electrónica eléctrica o física qué sé yo carreras que están más relacionadas con matemáticas como logras evaluar, qué sistemas sí podría ser esa opción.
+
+[07:01]
+Pues mira, yo más bien. A mí me aterró electrónica o eléctrica por la parte de la física yo en física sí, no me sentía muy bien, o sea, yo me sentía muy bien en las matemáticas tradicionales en la lógica en la trigonometría sí creo que hasta en el cálculo me sentía medio bien, pero en cambio a mí la física me aterraba y yo ya tenía compañeros, pues mejor dicho que sean gratis que se habían empezado a estudiar eléctrica o electrónica y el tema de la física sí me aterraba, pues ya con los años ya tuve que pues perder el miedo y enfrentar la electrónica y enfrentar enfrentar hasta la eléctrica por la carrera que me tocó después en el banco, pero en ese momento no era para mí una opción meterme a una electrónica o a una eléctrica, eso no mucho. A mí me aterraba la idea de electrónica en la Javeriana por ejemplo, por lo que veía compañeros que están estudiando electrónica en las averías, entonces no, por ese lado tal vez no, ya cuando desarrollé la carrera en los
+
+[08:01]
+Andes pues bueno todo eso, pero nosotros entramos 360 y las tarjetas en ese momento y cuéntanos de eso en las tarjetas en ese momento a punta de fortra digamos.
+
+[08:20]
+Las metodologías que se utilizaban las lenguajes que se desarrollaban las clases que más te llaman la atención los profesores que te inspiraron los modelos que tenías este tipo de cosas académicas pero y el otro día los vi por ahí en un vídeo de sistemas de los santos pero pero pues aparte de Ernesto en esa en esa introducción pues mis profesores de programación cieran yo me acuerdo Fernando Fernández y Homero pero a mí de los los otros que también me Francisco Rueda en sistema operacional fue fue una inspiración tremenda, digamos a mí recién graduado de los Andes sistema operacional era lo que realmente me atrajo bastante sí ahora pues empecé a echar código normal en alta y algo que yo no imaginé que me iba a servir años después.
+
+[09:20]
+Fue el asemblea nos programas básicos en assembler con sus Jones y todo su movimiento de variables de memoria procesamiento y todo y uno dice no, pues esto está muy ya esto está de muy bajo nivel pero años después pude entender, por ejemplo, una un problema que hubo gravísimo en Bangladesh que al Banco Central le robaron una plata y lo pude entender bastante bien. Gracias al tema de la Semler que había por debajo en el tema de los passwords, el tema delicadísimo mejor dicho, o sea, aún a un código en la Semler pues le quitaron el el el la variación del password. Sí, entonces un hueco de esos fíjate con un cambio en el Asamble lo puedo entender y era para nosotros un aseguramiento importante porque era una cosa que la ha pasado a un banco central y en un software, que usamos los demás bancos entonces.
+
+[10:20]
+Era un tema delicado, pero digamos plan metodologías marcho. Yo no toque una pantalla de computador desde el 76 hasta el 81 y solo ya cuando estoy haciendo mi tesis en el 81, es que por primera vez toco una pantalla de un bóxer.
+
+[10:41]
+Según recuerdo esa tesis la trabajé un pedazo en COB y otro pedazo lo trabajé en el Borox programming language que se llamaba esa vaina en un VPN VPN pero eso fue la metodología que desarrollé, eso digamos para mencionar clases que me hayan gustado, pues obviamente mis programaciones las estructuras de datos. Yo a mí realmente eso también me pareció muy interesante. Sí había también un curso de lis que vimos con Rodrigo López escucha, qué lenguaje ese, pero pues uno no lo el lenguaje me parecía fascinante, no sé para qué me iba a servir, no sé en mi vida, para que me iba a servir, pero a mí me encantaba ver cómo era ese lenguaje de esas listas en fin, eso fue un poco como los los hitos grandes de ingeniería sistemas. Yo te diría muy muy por el lado de la máquina muy por el lado de los lenguajes de las estructuras de datos no tanto por la parte de organización a la misma parte organizacional no, no?
+
+[11:41]
+No me llamaba la atención a mí sí me con la máquina y decirle a la máquina, era lo que me llamó la atención. Era una época donde realmente se enseñaba con Peter Sainz la verdad y con el Asie había ya la profesión del system programming, no, yo fui profesor de años anteriores y después trabajé mucho en hacerlo en estas máquinas y había que meterse dentro del entorno del sistema operacional y era una mentalidad muy muy interesante el no saber para dónde iba no ibas, no, no solo tú no apasionados con el limpia apasionados con el Ford transicionando.
+
+[12:45]
+Yo creo que yo tuve Ahorramas y tuve a Chima pero no recuerdo bien, a cuál de los dos tuve en esas dos disciplinas. Sí, yo creo que tuve ahora amas por ahí es que también cuando aparecen estos autómatas y las máquinas de touring ahí yo tenía Chima ahí, me acuerdo que yo tenía Chima yo creo que una estructura computador yo tenía bromas, no era más correcto y después con sistemas operativos fue con un patio profesor ya terminando la carrera bueno y bueno, y entonces te llamaban las asignaturas de programación hiciste los lenguajes y las máquinas que estuviste fueron esa IBM 360 y el borroso esto es una serie.
+
+[13:45]
+Pero esto ya son los principios de los 90s saliendo de la Universidad no lograste tener contacto con los microcomputadores o sí, porque por esa época creo que hicieron los lanzamientos allá o no, cuando estabas también en los Andes no los Andes yo tenía pantalla pantalla verde, pantalla de la Universidad en el 83 entró al banco sí, y en el 83, pues lo que vimos en el banco, tú te acuerdas que en los 80s es cuando ya llegan los los primeros computadores portátiles, pero portátiles no, perdón, los primeros de stops.
+
+[14:45]
+Los primeros de stops que algunos fueron radio chat y otros fueron IBM y estos empiezan a hacerse les la conexión a los mainframe para que sirvieran como pantallas de los principios cuando yo entré al banco en el 83 incluso en el banco eran pantallas, o sea, tú entraste directamente al banco saliendo recién graduado.
+
+[15:25]
+No, yo salí yo me gradué mientras entraba al banco mi proceso de selección era es y sigue hoy en día una una selección en el banco, puede pasar meses, digamos tres meses puede pasar uno cuatro meses mientras entra alcance por eso, pero hacíamos, pues entidades, por ejemplo en el Sena o en no no, yo hice en la empresa del papá de un amigo yo les trabajé unos programas en SAS ah, que durante una época, pero fue por cortico, eso fue el único experiencia laboral fuera del bar ya en el Microsoft fue en el final del 82 y ya a principios del 83. Yo entro al banco sí un reversible porque ya nos graduamos y todo eso, pero ya se graduó y todo al terminar la universidad del proceso, digamos de finalizar del proyecto de grado, que hiciste cómo fue ese ese momento ya finalizando la universidad.
+
+[16:25]
+Y ahora seguimos con el mar, es una pena contar esto, pero descontento porque aquí están grabando, pero yo casi no me graduó, porque fuera de fuera del chiste mi tesis no funcionaba, no dicho yo me gasté un jugo de código haciendo una tesis para un tema de taxonomía vegetal. Sí, pero realmente los programas no funcionaban bien hecho. Es que la hasta la propia podemos decir incluir modificar eliminar y la y el incluir no funcionaba muy bien, entonces a veces como que incluía más taxonomías de la cuenta o no incluía la que tenía que incluir entonces, pues realmente el grado fue milagroso por el trabajo que no por los resultados, pues por la cantidad de trabajo que hice en el computador y la cantidad de código más que por más que por los resultados del programa eso fue increíble, quién fue el director de tu proyecto.
+
+[17:20]
+Mira qué pena, pero yo creo que sí era algo de taxonomía vegetal, si un sistema de taxonomía vegetal así de sencillo mejor dicho clasificar plantas y almacenarlas en el computador puesto de otra manera, pero no recuerdas el director del proyecto fue un francés.
+
+[17:42]
+Que se llamaba alains, era un francés de esos que venía a la universidad de manera corta y resulta que este hombre se volvió a Francia antes de que de que termináramos entonces, claro, yo quedé sin director de proyecto a mitad del camino y pues cuando yo presenté el proyecto nadie conocía que era lo que yo había hecho y lo único que sabía que había gastado una cantidad de computador.
+
+[18:08]
+sí, haciendo el proyecto, entonces realmente mi proyecto en ese momento fue vergonzoso para decirlo de otra manera un proyecto no funcionó el software, pero pues era proyecto finalmente, pues pues hizo una cantidad de trabajo y pues realmente no está como para rajar tampoco llamémoslo así, pero voy a justificar y defender esa dificultad tuya porque los jóvenes de hoy no saben lo que era ser de bogging en esa época cuando era mucho más complejo no es decir las herramientas hoy tan instantánea de inclusive prueba y error que era una época muy más complicada en el tema del software y los profesores franceses que marcaron un hito en los Andes no cuando ellos llegaron los profesores nuestros a mí me tocaron mucho antes que tú los profesores nuestros serán serios, en corbata, la cosa y llegaron los
+
+[19:08]
+Que eran jóvenes fiesteros no digamos de unas personalidades muy distintas, esa fue bonito muy importante y tiene razón que ellos después viajaron a ti te dejaron prácticamente sin director de la otra pregunta, qué lenguaje usaste en la programación?
+
+[19:28]
+Idénticos tenían que ver solo con el modelo del gorros sí, al gol era más cercano al gorro inclusive el sistema operacional era en alcohol, era una curiosidad bueno, pero entonces saliste de la tesis, que ese es un consuelo para los que sufren hoy en día sufrimos haciendo software de que siempre se sale adelante, entonces saliste con el proyecto de grado de todas maneras sí, no? Y realmente ya cuando digamos yo ingreso al banco.
+
+[20:21]
+Y prácticamente en con digamos con con el acercamiento con todos los compañeros del banco al tema de la programación y el acercamiento al cliente ya ahí sí, mejor dicho el lo que lo que digamos mi primer proyecto en el banco que se demoró dos meses, pucha superaba ampliamente lo que yo hice con la tesis, digamos un proyecto muy sencillo, era digamos en el banco, tenemos una tesorería la Tesorería los billetes, los billetes tienen temas de billetes devueltos billetes falsos billetes deteriorados, sí hice un sistema para ese tema del inventario de los billetes sí, y eso salió en dos meses sin ningún problema y era más un tema de todos los compañeros, digamos, haciéndome el coaching de cómo era que se hacía los programas y una cercanía con el usuario que que realmente es muy al sistema.
+
+[21:21]
+Moderno en donde uno está hoy en día entregando los sprints y diciéndole al usuario, mire esto es lo que se hizo ayer y pruébelo y el tipo dice eso que usted hizo ayer corrija de esto y es una interacción diaria que que en esa época se daba maravillosamente con el usuario, entonces esa también fue una etapa muy interesante donde yo hoy en día que veo a los ingenieros digamos actuando con el producto me recuerda mucho ese momento de cuando yo programe en el banco digamos para el negocio a pesar de que no había metodología definida consideras, que ese tipo de esquema de trabajo con las áreas funcionales era muy empatizado, verdad? Sí, claro, a la mañana siguiente le mostrabas al cliente, cómo iba la vaina?
+
+[22:21]
+Y de una vez iban las correcciones y las pruebas y y mejor dicho la celeridad en dejar unos clientes satisfechos y digamos sin toda una cadena de intermediación que se que se volvió después la ingeniería del software, pues le agregaba dicho, tenías un cliente satisfecho un poquito más rápido. Sí sería como el resultado de esa experiencia que tuve cuando desarrolla al principio en el banco que destaca de de de bienes hablando de que había coaching entre los compañeros que ese tipo de esquema donde se llegaba a trabajar y los compañeros no eran jefes, sino colaboradores y lo mismo los jefes supuestamente empezaran mal líderes, ese esquema se ha mantenido. Ha cambiado como lo sentiste en esa época porque lo marca como un hito ahí. Pues mira, es que digamos.
+
+[23:20]
+Después vienen una serie de digamos de décadas cuando ya digamos tener desarrolladores empleados del PAN se vuelve imposible si por la cantidad de software, que se tiene que desarrollar, entonces ya viene el tema de las de lo que llaman las el software de contratar compañías de desarrollo de software con unas metodologías específicas, digamos en el banco hasta los 90s.
+
+[23:48]
+Desarrollamos en casa con empleados banco desarrolladores banco y la interacción que tenemos acá y un coaching muy cercano de los compañeros no he hecho cualquier pedazo de código que tú querías que necesitabas era muy fácil decirle a un compañero pasen el pedazo de código. Sí. Un ejemplo muy sencillo, por ejemplo es la famosa rutina de escribir un número en letras no, si a uno le tocara hacer esa rutina desde cero arranca hacerla desde cero, pero en ese momento ya en los 80s, esa rutina estaba escrita. Sí, presteme la rutina para escribir para poner ese número en letras punto
+
+[24:30]
+Y está confiable, está aprobada es un ejemplo desde cómo ese coaching traía traía ya una serie de de beneficios de agilidad en el desarrollo de software, eso mientras estuvo digamos con con compañeros de trabajo que hacían también software. Sí, pues en los noventas ya la modernización de la organización ya no da y nos toca es contratar compañías de software con otro tipo de metodología. Sí, entonces ahí sí, ya viene el diseño de requerimientos. La entrega de requerimientos todo toda la cadena, que que en este momento estamos volviendo otra vez ya, pues a compactar esa rutina famosa era la que se llamaba el monto escrito. Si no estoy mal, estoy de acuerdo el monto escrito se llamaba.
+
+[25:30]
+Bueno, pero pero antes de irte tan lejos hablemos de del tema de la fábrica de software, interna hablemos de los esquemas y cómo se programaba, cómo te hacían las pruebas que que es que más teníamos todos no teníamos computadores ni pantalla del crimen un poco las maneras de trabajar en el banco, pues mira cuando yo entré al banco.
+
+[26:01]
+Allá había dos había el computador de desarrollo y el computador de producción.
+
+[26:09]
+Sí, o sea, no había con los años después tuvimos computador de pruebas, pero era el computador de desarrollo donde confluían el que había desarrollado el software y el digamos el futuro usuario de ese software viendo que eso era lo que se iba a usar punto y ya finalmente uno con el usuario, charlaba y decía, ya está listo. Ya está listo. Ah, bueno, entonces ahora sí pasemos la producción. Sí, esa era la mecánica sencilla de hago un programa mire su programa es esto está bien. Si está bien listo, entonces el programa se va para producción y allá ya lo puede usted usar en su día a día, eso fue durante los 80s y yo creo que la máquina de pruebas, el esquema de pruebas intermedias, aparece solo a finales de los 80s ya cuando se habla de máquina de pruebas, pero durante todos los 80, nosotros vivimos con la máquina de desarrollo para los ingenieros y la máquina de producción para los usuarios.
+
+[27:09]
+Pero el momento cuando entraste al pueblo y te acuerdas de los compañeros que encontraba los ciclos llamémoslo ya compañeros del banco cuando entraste a trabajar, claro, un equipo de Ingenieros de Sistemas de la Universidad los Andes este equipo fue promovido por por un economista dentro del banco que precisamente fue el que el que compró el primer computador digamos el que motivó a la gerencia en el 71 a comprar el primer computador un señor que se llamaba Roberto villavesas. Este hombre tiene una historia maravillosa dentro del banco porque además el tipo hizo programas para comunicar las pantallas con el computador sí o sea el programa de comunicación.
+
+[28:09]
+Entre las pantallas y el mainframe fue hecho por él.
+
+[28:12]
+En esa época digamos él también desarrolló un editor de texto para hacer los programas. Sí, él lo llamó mega, pero en ese momento el banco no tenía lo que después borro conoció como Candy que era como nana edit sí, en language, eso ese programa no lo tenía, no lo tenía el banco, el Señor había hecho él comunicación, entonces tenemos un señor que promovió primero que hubiera ingeniero de sistemas en el banco que que hizo el impulso para que en el banco hubiera computador digital y que ese computador ayudara en las principales actividades del banco que eso arranca. Bueno, sí, lo tengo de de haber hecho un trabajo.
+
+[29:12]
+reciente sobre sobre la historia de tecnología en el Banco de la República este señor arranca con los temas de Estadísticas Económicas
+
+[29:22]
+Esa sección de estadísticas económicas en el banco después es lo que se transforma en una subdirección de sistemas. Sí, entonces realmente en el banco la entrada del computador es para el tema de estadísticas económicas ya después obviamente entra esto a fortalecer otras áreas de digamos las islas más operativas que es lo más operativo, pues la contabilidad sí, entonces empieza a volverse un una serie de aplicaciones departamentales y los ingenieros somos asignados a funciones departamentales. Sí, entonces que hay que sacar la nómina que hay que mirar la cartera. Sí, entonces todas estas verticales de cambios internacionales empiezan a tener su ingeniero especializado en eso los cambios internacionales fue un punto un frente donde estuvo Edgar también muy vinculado en el banco sí, entonces durante un tiempo, por ejemplo yo.
+
+[30:22]
+En ese momento el Banco de la República era un prestamista de crédito a personas naturales, sí, crédito de Fomento y Crédito Agropecuario cuando yo entré al banco después del tema de tesorería, yo empecé a trabajar fuertemente en el tema de crédito de Fomento aprobación de créditos de Fomento estadísticas y manejo de cartera de crédito de Fomento ok eso digamos en estos en estos ochentas al principio de los 80s, porque como tú viendo mencionaste Manuel yo después me vuelvo system ingeniero, o sea me vuelvo el me vuelvo el del system el hombre que le montaba los sistemas operacionales a los morros, digamos ya a finales de los 80 se han entrado máquinas tipo medio se llamaban unos saltos parecido a un Zenix o sistemas medios multiusuario y esto lo empezamos a desplegar a nivel nacional.
+
+[31:14]
+Entonces, digamos que en los 80s tenemos los main frames y un desarrollo fuerte en cosas departamentales y desplegamos ya sistemas medios, por ejemplo, para contabilidad nuestra sucursales para ese momento el banco tenía una presencia, pues todavía tiene presencia en el país mucho más cultural, pero en ese momento tenía una presencia contable y de emisión y distribución de efectivo a nivel nacional, entonces esa fue como el desarrollo en parte de los 80s no se quieren que que amplíe un poquito más, cómo fue mi experiencia de los 80. Yo sí creo que vale la pena lo uno se vuelve, digamos mi experiencia como system. Ya yo dejo entonces de ser el hombre que habla con el usuario, sino ahora soy el que le responde a los ingenieros, porque las máquinas funcionan sí, no tanto por el hardware digamos, pero sí, una vez que la máquina está prendida por toda la instalación.
+
+[32:14]
+El sistema operacional y ya pues obviamente empiezan a aparecer las primeras bases de datos ya ya viene el software de base de datos hecho porque incluso cuando yo entré al banco, pues no había no había un software de base de datos de hecho aún no le tocaba construir los famosos índices e indexar los archivos, sí, para que hubiera digamos un funcionamiento similar al de una base de datos con sus índices, entonces esa fue como digamos la experiencia como ingeniero en esos primeros diez años propone un lenguaje como de que en ese momento lo llaman de cuarta generación en donde es un poco digamos más fácil.
+
+[32:56]
+Poner estructuras de datos, sí, como como casi no lo digamos como objetos, pero muy cercano a decir mire, yo tengo una pantalla y esa pantalla refleja, además un objeto en una base de datos. Sí, mejor dicho crédito listo tengo la pantalla crédito la pantalla crédito. Además se refleja allá en la base de datos con una tabla que se llama créditos sí y los campos de esa pantalla van a ser al final de cuentas los campos que se ven allá en la tabla de créditos, sí y entonces las diferentes pantallas del sistema no recuerdo el link el L y en ese de UNICEF que quería decir, pero más o menos lo que está diciendo es un es un lenguaje que sí que por debajo inclusive por debajo, eso se trae se traducían en Cobol sí pero uno desarrollaba eso en unos pantallazos que al final se traducían en una serie de programas para ubicar un poquito como
+
+[33:56]
+Línea histórica de los 80 en el 80 llegaron los primeros micros yo personalmente traje los Radio Shack que tú mencionaste hace un ratico sí inclusive IBM aparecer como en el 81 no de acuerdo si era el logo de IBM con los con los peces, o sea que todavía en el 80 los micros iban a aparecer ya mencionaste algo pero todavía estabas en el main frame y esto que si estás hablando de esos lenguajes no esa es con fabricar un poquito esa línea histórica del momento que me imagino que después aparecerán ya los micros en el banco los mitos en el banco vienen como en el 83 84 obviamente para los ingenieros y para los usuarios importantes cuando decimos importantes pues eran los responsables en cada uno de estos departamentos del procesamiento asociado a su departamento sí.
+
+[34:56]
+Consideran los estudios económicos que si eran la contabilidad que cierren los cambios internacionales que si era en la Tesorería eran estos usuarios, llamémosla, así que que que son los primeros usuarios que tenemos en buena parte, pues conocedores de del computador conocedores de su negocio sí, ahora lo que sí también fue fue testigo en el banco de que los ingenieros de sistemas.
+
+[35:29]
+Que conocen el negocio y hacen los programas para el negocio se empapan tanto del negocio que terminan siendo ellos los que se van para el negocio a manejar el negocio, sí, porque ellos mismos hacen el software conocen los procesos conocen el área empiezan a conocer el macro del departamento en su totalidad como funciona porque tiene que entrevistar a los diferentes personas que interactúan durante el proceso y y viene un fenómeno en el banco, que es que los ingenieros de sistemas se van de sistemas, pues escucha pasan tres cuatro cinco años y se van de sistemas hacer digamos los los jefes del departamento porque conocen el la funcionalidad de todo el departamento por el pensamiento sistémico que tienen los ingenieros en el banco es definitivo en mi experiencia personal, no? Yo fui técnico. Yo me quedé de System durante todos los 80s.
+
+[36:29]
+En los 90s bueno, tuve la bendición de que el banco me mandó a estudiar a Estados Unidos sí estuve en Estados Unidos entre el 89 y el 91 sigo siendo un experto en sistema operacional ya cojo fortalezas en bases de datos y en los 90s, pero cuéntanos el proceso también de la educación en Estados Unidos que tuviste la maestría que desarrollaste que cómo cambió la perspectiva la formación, cómo te trajo para aportar a la al banco? Pues mira yo lo que yo me sentí como muy tranquilo en los Estados Unidos bueno una parte era el inglés que bueno esa parte afortunadamente no, no se me no me fue bien mejor dicho con la parte del inglés me fue bien, curiosamente miren las cosas.
+
+[37:29]
+Resulta que a mí me encantaba el voleibol, yo llegué a hacer del equipo de voleibol de la Universidad de los Andes y cuando llegué a Estados Unidos tuve la oportunidad de ser del equipo también no de lo que se llama el bar citin porque ese sí es el equipo de los de pregrado, pero había equipo también como club donde podíamos participar los de posgrado en ese equipo de voleibol realmente ahí fue donde yo aprendí inglés, me he hecho fue en el día a día interactuando con mis compañeros de voleibol donde yo realmente, pues yo tenía que hablar o hablar o si no, no jugaba voleibol, sí, pues por supuesto los estudios de inglés y eso pues me sirvieron ya para el tema de de la parte académica escrita y pero la enseñanza de la Universidad yo no me sentía en ninguna desventaja académica, sí, o sea, lo que yo había aprendido en la Universidad de los Andes me estaba sirviendo perfectamente y sin mayores.
+
+[38:29]
+Tropiezos en los cursos de la Maestría tocó repetir los cursos de análisis de algoritmos de diseño de estructuras de datos repetir sistema operacional bici sistema operacional avanzado sí o sea los yo seguiré mucho en la parte técnica yo en la parte de negocio muy poco en la parte organizacional muy poco sí ingeniería de software, sí, pero en general yo me quedé todavía en la parte de abajo de las máquinas y yo me sentía muy tranquilo con lo que había aprendido en los Andes yo estudié en George Washington University la universidad en esa época estaba ya haciendo sus primeros pinos en cero fuerte en computación gráfica digamos.
+
+[39:14]
+Pero yo realmente seguí con sistema operacional y me devolvía al banco, pues con las fortalezas de sistema operacional y más fuerte en las disciplinas en que en que yo seguía siendo digamos trabajando en el banco durante la primera mitad de los 90s.
+
+[39:29]
+Digamos desde el 91 hasta el 94, yo seguía siendo el System pues ya ahora sí, en este momento ya este el despliegue de los de los altos que era una herencia de de Zenix y de y el nacimiento de Unix realmente para mí también fue maravilloso porque toda mi todo mi todo lo que yo dejaba de sistema operacional, lo hacía con scripts de Unix para ayuda de los demás de los demás de las demás aplicaciones de negocio, o sea, yo yo duré una buena parte de los 90s digamos como el 92 al 94 haciendo scripting en Unix solamente para todas las administración de las máquinas y para poner, por ejemplo a disposición de las personas en las sucursales que no eran tecnológicamente, pues hábiles, pues unos menús para que pudieran administrar un computador, pues saque su respaldos si le toca hacer un reboot, pues por lo menos dejar.
+
+[40:29]
+Scripts básicos para que haga un reboot para que pueda nuevamente subir las aplicaciones sí ese fue digamos poder dejarle a la gente que no era tecnológicamente hábil dejarle una serie de herramientas de scripting que le permitían interactuar con la máquina fácilmente en lo que era la volver a arrancar una máquina. Sí, ahí estamos en los 90 si tenías que administrar entonces la sucursales que tenía que seguían teniendo aplicaciones operativas, verdad claro porque como el banco después cambió en el 91 con la Constitución hace el Banco Central ya dejaron de desarrollar ciertas funciones o de tesorería en algunos lugares eso en qué cambio el desarrollo allá?
+
+[41:22]
+El banco deja de ser el banco por el crédito, el fomento y agropecuario con la Constitución del 91, ya deja de ser un banco que tenga primer piso y vamos así un banco que llegue a las personas. Ahora sí es un banco solo de bancos entonces en la con el 91.
+
+[41:44]
+Todas estas aplicaciones digamos de usuario y de persona natural desaparece eso sí, las tesorerías se empiezan a reducir, pero más, porque los bancos comerciales el banco privado ya, pues empieza a llegar a todos los rincones de Colombia sí, entonces, pues claro, nosotros tenemos que preocuparnos de que en Florencia de que en Leticia de que en San Andrés hubiera efectivo colombiano, pero ya con el pues con el crecimiento de los demás bancos, sí, pues ya había sucursales de estos bancos tanto los nacionales y tú a Colombia vivienda Bogotá o como los internacionales BBVA empiezan a tener presencia a nivel nacional, entonces ya digamos nuestra responsabilidad de llevar el efectivo empieza a verse un poco más tranquila de hecho los bancos comerciales llevan todavía hoy hace poquito.
+
+[42:44]
+Por ejemplo finalmente dejamos de llevar efectivo y esto no tiene dos años de haber hecho este cambio a Leticia a Leticia Riohacha por ejemplo estábamos llevando efectivo a Leticia de Riohacha todavía por por el acceso sí, ya, por ejemplo, ahí tenemos solo presencia cultural, la presencia cultural, si es realmente una un sentir de la comunidad tremendo mucho en esta presencia cultural sigue siendo muy importante en las regiones. Nosotros no nos hemos salido de ningún lado por el tema de la red cultural del mar, pero bueno, cerrando paréntesis esa 91 trae ese cambio en el banco y entonces ahora sí nos volvemos más Banco Central y los noventas, digamos hablando del banco y no de manera personal nos pone la responsabilidad de montar el sistema de pagos del país. Sí, entonces antes, pues teníamos los famosos cheques, la compensación de cheques sí y el
+
+[43:44]
+De todo eso entre los diferentes bancos en una operación que tomaba dos o tres días en los 90s ya creamos un sistema de pagos con pagos de bajo valor te lo llamamos el Zenit digamos los pagos del gobierno se hacen a través del cenit, las nóminas del gobierno se pagan a través de cenit, y pues el sistema de cuentas de depósito de los bancos que es, pues el sistema de alto valor de un país donde se cruzan todas las plantas entre los grandes bancos, eso lo montamos en los 90s en los 90s y ya se acabó eso de que el computador es solo para ciertos empleados, no? Ahora sí, el computador es para todas las todos los toda la fuerza administrativa de la organización.
+
+[44:39]
+Entonces, los 90 se vuelven el momento de desplegar peces a todos los empleados del banco y esos peces, además tienen que estar conectados y tienen que tener correo electrónico y pues cuando yo volví de Estados Unidos en el 91 ya nuestros ingenieros de telecomunicaciones, estaban haciendo los primeros del next, o sea, los primeros TCP y PES el primer uso de TCP FTP y telnet, lo estábamos haciendo en el 92. Sí probando ya la conexión del banco con la por internet, entonces realmente esta este este de acá de los 90s en la institución desplegamos desplegamos los computadores para todos y comunicarnos todos con todos a nivel nacional. Esto fue esto fue movido en los 90s, porque ahora sí, yo ya pasó yo ya paso a hacer digamos el jefe del área de infraestructura del área de telecomunicaciones, entonces me toca preocuparme.
+
+[45:39]
+De que haya comunicación en Leticia y en San Andrés mejor dicho en los noventas no he hecho la comunicación terrestre hacia San Andrés se dio hasta hace poco la fibra San Andrés se dio hace poco no hacen no hace 10 años, se dio la fibra con San Andrés y conexión conexión por radio hasta Leticia tampoco tiene menos tiene menos de 10 años entonces a nosotros nos tocó dar esa comunicación, inicialmente satelital, o sea, nosotros nos tocó desplegar una red satelital para tener la comunicación nacional y centralizar la contabilidad en tiempo real en los porque cada sucursal en su sistema medio los 90s. Nosotros estamos integrando a que todas las sucursales se conecten a una contabilidad central en Bogotá en tiempo real en una red satelital, eso fue bastante doloroso, porque ya en esta época de no sé ustedes recuerdan en los 90.
+
+[46:39]
+en el concepto de cliente servidor en donde unos en donde unos peces tienen una gran cantidad de información, pero se comunican con un sistema central, pero la interacción entre los peces y el sistema central es constante y esto con una red satelital con una latencia de 300 milisegundos en cada viaje, pues esto era tremendo sí, entonces eso fue una experiencia dura de de centralización que nosotros la íbamos a sacar como en dos años y nos gastamos cuatro y a pesar de que de que tú estabas más en el tema de esas conexiones y todo también empieza la preocupación por la seguridad informática como para relatar un poco como participantes con el tema de los 40 años me tocó mire esto es simpático lo que pasa es que bueno, les voy a hacer, voy a adelantar por algo a nosotros ahorita en el año de hecho ya en este siglo también la seguridad electrónica de las
+
+[47:39]
+Seguridad física de las instalaciones ya se integró la tecnología y a nuestra red ok las cámaras la videovigilancia ok el banco el banco se tecnifire sí se metieron a las bodas del banco hicieron un túnel tenían por ahí un negocio al lado de negocios agrícolas y los tipos acaban la tierra como quien saca como quien saca fertilizante es incluso anterior a la seguridad informática la seguridad digital en el 83 84 ocurrió el famoso robo de los 13 millones.
+
+[48:39]
+porque en este momento las transacciones internacionales ya empezaban a utilizar, no era la llamada telefónica de que le voy a de que por favor pase de plata a tal país y que paguemos los los deudas de la Nación de tal manera, sino empieza el famoso se hace con telex, y con las claves de teles y pues desafortunadamente un incidente con el cual un señor fácilmente un señor logró sacar 13 puntos y 13.5 millones de dólares a una cuenta a unas cuentas de él en otro lado que denominó Banco de la República
+
+[49:18]
+entonces ese hackeo
+
+[49:22]
+Realmente va a desembocar en medidas de seguridad informática posteriormente sí, pues se fortalece la seguridad informática desde ese momento, pero ya en el 91 el área de seguridad informática del banco es una independiente incluso ingenieros de sistemas.
+
+[49:40]
+Del banco hicieron un antivirus así de sencillo mejor dicho antes de McAfee antes de Norton y todas esas cosas estos señores dijeron. Bueno, yo le pongo un software al computador sí y se lo pongo en el BIOS y si alguien me cambia algo el sistema operacional bloqueos punto así de sencillo, eso eso lo llamamos nosotros el sistema y fue una medida de seguridad interesantísima de de las primeras medidas de seguridad de seguridad informática el código de usuario carga la carga que la famosa carga que tenemos en el banco que es el primer nombre la inicial del primer nombre cinco del apellido y dos del segundo apellido, eso es un estándar que ha sido yo no sé dónde lo sacamos, pero funciona bastante bien porque cuando uno va a sacar una carga en Gmail o en Hotmail esa no la tiene nadie, es estándar funcionó bastante bien. Sí, la doble autenticación la doble autenticación es desde los
+
+[50:40]
+Que pusimos eso porque las transacciones que se hacían digamos nosotros al montar el sistema de pagos montamos cebra sistema electrónico del Banco de la República tenemos que hacer transacciones con canales dedicados con bancos o con llamada telefónica en bancos, eso tenía una seguridad nosotros trajimos en criptores de hardware inclusive nos tocó pedirle permiso al Departamento de Defensa de los Estados Unidos para que si nos dejaran tener eso acá, o sea la compañía que nos vendió los escritores le tocó pedirle permiso al Departamento de Defensa de los Estados Unidos diciendo esto se le va a vender al Banco Central de Colombia nosotros, tuvimos escritores por hardware para las transacciones de alto valor entre las instituciones financieras y nosotros eso fue un tema de los noventas, el sistema de pagos y la seguridad que se hizo sí, ya para reemplazar ahí para reemplazar ahí el teles llegó a suite, entonces y eso también iba en colaboración ahí con cebra, pero bueno, tú tú cuéntanos.
+
+[51:40]
+de alto valor entre instituciones financieras no he dicho para darte un ejemplo claro el target que funciona en la Unión Europea
+
+[51:55]
+Funciona con Swift y con los sistemas que ellos tienen de File Transfer web, transfer y message, o sea, mensajes, transferencia de archivos o transacciones webs, pero con las con las reglas de suite, el incidente de Bangladesh fue un incidente grave en los no recuerdo, cuánto pero como entre dos mil 2010 ocurre el incidente Bangladesh de pronto más adelante como 2012 más o menos tendría que googlearlo, pero el incidente Bangladesh levantó alarma sobre el sistema Swift y el sistema Swift se endureció tremendamente a raíz de ese incidente me ha dicho hoy en día tu pantalla que entra a hacer transacciones en Swift no puede tener internet, es así de sencillo. Eso es un sistema encapsulado de seguridad independiente y la seguridad sobre esto es tremendo, o sea, y tiene por qué serlo, porque son pocos actores y son transacciones de muy alto valor y eso es el vídeo para el desarrollo interno también.
+
+[52:55]
+Modelo de seguridad trajimos lecciones de de lo que enseñó su hijo canales dedicados inscripción por hardware eso eso se ha fortalecido de otras maneras ya de todas maneras la seguridad de las de las VPNs cada vez está mucho mejoró mucho en principio de siglo los VPNs aseguraron, tremendamente ya hoy en día hasta hasta una de mis tías que tiene 78 años ella sabe que la transacción tiene que tener HTTPS punto y que si eso no tiene ese mejor dicho no hay transacción que valga.
+
+[53:33]
+Entonces ya son del dominio público.
+
+[53:37]
+Bueno, entonces en tu oficio ya como existen programas allá en el banco, cambia la Constitución cambia las funciones, cómo sigue tu carrera ahí en el desarrollo de la tecnología? Pues Edgar yo ya viene, digamos. Ah, bueno, durante todo estos noventas. Nosotros tenemos un desarrollo de software muy acelerado en todos los departamentos, sí, o sea, la sistematización se hace ahora sí global para todos los departamentos de la institución para el área cultural incluso en el área cultural desde los 80s, el préstamo de libros. Yo yo no tenía mucho que ver con esa área. Yo no era el System de pero, pero el préstamo de libros de la Luis Ángel Arango se hace con un IBM ese sí era un IBM ya en los 90s ya todo eso se vuelve el sistema UNIX digamos tanto al interior de tanto la operación.
+
+[54:37]
+Digamos crítica del banco como la operación del área cultural toda la operación de Estudios Económicos digamos toda la operación estadística estudio económico, es que es un frente también grandísimo del banco. Sí, ellos y especialmente se apoyaban en el IBM de la biblioteca por sus fortalezas precisamente en SAS y hoy en día 40 años después SAS sigue siendo la herramienta fundamental de de del tema de estadístico en el banco, pues hay herramientas de la de Bodega de Datos como Teradata o hay herramientas como de informática para el tema de extracción y carga de información, pero en general el SAS ha sido una constante para los economistas del banco en su trabajo diario. Ok eso ha sido muy fuerte cuando tú me dices en los 90s que el que
+
+[55:37]
+Constitución no tuvo que ver sino con el crédito de fomento de todas maneras las verticales grandes del banco la parte digamos transaccional banco de bancos la parte estadística económica y la parte cultural se desplegó tremendamente en en software desarrollado mucho a la medida el banco eso sí ha tenido esa constante y es que a pesar de las fábricas de software a pesar de de otros programas como SAP por decir algo pues hazlo montamos lo montamos hace como unos 10 años ya pues montamos primero en las fábricas de billetes y de monedas montamos SAP y ya después ahorita como en el 2000 en el 2016 quedó montado SAP ya para toda la parte de estados financieros del banco pero sacando esa parte el resto del software ha sido muy desarrollado la medida pero entre el 95 en adelante que cuentas que ya se empezaron a contratar proveedores y
+
+[56:37]
+Cómo se desarrollaba qué metodología se usaban? Cómo se contrataba como tú incluían en el desarrollo de aplicaciones elaborados por otras entidades ya empiezan las compañías de software y ahí sí, digamos en su mayoría compañías establecidas en Colombia con mano de obra colombiana a desarrollar el software en el banco.
+
+[57:01]
+En un principio era digamos yo contrato una compañía para un sistema específico. Voy a dar nombres el problema mejor dicho Indra hace software, por ejemplo, han sido han sido compañías que han desarrollado y tags que le han desarrollado al banco hace unos años en el 95 cuando esto arranca es para el sistema tal para el sistema de cuenta de depósito para el sistema de cartera para el sistema de nómina, una compañía específica eran especialistas en ciertos software para ese nicho con el paso de los años y ahora ya me vengo de una vez al presente o digamos a la última década y vamos antes del 2020, porque eso también es otro tema, digamos 2010 2020, ya eran compañías que se contrataban por cantidad de horas estimadas para una temporada para mejoramiento de los diferentes sistemas, o sea, hay cambio un poquito el modelo.
+
+[58:01]
+No, es que yo lo contraté usted para que me desarrolle este sistema, sino yo lo contraté a usted para que con una cantidad de horas medidas por puntos funcionales, me mejore el sistema de tal manera en estos aspectos y me lo mantenga mejor mantenga el mejoramiento de ese sistema sí y los ingenieros de sistemas dentro del banco son realmente. Llamémoslo así la como los interventores o los auditores o los que dicen mire el Señor dice que se va a gastar tantas horas con tantos puntos funcionales en hacer estos requerimientos que levantamos con el cliente. Sí, entonces él participa en el en toda la cadena desde que el cliente hace sus requerimientos que toca también ese es un tema que que digamos entre 95 y y tú 2013 2014 es muy así en el banco, digamos, hacemos requerimientos para un sistema nuevo o hacemos requerimientos para mejorar un sistema existente, sí, esos requerimientos pasan por
+
+[59:01]
+Cadena hasta que van allá a que lo desarrollen y vuelva otra vez la etapa de pruebas pruebas y pruebas de unidad pruebas integrales y llegue otra vez al cliente final y diga así eso es lo que yo quiero ese proceso digamos, ha funcionado bastante bien en el sentido de la calidad del software. Funcionó bastante bien el sentido de la calidad del software, pero no muy bien en los tiempos y la oportunidad para los clientes, o sea, de todas maneras estamos hablando de cosas que le podrían tomar a un cliente desde tres meses hasta seis meses por requerimiento simples, o sea, yo quiero este cambio. Sí lo va a ver dentro de seis meses caramba. En serio, muchas mucho tiempo.
+
+[59:41]
+Entonces, digamos, viene primero una modernización digamos entre el 95 y el 2000 porque realmente tocó desplegar aplicaciones a nivel de toda la organización, el que no tenía un sistema tenía que tener sí y el banco tiene fácilmente unos 50 departamentos y sus sucursales. Nosotros tenemos mejor dicho a 2020 de 2021. Nosotros teníamos 100 sistemas fácilmente todavía a pesar del montaje de savia a pesar de la integración que se ha hecho de procesos y todo son demasiado sistemas departamentales, entonces digamos en la forma de desarrollo hasta la fábrica y devuélvase hasta que tengo un sistema entregado y y entonces te redujo las áreas de programación o se incrementó más personal hubo más.
+
+[01:00:41]
+Todavía no hay una directriz muy grande institucional y relacionada, pues precisamente con el tema de outsourcing y de gasto público principalmente de mantener la nómina, al menos la de tecnología muy estable, o sea, yo mucho, ya viene una temporada en que después de como dices tú después de la Constitución pues primero con el banco con esa reducción de dejar de ser banco para personas, el banco tiene unas infraestructuras muy grandes y viene un down size, no solo en el en el tema físico principalmente edificios y cantidad de empleados, no en el área de tecnología, pero en el área de tecnología no podíamos crecer la planta en una forma significativa, o sea a la como ustedes saben yo yo me retiré del banco hace dos meses. Entonces, pero hace dos meses, teníamos un área de tecnología con
+
+[01:01:41]
+Estas personas y eso en el más o menos corresponde a la planta de personal de tecnología que podíamos tener a principios de siglo. Sí, 160 digamos que de 2000 a 2020 la planta no cambió mucho de 160 200 personas más o menos y entre bueno y y cambios tecnológicos de fondo porque estás hablando de la de la organización de la automatización llamémosle el sistema de aplicaciones de las áreas, pero hubo cambios en infraestructura, qué cosas tuviste yo tú que administrar con esos cambios.
+
+[01:02:23]
+no, pues mira, y ahora sí del el periodo 95 2010 digamos que bueno en ese periodo viene todo el tema también, que es que no se le olvida todo el bailecito ese del año 2000 eso porque eso mejor dicho yo no sé cómo logramos crear semejante paranoia pero pues
+
+[01:02:39]
+Tocó meterle la mano a todos los programas, a ver qué era lo que estaba pasando con el año 2000, eso fue un desgaste tremendo, pero bueno quitando cerrando ese tema del año 2000.
+
+[01:02:49]
+Todo durante ese periodo el crecimiento de potencia tecnológica es es tremendo y la interacción con Internet pues ya se vuelve realmente mejor ya para el 2010 quedarse sin internet, era no poder operar porque ya empieza digamos todo el área cultural ya para por ejemplo ya en el 2010 nuestra área cultural ya se había ido para la nube.
+
+[01:03:18]
+sí, nosotros en nuestras instalaciones, digamos si tenemos todavía el sistema de pagos de Colombia
+
+[01:03:28]
+Todo el tema de fabricación y emisión de efectivo que eso está supremamente tecnificado hecho nuestra fabricación de efectivo se tecnifica tremendamente en el 2006 y todas las aplicaciones asociadas a esa fabricación y emisión de efectivo se tecnifican tremendamente en ese periodo el crecimiento de poder de cómputo y el aceleración de telecomunicaciones y velocidades de telecomunicación durante todo ese período se crece mucho.
+
+[01:03:56]
+Lo que pasa es que ya digamos, yo me quedaría en todo ese crecimiento porque ya el correo electrónico y la agenda de hecho yo me acuerdo la última caída grave, que tuvimos alguna vez fue como en el 2012 tal vez no tuvimos un incidente en uno de nuestros dos centros de cómputo y y como durante dos horas nuestro jefe, nos dijeron, no pudimos trabajar porque usted me dejó sin agenda. Yo no sabía qué era lo que tenía que hacer el despliegue de correo y de agenda se volvió el día a día de las personas, o sea, tú habrías la agenda para saber qué era lo que tenías que hacer y si no podías abrir la agenda, no sabías que tenías que hacer no sabías con quién tenías que reunirte a quién tenías que llamar cuáles eran los trabajos del día?
+
+[01:04:42]
+Entonces ya ese despliegue y esa interconexión y ese y ese depender de la tecnología ya para el 2012 era una realidad tremenda en el cual.
+
+[01:04:52]
+Escasamente los empleados que fabricaban el efectivo eran los únicos que no necesitaban la tecnología tradicional que ellos también tienen su tecnología para eso, pero el resto de los empleados es que hasta los hasta los señores que prestan un libro en la biblioteca o los señores que hacen tours en los museos.
+
+[01:05:10]
+sin la comunicación de correo electrónico y sin sus agendas
+
+[01:05:15]
+Panorama interesante obviamente va a ser el recorrido y vamos bien, no? Pero el banco en nuestro medio de sistemas, yo también fuiste en programas y todas esas cosas que tú dices que era como estar en el cielo no es trabajar con la máquina y todo maravilloso el barco era generador de tecnología eso que dijiste que desarrollaron software para telecomunicaciones me imagino muy Utilities dentro del sistema operacional UNIX hubo una época que fueron muy generadores de esas tecnologías ya después obviamente las multinacionales no llenan de tecnología y bueno se compra pero una época es muy fuerte en eso no Mauricio pues mira yo creo que el sistema de pago sí generamos la tecnología porque mejor dicho que que la Tesorería de un banco.
+
+[01:06:15]
+Moviera su plata en el Banco de la República se hizo totalmente con ingeniería hecha por nosotros no y qué tal macho? Yo no le puedo trasladar trasladar esos costos a todo el sistema financiero colombiano es costoso nosotros hicimos en la arrancada comunicación con líneas análogas con módem comunicación segura punto a punto entre una tesorería de un banco comercial y nuestra y nuestro y nuestro sistema de central de cuentas de depósito de los bancos sí, eso se hizo con ingeniería nuestra.
+
+[01:07:00]
+Un ejemplo ejemplos de estos además del del antivirus hay hay muchísimos el emulador de pantalla por ejemplo porque esto finalmente había un mainframe en el en la parte central y la Tesorería del banco comercial pues tenía un texto sí, el emulador de pantalla fue hecho por nosotros por un ingeniero de del banco fue el que hizo el emulador de pantalla es ingeniero, por ejemplo hoy en día ingeniero Sistemas de la Universidad de los Andes José hermana Acevedo está siendo código en motorola. Sí está haciendo código para celulares Motorola hablando de gente que como yo que le gustaba la parte de abajo sí, entonces eso lo hicimos nosotros sí fuimos generadores de tecnología para que el sistema de pagos funcionara así de sencillo. Nosotros no podíamos obligar a todo el sistema financiero en algún momento lo pensamos ya después de llevar.
+
+[01:08:00]
+Consejo a varios años dijimos no, pero que le vamos a decir ahora al sistema financiero que las transacciones que no le cuestan tanto con Banco de la República ahora todo va a ser con mensajería, suite y que cualquier transacción que haga le va a tocar pagarle a su hijo una plata y le va a tocar asociarse a su hijo, aunque ya todos son socios de Sui pero las transacciones nacionales las hacemos vía cebra. Entonces sí fuimos generadores de tecnología en esa parte el juez de la Biblioteca Luis Ángel Arango en los noventas.
+
+[01:08:30]
+realmente era fue una de las primeras instalaciones que le permitía a los colombianos tener un pues salir a Internet sí, es que uno no se acuerda pero es que no no cualquiera salía internet no cualquiera podía ir a un browser y consultar algo en los 90 la gente podía hacer eso en la Biblioteca Luis Ángel
+
+[01:08:53]
+Entonces ahí hay dos frentes muy interesantes de tecnología que desarrollamos a finales del siglo pasado y ahí cambias de estatus que o continuas como lo que pasa es que me vuelvo jefe, me vuelvo jefe de la parte técnica, no tanto del área de negocio donde digamos, tecnología tiene entonces una parte fuerte la de siempre el departamento de sistemas donde da las soluciones al usuario final sí, pero la parte de infraestructura digamos, yo sigo como yo me vuelvo el jefe la parte de infraestructura y la infraestructura es todo el tema de la red todo el tema de los sistemas operacionales, las máquinas que se compran los centros de cómputo a finales de los 90s, digamos nosotros como en el 98 finalmente pusimos a funcionar los dos centros de cómputo por el tema de alta disponibilidad porque para el sistema de pagos del país eso era crítico de hecho. Yo no podía parar el sistema de pagos del país por un centro de
+
+[01:09:53]
+Yo tenía que tener dos centros de cómputo por lo menos y uno totalmente que que sostuviera al otro en caso de una de una tragedia. Nosotros aprovechamos una instalación de la Biblioteca Luis Ángel Arango en los noventas y montamos un segundo centro de cómputo con la luz, lo que pasa es que eso era muy cerquita, no en la ONCE con la 11 con cuarta, pues eso era una resiliencia, además en el centro de Bogotá que hoy en día pues todo el mundo 31 de agosto todo el mundo dice que va a haber terremoto en Bogotá otra vez, no? Entonces esa resiliencia siempre la teníamos como una espada de Damocles diciendo ustedes tiene que tener algo más sólido ya con la con la fábrica de billetes allá en las instalaciones de la calle 26, movimos un centro de cómputo allá, pero digamos en ese momento. Nosotros somos referente nacional de cómo se hace una alta disponibilidad entre dos centros de compra en una organización.
+
+[01:10:53]
+Si Edgar pero necesitábamos dicho lo que empezamos a ver es que nosotros teníamos que tener lo que se llamaba en ese momento el RP o de el RP o cero, o sea que no se pierda ni un bit sí o sea que si llega a haber una desgracia en un centro de cómputo, yo no podía perder un solo bit, entonces, nosotros conectamos los dos centros de cómputo con fibra óptica, sí, o sea, bit que se escribía en un centro de cómputo que daba automáticamente escrito en el otro antes de decirle al cliente la transacción es correcta. Sí, entonces teníamos una resiliencia todavía se tiene hoy en día, eso es firme lo que pasa es que ahora ya tenemos la nube, entonces ya aparece otra historia, pero la resiliencia en ese momento se logró con fibra bueno en el centro de Bogotá en esa época tocó con un rayo láser tocó conectar los datos con rayo láser entre un edificio y el otro con línea vista y que nadie y que nadie cierre la ventana o cierre la cortina porque se nos corta la comunicación, pero pero ya una vez.
+
+[01:11:53]
+a finales de los 90 ya logramos conectar eso con fibra óptica sí, nosotros arrancamos con la con rayos las autoridades, pues con fibra óptica teníamos eso y a nuestra central de efectivo ya estábamos a 10 kilómetros con fibra óptica sí alguna claridad sobre tu consulta de Cali
+
+[01:12:14]
+eso tiene que ver es con nuestra vigilancia física sí o sea una sucursal puede vigilar a Bogotá
+
+[01:12:23]
+Porque pues en Bogotá también ahí es bueno que que esté vigilada pues que la seguridad física de los que controlan seguridad física esté vigilada desde algunas sucursal, entonces tenemos esa esa reciprocidad en la vigilancia física la videograbación los circuitos de televisión tienen ese tipo de reciprocidad sí, es que siempre alguien esté vigilando a uno desde al otro lado eso no existía para el robo del banco en Valledupar esa es la la razón, la razón de la razón de cómo se fortaleció la vigilancia física tuvo que ver efectivamente porque en Valledupar en el 94, pues Valledupar estaba solo estaba solo en Valledupar me ocho nadie de Bogotá ni de Barranquilla estaba vigilando sí, entonces, pues localmente se dio todo, pues la alarma la policía, pero la policía también es parte del juego entonces.
+
+[01:13:23]
+Digamos eso de alarmas a la policía y eso venía de lo que te contaba yo de pasto el tema de que no me hagan un túnel cosas de ese estilo, pero lo que no sé no se previó, era que toda una sucursal, pues digamos unos señores de vigilancia, dentro de la sucursal. Un señor más una complicidad de las autoridades y unos ladrones lograron hacer lo que se hizo en Valledupar pues finalmente la Plata por X o ya razón de nuevas emisiones y todo eso, pues no, no se perdió pero pero sí, fue una lección de seguridad física para el banco, la vigilancia, remota, incluso nuestra primera red nacional tenía más en el 95 que la montamos tenía más razones de seguridad electrónica que de intercomunicación de transacciones sí era más por la vigilancia inmediata de las diferentes bóvedas del Banco a nivel.
+
+[01:14:23]
+Nacional la que montamos en el 95 tenía esa razón.
+
+[01:14:27]
+Bueno, y qué cambia así radicalmente antes del 2010 para pasar del 2010 al 2020?
+
+[01:14:35]
+No es diario. Creo que ahí sí, yo me quedaría solamente en una etapa de mejoramiento continuo de las aplicaciones obviamente ya aparece empiezan a aparecer el concepto del de la aplicación web, que es que ese tema del cliente de servidores o era una tragedia, entonces ya tenemos un sistema central o obviamente una dependencia total de la telecomunicación entre entre ese web y el sistema central y el servidor Web ahí, sí, por eso te digo el internet, se vuelve ya no dicho si yo no tengo internet yo no, pero porque mi browser no no va a poder operar. Entonces tenemos que tener buena comunicación con el sistema central, pero ya tenemos el que viene todo el concepto de las aplicaciones livianas, precisamente porque cuesta el ancho de banda y nos toca tener una comunicación liviana desde los browser hacia el sistema central de hecho. Esto no pueden ser paquetes de de un mega porque con las comunicaciones que tenemos no se puede sí, entonces esto tiene que ser paquetes muy livianos y la
+
+[01:15:35]
+Web muy ágil y ahí se Forza también a los bancos en las conexiones a desarrollar aplicaciones, no, yo recuerdo que una de las que dice era para el registro de la inversión extranjera de la deuda externa cuentas de compensación y lo que hacían era transferir los archivos pero posteriormente veo que hay conexiones en línea, no?
+
+[01:16:00]
+sí, es eso esa esa estadística del sistema, pues lo que tú trabajas lo que trabajamos en la parte cambiaria que las estadísticas internas las estadísticas nacionales sistema estadístico cambiario, eso obliga a que todo intermediario del mercado cambiario que hace una operación internacional tenga que reportarnos operaciones de cierto monto hacia arriba en tiempo real, pues digamos, no, no, esa operación en ese momento, pero por tarde todas sus operaciones tienen que llegar al banco esa semana o ese mes dependiendo el tipo de operación sí y efectivamente, pues las diferentes entidades tienen que también desarrollar cosas para mandarle al Banco de la República a eso sí hay una jalada si jalamos al sistema financiero por un lado el depósito central de digamos los los títulos de deuda pública, los guardamos nosotros los títulos de deuda privada se guardan en de cebal pero el cumplimiento de
+
+[01:17:00]
+El Front Office que yo realizar una operación y comprometerme a comprar un título por ejemplo y tener ese título esa noche porque esa operación se tiene que cerrar ese día eso sí me ha hecho puede que toque extender el horario si una operación se cierra eso se tiene que realizar ese día y entonces a nuestro sistema de cuentas de depósito se integra de ese, vale? O sea, la bolsa es de Bolsa de Valores con el ceval con el manejo en el backen de los títulos de deuda privada actúa contra Banco República ese mismo día entonces eso jaló un poco también el sistema financiero la resiliencia de el famoso terremoto de Bogotá no he hecho si ellos muchas veces decían pero si Banco República no tiene resiliencia nosotros para que la ponemos no me acuerdo pública así tiene resiliencia pues hoy en día ya tenemos centro de cómputo desde hace como desde el
+
+[01:18:00]
+2007 tenemos un centro de cómputo en Barranquilla también.
+
+[01:18:02]
+Lo que pasa es que ya la nube nos hace pensar un poco más en otro tipo de resiliencias que hay que seguir desplegando centros de cómputo ya hoy en día uno dice con la nube, cómo es mi resiliencia sí y el terremoto dos veces el terremoto el famoso poema de un día de agosto de un año que no diré un terremoto de estudiar a Santa Fe de acuerdo, 31 de agosto un día de agosto. Bueno, sí, había mucho mucho ese temor quiero volver un poquito a lo personal esto me permite porque ya vamos como en el 2011 12, ya hemos avanzado y de pronto en tu proceso de vida, está la economía y la geografía estoy equivocado.
+
+[01:19:04]
+Digamos la economía sí es un tema muy relacionado con el banco, sí, porque realmente ya llega un momento de mi vida, en que yo tengo que entender dónde estoy trabajando y y yo estudié economía un poco también para entender el dolor de del negocio sí, de todas maneras el principal proceso del banco es macroeconómico. Sí es política macroeconómica. Sí, ese proceso, pues también se puede tiene una llamémoslo, así tiene un ciclo que se cierra todos los meses con la Junta Directiva diciendo si se incrementan nuevas tasas de interés, yo me vi en la necesidad. Yo dije, yo tengo que entender economía un poco más, porque yo sí tengo que tener un poco el negocio, que estoy trabajando y para quién estoy trabajando, porque ya ya yo me vuelvo director general de tecnología, o sea, ya soy entonces él ya me vuelvo el cómo se en ese momento se llama el SIA yo ya después aparecen otros términos como
+
+[01:20:04]
+Sitio o si eso bueno todo, pero en ese momento realmente tecnología digamos ahorita, por ejemplo en el banco ya se distingue el sitio del chip data officer sí, uno es el chip técnica y otro es el chip data esos cargos. Están en el banco, se llama director general tecnología y hay otro que se llama director general de información.
+
+[01:20:28]
+Pero en ese momento yo era ya el chip information officer y entonces a mí sí, ya me toca entender las aplicaciones de negocio y yo veo una habilidad muy grande en la parte económica sí, en cómo funciona el proceso de los economistas completo, no con todas sus estadísticas sus, pues para ponerlo con sus análisis econométricos, sí, su simulaciones y ya las decisiones de inflación o de programación o inflación que es cuando el equipo técnico le recomienda la Junta o no subir las tasas de interés, que es uno de los tres mecanismos económicos con que más o menos se maneja la política macroeconómica porque los otros dos, pues la tasa de cambio y emitir moneda, no, no es son los que se usan hoy en día, entonces hoy en día se trabaja con las tasas de interés. Eso eso fue la economía la geografía sí era una.
+
+[01:21:28]
+Curiosidad totalmente personal eso sí es porque yo desde desde muy pequeño me metí en tema de caminar montañas en el banco me fortalece en el banco junto con esas horas de las clases no eran incompatibles, pero sí era una cosa totalmente personal lo de Geografía y historias y era totalmente personal. Bueno, yo sí me acuerdo que me acuerdo que Mauricio hicimos un álbum de de Colombia y Mauricio dijo ah, pero es que yo esas fotos que tenemos en el álbum. Yo la quiero tomar tener personal tomar personalmente, cómo te fue en eso, pues sí Edgar me he movido por Colombia pero principalmente por la región andina. Yo diría por las
+
+[01:22:28]
+Y por las montañas que me apasiona pero y y pues tuve una oportunidad una oportunidad increíble fue que el banco me me dejó la gerencia de Leticia durante casi tres años durante casi tres años yo yo vivía en Leticia ahí me fabrique un poquito más con la Amazonía sí, pero mira en este momento la Orinoquía y la región Pacífica yo yo la desconozco mucho todavía cualquier en esos en esos en esas colecciones de los 100 lugares de Colombia que toca visitar y que tienes que ver y no sé qué yo creo que cualquiera que quede por el por la costa de por la costa pacífica y y por la Orinoquía no lo tengo yo desconozco todavía esa Colombia pero la mayoría de la región Caribe y la región andina, si me debiendo bastante bien ese tema personal es parte del factor humano, no Edgardo del ingeniero me acuerdo Alberto Pradilla de pepsini, este Colombia que ha hecho 22 veces el cruce de todo.
+
+[01:23:28]
+Magdalena en lancha, ustedes se acuerdan de esa historia de Alberto Pradilla no sí es decir me acuerdo también cuando ustedes economía y aquí tengo el pecado que no me acuerdo del primer compañero mío de estudios en los Andes de larva con la República que estudió Derecho uno de los colegas de ustedes de esa época pero el nombre debía tener una mente Jorge Sánchez pasó no me acuerdo si era Boris pero es un pecado de realmente pero es muy interesante eso que decía Mauricio de pasar de la ingeniería pura de sistemas a la labor del usuario para la labor de la dirección de los procesos mismos de la empresa eso no se ve tanto ahora no pero en el Banco de la República se dio mucho pero me parece no eso es muy interesante.
+
+[01:24:23]
+el actual operation officer del banco es Francisco Rivas es ingeniero de sistemas
+
+[01:24:31]
+de los Andes también en esto plazas que es el el encargado de todo el tema de la producción y distribución de efectivo también es ingeniero de sistemas de los Andes
+
+[01:24:44]
+En el banco si esa ese movimiento de Ingenieros de Sistemas a la parte administrativa de negocios se dio.
+
+[01:24:53]
+También yo diría por otra parte y eso es una opinión muy personal porque a los economistas como que no les gustaba esa parte digamos operativa del banco.
+
+[01:25:05]
+Pero ese tema, por ejemplo, el tema de la econometría yo trabajé con con Guillermo Ferri haciéndole software en SPSS desarrollo y Guillermo era un hombre muy del Banco de la República cierto muy de estos temas de de esas legislación económica macroeconomía y era un tema de la ingeniería que nos tocaba acercarnos a esos personajes y entrar en temas que eran nuevos para uno la econometría, por ejemplo no desde el lado del desarrollo de aplicaciones Miguel Urrutia y Guillermo perrera el muy del Banco de la República obviamente.
+
+[01:25:48]
+Bueno, yo creo que hemos esperate, pero falta la último los últimos sucesos en el la última década que organizacionales personales y tecnológicos que podrías destacar, pues mira, aquí hay un tema importantísimo.
+
+[01:26:10]
+Porque marcho yo te diría que la última década viene con el tema de Fintech detengan de financial.
+
+[01:26:24]
+Y es el que tiene digamos que mover ese financial technology y facilitar que los diferentes actores del ecosistema financiero se dé esa intercomunicación y ese y ese movimiento del dinero, ese es un punto bien interesante de lo que se viene yo te diría como tres puntos claves como Banco Central el tema de Fintech y nosotros estamos trabajando un proyecto de pagos inmediatos sí y el proyecto de pagos inmediato lo que significa es que las transferencias de dinero de cualquier no sé, pero en Colombia da vivienda al Escocia al PSE al tuya se den inmediatas inmediatas son 10 segundos inmediata no es mediodía y fuera eso que sea un costo razonable. Sí, ya estamos viendo ecosistemas y
+
+[01:27:24]
+Llamamos cerrados, digamos.
+
+[01:27:26]
+Tú ves neck y tú ves David plata, sí, tú ves el los esquemas del Grupo Aval sí que son ecosistemas cerrados, pero esto se tiene que dar un movimiento mucho más ágil, en el sistema de pagos y fuera eso con muchos más mecanismos y muchas más muchas más amplificación que le permita a estas entidades interactuar mucho más fácil y que ese beneficio se traduzca al ciudadano, sí, el beneficio porque pues ellos tienen unos costos, pero si reducimos esos costos esas transferencias, deberían ser hacer o costo para el ciudadano por un lado en el esquema de la de la empresa digital, tenemos un reto tremendo las empresas colombianas y lo veíamos en el pan y es que las empresas digitales pues el 50% del personal es tecnología. Tú miras de 50% Creo que el 50% de los empleados de NX son tecnología, no sé.
+
+[01:28:26]
+Los empleados tengan u Bank pero pues mercado libre la mitad de los empleados son tecnología porque la empresa digital bueno, tu negocio, ya es lo que vemos en la pantalla. Tú no vas a la vitrina, tú no vas a la sucursal, tú no vas al tu vitrina? Es lo que estás viendo en el computador.
+
+[01:28:46]
+entonces, pues hemos visto nosotros en el banco sufrimos tremendamente en estos últimos hechos después de después de la fuga de nuestros ingenieros de hecho nuestros ingenieros no se van de Colombia pero sí se van para una empresa internacional y trabajarían como y yo no mejor dicho nosotros yo como le decía yo al gerente, que es que el ingeniero tenía que ganarse 5000 dólares mensuales 4000 dólares mensuales si van a ganar 4000 dólares mensuales un economista del banco no se gana sí, entonces que los ingenieros tienen que ganar más que los economistas que son el negocio del banco ese es un reto inmenso que tenemos que yo no lo he podido descifrar, pero pero mira tú crees que yo que hemos podido contratar ingenieros de los Andes o de las averiana o de la Nacional o incluso de la Distrital se me acabo de ir uno para Suecia
+
+[01:29:43]
+Un tipo que estábamos trabajando con él en blockchain, sí, pues ya sabía las diferentes esquemas de blockchain, eso se fue del país rapidito claro, entonces esa empresa digital está costando en ingenieros, sí, porque son el negocio y la competencia con el exterior no estando muy duro conferencia de esta globalización nos está dando muy duro. Sí trabajan aquí en Colombia pero
+
+[01:30:12]
+Te puedo decir para todos lados, muchos se nos fueron para Amazon se nos fueron para el hop del Escocia que es una cosa internacional. Sí, pero fueron todas las compañías internacionales, claro está bien difícil también ha afectado el desarrollo tecnológico supongo porque pues entiendo que la mayoría de los empleados están más por fuera que en el edificio ya.
+
+[01:30:42]
+Nosotros en el 2020 apenas se acabó en el 2021 quedó bueno, no 2022 realmente quedó institucionalizado el trabajo cuatro por uno o nueve y uno cuatro y uno o nueve y uno mejor dicho un día a la semana vas al banco o un día cada dos semanas vas al banco?
+
+[01:31:03]
+De resto trabajas en la casa?
+
+[01:31:05]
+Y si no hacíamos eso se nos iban más todavía no he hecho a ver si perdíamos más ingenieros algunos se quedaron. Gracias a eso, muchos se quedaron. Gracias a eso.
+
+[01:31:14]
+Ese fue el condomino es muy clave Mauricio perdona en los cambios que tiene que dar el país en la visión de lo que son los ingenieros de sistemas, fíjate tú en el tema de la educación en el año 2000 le hacían cruza la educación virtual, sí, eso no. El Ministerio no se metía cuando se llenó esto con la alerta de Cataluña y Tec de Monterrey de educación virtual, si miles de ingenieros con maestría ya etcétera primero que decir oye, qué está pasando? Me parece que eso que tú acabas de decir va a ser un proceso en la evolución muy clave no Edgar una conciencia de lo que es el ingeniero de sistemas que no lo que hace muchos años nos preocupaba, que pensaban, que éramos los que hacemos mantenimiento a las impresoras no esto ya pasando a unos niveles muy interesantes y es un comentario muy válido recuerda que esto va para las universidades y para las promociones y la parte empresarial no es la conciencia de lo que es un ingeniero de sistemas.
+
+[01:32:14]
+la historia de vida que estás diciendo no solamente digamos los más que entre nosotros, sino lo que va a implicar en los discursos que se van a dar en estos años sobre lo que es el género del sistema, pero estamos ahí fundamentales uno la remuneración sí, esa competencia con la remuneración, pues realmente la Academia lo está haciendo bien porque si no estos tipos no estarían yéndose a trabajar a otro lado, pero en la empresa local estamos sufriendo mucho con esa remuneración con esa competencia con la remodelación y algo que sí es general y que lo estoy viendo es el tema del user experience cuando cuando nosotros hicimos Ingenieros de Sistemas nosotros, obligamos al Dios de experience al usuario y le decíamos, es que a usted le toca yo no sé si ustedes me echo uno, usamos la solución, pero cuando uno cuando uno le tocaba el SAP de clientes servidores o era a usted le toca dar el
+
+[01:33:14]
+Así viene el producto y así le toca usarlo, sí, pero en el User Experience cuando tu negocio va a perder un cliente, si tú no encuentras rápido, dónde es que estás de colchón o dónde es que estás de televisor que vas a comprar o dónde es que está en la las hamburguesas y eso es una especialidad que curiosamente se está dando más en el mundo de la ingeniería sistemas que en las otras temas de diseño antropología o pero pero en las en las clases de Computer human interaction dentro del dentro de Ingeniería de Sistemas en donde se tiene que dar el User Experience de hecho somos nosotros los que tenemos que entender el User Experience y facilitar el User Experience y no obligar y no transformar el cliente en un usuario de lo que a mí se me ocurrió. Eso es otro tema, que a mí me parece grueso lo que hemos visto de transformación digital válida bueno y en
+
+[01:34:14]
+Que antes de retirarte seguramente, pues alguna nostalgia, qué impactos y te generó el tener que cambiar ya debe de el esquema en la que dejaste como bueno, esto es mi hijo. Bueno, dejarse muchos hijos ahí de tecnológicos al final que destaca de lo que dejaste.
+
+[01:34:38]
+pues mira Edgar yo todavía pues es que me fui hace dos meses entonces yo todavía tengo pero tengo como tres hijos ahí pendientes estoy pendiente de cómo termina digamos el primero es que nuestro centro de cómputo secundario sale del centro de Bogotá
+
+[01:34:58]
+Ahora sí se va a una empresa especializada en centros de cómputo y más allá del río Bogotá o por tu canción, entonces eso es un hijo que tengo técnico que es muy cercano. Yo quería sacar ese centro de cómputo de la Jiménez con séptima y va a salir de ahí, eso ya tiene fecha y todo el sistema de pagos es un hijo que se demora un poquito más, pero debe salir en el 24, sí, o sea, eso de que todos estos Gabi Plata en donde puedan interactuar y con beneficios para el usuario, ese es un segundo, hijo que viene.
+
+[01:35:46]
+y los en el tema de la nube, lo que estamos viendo no sé ustedes han oído hablar de lo que es un auto de Amazon o de Amazon Web Services o sea Amazon
+
+[01:35:59]
+Pone todas sus máquinas en tu centro de compra en lugar de uno estar buscando por allá cosas en Amazon por temas de latencia a uno si le puede convenir suena chistoso, pero en lugar de yo irme a la nube de Amazon por allá, quién sabe dónde Amazon se viene y me pone un autos en un centro de cómputo por temas de latencia en sistemas transaccionales que requieren una velocidad inferior a los 30 milisegundos que puedo yo tener cuando estoy interactuando con una vaina, pues está por allá en California o en Miami sí, eso es un tema. Esos son tres hijos, que tengo todavía pendientes, que quiero ver cómo terminan en lo que estamos haciendo en la modernización del banco en este tema ahora sí de la transformación digital del sistema de pagos. Bueno Manuel tú preguntarás.
+
+[01:36:56]
+No, no, no ha sido muy interesante. Había cosas que no sabía de Mao me identifico por aquello que existen programas yo trabajé en la sembre fui profesor en los Andes de assemble en el 360 todavía programa y me encanta ese mundo tomé cursos de BIOS multiusuarios de CPM se acuerdan el CPM esta operación, no? O sea, son temas que para decirle a los a los jóvenes que van a oírnos a veces uno entra en mundos que realmente no tiene claro, para dónde va, pues tiene una gran pasión por el conocimiento de acuerdo y eso es válido, no todo tiene que ser utilitarista, digamos, puedo hacer este curso porque es que va a ganar más, no? Yo creo que se ha visto mucho en las entrevistas, no Edgar que nos dicen los colegas. Yo no sabía que iba a ser en la vida con los sistemas, pero me fascinaba lo que estaba haciendo me encantaba programar en list decía uno de los entrevistados.
+
+[01:37:56]
+Que tú mencionaste entonces identifica un proyecto de vida, no acaba de salir de del banco, pues en el proceso normal yo llevo 23 años en un diminuto y el mes pasado salí de un diminuto, eso no le contaba mucho a Edgar no y nada de nostalgia es decir, hay una cosa de formación personal muy importante y lo que dejas no, eso sí hijos y lo que sigue porque creo que la vigencia de los que somos muy técnicos en esto es alto. Entonces es una enseñanza muy buena ese proyecto de vida, que hemos notado, eso no se sabía para dónde ir entró la Universidad a todos nos pasó. Yo puedo vender y todo eso y mire que va mirando retrospectivamente se ve el camino recorrido tan interesante no hay que agradecerte que hayas querido participar y claro, si quieres concluir de alguna manera, hazlo para para ir.
+
+[01:38:56]
+Cerrando la conversación.
+
+[01:38:57]
+Gracias, no es lo que lo que les quería comentar. Yo creo que ese tema que nos toca preocuparnos de la de user experience y el tema de no perder en el país estos ingenieros que se no están yendo por globalización a trabajar con con tecnologías en otros países, no de hecho no estamos quedando un poco huérfanos de toda esa de toda esa mano de obra, eso no tengo la respuesta respecto a la a la segunda la primera si yo creo que desde ya nos toca trabajar el tema yo ser a todos perfecto fantástica recomendación, pues no, yo quisiera darle las gracias a Mauricio seguimos siendo colegas y amigos de por vida, por supuesto claro, y pues el aporte ha sido muy valioso hacer este recorrido por pues claro que es gratificante. Yo yo quería era comentar que una de las asignaturas que yo estuve por perder que afortunadamente no lo hice.
+
+[01:39:57]
+Tu economía y yo no sabía para qué me iba a servir y cuando tuve que interactuar porque me pusieron a estudiar cámara el profesor blanco que era el que después fue el rector de la pedagógica cuando ya tuve que interactuar con los economistas le agradece mucho al doctor Franco de no haberme permitió perder la llave haberme hecho estudiar uno no sabe para dónde va la vida, pero todos nos aporta y fíjate que pues terminamos en a mí sí me llamaba más la atención el tema como lo viste y del negocio y me metí en como desde el principio, pero bueno, ahí ahí tuvimos apoyo mutuo en esos procesos de desarrollo y transformación Digital de la Universidad del banco, pues muchas gracias Mauricio muchas gracias por este espacio también para hacer una autoevaluación de mis últimos 40 años bien.
+
+[01:40:57]
+Que sepas Mauricio como como ves este es una entrevista privada va a ser pública en su momento, verdad? Pero está hecho digamos para aprender de todos este proceso y en su momento le te contaremos. Hay muchas cosas que Edgar y yo no hemos resuelto, digamos del proceso, verdad? Seguramente vamos a escribir un libro, vamos a editar estos vídeos estas, pero sobre todo poder marcar en un mapa, no esa esa transformación personal humana y tecnológica y académica. Gracias a Beatriz que sin ella no hacemos nada cierto Beatriz le vamos a pedir que en la clase de Arquitectura Empresarial haga referencia a estas historias que está aprendiendo.
+
+[01:41:57]
+Muchísimas gracias, bueno, felicidades.

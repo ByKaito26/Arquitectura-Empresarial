@@ -1,0 +1,323 @@
+[01:06]
+Y para ponerlo en el contexto de lo que ocurría en ese momento, pues los peces acaban de salir al mercado, era era un buen ensayo de IBM y tal vez si recuerdas estaba radio Chac que tenía unas máquinas en el mío exacto y había algunos ensayos de computadores personales, pero nada estándar realmente eran muy muy dedicados a la marca Microsoft pues era una compañía desde cosas más sofisticadas como Internet ni hablar y todo lo que realmente todo se referencia. Sí, yo tenía la fortuna de que de escuchar a mi papá.
+
+[02:06]
+hablar de todo lo que se estaba haciendo en un ambiente tecnológico en el país, pero siempre eran mains en acuerdo de alguna visita que comentó yendo a Brasil a visitar al banco y tabú donde era un edificio completo el centro de cómputo el piso de los
+
+[02:30]
+verá que la imagen se bloqueó y a pesar de tener ese contacto con la tecnología yo empiezo por ingeniería civil y entre ingeniería civil en la Escuela Colombiana ingeniería y veníamos con el con el ritmo de las básicas no teníamos las materias iguales en todas las carreras la escuela todavía no tenía Ingeniería de Sistemas ahí el universo se me atravesó porque la única estudiante Ingeniería de Sistemas era María del Rosario que terminó siendo mi esposa entonces de pronto él el destino jugó a mi favor afortunadamente y a medida que empezamos a ver las materias más más centradas en Ingeniería Civil
+
+[03:30]
+y empezamos a dar estructuras y cálculos estructural empecé a sentir como que esto tenía mucha aplicación desde el punto de vista en los computadores, mi papá había comprado un PC y hacíamos las tareas de estructuras utilizando hojas de cálculo y una programación muy elemental en BASIC
+
+[03:50]
+Y fue como metiéndose en el gusanito hasta que al estar en sexto semestre de civil decidí hacer el cambio perdí un par de años ahí en ese proceso de cambio, pero pero encontré mi pasión terminamos en el 87, como dices, pero las materias que nosotros veíamos hoy hoy suenan como cavernícolas lo más cercana a los Picapiedra en términos de capacidades en términos de capacidad de potencia de almacenamiento, el tipo de cosas que se veían era completamente distinto me acuerdo bien como un tema que era muy importante en todo el tema bancario, porque todo estaba hecho en Cobol y el que no estuve lo que no estuviera hecho en Cobol pues no tenía.
+
+[04:50]
+Sentido vimos una materia que era revolucionaria bases de datos relacionales y se llamaba Jairo era profesor de los Andes también y trabajaba en el Banco Central Hipotecario espectacular ruinas contaba algo que era, pues el futuro no sentencias SQL que era el imposibles de pensar en ese momento del mundo práctico.
+
+[05:26]
+Y tuvimos algún otro profesor que nos decía, mira, yo quiero contarles esto si algún día llegase a ocurrir, pues lo vemos imposible como el almacenamiento podría llegar a gigas, sí y llevaba la extensión a un futuro realmente imposible de petas y pues eso es lo que tenemos hoy no es era una una ingeniería de sistemas muy incipiente muy muy cercana todavía al hardware en muchas cosas veíamos el lenguaje de máquina y en algunas vacaciones ya empecé a trabajar dice mi primer trabajo alrededor de Ingeniería de Sistemas trabajando con Jorge Eduardo stradi Guillermo caro que tenían un box 1.700 en la escuela.
+
+[06:26]
+De la escuela era un mainframe pequeño, pero era un main frame que tenía la asombrosa capacidad de 16 k de memoria.
+
+[06:38]
+y ahí corrían un montón de procesos y en vacaciones había un turno libre de operador y me y me contrataron para hacer el turno de operador durante las vacaciones que era básicamente procesar temas de cartera todos lo trabajábamos en tarjetas perforadas en ese momento entonces los datos entraban en tarjetas perforadas se producían unos listados gigantescos que se distribuían en los clientes porque eran donde se llevaban los saldos al día porque me daba ningún procesamiento en línea de nada y ahí me quedé, me quedé programando haciendo cositas por horas y en el año 84 85, la verdad es que el gerente general de NCR Guillermo Ángel que era
+
+[07:38]
+Jorge Eduardo Estrada precisamente y en ese R trabajo las primeras máquinas y UNIX al país
+
+[07:47]
+Y le doy ahí hago un paréntesis chiquito y un poco el lado humano de estas cosas acá se mencionan tres personas que fue que usted y yo en mi bios en la historia de los pioneros de la computación colombiana que fueron Ricardo Quintana tu papá número uno Jorge Eduardo Estrada y Guillermo además los tres fundadores de la Escuela de Ingeniería no que es un hito o sea, tú eres hijo de los fundadores de la Escuela de Ingeniería que es la escuela pero los primeros profesores en las primeras profesores y después muy experto en lenguaje C y una historia que a mí me conecta es que cuando yo me independicé por primera vez por allá en el año 76 o 78 el primero que me dio un proyecto a mi princesita chiquita fue Ricardo Quintana en el Banco Central Hipotecario cada vez que me encuentro con tu papá.
+
+[08:46]
+Le digo Ricardo a mí no se me olvida que fue el primero que le dio un proyecto y obviamente te tiene sangre de sistemas porque habla Estrada Guillermo un líder tu papá que fue hasta el rector de la Universidad entonces quería comentar ese tema porque es un origen muy interesante, no las historias en todas entremezcladas, yo me acuerdo justo Guillermo Ángel este esta máquina y UNIX a la escuela.
+
+[09:21]
+Y Jorge Eduardo simultáneamente lo convence Guille ángel, de que entré al mundo de Unix y empezamos a hacer cositas con C cuando se era un lenguaje todavía muy poco divulgado donde tal vez en la Universidad de los Andes hablaban de Pascal como el lenguaje ya estructurado y con una serie de temas mucho más poderosos que contra cowboy que era un lenguaje mucho más simple y empezamos a trabajar en C en ese momento y el primer cliente de ionics que tuvimos.
+
+[10:07]
+Teníamos que hacer la evaluación de un sistema para llevar pólizas de seguros algo más orientado al negocio y ahí te conocí yo, porque en esa época te pedimos una cotización del sistema y eso fue en el año 85, tal vez cuando estabas en lógica, tal vez lógicas software, ya sí, ya habíamos cerrado Microtech en seguros, tienes razón, tienes razón entonces.
+
+[10:52]
+Y ahí me quedé hasta hasta finalizar la universidad antes de finalizar la Universidad un día me dice me comentó mi papá que se ha encontrado en alguna reunión con Alberto Pradilla que Alberto Pradilla tenía la representación de Texas e instrumentos.
+
+[11:12]
+Y que estaba buscando gente que puede hablar a con él y durante un par de meses tuvimos muchísimas charlas con Alberto hasta que me ofreció puesto, me dijo una vez salga de la Universidad venga y empieza a trabajar con nosotros dentro de las hagamos la universidad y hicimos un paseo de fin de carrera y empecé a trabajar con Alberto y me acuerdo que me dijo tengo una posición en ventas y le dije mira Alberto perdón, pero yo estoy ingeniería, no, yo yo no me quiero prostituir y le dije así porque la visión del del de la parte comercial que nos han dado, pues no existían, no en las ventas era el vendedor, casi que lo me lo imaginaba yo como el vendedor de enciclopedias yendo de puerta en puerta.
+
+[12:12]
+y empecé a trabajar en soporte técnico haciendo cosas en C aprendiendo un tema revolucionario que Texas Instruments traía que era multiprocesamiento todo con Unix y en ese momento Informix era como el líder global de bases de datos Oracle estaba apenas empezando y tal vez en el 89 en el 89 horas con lanzó, una versión que corría en las máquinas Texas Instruments y era la versión 7, sino si no recuerdo mal en esa época en en todo lo trabajamos y era el
+
+[13:12]
+momento de vender todas las máquinas Unix y me acuerdo muchísimas veces yo trabajaba en preventa vendiendo y haciendo las demostraciones de que UNIX realmente era un tema viable y que iba a haber un futuro por ese lado y todo otra vez era muy centrado en las capacidades del hardware porque el software era muy básico eran le realmente lenguajes de programación las las soluciones que existían llamemos más o menos empaquetadas y que se distribuyen eran muy poquitas eran más para main frames me acuerdo de los sistemas bancarios que había de los que tenía el Banco Cafetero en mis primeras recuerdos pero eran eran sistemas gigantescos desarrollados en Cobol que se entregaban ahí ahí había otro personaje históricamente también debe recordar que era Johann Henson
+
+[14:12]
+y claro que Johan fue de los primeros ingenieros civiles que salieron de la escuela de la primera promoción y hoy en día pues Enzo sigue siendo una compañía de renombre en Colombia
+
+[14:27]
+Y eso Johan era costarricense, sí, sí, era muy joven. Yo fui amigo de él y tiene razón, hoy día he dicho no puede tener 400 o más ingenieros contratados, así es grande y una cosita te tocó la época de los módems porque te exigen líder en el de las primeras telecomunicaciones, claro, una de las compañías hermanas, de verdad, es redes, no existían realmente el yo me acuerdo en las primeras máquinas que tenemos el la conectividad entre las máquinas era muy cercana con unos cables, coaxiales grueso, los temas eléctricos y electrónicos de transmisión estaban muy con datos tenía.
+
+[15:27]
+Representación de unos módems sincrónicos marca Racal quedaban la espectacular velocidad de 56 K y con esa se conectaban las sucursales a transmitir los movimientos del día a los a los centros de cómputo de consolidación de los bancos nosotros tenemos el cliente al Banco de Bogotá y el Banco de Bogotá todas las noches transmitía desde desde unas unos minis que tenían en las oficinas a sus oficinas centrales los movimientos para poder hacer el procesamiento de los canjes y dos o tres días después entonces estaban al día los saldos de todas las personas.
+
+[16:21]
+En el año 90 tal vez 91 participó en un proyecto revolucionario que tuvo Ecopetrol que fue hacer la Red Nacional de Datos de copete.
+
+[16:38]
+y esa red nacional de datos de Copetrol implicaba traer tecnologías que en ese momento eran muy poco muy poco usadas en el país en ambientes comerciales, porque como dices todo era a través de de módems y pensar en redes locales o en redes amplias, era todo un reto, se hizo un consorcio con Tricom que en ese momento estaba sacando sus primeras líneas de switches y de routers Ethernet participamos con Nobel que tenía su sistema de almacenamiento de archivos Network y en ese momento tenía la distribución de ICE como peces y si son
+
+[17:38]
+Y ganamos un proyecto que era de unas monstruosidades absurdas para ese momento para que hubieran ahí ya estaba graduado, no ya era 91. Yo me gradué en el 87 en 1888 eran más hombres había mujeres en relación de Ingeniería de Sistemas de la escuela fuimos.
+
+[18:14]
+cuatro hombres y cuatro mujeres ahí estaba de las mujeres estaba Marcela Chávez quien falleció hace un par de años estaba María del Rosario Montejo mi esposa estaba Sandra Valderrama que vive en Estados Unidos desde hace 40 sí 30 y pico años Diana Navarrete que también vive en Estados Unidos Orlando Hernández que también vive en Estados Unidos Juan Carlos Álvarez
+
+[18:57]
+Y yo éramos siete perdón, cuatro tres mujeres.
+
+[19:07]
+Y todos hemos seguido involucrados en temas de tecnología desde diferentes y tu tesis de grado.
+
+[19:19]
+Tesis afortunadamente porque no sé que la de que la habríamos tesis. Bueno, muy bien. Bueno, una una una anécdota de de de Alberto Pradilla no porque es otro líder otro de los pioneros de mi vida, también hay que entrevisté. Fue Alberto gran amigo. Él tenía un hobby que eran las lanchas y el cruzó, el Magdalena casi 20 veces como deporte el cruzaba en unos en unos eventos que hacían todo el Magdalena así en las carreras con el Magdalena y eso fue a principios de los 90 también y finalmente él siempre tuvo el hobby.
+
+[20:19]
+De la por los deportes de mar y él tiene tiene su finca y en el Sisga y ha tenido quiso hacerlo comercialmente, pero sí es una persona con una afición muy dura por eso y por los caballos también. Ah, sí, sí, sí, sí le voy a llevar caballos pura sangre al colegio Los Nogales el caballo es la mascota del niño. Era un caballo pura sangre en todos los temas de comunicaciones avanzad que era el representante de y estaba textiles correcto los jóvenes que van a ver esto.
+
+[21:19]
+No se imaginan algunos como después cuando internet comenzamos a trabajar por módem no era así por módem y cuando uno se conectaba el modo en silbaba y todo eso no de buena si no se caía, o sea que estás hablando de una época de pioneros en el tema de las telecomunicaciones antes de una transición absoluta hemos vivido de la desconexión total a la conectividad total correcto.
+
+[21:57]
+Un gran impulsor de esa conectividad a nivel nacional con su red nacional de datos y ahí me pasó un tema muy simpático. Estábamos en todo el proceso de implementación salió el tema y un día Jaime Losada que era el gerente de ser el gerente comercial de textiles todavía.
+
+[22:28]
+Me invitó a almorzar con el que era el director regional de de Nobel y en el almuerzo salió el tema que con el negocio de la red nacional de de COPE petróleo, pues habíamos comprado más Nobel en una transacción de todo lo que ellos vendían en el país que volvieron los convertía y más o menos dejen llevar a usted se va a hacer cargo de esa vaina. Yo no he vendido, pues nada en mi vida, como te dije había más o menos pensado que que iba a acabar mi vida, realmente ingeniería y ahí empecé una carrera comercial empecé mi carrera comercial más forzado que que nada y afortunadamente porque ha sido han sido 30 años de muchísima satisfacciones.
+
+[23:28]
+Alrededor del tema donde donde entendí que la agregación de valor para el para el usuario final que es lo que finalmente importa requiere una labor comercial muy importante y no solamente la técnica se requieren los productos de la mejor calidad y se requiere quien los ofrezca para que tengan sentido y permanecen en el tiempo pero un vendedor conocedor de la tecnología ya no ya no es la postura que tú pensabas desde enciclopedias, pues es muy importante eso que si podía asesorar y también de nuevo para los jóvenes que ven esto no veneran redes locales totalmente estaba internet, no? Pero ya podías asesorar a una empresa porque sabías habías visto el lenguaje.
+
+[24:28]
+El reconocimiento de lo que era la computación y el y la formación de Ingeniero lleva eso es la formación es al entendimiento de una necesidad para poderla plasmar una solución y eso y eso sí ha permanecido a lo largo de todos los años porque no importa la la tecnología subyacente sigue teniendo lo mismo, necesitas entender el dolor del cliente el dolor del usuario final para ofrecer la solución realmente válida y esa formación estructurada es sigue siendo necesario.
+
+[25:09]
+Concepto de servicio porque trabajamos para las necesidades de los demás digámoslo así a nivel de las empresas.
+
+[25:17]
+Así tal cual en ese momento otra vez el software era muy hecho a la medida todavía no, el de nuevo la venta era muy cercana a la máquina y a cómo aprovechar mucho los recursos de máquina hasta que llegó Internet y empezó a cambiarnos todo. Sí, en qué año viste internet por primera vez y por primera vez el 91 91 902 en en operación, ya real cuando Netscape sacó su su browser y Windows te acuerdas que uno arrancaba Windows 3.1 como una aplicación sobre Dora un sistema operativo realmente era
+
+[26:17]
+Fase de ventanas y el Browser que uno utilizaba era Netscape en esa época Microsoft estaba trabajando con IBM en el proyecto de os2 y recuerda una frase de Bill Gates que decía os dos es el futuro Windows no es más que un experimento la historia cambió.
+
+[26:54]
+Yo tengo la yo tengo una visión de pronto equivocada, cuando vive yo estaba con radioCHAT.
+
+[27:54]
+Pero tiene es una máquina muy básica, nosotros podemos hacer desde el punto de vista ingeniería algo mejor y presentaron internamente un proyecto con un PC que tenía muchas capacidades similares al de IBM pero era más tenía mejores gráficas y era color desde el principio porque el color no ha existido siempre y un grupo interno de Ingenieros estaban en contra del proyecto porque decían esto esto tiene que ser una máquina compatible con ellos en la fuerza de mercado, cuando se escogió el proyecto de de hacer la máquina de Texas Instruments que no era compatible ciento por ciento con IBM esto se salieron se fueron furiosos y en un restaurante invitaron en inversionista y le contaron una idea que tenían.
+
+[28:54]
+De hacer una máquina de alguna forma o el primer computador portátil y ahí nació Compaq la la idea de Compact nace en una servilleta en un restaurante donde le están contando estos ingenieros al inversionista que pueden hacer un una máquina portátil y esa máquina portátil, pues era realmente transportable porque si recuerdas incluso tenía pantalla de con tubo de rayos, el teclado era la tapa. Eso era a pesar, no sé 20 kilos o una una cosa ridícula, pero fue el inicio de Compaq que durante todos los 90s y buena parte ese hasta finales del siglo 20 fue el líder en la venta de peces a nivel global así pues ahí nacen.
+
+[29:54]
+varios monstruos nace Microsoft con compact con un crecimiento impresionante en los 90s y viajamos con bastante frecuencia hostil y de pronto empezaron a robarse ingenieros de Texas Instruments una compañía nueva de un muchacho que había empezado Armando peces para los sus compañeros de universidad que se llamaba Michael y ahí nace del computer como uno otro otro otro de los grandes monstruos en la época de los peces y los peces y los servidores departamentales iban ahí Internet seguía
+
+[30:53]
+Pero las aplicaciones comerciales sobre Internet todavía eran muy muy muy básicas, era más para temas, lo utilizamos mucho para temas de correo, no había comercio electrónico realmente para nada, tal vez la primera tienda de comercio electrónico que yo conocí fue Amazon pero Amazon vendiendo libros, porque Amazon empezó era haciéndole la competencia de las librerías en Estados Unidos y no vendían, sino libros fue a principios de los 90 también también.
+
+[31:35]
+una anécdota de la servilleta, el primer protocolo de correo electrónico lo dibujaron los gestores en una servilleta y esa servilleta yo tuve las fotos en la servilleta y que pues la perdí porque estaba por ahí seguramente está en internet, pero es una lectura interesante es decir estos sabios digamos en que el Internet era muy básico sí las aplicaciones había iniciado la posibilidad de hacer transferencia entre máquinas utilizando diferentes medios con un protocolo que se llamaba U
+
+[32:35]
+y pero era todo para hacer eso transferencias de archivos FTPs navegación muy muy lenta cuando Netscape sacó su browser se convirtió en una vaina realmente revolucionaria después vino la guerra en esa época de Microsoft contra Netscape
+
+[33:01]
+para subir su browser porque quería obligar a los fabricantes a que pusieran Explorer en sus máquinas en vez de que fueran preinstaladas con con Netscape era gratis, además hay una hay una serie en Netflix que no me acuerdo de ella, cómo se llama donde narran toda la historia de lo que pasó con Netscape las luchas hasta que Bill Gates es llevado al juicio por todas las los manejos depresión sobre las compañías de PCs
+
+[33:43]
+Ahí es cuando Bill Gates sale de Sergio de Microsoft que lo obligaron a salir o partían la compañía recuerdas de los 90 y era muy muy muy agresivos, me acuerdo que cuando la otra guerra que fue contra Nobel se acaban un dibujo de unos zapatos viejos sí eran novios y al lado uno zapatos y eso sí, eso fue.
+
+[34:18]
+Eso fue durante los 90 compact pierde el liderazgo de los peces contra de él por ahí en el 99 por temas estructurales muy complejos dentro de Compaq y luchas de poderes y de él sale con su modelo Justin time y se convierte en el número uno en peces en ese en ese tiempo compact había comprado a digital y había comprado a tándem, que era la que hacía estas máquinas folk tolerant con la con todos los elementos de hardware intercambiables en vivo actualización de sistemas en vivo sin tener con disponibilidad del 100%
+
+[35:18]
+y le da un respiro en algunas cosas, pero estaba muy herido por el por el modelo de del súper concentrado, siendo super eficiente en las compras.
+
+[35:37]
+Y el ataque de las torres fue el 9, el 11 de septiembre del 2001 cierto una semana antes exactamente el 4 de septiembre del 2001 y se arma un una de las grandes batallas jurídicas alrededor del tema y si recuerdas estaba Carly Fiorina la que fue precandidata a la presidencia de Estados Unidos era la presidente de HP y se enfrenta a Walter Hewlett que era el heredero de del fundador de Hitler por la compra de compra y hacerla o no hacerla.
+
+[36:28]
+Estamos hablando ya de principios de los 2000, qué más? Qué más recuerdo del 90 de la época de los 90? Si los los fierros eran importantísimos sí y haciendo muy importante el concepto del datacenter dentro del cliente la construcción de los datacenters.
+
+[37:28]
+imposible y creo que deck en esa máquina se promedio mucho la mejora de Unix si no estoy mal ellos tenían dos familias de máquinas, tenían la familia de los PDP claro, TDP perfecto, sí y tenían los backs la familia Bax
+
+[37:51]
+la primera el tal vez Dios mío, a finales de los 90 se hizo la primera el primer descifrado del genoma humano
+
+[38:09]
+Y eso creo que fue en una máquina PDP o en una Avax pero fue en una máquina de digital que duró procesando. Yo no sé cuánto tiempo para poder para poder hacer esta.
+
+[38:26]
+Si la el descifrado del genoma humano cosa que hoy se hacen en instantes.
+
+[38:32]
+Controlaba muchos hardware externo, yo me acuerdo cuando yo dirigí, el centro de cómputo de la función de acueducto tenía PvP para controlar los procesos del agua no sí, en sus instalaciones allá a la parte técnica, o sea, esa fue una época muy importante porque tal vez el mensaje es como de esa época nacieron tecnologías que generaron lo que hoy en día es muchas cosas no claro. Yo creo fíjate que el invento realmente de 0 a algo no existe, sino son continuas cierto cada vez se van evolucionando y se va construyendo sobre lo construido así como en la Fórmula 1 lo que lo que hace la Fórmula Uno tarde o temprano termine siendo tecnología incorporada en los automóviles de la calle así lo hemos visto nosotros de los supercomputadores de los laboratorios las
+
+[39:32]
+super sofisticadas como eso se ha llevado a los teléfonos móviles hoy en día es una progresión y ahí viene el tema de la Ley de Moore no que se ha cumplido a cabalidad que a la gente hay que enseñarle y no no es que vayamos a brincar tantos años que ya se pete no, no hacía antes de ayer de acuerdo, uy, se inventaron la semana pasada una cosa llamada no no, no, no, no, no eso es un historial tremendo de hacia atrás y muy bueno lo que tú acabas de decir porque es una construcción del del mundo no en unos procesos que llegan a estas cosas más grandes y obviamente en esa época estás hablando mucho del PC ya el servidor no porque yo ni siquiera para servidores empezaba a hacer algo mucho más departamental ya no solamente eran los grandes datacenters en lo que se hacían los los procesos mayores sino ya el tema de la Concepción
+
+[40:32]
+Del PC en el escritorio yo creo que desde el año 94 95 ya era algo más o menos estándar cierto y la concepción de servidores departamentales primero para tener redes y sistemas de almacenamiento de archivos.
+
+[40:55]
+Y cuando salió en et, tenía un concepto radical que era ejercer un servidor de aplicaciones realmente tú no procesadas tú procesas localmente porque tú no procesadas los nodos de no ver eran peces eran terminales, no inteligentes no me gusta decir terminales brutas como lo mencionaban, pero eran no inteligente.
+
+[41:31]
+Es un paso grande y ahí viene el tema también de cómo se conectaban las terminales a las máquinas porque yo extrajo el concepto de una conexión simple con interfaces RS 232 al principio.
+
+[41:49]
+Y mientras que las terminales que utilizaban los main frames requerían los cableados especiales y era unas terminales súper complejas y te acuerdas las que las que se conectaban a los de IBM y ahí aparece otra persona importantísima que cuando llegó nazco nasco el dueño de nasco que se me olvidó el nombre en este momento que fue de los primeros sistemas de los Andes estás ahí nazco Diego Escobar Diego Escobar claro Escobar traía estas máquinas nada es japonesas que le hacían.
+
+[42:49]
+Siendo totalmente compatibles corriendo los mismos sistemas operacionales, pero era de ese tamaño.
+
+[43:02]
+Puede empezar a llegar un montón de personajes que trabajaban, ahí estaba Joaquín Oramas que trabajo con Diego Escobar también muchos años que fue profesor nuestro en la escuela y decano en la escuela y trabajo mucho tiempo con Diego también.
+
+[43:21]
+Amigo mío, era de mi grupo de estudio cuando éramos estudiantes, así es y ese grupo de nazco, fue un grupo muy importante, tal vez mencionar una cosita Francisco en esa época los datacenter los dueños eran IBM o gorros y después que aparece a estos monstruos aquí es localmente, no? Que después lo admirable, no, el trabajo que Diego sigue pues muy vigente también sí y menciona sabor que fue una compañía que en Colombia tuvo un éxito único a nivel global.
+
+[44:07]
+porque borro en el resto de países no tenía el posicionamiento importante que tenía acá tenía una una instalación enorme que era la demostrar en todo el mundo de Borox que era la de Empresas Públicas de Medellín que tenía unas máquinas gigantescas de gorros antes de que se fusionará con Sperry y crear en la marca de Génesis
+
+[44:37]
+Estamos todavía en los 90s. Yo no creo que hayamos llegado todavía el 2000 cuando todo esto ocurrió antes era una revolución de muchas cosas era las redes iban tomando importancia y box tenía una unidad de software, que era muy importante en el procesamiento de software, en las oficinas bancarias, en el procesamiento de transacciones en las oficinas bancarias y tenía las máquinas el software y ya lo vendía como una solución esto venía fue parte. Yo no me acuerdo si venía de espere o no, pero era lo que la serie que llamaban las V20 o B25 que era la el montaje de
+
+[45:37]
+Oficina bancaria en una caja y era otra vez revolucionaria y yo creo que son de los pioneros en empezar a llevar el concepto de una solución más allá de solamente el hardware y empezar a ver la solución del software también como un tema como un tema fundamental para para crear valor y no como es un sistema operacional del MCP era el alcohol. Si no estoy mal lenguaje de alto nivel ya cierto era el gol el era no ellos utilizaban era escrito en un lenguaje propio que se llama UPL era muy parecido a Pascal también era a Pascal han escrito el MCP pero una histórico estamos hablando de los 90 es un poco más adelante pero cuando tú traste con Guillermo caro en los primeros y con Jorge Eduardo su service que tenía
+
+[46:37]
+Entonces viene bórax con ese concepto empiezan las comunicaciones a ser mucho más universales Internet empieza a ser totalmente ubico y empezamos realmente a al siguiente cambio y es la hiperconectividad física de las máquinas.
+
+[47:19]
+También a finales de los 90 aparece una compañía que saca un producto que es un buscador para correr sobre los navegadores y sale Google con su buscador lo que tenía era solamente buscador y había sido la tesis de Page y de ese otro loco en cómo buscar cosas e indexar cosas en internet y esos finales de los 90 todavía.
+
+[48:01]
+Sale Google Internet ya es un hecho ya todavía en las conexiones eran muy lentas y la red locales eran redes de 10 megas empieza a aparecer Cisco con un routers mucho más poderosos en el momento de los 90 y a generar realmente interconexión para poder hacer internet, porque sin ese sistema de enrutamiento que se tenía no habría existido en internet. Te acuerdas en qué año fue que salió Kolda pack que era la primera red nacional de datos de acuerdo con la paz, pero no del año x. Soy García principios de los 90 también sí, primera red nacional era cierto que fue la primera red nacional de datos.
+
+[49:01]
+Y he sido a principios de los 90.
+
+[49:04]
+Que ofrecía la conectividad básicamente.
+
+[49:10]
+Muy bien, eso y creo que hay como un salto muy grande, cuando cuando internet empieza a hacer la comunicación de facto, pero sigue siendo para conectar datacenter la localidad y ya mediados principios de los 2000 que empiezan a salir las granjas de granjas de servidores.
+
+[49:43]
+Puede ser finales de los 90 principios de los 2000.
+
+[49:48]
+Es cuando se empieza a dar la viabilidad de lo que hoy conocemos y es cómo podemos tener granjas de miles de servidores temas de máquinas virtuales y procesamiento virtual y yo creo que ese es el principio de lo que hoy conocemos como la nube porque si no se hubieran dado los sistemas de la formación de las granjas y poder armar máquinas virtuales y ahí vienen compañías como que empiezan a desarrollar esos estos conceptos. Hoy no tendríamos la posibilidad de lo que tenemos.
+
+[50:33]
+Y ahí se ha dado la vuelta, se dio la vuelta el panqueque avanzando 20 años en un instante en un instante sí, hoy a nadie le interesa tener un data center, se encarga de garantizar que tenga suficiente potencia y suficiente capacidad para lo que yo quiero hacer.
+
+[51:01]
+Y el concepto de solución evoluciona la misma velocidad sí, y ahí empiezan, pues hay muchas compañías que empiezan a salir con soluciones específicas, tal vez la más relevante a nivel global en temas de lo que ahora se llama el ERP que tenemos los servicios de contabilidad de los de los 80s a tenerlo empaquetado y que sea capaz de ser configurado para las diferentes opciones finalmente y después he llevado a servidores departamentales.
+
+[51:41]
+Y hoy yo creo que muy poquita gente piensa diferente de la solución y cree que todavía desarrollar como desarrollábamos hace 30 años, es el camino de tener una empresa ágiles agregando valor a sus clientes y transformándose es empiezan a hacer unas detrás de otras hasta ahora con que indudablemente de un impulso importantísimo al tema de bases de datos.
+
+[52:16]
+Proyecto de crear una base de datos relacional para para un para una entidad de defensa en Estados Unidos y Larry tuvo la visión de decir OK para hacer un mejor precio de mercado con los derechos intelectuales y hoy en día otro jugador súper relevante, cuál fue? Cuál esa fue el no me acuerdo el nombre de la entidad que lo contrató pero pero el proyecto se llamaba ahora con el proyecto ahora con lo molestaba mucho porque era costoso y ahora con al revés las letras de Oracle se lee el carro el carro yo tuve la oportunidad de trabajar en ahora con muchos años.
+
+[53:19]
+Y muchas enseñanzas me quedaron también.
+
+[53:32]
+Él fue el primero y Juan Manuel Wills con él nos hemos cruzado dos veces en la vida en temas laborales, porque Juan Manuel Wills era el presidente de EDS te acuerdas de otro personaje importantísimo a nivel global que era próspero próspero se inventó el concepto del outsourcing en grandes escalas de datacenters y Juan Manuel era el presidente de ese en Colombia cuando es comprado de ese por HP en el año.
+
+[54:19]
+8 tal vez
+
+[54:24]
+y ahí estuvieron codirigido HP con Eduardo rueda durante durante un año o algo de ese estilo.
+
+[54:40]
+Ahí hay años que se me empiezan a cruzar ya en es posible, pero de memoria, qué más de principio los 2000 que sea súper relevante ya me acuerdo que en el 99, a ver si no estoy mal salió el primer correo electrónico que se llamaba tutopía, no, no, el primer correo en Colombia apareció un servicio de correo llamado tutopía y tal vez de los primeros, así que salieron al público. Sí, exacto eso marca no 99, no, no existía y ya existía el correo claro en el mundo, pero no existían los servidores de correo como servidores fue hotmail que Microsoft sacó su
+
+[55:40]
+sus primeras de servidor de correo es cierto que sigue siendo muy importante obviamente, pero es que es esa misma época es finales de los 90 principios no tal vez antes de finales de los 90.
+
+[56:00]
+Porque a ver, y fue por nosotros montamos la primera tienda de sobre Internet con Alberto y el equipo de texintla.
+
+[57:00]
+Y ahí montamos la primera tienda de atención a sus distribuidores barriles que yo conocí que conocimos acá en ese momento porque yo entré a trabajar con compact en el 90 y 798.
+
+[57:25]
+Yo trabajé con Alberto desde el 87 hasta el 98 en todas sus aventuras realmente un pionero en muchísimas cosas Alberto tenía iba diez años adelante de lo que las traseras te acuerdas que había él tenía en Unicentro la tienda de los computadores. Sí, sí, claro era algo que no existía todavía en las universidades, así es yo tuve mucho colegaje con él, porque nosotros teníamos las tiendas de radio Isaac en los centros comerciales.
+
+[58:25]
+Eran 12 empresas una de árbol otra de software, porque el éxito fue que desarrollamos todo el software para micros mis primeros no, no existen en esa época que lo que acabas de contar, no ese crecimiento tan grande en sus temas también, así es. Oye, se nos acabó la hora y bueno, pero falta un poquito, no importa es que tengo otra reunión ahora entonces, cómo hacemos? Bueno, no vamos, vamos todo este material puede digamos. Resumamos un poquito la última parte de tu actividad cierto y bueno, lo que quieras contarnos es decir, debes de trayectoria, es muy interesante enamorado.
+
+[59:25]
+Programación sí rechazando los comercial porque no quería ser vendedor enciclopédicas y tienes una vida profesional en las soluciones informáticas a través de muchos hardware software tecnología no y se ha ido moviendo evolucionando del hardware la combinación de hardware y cosas específicas desarrollo específicos muy muy adaptados y a lo que estamos haciendo hoy en día que es soluciones low code donde donde la donde el programar no es que no sea válido pero se se deja listo para que con muy poco código tenga soluciones impactando las organizaciones comenta que haces en mi calle mira yo llevo para Isaac y todo el tema comercial de América Latina y España es una empresa de origen colombiano.
+
+[01:00:25]
+De tres fundada por unos ingenieros de la Universidad de los Andes que son Gustavo Gómez Mario Mejía Marcel mancer y creo que es Jean-Claude y ellos hace unos 15 años para el Banco Cafetero desarrollaron una primera versión 15 o 18 años una primera versión de algo para hacer flujos de procesos.
+
+[01:00:54]
+Hoy en día es líder mundial en este tema reconocido por los grandes analistas por Garner por Forrester por IDC tenemos presencia del cliente en 57 países del mundo.
+
+[01:01:14]
+Llevado lo que es la automatización de procesos a otro nivel donde no es automatizar un proceso, sino que realmente exista una transformación digital en las organizaciones de forma ágil basada en una gerencia por procesos a nivel global tenemos DHL que tiene 320.000 usuarios de visa de nivel global que hace 14 millones de transacciones diarias aquí el Banco de Colombia tiene 24.000 usuarios nuestros haciendo más de 4.000 procesos diferentes que realmente hemos Biza transformado la industria del Business Process Management a nivel global, pues muy bien y la relación.
+
+[01:02:14]
+Académica la tuviste de alguna manera o no te acercaste clases en la escuela precisamente hasta el año 2000 cuando empecé a tener posiciones regionales que ya me impedían y me gustaría volver a dictar, pero materias diferentes yo dictaba sistemas operacionales y arquitectura que hay materias que es importante que los ingenieros conozcan para poder ser mejores empresarios me encantaría identificar cosas como contabilidad matemáticas financieras que me he dado cuenta y son muy importantes y no saben no han sido adecuadamente valoradas.
+
+[01:03:04]
+Muy bien, muy bien, esta estas charlas Francisco también se pueden definir como como modelos de vida, digamos los centros de vida de las personas, no esa trayectoria que en la universidad no se sabe para dónde va uno y antes y esa historia que cuentas va generando una trayectoria y al final estos mensajes, la cadena son solamente válidas, no? O sea, un descuido en la parte de formación empresarial seguramente sistemas, aunque hoy los muchachos hacen otro tipo de negocios, no, a través de los sistemas no, sí sí, sin embargo, pues yo estoy viendo con mis coetáneos que no todo el mundo todos los mismos cuidados financieros durante toda la vida. Nosotros estamos llegando a la a la edad de pensión, hay muchos que se descuidaron que iban a
+
+[01:04:04]
+La fuerza toda la vida que iban a tener siempre mil oportunidades y los años nos enseñan cosas diferentes, así es bueno, así es, te lo puedo decir yo con más razones, porque mis canas son de verdad lo que queda. Bueno, yo sé que tienes el compromiso, pero alcanzamos a cubrir toda esta etapa y es muy interesante porque cada uno enfoca el tema sobre su vida, no claro, como dice que tú te fuiste por el lado de lo que nos has explicado Ejecutivo en los temas de soluciones, pero con un gran conocimiento de la historia y te felicito por la memoria. Fuiste capaz de dar los nombres de todos tus compañeros de los siete sí, sin fallar ninguno. Eso es admirable todavía. Bueno.
+
+[01:05:04]
+Y obviamente desde aquí que estamos retransmitiendo, pues desde Asís porque fuiste presidente conoces muy bien lo que es la asociación y la Asociación está ayudando en estos capítulos de muchísimas horas de trabajo con Beatriz y muchísima satisfacciones. Sí, sí, es una época. Así es muy muy especial y muy especial yo la admiro mucho que ella no sabe de alta relacionales, pero o sea, unas hojas en blanco, cuando uno pide un dato le gana a uno de ella y uno consultando.
+
+[01:05:42]
+Pues mira, Francisco gracias, gran amigo gran colega de la Ingeniería de Sistemas haber detenido acá y ya te estaremos contando, no este proceso para los otro rato porque hay varios hay cosas que se nos quedan y que seguramente van apareciendo. Yo creo yo creo Edgar que Edgar de pronto si tiene alguna pregunta que estás como no estás con la cámara a mí me llamó mucho la atención el hecho de esa parte comercial, que lo rechazaste y hoy de alguna manera las estás ejerciendo, pero producto de toda la experiencia y yo y dijiste algo al inicio cuando hablas de los computadores de la importancia de conocer al cliente de
+
+[01:06:42]
+Como integrar hacia hacia los servicios de la persona a la que uno está brindando el trabajo de ingeniería, entonces mi pregunta va enfocada, básicamente a tu opinión porque hoy la tendencia y la exigencia y la demanda y la brecha hace que la gente tienda a formarse de manera simple y únicamente o sobre todo más en técnicas en Ingeniería en Tecnologías pero muy poco y bueno, pues se quedan cortos en el tema de la formación integral es la recomendación que tú harías hacia estas formaciones y que debemos tener para satisfacer esa brecha de talento humano que se requiere en el país. Yo creo fíjate, que yo creo que es imposible que empaquetecnia.
+
+[01:07:42]
+Mi conversación con Jorge Villalobos en aquel paseo de era precisamente eso y lo veíamos con Beatriz en algunas de las charlas que teníamos en Asís nosotros hay un hay necesidad por supuesto ingenieros, pero si todo el mundo es ingeniero y quiere ser gerente o quiere ser vendedor, pues no, no vamos a lograr tener la las múltiples disciplinas que la que una que un proceso iba a llamar el proceso de soluciones, que es tan complejo requiere. Yo sí creo que necesitamos promocionar las carreras tecnológicas de buena calidad en el país y esas carreras tecnológicas que nos lleven a tener programadores profesionales.
+
+[01:08:42]
+Que creo que nos hacen falta porque tenemos ingenieros que programan, pero no muchos quieren quedarse programando toda la vida y eso es una de las fortalezas que tiene la India en la India la tenemos programadores expertos que dan 10 15 20 años programando y son las hachas aquí es muy difícil encontrar personas que quieran seguir una carrera de programación de 20 años, sí, por qué? Porque es que la formación es para hacer ingenieros grandes que tengan cosas, necesitamos hacer una formación tecnológica más profesional alrededor del de los del de las máquinas en sí mismas sí, porque tenemos una brecha muy grande, existe el ingeniero y el otro es un técnico formado en instituciones.
+
+[01:09:42]
+Sin ningún tipo de calidad casi que de garaje y no con el profesionalismo que se requiere sí y hay carreras que nos enseñan que esa esos diferentes perfiles requieren diferentes formaciones y se complementan unos con otros y no los reemplazan y puedes ver, por ejemplo, la la los profesionales de la salud en los profesionales de la salud tienen los médicos tienen los médicos especialistas, pero tienes enfermeras jefe enfermeras anestesiólogo tienes los auxiliares de enfermería y todos conforman una una cadena de valor que se complementa donde cada uno tiene un rol especial, eso sería imposible, si todos estuvieran medicina y uno estuviera para dedicarse a hacer auxiliar de enfermería cierto, pero el auxiliar de enfermería es una carrera profesional.
+
+[01:10:42]
+Es una carrera técnica, perdón de tres años pero con un nivel de formación y certificación importante los que estudian para ser jefes de enfermería son cinco años de formación alrededor del tema. Sí, yo creo que la educación en general. Nosotros tenemos que evolucionar la hacia allá, entonces es cierto, hay una cantidad de tecnologías. Hay gente y que tiene que ser el programador especializado en algunas cosas, pero no, no podemos sacar ese programador especializado en algo pensando que va a estar cinco años en la universidad y lo sacamos sin la certificación en lo que él quiere hacer sí, entonces hay la certificaciones micro certificaciones en muchos casos en temas especializados son necesarios para esas tareas especializadas así como ese no va a poder ser un ingeniero que
+
+[01:11:42]
+El diseño y sistema complejo y entienda mis necesidades tampoco podemos pensar que tiene que ser ingeniero para hacer esas actividades sí, porque eso es lo que ha llevado que haya instituciones educativas de baja calidad porque lo que buscan es dar un título ingeniero para que hagan labores bien bien tecnológica. Yo creo que hay un estigmatización del oficio Colombia es muy original al fin y al cabo nacimos de esa tendencia virreinal donde hay que ser gerente no sí hay que ser esto y yo creo es un mensaje, fíjate lo importante todo esto es un mensaje que vamos a oír en las universidades no Edgar Francisco que nos ayuda a él no el tema de las tecnologías muy profesionales y no necesariamente la idea de que el objetivo es el gerente y el dueño y el ahí fue donde Jorge
+
+[01:12:41]
+Yo creería que si la Universidad de los Andes tuvieron la carrera tecnológica y sacará la Universidad de los Andes pero sin que tuvieran que llegar a ser ingenieros, sería una maravilla para el país y no con ciclos propedéuticos de decir haga tres años de tecnología y con dos más es ingeniero porque creo que las formaciones son muy distintas, pero sí, necesitamos tecnólogos y de pronto el tema de las funciones lo que aclaras de los títulos de los profesiones ayudaría también mucho no, el hecho de tener enfermera y no tecnólogo en Enfermería pues establece una identidad diferente, no claro es un rol diferente para pagarle.
+
+[01:13:42]
+El salario de lo que se busca lo que necesita y de lo que estamos produciendo en las universidades.
+
+[01:13:52]
+También hay que formar al empresario de los profesionales UNIMINUTO que ganan mucho más que un ingeniero de sistemas contratado por multinacionales que están en Colombia por ejemplo no y que no quieren ser ingenieros, claro son muy bien formados en eso con un ciclo académico que los profesionaliza en eso y no necesita darles el título de ingeniero y una formación integral de ética de esencia de todo esto que no solamente el que los técnicos juramento bueno bueno Francisco yo creo que vamos a ir cerrando un buenísima la conversación, además volverte a ver.
+
+[01:14:52]
+Y te estaremos contando de este proceso muy bueno para muchas gracias, porque esto va a ser bastante publicitado en su momento nos faltan muchos años, son 50 años. Estamos cubriendo, pero ahí vamos, ahí vamos entonces Beatriz Edgar también, que trabajaba en el grupo, vamos a cerrar esto que ha grabado, pero no publicado todavía, sino que nosotros el grupo académico veremos esto hacia dónde en qué momento liberamos ok conversaciones.
+
+[01:15:52]
+Nos vemos, nos vemos, hasta luego.

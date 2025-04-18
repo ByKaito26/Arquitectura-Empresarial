@@ -1,0 +1,422 @@
+[00:00]
+listo
+
+[00:05]
+Bueno, estamos iniciando la la siguiente sesión de este de este plan de la evolución de la Ingeniería de Sistemas siempre recordando que vamos desde los años 70 hasta la fecha actual por décadas y hoy tenemos a Julián García de la Eduado del 2004 de la de la Universidad Nacional él está en este momento en Australia también, vale? La pena contarles siendo muy exitoso allá, ya tengo entendido que lleva cerca de ocho años viviendo ya con su familia y todo de tal manera Julián bienvenido a a esta sesión, que vamos a conversar con su manager en este tema que va a ser Sandra le salió Liliana y Rafa nosotros también podemos eventualmente hacerte alguna pregunta algo relacionado y como decíamos, vamos a conversar de tu vida desde desde académica, claro, desde el colegio la Universidad todo. Eso hemos hablado y
+
+[01:05]
+Estás contribuyendo esto de la evolución de la ingeniería de sistemas no necesitamos pues con ráfagas lo conoce todo el mundo por el tema de la maratón y tantas cosas y esa es la Liliana que es famosa como la Universidad Nacional y también por fuera en un tema académico, entonces le voy a dar la palabra, no sé si Rafa quiere dar un saludo ya que es un es un pupilo de él y ya le pasamos la palabra Sandrita está también Beatriz Caicedo directora ejecutiva de Asís que siempre nos colabora absolutamente en todo. Gracias a ella podemos hacer todas estas cosas, entonces no, pues Julián nada como como lo decía hace un momento que grato este encuentro que grato verte nuevamente es y en la referencia que que hacíamos.
+
+[02:05]
+análisis de algoritmos y demás seguimos en esas entonces muchas muchas ilusiones más que otra cosa de esta esta reunión que nos va a ocupar el día de hoy con muchas expectativas saber en qué andas por ejemplo esa parte final va a ser va a ser muy chévere recordar un poco de las cosas que vivimos en algunos momentos y de otras que de pronto estábamos en momentos de la vida evidentemente diferentes pero pero chévere compartirlas ahora desde una perspectiva externa y pues nada muy grato muy grato es este encuentro y agradezco a Sandra por haberte propuesto porque sinceramente cuando me conecté una gran sorpresa es muchísimas gracias Sandra por
+
+[03:05]
+regalarme este este encuentro con Juliana
+
+[03:09]
+aquí es un encuentro de amigos justamente cuando empezamos a participar por invitación de de Manuel en esta en este recuento histórico del programa la ingeniería de sistemas en Colombia encuentra uno que se que muchos de los participantes son amigos conocidos compañeros y ha sido una experiencia y un trabajo muy bello con un nivel de importancia muy grande que va a trascender bastante para el país porque es el recuento de realmente de si cumplimos o no con ese contrato como universidad con la sociedad y yo creo que que ustedes son representantes de que las universidades en Colombia formamos gente de altísima capacidad humana seres humanos integrales con un potencial tecnológico y científico académico muy grande entonces pues ha sido un encuentro muy bello no Rafael
+
+[04:03]
+No te escuchamos por aquí, no? Eso ha sido nos hemos encontrado con no solamente contigo, sino también con con personas incluso de nuestra generaciones o anteriores y ha resultado que que al final todos somos una especie de cofradía extraña donde sí nos conocemos y tenemos referencias a veces no nos estamos siguiendo la pista con tanto detalle y entonces aprovechamos este tipo de encuentros también para para actualizar, cómo se dice como dicen los muchachos para actualizar el cuaderno para adelantar el
+
+[04:42]
+Muy bien, yo creo que con eso estamos listos solamente decirle a Julián nos precede desde este tema un programa de televisión que hicimos hace unos años que le llama, se llamó mi bios con los 21 pioneros antes de que la Ingeniería de Sistemas existiera sí que eran ingenieros civiles eléctricos curiosamente casi todos de la Nacional no esa es una una influencia de la Universidad muy muy importante, claro, después se fundió que los Andes no sé qué, pero eso eso nos precede y esta ya es propiamente de la ingeniería. Entonces arranquemos Sandra adelante y en otro estaremos apoyando lo que sea necesario en una cosa a Julián fechas fechas, no? Y no te me gradué a los 5 minutos, no, no vamos a hablar del proceso porque algunos al minuto ya están graduados, no no, pero obviamente vamos a llegar allá entonces.
+
+[05:42]
+Bueno, para mí es un honor y presentar a todos los que nos van a acompañar y van a ver este vídeo presentar a Julián Julián García es ingeniero de Sistemas de la Universidad Nacional de Colombia de los pocos ingenieros que se gradúan y contesten meritoria con honores en la Facultad de Ingeniería de la Universidad Nacional comenzó sus estudios en el año 1998 y se graduó en el año 2004 actualmente está vinculado como profesora asociado a la facultad de información y tecnología de monas University sigue siendo parte de nuestro grupo de profesores de la Universidad Nacional dentro del listado de profesores adjunto y pues creo que ese sería como el inicio de tu presentación.
+
+[06:42]
+Porque de esto se trata justamente de que nos cuentes cómo fue ese desarrollo esa discusión en el campo de la Ingeniería de Sistemas y Computación y cómo llegas a trascender esta área en tu vida y en el desarrollo pues personal y profesional entonces bienvenido Julián y pues damos inicio con con una pregunta muy sencilla y es que nos cuentes un breve recuento de tu vida pequeño, de quién eres? Cómo estás? Y ya comenzaríamos como como fue tu formación desde el momento en que te graduas de de Bachiller o cómo llegas a tomar esa decisión de estudiar Ingeniería de Sistemas de Computación y allí para allá, vamos desarrollando la entrevista, sí, perfecto, bueno, mi nombre es Julián García soy profesor asociado en la Universidad de Monash en Australia en Melbourne yo aproximadamente ya casi 9 años en Australia
+
+[07:42]
+Y antes de vivir en Australia estuve algunos años en Alemania y antes de eso estuve también en Holanda donde dice mi doctorado antes de hacer mi doctorado trabajé en la industria un par de años en Bogotá donde donde me gradué yo nací en Palmira Valle y crecí en Palmira Valle y digamos que la historia que diría que es muy común a muchas personas de mi generación en algún momento nos regalaron un computador y de alguna forma. Eso cambió las perspectivas y se descubrieron como ciertos intereses nuevos, etcétera, no digamos cuando yo estaba en el en el colegio, me gustaba un poco como
+
+[08:42]
+Periodismo y me gustaba también me gustaban también los computadores me gustaba un poco también la política o sea que me gustaba, básicamente me gustaba como de todo un poquito pero digamos que cuando yo tendría que haber tenido por aquí 15 años cuando me regalaron mi primer computador y no empecé a cambiar el rap mantener un poquito que era lo de la programación etcétera, mi papá trabajaba en esa época en un en un instituto de investigación de Agricultura que se llama seat y en ese momento quizá era como lo más cercano como como a un mundo relativamente académico que yo tenía digamos en el entorno en el que en el que yo estaba entonces digamos un par de años antes.
+
+[09:42]
+graduarme mi papá habló con sus amigos en la sección de informática y terminé yo yendo allá todos los viernes por las tardes, digamos cuando ya me imagino que ellos ya no tenían trabajo entonces iba yo me metí a Internet y miraba revistas de computación, etcétera y definitivamente pues como que esa de alguna forma esa afición empezó a crecer y a crecer y eso tendría que ser más o menos 1996 97, ya había internet, pero digamos que de pronto no, no era como tan ubico y todo, pues como es ahora entonces, claro, yo aprovechaba también para meterme a Internet en esa época no recuerdo muy bien cuál era el nombre del mainframe, pero era era cuando había esos computadores y unos gigantescos que que Lidia
+
+[10:42]
+Que es el Centro Internacional y entonces la mitad del camino le decía al conductor que me dejara ahí y son aproximadamente 2 kilómetros 2 kilómetros caminando entre un cañaveral, que yo no sé, no sé si si yo tuviera mis propios hijos, ahora no sé si los dejaría hacer eso, pero si eventualmente llegaba ya y digamos que para mí valía la pena, no? Porque era era como un mundo nuevo me acuerdo que estaba en esas revistas en inglés también entonces como tener literatura en inglés también de alguna forma era como muy
+
+[11:28]
+de alguna forma pues como que alimentaba mi cerebro entonces, claro, eso generó ciertos intereses y eventualmente cuando ya terminé de graduarme, pues tomé la difícil decisión de que bueno tiene que estudiar algo y escogí Ingeniería de Sistemas la siguiente decisión importante en ese momento fue si quería estudiar ahí en el valle está la Universidad del Valle era como la la primera opción y también estaba la Universidad Nacional en Bogotá
+
+[12:09]
+Entonces fue una decisión bastante difícil, digamos que no solo mía, sino también de mi familia y eventualmente digamos, por me hacía mucha ilusión vivir en Bogotá siempre quise salir de donde nací digamos de alguna forma. Entonces ese esa salida a Bogotá de alguna forma era como como el primer paso a eso y creo que hasta el sol de hoy digamos de las muchas decisiones que tomaba en mi vida, creo que el incluso incluido decisiones como vivir aquí guayaba o hacer esto lo otro la decisión que yo tomé de irme a Bogotá creo que ha sido.
+
+[13:01]
+Probablemente la edición más importante que he tomado por lo que implicó digamos en mi desarrollo personal no solo digamos la oportunidad de ir a la universidad nacional, sino también digamos la oportunidad de vivir solo de vivir en Bogotá de salir de del entorno en el que estaba viviendo en la ciudad grande, etcétera.
+
+[13:26]
+que hay algo interesante que tú mencionas y es que para nosotros los que no somos de Bogotá aquí nos desplazamos a transformarlos en nuestras disciplinas justamente en el 98 97, si bien en Bogotá ya existía el Internet y los estudiantes tenían acceso al Internet en diferentes computadores personales en las universidades para nosotros los que estábamos en región era distinto porque el acceso a Internet estaba en el centro educativo, que tuviéramos más próximo cercano o en la presa de personas que estuvieran conocidas, entonces el hecho de desplazarse a Bogotá y tener el acceso a allí en como núcleo central se despliega de tecnología que comienza a impactar a nuestro país, pues fue bien interesante entonces yo creo que ahí marcamos como como se marca una diferencia fuerte en lo
+
+[14:26]
+que era el desarrollo de conectividad a nivel central de región andina y la conectividad en lo que estaba en Colombia en las otras en las otras ciudades, así es efectivamente yo creo también que
+
+[14:41]
+Y de pronto se ve un poco me conversación también está como esa diferencia como entre Bogotá y el resto del país, no? Y son cosas que que yo creo que van incluso más allá del acceso a Internet o sea, yo recuerdo también cuando llegué a Bogotá sentir un poco la diferencia, no como de las personas que habían salido de colegios muy buenos en Bogotá versus yo y como uy, no se me toca como ponerme al día, no, yo creo que por a pesar de Colombia es un país bastante descentralizado, digamos que yo también estaba cerca de un centro urbano muy grande, que es Cali yo creo que si hay una si hay como una diferencia ahí tampoco también entre la digamos, es ese origen regional y digamos decir la oportunidad de estar en Bogotá yo también creo que en Bogotá conocí también gente de todas partes del país en la Universidad Nacional y creo que
+
+[15:41]
+Traíamos como esa identidad de alguna forma y esa eso le dio como una naturaleza muy bonita también, pues como esos grupos de amigos etcétera en Bogotá porque estaban puestos los bogotanos, pero también estaba si el que venía de Bucaramanga el que venía de de otros lugares entonces de alguna forma eso también yo digo que esa oportunidad de ir a Bogotá y estar particularmente la Universidad Nacional fue también para mí como una forma de conocer un poco el país de cierta forma como tener otra perspectiva ahí.
+
+[16:18]
+Sí, bueno, yo llegué a Bogotá en el en el 98.
+
+[16:25]
+aproximadamente en julio obviamente un proceso bastante grande como de adaptación y lo primero que recuerdo desde el punto de vista académico es como si la necesidad de empezar a estudiar con mucha dedicación por decirlo de alguna forma quizá el curso más memorable en mi primer año fue el curso de programación de computadores tuve la suerte de tomar ese curso con el profesor Jonathan Gómez
+
+[17:09]
+Jonathan en ese momento creo que no no había salido aún estaba no había salido a hacer su doctorado pero Jonathan estaba haciendo una maestría matemáticas o estaba terminando una maestría matemáticas y creo que eso le digo como cierto color muy bonito al curso entonces era había muchas secciones de programación de computadores, pero yo me atrevo a decir que la sección en la que yo estaba era bastante especial por decirlo de alguna forma porque lo que yo recuerdo muy bien es que los primeros dos meses era solo tablero y no no computadores era tablero ejercicios que parecían más como ejercicios de matemáticas de en realidad es lo que después vine a conocer eran como algoritmos no y definición de tipos a partir de composición de funciones y un estilo muy funcional que ahora que lo veo ya pues como que tiene
+
+[18:08]
+Mucho sentido, pero en ese en ese entonces era como era como uy, eso está como raro, no? Porque yo también hablaba con los compañeros que estaban tomando el curso en otras secciones y ellos eran no no estamos aprendiendo Pascal y ciclos y estructuras de de y yo era como sí, pero nosotros estamos hablando de de conjuntos de conjuntos, o sea, y de composición generalizada de funciones, entonces era un poco era un poco extraño y ya como hacia el final del curso en algún momento llega Jonathan y hacen un tablero muy grande en lo que llamamos el edificio ingeniería nuevo dibuja cuatro columnas en la primera columna pone la notación matemática en la segunda columna. Dice mira así se hacen C en la tercera columna. Dice así se hacen Pascal y en la otra columna. Dice así se hacen Java y todos esos.
+
+[19:08]
+ejercicios nos tocó entonces llegaría y hacerlos no sólo en en C o creo que Pascal era lo que usaban las otras secciones, sino en todos esos lenguajes y
+
+[19:23]
+Funcionó o sea funcionó para mí, no sé si funcionó para todo el mundo, pero para mí funcionó y digamos que de ese curso tomo cosas muy bonitas.
+
+[19:39]
+Digamos ahorita, que ya soy entre comillas viejo, pues tengo un libro en mi biblioteca de mi oficina que se llama pure funcionar programen y ahí encuentro todos los elementos que me enseñaron en el año 98 y que digamos de alguna forma así todavía los uso fue bastante difícil, pero digamos que esa esa clase con Jonathan fue muy especial en particular porque también me abrió los ojos a otras a otras perspectivas de la disciplina. Entonces una una de las clases que más recuerdo cuando él llega a hablar de de definición de tipos, entonces antes de eso hablamos de conjuntos y para hablar de conjuntos. El eventualmente terminó hablando de la paradoja de Russell y la y la clase donde él introduce la parada de Russell para mí fue como si como el
+
+[20:39]
+Que le explota la cabeza algo así y recuerdo mucho con con mi compañero en ese entonces Juan Carlos Galeano que estoy seguro que muchos de ustedes lo recuerdan a él, o sea, nos sentábamos a tratar como de buscar ejemplos de esta paradoja y fue una cosa, digamos que digamos que como intelectualmente muy estimulante y no y creo que sí, a partir de ese entonces como que aprendí a ver también como otras otras cosas de la disciplina y creo que incluso como esas experiencias tan tempranas de alguna forma como que llevaron pues después a las a las decisiones que que tomé para de alguna forma, pues como escoger un camino académico.
+
+[21:30]
+Estamos en 1998, cómo te fue con los cálculos con porque ese es un punto neurálgico para la Universidad Nacional todo lo que es la parte de formación disciplinar en ciencias naturales.
+
+[21:54]
+el primer cálculo lo tomé con uno de los mantillas
+
+[22:03]
+que era se me olvida el nombre en este momento en esa época se llamaba matemáticas uno y era muy bueno.
+
+[22:13]
+Y recuerdo muy también muy claramente en una de las primeras clases, lo que nos dijo fue, cuántos de ustedes han visto límites en el colegio?
+
+[22:26]
+Y entonces algunos alzaron la mano no? Y los que entonces y lo que nos dice después bueno, olvídense, voy a explicarlo otra vez y como que lo vamos a hacer, vamos a hacer de la forma correcta matemáticas 2, no me fue tan bien de hecho, la la terminé perdiendo esa materia y pasé raspando, o sea, por muy poco.
+
+[22:53]
+Pero eso de alguna forma también fue bueno, porque ese material la tomé después con un profesor, o sea la segunda vez la tomé con un profesor de apellido rincón muy probablemente ustedes también recuerden tenía un le tenían un apodo que no voy a decir acá, pero digamos que tenía una fama muy de ser muy difícil por ponerlo de cierta forma incluso era muy bonito porque él tenía su propio libro que era el nombre del código de la materia matemáticas 2 y eran unos ejercicios que eran muy difíciles en esa época a mí me gustaba a mí un cálculo que se llamaba el apóstol y me gustaba supuestamente porque era como el más el más difícil no de los cálculos y recuerdo que esos ejercicios del profesor rincón, o sea, era más difícil es que incluso los del apóstol o por lo menos.
+
+[23:53]
+Lo recuerdo de esa forma ya a partir de ese momento creo que me fue bien. Yo creo que esa clase con el profesor rincón de alguna forma fue también como que sentó unas bases que no había ahí.
+
+[24:06]
+Y yo creo que a partir de ese momento como que de alguna forma sí, la parte de las matemáticas empezó a tener como como otro sabor que antes no estaba en un sentido, digamos también positivo. Eso viene siendo entonces más o menos si en el año 99 creo que por esa época también estábamos tomando, pues como nuestros primeros cursos de estructuras de datos y digamos que en esa época digamos de mi perspectiva era como muy, o sea, me gustaba mucho la teoría, pero digamos que como que mi
+
+[24:52]
+Lo que en realidad lo que yo quería era como practicar la ingeniería de sistemas como, o sea me voy a graduar y no sé, voy a hacer en esa época. Creo que ingeniero de software o arquitecto de software o algo de ese estilo, no? Entonces no tenía como no tenía como una visión muy muy específica de querer tener como una carrera académica a pesar de que sí, pues estudiaba, estudiábamos mucho y con muchos compañeros, incluso recuerdo. Yo descansaba los sábados, pero los domingos íbamos nos íbamos para la Luis Ángel Arango creo que habrían a las 8 a las 8 estábamos allá recuerdo buscando un libro de física que se llama la tipler, pero entonces la en la en la Virgen del Arango tenía una versión en inglés que era mucho más grande y mucho más bonita.
+
+[25:52]
+Una nueva edición que no estaba todavía traducida al español y esa también tenía como los ejercicios más bonitos por decirlo de cierta forma mi profesor de física era de apellido Cediel y era era muy muy estricto muy bueno entonces de nosotros sin con algunos compañeros y vamos a la Luis Ángel todos los domingos a las 8 ni siquiera sí y al otro día estamos en la oficina del profesor con los ejercicios que nadamos podido resolver y eso es como digamos como mi experiencia también como como en la Universidad Nacional no. O sea, digamos que no sé si era el hecho de que yo venía de afuera pero entonces digamos que había mucho tiempo y lo dedicaba digamos que casi que 100% al estudio también había un grupo de amigos digamos que eso trasciende la ingeniería de sistemas, pero teníamos un grupo de amigos de alguna otra gente que había venido.
+
+[26:52]
+del Valle también de otras carreras no y yo creo que también como esa perspectiva de otras disciplinas también de alguna forma influenció como el camino que yo eventualmente Tomé
+
+[27:08]
+Digamos que todo iba como en camino de que si yo iba digamos que quería hacer como ingeniero de sistemas y practicar la Ingeniería de Sistemas digamos en un sentido no académico sino salir a la industria, etcétera y eso de pronto cambia un poquito. Yo creo que hay dos factores ahí dos factores ahí importantes uno de esos factores es que en esa época el profesor Fernando niño, el profesor Germán Hernández regresaron de Estados Unidos habían terminado su doctorado y regresaron a enseñarnos un curso que se llama análisis de algoritmo, que en esa época fue era nuevo.
+
+[27:50]
+Yo creo que no exagero cuando digo que ellos tuvieron un rol bastante grande en ciertos cambios importantes que hubo en el en el pensum de la de la carrera por lo menos en la Universidad Nacional en ese momento y de alguna forma digamos que como yo era fue uno de los estudiantes curiosos que siempre estaba haciendo preguntas etcétera entonces yo creo que esas conversaciones en particular con el profesor Fernando niño de alguna forma como que abrieron mis ojos a decir, oh, mira, hay una oportunidad de hacer como una carrera académica, digamos que eso no existía como en mi entorno familiar, no? Entonces como es fue una cosa que en ese momento como que descubrí eso por un lado, hay una cosa importante y es que justamente como lo mencioné a Julián Julián hace parte del grupo de estudiantes que se formó antes de la reforma del 2008 la reforma que lleva a
+
+[28:50]
+la educación superior a alinearse con los estándares internacionales para pasar la modalidad de calificación de 0 a 5 en asignaturas específicas a la modalidad de compartir estas asignaturas en términos de créditos no en cuanto al equivale un crédito en términos de horas para poder hacer esos ese entre los programas internacionales y los programas de Ingeniería de Sistemas en Colombia precisamente por la dificultad que tuvieron los profes de Jonathan el profe de Germán Hernández y Luis Fernando niño al intentar explicarle al resto de sus colegas en el mundo que era la Ingeniería de Sistemas y bueno en este momento no era de computación era de sistemas solamente en Colombia porque la sociedad muchísimo a la parte técnica y científica de programación de dispositivos a gran escala y nosotros trabajamos era cosas diferentes entonces ellos querían que los estudiantes tuvieran la oportunidad de de hacer el match entre
+
+[29:50]
+Lo que estudiaban un ingeniero de sistemas en Colombia versus lo que estudiaban los demás ingenieros de sistemas en el mundo y que no fuera tan complicada esa explicación, no así en términos generales psicología porque yo también tuve ese problema digamos de alguna forma que la disciplina.
+
+[30:11]
+sí, como Ingeniería de Sistemas y de pronto era un poquito difícil encontrar como cosas similares o explicarle a la gente por fuera digamos porque está porque es así de hecho yo recuerdo mucho tiempo después cuando estuve viendo de hecho en Alemania y que yo le explicaba a uno de mis de mis profesores le explicaba mire no es que lo que yo estudié dura cinco años y tiene una tesis al final y es así y entonces él me dijo ah, es que lo que usted hizo fue un diploma alemán viene un bloque que es como está dividido en dos secciones, el primer bloque donde te entregan un certificado y luego si cuando haces tu tesis te entregan el diploma cierto que es como valía la parte técnica y luego si entregan el título en Alemania
+
+[31:11]
+Cercano a lo que yo hice donde había pues como una tesis así necesaria y como de ese nivel y también los cinco años digamos que tú haces parte del grupo de antes de la Reforma donde la tesis de pregrado de la Nacional era casi una tesis de maestría hoy en día no voy a hablar también de eso en un momento porque el digamos que la tesis para mí fue también sin exagerar me cambió la vida y ya les contaré por qué yo quería que sigas también un paréntesis y es hoy tenemos un sinnúmero de materias que hizo que el plan de estudios quedará más o menos fijado para un promedio de cuatro años para la graduación pero en el momento en que Julián estaba cursando el programa de Ingeniería de Sistemas en la nacional, el promedio de sistemas que se cursaban de materias en sistemas que se cruzaban era de 64 materias, o sea un gran número.
+
+[32:10]
+De asignaturas con una intensidad horaria muchísimo más fuerte y un componente riguroso en la parte de Educación de Ciencias Exactas y Naturales y pues también es un nos hace referencia a los profesores que están en ese momento que estaba el profesor mantilla, el profesor rincón profesor Jonathan entonces el líder de rigurosidad y pues obviamente era siempre mucho mucho más alto sí adelante Julián ya no te interrumpió más va a ser García también.
+
+[32:49]
+no, no, por favor interrumpen porque es así lo hacemos como una conversación también me ayuda un poquito como a mirar eso, pero pero si tienes razón el
+
+[33:00]
+Digamos en ese momento cuando cuando volvió cuando volvieron Germán y Fernando de alguna forma, así se empezó también como a tratar de poner ciertas cosas, pues como a aquellos traer esa experiencia y y yo lo recuerdo así lo recuerdo en eso, entonces incluso como estudiante no me imagino lo que debe haber sido, pues como parte del profesorado en ese momento, pero incluso como estudiantes si se veía como como una inyección necesaria de de sangre nueva de energía, no y de alguna de algún momento a otro entonces nosotros estábamos ya estudiando análisis de algoritmos con el libro de Corben que era un libro es como una Biblia a nivel internacional, entonces entonces eso fue muy importante también para mí.
+
+[33:53]
+Y efectivamente como esas diferencias en el en esa época con digamos con lo que se hacía también por fuera eran importantes. Yo quisiera como enfatizar en el sentido de que eran diferencias semánticas porque de alguna forma aunque si hay cambios curriculares ahí también importantes.
+
+[34:17]
+me atrevería a decir que hasta conté con la suerte de tomar ese pensum anterior digamos porque él tenía también ciertas cosas que de pronto ahora no hay, pero que digamos han influenciado también mi carrera y mi trayectoria no, entonces de alguna forma, o sea, está bien, está bien innovar y
+
+[34:42]
+Poner las cosas como hacer hacer que las cosas estén alineadas con estándares internacionales también etcétera, pero lo que se hacía también digamos que tenía también su valor lo que se hacía en esa época sin que eso necesariamente implique que yo diría pues a meter la mano a la candela para volver allá no sé si me explico pero entonces si los profesores Fernando y Germán en particular tuvieron ahí una una labor muy importante en esa época había unas electivas de contexto. Creo que se llaman en esa época ahorita, no sé si se llaman efectivas libres o algo similar esas selectivas de contexto, le daban a los estudiantes la oportunidad de tomar asignaturas en otras en otras carreras o cosas que tuvieran como un carácter donde te sentas en un en un salón de clases con gente que está estudiando muchas.
+
+[35:42]
+Cosas entonces para mí esa también fue como una parte muy importante de mi formación y en particular tanto la ciudad de Bogotá como la Universidad Nacional y el carácter de la Universidad Nacional creo que tuvo un rol ahí bastante significativo en el sentido de que me permitió ir a otras facultades y tomar también cursos de otras facultades entonces tomé los cursos clásicos recuerdo astronomía para todos era una lectura de contexto que era muy famosa en esa época con una noviecita que yo tenía en ese momento si no levantamos a las 4 de la mañana para ir a hacer fila en la puerta de la 26 y ya cuando abría la puerta a salir corriendo hasta llegar a al observatorio para poder inscribirse en esa época era así entonces digamos que esos cursos esos cursos como de otras facultades fueron también importantes.
+
+[36:42]
+Y tuve la suerte.
+
+[36:44]
+Como temprano en esa secuencia de cursos libres tomar algunos cursos en la Facultad de Economía entonces tengo recuerdos muy bonitos de curso de pensamiento económico con el profesor Beethoven Herrera sencillamente uno de los mejores educadores que me he encontrado, pues en toda mi vida y también curso digamos un poco más técnicos como microeconomía 1 equilibrio general. Entonces lo que pasó ahí fue que yo empecé a tomar esos cursos y me empecé a sentir como que hola, yo de pronto yo debería de pronto a velocidad de economía porque esto está como chévere y de hecho hasta en algún momento en esas en esas dudas.
+
+[37:37]
+hasta pensé de pronto como hacer una transferencia a la Facultad de Economía finalmente eso no pasó, pero digamos que la clave ahí es que encontré el como el oído al profesor Fernando niño y en esa época yo estaba interesado en digamos el área de Teoría de Juegos y en particular el problema de la cooperación me parecía, pues como la cosa más fascinante pues que
+
+[38:06]
+Que en ese momento pues tenía como enfrente mío y entonces digamos en esa época todo mundo. Habla como el dilema al prisionero es un juego muy sencillo donde básicamente cuando los agentes quieren maximizar su beneficio individual terminan en una situación que es peor a lo que ellos podrían haber hecho si de alguna forma hubiesen escogido ayudar al otro, pero entonces digamos que la la el dilema del prisionero precisamente consiste en que cuando la gente digamos de alguna forma está sola tratando de simplemente de ir por su propio beneficio terminan en una situación peor. Entonces mi profesor de microeconomía yo le pregunté bueno, no hay como un modelo, es un poquito más como menos.
+
+[39:06]
+De esto como de pronto como más aplicados a la realidad y él me regaló un paper que se llama en ese momento de great fish World que es una extensión como de esa idea a un ambiente donde hay como una dinámica externa entonces hay un lago y son pescadores etcétera y es una solución que se llama curno y yo empecé a pensar como en extensiones a N jugadores como no solo entre dos sino jugadores y me gustó tanto que yo le dije a profesor Fernando niño, yo quiero como estudiar esto porque mire aquí hay dos equilibrios y como la forma en la que los economistas piensan pues ellos no piensan como en aprendizaje, pero desde el punto de perspectiva la de la computación, lo que nosotros podemos hacer es como mirar si le damos como a esos agentes como algoritmos de aprendizaje.
+
+[40:06]
+que equilibrio aprenden a jugar y digamos el profesor Fernando tuvo la
+
+[40:16]
+La paciencia primero que todo para para escucharme, pues porque eso era como raro, o sea, un mal con venir con papers de Economía acá y también digamos para de alguna forma apoyarme, entonces eso se terminó volviendo mi proyecto de grado y trabajé solo en esa tesis y básicamente era aplicar lo que se llama programación genética en esa época se llama programación genética ahorita le dicen simbólica, pero es lo mismo y la aplicamos a ese problema y tuvimos resultados muy bonitos, había una cosa muy interesante ahí y es que yo necesitaba mucha computación como para para que los agentes convergir de alguna forma tenían sentido entonces precisamente en esa época el profesor Gabriel mañana.
+
+[41:16]
+Estaba empezando a pensar como en grid computing y cosas de ese estilo y tenía un par de estudiantes.
+
+[41:29]
+Ariel no recuerdo el otro me tocaría meterme al lente ni y consigo los nombres, pero tenían parte Estudiantes que estaban mirando estaban realmente programando una forma en la que uno podría como donar en los ciclos de su computador corriendo un programa y ellos tenían un sistema que era bastante funcional y usaba computadores en la en la red de la Universidad hasta el punto de que ellos necesitaban como una aplicación y yo tenía ya mi programita listo y y lo corrimos así y yo creo que eso fue un ejemplo muy bonito de digamos de cosas convergiendo y de gente de esa generación que estaba haciendo cosas muy interesantes donde eventualmente pudimos como juntar esas dos cosas y eso se convirtió en mi proyecto de grado entonces ahí tuvimos unos resultados relativamente interesantes y en algún momento el profesor Fernando me dice no yo creo que esto lo podemos escribir en
+
+[42:29]
+Un paper y y lo mandamos una conferencia y hay una conferencia que se llama sí, sí, con friendzone compite en Australia y Fernando me dice y yo siempre quería ir a Australia entonces escribamos el paper y yo voy a mostrarle lo presento y yo bueno, no excelente hagámosle y empezamos a escribir el paper y obviamente con mi inglés es de esa época que no era tan bueno.
+
+[42:55]
+Necesitaba, pues como mucha guía de profesor Fernando y escribimos el paper y mandamos el paper y todo esto, pues fue un proceso absolutamente nuevo para mí, o sea que o sea qué significa esto no? Y como así que se manda y que lo revisan y pero también muy muy enriquecedor porque era como wow, o sea, estamos aquí generando este conocimiento nuevo y hay gente que son expertos que lo van a leer etcétera, entonces como ya solo tener esa oportunidad era muy bueno y finalmente ese paper lo aceptaron lo cual fue una una sorpresa muy grande.
+
+[43:37]
+En esa época nos llegó una una copia física del paper con unas correcciones que eso ya no se ve el profesor Alan Blair que ahorita, pues yo sé quién es porque yo soy estoy en la comunidad Cano Australia si él fue la persona que hizo eso en ese momento entonces el paper lo aceptaron y bueno, no listo ya el paper. Entonces Fernando no Alí este es el que va a Australia y Fernando me dice, no, yo no puedo ir, le va a tocar ir a usted y yo dije, pero qué? Cómo así no Australia o sea, imposible, entonces el profesor Fernando no me empezó a decirme no es en serio, o sea, mire, cómo va sacando la visa? Vamos cotizando unos pasajes. Miramos acá al departamento que puede hacer y vamos a hacerlo.
+
+[44:37]
+Australia y empezó una tarea titánica que para mí en ese entonces empezó con sacar el pasaporte porque yo no digo, o sea, nunca había salido de Colombia y sacar visas y mandar papeles o sea, yo me acuerdo que era DHL cerca al aeropuerto, o sea eso fue una tarea absolutamente titánica y casi que hasta el final se veía imposible incluso en la Facultad en el departamento Ingeniería de Sistemas hubo discusiones pues como para mirar cómo tratar de apoyarme digamos financieramente para poder hacer eso y eventualmente alguien firmó no recuerdo quién era el director del departamento en esa época
+
+[45:30]
+Se me escapa en ese momento al final de la entrevista de pronto una V que lo grabemos después grabemos después con los nombres que me he olvidado tal vez Mario Alberto Pérez y Mario Alberto entonces finalmente él firma un papel, digamos que no, no voy a entrar en detalles y se mandó eso a la embajada y cuando menos pensé estaba yo en un en un vuelo que iba de Bogotá a Caracas de Caracas a Londres de Londres a Singapur y de Singapur a Sydney y en Sidney después de esa maratón, tomé un bus hasta Camberra donde estaba la conferencia, no? Entonces era creo que esto pasa ahorita mucho más seguido de lo que antes, pero en esa época en esa época, o sea, era como wow, o sea este man que o sea si era yo creo.
+
+[46:30]
+Que fue la primera vez y creo que soy convencido que mucha gente después de eso empezó también como hacer camino similares, pero en ese en esa época era muy raro y por fortuna, así vine acá Australia no tenía ni idea que yo iba a terminar acá de hecho eventualmente yo me volví ciudadanos australiano y la primera vez que fui al Parlamento de fue cuando visité en el año 2003 viniendo de Colombia y todo salió muy bien, o sea, yo di mi charla en inglés y de ahí salieron algunas algunas conversaciones interesantes y eso fue como la base de lo que empezó a hacer como mi camino para tratar de hacer un doctorado y y tratar de como de seguir en este cuento por decirlo de cierta forma la conferencia fue en el año 2003 en el verano.
+
+[47:30]
+australiano me recuerdo que eso era diciembre del 2003 se llama conference on evolucionar y computation el paper está todavía por ahí y digamos que esa fue de alguna forma digamos que eso fue en diciembre del 2003 y yo me gradué en la primera ceremonia del 2004 que fue más o menos en abril, ya estaba obviamente la tesis aprobada y digamos el hecho de que de que hubiera sido presentado una conferencia internacional en esa época era como bastante bastante raro y creo que eso fue de alguna forma lo que también llevo como a la tener la oportunidad de que la tesis fuera meritoria, etcétera y aparte, digamos de las cosas académicas y obviamente la experiencia que yo tuve de poder salir del país en esa época estar solo en
+
+[48:30]
+una conferencia y cómo mirar que las cosas que estábamos haciendo en Colombia en esa época, pues eran suficientemente buenas no como para tener ese nivel eso fue bastante.
+
+[48:43]
+Enriquecedor y también no solo desde la perspectiva académica, sino también desde la perspectiva digamos como más general de la vida, no de poder salir y hacer eso y y mirar que sí que de alguna forma que sí se pudo tener esa experiencia que nunca pensé en que eso pudiera llegar a ser y ese fue como la digamos la forma en la que terminó mi carrera en la Universidad Nacional yo veo una una serie de cosas seguramente sí sin querer queriendo como se dice Juliano se está dando unas lecciones muy importantes entre otras cosas Beatriz del valle, no sea ese de tu región también que no se contó pero pues es un colega.
+
+[49:31]
+insisto un homenaje sí, porque no hablaste mal del tablero, no además son de Palmira que es lo interesante, cómo crecemos, no comienza a hablar de ayuno yo ya mismo el tema excelente el tema tiene que ver con la pedagogía de la enseñanza y la programación, no, ni siquiera habla del eterno retorno, no, sino sería raro que volviéramos al tablero casi es piense primero y haga después un poco porque la manera como lo normal narras digamos ingenuamente en esa época como estudiante ahora lo narras con un concepto muy pedagógico el valle en tu época cuando te viniste ya era muy avanzado carvajal, había pasado por
+
+[50:30]
+los computadores nec ya tenían mini computadores, yo tuve la oportunidad de que mi software de lógica era el de El de Carvajal porque yo trabajé pues ellos les gustaba mis ojos y una época y que viajamos mucho a Cali y Carvajal era muy avanzado en ese tema y obviamente tendría que oficina en Bogotá me llama la atención anecdóticamente el edificio nuevo de ingeniería, porque la primera reunión de Reis en la Nacional hace como 18 años los esperamos en el edificio nuevo de ingeniería y busque un edificio nuevo el edificio nuevo tenía como 60 que hablas y que nos rememora mucho lo que hoy día hablamos es la Luis Ángel Arango había que ir había que ir a hacer copypasta, no se quejan ahora nos quejamos el copy, page era el aprendizaje en Arango pero
+
+[51:30]
+Implicaba un sacrificio enorme, me gusta vieron las terminales de pantalla verde, yo traje los micros a Colombia en el 80, o sea, ya había una historia y del 96 y estaba Windows y todo eso me gusta la frase. La tesis me cambió la vida la tesis es una discusión de hoy en día muy fuerte, porque ya lo han eliminado en muchas universidades la cambia por un diplomado y es muy probable que el esfuerzo de la tesis es vida, no es potencia, es energía y el sufrimiento no? Y también es parte es un poco de la vida y por último la historia de la astronomía de la madrugada a correr campos de la Nacional porque yo molesto a mis amigos de la Nacional yo soy andino, pero también un curso de Análisis Numérico en la Nacional en esa época que me tocó porque los Andes no lo había etcétera, yo le digo a mis amigos que
+
+[52:30]
+Ellos salen los profesores salen de la Nacional y siguen averiguando la vida de la Nacional como si estuvieran en la Nacional no todas las estadísticas que están pasando y yo los molesto porque les digo que cuando se deprime se van para el campos no hay un amor por la Universidad pero es verdad muy interesante, hay un amor por la Universidad o sea todo es un recorrido que fíjate en la parte de lo narrativo no tiene un contenido humano pedagógico y se ve el espíritu de un estudiante de la Nacional esa narración que toca de hacer es la maldad de Australia no primer viaje investigación entonces para que sepas digamos base en un nuevo proceso de del objetivo de esta charlas que es conocer ese de esos aspectos.
+
+[53:22]
+Bueno, muy bien Manuel ahí hay algo interesante la nacional y si bien la Universidad Nacional caracterizado por impulsar que sus estudiantes realicen sus estudios de post doctorado doctorado en el exterior, porque eso a eso como que nació con la Universidad Nacional ese fuerte como dice Julián García tiene un ángel muy grande a partir de la década del 2000 al 2010 se comienza con un impulso grande de apoyar a los estudiantes a que presenten sus trabajos en el exterior y da cuenta del grado de desarrollo científico y tecnológico que tiene la Universidad de sus estudios de investigación, entonces eso fue una parte bien interesante y como que se impulsa en la en la en la década de 2010 en la parte internacionalización del currículo de tratar de hacerlas con otros profesores de impulsar.
+
+[54:22]
+el concurso de programación de computadores a nivel mundial de preparar a esos chicos para que se enfrentan en otros contextos y de la necesidad de un segundo idioma no aunque la aunque la Nacional ese esa chispita como de aprender ese otro idioma era más como el estudiante ahí ya se vuelve en un como en un objetivo institucional entonces eso también hace parte como como ese currículo yo quería preguntarte a Jonathan a Germán a Fernando pero también muy muy cerca como al final de mis estudios el profesor Fabio González también regresó y también regresaron Jonathan después de también de terminar su doctorado y claro ellos digamos que siguieron de alguna forma impulsando más y yo creo que eso cambió bastante también de mucha gente sí profesor Rafael creo que tiene una pregunta o
+
+[55:22]
+Julián bueno varias varias cosas el primero agradecerte la narrativa de eso pienso que que es algo que que normalmente se entrena en otros espacios.
+
+[55:36]
+Esa capacidad de narrar, creo que todos estamos en carreta hicimos escuchando el cuento porque nos estás haciendo un recorrido en el tiempo en el espacio y eso es muy bonito. Hay una una pregunta que bueno, dos preguntas la primera está asociada con con una frase que pronunciaste muy al principio decías una de las decisiones trascendentales para mi vida.
+
+[56:09]
+sí, tal vez la más trascendental en mi vida fue haber aceptado con ni siquiera haber aceptado porque no había una propuesta fue una decisión venir a Bogotá
+
+[56:21]
+Existía también otras opciones que existían también otras opciones en Cali de muy buen nivel académico etcétera, pero hay una decisión de vida, cuán qué edad tenía ese ese niño Julián cuando le cambia la vida sí, yo llegué a Bogotá con 17 años y sí realmente para mí sí.
+
+[56:51]
+si fue digamos que fundamental la parte académica por un lado porque
+
+[57:04]
+digamos yo sí de pronto un poco lo que decía también el profesor Manuel tenemos como a romantizar la Universidad Nacional pero yo sí efectivamente creo que que esa formación fue bastante especial por un lado, pero creo que también como el hecho de que tenía que vivir solo acá fue bastante bastante fundamental en Cali en realidad si había muchas opciones cuando yo en la época que yo vine a la Nacional había un paro larguísimo larguísimo la Universidad del Valle era como mi otra opción y digamos que como hasta el tercer semestre yo estaba tratando de pronto de homologar mis estudios en Bogotá y regresar a Cali particularmente pues por cuestiones logísticas económicas, etcétera, pero creo
+
+[58:04]
+Que ya en ese entonces hablé yo con mi familia y dije como no, o sea, yo realmente me siento en casa acá en Bogotá y y quiero seguir acá afortunadamente afortunadamente pasó en esa en esa dirección y lo que me está diciendo en cadena con la otra pregunta que que tengo porque estamos hablando entonces de un niño insisto de 17 años que toma la decisión más de las decisiones más importantes de su vida, una es seleccionar a qué se va a dedicar bien, pero eso sigue pasando y otra ese ese cambiar de ciudad y rescatando un poquito todos los otros ambientes que vienen con eso mencionaste y gracias por hacerlo a Juan Carlos Galeano una persona que que quise muchísimo fue profesor en el poli también y bueno Juanka es una persona fue una persona muy muy muy muy especial.
+
+[59:04]
+Pero Juanca gimnasta baterista, entonces hay otros otros componentes de la vida que de pronto se dejan fuera cuando empezamos a contar nuestra historia de la formación de ingenieros de las formas de cómo era mi universidad. Yo me dedicaba a estudiar etcétera, cómo era durante el trayecto de esa vida de pregrado el resto de vida de Julián también, por qué en muchos mentideros se tiene la noción de que no, si usted está estudiando ingeniería no va a tener vida, entonces también. Yo creo que esto va a haber otras personas a quienes es importante contarles que para nosotros que nosotros también tenemos vida, una vida más allá de la Academia como como era ese ese mundo sí no digamos que la mi vida en Bogotá era como muy rica y muy enriquecedora en todos los sentidos.
+
+[01:00:04]
+tenía también digamos tiempo libre los sábados por la mañana jugaba baloncesto en el en una cancha pública ahí del recuerdo que está cerca la 26 vivía ahí en el recuerdo y el plan el plan con mi novia es entonces era ir por las tardes a ver a la Filarmónica de Bogotá en el en la Universidad Nacional y digamos que había también sí, otras otras esferas, si mi compañero que tú mencionas Juan Carlos Galeano otras personas que eran también cercanas Angélica Veloza John García y otros, o sea éramos también amigos por fuera de la universidad no Juan Carlos
+
+[01:00:51]
+Venía mucho a Palmira también eventualmente si al final y pasábamos mucho tiempo en el clima, pues mucho más caliente de Palmira también y la amistad sí, trascendía, digamos que las cosas académicas y obviamente pasaba por por muchas esferas, no la música etcétera y yo creo que sí, el el digamos que la Universidad de alguna forma es como cierto.
+
+[01:01:22]
+Punto de convergencia ahí, pero las las amistades que que se forra son muy muy importantes y es una cosa que yo le digo mucho también a mis estudiantes ahora en lo que llamamos acá la semana bueno, lo que sería como el equivalente de la semana de inducción en Colombia lo que yo le digo a mis estudiantes que están entrando a la universidad Monarch yo les digo, o sea, va a haber muchas cosas académicas acá importante pero lo más importante que usted va a tomar de de esta experiencia es la red de amigos y colegas que con la que usted digamos que va a salir de acá, no? Y de alguna forma podría uno incluso argumentar que es más importante que que las otras cosas y en efecto sí o sea son amistades también de por vida que que se forjaron en esas épocas en una duda y es que me picas y hace rato.
+
+[01:02:22]
+La curiosidad tú te fuiste por una línea bien compleja que es la línea de Computer Sainz básicamente en lo que teníamos en la universidad programación de computadores estructuras de datos algoritmos finalizas viendo algoritmo con Fabio me imagino yo con Pablo niño Fernando niño, porque Fabio sí sí termina uno como esa línea con este grupo de profesores maravillosos con los que contamos actualmente en la universidad y yo te pregunto y en la otra línea como la línea de software, cómo te fue que que estaban viendo lo que vieron en esa época en esa línea quienes estaban si tú lo recuerdas de pronto sí, en esa en esa época sí sí, efectivamente en esa época digamos que una parte que no mencioné mucho porque digamos que me concentré como en la práctica académica pero en el proceso de buscar.
+
+[01:03:22]
+El doctorado etcétera, pues yo tenía que trabajar entonces trabajé como ingeniero de software, en esa época. Sí, claro estaba como muy en boga, el asunto de lo que lo que se llamaba creo que servicios en esa época que era mirar como al software como un servicio y tener estos pequeños componentes que prestan servicios micro servicios, quizás sería el nombre en esa época estaba también de alguna forma como que ya va, había de alguna forma. Ya se había establecido mucho más de lo que de lo que estaba al principio y digamos también en lo que en lo que en esa época se usaban la industria había una tecnología que te llame que se llama JSP había también como la introducción un poquito más.
+
+[01:04:22]
+Rosa de lo que se llamaba patrones había uno que se llama creo que en bici que queríamos que se implementaban esas cosas en frameworks, que que se usaban en la industria y digamos que también tuve la oportunidad de hacer eso pues como en el en el periodo en el entre en el que me graduó y cuando finalmente me voy a hacer un doctorado, pues era básicamente como ingeniero de software y ahí también una cosa bonita ahí, no? Y es que mucha gente es una cosa que uso también con muchos estudiantes míos en esta época que a veces como que están indecisos entre un camino académico no académico y digamos que para mí esa parte de la industria fue instrumental también porque me di cuenta que en la industria podía tener también un camino igualmente estimulante desde el punto de vista intelectual porque
+
+[01:05:22]
+También la tarea de aprender esas nuevas tecnologías y él era un digamos un espacio muy dinámico donde las cosas, estaban cambiando mucho y muy rápido. Entonces sí había libros. Había investigación pruebas pequeñas, etcétera y también era de alguna forma muy muy estimulante desde el punto de vista intelectual, o sea que no solo estaba esa parte académica, sino también como la parte sí de ingeniería de software y es algo que hasta hasta el sol de hoy, cómo se dice predicó también como a mis estudiantes no? Que muchas veces ellos se ven como en esa encrucijada de voy a hacer una tesis o no, una tesis es como no sé mi perspectiva es que eventualmente uno termina descubriendo las cosas que le interesan, digamos que no necesariamente en alineación o incluso a
+
+[01:06:22]
+pesar de ciertas decisiones que se toman que en el momento lucen así súper como definitiva no, pero yo pienso mucho, por ejemplo cuando yo quería estudiar economía
+
+[01:06:34]
+Y que me iba a cambiar, pero no lo hice y eventualmente digamos, tengo, tengo algunas publicaciones en Economía mi supervisor es un economista también y técnicamente mi doctorado de ser una facultad de Economía a pesar de que en ese entonces no me cambié entonces yo creo que de alguna forma los intereses que uno tiene como que por lo menos de mi perspectiva sí, toman prevalencia a pesar de esas de esas escogencias. Creo que me estoy desviando un poco, o sea que mejor que me paren chicas la parte personal y humana es fundamental cierto Rafa lo veo hace asintiendo, no de tal manera que no, no te envías, no solamente dos cosas. Yo te este es un grupo de nerds, no me parece este es un grupo. Yo tenía un grupo de estudio de los Andes con cuatro amigos todos de distintas, carreras de ingeniería y de las casas nos reuníamos y las mamás eso atendían divinamente.
+
+[01:07:34]
+entonces hasta la madrugada y tenía otro grupo con dos amigos míos de la Nacional que estudiaban ingeniería mecánica uno de ellos tiene una fábrica y hoy vamos a la fábrica a estudiar hasta la madrugada estudiar no hubo ni una aguardiente en esta época es un grupo de NES pero ahí yo pude ver mucho la personalidad del ingeniero estudiante de la Nacional anoté, dos palabritas, autodisciplina y autorregulación yo nunca los subí diciendo es que el profesor me dice que debo no era una autorregula estudiosos a morir y yo creo que ese es un concepto porque también parte no se desangra Rafa de esta charla es es el alma mater, verdad ese espíritu que da a sus estudiantes es parte también de lo que aquí vamos a observar y estamos observando ver a esa y otra cosita y la influencia de la Nacional en el exterior no había sábados sin la Filarmónica
+
+[01:08:34]
+Esa época no sé ahora, la verdad si están en lo mismo, pero en ese momento estamos en remodelación del León de Grace y nuevo para lanzamiento, entonces haremos fila como lo hemos venido haciendo siempre yo recuerdo mucho Angélica y a Juan Carlos y creo que tú estabas en este grupo también un grupo muy muy dinámico, si bien estaban concentrados en su estudio era un grupo pues muy bonito porque era de esos grupos de estudiantes, que es que está en muchas cosas, no, que no es solamente la disciplina. Sí, sino también el deporte el involucrado con la universidad en sus actividades culturales y en sus actividades académicas.
+
+[01:09:34]
+Y muy presente dentro del 453, me acuerdo en el segundo piso ahí en el laboratorio. Entonces creo que sí, esa parte que tiene la Universidad de integrar a los estudiantes, además son estudiantes con un carisma muy muy importante y que trasciende a su grupo pasa a los profesores y luego ellos como parte también de una modalidad que tiene la Universidad y es apoyar a los profesores como profesores con becas académicas, entonces los estudiantes que ya terminaron su su pregrado inician una maestría, pues ingresan como profesores en apoyar los cursos precisamente de programación lo que tenemos 22 grupos de programación atendemos un un promedio más o menos de mil estudiantes por semestre en programación de por eso es que Julián decía, yo estaba en una sección privilegiada claro porque
+
+[01:10:34]
+Justamente a los de sistemas pues vamos con todo lo de sistemas por ser nuestra nuestra área específica, no? Entonces, pues muy chévere también mirar acá también desde la perspectiva.
+
+[01:10:49]
+He tenido digamos roles similares acá en Australia lo que sería como el equivalente director de la carrera y ahorita soy director de de programas de pregrado y sí, como ver que algunos de esos retos son muy similares, no nosotros también tenemos el primer curso de programación son aproximadamente 1.500 estudiantes y eso cada vez más grande Juliana aquí fuimos pioneros en lanzar, unos programas de formación de programación para niños y niñas en Colombia y yo creo que todos los que estamos aquí casi como los de juicio seguimos en lo mismo procurando por la formación en TICs a nivel nacional y pues hemos apoyado al Ministerio de Tecnologías de Información y Comunicaciones en programas de formación y capacitación en TICs el último y más reciente es el de la Alcaldía que se llama Atenea que lo que buscas formar a personas de escasos recursos que tengan la oportunidad.
+
+[01:11:49]
+De formarse en actividades muy específicas que les permita elaborar justamente en el marco de estas actividades en un sector productivo ya nos contaste ya te graduaste y afortunadamente como dice Manuel no soy en cinco minutos.
+
+[01:12:05]
+Entonces en el grado cuéntanos y te graduas y qué pasa? Qué pasaría en adelante? Bueno, cuando me gradué, entonces digamos que yo tenía más o menos claro que tenía que hacer un doctorado, pero tenía obviamente que buscar una beca, no podía sencillamente otras otras opciones, no eran de pronto tan opciones para mí, no? Entonces tomó bastante tiempo. Yo tomé alrededor de dos años para finalmente escoger y en esa época se tenía como la intención de ir a Inglaterra y tuve muchas aplicaciones incluso me dieron algunas becas también allá pero siempre.
+
+[01:13:05]
+Parciales, entonces tenía que completar o con Call futuro otra cosa y no digamos que no era como tan no era una opción para mí tener esos préstamos y eso pues digamos que complicó un poco el asunto como en términos de salir rápidamente y finalmente a los dos años encontré una beca, pues que era completamente pagan en Holanda trabajando en un problema similar, pero trabajando más con economistas, entonces ellos querían como ver la aplicación de las de las del digamos de las técnicas computacionales en un entorno más económico realmente básicamente la continuación de mi tesis de pregrado y creo que por eso también les llamó la atención a ellos y por eso me escogieron pues para para ese proyecto en particular entonces.
+
+[01:14:05]
+si en el 2006 en abril del 2006 empaque todas las cosas y me fui para Amsterdam en Ámsterdam estuve cinco años haciendo el doctorado el modelo el modelo de Holanda básicamente es un doctorado donde
+
+[01:14:26]
+Estás como 100% haciendo investigación hay muy poco como cursos o cuestión de estar en clases y esto también de alguna forma generaba un problema porque en general el requisito para entrar a ese tipo de programa era tener una maestría que yo no tenía entonces lo que yo dije de la tesis no digamos que haber tenido esa experiencia internacional y tener el paper, básicamente les les ayudó a ellos, pues como para hacer el papeleo de tal forma que yo pudiera entrar directamente al programa y estando ya en el programa conocí, pues a mí a mí supervisor principal que se llama mata. Él es un economista y es un es un especialista en teoría de juegos y ya eso fue digamos como básicamente aprender desde cero.
+
+[01:15:23]
+todas las técnicas y me tomo cinco años para escribir mi tesis también fue una época muy enriquecedora estar en Ámsterdam que es realmente una ciudad para mí hasta el sol de hoy todavía muy especial al final de mi doctorado tuve la oportunidad de visitar la Universidad de Harvard en Boston porque mi promotor mi supervisor estaba trabajando con alguien en la universidad entonces pasé un tiempo allá y eso genera una conexión con mi supervisor post doctoral que es un alemán que estaba en esa época en Boston y estaba regresando a Alemania a un Instituto Max Planck donde básicamente pues sí, él me contrata inmediatamente después del doctorado y
+
+[01:16:24]
+Digamos que sí puedo continuar la carrera y y básicamente seguir trabajando en cosas muy similares de pronto había como una visión un poquito más biológica de los problemas, pero en términos digamos técnicos era muy similar lo que estaba haciendo y también fue una época muy enriquecedora porque estaba en un pueblo muy pequeño que tenía casi que un carácter monástico y y eso digamos que si se prestaba mucho, pues como para tener esa vida donde básicamente es 100% investigación y no hay nada distracciones, no hay administración, hay absolutamente nada de cursos ni nada, entonces eso fue qué pueblo eso es un pueblo que se llama plon que queda aproximadamente una hora de Hamburgo en el norte de Alemania en Alemania y yo vivía en una ciudad que se llama kill, que es más o menos 30 minutos en tren.
+
+[01:17:24]
+Explore y digamos que él se fue también un periodo muy rico intelectualmente porque el poder que tenía el Instituto Max Planck para traer gente y viajar etcétera, digamos que me hacía, sí, digamos que me sentía que estaba pues como en el en la crema del asunto en esa época también volvía a Boston que es un ambiente bastante enriquecedor intelectualmente y ya mente. Digamos como después de tres años de hacer el doctorado llega también como la otra encrucijada que es bueno usted se va a quedar por acá o se va a volver a Colombia que o sea llevas ya como 8 años en esto y en tu vida que entonces yo hice algunas aplicaciones para ser profesor en Colombia en la época.
+
+[01:18:24]
+Y realmente si me encontré como en esa encrucijada de tratar de decidir si volvía o no, entonces digamos que era claro para mí que quería salir de Europa estaba un poco ya.
+
+[01:18:41]
+Sí, un poco cansado, quizás que no necesariamente esto implica que nada malo digamos de esos lugares, sino que quería como un cambio de aire, quería vivir también una ciudad grande. Entonces básicamente quería ir a un lugar que no fuera a Estados Unidos que hablara en inglés y que fueron a ciudad grande o volver a Colombia y digamos que como en esas dos en esas dos líneas paralelas empecé como hacer mis procesos de aplicación y eventualmente me ofrecieron un trabajo en Australia y un poco como mi visión era como bueno, puedo ir quizá me puedo ir tres años para allá y después vuelvo a Colombia también es bueno como tener la experiencia en una universidad extranjera como profesor y me vine acá como en esa mentalidad me vine para Australia como en esa mentalidad ya estando acá un poco curioso porque conocí conocí a mi compañera.
+
+[01:19:41]
+Al muy poco tiempo de llegar acá mi compañera es de Estados Unidos si se acuerdan que yo no quería ir a Estados Unidos entonces si conocí a mi compañera y terminamos de a poco sí, haciendo una vida acá a los tres años yo pasé como mi aprobación que es como el equivalente a tener tenor y eso me dio también la oportunidad de volverme a un ciudadano australiano y empezó como todo a tener su lugar y realmente yo estoy en Melbourne que es una ciudad fantástica se paga un poco el precio de la distancia porque está muy lejos de Colombia pero digamos que es un es un lugar muy bonito para vivir y acá nos fuimos quedando y ya digamos.
+
+[01:20:41]
+una hija acá que es más australiana que es la única australiana en mi casa con su acento y sus comidas y todos mi hija tiene dos años y sí, ya tengo tengo casa perro todo gato acá en Australia entonces yo creo que yo creo que sí ya nos quedamos por acá alguna actividad con Australia que Beatriz ha traído a ofrecer sus sus sistemas educativos, no universitarias, yo le contaba a Julián que mi hijo estudio en Australia también arquitecto pero es una carrera de fotografía totalmente en Australia y tuvimos una experiencia muy interesante con Martín de llamas, el autor de Moodle
+
+[01:21:28]
+Y él nos decía, pero es tan lejos que no había universidad había radio.
+
+[01:21:38]
+Estudiar por radio le dio un concepto muy filosófico de la distancia y de la necesidad de acercar la distancia es un plan filosófico de villano es muy interesante porque él estuvo con nosotros acá varios días y nos reunimos con redes y todo eso no y fue cuando él comenzó a pensar a hacer un aula virtual cuando las hablo cuando no existía todavía esas plataformas de manera tan como hoy no y esa historia pues el oímos mucho a él en lejos no me merecen Australia todo es lejos porque eso es muy grande todo es muy grande. Sí sí el Australia es como la lejanía y también digamos que la otra forma digamos aquí un poco de cerrar la narrativa y cerrar la historia es que yo terminé también en Australia que es el lugar donde donde vine a presentar mi tesis entonces ahora son que casi 20 años después.
+
+[01:22:38]
+Esto ya en Australia y digamos que de alguna forma si esto es radicado acá y ese edificio que cuando tenía no sé veintipico años que fui al Parlamento australiano, sí, digamos que eso ahorita donde los políticos que me dan las emociones hacen están ahí, no? Entonces de alguna forma creo que también si eso como que de alguna forma cierra un círculo y si es bonito yo trato de tener vínculos con con Colombia y en particular como con la Universidad como decía Sandra pues
+
+[01:23:18]
+Creo que estoy todavía como profesor adjunto en la lista a veces he tenido tareas que hacer para para la Universidad Nacional una que otra charla en la cátedra, o revisar documentos y cosas de ese estilo entonces sí, trato de tener contacto y siempre que que vuelva a Colombia un poco como decía Manuel no siempre cuando nos deprimimos vamos a la Universidad Nacional yo casi que siempre es algo del dorado derechito derechito al campus y es de alguna forma así yo creo que se convierte como ese lugar espiritual de cierta conexión y ya que sí tiene, pues hay como muchos recuerdos ahí, pero también gente que está por ahí siempre vuelvo y me tomo un café con Fabio o con Germán si ir a almorzar y también como si mantener ese ese vínculo y esa.
+
+[01:24:18]
+esa línea pues con la universidad en Colombia y en términos más generales también con la disciplina en Colombia
+
+[01:24:25]
+Hoy estás con nosotros, o sea que no retorno te persigue porque de alguna manera mira cómo te escogieron para Sandra muy bonita en realidad muy bonita experiencia y es muy muy bueno verlos acá también y tener la oportunidad de charlar.
+
+[01:24:46]
+Julián una una cuestión importante hoy en día y hablábamos con los otros invitados acá es como promover nuestro programa de Ingeniería de Sistemas y Computación y programas de formación a fines en los jóvenes y las jovencitas en nuestro país mándales tú por favor un mensaje de por qué si vale la pena estudiar este este tipo de carreras.
+
+[01:25:17]
+sí
+
+[01:25:21]
+Mucha gente digamos que acá también acá no solamente preguntan y me dicen.
+
+[01:25:30]
+Sí, como porque porque estudiar computación informática lo que yo diría de alguna forma es que es un campo que tiene todo por descubrir y una cosa que yo enfatizo mucho con mis estudiantes es que muchos nos atrae la disciplina porque usamos tecnología.
+
+[01:25:52]
+Pero la disciplina y lo que lo que vamos a hacer y lo que vamos a estudiar en realidad no es sobre usar tecnología es sobre crearla.
+
+[01:26:02]
+Y digamos que para mí es claro que muchos de los retos que nosotros en esto encontramos incluso a una escala humanitaria, van a necesitar tecnología nueva y se necesita gente que venga con mucha energía y con muchas distintas tipos de capacidades, entonces una una de las cosas que yo fui muy específico, cuando hablé de mi curso de programación la Universidad Nacional eso funcionó para mí, pero viene mucha gente con con muchos otros tipos de capacidades y muchos otros tipos de y todos tienen un lugar en lo que es esta disciplina y es básicamente sí, claro, la tecnología del futuro la necesitamos casi diría yo que a un nivel existencial entonces es un buen lugar para poner esa energía.
+
+[01:26:54]
+Muy bueno Manuel tú no me dirás y continuamos paramos ahí si hay alguna pregunta adicional que no hayamos tocado es muy interesante un factor común de Julián y Sandra Rafa Kevin Beatriz que nos conoce tanto que es la pasión por la por la ingeniería a veces es difícil el final tuyo es muy bueno, que es este proyecto de vida, no, esa forma de vivirla, no, que no, no es lo tecnológico, claro, pero no solamente la herramienta en sí, si una cantidad de significado es casi metafísicos por decirlo porque todos los que han pasado por acá cuando cuentan su historia los primeros los de los años 75, no? Yo soy de 72, no decían y yo lo viví, estudiábamos sin saber para qué no se sabía que iba a pasar con uno sí, no, al sistema en Colombia no había no había casi computadores.
+
+[01:27:54]
+Pero la pasión era enorme y nunca tenemos la preocupación y qué vamos a hacer? Era esa época, no hoy en día, pues es obviamente, ha cambiado, pero en general hay mucha pasión por los ingenieros de sistemas y ese es un gran valor nada más ver a Rafa con su maratón de programación que es increíble, no lo que ha hecho Rafa una conclusión.
+
+[01:28:18]
+No, pues digamos que esta historia afortunadamente no termina siempre quedan el comienzo, pero vamos más actualizaciones piense que en muchas de las discusiones las hemos tenido en red y las hemos tenido en muchos espacios con la Secretaría de Educación con el ministerio, o sea, toda la gente que se que no es residente a veces en la disciplina, pero también con los residentes en la disciplina. Hemos por eso mencioné redes hemos tenido muchas discusiones donde hay una línea de personas en la que creo que nos incluimos que defendemos que si es necesario saber de algoritmos, si es necesario saber matemáticas en últimas, sí.
+
+[01:29:18]
+Es necesario, hay otros que dicen no minimicemos eso, porque eso resulta siendo un asunto casi que teórico y para teóricos y y más bien empecemos a apropiar cierta tecnología y a resolver la pregunta de qué es lo que necesita la empresa entonces sin irse al otro extremo decir que una cosa no sirve y la otra. Sí, por eso me gustó tanto la pregunta que que te hizo Sandra cuando digo, has hablado mucho de algoritmos y de la línea y esa línea de informática teórica, cómo te fue en Ingeniería de Software casi que que de alguna manera deja como una línea y divisoria porque aún hay personas que que a veces dicen evitemos las matemáticas.
+
+[01:30:13]
+Entonces me gustaría escuchar. Yo soy creyente, no es para mí la respuesta es la pregunta, es muy para para quienes nos escuchan también en términos de de esa eventual división en términos de por qué hay que acercarse a las matemáticas?
+
+[01:30:38]
+Porque esta pasión a veces he empezado, he ido descubriendo hablando con con personas que a veces la pasión ni siquiera es por la tecnología, sino hay mucha pasión por las matemáticas y mucha pasión por entender lo que está pasando recuerdas Manuel alguna vez decía en un foro que nos invitaron y después algún periodista solamente citó la mitad de mi frase cuando yo dije los ingenieros no sabemos nada útil los ingenieros de sistemas no son ahí porque yo decía pero pero estamos entrenados para aprender y comprender cualquier cosa más rápido que otros entonces la primera mitad me dejaron sumamente la primera mitad por esa mitad me hice famoso por esa primera mitad de no sabemos nada útil, pero bueno, entonces muy en esa en esa dirección Julián un mensaje alrededor.
+
+[01:31:38]
+De la aproximación que hay que tener las matemáticas y decir esa vaina sirve o no mejor dicho, perdón, por lo contrario digamos que las matemáticas y el digamos la fundamentación teórica es muy importante en la disciplina sobre todo cuando digamos que estás tratando como de empujar la frontera del conocimiento, lo que yo diría al respecto es que no hay que tenerle miedo a eso y que muchas veces cuando uno entra también tiene una experiencia diferente de la matemática y hay muchas formas de aproximar de aproximarse a ese conocimiento y hay formas, digamos un poco inclusivas también de relacionarse con esas partes del conocimiento también. Yo creo que hay muchos diferentes tipos de personas que tienen talentos para
+
+[01:32:38]
+Cosas y se puede siempre como enfatizar esa parte sin tener que necesariamente es relegar. Digamos los otros aspectos entonces desde ese punto de vista igual que Rafael yo también soy creyente, pero también soy creyente en que todos podemos tener una experiencia también de ese conocimiento teórico que es inclusiva y a la cual se puede aproximar también desde muchas perspectivas y muchos ángulos la matemática es complicada porque es una disciplina muy antigua y hay ciertos paralelos de cosas como inclusión se tangentes con cosas de género que son complicadas pero digamos que hay mucha gente ahorita haciendo matemáticas de una forma de una forma donde todos cabemos y me gustaría también pensar que en términos de la ingeniería de sistemas también esa
+
+[01:33:37]
+la aproximación que tenemos y si hay matemáticas ahí también, pero no tiene por qué ser un problema de acuerdo tocaste un tema y perdón me meto por allí y es más casi que curiosidad, cómo está la cosa en en Australia en Colombia se y la información que tenemos en algunos espacios de algunos espacios y también las experiencias que tenemos de aproximaciones en América Latina de lo que pasa en Estados Unidos en Europa etcétera, pero cómo está la cosa en Australia alrededor de las mujeres en ingeniería las mujeres en nuestra disciplina sí sí, digamos que hay unas disparidades que digamos son comunes en todo el mundo yo la gente que está interesada como en este aspecto les recomiendo un libro que se llama un lacking de clubhouse y es un libro que habla un poco como el nacimiento de la disciplina de la computación y cómo se
+
+[01:34:38]
+Se hace como intersección con las cuestiones de género, es un programa, digamos que en mi facultad tenemos programas de mujeres en Ingeniería donde hay particularmente mentores mujeres que tienen un rol ahí bastante bastante importante y es una cosa, digamos que en la que sí desde el desde el comienzo. Yo creo que hay que tener una visión.
+
+[01:35:07]
+Donde digamos que todos todos incluyen, pero yo creo que sigue siendo de cualquier forma sigue siendo un reto, creo que ha mejorado las cosas en cierto punto incluso creo que si uno mira ahorita en la educación universitaria tiende a ver muchas más mujeres que hombres ya lo cual es es un paso en la dirección correcta hacia tener cierta paridad, pero en 100 computaciones particularmente difícil y es un problema complejo que yo creo que se tiene que atacar de muchas formas.
+
+[01:35:44]
+Bueno, curiosamente, iniciamos hablando de matemáticas y el tablero de acuerdo, matemáticas y después que eran los algoritmos y ahí estamos hablando de matemáticas, no solamente como para concluir cuando yo hice la maestría me encontré con Descartes en un libro, que eso me lo ha habido mucho Rafa tal vez que Descartes dijo por qué la música produce sentimientos y descubrieron un librito de compendio de la música música, la Filarmónica de acuerdas que el libro es un libro de física y matemáticas física porque las ondas sonoras del instrumento llegan al cuerpo que vibra y según el alma y el cuerpo se unen por la hipófisis, no? Y matemáticas, pues que la música es matemática. Es una es una una realidad, no de tal manera que eso es lo que hemos perdido un poco ese concepto un poco filosófico de las matemáticas y que fíjate.
+
+[01:36:45]
+Que aquí terminamos iniciamos y terminamos hablando de las matemáticas que es muy interesante. Yo creo que hemos cumplido Julián muchas. Gracias, sí, yo lo perseguí y lo encontré en Australia realmente todo lo que nos contaste, vamos a cerrar, no sé, no sé si vivía aquí se está por ahí Kevin para la foto.
+
+[01:37:14]
+No sé si están tal vez señor Kevin está qué bien es estudiante. Él es el buen master de Asís aquí, quién toma la foto Beatriz Kevin sale estás peinado?
+
+[01:37:33]
+abre la cámara que
+
+[01:37:37]
+está peinado.
+
+[01:37:44]
+Muy bien.
+
+[01:37:46]
+Muchísimas gracias, presentación, muchas gracias. Un saludo, especial a tu familia. Un abrazo. Muchas gracias, igualmente allá a todos los a todos los profes de la Universidad Nacional muy bonito. Gracias a todos. Quedo pendiente. Estoy aquí. Aquí estoy cualquier cosa que que podamos hablar o que se puede ayudar con mucho gusto y gracias por poner esto en el en el horizonte. Muchas gracias, muchas gracias, gracias.

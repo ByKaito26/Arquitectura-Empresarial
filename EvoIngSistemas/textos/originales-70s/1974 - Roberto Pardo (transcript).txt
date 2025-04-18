@@ -1,0 +1,230 @@
+[00:00]
+lograr
+
+[00:05]
+bueno, entonces vamos grabando esta es la entrevista Roberto Pardo Silva año 74 como graduado dentro del proyecto de la evolución de la Ingeniería de Sistemas esta charla tiene un nivel de informalidad, lo cual no quita la seriedad no es pública y de estas conversaciones que vamos a tener para todas las décadas del 70 80 90 hasta la actual y ya tenemos a la gente escogida haremos seguramente un libro o algún documento vamos a ver hacia dónde vamos la idea es ir hablando, cómo eran las épocas tal vez el primer esfuerzo para para Roberto en este caso es en la primera parte no salirnos tratar es llevarte a la época cuando eras estudiante cierto ya al final nos hablas algunos comentarios de la perspectiva que ha sucedido unos tantos años y como te mostraban algunas preguntas que tenemos es
+
+[01:05]
+Cuéntanos un poco de la época sí, no del colegio que estabas y año entraste a la universidad, vamos en el contexto de la época que tú consideres que valga la pena sería la primera parte Roberto yo entré a la universidad en el año 1970.
+
+[01:24]
+Y en esa época la Ingeniería de Sistemas era muy nueva entonces realmente uno no escogía la Ingeniería de Sistemas porque tuviera mucha información sobre qué era eso, sino por algún amigo que le dice a uno y a ustedes bueno, para las matemáticas estoy en el día y bueno y las ingenierías y yo era me gustan las matemáticas y terminé estudiando sistemas por eso, pero realmente no veo un perfil de un ingeniero de sistema, no existía la experiencia de creación por otro lado nuestros profesores también eran no eran ingenieros de sistemas y profesores eran ingenieros civiles principalmente sobre todo en el área de programación.
+
+[02:24]
+De eso se trata la ingeniería de sistemas en esa época es la época de donde existían los 36044 que vive en la universidad, pero a pesar de eso yo creo que fui muy afortunado y todos los que estudiamos en esa primera parte de los 70 por lo que tuvimos los profesores muy buenos y unos profesores que nos enseñaron el cor de lo que yo llamo hoy en día, el sistema es una cosa muy amplia, y nosotros arrancamos con el corte y lo que yo estoy en la universidad fueron, digamos aspectos de software.
+
+[03:24]
+Cuando no existía la industria del software, pero realmente uno aprendía a programar a estructuras de datos de programación hacer un ensamblador y ese tipo de cosas estudié teoría de autómatas que después me vine a dar cuenta eran cosas que aún persisten y son parte del core de lo que llamo entonces en ese sentido creo que a pesar de que era una época donde no existía la ingeniería de software, no existían las redes, no existían muchas cosas que realmente esa combinación de matemáticas con la parte de Sáenz creo que puede me dio unas bases muy fuertes.
+
+[04:24]
+no sé si quieres que hable también un poco de del posgrado porque cuando me hablan de la Universidad yo tengo que vivirla en dos porque fue la Universidad acá fue la universidad en Estados Unidos
+
+[04:38]
+Pero hablemos primero del pregrado avancemos con el pregrado primero sí, esa época vale la pena comentar la ingeniería de sistemas, no existía en la universidad a ninguna parte lo que dice los profesores eran de las ingenierías algunos estudiaron algo de programación en el exterior y llegaron con la idea y el primer computador que fue el tuyo ya era moderno el 360, no? Porque antes de eso hubo otros dos modelos más antiguos, no, pero ibas bien el tema de la tecnología, o sea los lenguajes que trabajaste no existía la visión de ambientes de programación ni de editores.
+
+[05:38]
+La perforadora o sea, trabajabas escribiendo el código en unas hojas.
+
+[05:49]
+Que se pasaban a una persona que perforaba las tarjetas esa era el proceso, verdad? Bueno, sí, cuando hablamos entonces de tecnologías de la época eran pocas, era bueno el computador y muy importante lo que hablaste del core del conocimiento. Este esto era realmente cumplir 6 lo que se estudiaba y la parte teórica sigue siendo alguien las cosas, por ejemplo lo que era la teoría de compiladores, lo que era la teoría del lenguaje del programación, lo que era la teoría de computación, eso es en eso fue muy aceptado, porque esas son cosas válidas de acuerdo, se puede decir que que lo que estudiaste en esa época muchas cosas persisten, lo alcanzaste a comentar, no? Sí, claro.
+
+[06:49]
+Lo que es la teoría es de datos, nosotros estudiamos con el libro de Canut y yo creo que es un clásico entonces en eso fue los que estuvieron nuestro currículum fueron muy aceptados y tuve muy buenas bases cuando fui a estudiar Estados Unidos y de eso me di cuenta ya, yo no me di cuenta acá nos trabaja, digo trabajamos porque pues a mí cosa época pero yo no soy el entrevistado, pero ayudo con el tema de mix programamos en mix de lenguaje de estructuras que era un ensamblador te acuerdas?
+
+[07:49]
+Como todo lo que es la la complejidad de los algoritmos, porque de una de las cosas que hacía canon es un libro, será en los algoritmos calcularle la complejidad y todo eso sigue siendo válido todo. Eso es parte del corte de lo que hacemos los los que trabajamos en la parte técnica claro, refuerzo lo que dices del algoritmo para que tú lo complementes hoy en día las máquinas son tan rápidas que se olvida el algoritmo en esa época eran tan lentas, que si no había un algoritmo y estructura de datos formal duraba horas y horas cualquier proceso de tal manera, que tú tienes razón, que el tema algorítmico fue esencial te tocó esa época. Bueno, alcanzas, a tener memoria de ya mencionaste algo de los temas, no que
+
+[08:49]
+Se daban en la universidad en ese momento si quieres complementar un poquito los cursos, los temas las asignaturas que te acuerdes, sí, esos cursos de estructuras de datos del lenguaje de programación claro que había cosas muy desacertadas porque eran las primeras veces no la forma como se enseñaba programación era completamente.
+
+[09:13]
+Porque era una mi primer curso de programación es mi primer curso de programación y mi primer programa y todo el curso está orientado a la sintaxis a memorizarlas, no a la parte algorítmica no, no era la teoría de computación como tal entonces era completamente porque no realmente no había ese primer. Yo creo que hoy en día por lo que veo de las universidades sigue habiendo una una gran equivocación en muchos lados de cómo se enseña el primer curso de Comunicación y te digo con una crítica a la Universidad de los Andes que mi hija porque ya uno es por los hijos con los nietos que tiene que
+
+[10:13]
+Cerrar referencia, pero mi hija ha sido un Ingeniería Industrial en los Andes hace 10 o 12 años y el primer curso de programación que se lo dieron en C++ imagínate la brutalidad un curso para una persona el primer curso de programación y era el 80% explicando los temas más entonces yo creo que en ese sentido digamos en esa época hubo cosas buenas, pero no cosas malas de las cosas malas fue mi primer curso interesante es bueno ya nos mencionaste al comienzo porque estudiaste ingeniería de sistemas no, pero ahondando un poquito más en tu casa cuando dijiste yo estudiar Ingeniería de Sistemas que decía la familia que seguramente sabía que había ingeniería, civil y arquitectura y otras cosas eso como lo veía.
+
+[11:13]
+En ese contexto un poco su familia.
+
+[11:18]
+Apenas yo no lo entendía menos le dan a entender en mi caso, es verdad, no se salía en que se iba a trabajar en esa época, no existía esa área en las empresas nadie se puede decir que el impulso era pasión por el tema por haber conocido la programación y por una curiosidad infinita del conocimiento todavía sin una mentalidad utilitarista, digamos de la profesión, pero eso igual también eran muchos lados, sino también en el mundo era muy nuevo. Ahora nos habla de eso. Bueno, bien, entonces te gradúas en el año 74 cierto bueno.
+
+[12:18]
+El primer trabajo cómo fue esa experiencia en esa época en la universidad la gente se iba a estudiar a Estados Unidos a Francia y digamos nosotros no pensamos en trabajar, sino entonces yo me fui a estudiar porque eso era lo que se usaba seguir estudiando entonces me fui a estudiar y yo andaba con el tema de la inteligencia artificial y hoy en día casi cuántos años como 50 años.
+
+[13:07]
+Lo curioso es que el a lo que me dedico es inteligente artificial.
+
+[13:12]
+Desde esa época yo me acuerdo nosotros trabajábamos en la universidad mi tesis en la universidad y me fui a estudiar a Estados Unidos y allá comencé a estudiar en la Maestría poses de inteligencia artificial y de pronto aparecieron las redes y los sistemas distribuidos y ahí aprendí otro mundo porque en ese momento ya estaba la re arpa. Entonces tuve a la oportunidad de trabajar en redes locales entre Internet lo que hoy en día se llama internet, pero en esa época apenas estaba creando todos los protocolos de Internet se estaba creando toda la infraestructura de software del Internet que es la época de los 70.
+
+[14:12]
+Comienza a tener muchos nodos.
+
+[14:19]
+El trabajo consistía en inventarse los protocolos inventarse toda la maquinaria interna de Internet porque eso el internet se vuelve famoso después pero en ese momento era la re barba antes y trabajé en la parte de redes locales y después me metí en ese tema y terminé haciendo el doctorado conferencias de eso toda la investigación era sobre eso entonces realmente pude comprobar primero que la educación básica que tuve una universidad fue muy bueno y lo que más aprende uno en sus en sus estudios es aprender investigación y aprende a aprender solo.
+
+[15:05]
+y y a crearse en esa esa pasión por aprender 5 aprender 100 y eso nunca se me quitó, qué universidad estudiaste en qué universidad en Estados Unidos
+
+[15:26]
+Que fue quien escribió el TCP IP y hay un video grabado, porque lo reunimos nos reunimos con él en Asís con los decanos y directores de redes precisamente sí y hay un video bonito sobre eso con él también lo conociste lo conociste. Yo hice una tesis la tesis mía se basaba en TCP pero SPP es un protocolo de punto a punto y lo que yo trabajé era un protocolo multipunto basado en esa época y eso nos contaba que inclusive ellos están entonces esto lo entregaron como decías a Yuta y además nodos y de pronto apareció el correo electrónico y decía.
+
+[16:26]
+Víctor Serrano supimos a qué horas esto se vuelve mundial no el IPv4 que fue la versión inicial sí, pero esa época súper clave o sea el contar que todo estuviste en la época del Panet es muy valioso porque fue el comienzo con los setentas es que se trabaja en desarrollar la investigación de toda la infraestructura del Internet
+
+[16:49]
+Bueno, pero la vida sabrosa, de estudiante como la vida es dura. Después te tocó trabajar cómo fue ese paso. Bueno, lo hice sabe porque primero trabajé en el instituto con Eduardo Aldana cuando llegue entonces tuve la oportunidad de tener un pie en la universidad y un pie haciendo proyectos de la vida real con aplicados, o sea, aplicar un poco lo que uno sabía a problemas, sociales y problemas gubernamentales de proyectos, entonces a lo que ha sido mi vida, que es un pie en el mundo real y otro pie en lo que es la
+
+[17:49]
+Perfecto Instituto ser famosísimo también tuve mucho que ver con él Roberto de pronto sabe los colegas, lo saben hace unos años hicimos un programa de televisión llamado mi bios que sobre los pioneros de la computación y yo entrevisté 21 pioneros de los 60 70 y entre esos al doctor Aldana y él decía cuando no había nada acá hizo una un doctorado en el exterior y le dijeron tienes que ver programación y él dijo no en Colombia cuándo va a haber un computador de estos eran computadores que tiene escalera pues para para aprenderlo no dije, no a veces no, yo no tomo ese curso cuando llegó a Los Andes el nombraron Decano le llegó el primer computador cuenta esa historia, no? Y se me arrepentí de no haber visto el curso de programación, o sea, en esa época no se sabía mucho de de estos temas.
+
+[18:49]
+No, ok, eso es como la época que la estás redondeando. Bueno, entonces primer trabajo fue con Instituto ser no había un tema de investigación que era que era un instituto de una investigación básicamente cierto, pero pero yo también.
+
+[19:08]
+Estuve en la universidad varios años no me acuerdo cuántos de profesor y cada vez me era el profesor y haciendo proyectos con el docente y después hacia finales de los 80 cuando ya aparece la industria de software, porque eso no existía entonces en la época de los 80 es que aparecen los microcomputadores aparece el IBM PC aparece el Apple 2 en la Universidad de los Andes creamos las primeras salas de computadores Apple 2 fueron no había ninguna universidad salas con computadores y computador veníamos de la década de los 70 donde una universidad hacía caso tenía un gran computador.
+
+[20:08]
+Pero el concepto de primera 20 computadores en una sala de una cosa que no se conocía, entonces pusimos en el edificio de ingeniería en el último piso una sala de Apple 2 y eso la gente iba y los miraba y ahí esa ahí lo que lo que se enseñaba a Pascal y eran eso era esa parte, no, pero entonces ahí comenzaron a salir las aplicaciones comercial el microcomputador se vuelve un aparato que es válido comercialmente y que las empresas ya querían tener microcontroladores para resolver problemas de negocio, entonces eso cambió completamente la verdad de los 80 todo, pues ya apareció Microsoft apareció.
+
+[21:08]
+Los computadores digamos la industria del software y a raíz de eso a finales de los 80 es que yo me salgo en la universidad, me salgo entonces.
+
+[21:23]
+entonces ahí viene otra época en mi vida, en la cual comienzo a experimentar lo que es construir un software vender enseñarle a la gente crea una empresa solo capacitación y computadores esa es la época en que se desmontan los mini computadores, aparece UNIX aparece ser todas esas cosas y entonces cambia un poco el mundo comercial y también a mucha gente nos metemos a hacer aplicaciones nace la industria de software en Colombia
+
+[22:06]
+Así es Roberto yo tengo un recuerdo de lo tuyo de los famosos seminarios, tú tenías y nuestro una organización dedicada a seminarios que fue muy famosa y ahora te hago otra pregunta, pero sobre los seminarios cuentan un poquito esa historia sí, los seminarios nacen de que yo dictaba cursos en la Universidad cursos de educación continuada en los Andes pero siempre que dictados los cursos las empresas me decían, no sé, no lo hacemos con los Andes venga aquí y usted nos dicta los cursos directamente entonces en la universidad, pues eso no podía hacer esas cosas cuando ya me salgo de la Universidad entonces yo voy a comenzar a crear una organización.
+
+[23:06]
+De bases de datos era la época de ese tipo de cursos duró varios duró varios años de excelencia, se llamaban seminarios de excelencia, yo me acuerdo mucho yo ya tenía mi empresa lógica y también los micros radio Chaqui todo eso y seminarios tuvimos mucho contacto con eso es que tengas también estar dentro de esta lista de entrevistados, me imagino deberías estar porque tú eres actor un actor muy importante de toda la historia. Sí, ayer me entrevistaron para Antioquia que están haciendo algo parecido y es la primera vez que cuento toda mi historia, pero aquí la historia es la tuya. Sí, yo sirvo por lo que conozco todo el terreno un poco hubo otra experiencia.
+
+[24:06]
+uno puede haber tener información equivocada transformada digamos no, pero cuando trabajaste con Jorge Phillips sí señor recuerdo haber oído ustedes me contaron algo que decidieron hacer como una fábrica de objetos objetos de programación en la programación orientado objetos y que fue un concepto muy interesante decir oiga, sí, el objeto dentro del concepto no es nuestra programación es comercializable, cómo fue esa experiencia que tengo entendido que también fue teniendo la Internacional Roberto como estábamos haciendo varias aplicaciones nos dimos cuenta que la infraestructura esas aplicaciones era la misma muchas cosas eran reutilizables entonces ese concepto de reutilización y ese concepto de de generalización entonces obviamente terminamos haciendo
+
+[25:06]
+Librerías y en esa época se vendían las librerías y ahí tuvimos nuestras experiencias, ok bueno, una experiencia muy interesante. Bueno, tú eres del grupo de ingenieros, pues venimos de 50 años de historia cierto vigente, que es muy interesante, no? Y obviamente has visto toda una transformación, han mencionado ya algunas cosas de ese estilo como observar ese ese aspecto, o sea una tecnología que era o en un análisis que yo hice en el año 31 que salió el mar 4, no 7 años después salió el transistor de algo nuevo.
+
+[26:06]
+Cómo ves tú esa transformación cierto y si quieres o tienes pensado algo con el respecto a la ingeniería de sistemas en ese proceso de transformación tan grande que ha habido de las cosas donde ella es pública la tecnología. Nosotros trabajamos en una tecnología que ha creado una economía digital que es la que domina el mundo hoy el mundo está depende totalmente del software, todo se mueve alrededor del software y los adelantos ha sido honor, no enormes en todas estas décadas y hoy en día, yo siento por lo que trabajo hoy en día, estoy súper metido en los temas de Inteligencia Artificial federativa y eso está eso cambió completamente la inteligencia artificial que
+
+[27:06]
+Conocimos hace cinco años de cinco años para acá se cambió totalmente y lo que se viene es una transformación enorme enorme que va a impactar, cómo se va a impactar, por ejemplo la industria del desarrollo del software, va a cambiar completamente en los próximos años porque ya tenemos software que hace software que programa con altísimos niveles de exactitud de precisión.
+
+[27:50]
+Entonces el trabajo del programador va a cambiar en orden de la industria, va a cambiar enormemente y no solo esta industria, sino otras industrias entonces y eso son cosas que están sucediendo a una velocidad altísima o dices tú o sea, yo creo yo cada día que pasa veo que salen fácilmente unos 20 o 30 papers importantes.
+
+[28:17]
+Y esos papers están saliendo ya no están saliendo tanto de las universidades de Stanford están saliendo desde Google están saliendo de empresas gigantes que tienen que son las que tienen los recursos para correr los programas tan monstruosos que hay hoy en día de las de las universidades y hoy en día estamos dependiendo de ocho o diez compañías.
+
+[28:53]
+Ok aquí en este grupo lo que es Sandra Berger y Rafa son entrevista y está tocando un tema que de pronto hacemos un comentario Rafa maneja, la maratón de programación famosa que tú te acuerdas Roberto no la maratón de programación que son como 4.000 universidades del mundo para que lleguen 100 a la final y la fama manejado esto con un éxito absoluto todos los años viaja a Dacia bueno países diversos con sus estudiantes también Beatriz acompaña a veces y si quieres Rafa para repartir también un poquito de nosotros como colegas si tienen alguna pregunta para Roberto de tal manera que participamos todos de alguna manera, entonces si quieres Rafa en algún comentario tratando de de ubicarlos dentro de la época y un poquito la transformación, claro que sí Roberto pues pues es un un placer escucharte. Además que yo fui uno de esos de esos go.
+
+[29:53]
+Que iba al último piso del W con esa sala de Apple 2 donde teníamos un gigantesco parece en ese momento era impresionante Corvus de 5 gigas 5 megas eran cinco megas y era el lo vamos a salvar en el corpus, eso era casi que el evento de este local, pero me gustaría retomar o más bien regresarte a la época en la que eras estudiante por allá en 1970 y entonces en esa época nos hablaba de temas que hoy evidentemente siguen vigentes como la teoría autómatas compiladores, etcétera cosa, que yo soy de los que piensa que todavía es necesario saber y es necesario.
+
+[30:53]
+Desarrollando hoy se habla mucho de dos frentes entonces me gustaría que nos hablaras de dos cositas, una es la relación matemáticas computación matemáticas con filtros agencias que en ese momento era más matemáticas ingeniería de sistemas porque porque así es que se la reconoce algunas personas que después deriven en lo que hacemos, pero pero esa relación matemática es Ingeniería de Sistemas cómo era entre los estudiantes eso uno y otro tema que me gustaría que nos contaras un poco es cómo era poblacionalmente el grupo de estudiantes que les interesaba al estudiante de Ingeniería de Sistemas en los setentas, qué tantas hombres y mujeres había hoy por ejemplo se habla mucho de que nos faltan mujeres y etcétera, pero la relación.
+
+[31:53]
+Cómo era cómo era el ambiente de Educación entonces te tocó esos dos temas en los que me gustaría escucharte porque creo que que es bien interesante lo que nos vas a contar, mira.
+
+[32:04]
+realmente la parte de matemáticas era
+
+[32:12]
+yo diría que era completamente independiente de lo que era la era muy separada, o sea, no, no uno no, yo no aprendí cuál era la conexión, eso lo vine a aprender después hoy en día tengo una visión completa en Twitter donde a mí me fascinaría evitar matemáticas, álgebra, lineal y explicarle explicarle a la gente porque el álgebra lineal es el fundamento hoy en día de todo lo que está pasando en inteligencia artificial y el fundamento de cómo se hace el hardware y el hardware paralelo se basa en matrices multiplicaciones de matrices en paralelo y eso es una cosa fascinante y eso ha creado hasta nuevos lenguajes de programación, o sea los los lenguajes de programación que se usan en Deep learning son lenguajes de programación basados.
+
+[33:12]
+Paralelismo y la matemática en la neural y eso pero obviamente eso solo con el tiempo no se da cuenta, cómo estás tú todo interconectado por Dios pero en esa época no esa época tan a uno Álgebra Abstracta uno al jefe abstracta algo no sé, análisis numérico 1 y 2 pero esos profesores eran los matemáticos teóricos que no relacionan esto para nada con la computación hoy en día me fascinaría esos cursos hoy en día uno puede dictar un curso de álgebra ni nada en teoría de la información y todo esto pero las tareas hacerlas en Python y el lenguaje de programa mezclar la matemática con los lenguajes de programación y con el diseño.
+
+[34:12]
+Inclusive con el diseño del sistema operacional con sistemas distribuidos para correr matrices de millones de dólares esa cosa hoy en día es fascinante pero en esa época todo era independiente iba por un lado por el otro lado hoy en día ojalá que las universidades yo no sé cómo sean pero hoy en día y no oportunidad para integrar y con respecto a las mujeres yo creo que es una de las tandas donde tuvimos bastantes mujeres tengo compañeras y muchas compañeras estudiaron Ingeniería de Sistemas y que fueron muy exitosas y fueron personas muy importantes en la industria y también inclusive cuando fui profesor en los años 80 también tuve estudiantes.
+
+[35:12]
+Y entonces en ese sentido para para la época siendo la época de los 70 de los 80, yo creo que que había bastantes mujeres, no sé cómo hoy en día, la el porcentaje de mujeres es muy bajito cercano al no, alcanza, el 20% y yo estoy seguro que que en redes que yo hablo por sé que hablo por todos Reyes una casi que un ofrecimiento como el que estás haciendo de de ofrecernos, la oportunidad de que nuestros estudiantes tengan esa esa relación entre el álgebra lineal, la programación moderna la inteligencia.
+
+[36:12]
+O sea, todas estas cosas que pues aquí presentes creo que que lo vivimos y lo gozamos. Yo soy de los que de los que sí es residente en Ciencias de la Computación algebra, lineal y esas cosas, pero creo que te tomamos la la palabra y la intención de que sería rico acercarte a los muchachos para contar ese tipo de cosas en la versión actual. Eso es parte del objetivo, no hay Kevin por ejemplo, como representante de los estudiantes está observando esa esa historia no la matemática que a veces le tienen tanto miedo y que no la ven como es yo dice, no sé si decir Roberto sepa, yo soy una maestría en filosofía y me encontré con que Descartes escriba un librito que se llama porque la música produce sentimientos sí y es un libro de física y matemáticas física porque los instrumentos vibran y las ondas sonoras llegan a otro instrumento que es el cuerpo y él hace que el cuerpo.
+
+[37:12]
+el alma se unen por la hipófisis y cosas de ese estilo obviamente sus ideas pueden ser rebatibles, no importa, pero el libro es un libro de física y matemáticas y a veces yo creo que una una moraleja es la no unión de la matemática con la vida del hombre en fin, en este caso con los temas y bueno y de muchas otras maneras de tal manera que sea una un tema muy interesante como lo comenzaste a decir desde el comienzo como estudiante del colegio mismo con el gusto por las matemáticas que hoy en día hay crisis un poco no Roberto perdón, cómo era cómo era cuando estabas estudiando esa esa relación entre la tecnología y más bien los estudiantes de Ingeniería de Sistemas las personas que estaban cercanas de esa manera, la tecnología y claro con su inclinación hacia las matemáticas, cuál es la relación de un
+
+[38:12]
+De Ingeniería de Sistemas con el resto de su entorno en la universidad en la en el resto de la sociedad igual era era personas que ni en la familia y creo que ni los mismos estudiantes sabían que estaban estudiando la ingeniería civil que era ha sido la tradicional como que la gente entendía y sabía que era civil, pero lo nuestro lo asociaban con los computadores una cosa y con programación se asociaba mucho programación el ingeniero programación pues yo creo que eso en esa época era como se veía.
+
+[39:12]
+Yo creo que eso cambió un poco ya en la época de los 80s cuando comiencen a aparecer, porque en las 70 no existían las metodologías y la orientación más hacia procesos y arquitecturas empresariales que hace que el dinero de sistemas comience a volverse interdisciplinario porque tiene que aplicar eso a diferentes áreas entonces esa visión un poco más interdisciplinaria lo vuelve a uno que la gente que ya tiene que interactúe más con uno y que sepa que es lo que uno hace de todas esas ideas que tiene se vuelven un aplicativo, entonces eso ya ya hace que entienda un poquito más lo que uno hace, pero en la época de los 70 no, eso era acuérdate que esa época existían los datacenters, no?
+
+[40:12]
+Existían como el mundo cíclico no primero eran los grandes datacenter esperan por seguros por sistemas, pero había otro bueno y el y el del distrito sí y todo el mundo compartía los programas los programas aplicativos, pero eso eso es más de los 80 de los 70.
+
+[41:09]
+Los centros de cómputo que era el nombre yo dirigí, el de Acueducto y energía y y unimos a los únicos que teníamos sistema operacional o ese se llamaba, no de la IBM a ver y el oeste, no? Entonces eran unas épocas de los centros de cómputos es correcto.
+
+[41:31]
+Bueno, obviamente nuestra representante mujer que Sandra no, que es una manera muy pila, es muy importante que ella está con nosotros también, no? Aquí la vemos porque es muy juiciosa en esto en esto de la he hecho muchas cosas en el Nacional no sé si tenga alguna pregunta para Roberto ya para ir como interesante todo lo referente al desarrollo de la programación desde la época de los 70, hasta nuestros días y nos mencionabas una problemática que se presentaba en ese momento y era y creo que durante nuestra formación también era la importancia que se le daba más al desarrollo de la sintaxis o al aprendizaje de la sintaxis y semántica del del programa en sí mismo más que de pronto en la parte lógica o de reconocimiento en los problemas desde desde el algoritmo para la solución de un problema del contexto.
+
+[42:31]
+real hoy en día el Ministerio de Tecnologías de Información y Comunicaciones y el Ministerio de Educación han hecho diferentes programas para formar programadores pensando fortalecer ese componente de pensamiento computacional y pensamiento lógico quisiera de pronto si nos pudieses contar, cómo abordaban eso en esa época en la que te formaste como ingeniero y cómo lo ves tú ahora en la que estás trabajando en el área de inteligencia artificial
+
+[43:01]
+Sí, no, pues en esa época digamos la teoría de algoritmos apenas estaban haciendo, no? Yo creo que no me tocó a mí en la parte lo que yo estoy en la universidad realmente yo no vi nada de algoritmos, como tal vimos, vimos, vimos muy buenos cursos de estructura de datos por los libros y por la contribución que hizo Cano con esos clásicos libros, pero realmente la parte algoritmica no no, no, no, no, no, no se dio eso lo vino a lo vine yo a aprender con el tiempo y después un poco en el trabajo abordando cosas concretas y hoy en día es algo.
+
+[44:01]
+Importante es muy importante, pero pero inclusive digamos con ese tema en alguna época de mi vida, yo estuve metido en el tema de educación y abordamos el tema de cómo se le debe enseñar a una persona y ese es un tema que siempre he tenido en la cabeza, cómo se le debe enseñar a una persona a programar y sobre eso ha habido los burós que quieras, sí que han hecho lenguajes que se han inventado cosas y todo eso y yo veo que todavía sigue con el mismo que ese problema no sea resuelve cómo realmente enseñarle a alguien a a pensar computacionalmente y hoy en día creo que en todas las profesiones se debería hacer una materia transversal en las universidades, no importa.
+
+[45:01]
+derecho estudios contabilidad estudios de medicina es importantísimo que te enseñen esa materia base y esa materia básica una cosa es pensar computacionalmente y otra cosa es ponerlo en una sintaxis de algún lenguaje porque hay que traducir eso dependiendo de las profesiones hay que inventarse la parte de sintaxis indiferente en la parte de sintaxis se llama pero yo creo que ese tema hoy en día aún no lo han resuelto y y la parte algorítmica sigue siendo muy importante porque hay hay hoy en día yo veo por ejemplo, tengo proyectos yo trabajo hoy en día con el Banco Mundial haciendo consultorías de productos muy grandes en varios países
+
+[46:01]
+Y ahí los proyectos tienen unas infraestructuras y unos desarrollos de software muy sofisticados y realmente si uno no no entiende sobre todo cuando pone cosas en la nube, si no entiende cómo cómo se es eficiente? Pues el acá la plata o por ejemplo, fíjate todo lo que es la complicación del blockchain y la que es la computación de inteligencia artificial en lo que llaman los lenguajes de gran escala modelos de lenguaje de gran escala, esos son algoritmos de redes neuronales, por ejemplo que que consumen miles de GPU durante docenas de días y cualquier optimización que hagas ahí estás hablando de
+
+[47:01]
+En cualquier y crearse sus algoritmos sigue siendo un problema importantísimo importantísimo para las empresas para el Estado para el desear entonces sí creo que Jesús es un tema súper relevante en nuestra carrera que la gente aprenda a optimizar a optimizar algoritmos y en lo otro que era aprender lo que es la teoría de computación básica independiente.
+
+[47:40]
+Bueno, Roberto súper interesante agradecerte el aceptar haber sido el primero no entrevistado sí que nos marca mucho la pauta de lo que vamos a hacer estaremos contando ya entre el desarrollo de todo esto y seguramente de alguna manera vas a participar en redes, no sé cómo, pero lo veo muy pertinente, porque una gran discusión es las transformaciones de la ingeniería del sistema, no Rafa tiene la mano levantada para alguna pregunta, pues realmente la levanté sin culpa, pero ya que me das la palabra que a mí siempre me dan la palabra la uso de alguna manera en particular me quedo sonando algo y eso para mí es importantísimo.
+
+[48:35]
+Roberto empieza a estudiar en 1970 y ese momento hizo una referencia a la teoría de la computación análisis de algoritmos, como se hacía es decir que no se hacía realmente, sino más bien estructuradas de datos. Yo entiendo la programación como algoritmos más estructuras de datos y la fecha de 1970 es súper clave porque en 1970 Cook demuestra el teorema de existencia de problemas en el P completos entonces yo creo que no es casual podría leerse como casualidad que este ciclo esté empezando con con una entrevista a alguien que empezó a estudiar en el mismo año en que se demuestra un teorema de cambio la computación la historia de la computación en general, entonces Roberto una una pequeña cosa cómo defines la programación mi definición particular
+
+[49:35]
+Es análisis de algoritmos o análisis de algoritmos más estructuras de datos, pero tú cómo defines qué es eso de programar? Esa es una y dos.
+
+[49:49]
+Cómo fue el surgimiento? Porque tú viviste ese esa esa fase entre él se pregrado y el posgrado que es ese tránsito a la computación en paralelo, desde incluso álgebra lineal. Cuando uno está multiplicando matrices siente que eso es paralelizado esa aparición de la computación en paralelo y entonces cómo fueron esas dos cosas.
+
+[50:23]
+La primera en que es programar es más difícil, perdóname, pero es que en esa primera llevamos años con Manuel con todo gusto de llevar a una a una definición corta, entonces no podía desaprovechar la oportunidad de cosas que me parece que son interesantes solo las he aprendido en los últimos 10 o 15 años que es todo lo del porque realmente ahí tú estás haciendo programas que no son determinísticos en nuestro castigo, entonces tú realmente cuando yo le hablo a la gente en un programa y va a correr este modelo, pero es un programa, pero resulta que la probabilidad de que sea preciso.
+
+[51:23]
+Puede salir mal, no? Eso no, eso eso cambia un paradigma porque la gente está acostumbrada, que uno corre un programa como la nómina y esa vaina tiene que dar tanto y si no da tanto mejor dicho es porque está bien, no? Y aquí es diferente entonces realmente eso me ha cambiado mucho, por eso no te puedo contestar porque me ha cambiado muchísimo y la mayoría de los programas que yo escribo hoy en día no son determinantes, entonces sino que son programas lo que es determinístico.
+
+[52:23]
+Ahora el programa lo corro para que me genere un modelo y estoy yo a ese modelo.
+
+[52:37]
+Entonces, pues eso, por eso se me hace difícil contestarte de la pregunta que es programación con respecto a lo paralelo. Eso para mí tan es un descubrimiento espectacular porque yo en el posgrado de la experiencia de trabajar con sistemas distribuidos y ahí hay paralelismo, pero es un paralelismo que no es a nivel de interno. Eso es diferente, pero cuando tú estás hablando de correr, eso lo aprendí, cuando aprendí de redes neuronales precisamente el el gran avance que salió hace más o menos seis años, cambió todo porque se inventaron precisamente.
+
+[53:37]
+Que pueden correr en paralelo, se llama el Transformers el gran avance de ese Transformer hizo como parte de la arquitectura narrar y uno puede correr en paralelo y cuando hablas de paralelo, es que todos los procesadores que hacen cubo que es una empresa que hace hardware hace los TPU Google hace hardware envidia que es la otra empresa hacen algo entonces el paralelismo nace de los algoritmos y los algoritmos ahora que le dicen cómo deben hacer el árbol para correr y esas compañías ahora esas compañías son las este año han crecido las acciones más en el mundo esas compañías que hacen computadores en paralelas son las que están haciendo que China y Estados Unidos se peleen tecnológicamente para prohibir.
+
+[54:37]
+Exportaciones de Estados Unidos es porque están haciendo esos chips paralelos y es para correr esos algoritmos paralelos que van a permitir que ese software pueda hacer que un país de gane la guerra de los desafortunadamente la historia de la Segunda Guerra Mundial que fue la que nos hizo nacer la computación, ahora se está repitiendo y con esta guerra de Ucrania la guerra que hay entre China y Estados Unidos en hacer software inteligente es la cosa más absurda que en ese momento millones de dólares que están corriendo en los Estados Unidos y en la China para hacer ese tipo de software es la cosa más absurda que hay y eso es lo que va a hacer otra vez este es como nuestra segunda tanda la tanda de la Segunda Guerra Mundial creó los computadores.
+
+[55:37]
+Y esta tanda que se viene ahora va a crear unos computadores un software, sí que es el que va a dirigir ese hardware en paralelo y unos algoritmos que se hicieron porque es que cualquier mejora de un algoritmo de esos no es como hace 50 años sino hoy en día una mejora en un algoritmo.
+
+[56:03]
+Tiene implicaciones energéticas en cambio climático, es una cosa completamente nueva, por eso yo creo que lástima que ya nos esté, se nos está acabando la vida Manuel pero lo que se viene en computación de ahora en adelante, es una cosa fácil. Está cambiando completamente en los últimos tres años. Esto cambió completamente en el tema de la generación de CO2 por los consultas en Google que lo hemos estudiado los 8.000 millones de consultas diarias hace que se genere el consumo energético de más de equivalente a más de 20.000 casas y apareció un movimiento llamado software verde y estuve metido en eso un poco es decir como como ahora antes del algoritmo tiene que ser eficiente por la lentitud de la máquina. Hoy no cualquier máquina corre y eso genera los consumos energéticos e inclusive en Europa el blockchain está generando una problemática.
+
+[57:03]
+Y por detrás están las hidroeléctricas con el agua, no? Y y entonces se genera una cosa curioso y agua de acuerdo naturaleza. Entonces los temas están generando unos cambios impresionantes y si es correcto.
+
+[57:19]
+Bueno, con Roberto podríamos estar muchas muchas horas y vamos a estarlo seguramente Rafa en los temas de rey hay que llevarlo un día no allá se está trabajando cosas. Están dando cosas muy curiosas las aulas espejo están permitiendo manejar cursos de 500 o de mil estudiantes simultáneas con profesores de diversas universidades cuando hay temas muy sofisticados donde no hay muchos doctores son cosas que en redes y han venido logrando y este tema del software es uno de los temas principales también, no? Entonces habrá mucho motivo para para estar contigo Roberto y bueno el tiempo es el tiempo y nos toca tener segmentarlo en un momento de ir cerrando que a veces es tan difícil, a ver si se agradecerle que no está facilitando, pues la plataforma no y seguramente vamos a tener mucho que ver con Roberto muchas cosas no Rafa
+
+[58:19]
+Muchas gracias y muy encantado, que me hayan invitado de muchas gracias por invitarme y con mucho gusto comparto quieran muy agradable estar con ustedes, sí, muchas gracias. Estaremos en rey. Está esta primera experiencia lo que es la primera después de varios meses de estar trabajando el tema de lo que queremos hacer el Beatriz muchas gracias, muchísimas gracias, presenciales de todo este equipo con seguridad. Bueno, muy bien. Hasta luego. Entonces, muchas gracias, muchas gracias a todos. Hasta luego hasta
