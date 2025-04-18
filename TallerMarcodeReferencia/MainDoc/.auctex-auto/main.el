@@ -50,8 +50,6 @@
    (TeX-add-symbols
     '("HRule" 1)
     "newline")
-   (LaTeX-add-bibliographies
-    "referencias")
    (LaTeX-add-thmtools-declaretheoremstyles
     "thmsty"
     "prosty"
