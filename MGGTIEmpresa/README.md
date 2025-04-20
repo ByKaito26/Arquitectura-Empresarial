@@ -16,4 +16,4 @@ Las siguientes partes del proyecto toca entregarlas, en paréntesis cada uno col
   - [ ] Indicadores de desempeño para medir el éxito del proyecto.
   - [ ] Plan de comunicación para informar a los stakeholders sobre el proyecto.
 
-Recordar que cada uno debe también colocar su parte en el documento y también en la presentación. Como son $8$ puntos los que hay que desarrollar, cada uno debe realizar dos puntos.
+Recordar que cada uno debe también colocar su parte en el documento y también en la presentación. Como son 8 puntos los que hay que desarrollar, cada uno debe realizar dos puntos.
