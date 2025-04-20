@@ -6,7 +6,7 @@
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("article" "")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("amsmath" "") ("amsthm" "") ("amssymb" "") ("amsfonts" "") ("thmtools" "") ("graphicx" "") ("setspace" "") ("geometry" "") ("float" "") ("hyperref" "hidelinks") ("inputenc" "utf8") ("babel" "spanish" "es-nodecimaldot") ("framed" "") ("xcolor" "dvipsnames") ("tcolorbox" "") ("tikz" "") ("caption" "") ("longtable" "") ("pdflscape" "") ("svg" "") ("subcaption" "") ("multirow" "") ("array" "") ("listings" "") ("cancel" "") ("xurl" "")))
+                     '(("amsmath" "") ("amsthm" "") ("amssymb" "") ("amsfonts" "") ("thmtools" "") ("graphicx" "") ("setspace" "") ("geometry" "") ("float" "") ("hyperref" "hidelinks") ("inputenc" "utf8") ("babel" "spanish" "es-nodecimaldot") ("framed" "") ("xcolor" "dvipsnames") ("tcolorbox" "") ("tikz" "") ("caption" "") ("longtable" "") ("pdflscape" "") ("svg" "") ("subcaption" "") ("multirow" "") ("array" "") ("listings" "") ("cancel" "") ("xurl" "") ("import" "")))
    (add-to-list 'LaTeX-verbatim-environments-local "lstlisting")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "lstinline")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
@@ -46,7 +46,8 @@
     "array"
     "listings"
     "cancel"
-    "xurl")
+    "xurl"
+    "import")
    (TeX-add-symbols
     '("HRule" 1)
     "newline")
