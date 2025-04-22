@@ -9,8 +9,8 @@ Las siguientes partes del proyecto toca entregarlas, en paréntesis cada uno col
 - [X] Análisis de la Situación actual de la empresa. (Lud)
 - [X] Diagnóstico e identificación de brechas. (Lud)
 - [ ] Propuesta de un plan de implementación:
-  - [ ] Objetivos estratégicos a alcanzar con la implementación del MGGTI.
-  - [ ] Alcance del proyecto.
+  - [X] Objetivos estratégicos a alcanzar con la implementación del MGGTI. (Juli)
+  - [X] Alcance del proyecto. (Juli)
   - [ ] Roles y responsabilidades de los diferentes actores involucrados.
   - [ ] Actividades a realizar, cronograma y recursos necesarios.
   - [ ] Indicadores de desempeño para medir el éxito del proyecto.
