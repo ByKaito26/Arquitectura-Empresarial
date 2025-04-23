@@ -11,3 +11,4 @@ tmp/
 *.bcf
 *.nav
 *.snm
+env/

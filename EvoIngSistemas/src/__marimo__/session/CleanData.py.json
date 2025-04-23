@@ -1,0 +1,131 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.13.0"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "d814ef50023c16ec682587b68d8f65e3",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "8dcbf370d9f66028ea48913dfbd36f76",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "Found 23 files.\n"
+        }
+      ]
+    },
+    {
+      "id": "vblA",
+      "code_hash": "f7a2c6599474cf36182ea9d179c6ef60",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "zAuk",
+      "code_hash": "cf248181bbeed8da67a979f9b2a51f26",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "AFru",
+      "code_hash": "8bf03243be7cb6041808e0fbbb0aec87",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "mjbD",
+      "code_hash": "8f83dae1e428cb4cba0f048cde378d0c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<span class=\"markdown prose dark:prose-invert\"><h1 id=\"cargar-los-textos\">Cargar los textos</h1>\n<span class=\"paragraph\">Utiliza la ruta local del repositorio para cargar todos los .txt que se encuentran haciendo un m\u00e9todo recursivo.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "uysw",
+      "code_hash": "857d41a7cce8844de4d2887995ca9f77",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<span class=\"markdown prose dark:prose-invert\"><h1 id=\"limpieza-de-datos\">Limpieza de datos</h1>\n<span class=\"paragraph\">Cada archivo <code>.txt</code> tiene la siguiente estructura</span>\n<div class=\"codehilite\"><pre><span></span><code>[00:00]\nlograr\n\n[00:05]\nbueno, entonces vamos grabando esta es la entrevista\n</code></pre></div>\n<span class=\"paragraph\">Estas etiquetas de tiempo se deben quitar para que quede todo compactado, la funci\u00f3n <code>clean_transcript()</code> realiza esto. Despu\u00e9s se aplica para cada archivo. Por \u00faltimo, se pasa a un <em>dataframe</em> en <em>Pandas</em> para que quede en un formato estructurado por archivo y que se guarde en un archivo <code>.csv</code> </span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "rFKk",
+      "code_hash": "6998e23cd07741789c8504aa3dc0d506",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<span class=\"markdown prose dark:prose-invert\"><h1 id=\"clasificar-los-textos-por-entrevistadorentrevistado\">Clasificar los textos por entrevistador/entrevistado</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "XBrz",
+      "code_hash": "07f3a344472b69cb4dac884c904f7617",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}
