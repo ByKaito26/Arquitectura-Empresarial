@@ -13,7 +13,17 @@ def _():
     import marimo as mo
     import pandas as pd
     from pathlib import Path
-    return Path, mo, pd, re
+    from datasets import Dataset 
+    from transformers import AutoTokenizer, TFAutoModelForSequenceClassification, TrainingArguments
+    return (
+        AutoTokenizer,
+        Dataset,
+        Path,
+        TFAutoModelForSequenceClassification,
+        mo,
+        pd,
+        re,
+    )
 
 
 @app.cell(hide_code=True)
@@ -61,8 +71,7 @@ def _(mo):
         bueno, entonces vamos grabando esta es la entrevista
         ```
 
-        Estas etiquetas de tiempo se deben quitar para que quede todo compactado, la función `clean_transcript()` realiza esto. Después se aplica para cada archivo. Por último, se pasa a un *dataframe* en *Pandas* para que quede en un formato estructurado por archivo y que se guarde en un archivo `.csv` 
-
+        Estas etiquetas de tiempo se deben quitar para que quede todo compactado, la función `clean_transcript()` realiza esto. Después se aplica para cada archivo. Por último, se pasa a un *dataframe* en *Pandas* para que quede en un formato estructurado por archivo y que se guarde en un archivo `.csv`
         """
     )
     return
@@ -73,18 +82,17 @@ def _(re):
     def clean_transcript(text):
         # Remove timestamps like [00:00] or [00:00:12]
         text = re.sub(r'\[\d{2}:\d{2}(?::\d{2})?\]', '', text)
-    
+
         # Remove line numbers and separator lines if present
         text = re.sub(r'^\s*\d+\s+\│?', '', text, flags=re.MULTILINE)
-    
+
         # Remove broken line characters
         text = re.sub(r'\n+', ' ', text)
-    
+
         # Remove extra spaces
         text = re.sub(r'\s+', ' ', text).strip()
-    
-        return text
 
+        return text
     return (clean_transcript,)
 
 
@@ -98,7 +106,6 @@ def _(clean_transcript, texts):
 def _(cleaned_texts, pd):
     df = pd.DataFrame(cleaned_texts, columns=['file', 'cleaned_text'])
     df.to_csv("cleaned_transcripts.csv", index=False, encoding='utf-8-sig')
-
     return
 
 
@@ -132,6 +139,31 @@ def _():
         {"text": "hay algo que que me llama mucho la atención.  Y que parece que ser subyacente en la historia que nos cuenta Juan pero aunque sea igualador y demás podría podría tener una un bloqueo por debajo todas estas cosas de los que hemos estado hablando en Colombia me refiero al bilingüismo, cómo viviste el tema del bilingüismo? Porque sabemos las competencias de programación todas ocurren en 100% en inglés cuando fuiste a Porto entonces después me gustaría que hicieras nos dijeras muy rápidamente corto ese ir a un Mundial como lo cambia uno y pero pero empecemos desde desde el bilingüismo era el bilingüe cuando llegaste a la universidad, cómo es cómo es ese tránsito? Bueno, cómo es ese pedacito de la historia porque en Colombia tenemos un problema con el bilingüismo fuerte.", "label": "interviewer"},
         {"text": " Sí, es verdad, no creo que en eso sí en Alba Inglés pues me en mi casa, así fue como prioridad el colegio, o sea creo que pues éramos como con una familia normal y otra clase media no, no es que yo tuviera los los lujos de la vida o el último celular o la última cosa que tenía parientes que sí, pero porque mi mamá y mi papá creo que les gustaba mucho más el tema del colegio. Entonces le dieron mucha prioridad a que fuera un un colegio bueno y estoy en lo que se llama el Anglo Americano que quedaba ahí cerca donde yo vivían las 170 con octava. Yo vivía en la 165 octavos, entonces caminaba también fue muy distinta la dinámica de la universidad, porque pasé ir a dos cuadras a hora y media, pero sí, eso me dio las bases cuando llegué creo que tenía las bases de digamos teóricas en lo que siento que fallaba era. En la parte de escucha, porque hay un inglés académico, pues siento que todo sea muy masticado y creo que es lo que pasa con todo pasa con los cursos, pasa incluso con los cursos en línea pasan todo que como no todo se lo han masticado cuando no le toca salir a terreno fuera del curso, uno se siente más perdido y pasaba tanto en cursos incluso de software o algo donde uno tutorial de guía, el paso a paso y luego uno dice. Uy, habrá que y en el inglés también digamos. Él dice la parte de escucha o escritura de lectura, pues había toda una cantidad de cosas que me sentía más perdido, sentía que igual las bases del colegio ayudaron un montón, porque siempre fue intensivo, o sea creo que obviamente eso me dio una ventaja enorme en desde donde empecé comparado a las personas que no logran acceder a inglés así intensivo, pero digamos que yo me propuse.  transformar mi entorno inglés para intentar lidiar con el tema de pues lo que se me dificultaba entonces empecé a cambio todo mi computador y el celular a inglés empecé cuando escribí algo como que le escribía en inglés tomaba apuntes y los tomaba en inglés o leía un libro y lo leí en inglés leía un curso una película la ve en inglés con subtítulos en inglés para y le cogen del tiro y siento que eso, o sea siento que para hacer eso se necesitan bases porque yo intenté hacer ahorita que quería aprender francés y me rendí eso es terrible si uno no sabe ni decir hola o sea y si uno se siente perdid creo que tener una estructura para al menos saber qué es lo básico funciona pero siento que ese tema de inmersión de hago todo en este idioma y pues llevo las cosas digamos académicamente a sentirme mucho más cómodo y y es chévere porque porque claro el inglés de la serie o De la película o del curso habla mucho más rápido al inglés del listening de la grabadora de la profesor a del colegio que es unidad 1 empecemos la lectura también digamos que los textos son más como masticados y elaborados como de Pepito hizo esto y Pepito fue al parque versus un libro, pues igual el colegio tenía libros, pero yo no era tan juicioso con eso, entonces me tocó por mi lado y los libros técnicos de sistemas y esto era, pues ayer no fui tan juicios como que yo quería ser autónomo y muy juicioso, pero era muy procrastinador, siento que pude haber hecho mucho más. Entonces acá muchos libros leía las introducciones de muchos y los dejaba morir, pero igual siento que esa constante exposición me ayudaba a sentirme más cómodo la escucha, igual lo único que me quedaba corto era el habla con speaking y si o sea como que si bien sabía cómo hacerlo creo que en la práctica cuando no tienen frente a alguien que no sabe hablar español, pues. Al pánico y ahorita, si quieres que haga termine la historia de la universidad, pues hubo una parte de entrevistas de prácticas que fue en inglés o inmigración en Estados Unidos en inglés o el trabajo, además que si uno no le entiende a la primera no se pone nerviosa y le dice peor a la segunda y eso es trágico, pero pues siento que la exposición lo es todo vivir allá un tiempo, pues obviamente me hizo sentir mucho más cómodo en hablar y en expresarme a pesar de que no sea académicamente perfecto, pues creo que uno se suelta que es algo que de pronto la Academia nos da la Academia espera que en el colegio que todo sea como más estructurado ideal y de pronto, pues uno se va a ir más entonces igual la ventaja del colegio fue increíble porque lo que te digo ahorita aprendiendo otro idioma, he pensado meterme a una academia para al menos tener las bases y luego hacer la inmersión, pero creo que hacer esa inmersión de 24.  7 en inglés es chévere y ayuda un montón porque no implica sacarle tiempo a parte, sino es solo tu día a día.", "label": "interviewee"}
     ]
+    return (data,)
+
+
+@app.cell
+def _(Dataset, data):
+    dataset = Dataset.from_list(data)
+    label2id = {"interviewer": 0, "interviewee": 1}
+    dataset = dataset.map(lambda x: {"label": label2id[x["label"]]})
+    return (dataset,)
+
+
+@app.cell
+def _(AutoTokenizer, TFAutoModelForSequenceClassification):
+    model_name = "dccuchile/bert-base-spanish-wwm-cased"
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    model = TFAutoModelForSequenceClassification.from_pretrained(model_name, num_labels=2)
+    return (tokenizer,)
+
+
+@app.cell
+def _(dataset, tokenizer):
+    def tokenize(batch):
+        return tokenizer(batch["text"], truncation=True, padding="max_length", max_length=128)
+
+    tokenized_dataset = dataset.map(tokenize, batched=True)
     return
 
 

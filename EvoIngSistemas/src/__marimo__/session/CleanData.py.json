@@ -6,7 +6,7 @@
   "cells": [
     {
       "id": "Hbol",
-      "code_hash": "d814ef50023c16ec682587b68d8f65e3",
+      "code_hash": "1051f1713a38f3518f4181ebf46312ce",
       "outputs": [
         {
           "type": "data",
@@ -19,6 +19,19 @@
     },
     {
       "id": "MJUe",
+      "code_hash": "8f83dae1e428cb4cba0f048cde378d0c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<span class=\"markdown prose dark:prose-invert\"><h1 id=\"cargar-los-textos\">Cargar los textos</h1>\n<span class=\"paragraph\">Utiliza la ruta local del repositorio para cargar todos los .txt que se encuentran haciendo un m\u00e9todo recursivo.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
       "code_hash": "8dcbf370d9f66028ea48913dfbd36f76",
       "outputs": [
         {
@@ -37,8 +50,21 @@
       ]
     },
     {
-      "id": "vblA",
-      "code_hash": "f7a2c6599474cf36182ea9d179c6ef60",
+      "id": "bkHC",
+      "code_hash": "c0d2a76d91870734fec5b6658c329408",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<span class=\"markdown prose dark:prose-invert\"><h1 id=\"limpieza-de-datos\">Limpieza de datos</h1>\n<span class=\"paragraph\">Cada archivo <code>.txt</code> tiene la siguiente estructura</span>\n<div class=\"codehilite\"><pre><span></span><code>[00:00]\nlograr\n\n[00:05]\nbueno, entonces vamos grabando esta es la entrevista\n</code></pre></div>\n<span class=\"paragraph\">Estas etiquetas de tiempo se deben quitar para que quede todo compactado, la funci\u00f3n <code>clean_transcript()</code> realiza esto. Despu\u00e9s se aplica para cada archivo. Por \u00faltimo, se pasa a un <em>dataframe</em> en <em>Pandas</em> para que quede en un formato estructurado por archivo y que se guarde en un archivo <code>.csv</code></span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "debd20732918a70fba392184f92f990d",
       "outputs": [
         {
           "type": "data",
@@ -50,7 +76,7 @@
       "console": []
     },
     {
-      "id": "zAuk",
+      "id": "PKri",
       "code_hash": "cf248181bbeed8da67a979f9b2a51f26",
       "outputs": [
         {
@@ -63,8 +89,8 @@
       "console": []
     },
     {
-      "id": "AFru",
-      "code_hash": "8bf03243be7cb6041808e0fbbb0aec87",
+      "id": "Xref",
+      "code_hash": "4cad2a1501ac830d6719b691b5296766",
       "outputs": [
         {
           "type": "data",
@@ -76,33 +102,7 @@
       "console": []
     },
     {
-      "id": "mjbD",
-      "code_hash": "8f83dae1e428cb4cba0f048cde378d0c",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<span class=\"markdown prose dark:prose-invert\"><h1 id=\"cargar-los-textos\">Cargar los textos</h1>\n<span class=\"paragraph\">Utiliza la ruta local del repositorio para cargar todos los .txt que se encuentran haciendo un m\u00e9todo recursivo.</span></span>"
-          }
-        }
-      ],
-      "console": []
-    },
-    {
-      "id": "uysw",
-      "code_hash": "857d41a7cce8844de4d2887995ca9f77",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<span class=\"markdown prose dark:prose-invert\"><h1 id=\"limpieza-de-datos\">Limpieza de datos</h1>\n<span class=\"paragraph\">Cada archivo <code>.txt</code> tiene la siguiente estructura</span>\n<div class=\"codehilite\"><pre><span></span><code>[00:00]\nlograr\n\n[00:05]\nbueno, entonces vamos grabando esta es la entrevista\n</code></pre></div>\n<span class=\"paragraph\">Estas etiquetas de tiempo se deben quitar para que quede todo compactado, la funci\u00f3n <code>clean_transcript()</code> realiza esto. Despu\u00e9s se aplica para cada archivo. Por \u00faltimo, se pasa a un <em>dataframe</em> en <em>Pandas</em> para que quede en un formato estructurado por archivo y que se guarde en un archivo <code>.csv</code> </span></span>"
-          }
-        }
-      ],
-      "console": []
-    },
-    {
-      "id": "rFKk",
+      "id": "SFPL",
       "code_hash": "6998e23cd07741789c8504aa3dc0d506",
       "outputs": [
         {
@@ -115,8 +115,102 @@
       "console": []
     },
     {
-      "id": "XBrz",
+      "id": "BYtC",
       "code_hash": "07f3a344472b69cb4dac884c904f7617",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "RGSE",
+      "code_hash": "204c87aa1ad0f88b25909c77900a02b8",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "\rMap:   0%|                                       | 0/20 [00:00<?, ? examples/s]\rMap: 100%|\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588| 20/20 [00:00<00:00, 5096.98 examples/s]\n"
+        }
+      ]
+    },
+    {
+      "id": "Kclp",
+      "code_hash": "30342214ce58b4d23e39e026ca24bfd6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "All model checkpoint layers were used when initializing TFBertForSequenceClassification.\n\nSome layers of TFBertForSequenceClassification were not initialized from the model checkpoint at dccuchile/bert-base-spanish-wwm-cased and are newly initialized: ['classifier', 'bert/pooler/dense/kernel:0', 'bert/pooler/dense/bias:0']\nYou should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.\n"
+        }
+      ]
+    },
+    {
+      "id": "emfo",
+      "code_hash": "892604a6cfe492237f7358163ebf9b89",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "\rMap:   0%|                                       | 0/20 [00:00<?, ? examples/s]"
+        },
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "\rMap: 100%|\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588| 20/20 [00:00<00:00, 977.20 examples/s]\n"
+        }
+      ]
+    },
+    {
+      "id": "yGjU",
+      "code_hash": "b845af9e560cfeff5e2c2bc1ec3e907d",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "An ancestor raised an exception (ImportError): ",
+          "traceback": []
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;/home/marie/Repos/Arquitectura-Empresarial/EvoIngSistemas/src/env/lib/python3.12/site-packages/marimo/_runtime/executor.py&quot;</span>, line <span class=\"m\">141</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"n\">exec</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">body</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;/tmp/marimo_1917217/__marimo__cell_yGjU_.py&quot;</span>, line <span class=\"m\">9</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">trainer</span> <span class=\"o\">=</span> <span class=\"n\">Trainer</span><span class=\"p\">(</span>\n<span class=\"w\">              </span><span class=\"pm\">^^^^^^^^</span>\n  File <span class=\"nb\">&quot;/home/marie/Repos/Arquitectura-Empresarial/EvoIngSistemas/src/env/lib/python3.12/site-packages/transformers/utils/dummy_pt_objects.py&quot;</span>, line <span class=\"m\">11192</span>, in <span class=\"n\">__init__</span>\n<span class=\"w\">    </span><span class=\"n\">requires_backends</span><span class=\"p\">(</span><span class=\"bp\">self</span><span class=\"p\">,</span> <span class=\"p\">[</span><span class=\"s2\">&quot;torch&quot;</span><span class=\"p\">])</span>\n  File <span class=\"nb\">&quot;/home/marie/Repos/Arquitectura-Empresarial/EvoIngSistemas/src/env/lib/python3.12/site-packages/transformers/utils/import_utils.py&quot;</span>, line <span class=\"m\">1819</span>, in <span class=\"n\">requires_backends</span>\n<span class=\"w\">    </span><span class=\"k\">raise</span> <span class=\"ne\">ImportError</span><span class=\"p\">(</span><span class=\"n\">PYTORCH_IMPORT_ERROR_WITH_TF</span><span class=\"o\">.</span><span class=\"n\">format</span><span class=\"p\">(</span><span class=\"n\">name</span><span class=\"p\">))</span>\n<span class=\"x\">ImportError: </span>\n<span class=\"x\">Trainer requires the PyTorch library but it was not found in your environment.</span>\n<span class=\"x\">However, we were able to find a TensorFlow installation. TensorFlow classes begin</span>\n<span class=\"x\">with &quot;TF&quot;, but are otherwise identically named to our PyTorch classes. This</span>\n<span class=\"x\">means that the TF equivalent of the class you tried to import would be &quot;TFTrainer&quot;.</span>\n<span class=\"x\">If you want to use TensorFlow, please use TF classes instead!</span>\n\n<span class=\"x\">If you really do want to use PyTorch please go to</span>\n<span class=\"x\">https://pytorch.org/get-started/locally/ and follow the instructions that</span>\n<span class=\"x\">match your environment.</span>\n</pre></div>\n</span>"
+        }
+      ]
+    },
+    {
+      "id": "XdOs",
+      "code_hash": null,
       "outputs": [
         {
           "type": "data",
