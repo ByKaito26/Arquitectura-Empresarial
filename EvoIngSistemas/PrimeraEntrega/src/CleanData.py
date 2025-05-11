@@ -1,8 +1,6 @@
-
-
 import marimo
 
-__generated_with = "0.13.0"
+__generated_with = "0.13.6"
 app = marimo.App(width="medium")
 
 
@@ -30,11 +28,11 @@ def _():
 def _(mo):
     mo.md(
         r"""
-        # Cargar los textos
+    # Cargar los textos
 
 
-        Utiliza la ruta local del repositorio para cargar todos los .txt que se encuentran haciendo un método recursivo.
-        """
+    Utiliza la ruta local del repositorio para cargar todos los .txt que se encuentran haciendo un método recursivo.
+    """
     )
     return
 
@@ -59,20 +57,20 @@ def _(Path):
 def _(mo):
     mo.md(
         r"""
-        # Limpieza de datos 
+    # Limpieza de datos 
 
-        Cada archivo `.txt` tiene la siguiente estructura
+    Cada archivo `.txt` tiene la siguiente estructura
 
-        ```text
-        [00:00]
-        lograr
+    ```text
+    [00:00]
+    lograr
 
-        [00:05]
-        bueno, entonces vamos grabando esta es la entrevista
-        ```
+    [00:05]
+    bueno, entonces vamos grabando esta es la entrevista
+    ```
 
-        Estas etiquetas de tiempo se deben quitar para que quede todo compactado, la función `clean_transcript()` realiza esto. Después se aplica para cada archivo. Por último, se pasa a un *dataframe* en *Pandas* para que quede en un formato estructurado por archivo y que se guarde en un archivo `.csv`
-        """
+    Estas etiquetas de tiempo se deben quitar para que quede todo compactado, la función `clean_transcript()` realiza esto. Después se aplica para cada archivo. Por último, se pasa a un *dataframe* en *Pandas* para que quede en un formato estructurado por archivo y que se guarde en un archivo `.csv`
+    """
     )
     return
 
