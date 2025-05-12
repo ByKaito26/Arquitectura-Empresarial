@@ -1,0 +1,1287 @@
+[SPEAKER_05]  lograr
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Bueno, entonces, vamos grabando.
+[SPEAKER_03]  Esta es la entrevista a Roberto Pardo Silva.
+[SPEAKER_03]  Años 74, como graduado.
+[SPEAKER_03]  dentro del proyecto de la evolución de la ingeniería de sistemas.
+[SPEAKER_03]  Esta charla tiene un nivel de informalidad, lo cual no quita la seriedad.
+[SPEAKER_03]  ¿No es pública?
+[SPEAKER_03]  y de estas conversaciones que vamos a tener.
+[SPEAKER_03]  Mmm.
+[SPEAKER_03]  para todas las décadas del 70, 80, 90, hasta la actual, que ya tenemos a la gente escogida.
+[SPEAKER_03]  haremos seguramente un libro o algún documento. Vamos a ver hacia dónde vamos.
+[SPEAKER_03]  La idea es ir hablando cómo eran las épocas.
+[SPEAKER_03]  Tal vez el primer esfuerzo...
+[SPEAKER_03]  para Roberto en este caso.
+[SPEAKER_03]  Es en la primera parte no salirnos.
+[SPEAKER_03]  Tratar de llevarte a la época.
+[SPEAKER_03]  cuando eras estudiante.
+[SPEAKER_03]  ¿Cierto?
+[SPEAKER_03]  Ya al final nos harás algunos comentarios de la perspectiva que ha sucedido en tantos años.
+[SPEAKER_03]  Y como te mostraban algunas preguntas que tenemos es...
+[SPEAKER_03]  Cuéntanos un poco de la época.
+[SPEAKER_03]  ¿no? Del colegio en que estabas.
+[SPEAKER_03]  año entraste a la universidad.
+[SPEAKER_03]  Vamos al contexto de la época que tú consideres.
+[SPEAKER_03]  que valga la pena.
+[SPEAKER_03]  Y era la primera parte, Robert.
+[SPEAKER_07]  Ok.
+[SPEAKER_07]  Perfecto.
+[SPEAKER_07]  Yo entré a la universidad en el año 970.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05] 
+[SPEAKER_05]  y
+[SPEAKER_05]  En esa época...
+[SPEAKER_07]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  la ingeniería de sistemas era muy nueva.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Realmente uno no...
+[SPEAKER_07]  No escogí la ingeniería de sistemas porque tuviera mucha información.
+[SPEAKER_07]  Podemos darle un poco de cabello.
+[SPEAKER_07]  de nuevo.
+[SPEAKER_07]  Por algún amigo que le dice a uno, oiga, usted es bueno para las matemáticas, estudia ingeniería.
+[SPEAKER_07]  Y bueno, y las ingenierías, ¿cuál? Y alguien le dice a uno, no, esta se parece a las matemáticas.
+[SPEAKER_07]  Me gustan las matemáticas y termino estudiando sistemas por eso, pero realmente no veo un perfil de un ingeniero de sistemas. Existía la experiencia de creación de un ingeniero de sistemas y nada de eso.
+[SPEAKER_07]  Por otro lado, nuestros profesores también eran...
+[SPEAKER_07]  No eran ingenieros de sistemas.
+[SPEAKER_07]  Sus profesores eran ingenieros civiles principalmente, sobre todo en el área de programación.
+[SPEAKER_07]  estudiaban y hacían sus programas de estructuras.
+[SPEAKER_07]  y trajeron el Fortran a la universidad.
+[SPEAKER_07]  y uno percoraba las tarjetas.
+[SPEAKER_07]  y de eso se trata la ingeniería de sistemas en esa época.
+[SPEAKER_07]  Es la época.
+[SPEAKER_07]  con los cráneres principales.
+[SPEAKER_07]  El 36044.
+[SPEAKER_07]  vivimos la universidad.
+[SPEAKER_07] 
+[SPEAKER_07]  Pero a pesar de eso...
+[SPEAKER_07]  Yo creo que fui muy afortunado y todos los que estudiamos en esa primera parte de los 70, porque tuvimos unos profesores muy buenos.
+[SPEAKER_07]  y unos profesores que nos enseñaron el cómico.
+[SPEAKER_07]  de lo que yo llamo hoy en día el computer science. La ingeniería de sistemas es una cosa muy amplia.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Nosotros arrancamos con el Corte, el Compito de Science y lo que yo estudié en la universidad.
+[SPEAKER_07]  fueron
+[SPEAKER_07]  digamos, aspectos de software.
+[SPEAKER_07]  cuando no existía la industria del soco.
+[SPEAKER_07]  Pero realmente uno aprendía.
+[SPEAKER_07]  a programar, a escritura de datos.
+[SPEAKER_07]  lenguajes de programación
+[SPEAKER_07]  Yo tuve tarea en la universidad, hacer un compilador.
+[SPEAKER_07]  hacer un ensamblador.
+[SPEAKER_07]  y ese tipo de cosas estudié teoría de autómatas
+[SPEAKER_07]  que después me vine a dar cuenta que eran cosas que aún persisten y son.
+[SPEAKER_07]  parte del core de lo que llamo el computer science.
+[SPEAKER_07]  Entonces...
+[SPEAKER_07]  En ese sentido, creo que a pesar de que era una época donde no existía la ingeniería de software,
+[SPEAKER_07]  No existían las redes.
+[SPEAKER_07] 
+[SPEAKER_07]  No existían muchas cosas.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Esa combinación de matemáticas con...
+[SPEAKER_07]  La parte...
+[SPEAKER_07]  de Computer Science, yo creo que fue muy bueno, muy fuerte.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  No sé si quieres que hable también un poco del posgrado, porque cuando me hablan de la universidad, yo tengo que dividirla en dos, lo que fue la universidad acá y lo que fue la universidad en Estados Unidos.
+[SPEAKER_07]  Gracias.
+[SPEAKER_03]  Hablemos primero del pregrado.
+[SPEAKER_07]  Hablamos
+[SPEAKER_03]  Avancemos con el pregrado primero.
+[SPEAKER_03]  Sí, esa época vale la pena comentar.
+[SPEAKER_03]  La ingeniería de sistemas no existía en la universidad, en ninguna parte.
+[SPEAKER_03]  Lo que hice, los profesores eran de otras ingenierías.
+[SPEAKER_03]  Algunos estudiaron algo de programación en el exterior y llegaron con la idea.
+[SPEAKER_03]  y el primer computador que fue...
+[SPEAKER_03]  el estudio ya era moderno
+[SPEAKER_03]  360, ¿no?
+[SPEAKER_03]  Porque antes de eso hubo...
+[SPEAKER_00]  que antes de eso...
+[SPEAKER_03]  otros dos modelos más antiguos, ¿no?
+[SPEAKER_03]  Pero iba bien el tema de la tecnología, o sea, los lenguajes que trabajaste.
+[SPEAKER_03]  Y de verdad, si forza.
+[SPEAKER_07] 
+[SPEAKER_07]  Gracias.
+[SPEAKER_03]  ¿Puede?
+[SPEAKER_07]  Por Trump es el uno.
+[SPEAKER_07]  el maldito cobol.
+[SPEAKER_07]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  y asemble.
+[SPEAKER_07]  ¡Siempre bien!
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Esa era la visión de...
+[SPEAKER_07]  No existía la visión.
+[SPEAKER_07]  de ambientes de programación.
+[SPEAKER_07]  ni de editores.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  El editor era Betty.
+[SPEAKER_03]  Betty, sí, sí, la perforadora.
+[SPEAKER_07]  Sí. Los preparadores de la universidad.
+[SPEAKER_03]  O sea, trabajabas escribiendo el código.
+[SPEAKER_03]  En unas hojas.
+[SPEAKER_03]  que se pasaban a una persona que perforaba.
+[SPEAKER_03]  Las tarjetas, esa es la proceso, ¿verdad?
+[SPEAKER_03] 
+[SPEAKER_03]  Acuérdate.
+[SPEAKER_03]  La tarjeta perforada.
+[SPEAKER_03]  Bueno.
+[SPEAKER_03]  Sí, cuando hablamos de tecnologías de la época eran pocas, era el computador.
+[SPEAKER_03]  Y muy importante lo que hablaste del core del conocimiento. Esto era realmente computer science.
+[SPEAKER_03]  Lo que se estudiaba en esa época.
+[SPEAKER_07]  día de hoy.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Exacto, y la parte teórica...
+[SPEAKER_07]  sigue siendo valiente.
+[SPEAKER_07]  Las cosas, por ejemplo.
+[SPEAKER_07]  lo que era la teoría de compiladores, lo que era la teoría de lenguajes de programación, lo que era...
+[SPEAKER_07]  la teoría de computación.
+[SPEAKER_07]  Eso.
+[SPEAKER_07]  Peace.
+[SPEAKER_07]  Y eso fue muy aceptado porque son cosas válidas aún hoy en día.
+[SPEAKER_03]  De acuerdo.
+[SPEAKER_03]  Se puede decir que lo que estudiaste en esa época, muchas cosas persisten, lo alcanzaste a comentar.
+[SPEAKER_03]  Y se han perfeccionado.
+[SPEAKER_07]  Sí, sí.
+[SPEAKER_07]  ¿No?
+[SPEAKER_07]  Sí, claro, obviamente ajustado, pero...
+[SPEAKER_07]  lo que es la teoría de estructuras de datos, nosotros estudiamos con el libro de Canut.
+[SPEAKER_07]  Yo creo que es un clásico.
+[SPEAKER_07]  Los libros de compiladores son clásicos.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  En eso fueron los que escogieron.
+[SPEAKER_07]  nuestro currículum fueron muy aceptados.
+[SPEAKER_07]  Sí, creo que...
+[SPEAKER_07]  Y tuve muy buenas bases cuando fui a estudiar a Estados Unidos.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Y de eso me cuenta ya.
+[SPEAKER_07]  Yo no me di cuenta acá.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Sí, allá.
+[SPEAKER_03]  Casi se podía, hablando de Carnus.
+[SPEAKER_03]  Trabajábamos, digo trabajábamos porque pues a mí me tocó esa época, pero yo no soy el entrevistado.
+[SPEAKER_03]  pero ayudo con el tema de Mix.
+[SPEAKER_03]  programamos en Mix, que es el lenguaje de NUTS.
+[SPEAKER_07]  No, no, sí.
+[SPEAKER_03]  estructuras, que era un ensamblador.
+[SPEAKER_07]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_07]  y el bien y fíjate que hay una cosa muy válida hay muchos conceptos que son
+[SPEAKER_07]  a un balizo
+[SPEAKER_07]  como todo lo que es...
+[SPEAKER_07]  Ya.
+[SPEAKER_07]  la complejidad de los algoritmos.
+[SPEAKER_07]  porque una de las cosas que hacía
+[SPEAKER_07]  canonios y libros era...
+[SPEAKER_07]  en los algoritmos.
+[SPEAKER_07]  calcularle la complejidad y todo eso sigue siendo valioso todo eso es parte del corte
+[SPEAKER_07]  de lo que hacemos los que trabajamos en la parte técnica.
+[SPEAKER_03]  Claro, refuerzo lo que dices del algoritmo para que tú lo complementes.
+[SPEAKER_03]  Hoy en día las máquinas son tan rápidas.
+[SPEAKER_03]  que se olvida la algoritmia.
+[SPEAKER_03]  En esa época eran tan lentas.
+[SPEAKER_03]  que si no había un algoritmo y estructura de datos formal.
+[SPEAKER_03]  duraba
+[SPEAKER_03]  Horas y horas.
+[SPEAKER_03]  cualquier proceso.
+[SPEAKER_03]  De tal manera que tú tienes razón que el tema algorítmico...
+[SPEAKER_03]  wave
+[SPEAKER_03]  Esencial, te tocó esa época.
+[SPEAKER_03]  Bueno, alcanzas a tener memoria de, ya mencionaste algo de los temas, ¿no? Que se daban en la universidad en ese momento.
+[SPEAKER_03]  Si quieres complementar un poquito los cursos, los temas, las asignaturas que...
+[SPEAKER_03]  ¿Te acuerdas?
+[SPEAKER_07]  Sí, esos cursos de estructuras de datos, de lenguaje, de programación.
+[SPEAKER_07]  Ah.
+[SPEAKER_07]  Claro que había cosas muy desacertadas porque eran las primeras veces. La forma como se enseñaba programación era completamente equivocada.
+[SPEAKER_07]  porque era mi primer curso de programación.
+[SPEAKER_05]  Eso.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Mi primer curso de programación y mi primer programa.
+[SPEAKER_07]  Y todo el curso está orientado a la sintaxis, a memorizar la sintaxis de fotos.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  no a la parte de alberismo.
+[SPEAKER_07]  No era la teoría de computación como tal.
+[SPEAKER_07]  Entonces era completamente curado. Entonces era completamente curado.
+[SPEAKER_07]  e
+[SPEAKER_07]  porque realmente no había ese primer curso. Yo creo que hoy en día...
+[SPEAKER_07]  por lo que veo de las universidades.
+[SPEAKER_07]  Sigue habiendo una...
+[SPEAKER_07]  Una gran equivocación en muchos lados de cómo se enseña el primer curso de computación.
+[SPEAKER_07]  El primer punto de computación.
+[SPEAKER_07]  que le digo a...
+[SPEAKER_07]  con una crítica a la Universidad de Los Ángeles, que mi hija es mi hija, porque ya uno...
+[SPEAKER_07]  es con los hijos o los nietos, que tiene que hacer la referencia. Pero mi hija estudió ingeniería industrial en los Andes hace 10 o...
+[SPEAKER_05]  Sí.
+[SPEAKER_07]  12 años.
+[SPEAKER_07]  Y el primer curso de programación que se lo dieron en C++. Imagínate la brutalidad.
+[SPEAKER_07]  Un curso para una persona, el primer curso de programación, era 80% explicando los temas más.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Sí.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Entonces, yo creo que en ese sentido, digamos, en esa época hubo cosas buenas, pero también hubo cosas malas. Y de las cosas malas, fue mi primer curso de pedagogía.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Ok, muy interesante eso.
+[SPEAKER_03]  Bueno, ya nos mencionaste al comienzo porque estudias ingeniería de sistemas, ¿no?
+[SPEAKER_03]  Pero dando un poquito más.
+[SPEAKER_03]  En tu casa, cuando dijiste yo voy a estudiar reingeniería de sistemas,
+[SPEAKER_03]  que decía la familia, que seguramente sabía que había ingeniería civil, ingeniería de arquitectura.
+[SPEAKER_03]  y en otras cosas.
+[SPEAKER_03]  Eso, ¿cómo lo veía en ese contexto un poco su familiar social?
+[SPEAKER_07]  Sí, no, eso obviamente no se entendía.
+[SPEAKER_07]  Apenas un...
+[SPEAKER_07]  Yo no lo entendía, pero al menos lo iban a entender en mi caso.
+[SPEAKER_07]  Sí.
+[SPEAKER_03]  Es verdad, no se sabía en qué se iba a trabajar en esa época, ¿no?
+[SPEAKER_07]  Sí, no, es que no había trabajo de eso.
+[SPEAKER_03]  José
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  La gente no existía en esa área.
+[SPEAKER_07]  en las empresas.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_03]  No.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Muy bien.
+[SPEAKER_03]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_03]  No había. Se puede decir que el impulso era pasión por el tema.
+[SPEAKER_03]  por haber conocido la programación y por una curiosidad infinita del conocimiento.
+[SPEAKER_07]  haber conocido la...
+[SPEAKER_03]  todavía sin una mentalidad utilitarista, digamos, de la profesión.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Pero eso igual también era en muchos lados. O sea, eso no era solo de...
+[SPEAKER_07]  acá en las universidades, acá, sino también en el mundo, era muy nuevo.
+[SPEAKER_03]  Ok, sí, ahora nos hablas de eso. Bueno.
+[SPEAKER_03]  Bien, entonces te gradúas en el año 74.
+[SPEAKER_03]  ¿Cierto? Sí.
+[SPEAKER_03]  Bueno, sales y te gradúas.
+[SPEAKER_03]  primer trabajo.
+[SPEAKER_03]  ¿Cómo fue esa experiencia?
+[SPEAKER_03]  Gracias.
+[SPEAKER_07]  No, yo no trabajé, yo fui de los que uniría también. En esa época en la universidad la gente sí iba a estudiar a Estados Unidos o a Francia.
+[SPEAKER_03]  No, yo...
+[SPEAKER_07]  Y vamos.
+[SPEAKER_07]  Nosotros no pensamos en trabajar sino en estudiar.
+[SPEAKER_07]  seguir estudiando y pasarla bueno como estudiante
+[SPEAKER_07]  Entonces yo me fui a estudiar porque eso era lo que sé.
+[SPEAKER_07]  César, si eres tuyo.
+[SPEAKER_07]  Entonces...
+[SPEAKER_05]  No, no, no. Sí.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  y me fui a estudiar.
+[SPEAKER_07]  y yo andaba con el tema de la inteligencia artificial.
+[SPEAKER_07]  ¡Ja, ja!
+[SPEAKER_07]  Yo, India.
+[SPEAKER_07]  casi
+[SPEAKER_07]  ¿Cuántos años?
+[SPEAKER_07]  como 50 años después.
+[SPEAKER_03]  casi 50
+[SPEAKER_07]  ¿Y cuántos años?
+[SPEAKER_07]  Lo curioso es que...
+[SPEAKER_07]  a lo que me dedico es a inteligencia artificial.
+[SPEAKER_05]  Es interesante.
+[SPEAKER_05]  Sí, así es.
+[SPEAKER_07]  Y desde esa época...
+[SPEAKER_07]  Yo me acuerdo, nosotros trabajábamos en LISP, en la universidad. Mi tesis fue...
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  en la universidad.
+[SPEAKER_07]  y me fui a estudiar a Estados Unidos y allá...
+[SPEAKER_07]  comencé a estudiar en la maestría de Fosos de Inteligencia Artificial.
+[SPEAKER_07]  y de pronto aparecieron las redes.
+[SPEAKER_07]  y los sistemas distribuidos y ahí aprendí otro mundo, porque en ese momento ya estaba la red ARPA.
+[SPEAKER_07]  Entonces...
+[SPEAKER_04]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  tuve la oportunidad de...
+[SPEAKER_07]  de trabajar en redes locales
+[SPEAKER_07]  internet, lo que hoy en día se llama internet.
+[SPEAKER_07]  Pero en esa época apenas estaba.
+[SPEAKER_07]  creando
+[SPEAKER_07]  todos los protocolos de internet, se estaba creando toda la infraestructura de software de internet, que es la época de los 70. La segunda parte de los 70.
+[SPEAKER_07]  Pues que...
+[SPEAKER_07]  en la rueda de Arpa
+[SPEAKER_07]  con eso tenía muchos nodos.
+[SPEAKER_07]  El trabajo consistía en inventarse los protocolos, inventarse toda la maquinaria interna.
+[SPEAKER_07]  de Internet, porque el Internet se vuelve famoso después.
+[SPEAKER_07]  pero en ese momento era la red ARPA, entonces en eso yo trabajé.
+[SPEAKER_07]  y trabajé en la parte de redes locales y entonces me metí en ese tema y terminé haciendo el doctorado en eso.
+[SPEAKER_07]  Yendo a conferencias de eso, toda la investigación era sobre eso.
+[SPEAKER_07]  Entonces, realmente pude comprobar primero que la educación básica que tuve en la universidad fue muy buena.
+[SPEAKER_07]  y
+[SPEAKER_07]  Lo que más aprende uno en esos estudios es aprender a hacer investigación y aprender a aprender solo.
+[SPEAKER_07]  y a creársele esa pasión.
+[SPEAKER_07]  por aprender siempre.
+[SPEAKER_07]  aprender siempre.
+[SPEAKER_07]  Y eso no es pesantito.
+[SPEAKER_07]  Si puedo, gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  No, no.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Sí.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  No se nos ha quitado.
+[SPEAKER_03]  Que no es fiesto, es fiesto.
+[SPEAKER_07]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_03] 
+[SPEAKER_07]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  en Ohio State University.
+[SPEAKER_07]  Ok.
+[SPEAKER_03]  El nazismo estuvo bien con ser.
+[SPEAKER_03]  que fue quien escribió este C.P.I.P.
+[SPEAKER_07]  Sí.
+[SPEAKER_03]  Y hay un video grabado porque lo reunimos.
+[SPEAKER_07]  Lo conocí.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_03]  Nos reunimos con él en Asís, con los decanos y directores de Redis, precisamente.
+[SPEAKER_03]  Sí, hay un video bonito sobre eso.
+[SPEAKER_03]  Con él. Ah, sí.
+[SPEAKER_03]  También lo conociste.
+[SPEAKER_03]  Lo conociste.
+[SPEAKER_03]  Sí.
+[SPEAKER_07]  Trabajar en el TSPIP.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Yo hice una tesis, la tesis mía...
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Yo...
+[SPEAKER_03]  Gracias.
+[SPEAKER_07]  se basaba en TCP y IP, pero TCP y IP es un protocolo de punto a punto.
+[SPEAKER_07]  Lo que yo trabajé era un protocolo multipunto.
+[SPEAKER_07]  va a ser un quesito.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_07]  Claro, sí, fue un tema. En el año 74.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03] 
+[SPEAKER_03]  Sí, en esa época.
+[SPEAKER_03]  Y eso nos contaba.
+[SPEAKER_03]  que inclusive ellos, esto lo entregaron, como decías, a Utah y a más nodos.
+[SPEAKER_03]  Y de pronto apareció el correo electrónico y decía, entonces, no supimos a qué horas, esto se volvió mundial, ¿no? El IPv4, que fue la versión inicial, sí.
+[SPEAKER_03]  Pero esa época, súper clave, o sea, el contar que tú estuviste en la época de Arpanet.
+[SPEAKER_03]  Es muy valioso porque fue el comienzo.
+[SPEAKER_07]  En los 70 es que se trabaja.
+[SPEAKER_03]  Gracias.
+[SPEAKER_07]  en desarrollar la investigación de toda la infraestructura del Internet.
+[SPEAKER_03]  Bueno, pero la vida sabrosa de estudiante...
+[SPEAKER_03]  Como la vida es dura,
+[SPEAKER_03]  Después te tocó trabajar.
+[SPEAKER_07]  Exactamente, entonces llegué a la universidad
+[SPEAKER_03]  ¿Cómo fue ese paso?
+[SPEAKER_07]  Bueno, lo hice eso porque primero trabajé en el Instituto C
+[SPEAKER_07]  Que era un...
+[SPEAKER_03] 
+[SPEAKER_07]  con el Dan, con Eduardo Aldana, entonces allá...
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  cuando llegue
+[SPEAKER_07]  Entonces tuve la oportunidad de tener un pie en la universidad.
+[SPEAKER_07]  y un pie haciendo proyectos de la vida real.
+[SPEAKER_07]  con igualdad.
+[SPEAKER_07]  aplicados.
+[SPEAKER_07]  O sea, aplicar un poco lo que uno sabía.
+[SPEAKER_07]  a problemas sociales y problemas gubernamentales.
+[SPEAKER_07]  proyectos entonces ahí comencé a lo que ha sido mi vida que es un pie
+[SPEAKER_04]  ¡Gracias!
+[SPEAKER_07]  en el mundo real y otro pie en lo que es la...
+[SPEAKER_07]  ¡Apáñenme!
+[SPEAKER_07]  y la investigación y tal.
+[SPEAKER_03]  Perfecto. Instituto CERF, famosísimo, también tuve mucho que ver con él.
+[SPEAKER_03]  Roberto de pronto sabe los colegas lo saben
+[SPEAKER_03]  Hace unos años hicimos un programa de televisión llamado Mi BIOS.
+[SPEAKER_03]  que sobre los pioneros de la computación.
+[SPEAKER_03]  Yo entrevisté 21 pioneros de los 60, 70 y entre esos al doctor Aldana.
+[SPEAKER_03]  Y él decía, cuando no había nada acá, hizo un doctorado en el exterior.
+[SPEAKER_03]  Y le dijeron, tienes que ver programación. Y él dijo, no veo en Colombia cuando va a haber un computador de estos. Eran computadores que tienen escalera, pues, para aprenderlo, ¿no?
+[SPEAKER_03]  Dijo, no, a veces no, yo no tomo ese curso.
+[SPEAKER_00]  no
+[SPEAKER_03]  Cuando llegó a Los Andes, se lo nombraron decano,
+[SPEAKER_03]  Le llegó el primer computador.
+[SPEAKER_03]  ¿Sí?
+[SPEAKER_03]  que detuvo su primera máquina y le tocó a él iniciar.
+[SPEAKER_03]  esos procesos, él cuenta esa historia.
+[SPEAKER_03]  Y dice, me arrepentí de no haber visto el curso de programación. O sea, en esa época...
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  No se sabía mucho de estos temas.
+[SPEAKER_03]  Ok, esa es como la época que la estás redondeando.
+[SPEAKER_03]  Bueno, eh,
+[SPEAKER_03]  Entonces, primer trabajo fue con Instituto CERN, más bien el tema de investigación.
+[SPEAKER_03]  que era un instituto de pura investigación, básicamente.
+[SPEAKER_03]  ¿Cierto? Pero tú también lo has...
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  ¿Cierto?
+[SPEAKER_07]  Y tú también lo has explicado.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Sí, sí.
+[SPEAKER_07]  Así es.
+[SPEAKER_07]  Eso es más o menos, eso es en la época de los ochentas.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Ya.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  estuve en la universidad varios años, no me acuerdo cuántos.
+[SPEAKER_07]  de profesor y cada vez me...
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  era profesor y haciendo proyectos con el distrito CERN.
+[SPEAKER_07]  Después, hacia finales de los 80,
+[SPEAKER_07]  cuando ya aparece la industria del software, porque eso no existía.
+[SPEAKER_07]  Entonces en la época de los 80 es que aparecen.
+[SPEAKER_07]  los microcomputadores, aparece el IDNPC.
+[SPEAKER_07]  aparece el Apple II.
+[SPEAKER_07]  En la Universidad de Los Andes creamos las primeras salas.
+[SPEAKER_07]  de computadores Apple II, pero...
+[SPEAKER_07]  No había en ninguna universidad salas con computadores. Veníamos de la década de los 80.
+[SPEAKER_07]  Una universidad, si acaso, tenía un gran computador.
+[SPEAKER_07]  pero el concepto de que hubiera 20 computadores en una sala era una cosa...
+[SPEAKER_07]  que no se conocía. Entonces pusimos en el edificio de ingeniería en el último piso.
+[SPEAKER_07]  una sala de Apple II.
+[SPEAKER_07]  y eso la gente iba y los miraba.
+[SPEAKER_07]  No.
+[SPEAKER_07]  ya
+[SPEAKER_07]  Ya huy.
+[SPEAKER_07]  Y ahí, esa...
+[SPEAKER_00]  Ahí.
+[SPEAKER_07]  lo que se enseñaba Pascal.
+[SPEAKER_07]  por su ser unidad con...
+[SPEAKER_07]  Pascal.
+[SPEAKER_07] 
+[SPEAKER_07]  Y el año...
+[SPEAKER_07]  Eso era esa parte, pero entonces ahí comenzaron a salir las aplicaciones comerciales.
+[SPEAKER_07]  el microcomputador se vuelve
+[SPEAKER_07]  un aparato que es válido comercialmente y que las empresas ya querían tener microcomputadores para resolver problemas de negocio.
+[SPEAKER_07]  Entonces eso cambió completamente en la época de los 80.
+[SPEAKER_07]  todo. Ya apareció Microsoft, ya apareció el...
+[SPEAKER_07]  los computadores, digamos la industria del software.
+[SPEAKER_07]  Y a raíz de eso, a finales de los 80, es que yo me salgo de la universidad, me salgo del Instituto de Cero y me meto.
+[SPEAKER_07]  se sufre.
+[SPEAKER_07]  Entonces...
+[SPEAKER_07]  Ahí viene otra época en la cual...
+[SPEAKER_07]  comienzo a experimentar lo que es
+[SPEAKER_07]  construir, vamos a ver, vender.
+[SPEAKER_07]  enseñarle a la gente.
+[SPEAKER_07]  y también creo en una empresa de solo...
+[SPEAKER_07]  capacitación en computadores.
+[SPEAKER_07]  Esa es la época en que se desmontan los mini 3D y los mini computadores.
+[SPEAKER_07] 
+[SPEAKER_07]  Aparece...
+[SPEAKER_07]  Yo ni siquiera apareció.
+[SPEAKER_07]  y todas esas cosas. Entonces cambia un poco el mundo comercial.
+[SPEAKER_07]  y también mucha gente nos metemos.
+[SPEAKER_07]  hacer aplicaciones. Nace la industria del software en Colombia.
+[SPEAKER_03]  Así es, Roberto, yo tengo recuerdos de lo tuyo.
+[SPEAKER_03]  de los famosos seminarios.
+[SPEAKER_03]  Tú tenías una organización dedicada a seminarios que fue muy famosa.
+[SPEAKER_03]  Y ahora te hago otra pregunta, pero sobre los seminarios, cuéntame un poquito de esa historia.
+[SPEAKER_07]  Sí.
+[SPEAKER_07]  Sí, los seminarios nacen de que yo dictaba cursos en la universidad, cursos de educación continuada en los ángulos.
+[SPEAKER_07]  Pero siempre que editaba los cursos de las empresas me decían, no, ¿qué hacemos? No lo hacemos con los handles, venga aquí.
+[SPEAKER_07]  ¿Y usted no nos dicta los cursos?
+[SPEAKER_07]  directamente.
+[SPEAKER_07]  Entonces.
+[SPEAKER_07]  en la universidad pues eso no podía ser esas cosas.
+[SPEAKER_07]  Entonces, cuando ya me salgo de la universidad, entonces dije, no, pues yo voy a comenzar a...
+[SPEAKER_07]  voy a crear una organización que dicta cursos. Comencé a dictar cursos y eran cursos técnicos, eran cursos de units.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  cursos de redes, cursos de...
+[SPEAKER_05]  deuda.
+[SPEAKER_07]  de bases de datos, no será la época de ese tipo de cursos, y había mucha gente en esos cursos.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Duró varios años eso. Seminarios de Excelencia se llamaban.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Seminario de Excelencia, yo me acuerdo mucho, yo ya tenía...
+[SPEAKER_03]  Mi empresa es lógica.
+[SPEAKER_03]  había traído también los micros, Radio Shack y todo eso, y seminarios, tuvimos mucho contacto con eso.
+[SPEAKER_07]  Gracias a ustedes.
+[SPEAKER_07] 
+[SPEAKER_07]  Es que tú deberías también estar dentro de esta lista de entrevistados.
+[SPEAKER_03]  tengo
+[SPEAKER_07]  Me imagino que...
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  No, no, no.
+[SPEAKER_05]  Bueno.
+[SPEAKER_07]  Deberías estar porque tú...
+[SPEAKER_07]  Eres tú.
+[SPEAKER_07]  ¿A quién?
+[SPEAKER_07]  y un actor muy importante de toda la historia.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  pierde.
+[SPEAKER_03]  Sí, ayer me entrevistaron para Antioquia, que están haciendo algo parecido y es la primera vez que cuento toda mi historia, pero aquí la historia es la tuya.
+[SPEAKER_03]  Yo sirvo por lo que conozco todo el terreno un poco.
+[SPEAKER_03]  Hubo otra experiencia.
+[SPEAKER_03]  que uno pueda tener información equivocada, transformada, digamos, ¿no?
+[SPEAKER_03]  Pero cuando trabajaste con Jorge Phillips.
+[SPEAKER_03]  Sí, señor.
+[SPEAKER_03]  Recuerdo haber oído, ustedes me contaron algo.
+[SPEAKER_03]  que decidieron hacer como una fábrica de objetos, objetos de programación.
+[SPEAKER_03]  en la programación orientada a objetos.
+[SPEAKER_00] 
+[SPEAKER_03]  Y que fue un concepto muy interesante de decir, oiga, si el objeto...
+[SPEAKER_03]  Dentro del concepto nuestro de programación,
+[SPEAKER_03]  es comercializable.
+[SPEAKER_03]  ¿Cómo fue esa experiencia que tengo entendido que también fue de índole internacional?
+[SPEAKER_03]  Lo veo.
+[SPEAKER_07]  No, ahí lo que pasa es que como estábamos haciendo varias aplicaciones nos dimos cuenta que...
+[SPEAKER_07]  la infraestructura de esas aplicaciones era la misma.
+[SPEAKER_07]  Muchas cosas eran...
+[SPEAKER_07]  Reutilizables, entonces.
+[SPEAKER_07]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Entonces, con ese concepto de reutilización, ese concepto de...
+[SPEAKER_07]  de generalización.
+[SPEAKER_07]  Entonces, obviamente, terminamos haciendo como librerías y en esa época se vendían las librerías.
+[SPEAKER_07]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Y ahí tuvimos nuestras experiencias.
+[SPEAKER_07]  Sí. Sí.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  de ofrecer un interés por fuera.
+[SPEAKER_07]  por fuera
+[SPEAKER_05]  Fue.
+[SPEAKER_07]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Sí, sí.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Ok, bueno, una experiencia muy interesante.
+[SPEAKER_03]  Bueno.
+[SPEAKER_03]  Eh...
+[SPEAKER_03]  Tú eres del grupo de ingenieros.
+[SPEAKER_03]  Venimos de 50 años de historia, ¿cierto?
+[SPEAKER_03]  vigente, que es muy interesante, ¿no?
+[SPEAKER_03]  Y obviamente has visto toda una transformación, has mencionado ya algunas cosas de ese estilo.
+[SPEAKER_05]  Yo ya...
+[SPEAKER_03]  ¿Cómo observan ese aspecto?
+[SPEAKER_03]  Una tecnología que era...
+[SPEAKER_03]  o en un análisis que yo hice en el año 31 que salió el mar.
+[SPEAKER_03]  cuatro, ¿no?
+[SPEAKER_03]  siete años después salió el transistor.
+[SPEAKER_03]  ¿Sí?
+[SPEAKER_03]  Y algo nuevo salía a los tres años. Hoy día, a la semana, sale algo nuevo.
+[SPEAKER_03]  ¿Cómo ves tú esa transformación? ¿Cierto?
+[SPEAKER_03]  Y si quieres o tienes pensado algún comentario respecto a la ingeniería de sistemas en ese proceso de transformación tan grande que ha habido de las cosas, donde ya es pública la ingeniería.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_07]  Es enorme la tecnología. Nosotros trabajamos en una tecnología.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  que ha creado una economía digital.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  que es la que domina el mundo hoy en día.
+[SPEAKER_07]  Soy inmundo.
+[SPEAKER_07]  Start.
+[SPEAKER_07]  depende totalmente del software.
+[SPEAKER_07]  Todo se mueve alrededor del software.
+[SPEAKER_07] 
+[SPEAKER_07]  Y los adelantos han sido enormes.
+[SPEAKER_07]  enormes en todas estas décadas.
+[SPEAKER_07]  Y hoy en día, yo siento por lo que trabajo hoy en día.
+[SPEAKER_07]  Estoy súper metido.
+[SPEAKER_07]  en los temas de inteligencia artificial generativa.
+[SPEAKER_07]  Y eso cambió completamente la inteligencia artificial que conocimos hace...
+[SPEAKER_07]  sin problemas.
+[SPEAKER_07]  de cinco años para acá se cambió totalmente. O sea, el que era un científico de datos y sabía Machine Learning, Deep Learning...
+[SPEAKER_07]  hace tres o cuatro años.
+[SPEAKER_07]  Hoy es otra cosa.
+[SPEAKER_07]  Y lo que se viene es una transformación enorme, enorme.
+[SPEAKER_07]  que va a impactar.
+[SPEAKER_07]  cómo se va a impactar, por ejemplo, la industria del desarrollo del software va a cambiar completamente en los próximos años.
+[SPEAKER_07]  porque ya tenemos...
+[SPEAKER_07]  Sólo fue el que hace, sólo fue.
+[SPEAKER_07]  software que programa con altísimos niveles.
+[SPEAKER_07]  de exactitud, de precisión.
+[SPEAKER_07]  Entonces el trabajo del programador va a cambiar enormemente, la industria va a cambiar enormemente.
+[SPEAKER_07]  Y no solo esta industria, sino otras industrias.
+[SPEAKER_07]  Entonces, y eso son cosas que están sucediendo a una velocidad altísima, como dices tú.
+[SPEAKER_07]  Chao.
+[SPEAKER_07]  Yo creo, yo cada día...
+[SPEAKER_07]  que pasan, veo que salen
+[SPEAKER_07]  fácilmente unos 20 o 30 papers importantes.
+[SPEAKER_07]  Y esos papers están saliendo.
+[SPEAKER_07]  Ya no están saliendo tanto de las universidades de Stanford, de MIT, están saliendo desde Google.
+[SPEAKER_07]  Están saliendo de empresas gigantes que son las únicas que tienen los recursos.
+[SPEAKER_07]  para correr los programas.
+[SPEAKER_07]  tan monstruosos que hay hoy en día.
+[SPEAKER_07]  Eso es un cambio enorme.
+[SPEAKER_05]  Ok, eso toca...
+[SPEAKER_07]  Porque antes dependíamos de las universidades.
+[SPEAKER_05]  No.
+[SPEAKER_07]  Y hoy en día estamos dependiendo.
+[SPEAKER_07]  es de 8 o 10 compañías.
+[SPEAKER_03]  Ok, aquí en este grupo lo que es Sandra, Edgar y Rafa son entrevistables, ¿no?
+[SPEAKER_03]  Es muy importante. Y está tocando un tema que de pronto hacemos un comentario. Rafa maneja la maratón de programación famosa que se acuerda Roberto, ¿no?
+[SPEAKER_05]  Sí, sí.
+[SPEAKER_03]  La maratón de programación, que son como 4.000 universidades del mundo para que lleguen 100 a la final.
+[SPEAKER_03]  Y Rafa ha manejado esto con un éxito absoluto.
+[SPEAKER_03]  Todos los años viaja al Asia, bueno, a países diversos.
+[SPEAKER_03]  con sus estudiantes, también Beatriz acompaña a veces.
+[SPEAKER_03]  Y si quieres, Rafa, para repartir también un poquito.
+[SPEAKER_03]  de nosotros como colegas.
+[SPEAKER_03]  si tienen alguna pregunta para Roberto, de tal manera que...
+[SPEAKER_03]  participamos todos de alguna manera. Entonces, si quiere Rafa...
+[SPEAKER_03]  algún comentario tratando de ubicarlo dentro de la época. Claro que sí.
+[SPEAKER_01] 
+[SPEAKER_03]  y un poquito la transformación.
+[SPEAKER_01]  Claro que sí, Roberto, pues...
+[SPEAKER_01]  Pues es un placer escucharte.
+[SPEAKER_01]  Además que yo fui uno de esos...
+[SPEAKER_01]  de esos gomosos que iba a...
+[SPEAKER_01]  al último piso
+[SPEAKER_01]  del W
+[SPEAKER_01]  Con esa sala de Apple II.
+[SPEAKER_01]  donde teníamos un gigantesco...
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Me parece que en ese momento era impresionante Corvus de 5 gigas.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  ¿eh?
+[SPEAKER_01]  ni siquiera es exageré, era 5 megas
+[SPEAKER_01]  Sí, sí.
+[SPEAKER_03]  Mega, mega, sí.
+[SPEAKER_01]  Eran cinco megas y era...
+[SPEAKER_01]  El...
+[SPEAKER_01]  Uy, lo vamos a salvar en el Corvus.
+[SPEAKER_01]  Eso era casi que el evento de este lomo, Álvaro Ait.
+[SPEAKER_01]  No.
+[SPEAKER_01]  Pero me gustaría...
+[SPEAKER_01]  retomar o más bien regresarte a
+[SPEAKER_01]  a la época en la que eras estudiante, por allá en 1970.
+[SPEAKER_01]  Mmm.
+[SPEAKER_01]  Y entonces, en esa época...
+[SPEAKER_01]  nos ha hablado de temas que hoy evidentemente siguen vigentes.
+[SPEAKER_01]  como
+[SPEAKER_01]  La teoría de autómatas, compiladores, etc. Cosa que yo soy de los que piensan que todavía es necesario saber.
+[SPEAKER_01]  y es necesario seguir desarrollando.
+[SPEAKER_01]  Mmm.
+[SPEAKER_01]  Hoy se habla mucho de dos frentes, entonces me gustaría que nos hablaras de dos cositas.
+[SPEAKER_01]  Una es la relación matemáticas.
+[SPEAKER_01]  computación, matemáticas, conflictos de los años.
+[SPEAKER_01]  que en ese momento era, o más bien, Matemáticas, Ingeniería de Sistemas, porque...
+[SPEAKER_01]  porque así es que la reconocen.
+[SPEAKER_01]  algunas personas.
+[SPEAKER_05]  Mmm.
+[SPEAKER_01]  que después deriva en compitir sabiendo lo que hacemos.
+[SPEAKER_01]  Pero esa relación matemáticas-ingeniería de sistemas...
+[SPEAKER_01]  como era entre los estudiantes.
+[SPEAKER_01]  Eso uno. Y otro tema que me gustaría que nos contaras un poco.
+[SPEAKER_01]  es cómo era poblacionalmente.
+[SPEAKER_01]  el grupo de estudiantes.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  ¿Qué les interesaba?
+[SPEAKER_01]  al estudiante de ingeniería de sistemas en los 70's.
+[SPEAKER_01]  Mmm.
+[SPEAKER_01]  ¿Qué tantos hombres y mujeres había? Hoy, por ejemplo, se habla mucho de que nos faltan mujeres tiques, etc.
+[SPEAKER_01]  pero la relación, cómo era, cómo era el ambiente.
+[SPEAKER_01]  de educación fiel. Entonces te tocó esos dos temas en los que me gustaría escucharte, porque creo que...
+[SPEAKER_07]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  que es bien interesante lo que nos vas a contar.
+[SPEAKER_07]  Mira.
+[SPEAKER_07] 
+[SPEAKER_07]  Realmente...
+[SPEAKER_07]  Bienvenido.
+[SPEAKER_07]  La parte de matemáticas era...
+[SPEAKER_07]  Yo diría que era completamente...
+[SPEAKER_07]  independientes.
+[SPEAKER_07]  de lo que era la ingeniería.
+[SPEAKER_07]  de este sistema, será muy separada.
+[SPEAKER_07]  O sea, yo no aprendí cuál era la conexión, eso lo vine a aprender después. Hoy en día tengo una visión completa en Twitter.
+[SPEAKER_07]  donde
+[SPEAKER_07]  donde a mí me fascinaría editar matemáticas.
+[SPEAKER_07]  Algebra lineal
+[SPEAKER_07]  y explicarle
+[SPEAKER_07]  explicarle a la gente por qué el álgebra lineal.
+[SPEAKER_07]  Es el fundamento hoy en día.
+[SPEAKER_07]  de todo lo que está pasando en inteligencia artificial.
+[SPEAKER_07]  y el fundamento de cómo se hace el hardware, el hardware paralelo.
+[SPEAKER_07]  Se basa en matrices, multiplicaciones de matrices en paralelo. Y eso es una cosa fascinante. Y eso ha creado hasta nuevos lenguajes de programación. O sea, los lenguajes de programación que se usan en Deep Learning son lenguajes de programación basados en el paralelismo y en la matemática de la nebra del vital.
+[SPEAKER_05]  programa.
+[SPEAKER_07]  Y eso, pero obviamente que eso solo con el tiempo uno se da cuenta de cómo está esto todo interconectado, por Dios.
+[SPEAKER_07]  Pero en esa época no.
+[SPEAKER_07]  En esa época le dictan a uno álgebra abstracta 1, álgebra abstracta 2.
+[SPEAKER_07] 
+[SPEAKER_07]  algo
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  No sé.
+[SPEAKER_07]  Numerica, algo numérico.
+[SPEAKER_03]  Análisis numérico.
+[SPEAKER_07]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_07]  Análisis numérico 1 y 2.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Uno y dos.
+[SPEAKER_07]  Pero esos profesores eran unos matemáticos teóricos.
+[SPEAKER_07]  que no relacionan esto para nada con la computación. Hoy en día me fascinaría muy bien un curso de esos, porque esos cursos hoy en día uno puede dictar.
+[SPEAKER_07]  Un curso de algebra aninal, teoría de la información.
+[SPEAKER_07]  y todo esto, pero las tareas hacerlas en Python y en lenguajes de programa, mezclar la matemática con los lenguajes de programación y con el diseño de hardware, inclusive con el diseño del sistema operacional.
+[SPEAKER_07]  sistemas distribuidos para correr matrices de millones de...
+[SPEAKER_07]  Esa cosa hoy en día es fascinante, pero en esa época...
+[SPEAKER_07]  Todo era independiente, iba por un lado, por el otro lado y pues sí, daban unas bases y otras bases.
+[SPEAKER_07]  Pero eso, hoy en día, ojalá que las universidades, yo no sé cómo sean las universidades, pero hoy en día hay una oportunidad para integrar todo eso.
+[SPEAKER_07]  más fácilmente.
+[SPEAKER_07] 
+[SPEAKER_07]  Y con respecto a las mujeres, yo creo que es uno de los estándares donde tuvimos bastantes mujeres. Yo tengo compañeras.
+[SPEAKER_07]  Muchas compañeras estudiaron Ingeniería de Sistemas.
+[SPEAKER_07]  y que fueron muy exitosas y fueron personas muy importantes en la industria. Y también, inclusive cuando fui profesor en los años 80, también tuve...
+[SPEAKER_07]  estudiantes.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  que fueron gerentes.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  empresas acá y que participaron en el crecimiento de la industria informática en Colombia.
+[SPEAKER_07]  ¡Gracias!
+[SPEAKER_07]  Y entonces...
+[SPEAKER_07]  En ese sentido...
+[SPEAKER_07]  para
+[SPEAKER_07]  para la época, siendo la época de los 70 y de los 80.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Yo creo que...
+[SPEAKER_07]  que había bastantes números.
+[SPEAKER_05]  Sí.
+[SPEAKER_07]  No sé cómo se habla.
+[SPEAKER_07]  Oye.
+[SPEAKER_01]  Hoy en día la...
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  El porcentaje de mujeres es...
+[SPEAKER_01]  Muy bajito, cercano al...
+[SPEAKER_05] 
+[SPEAKER_01]  No alcanza el 20%.
+[SPEAKER_01]  Amén.
+[SPEAKER_05]  Ah, sí.
+[SPEAKER_01]  Y el nivel 20.
+[SPEAKER_01]  Y yo estoy seguro que en Redis...
+[SPEAKER_01]  Sé que hablo por todos reyes.
+[SPEAKER_01]  Una...
+[SPEAKER_01]  casi que un ofrecimiento.
+[SPEAKER_01]  como el que estás haciendo.
+[SPEAKER_01]  de
+[SPEAKER_01]  de...
+[SPEAKER_01]  ofrecernos
+[SPEAKER_01]  la oportunidad de que nuestros estudiantes...
+[SPEAKER_01]  Tengan...
+[SPEAKER_01]  esa relación entre el álgebra lineal, la programación moderna, la inteligencia artificial.
+[SPEAKER_01]  O sea, todas estas cosas que los aquí presentes creo que lo vivimos y lo gozamos.
+[SPEAKER_01]  Yo soy Trotsky.
+[SPEAKER_01]  de los que es residente en ciencias de la computación y álgebra lineal y esas cosas.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Pero creo que te tomamos la palabra y la intención de que sería rico.
+[SPEAKER_01]  acercártelos muchas veces para contar ese tipo de cosas en la versión actual.
+[SPEAKER_03]  Eso es parte del objetivo, ¿no? Ahí Kevin, por ejemplo, como representante de los estudiantes.
+[SPEAKER_03]  Está observando esta...
+[SPEAKER_03]  Esa historia, ¿no?
+[SPEAKER_03]  La matemática, que a veces le tienen tanto miedo y que no la ven como es.
+[SPEAKER_03]  Yo dice, no sé si Roberto sepa, yo soy una maestría en filosofía.
+[SPEAKER_03]  Y me encontré con que Descartes escribió un librito.
+[SPEAKER_03]  que se llama
+[SPEAKER_03]  ¿Por qué la música produce sentimientos?
+[SPEAKER_03]  ¿Sí?
+[SPEAKER_03]  Y es un libro de física y matemáticas.
+[SPEAKER_03]  física porque los instrumentos vibran y las ondas sonoras llegan a otro instrumento que es el cuerpo.
+[SPEAKER_03]  Y él hace que el cuerpo y el alma se unen por la hipófisis, cosas de ese estilo. Obviamente sus ideas pueden ser rebatibles, no importa.
+[SPEAKER_03]  Pero el libro es un libro de física y matemáticas.
+[SPEAKER_03]  Y a veces yo creo que una moraleja es...
+[SPEAKER_00]  veces.
+[SPEAKER_03]  la no unión de la matemática con la vida del hombre.
+[SPEAKER_03]  en este caso con los sistemas
+[SPEAKER_03]  Y bueno, y de muchas otras maneras.
+[SPEAKER_03]  De tal manera que es un tema muy interesante, como lo comenzaste a decir desde el comienzo como estudiante del colegio mismo.
+[SPEAKER_03]  con el gusto por las matemáticas, que hoy en día hay crisis un poco, ¿no?
+[SPEAKER_03]  Roberto.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Roberto, perdóname.
+[SPEAKER_02]  Perdóname.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Otra pregunta.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Bien.
+[SPEAKER_01]  ¿Cómo era?
+[SPEAKER_01]  ¿Cómo era cuando estabas estudiando?
+[SPEAKER_01]  Esa...
+[SPEAKER_01]  Esa relación...
+[SPEAKER_01]  entre
+[SPEAKER_01]  la tecnología, más bien...
+[SPEAKER_01]  Los estudiantes de Ingeniería de Sistemas, las personas que estaban cercanas de esa manera a la tecnología, y claro, con su inclinación hacia las matemáticas.
+[SPEAKER_01]  ¿Cómo era la relación de un estudiante de Ingeniería de Sistemas?
+[SPEAKER_01]  Con el resto...
+[SPEAKER_01]  de su entorno en la universidad, en la...
+[SPEAKER_01]  en el resto de la sociedad, igual eran personas que ni en la familia, ni creo que ni los mismos estudiantes sabían que estaban estudiando.
+[SPEAKER_07]  Exacto, sí, era demasiado nuevo.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  No se entendía, digamos, la ingeniería civil.
+[SPEAKER_07]  ha sido la tradicional.
+[SPEAKER_07]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_07]  que la gente entendía.
+[SPEAKER_07]  y sabía
+[SPEAKER_07]  Quiero un nudo civil.
+[SPEAKER_07]  Pero lo nuestro lo asociaban con...
+[SPEAKER_07]  con los computadores, una cosa, y con programación.
+[SPEAKER_07]  se asociaba mucho programación, el ingeniero con Pilar Sánchez era programación, era el tipo que iba a las tarjetas.
+[SPEAKER_07]  el que programaba.
+[SPEAKER_07]  Pues yo creo que eso...
+[SPEAKER_05] 
+[SPEAKER_07]  En esa época era...
+[SPEAKER_07]  ¿verdad? Como se debía.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  y como
+[SPEAKER_07]  Digamos, yo creo que eso cambió un poco ya en la época de los 80's cuando comienzan a aparecer.
+[SPEAKER_07]  Porque en los 70 no existían las metodologías y la orientación más hacia procesos.
+[SPEAKER_07]  y arquitecturas empresariales.
+[SPEAKER_07]  que hace que el ingeniero de sistemas
+[SPEAKER_07]  comienza a volverse interdisciplinario porque tiene que aplicar eso a diferentes áreas. Entonces, esa visión un poco más interdisciplinaria lo vuelve a uno, que la gente ya interactúe más con uno.
+[SPEAKER_07]  y que sepa qué es lo que no hace.
+[SPEAKER_07]  que todas esas ideas que tienen se vuelven un aplicativo. Entonces eso ya...
+[SPEAKER_07]  ya hace que entiendan un poquito más lo que uno hace, pero en la época de los 70 no.
+[SPEAKER_07]  Eso...
+[SPEAKER_07]  Eso era...
+[SPEAKER_07]  Recuerda que en esa época existían...
+[SPEAKER_07]  Los data centers, ¿no? Los data centers.
+[SPEAKER_07]  existían como un mundo cíclico, ¿no? Primero eran los grandes data centers y hoy en día...
+[SPEAKER_07]  también se volvieron los grandes atacientes de los peros en la nube.
+[SPEAKER_07]  Pero en esa época había tres vacaciones.
+[SPEAKER_07]  colombia la época de los 70s de los 80 esperanza
+[SPEAKER_07]  con seguros para sistemas de data.
+[SPEAKER_07]  y otro que Manuel.
+[SPEAKER_05]  ¿Ya está?
+[SPEAKER_07]  Es Dani.
+[SPEAKER_07]  No, no, pero ese era de interno, pero había otro, y el del CICE.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Ah, de los que quedaban, sí, del distrito, sí.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Exacto.
+[SPEAKER_07]  Y todo el mundo compartía los programas.
+[SPEAKER_07]  programas aplicativos.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Pero eso...
+[SPEAKER_07]  Eso es más de los 80, los 70 son los que existían. Sí, los 80.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Éramos unos marcianos y estudiábamos sistemas.
+[SPEAKER_03]  Sí,
+[SPEAKER_03]  Sí, los centros de cómputo, que era el nombre.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_03]  Yo dirigí el de acueducto y energía.
+[SPEAKER_03]  Y unimos a los únicos que teníamos sistema operacional OS, se llamaba.
+[SPEAKER_05] 
+[SPEAKER_03]  de la IBM, había el DOS y el OS.
+[SPEAKER_05]  ¿No?
+[SPEAKER_03]  Entonces eran las épocas de los centros de cómplice.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Es correcto.
+[SPEAKER_03]  Bueno, obviamente nuestra representante mujer, que es Sandra, que es una...
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Era muy pila.
+[SPEAKER_03]  Es muy importante que ella está con nosotros también.
+[SPEAKER_03]  Aquí la vemos.
+[SPEAKER_03]  porque es muy juiciosa en esto de la... Ha hecho muchas cosas en el nacional.
+[SPEAKER_03]  No sé si tengas alguna pregunta para Roberto, ya para ir como redondeando. Sí, claro que sí, mira.
+[SPEAKER_00]  Sí, claro que sí. Mira que muy interesante todo lo...
+[SPEAKER_00]  lo referente al desarrollo de la programación.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  desde la época de los 70 hasta nuestros días y
+[SPEAKER_00]  nos mencionabas una problemática que se presentaba.
+[SPEAKER_00]  En ese momento y creo que durante nuestra formación también era la importancia que se le daba más al desarrollo de la sintaxis o al aprendizaje de la sintaxis y semántica.
+[SPEAKER_00]  del programa en sí mismo.
+[SPEAKER_00]  más que de pronto en la parte lógica o
+[SPEAKER_00]  de reconocimiento de los problemas desde el algoritmo para la solución.
+[SPEAKER_00]  de un problema del contexto real.
+[SPEAKER_00]  Hoy en día el Ministerio de Tecnologías de Información y Comunicaciones y el Ministerio de Educación han hecho diferentes programas para formar programadores pensando.
+[SPEAKER_00]  Eh...
+[SPEAKER_00]  fortalecer ese compromiso.
+[SPEAKER_00]  Ese componente de pensamiento computacional y pensamiento lógico.
+[SPEAKER_00]  Quisiera de pronto si nos pudieses contar cómo abordaban eso en esa época.
+[SPEAKER_00]  en la que te formaste como ingeniero y cómo lo ves tú ahora en la que estás trabajando en el área de inteligencia artificial.
+[SPEAKER_07]  Sí, no, pues en esa época...
+[SPEAKER_07]  digamos la teoría de algoritmos
+[SPEAKER_07]  apenas estaba naciendo.
+[SPEAKER_07] 
+[SPEAKER_07]  Yo creo que...
+[SPEAKER_07]  es
+[SPEAKER_07]  No me tocó a mí en la parte...
+[SPEAKER_07]  Yo estudié en la universidad, realmente yo no viví.
+[SPEAKER_07]  nada de algoritmos como tal.
+[SPEAKER_07] 
+[SPEAKER_07]  Vivos.
+[SPEAKER_07]  Tuvimos muy buenos cursos de estructura de datos por los libros y por la contribución que hizo Canut.
+[SPEAKER_07]  con esos clásicos libros.
+[SPEAKER_07]  Pero realmente la parte algorítmica no...
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  se dio.
+[SPEAKER_07]  Lo vine yo a aprender con el tiempo.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  tiempo.
+[SPEAKER_07]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07] 
+[SPEAKER_07]  y después...
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  un poco en el trabajo, abordando cosas concretas y hoy en día...
+[SPEAKER_04]  Gracias.
+[SPEAKER_07] 
+[SPEAKER_04]  Gracias.
+[SPEAKER_07]  es algo muy importante es muy importante
+[SPEAKER_07]  Pero...
+[SPEAKER_07]  Pero inclusive...
+[SPEAKER_07]  digamos.
+[SPEAKER_07]  Con ese tema, en alguna época de mi vida, yo estuve metido en el tema de educación.
+[SPEAKER_07]  y abordamos el tema de cómo se le debe enseñar a una persona.
+[SPEAKER_07]  Y ese es un tema que siempre he tenido en la cabeza.
+[SPEAKER_07]  ¿Cómo se lee el sinmero de una persona a programar?
+[SPEAKER_07]  Y sobre eso ha habido...
+[SPEAKER_07]  los gurús que quieras.
+[SPEAKER_07]  Sí.
+[SPEAKER_07]  que han hecho lenguajes, que se han inventado cosas y todo eso.
+[SPEAKER_07]  Y yo veo...
+[SPEAKER_07]  que todavía sigue.
+[SPEAKER_07]  con el mismo, que ese problema no se resuelva.
+[SPEAKER_07]  Es verdad.
+[SPEAKER_07]  ¿Cómo realmente enseñarle a alguien?
+[SPEAKER_07]  Ah.
+[SPEAKER_07]  a pensar computacionalmente.
+[SPEAKER_07]  Y hoy en día...
+[SPEAKER_07]  Creo que en todas las profesiones eso debería ser una materia transversal en las universidades, no importa si estudias Derecho.
+[SPEAKER_07]  estudies contabilidad.
+[SPEAKER_07]  Pues tu vida en medicina es importantísimo que te enseñen.
+[SPEAKER_07]  esa materia básica.
+[SPEAKER_07]  Y esa materia básica...
+[SPEAKER_07]  Una cosa es pensar computacionalmente y otra cosa es ponerlo en una sintaxis de algún lenguaje porque hay que traducir eso a algún lenguaje.
+[SPEAKER_07]  pero de pronto dependiendo de las profesiones hay que inventarse la parte de sintaxis muy diferente, la parte de sintaxis y semanal muy diferente.
+[SPEAKER_07]  Pero yo creo que ese tema hoy en día...
+[SPEAKER_07]  Aún no lo han resuelto.
+[SPEAKER_07]  y
+[SPEAKER_07]  y la parte algorítmica.
+[SPEAKER_07]  sigue siendo muy importante.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Ahí...
+[SPEAKER_07]  Hoy en día...
+[SPEAKER_07]  Yo veo, por ejemplo,
+[SPEAKER_07]  y tengo
+[SPEAKER_07]  proyectos. Yo trabajo hoy en día con el Banco Mundial haciendo consultorías de productos muy grandes.
+[SPEAKER_07]  varios países.
+[SPEAKER_07]  y
+[SPEAKER_07]  y ahí los proyectos tienen unas infraestructuras.
+[SPEAKER_07]  desarrollos de software muy sofisticados.
+[SPEAKER_07]  idealmente
+[SPEAKER_07] 
+[SPEAKER_07]  Si uno no entiende...
+[SPEAKER_07]  sobre todo cuando pone cosas en la nube.
+[SPEAKER_07]  si no entiende cómo es eficiente.
+[SPEAKER_07]  pues se le acaba la plata
+[SPEAKER_04]  Gracias.
+[SPEAKER_07]  nada
+[SPEAKER_07]  O por ejemplo...
+[SPEAKER_07]  Siete.
+[SPEAKER_07]  todo lo que es la computación del blockchain.
+[SPEAKER_07]  y la que es la complicación de inteligencia artificial en lo que llaman los lenguajes.
+[SPEAKER_07]  El gran estalo.
+[SPEAKER_07]  modelos de lenguaje de gran escala.
+[SPEAKER_07]  Eso es todo.
+[SPEAKER_07] 
+[SPEAKER_07]  algoritmos de redes neuronales, por ejemplo, que...
+[SPEAKER_07]  que consumen
+[SPEAKER_07]  miles de GPUs durante...
+[SPEAKER_07]  docenas de días.
+[SPEAKER_07]  Y cualquier optimización que hagas ahí, estás hablando de millonadas de dólares.
+[SPEAKER_07]  en cualquier opusación y crearse esos algoritmos.
+[SPEAKER_07]  Sigue siendo un problema.
+[SPEAKER_07]  Importantísimo.
+[SPEAKER_07]  Importantísimo.
+[SPEAKER_07]  para las empresas, para el Estado, para el PSA.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Sí.
+[SPEAKER_07]  Creo que eso es un tema súper elevado en nuestra carrera.
+[SPEAKER_07] 
+[SPEAKER_07]  Que la gente aprenda.
+[SPEAKER_07]  a optimizar algoritmos.
+[SPEAKER_04]  ¡Gracias!
+[SPEAKER_07]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  en lo otro que era aprender lo que es la teoría de computación básica.
+[SPEAKER_07]  independiente de lo licuado.
+[SPEAKER_05]  Ok.
+[SPEAKER_05]  Muchas gracias.
+[SPEAKER_06]  Muchas gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Bueno, Roberto, súper interesante.
+[SPEAKER_03]  Agradecerte el aceptar haber sido el primero, ¿no? Entrevistado.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  que nos marca mucho la pauta de lo que vamos a hacer.
+[SPEAKER_03]  Estaremos contando ya entre el desarrollo de todo esto.
+[SPEAKER_03]  y seguramente de alguna manera vas a participar en redes, no sé cómo, pero lo veo muy pertinente.
+[SPEAKER_03]  porque una gran discusión es la transformación de la ingeniería del sistema.
+[SPEAKER_03]  Rafa tiene la mano levantada para alguna pregunta.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Pues realmente...
+[SPEAKER_01]  La levanté sin culpa, pero ya que me das la palabra...
+[SPEAKER_01]  Gracias.
+[SPEAKER_03] 
+[SPEAKER_02]  Gracias.
+[SPEAKER_03] 
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  que a mí siempre que me dan la palabra la uso de alguna manera. En particular...
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Me...
+[SPEAKER_02]  quedó sonando algo
+[SPEAKER_02]  Yes, yes.
+[SPEAKER_02]  Para mí es importante.
+[SPEAKER_01] 
+[SPEAKER_01]  Roberto empieza a estudiar en 1970.
+[SPEAKER_01]  Y hace un momento hizo una referencia a la teoría de la computación.
+[SPEAKER_01]  análisis de algoritmos, cómo se hacía, es decir, que no se hacía realmente.
+[SPEAKER_01]  sino más bien estructuras de datos. Yo entiendo la programación como algoritmos más estructuras de datos.
+[SPEAKER_05]  ¿Hm?
+[SPEAKER_01]  Y la fecha de 1970 es súper clave.
+[SPEAKER_01]  Porque en 1970...
+[SPEAKER_01]  Cook demuestra el teorema.
+[SPEAKER_01]  de existencia de...
+[SPEAKER_02]  más NP completos.
+[SPEAKER_02]  Entonces...
+[SPEAKER_02] 
+[SPEAKER_02]  Yo creo que no es casual.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  podría leerse como casualidad que este ciclo
+[SPEAKER_01]  Estoy empezando con una entrevista.
+[SPEAKER_01]  a alguien que empezó a estudiar en el mismo año en que se demuestra un teorema que cambió la computación, la historia de la computación.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  en general.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Entonces...
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Roberto, una...
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Una pequeña cosa, ¿cómo defines la programación? Mi definición particular...
+[SPEAKER_01]  es
+[SPEAKER_01]  Analisis de algoritmos, analisis de algoritmos más estructuras de datos.
+[SPEAKER_01]  ¿Cómo defines qué es eso de programar?
+[SPEAKER_01]  Eso es todo.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01] 
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02] 
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  ¿Cómo fue el surgimiento, porque tú viviste esa fase, entre ese pregrado y el posgrado?
+[SPEAKER_01]  que es ese tránsito
+[SPEAKER_01]  a las computaciones en paralelo.
+[SPEAKER_01]  desde incluso álgebra lineal, cuando uno está multiplicando matrices, siente que eso es paralelizable, que está repitiendo cosas y eso es paralelizable.
+[SPEAKER_01]  pero no sabe cómo.
+[SPEAKER_01]  Entonces...
+[SPEAKER_01]  en algún momento tuviste que vivir.
+[SPEAKER_01]  ese tránsito, esa aparición de las computaciones paralelas.
+[SPEAKER_01]  Y entonces, ¿cómo fue?
+[SPEAKER_02]  fueron esas dos cosas.
+[SPEAKER_07]  No.
+[SPEAKER_07]  Te contesto la segunda, que es la primera, que es programar.
+[SPEAKER_07]  Es más difícil.
+[SPEAKER_07]  Gracias.
+[SPEAKER_01]  Perdóname, pero es que en esta primera llevamos años con Manuel, con todos, de llevar a una definición corta, entonces no podías aprovechar la oportunidad de lanzar el anzuelo.
+[SPEAKER_07]  ¡Gracias!
+[SPEAKER_07]  No hay afán.
+[SPEAKER_02]  Gracias.
+[SPEAKER_07]  Mira, sobre esa que es la difícil...
+[SPEAKER_07]  hay cosas que me parece que...
+[SPEAKER_07]  que son interesantes o que solo las he aprendido en los últimos 10 o 15 años.
+[SPEAKER_07]  que es todo lo del Machine Learning.
+[SPEAKER_07]  Porque realmente ahí...
+[SPEAKER_07]  Tú estás...
+[SPEAKER_07]  haciendo programas que no son determinísticos, sino estocásticos.
+[SPEAKER_07]  Entonces...
+[SPEAKER_07]  tú realmente cuando yo le habla la gente lo miró a escribir un programa
+[SPEAKER_07]  iba a correr este modelo, pero es un programa.
+[SPEAKER_07]  Pero resulta que la probabilidad de que sea preciso...
+[SPEAKER_07]  No es uno.
+[SPEAKER_07]  Esto no es así. Cuando yo les enseño a gente a programar...
+[SPEAKER_07]  el chat GPT.
+[SPEAKER_07]  Y digo, mira, vamos a hacer un programa acá, pero esto...
+[SPEAKER_07]  puede salir mal.
+[SPEAKER_07]  Eso cambia un paradigma porque la gente está acostumbrada a que uno corre un programa como la nómina y esa vaina tiene que dar tanto y si no da tanto...
+[SPEAKER_07]  Yo dicho es porque está bien en boca.
+[SPEAKER_07]  No, no, y aquí es diferente. Entonces, realmente eso me ha cambiado mucho. Por eso no te puedo contestar, porque me ha cambiado muchísimo.
+[SPEAKER_07]  La mayoría de los programas que yo escribo hoy en día...
+[SPEAKER_07]  No son determinantes.
+[SPEAKER_07]  Entonces...
+[SPEAKER_07]  sino que...
+[SPEAKER_07]  Son programas.
+[SPEAKER_07]  lo que es determinístico.
+[SPEAKER_07]  Es como yo calibro los modelos, pero cuando los programas se corren ahora en dos fases, no como antes, que es una sola fase y ya era un resultado.
+[SPEAKER_07]  Ahora el programa lo corro para que me genere un modelo y después yo a ese modelo le meto unas cosas y entonces salen otras cosas.
+[SPEAKER_07]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Entonces, pues eso, por eso se me hace difícil contestarte la pregunta de que es programa.
+[SPEAKER_07]  Con respecto a lo paralelo.
+[SPEAKER_07]  Eso para mí también es un descubrimiento.
+[SPEAKER_07]  Es espectacular.
+[SPEAKER_07]  Mierda.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Pues yo en el posgrado tuve la experiencia de trabajar con sistemas distribuidos.
+[SPEAKER_07]  No.
+[SPEAKER_07]  Y ahí...
+[SPEAKER_07]  paralelismo.
+[SPEAKER_07]  pero es un paralelismo.
+[SPEAKER_07]  que no es a nivel de...
+[SPEAKER_07]  interno, sino es un paralelismo como entre máquinas.
+[SPEAKER_07]  Eso es diferente.
+[SPEAKER_07]  Pero cuando tú estás hablando de correr, eso lo aprendí cuando aprendí redes neuronales.
+[SPEAKER_07]  Bien.
+[SPEAKER_07]  de neuronales.
+[SPEAKER_07]  precisamente el gran...
+[SPEAKER_07]  avance que salió hace más o menos seis años. Hace seis años cambió todo.
+[SPEAKER_07]  porque se inventaron precisamente unas redes neuronales que pueden correr en paralelo.
+[SPEAKER_07]  Se llama el transforme.
+[SPEAKER_07]  Ustedes deben conocer esto.
+[SPEAKER_07]  en las plataformas.
+[SPEAKER_07]  El gran avance y se transforma.
+[SPEAKER_07]  piso.
+[SPEAKER_07]  Bueno.
+[SPEAKER_07]  Como parte de la arquitectura en la red neuronal, uno puede correr...
+[SPEAKER_07]  en paralelo
+[SPEAKER_07]  Y cuando hablas de paralelo es que todos los procesadores que hace Google, que es una empresa que hace hardware.
+[SPEAKER_07]  Hace los TPU. Google hace hardware.
+[SPEAKER_07]  Nvidia, que es la otra empresa, hace hardware. Todo eso es el paralelismo.
+[SPEAKER_07]  nace de los algoritmos y los algoritmos ahora le dicen cómo de nacer el árbol
+[SPEAKER_07]  para correrlos.
+[SPEAKER_07]  Y esas compañías ahora, esas compañías son las que este año han crecido las acciones más en el mundo.
+[SPEAKER_07]  Esas compañías que hacen computadores en paralelo son las que están haciendo que...
+[SPEAKER_07]  China y Estados Unidos se peleen.
+[SPEAKER_07]  tecnológicamente para...
+[SPEAKER_07]  Prohibirle las exportaciones de Estados Unidos a la misión es porque están haciendo esos chips paralelos.
+[SPEAKER_07]  O sea, y es para correr esos algoritmos paralelos que van a permitir que ese software.
+[SPEAKER_07]  ¡Fuerza!
+[SPEAKER_07]  hacer que un país de gana en la guerra a los otros.
+[SPEAKER_07]  desafortunadamente.
+[SPEAKER_07]  La historia de la Segunda Guerra Mundial, que fue la que nos hizo...
+[SPEAKER_07]  en hacer la computación.
+[SPEAKER_07]  Ahora se está repitiendo.
+[SPEAKER_07]  Con esta guerra del Francia.
+[SPEAKER_07]  La guerra se ha...
+[SPEAKER_07]  entre China y Estados Unidos.
+[SPEAKER_07]  Hacer software inteligente.
+[SPEAKER_07]  Es la cosa más absurda que hay en ese momento, los billones de dólares que están corriendo en los Estados Unidos y en la China.
+[SPEAKER_07]  para hacer ese tipo de software es la cosa más absurda que hay.
+[SPEAKER_07]  Y eso es lo que va a hacer otra vez, esta es como nuestra segunda tanda.
+[SPEAKER_07]  La tanda de la Segunda Guerra Mundial creó los computadores y esta tanda que se viene ahora va a crear unos computadores, un software.
+[SPEAKER_07]  que es el que va a dirigir ese hardware en paralelo, esas redes en paralelo.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  y unos algoritmos que son sofisticados, porque es que cualquier mejora de un algoritmo de esos...
+[SPEAKER_07]  No es como hace 50 años.
+[SPEAKER_07]  sino hoy en día una mejora en un algoritmo.
+[SPEAKER_07]  tiene implicaciones energéticas en el cambio climático.
+[SPEAKER_07]  Sí.
+[SPEAKER_07]  Es una cosa...
+[SPEAKER_07]  completamente nueva.
+[SPEAKER_07]  Por eso yo creo que...
+[SPEAKER_07]  Lástima que ya no esté, se nos esté acabando la vida, Manuel.
+[SPEAKER_07]  Pero lo que se ve en computación de ahora en adelante es una cosa fascinante. Es impresionante.
+[SPEAKER_03]  Es impresionante.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Está cambiando completamente. En los últimos tres años esto cambió completamente.
+[SPEAKER_07]  Finalmente.
+[SPEAKER_03]  El tema de la generación de CO2 por el O2.
+[SPEAKER_03]  Consultas en Google, que lo hemos estudiado.
+[SPEAKER_03]  los 8 mil millones de consultas diarias.
+[SPEAKER_03]  hace que se genere consumo energético equivalente a más de 20.000 casas.
+[SPEAKER_03]  Y apareció un movimiento llamado Software Verbi.
+[SPEAKER_03]  Yo estuve metido en eso un poco.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Es decir, como antes el algoritmo tenía que ser eficiente por la lentitud de la máquina,
+[SPEAKER_03]  Hoy no.
+[SPEAKER_03]  Cualquier máquina corre.
+[SPEAKER_03]  y eso genera los consumos energéticos.
+[SPEAKER_03]  que inclusive en Europa el blockchain está generando una problemática.
+[SPEAKER_03]  Y por detrás están las hidroeléctricas con el agua.
+[SPEAKER_03]  y entonces se genera una cosa curiosísima.
+[SPEAKER_03]  Algoritmias, software y agua.
+[SPEAKER_03]  ¿De acuerdo? Naturaleza.
+[SPEAKER_03]  Entonces los temas están generando unos cambios impresionantes, es correcto.
+[SPEAKER_03]  Bueno.
+[SPEAKER_03]  Eh...
+[SPEAKER_03]  Con Roberto podríamos estar muchas, muchas, muchas horas y vamos a estarlo seguramente, Rafa.
+[SPEAKER_03]  en los temas de reyes, hay que llevarlo un día.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05] 
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  ¿No?
+[SPEAKER_03]  Allá se están trabajando cosas muy curiosas. Las aulas espejo están permitiendo manejar cursos de 500 o de 1000 estudiantes simultáneos con profesores de diversas universidades.
+[SPEAKER_04]  Bueno, con mucho gusto.
+[SPEAKER_03]  cuando hay temas muy sofisticados donde no hay muchos doctores.
+[SPEAKER_03]  Son cosas que en Reddit se han venido logrando.
+[SPEAKER_03]  Y este tema de software es uno de los temas principales también.
+[SPEAKER_03]  Entonces habrá mucho motivo para estar contigo, Roberto.
+[SPEAKER_00]  Entonces habrá...
+[SPEAKER_03]  y
+[SPEAKER_03]  Y bueno, el tiempo es el tiempo y nos toca tener segmentado el momento.
+[SPEAKER_03]  de ir cerrando, que es tan difícil.
+[SPEAKER_03]  A Beatriz agradecerle que nos está facilitando la plataforma.
+[SPEAKER_03]  Y seguramente vamos a tener mucho que ver con Roberto en muchas cosas, ¿no?
+[SPEAKER_07]  No, pues muchas gracias y muy encantado de que me hayan invitado.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Muchas gracias, Primo.
+[SPEAKER_07]  Con mucho gusto.
+[SPEAKER_07]  comparto si quieren
+[SPEAKER_07]  Muy agradable estar con ustedes.
+[SPEAKER_03]  Sí, muchas gracias. Juntaremos en Raze.
+[SPEAKER_07]  ¡Gracias! ¡Gracias!
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  esta primera experiencia, porque es la primera después de varios meses de estar trabajando el tema de lo que queremos hacer.
+[SPEAKER_03]  Beatriz, muchas gracias.
+[SPEAKER_03]  Tenemos la grabación. A todos. Sandrita, muchas gracias. A todos.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Muchas gracias.
+[SPEAKER_03]  Muchísimas gracias.
+[SPEAKER_06]  Muchísimas gracias.
+[SPEAKER_03]  A seguir en contacto.
+[SPEAKER_03]  Con mucho gusto.
+[SPEAKER_06]  Mucho gusto.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Que nos vea con este...
+[SPEAKER_06]  Ojalá, no, hay que hacerlo.
+[SPEAKER_03]  Ojalá, no, hay que hacer...
+[SPEAKER_03]  Esto nos va a generar reuniones presenciales de todo este equipo con seguridad.
+[SPEAKER_06]  Bajen en el...
+[SPEAKER_03]  Bueno, muy bien.
+[SPEAKER_06]  Bueno, muy bien.
+[SPEAKER_01]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_03]  Hasta luego. Cerramos entonces. Muchas gracias. Chao, que estén bien.
+[SPEAKER_06]  Hasta luego.
+[SPEAKER_01]  muchas gracias
+[SPEAKER_03]  Hasta luego.
+[SPEAKER_01]  Hasta luego.
