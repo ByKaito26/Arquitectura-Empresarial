@@ -1,0 +1,1622 @@
+[SPEAKER_08]  ¿no? O sea...
+[SPEAKER_08]  Gracias.
+[SPEAKER_06]  Exacto.
+[SPEAKER_08]  Gracias.
+[SPEAKER_08]  Perfecto.
+[SPEAKER_06]  Bueno, muy bien. Seguimos entonces.
+[SPEAKER_06]  Con esta historia de la evolución de la ingeniería de sistemas,
+[SPEAKER_06]  que para repasar un poco, vamos a ir desde el año 70, los 70.
+[SPEAKER_06]  hasta la época actual.
+[SPEAKER_06]  con colegas que han sido pioneros en...
+[SPEAKER_06]  En estos temas,
+[SPEAKER_06]  y que nos van a ayudar mucho a ver cómo ha sido el proceso en las épocas distintas.
+[SPEAKER_06]  de la ingeniería, de la tecnología.
+[SPEAKER_06]  y el factor humano, especialmente de cada uno en este aspecto.
+[SPEAKER_06]  Hoy tenemos a Luis Javier Parra.
+[SPEAKER_06]  que es el actual presidente de Asís.
+[SPEAKER_06]  una persona muy conocida, muy connotada en la ingeniería de sistemas.
+[SPEAKER_06]  Y vamos a tener la charla.
+[SPEAKER_06]  que hemos tenido...
+[SPEAKER_06]  similar a los otros colegas.
+[SPEAKER_06]  Vamos a hacer una parte antes de Luis Javier.
+[SPEAKER_06]  A Luis Javier no le vamos a pedir que se presente porque se va a presentar durante una hora.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  O más.
+[SPEAKER_06]  Pero en el grupo gestor...
+[SPEAKER_06]  Estamos...
+[SPEAKER_06]  Edgar Ruiz, que no está en este momento, Sandra Liliana Rojas.
+[SPEAKER_06]  de la Nacional, Edgar Elatadeo.
+[SPEAKER_06]  y Rafael García del Politécnico, que sí está en este momento.
+[SPEAKER_06]  Entonces yo le pediría a Rafa...
+[SPEAKER_06]  saludarla
+[SPEAKER_06]  A ver si sabían que nos conocemos, pero...
+[SPEAKER_06]  La grabación no nos conoce.
+[SPEAKER_06]  Entonces, para que...
+[SPEAKER_06]  como hemos hecho, se conozca a quienes estamos.
+[SPEAKER_06]  Rafa, adelante del grupo gestor.
+[SPEAKER_00]  Muchísimas gracias, Manuel. Luis Javier, bienvenido a este espacio que hemos venido.
+[SPEAKER_00]  trabajando y promoviendo
+[SPEAKER_00]  desde diferentes frentes.
+[SPEAKER_00]  Es un placer que estés acá con nosotros.
+[SPEAKER_00]  Mi nombre es Rafael García.
+[SPEAKER_00]  Eh.
+[SPEAKER_00]  decano de la Facultad de Ingeniería de Diseño e Innovación del Politécnico Gran Colombiano.
+[SPEAKER_00]  Mmm.
+[SPEAKER_00]  Estaba viendo en...
+[SPEAKER_00]  en tu hoja de vida que nos comparte.
+[SPEAKER_00]  Manuel, cuando tú te estabas graduando, yo estaba empezando el pregrado en la Universidad de los Andes.
+[SPEAKER_00]  Ingeniero de sistemas y computación de Unidades.
+[SPEAKER_00]  Y...
+[SPEAKER_00]  Y bueno.
+[SPEAKER_00]  Sobre todo entusiastas como todos nosotros, como lo decíamos hace un rato.
+[SPEAKER_00]  de nuestra carrera, de nuestra profesión.
+[SPEAKER_00]  Y con muchas expectativas por escuchar tu versión de...
+[SPEAKER_00]  lo que ocurría
+[SPEAKER_00]  en esos tiempos cuando
+[SPEAKER_00]  cuando empezaste a estudiar y durante todo tu proceso.
+[SPEAKER_06]  Perfecto, Rafa. Muchas gracias.
+[SPEAKER_05]  Claro, gracias Rafael. Claro que sí, ahí vamos a conversar muy agradablemente.
+[SPEAKER_06]  Muy bien. Beatriz Caicedo, un saludito.
+[SPEAKER_06]  que es muy conocida, obviamente.
+[SPEAKER_01]  Gracias, Manuel.
+[SPEAKER_01]  Bueno.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  A ver, abrimos esta cámara.
+[SPEAKER_01]  Y Beatriz Caicedo, yo soy la directora ejecutiva de ASIS, tengo a Luis Javier Pérez.
+[SPEAKER_01]  muy de cerca porque Luis Javier es el presidente de la asociación desde hace...
+[SPEAKER_01]  Tres años larguitos.
+[SPEAKER_01]  y aquí súper contenta con este programa y esta actividad que vienen desarrollando.
+[SPEAKER_01]  Puestos queridos.
+[SPEAKER_01]  miembros de redes, decanos o directores de programas cercanos con el liderazgo de Manuel.
+[SPEAKER_01]  Desde ASIS es importante siempre recordar que nos gusta...
+[SPEAKER_01]  apoyar este tipo de iniciativas y actividades de manera que...
+[SPEAKER_01]  Muchas gracias Luis Javier por estar con nosotros y al equipo por esta iniciativa tan interesante.
+[SPEAKER_06]  Muy bien.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Muchas gracias por invitarme.
+[SPEAKER_06]  Muchas gracias.
+[SPEAKER_06]  Gracias Beatriz.
+[SPEAKER_06]  Y Kevin, nuestro practicante y webmaster.
+[SPEAKER_08]  Gracias.
+[SPEAKER_08]  Saludos de siempre, Kevin. Le tocó saludar.
+[SPEAKER_08]  Bueno.
+[SPEAKER_08]  ¡Ey!
+[SPEAKER_08]  Pues con Luis Javier.
+[SPEAKER_04]  hemos hablado
+[SPEAKER_04]  un par de veces
+[SPEAKER_04]  y es chévere, es como un...
+[SPEAKER_04]  Como un...
+[SPEAKER_04]  Vivía yo como un...
+[SPEAKER_04]  un estilo de vida de un profesional al que uno quisiera aspirar siendo tan...
+[SPEAKER_04]  pues en mi caso estudiante.
+[SPEAKER_04]  Y comenzando a mí.
+[SPEAKER_04]  mi carrera profesional.
+[SPEAKER_08]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_08]  Y ya.
+[SPEAKER_08]  Gracias.
+[SPEAKER_07]  jajaja
+[SPEAKER_08]  Gracias.
+[SPEAKER_08]  Kevin, pero cuéntanos de qué universidad te llamaste. Ah, bueno, yo soy...
+[SPEAKER_04]  ¡Qué lindo!
+[SPEAKER_04]  Ah, bueno, yo soy...
+[SPEAKER_04]  Yo soy ingeniero de sistemas de la Universidad de Alcobargeta de Bolusano. Estoy haciendo mis prácticas en ASIS, ya llevo seis meses trabajando en ASIS.
+[SPEAKER_04]  como lo decía
+[SPEAKER_04]  en algún otro momento, enamorado del proceso.
+[SPEAKER_04]  Y nada, aprovechando estos espacios porque son muy...
+[SPEAKER_04]  muy
+[SPEAKER_04]  importantes y
+[SPEAKER_04]  y llenos de experiencia.
+[SPEAKER_04]  Ustedes son un...
+[SPEAKER_04]  Un...
+[SPEAKER_08]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_08]  Un libro viviente de experiencia.
+[SPEAKER_08]  Genial, ojalá disfrutes seguramente todas estas charlas.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Muy bien. Sí, así va a ser. La generación que nos va a reemplazar, ¿no?
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  Gracias, gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  O sea que hay que irse preparando.
+[SPEAKER_08]  Bueno, eh...
+[SPEAKER_06]  Bueno, eh...
+[SPEAKER_06]  jeje
+[SPEAKER_06]  Bueno, Luis Javier, un saludo, obviamente para nosotros tú eres una persona súper conocida.
+[SPEAKER_06]  Y vamos a comenzar entonces.
+[SPEAKER_06]  comenzando, lo primero es el análisis de la época en que estudiaste, es decir, enfocarse mucho en la persona, la época, del futuro hablamos ahora.
+[SPEAKER_06]  de tu colegio, porque es el comienzo, ¿no? Cuando entraste a la universidad, comienza a contarnos cómo fue esa historia tuya del inicio.
+[SPEAKER_06]  No se me adelanten mucho al futuro.
+[SPEAKER_06]  para ir avanzando en la conversación. Entonces, arranca con el comienzo de tu estudio. Perfecto, Manuel.
+[SPEAKER_05]  Perfecto, Manuel. Vamos a ver si la cronología me ayuda a no adelantarme tanto.
+[SPEAKER_05]  Pero a grosso modo puedo decir que, digamos, cuando la época en que inicié...
+[SPEAKER_05]  y
+[SPEAKER_05]  a entrar a la universidad en esta época había una serie de
+[SPEAKER_05]  digamos
+[SPEAKER_05]  prácticas para que le guiaban a uno la carrera, le hacían unos exámenes psicotécnicos y todos esos temas. Yo salí del liceo de Cervantes, todo el tiempo estuve en el liceo de Cervantes, kinder.
+[SPEAKER_05]  Primero, todo el bachillerato, todo el elemental y el bachillerato hasta entrar a la universidad.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Digamos que dentro de la vocación que yo sentía, siempre me gustaban las matemáticas.
+[SPEAKER_05]  y la física.
+[SPEAKER_05]  Siempre venía yo con ese interés.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Básicamente la situación fue que cuando yo entré a la universidad
+[SPEAKER_05]  Yo entré, fue a Ingeniería Mecánica.
+[SPEAKER_05]  Yo no conocía siquiera, a pesar de que seguramente hablaban, yo no conocía lo que era la ingeniería de sistemas.
+[SPEAKER_05]  En el primer semestre...
+[SPEAKER_05]  Claro.
+[SPEAKER_05]  La ventaja de entrar a una universidad que mezcla todas las ingenierías.
+[SPEAKER_05]  demostraron lo que era la ingeniería de sistemas.
+[SPEAKER_05]  Una amiga, un amigo, un amigo me...
+[SPEAKER_00]  Una amiga.
+[SPEAKER_05]  A mí me interesó y me empecé a...
+[SPEAKER_05]  Ah, ah.
+[SPEAKER_05]  apasionar por el tema.
+[SPEAKER_05]  Y tanto que fui como asistente a todas las clases de introducción de ingeniería de sistemas.
+[SPEAKER_05]  que las estaba guiando en esa época Ernesto Lleras.
+[SPEAKER_05]  con un libro maravilloso que era un libro que nos permitía como
+[SPEAKER_05]  entender y desarrollar problemas de toda índole. Entonces, digamos que como era una formación tan matemática.
+[SPEAKER_05]  me siguió apasionando y yo al otro semestre inmediatamente entré.
+[SPEAKER_05]  a solicitar doble titulación, doble programa paralelo, porque a mí la mecánica siempre me gustó y me sigue gustando mucho por el tema de física.
+[SPEAKER_05]  pues tanto que
+[SPEAKER_05]  Realmente en el curso del estudio en Ingeniería de Sistemas, yo mezclé mucho.
+[SPEAKER_05]  Se más.
+[SPEAKER_05]  más allá de la física que exigía la ingeniería de mecánica. Entonces tomé todas las ingenierías, todas las físicas, física 1, física 2, física 3, física 4, astrofísica.
+[SPEAKER_05]  física atómica y nuclear, laboratorio de física atómica y nuclear. Me han dicho que estuve casi siete semestres tomando...
+[SPEAKER_00]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  temas de física para complementar lo de ingeniería mecánica.
+[SPEAKER_05]  Pero paralelamente...
+[SPEAKER_05]  el tema de sistemas que ahora uno entiende que es transversal.
+[SPEAKER_05]  Todo.
+[SPEAKER_05]  Entonces, inclusive me ayudó mucho ese concepto de sistemas a ser efectivo en mis estudios, porque siempre estaba como analizando el tema de la información, etc. Entonces, básicamente el tema del trabajo.
+[SPEAKER_05]  de estudio, para mí nunca fue un trabajo, siempre fue algo...
+[SPEAKER_05]  agradable, algo en el cual
+[SPEAKER_05]  lo disfrutaba muchísimo.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  en esa época.
+[SPEAKER_05]  de la universidad, yo veía que los profesores principalmente de ingeniería de sistemas eran profesores.
+[SPEAKER_05]  muy muy versados que venían de otras universidades internacionales entonces típicamente encontramos profesores de francia y profesores de eeuu
+[SPEAKER_05]  los que más se destacaban y los que más, digamos, cooperaban y contribuían a que uno aprendiera.
+[SPEAKER_05]  temas
+[SPEAKER_05]  maravillosos.
+[SPEAKER_05]  Entonces, esa mezcla creo que hizo en mí una situación muy característica.
+[SPEAKER_05]  Porque...
+[SPEAKER_05]  para el tema del grado.
+[SPEAKER_05]  Fusioné las dos.
+[SPEAKER_05]  carreras.
+[SPEAKER_05]  e hice un trabajo de grado que era...
+[SPEAKER_05]  el primer proyecto que se hizo en la Universidad de los Andes, no sé si en Colombia, de diseño asistido por computador.
+[SPEAKER_05]  basado en tecnologías de gráficas que en esa época estaban incipientes. El primer terminal de computación gráfica que llegó a la Universidad de Los Ángeles fue utilizado para algunos proyectos, varios, entre esos el que yo desarrollé.
+[SPEAKER_05]  desarrollo del diseño gráfico de ejes mecánicos.
+[SPEAKER_08]  Luis Javier
+[SPEAKER_06]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_06]  Espera que te me graduaste muy rápido.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  ¿Cuál fue el año? Sí, el año en que iniciaste, ¿cuál fue? El año en que entraste a la universidad.
+[SPEAKER_06]  Yo me encargo del reverso, no te preocupes.
+[SPEAKER_05]  Ok.
+[SPEAKER_06]  ¿En qué año comenzaste?
+[SPEAKER_05]  pequeño
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Yo me gradué en 1975 del colegio, pero tuve un año de intercambio.
+[SPEAKER_08]  Sí.
+[SPEAKER_05]  de intercambios, o sea, que yo entré a la universidad realmente en el 76-2.
+[SPEAKER_06]  76.2, o sea, ok.
+[SPEAKER_05]  Aunque...
+[SPEAKER_06]  Ese fue el año en que tú comenzaste, ¿de acuerdo?
+[SPEAKER_06]  Antes de hablar de, digamos, vamos en el grado, pero echemos un reversito.
+[SPEAKER_06]  Entraste a la universidad, viste seguramente dos años de ingeniería, ¿todavía eran dos años iguales para las ingenierías en esa época? ¿Te tocó eso?
+[SPEAKER_05]  Cuatro semestres, cuatro o cinco semestres que tenían un...
+[SPEAKER_06] 
+[SPEAKER_06]  Claro.
+[SPEAKER_05]  Un básico. Un básico.
+[SPEAKER_06]  básico.
+[SPEAKER_06]  que lo debiste gozar porque eran matemáticas, física y humanidades.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_08]  ya
+[SPEAKER_08]  ¡Vamos!
+[SPEAKER_06]  Muy intenso en ese sentido. Entonces, en ese momento...
+[SPEAKER_08]  ¿Qué es?
+[SPEAKER_06]  ¿Qué había en la universidad? ¿Qué computador existía?
+[SPEAKER_06]  ¿Cómo era esa situación? Y tus compañeros también.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  porque eran muy nuevos todavía los sistemas.
+[SPEAKER_05]  Claro, claro. Los sistemas eran totalmente nuevos. Estaba el IBM 360.
+[SPEAKER_05]  En esa época...
+[SPEAKER_05]  que se programaba con tarjetas perforadas.
+[SPEAKER_05]  nos volvimos muy expertos en la mecanografía yo nunca
+[SPEAKER_05]  Tuve una sola clave en la cronografía, pero ahí aprendimos con las perforadoras. Madrugábamos totalmente a poder hacer los paquetes de tarjetas para los programas.
+[SPEAKER_05]  Ese computador IBM 360 que creo que fue con el que inició la carrera en los Andes.
+[SPEAKER_05]  esa parte no me la conozco bien, pero en 1972 según me cuentan algunos profesores fue cuando inició la carrera, o sea que nosotros empezamos como cuatro años después.
+[SPEAKER_05]  y
+[SPEAKER_05]  entramos en el 76, o sea, yo creo que había una...
+[SPEAKER_08]  Sí, ya había vencido.
+[SPEAKER_05]  Había una promoción que se había acabado de graduar con el 360. El 360 después lo cambiaron por un Boros.
+[SPEAKER_05]  Se cambió el centro de cómputo. Bueno, el progreso de la universidad en todos sus aspectos se veía.
+[SPEAKER_05]  Y el Boros fue el siguiente computador, un mainframe, no me acuerdo ahorita exactamente el modelo, pero era un Boros que seguía funcionando con tarjetas. Aunque después ya fue cambiado por terminales, entonces ya uno empezaba a eliminar el tema mecánico de la tarjeta por el tema de registrar el...
+[SPEAKER_05]  las líneas del programa y el borrón se programa en alcohol, por ejemplo.
+[SPEAKER_05]  mientras que el IBM se programaba en Assemble.
+[SPEAKER_05]  O...
+[SPEAKER_05]  se programaba con Fortran.
+[SPEAKER_05]  Entonces, muchas de las primeras tareas y trabajos que hicimos en el...
+[SPEAKER_05]  en el IBM 360.
+[SPEAKER_05]  fueron hechos en Fortran.
+[SPEAKER_05]  y
+[SPEAKER_05]  Me acuerdo muchísimo una...
+[SPEAKER_05]  un proyecto.
+[SPEAKER_05]  de microcomputadores que dictaba Joaquín Oramas, que en paz descanse.
+[SPEAKER_05]  gran profesor y compañero del colegio.
+[SPEAKER_05]  que
+[SPEAKER_05]  nos pidió como proyecto de ese curso.
+[SPEAKER_05]  hacer un ensamblador.
+[SPEAKER_05]  basado en un lenguaje que se llama Andes 2.5 y Andes SB. Andes 2.5 era el lenguaje de máquina que simulaba todas las principales...
+[SPEAKER_05]  y
+[SPEAKER_05]  digamos
+[SPEAKER_05]  primitivas del computador 360.
+[SPEAKER_05]  Y antes ese B era el ensamblador que lo simulaba. Todo eso se hizo en Assemble.
+[SPEAKER_05]  Entonces, eso fue algo realmente interesante.
+[SPEAKER_05]  Yo pensaría que ese trabajo de detalle con que se formaron muchos desde esa época.
+[SPEAKER_05]  nos da un...
+[SPEAKER_05]  un entendimiento muy amplio.
+[SPEAKER_05]  de qué es lo que está pasando dentro de un computador cuando está procesando. Y eso que la evolución también, después hablaremos de eso, la evolución ha llegado.
+[SPEAKER_05]  a simplificar, a volver una caja negra, negra, negra, como pasó con los carros.
+[SPEAKER_05]  El carro primero, la gente que no sabía cómo funcionaba.
+[SPEAKER_05]  Y después aprendió que con gasolina y el carburador y empezó a entenderlo. Pero ya en este momento también los nuevos carros son totalmente una caja negra. Casi que no se sabe ni cómo funciona el carburador ni nada. Y cuando están los eléctricos ya va a ser que menos.
+[SPEAKER_05]  Sí, esa interesante, esa...
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Hago esa analogía porque pienso que el tema de...
+[SPEAKER_05]  digamos, del conocimiento estructurado de capas desde la más...
+[SPEAKER_05]  detallada hasta la más abstracta es la que
+[SPEAKER_05]  considera que crea una buena capacidad de abstracción para la ingeniería de desarrollo de software y programación, porque esa es una habilidad que se desarrollaba mucho con la parte matemática.
+[SPEAKER_05]  La abstracción, cómo abstraer un problema y dividirlo en pedazos.
+[SPEAKER_05]  Cajal Negrete.
+[SPEAKER_06]  Y eso que acabas de decir establece un punto, el del borro.
+[SPEAKER_06]  porque el primero fue el 650 que era de tubos.
+[SPEAKER_06]  que era el museo, no lo conocimos prácticamente.
+[SPEAKER_08]  ¿Qué tal?
+[SPEAKER_06]  En realidad el primer...
+[SPEAKER_06]  Lo conocíamos por allá, en el guardado, arriba en la universidad.
+[SPEAKER_06]  que me acuerdo que compilaba y generaba el código ejecutable en tarjetas, era terrible.
+[SPEAKER_06]  Ese no lo conocimos.
+[SPEAKER_06]  Luego el 1130 fue el primero.
+[SPEAKER_06]  Después de eso, antes del 360.
+[SPEAKER_06]  Pero lo que acabas de decir es interesante la evolución.
+[SPEAKER_06]  Porque ya en el Borros, el sistema operacional creo que se llamaba MSP y era en Albol.
+[SPEAKER_08]  ¿Algún? ¿El déficit operacional?
+[SPEAKER_06] 
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  El lenguaje de máquina era el gol de alto nivel y ya había terminales. Digamos, ese fue otro concepto.
+[SPEAKER_06]  Entonces eso, bueno, eso te fue orientando. Y hablaste también...
+[SPEAKER_06]  de profesores franceses y profesores norteamericanos.
+[SPEAKER_06]  que también fue una época nueva en la universidad, o sea que te tocó también.
+[SPEAKER_06]  Esa época de los profesores franceses.
+[SPEAKER_05]  Y se me olvidan los alemanes, porque bueno, dentro de los temas alemanes...
+[SPEAKER_08]  Salve, mamá.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  en física estaba y que fue mi maestro en física que fue
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Claude Weiner, Franz Weiner.
+[SPEAKER_05]  Que...
+[SPEAKER_07]  Mmm.
+[SPEAKER_05]  murió en el laboratorio de física.
+[SPEAKER_05]  Atómica.
+[SPEAKER_05]  Él murió allá de un infarto en la misma universidad. Nosotros seamos monitores.
+[SPEAKER_05]  con Jorge Ortiz, otro colega del sistema muy brillante.
+[SPEAKER_05]  Y él era alemán.
+[SPEAKER_05]  Y él también nos presionó, digamos, nos guió para que utilizamos mucho la computación en todo lo que era los...
+[SPEAKER_05]  trabajos de física.
+[SPEAKER_05]  Entonces también...
+[SPEAKER_06]  Sí.
+[SPEAKER_06]  Rafa quiere decir algo.
+[SPEAKER_06]  Rafa.
+[SPEAKER_00]  Pues Luis Javier, eso está buenísimo. Pero me llama muchísimo la atención un asunto y me atrevo a preguntarlo, qué pena interrumpir que está buenísimo la narrativa.
+[SPEAKER_00]  Eh...
+[SPEAKER_00]  Estás estudiando...
+[SPEAKER_00]  en 1977 más o menos.
+[SPEAKER_00]  Estás estudiando Ingeniería Mecánica.
+[SPEAKER_00]  ¿Y te gustan las matemáticas y la física?
+[SPEAKER_00]  Y entonces...
+[SPEAKER_00]  ¿Por qué un estudiante de ingeniería mecánica...
+[SPEAKER_00]  Eh...
+[SPEAKER_00]  que le gustan las matemáticas y la física.
+[SPEAKER_00]  En lugar de decir...
+[SPEAKER_00]  Lo que me pasó a mí, por ejemplo, estudio matemáticas también, en lugar de hacer un segundo programa con matemáticas o con física que la apasionaban.
+[SPEAKER_00]  Dice...
+[SPEAKER_00]  Oye.
+[SPEAKER_00]  Me suena esto a ingeniería de sistemas.
+[SPEAKER_00]  ¿Qué es lo que atrae a ese estudiante, a ese prospecto de ingeniero mecánico hacia los sistemas y no hacia las matemáticas?
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Sí, Rafael, esa pregunta es muy importante y uno se la hacía constantemente.
+[SPEAKER_05]  La...
+[SPEAKER_05]  Yo dudé en si sería física o matemáticas o si me metía más bien en... Pero yo, digamos, no lo dudé, lo pensé.
+[SPEAKER_05]  Pero desde que entré a esa clase...
+[SPEAKER_05]  La primera clase que salí de Introducción a la Ingeniería de Sistemas dictada por Ernesto Lleras
+[SPEAKER_05]  Quedé enamorado del concepto que él estaba.
+[SPEAKER_05]  hablando de lo que era
+[SPEAKER_05]  Entender problemas y buscar soluciones múltiples a problemas. Eso era todo lo que él decía en ese momento y que con la ingeniería de sistemas uno podía abstraer. Fue algo que realmente dije, por aquí es donde...
+[SPEAKER_00]  Eso es.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Y no lo dudé, es más.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Pues ya los que me conocen saben que...
+[SPEAKER_05]  Después de haber terminado ingeniería de sistemas, aunque he desempeñado temas de ingeniería mecánica, proporcionalmente a mi dedicación profesional es menor.
+[SPEAKER_05]  Yo diría que un 20% en mecánica.
+[SPEAKER_05]  y el resto del tiempo profesional dedicado al área de sistemas. Sin embargo, siempre trato de unir las dos cosas.
+[SPEAKER_05]  Y me ha gustado muchísimo ese tema porque...
+[SPEAKER_05]  Es interesante.
+[SPEAKER_00]  Entonces, en últimas...
+[SPEAKER_00]  ¿Cuál fue el motivo? Si entendí bien.
+[SPEAKER_00]  Es eso que de tantas maneras reclamamos en ingeniería de sistemas.
+[SPEAKER_00]  y en nuestra disciplina, es que a ese muchacho...
+[SPEAKER_00]  También hubo un rol model, alguien que los educó.
+[SPEAKER_00]  entre sus profesores y le pareció el discurso tal que...
+[SPEAKER_00]  Yo quiero esto para mí. Qué bien. Gracias.
+[SPEAKER_05]  Si bien Ernesto Lleras en esa clase, porque la introducción tenía una característica.
+[SPEAKER_00]  bien
+[SPEAKER_05]  que bien la coordinaba un profesor, pero invitaba a muchos profesores de diferentes lados. Entonces eso también fue maravilloso, esa diversidad de opiniones, porque invitaba a una persona de ingeniería eléctrica.
+[SPEAKER_05]  donde hablaban de cómo funcionaba el sistema eléctrico, los transistores, la evolución de...
+[SPEAKER_05]  Eso también me apasionó. Toda esa mezcla fue la que me unió mucho a tomar la decisión de hacer las dos carreras.
+[SPEAKER_08]  Gracias.
+[SPEAKER_06]  Bien.
+[SPEAKER_06]  Bueno, eso va terminando en el programa Mi Víos de televisión que hicimos sobre los pioneros estar en las tolleras.
+[SPEAKER_06]  y su orientación, que yo creo que toca mucho con Javier.
+[SPEAKER_06]  sistemas y sociedad.
+[SPEAKER_06]  Él es un hombre que habla de la sociedad y la influencia de todo esto en la sociedad, en Néstor Lleras.
+[SPEAKER_06]  Y esto es importante porque en cada una de las charlas...
+[SPEAKER_06]  Hemos tratado de mencionar esos profesores.
+[SPEAKER_06]  influyentes que siempre recordaremos, cada uno tiene su modelo.
+[SPEAKER_06]  Y bueno, base en ese tema de que con Ernesto te ilusionaste con la ingeniería de sistemas.
+[SPEAKER_06]  Entonces, sigue el relato de la universidad, digamos, asignaturas, materias.
+[SPEAKER_06]  ¿Qué puedes decir de esas épocas?
+[SPEAKER_05]  Soy un caso un poco atípico porque me tocaba tomar de los dos lados, a pesar de que el ciclo básico era muy similar.
+[SPEAKER_05]  yo siempre me metía más a hacer cosas de sistemas. Entonces, por ejemplo, además del tema de la introducción.
+[SPEAKER_05]  que después no me lo valieron, pero la introducción de mecánica sí vio.
+[SPEAKER_05]  entré a mirar temas relacionados, por ejemplo, con todo lo que era la lógica matemática, el tema de circuitos de ingeniería eléctrica, que está dictado por Villalobos.
+[SPEAKER_05]  Villalobos, pero no es Jorge Villalobos, sino otro Villalobos, ahorita no me acuerdo el nombre de él.
+[SPEAKER_05]  donde también un profesor extraordinario que supo comunicar cómo se estructuraban los computadores físicamente.
+[SPEAKER_05]  Entonces...
+[SPEAKER_05]  Yo me metí en todas las posibilidades porque mi carrera formal era ingeniería mecánica.
+[SPEAKER_05]  y la estaba siguiendo al pie de la letra, y tomaba dos materias adicionales de sistemas como para adelantar.
+[SPEAKER_05]  Hay una anécdota interesante que me gustaría contar, pues, Olga Lucía Giraldo, en esa época fue profesora mía.
+[SPEAKER_05]  de
+[SPEAKER_05]  de
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Así que, edad.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  un tema
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  de
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Se me escapa, digamos, el...
+[SPEAKER_05]  Ah, era sobre temas de software también.
+[SPEAKER_05]  y
+[SPEAKER_05]  No pude, ella me dijo que yo mientras no fuera aprobado, no tuviera aprobado las dos cosas al tiempo, las dos carreras al tiempo, no podía tomar el curso de ella.
+[SPEAKER_05]  Entonces, como que no... Y bueno, esa fue una anécdota que finalmente salió positivamente y me permitieron seguir entrando en esa clase y finalmente se formalizó.
+[SPEAKER_05]  esos créditos.
+[SPEAKER_05]  Entonces fueron...
+[SPEAKER_05]  Situaciones y anécdotas personales interesantes de cuando en la universidad, que tampoco estaba muy acostumbrada a tener un estudiante con dobles. Ahorita es muy común, pero en esa época no era tan común y había muchas reglas y cosas que se dificultaban.
+[SPEAKER_05]  Entonces...
+[SPEAKER_05]  Ese fue el...
+[SPEAKER_08]  Pero estudiaste ambas carreras.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Sí, yo estudié ambas carreras. Interesantísimo.
+[SPEAKER_08]  ¡Sí!
+[SPEAKER_05]  En paralelo, en total me demoré dos semestres más, un año más.
+[SPEAKER_06]  también
+[SPEAKER_08]  Bueno.
+[SPEAKER_06]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Bueno.
+[SPEAKER_06]  Bueno, sigue adelante.
+[SPEAKER_06]  Ahí, ahí, ahí. ¿Ahí?
+[SPEAKER_05]  Hay otros cursos que me acuerdo muchísimo.
+[SPEAKER_05]  análisis numérico.
+[SPEAKER_05]  Una...
+[SPEAKER_05]  Una materia.
+[SPEAKER_05]  donde le enseñaban a uno todo lo que implica el análisis de grandes volúmenes de datos.
+[SPEAKER_05]  Se habla de Big Data, ¿verdad? En esa época cuando uno veía esos algoritmos para poder...
+[SPEAKER_05]  calcular estadísticas y promedios, ahí empezaron a visualizar.
+[SPEAKER_05]  el poder de la computación en ese tipo de cosas.
+[SPEAKER_05]  Eso fue algo maravilloso. Me acuerdo mucho también de una materia que tomé.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  con Klaus Mayer de Ingeniería Eléctrica.
+[SPEAKER_00]  Vaya.
+[SPEAKER_05]  que era la computación analógica.
+[SPEAKER_05]  Entonces, cuando se habla del origen de la computación, todo el mundo habla de la computación medio digital.
+[SPEAKER_05]  Aunque todo viene realmente...
+[SPEAKER_05]  en cierta forma analógica, ¿dónde se divide lo analógico de lo digital?
+[SPEAKER_05]  Es simplemente un nivel arbitrario que uno le pone al nivel de voltaje y ya deja de ser analógico.
+[SPEAKER_05]  Pero en fondo...
+[SPEAKER_05]  de toda operación y ahorita estamos volviendo a eso nuevamente con la computación cuántica.
+[SPEAKER_05]  La computación cuántica.
+[SPEAKER_05]  ya no tiene los bits, tiene los qubits, y los qubits realmente son estados...
+[SPEAKER_05]  amplios, múltiples estados entonces volvemos a esa historia de la computación analógica
+[SPEAKER_05]  Ese curso para mí también me marcó algo importantísimo y es entender todo el tema de compuertas lógicas para poder generar funciones y eso se usaba mucho en los modelos.
+[SPEAKER_05]  que simulaban
+[SPEAKER_05]  digamos, procesos.
+[SPEAKER_05]  procesos de la naturaleza. Muy interesante. Entonces, ese fue otro curso valiosísimo para una formación integral de lo que era la aplicación de la computación en la vida cotidiana.
+[SPEAKER_05]  Otro curso que tomé...
+[SPEAKER_05]  Como...
+[SPEAKER_05]  Eh...
+[SPEAKER_05]  totalmente opcional.
+[SPEAKER_05]  en unas vacaciones de un profesor alemán, que ese sí se llamaba Klaus Marlena.
+[SPEAKER_05]  el vino
+[SPEAKER_05]  invitado por Sergio Fajardo.
+[SPEAKER_05]  que fue el profesor mío de lógica.
+[SPEAKER_05]  Vino esas vacaciones.
+[SPEAKER_05]  a editar un curso que se llama...
+[SPEAKER_05]  algoritmos probabilísticos.
+[SPEAKER_05]  ese proceso de entender que los algoritmos...
+[SPEAKER_05]  Sí, en teoría el computador siempre da una sola respuesta y debe ser esa y no otra.
+[SPEAKER_07]  y
+[SPEAKER_05]  Pero cuando...
+[SPEAKER_05]  Entra el concepto de la probabilidad en la creación de los algoritmos.
+[SPEAKER_05]  Esto es algo increíble. Y vuelvo al tema de la computación cuántica.
+[SPEAKER_00]  increíble
+[SPEAKER_05]  en la computación cuántica en este momento, tiene ese...
+[SPEAKER_05]  concepto de que
+[SPEAKER_05]  el resultado
+[SPEAKER_05]  No es único, pueden ser múltiples resultados y dependiendo de algunas funciones de valoración, se puede saber cuál es el resultado más adecuado para resolver un problema.
+[SPEAKER_05]  Entonces ese fue otro curso que impactó muchísimo.
+[SPEAKER_05]  Eh...
+[SPEAKER_05]  digamos, mi interés por la computación. Y eso ha sido curso tras curso tras curso, porque así como la introducción de sistemas me inició, cada semestre yo tenía algo que me impulsaba, me impulsaba más. Por ejemplo, después cuando llegó Jorge Phillips de su posgrado de Stanford.
+[SPEAKER_05]  También fue...
+[SPEAKER_05]  Un maestro para mí.
+[SPEAKER_05]  donde
+[SPEAKER_05]  se mostró lo que era la verdadera computación. ¿Por qué?
+[SPEAKER_05]  En la época que yo estudié...
+[SPEAKER_05]  Había una cierta... debate, una cierta... digamos...
+[SPEAKER_05]  Sí.
+[SPEAKER_05]  como controversia de que si la universidad debía hacer ingeniería de sistemas, todo el tema de las cajas.
+[SPEAKER_05]  y no de computación o sistemas y computación o solo computación. Esa era en la época que yo estuve, digamos, en los últimos semestres.
+[SPEAKER_05]  Hubo inclusive choques entre profesores.
+[SPEAKER_05]  que abogaban de que la ingeniería de sistemas de los Andes debería concentrarse exclusivamente en temas...
+[SPEAKER_05]  de cajas del sistema, o sea, lo que es entrada, proceso y salida.
+[SPEAKER_05]  mientras que las demás, la corriente decía no, hay que profundizar en cómo se hace.
+[SPEAKER_05]  la caja blanca, o sea, ¿qué pones tú para que eso funcione de esa manera? O sea, el software.
+[SPEAKER_05]  y las estructuras.
+[SPEAKER_05]  Ese dilema...
+[SPEAKER_05]  fue muy interesante para la formación de la época.
+[SPEAKER_05]  y Jorge y Roberto Pardo.
+[SPEAKER_05]  Yo creo que eran como dos corrientes. Una, la corriente...
+[SPEAKER_05]  de sistemas que venían un poco influenciada por los profesores de ingeniería industrial.
+[SPEAKER_05] 
+[SPEAKER_05]  que es muy valioso, obviamente.
+[SPEAKER_05]  pero que querían o que decían que eso era lo más importante.
+[SPEAKER_05]  Mientras que estaban los demás que decían, eso es importante, pero es más importante cómo se hace el software, cómo se pone a funcionar esa caja negra.
+[SPEAKER_05]  Y bueno, ahí eso fue muy interesante. Mi posición actual es que debe ser más el tema integrado entre la parte de computación y la parte de sistemas. El concepto de sistemas es valiosísimo.
+[SPEAKER_05]  Pero si no sabes qué está pasando adentro, también...
+[SPEAKER_06]  Bien.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  Mira, sin buscarlo, estás dando un punto importantísimo de la ingeniería.
+[SPEAKER_06]  Javier, porque tú sabes que este...
+[SPEAKER_06]  Esta iniciativa nace de RAIS.
+[SPEAKER_06]  la red de programas de ingeniería de sistemas, que somos 100 universidades.
+[SPEAKER_06]  que siempre estamos discutiendo hacia dónde va la ingeniería.
+[SPEAKER_06]  Aquí está estableciendo una diferencia.
+[SPEAKER_06]  entre una gran preocupación hoy en día de la misma tecnología.
+[SPEAKER_06]  O sea, que nos llegan los temas que nos llegan de tecnología.
+[SPEAKER_06]  se vuelven una preocupación.
+[SPEAKER_06]  como central de la formación.
+[SPEAKER_06]  Y tú nos estás hablando de un momento en el conocimiento integral es lo que formaba parte de esa preparación como ingenieros.
+[SPEAKER_06]  Habla de la física, de la matemática, habla de todo lo que nos has hablado.
+[SPEAKER_06]  sin que se estuviera hablando de cuál es la tecnología en sí que existía en el momento, lo cual es muy valioso.
+[SPEAKER_06]  y aporta mucho a estas discusiones que tenemos nosotros.
+[SPEAKER_06]  porque hoy en día es un poco...
+[SPEAKER_06]  pragmático, digamos, el hecho de las tecnologías.
+[SPEAKER_06]  Eso va muy bien.
+[SPEAKER_06]  Adelante, entonces, Luis Javier. Vamos por muy buen camino.
+[SPEAKER_06]  Bueno, me alegro. Que se trata de esta charla.
+[SPEAKER_05]  Bueno, me alegro.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Esto.
+[SPEAKER_06]  Esto...
+[SPEAKER_05]  Me ha parecido muy valioso que yo me acuerde de las materias y sobre las materias hago una evolución. Mira, hay otra materia muy importante que tomamos.
+[SPEAKER_05]  que era sistemas expertos.
+[SPEAKER_05]  sistemas expertos
+[SPEAKER_05]  Y casi que en esa época lo que pasaba era que...
+[SPEAKER_05]  y
+[SPEAKER_05]  se identificaba la manera de hacer un problema o desarrollar un programa con el lenguaje.
+[SPEAKER_05]  Entonces...
+[SPEAKER_05]  en estructuras de lenguajes y en herramientas de lenguajes y lenguajes de programación del cual yo fui profesor después de graduarme.
+[SPEAKER_05]  Generamos una...
+[SPEAKER_05]  digamos una clasificación, unas características que permitían identificar los lenguajes según el...
+[SPEAKER_05]  tipo o el paradigma de programación.
+[SPEAKER_05]  Entonces, por ejemplo...
+[SPEAKER_05]  Eh...
+[SPEAKER_05]  Ahorita se habla de la inteligencia artificial. La inteligencia artificial, maravilloso, y se asocia mucho Python a la inteligencia artificial.
+[SPEAKER_05]  Pero fíjate que desde esa época...
+[SPEAKER_05]  Minsk en MIT había creado Lisp.
+[SPEAKER_05]  Y yo tomé un curso de listas.
+[SPEAKER_05]  que era donde se veían todos esos conceptos de como el autoaprendizaje que podía llegar a crear un programa a sí mismo y crear un programa que generara.
+[SPEAKER_05]  otro programa de él.
+[SPEAKER_05]  Eso se estaba viendo desde esa época.
+[SPEAKER_05]  Y pues...
+[SPEAKER_05]  Digamos que no evolucionó tan rápidamente, pero hay unos conceptos muy básicos ahí. Lo mismo en los sistemas.
+[SPEAKER_05]  expertos, los sistemas expertos que eran en esa época.
+[SPEAKER_05]  eran desarrollados con Prolog.
+[SPEAKER_05]  que era otro lenguaje.
+[SPEAKER_05]  que era programación lógica.
+[SPEAKER_05]  ¿Y qué pasaba? Eran reglas y los programas empezaban a aplicar las reglas según ciertos conceptos.
+[SPEAKER_05]  que eso es
+[SPEAKER_05]  También como la primera parte de una evolución hacia lo que hoy se denomina inteligencia artificial, que bueno, eso habría mucho que hablar al tema.
+[SPEAKER_00]  Hoy se...
+[SPEAKER_05]  Pero esos dos programas, esos dos, digamos, cursos que tomé en cuanto a esos tipos de lenguajes fueron muy, muy valiosos.
+[SPEAKER_05]  en la misma estructuración de los lenguajes que abstraían el problema como módula, pascal.
+[SPEAKER_05]  y todos los demás también crean otro paradigma de desarrollo.
+[SPEAKER_05]  Me acuerdo que Jorge Phillips nos metió en un grupo.
+[SPEAKER_05]  que se llama
+[SPEAKER_05]  FIG, Ford's Interest Group, donde Ford es otro lenguaje que es similar a VIST y que permitía crear una serie de...
+[SPEAKER_05]  de soluciones a problemas.
+[SPEAKER_05]  que podríamos decir que era de inteligencia artificial de esa época.
+[SPEAKER_05]  Entonces...
+[SPEAKER_05]  También una cosa que quiero dejar es que si bien en este momento muchas personas hablamos de cosas y se vuelven como...
+[SPEAKER_05]  y
+[SPEAKER_05]  modas o formas de decir
+[SPEAKER_00]  Hola.
+[SPEAKER_05]  Desde esa época en que nosotros estudiamos estaban, estaban o incipientes o estaban en diferentes estados de evolución, pero las bases del conocimiento ya estaban formándose en ese momento, como los que acabo de decir de Ford, de Liszt, de Prologue, de todos esos lenguajes que eran las bases para lo que después se derivó en otras cosas. Pero aún más el tema en física de lo que era la...
+[SPEAKER_05]  la identificación por radiofrecuencia, el RFID, Radio Frequency Identification, que fue después la base de todo el desarrollo del Internet de las Cosas.
+[SPEAKER_05]  Eso ya se estaba viendo, por lo menos en eléctrica, se veían ese tipo de conceptos.
+[SPEAKER_05]  de cómo podías tú identificar y el desarrollo de Bluetooth y todo eso venía ya estructurado con los conceptos de las redes. Otro tema vital que vivimos nosotros.
+[SPEAKER_05]  fue el desarrollo de Internet, porque el desarrollo de Internet sí que lo vivimos nosotros. Desde el mainframe...
+[SPEAKER_05]  al computador personal y a la red, al Internet.
+[SPEAKER_05]  Eso fue justo en ese span de tiempo donde nosotros estudiamos y en los primeros semestres después de graduados.
+[SPEAKER_05]  donde
+[SPEAKER_05]  precisamente con el Politécnico Gran Colombiano.
+[SPEAKER_05]  yo les ayudé a desarrollar el...
+[SPEAKER_05]  el currículum
+[SPEAKER_05]  para el manejo de un programa de telemática, donde la base era...
+[SPEAKER_05]  cómo entender
+[SPEAKER_05]  la creación de las redes de computador.
+[SPEAKER_05]  cómo se comunicaban los computadores.
+[SPEAKER_05]  que era un módem.
+[SPEAKER_05]  cómo eran los diferentes niveles de las capas de comunicación, la capa física, la capa, bueno, el modelo de capas de redes, que después fue básico, del cual tuvimos profesores excelentes, entre ellos Roberto Pardo, entre ellos...
+[SPEAKER_00]  No.
+[SPEAKER_00] 
+[SPEAKER_05]  Una persona eléctrica ahorita, Fajardo, que no me acuerdo ahorita el nombre, no es Sergio.
+[SPEAKER_05]  Ese fue el proceso de mi ideológica.
+[SPEAKER_05]  Margarita Mesa fue profesora mía de álgebra abstracta.
+[SPEAKER_05]  Álgebra Lineal, también por Sergio Fajardo. Entonces, digamos, todos esos conceptos de matemáticas se evolucionaron muy bien y eran la base para la creación de...
+[SPEAKER_05]  de todos estos nuevos conceptos.
+[SPEAKER_06]  En ese momento, los compañeros, ¿te acuerdas más o menos cuántos compañeros tenía de estudio? Hay unas épocas que tienen números más o menos precisos.
+[SPEAKER_05]  nosotros nos actuamos
+[SPEAKER_05]  40 y pico de personas, finalmente.
+[SPEAKER_06]  Ya habías crecido.
+[SPEAKER_05]  Yo gradué en el 82 de Ingeniería Mecánica, en el 82.
+[SPEAKER_06]  Yo creo que...
+[SPEAKER_05]  Bueno, realmente terminé en el 81 de diciembre y me grabé en el 82 de febrero.
+[SPEAKER_05]  Éramos cuarenta y pico. Y luego en septiembre de ese mismo año, del 82, me gradué de sistemas con cuarenta y pico también. Éramos como cuarenta y pico en ingeniería. ¿Y recuerdas?
+[SPEAKER_00]  ¿Y recuerdas más o menos cuántos compañeros tenías en esos primeros semestres? Porque se gradúan, digamos, cuarenta y tantos ingenieros de sistemas.
+[SPEAKER_00]  Pero ¿cuántos habían empezado más o menos?
+[SPEAKER_00]  cuando cuando tú ibas de asistente a estos cursos
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  distancia
+[SPEAKER_05]  Por el curso de introducción, yo creo que era casi el doble.
+[SPEAKER_05]  O sea, básicamente...
+[SPEAKER_05]  cursos de introducción que había en varias secciones, había por lo menos dos o tres secciones de 30 o dos de 40 o tres de 30, más o menos entre 80 y...
+[SPEAKER_05]  más o menos de los que ingresamos en esa época alta.
+[SPEAKER_05]  Si mal no, está mi memoria.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  Gracias a ustedes.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Ya había crecido. La época anterior, la época nuestra del 72, éramos 10.
+[SPEAKER_06]  Diez que comenzamos y diez que terminamos. Era un poco raro, ¿no?
+[SPEAKER_06]  Años 72, digamos, pero ya 80.
+[SPEAKER_00] 
+[SPEAKER_06]  Ya la ingeniería comenzaba a verse y tal es para establecer una línea de tiempo año 82 que te gradaste.
+[SPEAKER_06]  en el hoy
+[SPEAKER_06]  Los mainframes
+[SPEAKER_06]  Bueno, siempre han existido, pero su auge...
+[SPEAKER_06]  Estaba terminando, al final, entre el 79, 78, en el 80 llegaron los microcomputadores.
+[SPEAKER_06]  y llegó el IBM PC en ese año.
+[SPEAKER_06]  Y ya en el 82...
+[SPEAKER_06]  había redes locales y ciertas cosas de tecnología, ¿cierto? Ya había avanzado un poco eso, ¿no?
+[SPEAKER_06]  Y seguías con el Borros, obviamente seguían con el Borros en la Universidad de Los Ángeles.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Está bien.
+[SPEAKER_05]  Sí.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Lo has dicho perfectamente, entre el 76 y el 82 pasaron demasiadas cosas. Bueno, en dos años pasan peor. No, no.
+[SPEAKER_08]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  No, no, en cada una semana, en una semana pasa de todo, ¿no? Esos seis años.
+[SPEAKER_05]  Eso sí, chavales.
+[SPEAKER_05]  Se cambió el mainframe por el microcomputador. Me acuerdo perfectamente de ti, Manuel.
+[SPEAKER_06]  Cambio del medio.
+[SPEAKER_05]  Cuando tú representabas Radio Shack,
+[SPEAKER_05]  y
+[SPEAKER_05]  y vendíamos y vendía los Radeshacks. Yo iba e hicimos algún proyecto, eso fue tal vez recién graduado, pero estaba yo todavía en los últimos semestres.
+[SPEAKER_05]  Ya estaban entrando los microcomputadores, me acuerdo de Rayshack perfectamente, con sus disquetes de...
+[SPEAKER_05]  Sí.
+[SPEAKER_06]  Sí.
+[SPEAKER_05]  de 8 pulgadas.
+[SPEAKER_05]  Una cosa...
+[SPEAKER_06]  Al comienzo no había ni disquets.
+[SPEAKER_06]  Pero se inicia.
+[SPEAKER_05]  Pero...
+[SPEAKER_06]  Se inició la época, sí. Se inició la época de programación.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  ¿Pero si nació la época?
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  lo que te contaba para la tesis, que fue el primer terminal gráfico de Hewlett Packard, un terminal gráfico
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  y
+[SPEAKER_08]  y
+[SPEAKER_05]  que estaba ahí, imagínate que ese no tenía disquetes, todos los archivos se grababan en unas cintas.
+[SPEAKER_05]  Entonces, daban una hora de trabajo máximo porque ese era lo más usado, todo el mundo quería usarlo, ver cómo se salían las gráficas.
+[SPEAKER_05]  Y tenía una hora de la cual yo me gastaba casi.
+[SPEAKER_05]  10 minutos.
+[SPEAKER_05]  cargando el programa a memoria o cinco minutos.
+[SPEAKER_05]  y cinco minutos para grabar lo que había hecho.
+[SPEAKER_05]  Así es.
+[SPEAKER_08]  Así es.
+[SPEAKER_05]  Ahí por ahí tengo todas las cintas.
+[SPEAKER_05]  Que eso ya no sirve para nada porque pues imagínate. Muy ciego.
+[SPEAKER_08]  No sé, no sé.
+[SPEAKER_08]  Me chueco.
+[SPEAKER_05]  Ese programa fue hecho en Basic, África.
+[SPEAKER_05]  Es una cosa increíble. Yo me pongo a pensar, con un terminal de 32K de memoria, se hizo lo que se hizo.
+[SPEAKER_08]  ¡Gracias!
+[SPEAKER_05]  Es algo impresionante realmente, viendo lo que hoy hay.
+[SPEAKER_06]  Así era. Yo estaba programando con Iván Obregón Sanín un software de asignación de tripulantes a los vuelos de Braniff.
+[SPEAKER_06]  Vía satélite, año 79.
+[SPEAKER_06]  Y había comprado un micro y Iván dijo, ¿qué es eso? Le dije, se llama micro.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  ¿No?
+[SPEAKER_06]  Sí.
+[SPEAKER_06]  Y dijo, como este dato es de algoritmo, no de grandes datos, hagámoslo en el micro.
+[SPEAKER_06]  Y programamos el sistema en el micro en BASIC.
+[SPEAKER_06]  con una cosa relativamente primitiva.
+[SPEAKER_06]  Y ahí fue donde comenzó el interés en el caso mío de los micros, porque en el 80 comenzamos con Radio Shack.
+[SPEAKER_06]  Pero digamos, esa época, 80...
+[SPEAKER_06]  Comienzan los micros con software.
+[SPEAKER_06]  Es muy importante que todos hemos integrado alrededor, no de la venta del hack, sino del software y de la tecnología.
+[SPEAKER_06]  Y bueno, va a ser en esa época donde ya había micros en los Andes, obviamente en el año 81, 82 ya.
+[SPEAKER_06]  Ya, ya. Los Apple y todo eso, ¿no?
+[SPEAKER_05]  Ya, ya. Y todo eso.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  también
+[SPEAKER_05]  de acuerdo de quien lo representaba aquí, una empresa que se llamaba CDM, Comercializadoras Manzanas.
+[SPEAKER_05]  dirigida por Tomás Miel.
+[SPEAKER_05]  que no es ingeniero de sistemas, pero...
+[SPEAKER_08]  Tomás Miel, sí.
+[SPEAKER_05]  comerciante.
+[SPEAKER_05]  Bueno, muy interesante todo este tema. Me has hecho acordar cuando hablamos de Basic, de un tema importante que tiene que ver también con la influencia que yo tengo de parte de mi mamá, de mi madre, que es, ella es artista.
+[SPEAKER_05]  Ella es...
+[SPEAKER_05]  de diseñadora textil.
+[SPEAKER_05]  Todavía vive, cumplió 90 años hace poco.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  En la época en que yo me estaba graduando, tomé un curso con José Tiberio Hernández de computación gráfica. Él acababa de llegar de Grenoble.
+[SPEAKER_05]  o de Lid, el estudio fue en Lid.
+[SPEAKER_05]  Y dio un curso, el que yo estaba esperando que llegara a que era de computación gráfica antes de mi graduación y eso me llevó a muchas cosas.
+[SPEAKER_05]  Entre esos a escribir en BASIC.
+[SPEAKER_05]  un primer programa de diseño textil.
+[SPEAKER_05]  que
+[SPEAKER_05]  Tú le das los parámetros de qué tanto era la trama y la urdimbre, los colores, los gruesos.
+[SPEAKER_05]  Y él tejía sobre la pantalla.
+[SPEAKER_05]  despacitico, porque era un loop
+[SPEAKER_05]  Iba como tejiendo y llenaba la pantalla de cómo se vería una tela con esas características de trama y urdimbre.
+[SPEAKER_05]  y eso lo presentó mi mamá yo con mi mamá en una conferencia que ella hizo
+[SPEAKER_05]  en la cámara de comercio.
+[SPEAKER_05]  Hace rato, por ahí debe haber algún artículo del tiempo de 1982 sobre ese tema.
+[SPEAKER_00]  Me gusta mucho tu anécdota y perdón.
+[SPEAKER_00]  Por meterme porque es que...
+[SPEAKER_00]  ese programa
+[SPEAKER_00]  Exactamente eso.
+[SPEAKER_00]  Yo lo utilicé para una...
+[SPEAKER_00]  para un trabajo que hice justamente cuando era estudiante.
+[SPEAKER_00]  porque
+[SPEAKER_00]  quería
+[SPEAKER_00]  Una pregunta que tenía Tiberio.
+[SPEAKER_00]  era dado que esas telas que se pintaban de esa manera
+[SPEAKER_00]  Pues la Tera tiene dirección.
+[SPEAKER_00]  Entonces...
+[SPEAKER_00]  ¿Cómo se debería cortar una tela de esas?
+[SPEAKER_00]  para hacer diseños.
+[SPEAKER_00]  Entonces yo hice un programa que era dada la tela, eso lo hice en Pascal.
+[SPEAKER_00]  la tela diseñada por tu programa no sabía que era tuyo
+[SPEAKER_05]  No, no, no, no.
+[SPEAKER_05]  Ese fue un primer programa pionero de lo que después José Tiberio desarrolló, que se llamaba Excel.
+[SPEAKER_05]  Él desarrolló con...
+[SPEAKER_05]  Ay, ¿con quién fue? No me acuerdo ahorita bien.
+[SPEAKER_05]  Lidia.
+[SPEAKER_08]  Sí.
+[SPEAKER_05]  Sí.
+[SPEAKER_05]  Ellos tenían Lidia y el esposo, que en paz descanse también.
+[SPEAKER_05]  hicieron una empresa y desarrollaban
+[SPEAKER_05]  software y ellos
+[SPEAKER_05]  con base en lo que yo les mostré que yo había hecho por puro hobby, porque eso nunca se hizo nada.
+[SPEAKER_05]  en basic
+[SPEAKER_05]  Ellos desarrollaron el Excel.
+[SPEAKER_05]  Pero no era el mismo que estamos. Era diferente.
+[SPEAKER_00]  ¿Qué pasa?
+[SPEAKER_00]  Yo...
+[SPEAKER_00]  De pronto, entonces no era el mismo.
+[SPEAKER_00]  Pero yo recuerdo que...
+[SPEAKER_00]  que la entrada para ese...
+[SPEAKER_00]  Para ese proyectico que yo hice también, no era de ninguna materia ni nada parecido.
+[SPEAKER_00]  Era justamente un programa empascado.
+[SPEAKER_00]  Perdón, en BASIC.
+[SPEAKER_00]  que pintaba de esa manera.
+[SPEAKER_00]  Y después yo le añadí una parte que uno le...
+[SPEAKER_00]  Leía los moldes.
+[SPEAKER_00]  Y decía cómo había que cortar.
+[SPEAKER_00]  para desperdiciar la menor cantidad de esa tela y respetando ese urdimbre que...
+[SPEAKER_00]  ¿Qué? ¿Qué? ¿Qué?
+[SPEAKER_05]  Perfecto.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Me acuerdo perfectamente.
+[SPEAKER_05]  un hito
+[SPEAKER_05]  En esa época con José Tiberio tuvimos o hemos tenido muy buena cercanía a muchos temas.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  incluyendo este.
+[SPEAKER_05]  Y él también me...
+[SPEAKER_05]  Me enamoró de la computación gráfica.
+[SPEAKER_05]  Tanto que después de que me gradué, bueno, no sé si ya entramos, ¿nos grabamos o seguimos hablando en la universidad?
+[SPEAKER_06]  No, ya te vas a ir graduando, pero acá les voy a dar un punto.
+[SPEAKER_05]  ¿Solamente por un poco?
+[SPEAKER_06]  Ya te estás graduando, pero acá hay que tocar un punto vital que es la parte de computación gráfica.
+[SPEAKER_05]  Perdón.
+[SPEAKER_06]  que es uno de tus grandes temas ya como profesional, o sea que vas por el camino. Dale con lo que estás hablando y tal vez Rafa quería decir algo.
+[SPEAKER_00]  Sí, yo quería hacer solamente una pregunta antes de que te gradúes.
+[SPEAKER_00]  Porque siempre nosotros en estos espacios y por la disciplina hablamos de qué estudiábamos, qué materias veíamos, qué vínculos había con otras cosas.
+[SPEAKER_00]  Pero esos estudiantes...
+[SPEAKER_00]  esos estudiantes, ¿qué otras cosas hacían?
+[SPEAKER_00]  ¿Qué?
+[SPEAKER_00]  ¿Cómo era la rumba? ¿Cómo era la vida universitaria en ese momento? Que eso afectaba directamente.
+[SPEAKER_00]  ese desarrollo de la ingeniería.
+[SPEAKER_00]  Había muchas mujeres en ingeniería, éramos considerados bichos raros de alguna manera.
+[SPEAKER_00]  O...
+[SPEAKER_00]  ¿Cómo te fue con eso? ¿Cómo era esa vida universitaria?
+[SPEAKER_05]  Para mí, la red social de la universidad estaba en lo que se llamaba los perros.
+[SPEAKER_05]  El carrito de perros. Ahí era la red social. Ahí uno se encontraba con todos los amigos y amigas.
+[SPEAKER_05]  Y ahora que lo mencionas, sí, había pocas personas, pocas mujeres en ingenierías en general.
+[SPEAKER_05]  En ingeniería mecánica me acuerdo dos.
+[SPEAKER_05]  Dora Turk
+[SPEAKER_05]  Bueno, había uno más, me acuerdo dos principalmente que eran muy sobresalientes.
+[SPEAKER_05]  Pero digamos, eran poquiticas las de ingeniería mecánica. Había más en ingeniería de sistemas, de por sí mis mejores amigos y colegas son mujeres, de por sí Marta Elena Vargas, con la que desarrollamos después el programa que seguramente voy a tener que mencionar porque tiene que ver con la parte gráfica.
+[SPEAKER_05]  y socia mía de una empresa que arrancamos que se llamaba Progresión.
+[SPEAKER_05]  Sara Cristina Mantilla, que también trabajó. Carolina Rubio, que también trabajó.
+[SPEAKER_05]  en esa empresa y éramos...
+[SPEAKER_05]  Sí, había más mujeres que...
+[SPEAKER_05]  Y en los perros, digamos, la rumba era como la misma que uno tenía cuando se graduó del colegio.
+[SPEAKER_00]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  que la fiesta aquí, que la fiesta... Yo nunca he sido muy rumbero, la verdad.
+[SPEAKER_05]  Me encanta socializar y todo, pero me gustan más las reuniones pequeñas que esas multitudinarias. Pero sí, hicimos muy buenos amigos y amigas en la universidad.
+[SPEAKER_05]  De forma que se trabajó bastante.
+[SPEAKER_05]  Pues...
+[SPEAKER_05]  Para algo personal, yo durante la universidad tuve solo una novia.
+[SPEAKER_05]  que estuve a punto de casarme con ella, también ingeniera del sistema, Santa María Lamos.
+[SPEAKER_00] 
+[SPEAKER_05]  que
+[SPEAKER_05]  que fue mi primera novia, casi desde el colegio, entonces por eso también estaba muy enfocado más bien como estar con el grupo de ella y el mío de compañeros del colegio, inclusive menos de la universidad.
+[SPEAKER_00]  primera novia
+[SPEAKER_08]  menos de los...
+[SPEAKER_08]  Muy bien.
+[SPEAKER_06]  Gracias.
+[SPEAKER_08]  Bueno, entonces vamos.
+[SPEAKER_06]  Ustedes vamos por el interés de la mutación gráfica que estás comenzando.
+[SPEAKER_06]  Es un buen camino, ¿no? Dale, dale, porque ya vamos para el grado.
+[SPEAKER_08]  Gracias a mí.
+[SPEAKER_06]  No, ya me gradué.
+[SPEAKER_08]  No, ya me gradué.
+[SPEAKER_06]  Ya te graduaste, sí.
+[SPEAKER_05]  Ya me iba a ver eso.
+[SPEAKER_08]  Meіn remember.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Después de tantos cursos y cosas, de repente me ocurre algo, me acuerdo de algo interesante.
+[SPEAKER_05]  Entonces, mira...
+[SPEAKER_05]  Ahí había una pregunta que decían, bueno, ¿y cuáles fueron tu primer trabajo y todo eso?
+[SPEAKER_05]  Realmente, antes de graduarme,
+[SPEAKER_05]  Tuve una experiencia en ingeniería de sistemas muy, muy enriquecedora con el Instituto CERN de investigación dirigido por Eduardo Aldana.
+[SPEAKER_05]  que fue la creación de un...
+[SPEAKER_05]  banco de datos para el Ministerio de Agricultura.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Ese...
+[SPEAKER_08]  Gracias.
+[SPEAKER_08]  Ese proyecto
+[SPEAKER_08]  También...
+[SPEAKER_08]  trabajamos
+[SPEAKER_05]  con Jorge Phillips y con Roberto Pardo.
+[SPEAKER_05]  Trabajamos haciendo el proyecto y le hicimos el primer graficador.
+[SPEAKER_05]  sobre un terminal alfanumérico.
+[SPEAKER_05]  que ponía
+[SPEAKER_05]  y pintaba sobre gráficas la altura de las cosechas.
+[SPEAKER_05]  que se habían hecho en cada departamento, por ejemplo, si fuera...
+[SPEAKER_05]  con el tamaño o en cada fecha, en cada año.
+[SPEAKER_05]  con el tamaño
+[SPEAKER_05]  un proyecto interesantísimo. Yo trabajé en el módulo del desarrollo.
+[SPEAKER_05]  gráfico con Roberto.
+[SPEAKER_05]  Es un proyecto grande, proyecto que el Instituto CERCE le entregó al Ministerio de Agricultura. Yo estaba estudiando todavía y ahí estaba.
+[SPEAKER_08]  Gracias.
+[SPEAKER_08]  todavía.
+[SPEAKER_05]  Ana María Lamus, Marcela Cárdenas, estaba Iván Laguado, estaba Gabriel Arias, varios que trabajábamos y ahí gozábamos mucho también porque íbamos a trabajar y el instituto en esa época quedaba donde hoy queda el...
+[SPEAKER_05]  el con subsidio, el teatro con subsidio. Entonces bajábamos y ahí tomábamos onces, pasábamos muy contentos ahí.
+[SPEAKER_00]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Mientras trabajo y...
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  y relación.
+[SPEAKER_05]  Entonces, ese fue como el primer punto antes de graduarme.
+[SPEAKER_05]  que era trabajo, porque era para...
+[SPEAKER_05]  pues nos pagaban como estudiantes.
+[SPEAKER_07]  bien
+[SPEAKER_05]  Luego...
+[SPEAKER_05]  El primer trabajo formal donde firmé contrato laboral.
+[SPEAKER_05]  fue con
+[SPEAKER_05]  Tomás de la Rú.
+[SPEAKER_05]  Tomás de la Rú
+[SPEAKER_05]  En esa época, y creo que todavía sigue...
+[SPEAKER_05]  siendo dueños los bautistas.
+[SPEAKER_05]  Fernando Bautista y el otro hermano que ahorita no recuerdo el nombre.
+[SPEAKER_05]  Ellos...
+[SPEAKER_05]  tenían la representación.
+[SPEAKER_05]  de Thomas Delarue.
+[SPEAKER_05]  acá en Colombia.
+[SPEAKER_05]  Y tenían un contrato con el Banco de la República muy interesante que era...
+[SPEAKER_05]  y
+[SPEAKER_05]  fuera el transporte de valores por la cual se ha distinguido Thomas Delarue.
+[SPEAKER_05]  tenían
+[SPEAKER_05]  una importación de unas máquinas inglesas que clasificaban los billetes.
+[SPEAKER_05]  y detectaban si el billete era falso, si el billete estaba dañado, roto.
+[SPEAKER_05]  Era un robot.
+[SPEAKER_05]  básicamente. Yo tengo unas fotos ahí también.
+[SPEAKER_05]  Se ponían los fajos de billete.
+[SPEAKER_05]  Él los clasificaba.
+[SPEAKER_05]  y sacaba en tres bolsillos y al final sacaba.
+[SPEAKER_05]  Los que estaban dañados, los que se veían supuestamente falsos y los que estaban sucios. Y por último, sacaba a los que sí podían reciclarse. Eso era un proceso. Era un computador Texas Instruments 990 y yo fui contratado como ingeniero asistente del ingeniero de mantenimiento de la máquina.
+[SPEAKER_05]  Esta máquina nos llamaba de golpe a las...
+[SPEAKER_05]  11 de la noche, nos decían, la máquina falló, venga para acá. Entonces, vamos para allá.
+[SPEAKER_05]  Y llegábamos y teníamos que entender qué era lo que pasaba. Claro.
+[SPEAKER_05]  Era una máquina muy sofisticada, muy compleja, tenía microprocesadores en cada, tenía unos cilindros y cada uno de esos cilindros estaba pasando los billetes. Era una mezcla de mecánica, electrónica y sistemas, todo completo ahí metido.
+[SPEAKER_05]  Perfecto, ese fue mi primer trabajo que me...
+[SPEAKER_05]  Pues para mí era perfecto.
+[SPEAKER_05]  Y yo hubiera seguido ahí de no ser porque...
+[SPEAKER_05]  Dos cosas. Yo me había ganado una beca para ir a estudiar a Stanford.
+[SPEAKER_05]  u otra beca para ir a estudiar a Grenoble, con la Embajada de Francia.
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  y
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  ¡Gracias!
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  y
+[SPEAKER_08]  No.
+[SPEAKER_05]  No fui a ninguna de las dos.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  porque
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Tomé la decisión consciente y no me arrepiento.
+[SPEAKER_05]  de trabajar con Jorge Phillips.
+[SPEAKER_05]  en la creación de la empresa Micrel, que seguramente tiene que aparecer por ahí en algún punto.
+[SPEAKER_05]  de la historia.
+[SPEAKER_05]  porque mi creel
+[SPEAKER_05]  venía, el nombre de Miquel significa microelectrónica.
+[SPEAKER_05]  Jorge es electrónico, su base es electrónica, pero él es un maestro de software.
+[SPEAKER_05]  y unido con
+[SPEAKER_05]  Roberto Pardo.
+[SPEAKER_05]  Ernesto Murillo
+[SPEAKER_05]  bueno, nosotros éramos otra generación pero también estábamos ahí y era gente
+[SPEAKER_05]  muy muy brillante como Gabriel Arias, como bueno, había muchas personas, Iván Laguado estuvo ahí también.
+[SPEAKER_05]  Creamos muchos proyectos interesantísimos y entonces yo...
+[SPEAKER_05]  La acepté a Jorge.
+[SPEAKER_05]  Jorge fue el gestor de la empresa.
+[SPEAKER_05]  que yo voy a trabajar ahí. Yo dije, no, después yo hago mi postgrado.
+[SPEAKER_05]  ¿No lo dice?
+[SPEAKER_05]  y
+[SPEAKER_05]  Hice un fotógrafo y...
+[SPEAKER_05]  Aquí trabajando en emprendimientos, ese fue el primero. Esa empresa fue financiada por Salomón Jaquín, de los Jaquins.
+[SPEAKER_05]  Y estaba formada, trabajaba en un sitio en la zona industrial, en la calle 13.
+[SPEAKER_05]  en las bodegas de Estelbruck.
+[SPEAKER_05]  y quien nos...
+[SPEAKER_05]  Servía como, diría yo, de mentor del emprendimiento. Era Ignacio Villaveses, que en paz descanse también.
+[SPEAKER_05]  que nos ayudó muchísimo en todos los conceptos de...
+[SPEAKER_05]  de negocio.
+[SPEAKER_05]  Y él nos enseñó muchísimo de la parte complementaria de la cual uno no sale de la universidad y es el modelo de negocio, el tema de contabilidad, de costos, de que la realidad no es solo...
+[SPEAKER_05]  hacer
+[SPEAKER_05]  digamos
+[SPEAKER_05]  telas por computador dibujándolas en BASIC. Eso es una cosa maravillosa y lindísima, pero si eso no se vende...
+[SPEAKER_05]  o no sirve para algo.
+[SPEAKER_05]  Entonces ahí fue una parte de mi carrera muy importante, pero ya con un mentor como Ignacio Villaveses, hermano de Francisco Villaveses, que también estaba ahí, y del presidente de Banco Colombia, el otro hermano, no me acuerdo ahorita el nombre.
+[SPEAKER_05]  Eso fue una época muy interesante y me quedé trabajando en eso. Luego apoyamos...
+[SPEAKER_05]  Luego Jorge Filipe fue nombrado secretario de informática en la presidencia.
+[SPEAKER_05]  de Belisario de Tancur.
+[SPEAKER_05]  Y ahí también trabajé, apoyé como consultor en varios proyectos. Bueno, ahí ya la historia es demasiada.
+[SPEAKER_05]  se multiplica mucho.
+[SPEAKER_05]  porque se trabajó en muchos aspectos.
+[SPEAKER_05]  Uno, antes de entrar a trabajar con Micrel,
+[SPEAKER_05]  Yo formé... Ah, no. Después de que...
+[SPEAKER_05]  Jorge aceptó la...
+[SPEAKER_05]  La presidencia, el cargo de secretario informático.
+[SPEAKER_05]  del secretario informático de la presidencia de Belisario.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Mikkel se acabó, porque él era el gestor y básicamente ahí se dividió.
+[SPEAKER_05]  Roberto dijo yo me voy y se asoció con.
+[SPEAKER_05]  Jordan Conley
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  Fernando.
+[SPEAKER_08]  4.
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Fernando.
+[SPEAKER_05]  Fernando Yorta.
+[SPEAKER_05]  Fernando Jordan y crearon Unisoftware.
+[SPEAKER_05]  Y yo también me independicé y formé progresión.
+[SPEAKER_05]  Con...
+[SPEAKER_05]  Marta Elena Vargas.
+[SPEAKER_05]  y Julio Sede.
+[SPEAKER_05]  Julio Sergio entró después. Con Marta Elena Vargas empezamos a trabajar.
+[SPEAKER_05]  Julio César Sergesi. Con Marta Elena Vargas empezamos a trabajar en proyectos varios para el desarrollo de software para los sectores de la floricultura.
+[SPEAKER_05]  de la bolsa de valores, de los corredores de bolsa, bueno, hay una serie de proyectos de software que se desarrollaron en esa época, pero el más interesante fue uno...
+[SPEAKER_05]  en el cual nos...
+[SPEAKER_05]  llevó el FONAE.
+[SPEAKER_05]  Había un...
+[SPEAKER_05]  trabajo que nos conocía.
+[SPEAKER_05]  Sanabria, no me acuerdo ahorita el nombre de él.
+[SPEAKER_05]  que era el director del FONAE hermano.
+[SPEAKER_05]  de la negra zanabria que estudió en los Andes también y nos conocía o nos alguien nos nos refirió y terminamos haciendo.
+[SPEAKER_05]  un sistema de información para un proyecto que era el proyecto de la recuperación de los centros de las ciudades del país.
+[SPEAKER_05]  que era encajada en lo que me gustaba, era que querían un sistema de información gráfico.
+[SPEAKER_05]  Entonces hicimos, yo diría, no sé si el primero, ahí no sabría la cronología, pero un sistema de información geográfico que se llama el SIU, Sistema de Información Urbana, donde empezamos a dibujar con el GKS.
+[SPEAKER_05]  el graphic kernel system
+[SPEAKER_05]  que estaba surgiendo en esa época el primer programa que dibujaba.
+[SPEAKER_05]  mapas de ciudad.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  con información temática.
+[SPEAKER_05]  Julio César, por el otro lado, también fue contratado en el FONAE.
+[SPEAKER_05]  y estaba desarrollando algo parecido y ahí fue cuando decidimos unirnos para formar Progresión.
+[SPEAKER_05]  Después desarrollamos otro programa muy interesante que se llama el SISU, Sistema de Información de Servicios Urbanos.
+[SPEAKER_05]  que era con las redes de servicio público.
+[SPEAKER_05]  Ahí.
+[SPEAKER_05]  Unimos dos tecnologías, la tecnología raster.
+[SPEAKER_05]  que era toda la información que teníamos disponible de las ciudades por medio de fotografías aéreas o fotografías satelitales, con la tecnología vectorial.
+[SPEAKER_05]  y unimos esa parte.
+[SPEAKER_05]  antes de desarrollar Promap.
+[SPEAKER_05]  Promaz lo desarrollamos después en progresión.
+[SPEAKER_05]  Y eso fue pues...
+[SPEAKER_05]  Un trabajo maravilloso.
+[SPEAKER_05]  Trabajo que nos dio mucha satisfacción.
+[SPEAKER_05]  hasta que ya no lo pudimos mantener, no tuvimos en esa época realmente la inversión necesaria para poder...
+[SPEAKER_05]  continuar ese proyecto.
+[SPEAKER_05]  pero trabajamos con la empresa de Acueducto y Alcantarilla Bogotá y todas las redes de
+[SPEAKER_05]  de...
+[SPEAKER_05]  acueducto y alcantarillado Bogotá de la época fueron digitalizadas por primera vez.
+[SPEAKER_05]  con mesas digitalizadoras, eso ya es de museos, ya no existe.
+[SPEAKER_05]  Mesa digitalizadora, me acuerdo una dibujante...
+[SPEAKER_05]  que la entrenamos porque ellos dibujaban a mano y las entrenamos para cómo dibujar sobre la mesa y que...
+[SPEAKER_05]  el dibujo pasara.
+[SPEAKER_05]  y cómo los convencimos de que eso no les iba a quitar el trabajo y todo, y eso fue una cosa, Inés Varela se llamaba ella.
+[SPEAKER_05]  la directora del grupo de dibujantes.
+[SPEAKER_05]  Y estaba también...
+[SPEAKER_05]  de Triana.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Ay Dios, los nombres a mí se me olvidan a veces, pero...
+[SPEAKER_05]  El...
+[SPEAKER_05]  Dirigió el proyecto.
+[SPEAKER_05]  Y fue un éxito en lo que fue todo el tema en la empresa de acueductos.
+[SPEAKER_05]  Con Promave hicimos muchas cosas.
+[SPEAKER_05]  Por ejemplo, mapas temáticos de la violencia del país.
+[SPEAKER_05]  Hicimos el mapa del dragado.
+[SPEAKER_05]  de la...
+[SPEAKER_05]  de la del
+[SPEAKER_05]  de las bocas de ceniza del río Magdalena.
+[SPEAKER_05]  Ese proyecto sí que fue interesante porque fue la primera vez que integramos.
+[SPEAKER_05]  Dos sensores, un sensor...
+[SPEAKER_05]  de profundidad, una ecosonda.
+[SPEAKER_05]  y un giroscopo que genera y lo metimos al programa.
+[SPEAKER_05]  para poder ver por dónde era la ruta del...
+[SPEAKER_05]  la ruta de la Draga.
+[SPEAKER_05]  Y calcular.
+[SPEAKER_05]  las cantidades de material que podían estar sacando. Este fue un proyecto espectacular porque unimos electrónica.
+[SPEAKER_05]  con
+[SPEAKER_05]  con software ahí también.
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  Bueno, ahí sí yo les propongo... Hay un género también de... Hoy se habla mucho de smart cities y de ciudades inteligentes. Y fíjate que...
+[SPEAKER_05]  Bueno, ahí...
+[SPEAKER_05]  ¡Adiós!
+[SPEAKER_00]  que era un tema que no habías tocado de aquellos que tienen orígenes en estos tiempos.
+[SPEAKER_00]  Hoy son boom, igual que la inteligencia artificial y demás.
+[SPEAKER_00]  Pero fíjate que los orígenes están...
+[SPEAKER_00]  en esos momentos.
+[SPEAKER_00]  Es otro tema que también se origina en esa época.
+[SPEAKER_00]  Así es.
+[SPEAKER_06]  Darle énfasis a lo que dice Luis Javier, lo dijo hace rato.
+[SPEAKER_06]  Como el 360, un mainframe y todo, esa época marcó.
+[SPEAKER_06]  el inicio de mucha tecnología que hoy día es el estado del arte.
+[SPEAKER_06]  Eso no se conoce mucho, pero eso es un poco la historia. Hay un tema que marcó un hito grande, el Isario Betancourt.
+[SPEAKER_06]  cerró las importaciones en Colombia.
+[SPEAKER_06]  Y todos los que estábamos trabajando en importación de equipo, de alguna manera, aunque hacíamos de la software.
+[SPEAKER_06]  tuvimos que hacer una variante hacia el software porque el hardware se volvió difícil para algunos.
+[SPEAKER_06]  Las grandes empresas podían, había que exportar para poder importar.
+[SPEAKER_06]  Eso fue con Belisario, la época que hablaste de Jorge Phillips.
+[SPEAKER_06]  y la Secretaría de Informática.
+[SPEAKER_06]  que creo que es necesario.
+[SPEAKER_06]  Ese fue un hito importante, eso fue cerca de los 80's.
+[SPEAKER_06]  Más o menos. A finales de los meses.
+[SPEAKER_08]  finales de los 80
+[SPEAKER_06]  A finales de los 80, exacto.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Sí, y valga la pena que eso fue lo que hizo que después se fundara Indusoft.
+[SPEAKER_06]  Yo diría que eso.
+[SPEAKER_06]  ¿Sí?
+[SPEAKER_06]  porque muchos, la variante fue, bueno, nos podemos vender aquí a algunos, ¿no?
+[SPEAKER_06]  queramos profesionales sistemas, pero hagamos software.
+[SPEAKER_06]  Y eso marca un hito de esos medio invisibles.
+[SPEAKER_06]  en su momento, que esto acaba de mencionar.
+[SPEAKER_06]  Y el tema, y el tema de...
+[SPEAKER_06]  de mapas y de esto.
+[SPEAKER_06]  para que la gente sepa en Asís que el presidente...
+[SPEAKER_06]  Eres tú.
+[SPEAKER_06]  Luis Javier
+[SPEAKER_06]  Tenemos un grupo de geomática.
+[SPEAKER_06]  ¿No?
+[SPEAKER_06]  donde estamos hablando de raster y de vectorial y de satélites y de drones.
+[SPEAKER_06]  Y realmente...
+[SPEAKER_06]  ser pioneros en ese tema pues ha sido muy importante para lo que es hoy en día ese tema mapas
+[SPEAKER_05]  Estamos hablando hace casi 40 años cuando se hizo el PROMAP.
+[SPEAKER_05]  ¿Cuándo está?
+[SPEAKER_08]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_05]  Estamos manejando imágenes satelitales de Lanzar.
+[SPEAKER_05]  que nos la penden.
+[SPEAKER_05]  para poder analizar los cultivos.
+[SPEAKER_05]  Hicimos muchas cosas maravillosas, impresionantes. Eso era una cosa, cada día nos trasnochábamos haciendo las cosas. Eran otras épocas.
+[SPEAKER_05]  Y claro, vivimos, nos ganamos nuestro pan de cada día, como dice.
+[SPEAKER_05]  El padre nuestro, muy bien ganado.
+[SPEAKER_05]  Y estuvo súper bien. Esa época fue maravillosa.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Recuerdo con mucho cariño y con mucha...
+[SPEAKER_05]  digamos, proyección que se podría haber hecho con ese tipo de tecnologías.
+[SPEAKER_05]  Ahí faltaron temas de gobierno, pienso yo, porque si eso mismo hubiera pasado ahorita con los emprendimientos, estoy claro y seguro que un Promap, no porque lo haya hecho yo, sino o alguno equivalente hubiera podido.
+[SPEAKER_05]  llegar a ser uno de esos los rapis de esta época
+[SPEAKER_05]  Si hubiera habido en esa época los mentores, hubiera habido los inversionistas de riesgo y hubiera habido un ecosistema más interesante para desarrollar las empresas de tecnología.
+[SPEAKER_05]  Pero tú mencionaste una cosa muy interesante, Manuel, y es...
+[SPEAKER_05]  los gremios.
+[SPEAKER_05]  En los gremios también hay algo muy importante que...
+[SPEAKER_05]  que hablar.
+[SPEAKER_05]  Porque tú dices Indusoft, Indusoft claro, Indusoft fue, digamos que empezó a defender...
+[SPEAKER_05]  la creación de los derechos de autor de los que creaban software.
+[SPEAKER_00]  derecho.
+[SPEAKER_05]  Pero también había, se había atomizado en esa época, había otras dos.
+[SPEAKER_05]  Asociaciones, una de Accio.
+[SPEAKER_05]  que era la Asociación Colombiana de Investigación Operacional.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Cálculo electrónico e investigación operacional.
+[SPEAKER_05]  ¿Qué tan bien?
+[SPEAKER_05]  Esa acción que también, digamos, es óptima.
+[SPEAKER_06] 
+[SPEAKER_08]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  pretendía reunir a los ingenieros de sistemas y estaba ahí, estaba Indusoft y había otra más que ahorita se me escapa el nombre.
+[SPEAKER_05]  Y FedeSoft, que en esa época se llamó FedeColsoft.
+[SPEAKER_05]  se...
+[SPEAKER_05]  se fusionó de esas tres empresas, de esas tres agremiaciones y finalmente se llamó FedeColsoft.
+[SPEAKER_05]  Después se le cambió el nombre a FedeSoft. A FedeSoft.
+[SPEAKER_08]  Afecho.
+[SPEAKER_05]  A fe con soft form.
+[SPEAKER_05]  La primera con conciencia, porque conciencia...
+[SPEAKER_05]  el Centro de Apropiación de las Tecnologías de la Información, CATI.
+[SPEAKER_05]  que fue el periodo... Para financiar.
+[SPEAKER_08]  Para financiar.
+[SPEAKER_05]  para financiar desarrollos.
+[SPEAKER_05]  Pero eso no duró mucho.
+[SPEAKER_05]  Y eso es lo que ahora es el CENISOFT.
+[SPEAKER_05]  CENISOF o el Centro de Investigaciones de Software, como CENICAÑA y todo eso.
+[SPEAKER_05]  Pero la primera que se desarrolló en ese tema con conciencia fue CATI, Centro de Apropiación de la Tecnología de la Información.
+[SPEAKER_05]  se trabajó en esa época
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Pues yo también estuve como cofundador de FedeSoft.
+[SPEAKER_05]  Ofe, con Soft. Éramos cinco empresas a las que nos unimos como firmantes de esa escritura que por ahí estará, que estaba open, estaba surish.
+[SPEAKER_05]  Estaba... sigo.
+[SPEAKER_05]  Estaba...
+[SPEAKER_06]  El precio de software.
+[SPEAKER_05]  Pero es que...
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Ejemplo.
+[SPEAKER_05]  Fijé que era como el líder de Indusoft en esa época.
+[SPEAKER_08]  Bien.
+[SPEAKER_05]  y estábamos en progresión, que éramos nosotros.
+[SPEAKER_05]  Entonces así...
+[SPEAKER_08]  Sí, así es.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  esta fue la historia
+[SPEAKER_05]  con soft.
+[SPEAKER_06]  Sí, sí, Indusoft la fundamos, yo fui fundador de Indusoft.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Y tiene una historia curiosa. Yo desde Lógica trabajaba con muchas casas de software y de estas que por las importaciones nos dedicamos solo al software.
+[SPEAKER_05]  ¿Entienden?
+[SPEAKER_06]  Y curiosamente esas casas de software, porque lógico era mi software y comercializar de terceros.
+[SPEAKER_06]  Eran todos enemigos, comillas, ¿no? Se veía al competidor como enemigo, ¿no?
+[SPEAKER_06]  Pero yo era amigo de todos.
+[SPEAKER_06]  Yo te invito a un almuerzo en lógica a todos.
+[SPEAKER_06]  Cuando llegaron todos sintieron que yo les había hecho trampa.
+[SPEAKER_06]  Porque estaba el que le quitó el negocio, el que no sé qué.
+[SPEAKER_06]  Pero comenzó algo muy importante en la mesa del almuerzo.
+[SPEAKER_06]  Oye, los dos estudiamos juntos, le decía el uno al otro, ¿cierto?
+[SPEAKER_06]  Los dos éramos amigos, ¿no? Y como dije yo en alguna entrevista, es muy difícil que la gente que hace software se llame a la persona, porque es que no hay tiempo, ¿sí?
+[SPEAKER_06]  Y ahí comenzaron a generarse unas amistades.
+[SPEAKER_06]  donde ya eran amigos, que perdían el negocio y las otras cosas.
+[SPEAKER_06]  Y para protegernos de la piratería se creó Indusoft, que fue tal vez uno de los elementos fuertes y después vino la idea de ustedes de exportar software. Hasta hicieron una misión a la India en esa época. Estaba también Víctor Duque, excelente de la IBM.
+[SPEAKER_06]  Bueno, esas son épocas que fueron trazando lo que es hoy.
+[SPEAKER_08]  Bueno, esa es la...
+[SPEAKER_06]  pero que no está saliendo en la historia de todas maneras en estas historias.
+[SPEAKER_05]  Correcto.
+[SPEAKER_08]  Gracias.
+[SPEAKER_06]  Bueno.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  La formalización de la industria del software.
+[SPEAKER_05]  Es algo vital para cualquier país.
+[SPEAKER_05]  Y yo pienso que...
+[SPEAKER_05]  que la labor que ha hecho FedeSoft es excelente.
+[SPEAKER_05]  Y sin entrar ahora en lo de Asís, porque Asís también...
+[SPEAKER_05] 
+[SPEAKER_05]  es una agremiación muy importante.
+[SPEAKER_05]  que
+[SPEAKER_05]  Ahí sí que tiene mucha más historia que FedeSoft.
+[SPEAKER_05]  y que reúne a todos los profesionales.
+[SPEAKER_05]  individuos
+[SPEAKER_05]  que han trabajado y han aportado para la informática del país.
+[SPEAKER_05]  Entonces, así es, hay que defenderlo a como dé lugar.
+[SPEAKER_05]  y tenemos que ir trabajando muy fuertemente para que tenga una proyección más allá de lo que hemos logrado hasta el momento. La alianza con Redis me parece vital.
+[SPEAKER_05]  Ojalá que mantengamos siempre una cooperación muy importante.
+[SPEAKER_05]  y una colaboración para que eso se logre.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Y así se ha evolucionado muchísimo.
+[SPEAKER_05]  Yo estuve en Asís primero como vocal de una junta directiva, ya ni me acuerdo cuándo, Beatriz siempre tiene esas fechas, pero yo no me acuerdo.
+[SPEAKER_05]  vocal, luego fui tesorero y en varias oportunidades.
+[SPEAKER_05]  Y recientemente acepté la responsabilidad de ser presidente y nos tocó la pandemia, fue bastante complejo.
+[SPEAKER_05]  la situación en esa época y bueno
+[SPEAKER_05]  Seguimos, y hay que reconocerlo, seguimos buscando la manera de que ASIS tenga una autonomía, una forma de estar generando y genere autosuficiencia.
+[SPEAKER_05]  porque nos toca muy duro para mantener la...
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Y va a recatar la labor de Beatriz, que ha sido histórica desde que se fundó prácticamente ASIS. Y los fundadores de ASIS, Alfredo Amor.
+[SPEAKER_05]  Diego Escobar, bueno, una cantidad, se me escapan seguramente muchos nombres de los que arrancaron así.
+[SPEAKER_05]  Entonces, ahí hay una historia.
+[SPEAKER_05]  que hay que manejar.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Y ahí yo mandaría un mensaje muy interesante y es...
+[SPEAKER_08]  Y ahí...
+[SPEAKER_05]  unir el país alrededor de una granación.
+[SPEAKER_05]  ¿Por qué? Porque también pasa lo que pasaba cuando se formó FedeConsoft.
+[SPEAKER_05]  Había cuatro o tres asociaciones que querían hacer lo mismo, pero nadie hacía nada. Entonces, logramos unirnos. Listo.
+[SPEAKER_05]  Y el objetivo era...
+[SPEAKER_05]  la Federación de la Industria Software.
+[SPEAKER_05]  Ahora tenemos una...
+[SPEAKER_05]  Sí, yo digo un vehículo que se llama así, la Asociación Colombiana, le cambiamos el nombre recientemente para incluir más personas, más de...
+[SPEAKER_05]  digamos
+[SPEAKER_05]  y
+[SPEAKER_05]  disciplinas que tienen que ver con la informática y con la computación.
+[SPEAKER_05]  Entonces, Asociación Colombiana de Informática, Sistemas y Tecnologías Afines, para quitarle el nombre.
+[SPEAKER_05]  que solo fuera de ingeniería de sistemas y computación. Entonces, ese nombre ya se universaliza. Y yo sí quisiera lanzar, si alguna vez esto se publica.
+[SPEAKER_05]  un llamado a todas las asociaciones regionales de Medellín, de Cali, que quieran.
+[SPEAKER_05]  que se unan a esta causa.
+[SPEAKER_05]  y que creamos creemos una sola
+[SPEAKER_05]  agremiación de ingenieros.
+[SPEAKER_05]  de múltiples disciplinas, que estemos apasionados por la aplicación de las tecnologías.
+[SPEAKER_05]  en beneficio de la sociedad del país.
+[SPEAKER_05]  Sí, eso...
+[SPEAKER_06]  Sí, eso está muy bien. Como estamos hablando de la evolución del ingeniería de sistemas, valga la pena decir esto.
+[SPEAKER_06]  La tecnología ya no es de los ingenieros de sistemas.
+[SPEAKER_06]  La tecnología es de la sociedad.
+[SPEAKER_06]  Es del taxista, es del abogado, es del estudiante, es de la sociedad.
+[SPEAKER_06]  Y para los que nos van a oír en esta charla.
+[SPEAKER_06]  RAISE, que es la Red de Programas de Ingeniería y Sistemas, somos en universidades.
+[SPEAKER_06]  A raíz de REI se crearon las redes de todas las ingenierías.
+[SPEAKER_06]  Ingeniería industrial, ingeniería mecánica, mecatrónica, etc. Son ocho redes.
+[SPEAKER_06]  y todas giran alrededor de la tecnología.
+[SPEAKER_06]  De tal manera que así se va a tener que convocar a esos ocho presidentes que...
+[SPEAKER_06]  Tenemos un grupo llamado Rey de Redes.
+[SPEAKER_06]  Porque el Bloch J los maneja los industriales.
+[SPEAKER_06]  Civil está manejando todo ese software para la ingeniería civil impresionante.
+[SPEAKER_06]  que existe hoy en día, es decir, cada una de las ingenierías.
+[SPEAKER_06]  Entonces, ASIS es un puntal muy importante, ha sido y será para el futuro, muy bien haberlo mencionado.
+[SPEAKER_06]  Sí, creo que...
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  Bueno.
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  ¡Gracias!
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Carlos.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  que sea una IEEE colombiana.
+[SPEAKER_06]  que
+[SPEAKER_05]  Que sea una ACM colombiana, pero que sea de todo el país. Porque si nos dividimos...
+[SPEAKER_05]  Te pasa lo que te pasó a ti cuando invitaste a tus amigos. Aquí no estamos compitiendo.
+[SPEAKER_05]  Cada... hay que buscar es la...
+[SPEAKER_05]  sinergia de cada una de esas asociaciones de cada uno de sus...
+[SPEAKER_05]  para tener más sólido toda la...
+[SPEAKER_05]  Todavía no.
+[SPEAKER_07]  Gracias.
+[SPEAKER_06] 
+[SPEAKER_05]  Y ante el gobierno también, porque si estamos fraccionados...
+[SPEAKER_06]  Claro, todo, el gobierno, claro.
+[SPEAKER_06]  Claro, la experiencia del rey de haber creado la red nacional, ¿no Rafa?
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Reyes nació solo en Bogotá, hoy existe en todo el país.
+[SPEAKER_06]  Y realmente sí se puede trabajar y quitar el fantasma del centralismo, ¿no?
+[SPEAKER_06]  Si no es una cosa global de la profesión, eso es importante.
+[SPEAKER_06]  Estamos sobre el tiempo más o menos.
+[SPEAKER_06]  Como decía Rafa, al principio aquí podíamos durar todo el semestre.
+[SPEAKER_06]  hablando de esto
+[SPEAKER_06]  ¿Llegará el tabla a fase 2 o no lo sabemos?
+[SPEAKER_06]  Pero verdaderamente Luis Javier, agradecerte porque...
+[SPEAKER_06]  Es que reúnes una generación, ¿cierto?
+[SPEAKER_06]  Hay que ver esa generación tuya, cómo creó cosas novedosas para el futuro.
+[SPEAKER_06]  Y ya se va pensando desde el comienzo que era un computador, la programación en Fortran, todo esto y luego comienza a darse más conocimiento como la inteligencia artificial que en esa época se estaba trabajando con Prolog y todo eso que mencionaste.
+[SPEAKER_06]  Eso suma mucho. Esto lo van a oír seguramente estudiantes. Esto por ahora.
+[SPEAKER_06]  Vamos a recopilar todo esto y en algún momento publicaremos estas conversaciones. Eso es algo que iremos diseñando en el proceso.
+[SPEAKER_00]  acciones.
+[SPEAKER_06]  No sé si Rafa quiere comentar algo, como para ir cerrando, y luego le damos la palabra otra vez a Luis Javier.
+[SPEAKER_01]  Y Sandra también ya está con nosotros desde hace un buen rato.
+[SPEAKER_06]  Ah, Sandra, sí. Sandra llegó como un fantasmita, ahí la vemos.
+[SPEAKER_01]  Gracias.
+[SPEAKER_06]  Hola Sandra
+[SPEAKER_08]  Gracias.
+[SPEAKER_03]  Muy buenas tardes, un placer haber escuchado.
+[SPEAKER_08]  Gracias.
+[SPEAKER_03]  Esta retórica acerca de la ingeniería.
+[SPEAKER_03]  en Colombia desde las personas que hicieron parte de ese desarrollo de tecnología en nuestro país.
+[SPEAKER_03]  Y sí quisiera hacer una pregunta.
+[SPEAKER_03]  Manuel, y está relacionada con...
+[SPEAKER_03]  porque es que durante la entrevista nos hacía un paralelo muy interesante entre la tecnología que estaba en la época de los 80.
+[SPEAKER_03]  Y la tecnología, parte de esa tecnología que se...
+[SPEAKER_03]  Desarrolló y se usa actualmente.
+[SPEAKER_03]  Y me gustó mucho el aporte y la motivación.
+[SPEAKER_03]  que en esa época brindaban los docentes y los empresarios o
+[SPEAKER_03]  los gestores de tecnología.
+[SPEAKER_03]  Entonces, de pronto, hacer énfasis en cuáles eran esas características que llevaron a motivar a esos jóvenes de los años 80.
+[SPEAKER_03]  a desarrollar empresa, a utilizar la tecnología, a crear desarrollo para el país.
+[SPEAKER_03]  Si de pronto no...
+[SPEAKER_03]  nos pudiera hablar un poquito sobre eso.
+[SPEAKER_08]  Gracias.
+[SPEAKER_03]  No.
+[SPEAKER_06]  Bueno, Luis Javier.
+[SPEAKER_08]  Bueno, Luis, hay...
+[SPEAKER_06]  Sí, preséntate, saluda a Luis Javier Sandrita, preséntate, perdona que lo diga de esa manera para que te identifique.
+[SPEAKER_08]  Sal desde el grupo gestor.
+[SPEAKER_06]  Sal de del grupo gestor.
+[SPEAKER_03]  Gracias.
+[SPEAKER_06]  No te vemos bien en la pantalla.
+[SPEAKER_03]  No te vemos bien en la...
+[SPEAKER_06]  En la cámara te vemos oscuro, oscuro, oscuro.
+[SPEAKER_03]  La cámara te...
+[SPEAKER_03]  Es oscuro y estamos de día, quién sabe si es aquí la...
+[SPEAKER_03]  donde está el modo de efecto será.
+[SPEAKER_03]  Coméntale.
+[SPEAKER_06]  Coméntale tu rol en la nacional y lo que estás para que Luis Javier te identifique mejor, aunque él te conoce seguro.
+[SPEAKER_03]  Sí, mi nombre es Sandra Liliana Rojas Martínez.
+[SPEAKER_03]  Ingeniera de sistemas de la universidad.
+[SPEAKER_03]  Nacional de Colombia.
+[SPEAKER_03]  profesora del Departamento de Ingeniería de Sistemas e Industrial.
+[SPEAKER_03]  Actualmente pues trabajo mucho con los jóvenes para promover el desarrollo de la programación de computadores a nivel
+[SPEAKER_03]  de la Universidad de Las Cedes y a nivel de...
+[SPEAKER_03]  del país con el Ministerio de Tecnologías de Información y Comunicaciones.
+[SPEAKER_03]  y pues apoyando a Manuel.
+[SPEAKER_03]  en Redis y a Rafa con esta labor que han desarrollado desde hace muchos años de impulsar la ingeniería de sistemas en Colombia.
+[SPEAKER_06]  Gracias.
+[SPEAKER_08]  La redigía de impquisite.
+[SPEAKER_06]  Ok, entonces, Xavier, cuéntanos, como el entrevistado es Xavier, no yo.
+[SPEAKER_08]  Ok.
+[SPEAKER_06]  Esa pregunta de Sandra en tu época, esa gestar empresa y todo.
+[SPEAKER_06]  Si quieres comentar algo como para resumir.
+[SPEAKER_05]  Sí, yo resumiría el hecho de que el país en general siempre se ha preocupado para crear empresas. Creo que es algo importante y es como un...
+[SPEAKER_05]  un ADN
+[SPEAKER_05]  que viene en algunas personas, perdón, no diría el país, el país ha tratado de fomentar la creación de empresas en muchos momentos.
+[SPEAKER_05]  y
+[SPEAKER_05]  Sin embargo, en el caso de la tecnología, creo que...
+[SPEAKER_05]  El momento más importante ha sido desde que se descubrió el Silicon Valley en San Francisco y se empezó a ver y se trató de replicar esos modelos de creación de riqueza a través de la tecnología, a través de la empresa privada de tecnología.
+[SPEAKER_05]  Eh...
+[SPEAKER_05]  En mi época...
+[SPEAKER_05]  Sí había fomento, el FONADE.
+[SPEAKER_05]  Lo mencioné.
+[SPEAKER_05]  Y ahorita me olvido otro proyecto muy importante que se gestó en esa época.
+[SPEAKER_05]  era que en esa época el FONADE buscaba la manera de financiar proyectos.
+[SPEAKER_05]  que tuvieran impacto social o impacto en la tecnología.
+[SPEAKER_05]  Además de la recuperación de los centros de las grandes ciudades en las cuales participamos, que ya lo mencioné.
+[SPEAKER_05]  estaba uno que era cómo hacer que los muchachos aprendieran.
+[SPEAKER_05]  programación de mejor forma, más rápido, más fácil.
+[SPEAKER_05]  Y una idea que después...
+[SPEAKER_05]  resultó ser que su tesis no era adecuada, la hipótesis resultó falsa, pero...
+[SPEAKER_05]  que si podían programar con un lenguaje que fuera en español podría ser más fácil.
+[SPEAKER_05]  con base en esa idea
+[SPEAKER_05]  y están llegando los computadores, los IBMs.
+[SPEAKER_05]  Pc's y los Xt
+[SPEAKER_05]  Eh...
+[SPEAKER_05]  que venían cuando tú los prendías automáticamente y lanzaban un intérprete de BASIC.
+[SPEAKER_05]  Ese intérprete de Basic pues empezaba a hablar en...
+[SPEAKER_05]  uno para programarlo tenía que decirle for igual o en inglés, las primitivas.
+[SPEAKER_05]  Entonces se ocurrió la idea de crear un BASIC en español.
+[SPEAKER_05]  Y FONADE financió ese proyecto. Ese proyecto lo desarrollamos también con...
+[SPEAKER_05]  el Instituto SER, si mal no me acuerdo, y trabajamos, ah no, ese fue con Micrel.
+[SPEAKER_05]  Y trabajamos en eso. Ernesto, que hizo con...
+[SPEAKER_05]  herramientas de Unix, el Jack y el Lex.
+[SPEAKER_05]  todo. Lex es el analizador lexicográfico, Jack es el que genera el compilador, o sea, el analizador semántico.
+[SPEAKER_05]  El Jeta Nodal Compiler Compiler
+[SPEAKER_05]  Con eso generamos...
+[SPEAKER_05]  El intérprete en BASIC en español se llamaba BASIC.
+[SPEAKER_05]  Eso funcionó en algunos...
+[SPEAKER_05]  pilotos
+[SPEAKER_05]  pero no progresó después. Pero una cosa importantísima de eso es que para que eso funcionara...
+[SPEAKER_05]  Teníamos que reemplazar el PROM.
+[SPEAKER_05]  del
+[SPEAKER_05]  y BMPC
+[SPEAKER_05]  que ya lanzaba automáticamente el BASIC y reemplazarlo con nuestro.
+[SPEAKER_05]  intérprete de básico y para eso trabajamos Gabriel Arias y yo.
+[SPEAKER_05]  en la creación.
+[SPEAKER_05]  de ese prom reemplazándolo eso fue, nos sacamos
+[SPEAKER_05]  Canas, tratando de entender los buses, los tiempos de interrupción, todo lo que era necesario para que el...
+[SPEAKER_05]  el PROM arrancara con B, básico.
+[SPEAKER_05]  Eso fue un proyecto muy interesante y de ahí hubiera podido surgir una empresa interesantísima.
+[SPEAKER_08]  Claro.
+[SPEAKER_05]  Pero no teníamos la... Yo creo que lo que ha faltado aquí es el tema de la inversión privada que crea en ese tipo de proyectos.
+[SPEAKER_06]  Fíjense que con Roberto hablamos de que lo que estudiamos fue Computer Science, ¿no? En el comienzo.
+[SPEAKER_06]  En los 80s apareció el DOS, apareció el CPM de Gary Kildare, que era el primer sistema operacional en micros para todos los micros.
+[SPEAKER_06]  que iba a ser el candidato para el IBMPC.
+[SPEAKER_06]  Y Gary Kildall, él fue profesor mío, yo estudié con él para generar, imagínate, sistemas operacionales multiusuarios para micros.
+[SPEAKER_06]  Esos eran los temas que nos preocupaban en alguna parte.
+[SPEAKER_06]  Y él se portó regular con IBM, Barry Kildall.
+[SPEAKER_06]  Y me dijo, no me llaman más de señor, porque negó una cita un jueves, porque ese día manejaba su avioneta.
+[SPEAKER_06]  Y Gary Kildall murió de depresión. Esa es la historia de Gary Kildall. Y en ese momento pasó Bill Gates que dijo yo tengo el BASIC y tengo el DOS y ahí arrancó. Y luego IBM sacó el CENIX. CENIX fue el pionero de UNIX. Era UNIX realmente, pero imagínense Microsoft tuvo CENIX.
+[SPEAKER_08]  Gracias, Michael.
+[SPEAKER_00]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_06]  Después fue Santa Cruz o Pérez.
+[SPEAKER_08]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_08]  Eso fue.
+[SPEAKER_00]  Después fue Santa Cruz.
+[SPEAKER_06]  Pero antes era Zenith de Microsoft, eso era un poco extraño decirlo.
+[SPEAKER_08]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_06]  Entonces fue una época donde la tecnología comenzó a dar esas vueltas para...
+[SPEAKER_08]  Gracias.
+[SPEAKER_06]  comentar.
+[SPEAKER_06]  en el 80 creo que
+[SPEAKER_06]  que Windows se vino a crear como
+[SPEAKER_06]  un poco en el 84 o algo de ese estilo, ¿no? Bueno, esa es un poco la historia.
+[SPEAKER_06]  que seguiremos tratando.
+[SPEAKER_06]  Bueno.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06] 
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Esa historia, hay una historia interesante después de la...
+[SPEAKER_05]  El antagonismo entre Windows y Unix. Y Unix. Esto es bien interesante.
+[SPEAKER_07]  Gracias.
+[SPEAKER_05]  que lo acabas de mencionar, y el desarrollo de las redes, cosa que Bill Gates no creía en las redes, no creía en el Internet.
+[SPEAKER_05]  porque así fue.
+[SPEAKER_05]  Hay declaraciones históricas de él que decía que el Internet no iba a funcionar.
+[SPEAKER_05]  y
+[SPEAKER_05]  el antagonismo con una empresa en la cual yo trabajé, Sun Microsystems.
+[SPEAKER_05]  y que son significa...
+[SPEAKER_05]  Stanford University Network.
+[SPEAKER_05]  Esa N es Son.
+[SPEAKER_05]  fue lo que más le, digamos, era el antagonismo con Windows.
+[SPEAKER_05]  Y el fundador de Soma Ecosystem, Scott McNeely.
+[SPEAKER_05]  Era totalmente antagonista con Bill Gates.
+[SPEAKER_05]  Muy bien.
+[SPEAKER_05]  Increíble, ver esos temas era muy interesante y ver cómo después...
+[SPEAKER_08]  Increíble eso.
+[SPEAKER_05]  La evolución del Internet hizo que Windows cambiara totalmente.
+[SPEAKER_05]  No creía en los browsers y después sacó su propio browser. Bueno, son temas...
+[SPEAKER_06]  ¡Gracias!
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  la tendréis que salir
+[SPEAKER_05]  Sí.
+[SPEAKER_06]  Sí, se fue.
+[SPEAKER_06]  Fue una época en que la historia se movió muchísimo en ese sentido, en esa época. Y Santa Cruz Superation, ¿no?
+[SPEAKER_06]  Nosotros íbamos cada año un mes a estudiar y un mes a estudiar.
+[SPEAKER_05]  Por eso...
+[SPEAKER_05]  No, tanto no creía Bill Gates en eso.
+[SPEAKER_05]  que se dio lo de CENIX, que tenía la base de la estructura de las redes, se lo cedió para que lo desarrollase ante el piece of operation. El UNIX para...
+[SPEAKER_05]  El Unix para Windows era pecado mortal.
+[SPEAKER_06]  Era pecado mortal. Y Santa Cruz, nosotros viajábamos, decía cada año, viajábamos un grupo, un mes a la Universidad de Santa Cruz, a estudiar UNIX, ¿no?
+[SPEAKER_06]  Pero el más competidor fue después Linus, pero vamos a parar esa historia ahí, porque si no, no acabamos. Porque cuando sale Linus era pecado, ¿sí? Para hablar de eso. En esa época Guillermo Santos fundó su revista.
+[SPEAKER_06]  se me olvidó, la revista de Guillermo Santos, era solo Microsoft. Enter, Enter. Y él me invitó, me dijo, Manuel, escribas una columna sobre Linux.
+[SPEAKER_06]  En la de Microsoft, realmente era Microsoft, y yo escribí un artículo que decía, habrá vida más allá de Windows, y no me volvieron a invitar a escribir, ¿no?
+[SPEAKER_06]  Porque había antagonismo, había antagonismo, ¿no? Barras bravas.
+[SPEAKER_06]  A mí me pasa...
+[SPEAKER_05]  A mí me pasa.
+[SPEAKER_05]  ¡Gracias!
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06] 
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  A mí también me invitaron a escribir artículos, sobre todo en la columna que tenía en el tiempo de los lunes.
+[SPEAKER_05]  Y no, no me lo voy a invitar porque fui en alguna época un poco...
+[SPEAKER_05]  antagonista.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  Sí, pero bueno, eso cambió, obviamente eso cambió, Guillermo ha sido un tipo universal.
+[SPEAKER_06]  Y hay muchas grandes cosas, sí.
+[SPEAKER_08]  Gracias.
+[SPEAKER_06]  Bueno, vamos a finalizar porque toca finalizar, así es la vida, la vida es dura, como decía un profesor.
+[SPEAKER_00]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  Pero la charla da para mucho.
+[SPEAKER_06]  Si quiere Rafa, haz algún comentario, Sandrita un comentario y le damos la palabra para cerrar a Luis Javier.
+[SPEAKER_00]  Gracias, gracias Manuel. Luis Javier, pues muchísimas gracias en nombre de todo este equipo, muchísimas gracias no solamente por tu tiempo, sino por la pasión.
+[SPEAKER_00]  por la huella que evidentemente existe en...
+[SPEAKER_00]  en la computación y en la disciplina en nuestro país.
+[SPEAKER_00]  Gracias a...
+[SPEAKER_00]  No solamente a la generación, sino en particular a Luis Javier Parra. Hay cosas que...
+[SPEAKER_01]  ¡Ay!
+[SPEAKER_00]  que definitivamente
+[SPEAKER_00]  ¿Qué?
+[SPEAKER_00]  han afectado lo que nosotros somos y hacemos.
+[SPEAKER_00]  En el...
+[SPEAKER_00]  Me gustaría escucharte una pequeña opinión.
+[SPEAKER_00]  sobre, bueno, sabemos, cuando uno mira hacia atrás, puede pensar en un montón de cosas maravillosas.
+[SPEAKER_00]  Pero no somos ángeles, digo yo siempre.
+[SPEAKER_00]  No somos ángeles, es no todo era perfecto.
+[SPEAKER_00]  Sí.
+[SPEAKER_00]  Y también había muchas cosas que...
+[SPEAKER_00]  Que uno dice, esto se perdió y...
+[SPEAKER_00]  y valdría la pena recuperarlo.
+[SPEAKER_00]  Entonces, ahora cuando cierres, de pronto, si nos dices algo de...
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  ¿Qué?
+[SPEAKER_00]  ¿Qué hay en esa dirección?
+[SPEAKER_00]  que nos perdimos, que crees que se debería recuperar.
+[SPEAKER_00]  y que se mantiene.
+[SPEAKER_00]  que sabemos que no funcionó
+[SPEAKER_00]  y que definitivamente ojalá y Dios nos oiga y se elimine.
+[SPEAKER_00]  Entonces, y sobre todo un agradecimiento infinito por esta sesión, muy interesante y divertidísima además.
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  No, gracias. Gracias Rafael, Manuel, Beatriz y Sandra. Kevin.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Pues miren.
+[SPEAKER_05]  Sobre esa pregunta, es difícil ser ángel y virar hacia atrás.
+[SPEAKER_05]  y decir que
+[SPEAKER_05]  ¿Qué sigue que es valioso? Creo que lo más valioso que hay que mantener.
+[SPEAKER_05]  es
+[SPEAKER_05]  el contacto con los colegas, no el contacto vía las...
+[SPEAKER_05]  las redes. Yo creo que una cosa que se está perdiendo en la sociedad y todo...
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  A pesar de que este no es presencial, pero...
+[SPEAKER_05]  pero es diferente a muchas reuniones. Yo creo que sí es muy importante las tertulias presenciales, donde se discutan temas específicos. Yo creo que eso se ha perdido mucho.
+[SPEAKER_05]  Eleonora está haciendo unas tertulias buenísimas los sábados.
+[SPEAKER_05]  de cosas así. Yo diría que...
+[SPEAKER_05]  O usar la tecnología, pero unas tertulias de este estilo me parecerían muy enriquecedoras para las personas.
+[SPEAKER_05]  que puedan participar.
+[SPEAKER_05]  Y yo creo que lo importante es mantener.
+[SPEAKER_05]  Eh...
+[SPEAKER_05]  la aplicabilidad de la tecnología para el bienestar social, para el bienestar de nuestra comunidad.
+[SPEAKER_05]  unirnos, el tema de mantener la unión.
+[SPEAKER_05]  lo que decía de los gremios, vital.
+[SPEAKER_05]  que haya el representante de la industria, el representante de las profesiones y que haya una sinergia inclusive entre esas dos grandes representantes de los actores de la tecnología y de la aplicación social. Parece muy importante que se mantenga eso.
+[SPEAKER_05]  Que van.
+[SPEAKER_08]  Muy bien.
+[SPEAKER_08]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  que
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_06]  Bueno, muy bien. Sandra, ¿quieres comentar algo?
+[SPEAKER_03]  Sí, pues agradecerte por la presentación, por el detalle.
+[SPEAKER_03]  tanto a ti como a Manuel y a Rafael por el detalle tan minucioso de la explicación de las tecnologías en esa época.
+[SPEAKER_03]  tanto de lenguajes de programación como el software que se desarrolló.
+[SPEAKER_03]  como el detalle en la descripción de los elementos técnicos, que yo creo que enriquece este resumen o este...
+[SPEAKER_03]  recuento de la historia de la ingeniería de nuestro país. Muchísimas gracias.
+[SPEAKER_06]  Bueno, muy bien.
+[SPEAKER_06]  Bueno, Javier, pues muchas gracias. Creo que lo último que dijiste...
+[SPEAKER_06]  como dice la quinta revolución industrial, volver a lo humano.
+[SPEAKER_06]  acuerdo
+[SPEAKER_06]  Este comentario tuyo, volver a lo humano.
+[SPEAKER_06]  No.
+[SPEAKER_08]  Sí.
+[SPEAKER_08]  Gracias.
+[SPEAKER_08]  ¿Qué es el caso?
+[SPEAKER_06]  que se trabajaba con una pasión enorme, porque hablábamos de...
+[SPEAKER_06]  saber que en alguna de estas generaciones entramos a la universidad y no sabíamos en qué íbamos a trabajar.
+[SPEAKER_06]  Nadie estaba diciendo, voy a trabajar en esto para ganar plata. Eso no existía.
+[SPEAKER_06]  Existe una pasión enorme por el conocimiento, básicamente.
+[SPEAKER_08]  Gracias.
+[SPEAKER_06]  Entonces, danos la despedida, Luis Javier, y vamos a cerrar la tertulia.
+[SPEAKER_05]  Bueno, gracias Manuel. Reitero mis agradecimientos para todos.
+[SPEAKER_05]  Bueno, yo humildemente diría que hay muchísimas más personas que han aportado a la tecnología, a la historia.
+[SPEAKER_00]  Bueno.
+[SPEAKER_05]  Y que ojalá se pueda entrevistar a todos los posibles porque cada persona puede aportar muchísimo en este quest, en esta aventura de recuperar que es la historia de la computación para el Colombia. Hay muchísimas personas, variosísimas, que pueden estar complementando todo lo que nosotros podemos estar hablando ahora.
+[SPEAKER_05]  Entonces, no, agradecerles. Y quedó mucho tema por hablar, de tecnología nueva.
+[SPEAKER_08]  agradecerles
+[SPEAKER_06]  hablar
+[SPEAKER_06]  ¡Gracias!
+[SPEAKER_05]  Nos quedamos en 1989.
+[SPEAKER_06]  Estamos en...
+[SPEAKER_06]  ¡Gracias!
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Bueno, sí, esta es reminiscencia, ¿no? Reminiscencias, ¿no? Sí, exacto. Viene la foto de Beatriz, la foto que está más tranquila. Listo, yo, no, yo.
+[SPEAKER_05]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Listo, yo aproveché y tomé cuando vi a Sandra aquí.
+[SPEAKER_06]  Ah, ya.
+[SPEAKER_02]  Me pareció bien, pero...
+[SPEAKER_02]  Si nos ponemos en pose, Sandra, y prendes cámara, o tomo otra.
+[SPEAKER_06]  Adiós, Sandra.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Kevin
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Kevin, ya se desapareció. Kevin, por favor, históricamente.
+[SPEAKER_02]  Y es que a mí...
+[SPEAKER_05]  que aparezcas en la historia.
+[SPEAKER_08]  Gracias.
+[SPEAKER_08]  Eso, ahí está.
+[SPEAKER_05]  Eso.
+[SPEAKER_06]  Gracias.
+[SPEAKER_08]  listo
+[SPEAKER_08]  Sí.
+[SPEAKER_08]  Eso, Kevin, tú también vengas a tomar otra foto.
+[SPEAKER_01]  Exact accurate, gracias.
+[SPEAKER_08]  Perfecto.
+[SPEAKER_08]  Esperen, yo veo como...
+[SPEAKER_01]  Miren, yo veo cómo está aquí.
+[SPEAKER_08]  Gracias.
+[SPEAKER_01]  me gustó
+[SPEAKER_08]  Que haya quedado bueno.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  ¡Listo!
+[SPEAKER_08]  Listo, ¿qué onda?
+[SPEAKER_01]  Listo, bueno.
+[SPEAKER_01]  Gracias.
+[SPEAKER_08]  Muchas gracias a todos. Muchas gracias a todos. Nos seguimos viendo.
+[SPEAKER_01]  Gracias a todos.
+[SPEAKER_01]  Gracias a ti.
+[SPEAKER_06]  Gracias a todos.
+[SPEAKER_06]  Nos seguimos viendo.
+[SPEAKER_08]  Seguimos viendo.
+[SPEAKER_06]  Seguimos viendo.
+[SPEAKER_08]  Gracias.
+[SPEAKER_01]  Gracias Luis Javier.
+[SPEAKER_08]  Gracias. Hasta luego.
+[SPEAKER_08]  Muchas gracias.
+[SPEAKER_08]  Muchas gracias.
+[SPEAKER_01]  Pues para la grabación, Kevin.

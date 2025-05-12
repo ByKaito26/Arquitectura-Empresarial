@@ -1,0 +1,1526 @@
+[SPEAKER_00]  Listo.
+[SPEAKER_00]  Bueno.
+[SPEAKER_00]  Estamos iniciando la siguiente sesión de este plan de la evolución de la ingeniería de sistemas.
+[SPEAKER_00]  Siempre recordando que vamos desde los años 70 hasta la fecha actual.
+[SPEAKER_00]  Por dedicadas.
+[SPEAKER_00]  Y hoy tenemos a Julián.
+[SPEAKER_00]  García, graduado del 2004 de la Universidad Nacional.
+[SPEAKER_00]  Él está en este momento en Australia, también vale la pena contarle, siendo muy exitoso allá.
+[SPEAKER_00]  Tengo entendido que lleva cerca de ocho años viviendo ya con su familia y todo.
+[SPEAKER_00]  De tal manera, Julián, bienvenido a...
+[SPEAKER_00]  a esta sesión que vamos a conversar.
+[SPEAKER_00]  con tu manager en este tema que va a ser Sandra Liliana.
+[SPEAKER_00]  Y Rafa, nosotros también podemos eventualmente aceptar alguna pregunta.
+[SPEAKER_00]  algo relacionado.
+[SPEAKER_00]  Y como decíamos, vamos a conversar de tu vida.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  académica, claro, desde el colegio, la universidad, todo eso que ya hemos hablado.
+[SPEAKER_01]  Gracias.
+[SPEAKER_07]  de los estudiantes.
+[SPEAKER_00]  Y estás contribuyendo a esto de la evolución de la ingeniería de sistemas, ¿no?
+[SPEAKER_00]  Estamos con Rafa García, que bien lo conoces. Rafa lo conoce todo el mundo por el tema de la maratón y tantas cosas.
+[SPEAKER_01]  No.
+[SPEAKER_00]  Y Sandra Liliana, que es famosa en la Universidad Nacional.
+[SPEAKER_00]  y también por fuera en el tema académico.
+[SPEAKER_00]  Entonces le voy a dar la palabra, no sé si Rafa quiere dar un saludo ya que es un...
+[SPEAKER_00]  Es un pupilo de...
+[SPEAKER_00]  Un saludito a él y ya le pasamos la palabra a Sandrita. Está también Beatriz Caicedo.
+[SPEAKER_00]  directora ejecutiva de ASIS.
+[SPEAKER_00]  que siempre nos colabora absolutamente en todo. Gracias a ella podemos hacer todas estas cosas.
+[SPEAKER_00]  Le pago la palabra a Rafa y luego vamos con Sandra.
+[SPEAKER_05]  Gracias, Mati.
+[SPEAKER_03]  No, pues Julián...
+[SPEAKER_03]  Nada como...
+[SPEAKER_03]  Como lo decía hace un momento, qué grato este encuentro, qué grato.
+[SPEAKER_03]  verte nuevamente, es...
+[SPEAKER_03]  Y en la referencia que hacíamos a programación dinámica y a programación no determinista, teoría, análisis de algoritmos y demás, seguimos en esas. Entonces, mucha ilusión, más que otra cosa, de esta reunión que nos va a ocupar el día de hoy con muchas...
+[SPEAKER_03]  La expectativa es saber en qué andas, por ejemplo, esa parte final va a ser.
+[SPEAKER_03]  Va a ser un chévere.
+[SPEAKER_03]  recordar un poco de las cosas que...
+[SPEAKER_03]  que vivimos en algunos momentos y de otras que...
+[SPEAKER_03]  que de pronto estábamos en momentos de la vida evidentemente diferentes.
+[SPEAKER_03]  Pero...
+[SPEAKER_03]  Pero chévere.
+[SPEAKER_03]  compartirlas ahora desde una perspectiva externa.
+[SPEAKER_03]  y
+[SPEAKER_03]  Pues nada, muy grato, muy grato este encuentro y agradezco a Sandra por haberte propuesto.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  Porque sinceramente...
+[SPEAKER_03]  cuando me conecté. Es una sorpresa. Gran sorpresa.
+[SPEAKER_07]  Es una sorpresa.
+[SPEAKER_03]  Muchísimas gracias Sandra por regalarme este encuentro con Julián.
+[SPEAKER_05]  Aquí es un encuentro de amigos, justamente cuando empezamos a participar por invitación de Manuel.
+[SPEAKER_05]  en este recuento histórico del programa de la Ingeniería de Sistemas en Colombia.
+[SPEAKER_05]  Encuentra uno que muchos de los participantes son amigos, conocidos, compañeros.
+[SPEAKER_05]  y ha sido una experiencia y un trabajo muy bello.
+[SPEAKER_05]  con un nivel de importancia muy grande que va a trascender bastante para el país.
+[SPEAKER_05]  porque es el recuento de realmente...
+[SPEAKER_05]  de si cumplimos o no con ese contrato como universidad con la sociedad.
+[SPEAKER_05]  Y yo creo que ustedes son representantes de que las universidades en Colombia...
+[SPEAKER_05]  formamos gente de altísima capacidad humana, seres humanos integrales con un potencial tecnológico y científico académico muy grande. Entonces, pues ha sido un encuentro muy bello, ¿no, Rafael?
+[SPEAKER_05]  Nos escuchamos por aquí.
+[SPEAKER_03]  No, eso ha sido... nos hemos encontrado con...
+[SPEAKER_03]  No solamente contigo, sino también con...
+[SPEAKER_03]  con personas incluso de nuestras generaciones.
+[SPEAKER_03]  o anteriores y ha resultado que...
+[SPEAKER_03]  que al final
+[SPEAKER_03]  Todos somos una especie de cofradía.
+[SPEAKER_03]  extraño, donde sí nos conocemos y tenemos referencias a veces.
+[SPEAKER_03]  ¿No nos estamos siguiendo la pista con tanto detalle?
+[SPEAKER_03]  Y entonces aprovechamos este tipo de encuentros también para actualizar, como dicen los muchachos, para actualizar el cuaderno.
+[SPEAKER_03]  para adelantar el cuaderno.
+[SPEAKER_00]  Muy bien, yo creo que con eso estamos listos. Yo solo quiero solamente decirle a Julián, nos precede de este tema un programa de televisión que hicimos hace unos años.
+[SPEAKER_07]  bien
+[SPEAKER_00]  que se llamó Mi BIOS.
+[SPEAKER_00]  con los 21 pioneros antes de que la ingeniería de sistemas existiera.
+[SPEAKER_00]  ¿Hm?
+[SPEAKER_00]  que eran ingenieros civiles, eléctricos, curiosamente casi todos de la nacional.
+[SPEAKER_00]  ¿No?
+[SPEAKER_00]  Esa es una influencia de la universidad muy, muy importante. Claro, después se fundó que los Andes y no sé qué.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  pero eso nos precede.
+[SPEAKER_00]  Y esta ya es propiamente de la ingeniería.
+[SPEAKER_00]  Entonces arranquemos Sandra adelante y nosotros estaremos apoyando lo que sea necesario. Una cosa Julián, fechas.
+[SPEAKER_07]  ¡Listo!
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  fechas, ¿no? Y no te me gradúes a los cinco minutos.
+[SPEAKER_00]  ¿No?
+[SPEAKER_00]  No.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Vamos a hablar del proceso, porque algunos al minuto ya están graduados, ¿no?
+[SPEAKER_00]  pero obviamente vamos a llegar allá entonces adelante Sandrita
+[SPEAKER_07]  Sí.
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  ¡Feliz Navidad!
+[SPEAKER_05]  Bueno, para mí es un honor presentar a todos los que nos van a acompañar y van a ver este video.
+[SPEAKER_05]  presentará Julián.
+[SPEAKER_05]  Julián García es ingeniero de sistemas de la Universidad Nacional de Colombia.
+[SPEAKER_05]  De los pocos ingenieros que se gradúan,
+[SPEAKER_05]  con tesis meritorias, con honores en la Facultad de Ingeniería.
+[SPEAKER_05]  de la Universidad Nacional, que comenzó sus estudios en el año...
+[SPEAKER_05]  1998 y se grabó en el año 2004.
+[SPEAKER_05]  Actualmente está vinculado como profesor asociado a la Facultad de Información y Tecnología de Monash University.
+[SPEAKER_05]  Sigue siendo parte de nuestro grupo de profesores de la Universidad Nacional dentro del listado de profesores adjunto.
+[SPEAKER_05]  y pues creo que ese sería como
+[SPEAKER_05]  el inicio de tu presentación porque
+[SPEAKER_05]  De esto se trata justamente, que nos cuentes cómo fue ese desarrollo, esa infusión en el campo de la ingeniería de sistemas y computación.
+[SPEAKER_05]  y cómo llegas a trascender esta área en tu vida y en el desarrollo personal y profesional. Entonces, bienvenido, Julián.
+[SPEAKER_05]  Y pues damos inicio con una pregunta muy sencilla y es que nos cuentes un breve recuento de tu vida pequeño.
+[SPEAKER_05]  de quién eres, cómo estás y ya comenzaríamos como fue tu formación desde...
+[SPEAKER_07]  Ajá.
+[SPEAKER_05]  el momento en que te gradúas de bachiller.
+[SPEAKER_05]  cómo llegas a tomar esa decisión de estudiar Ingeniería de Sistemas de Computación y de allí para allá vamos desarrollando.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  la entrevista.
+[SPEAKER_02]  Sí, perfecto. Mi nombre es Julián García, soy profesor asociado en la Universidad de Monash, en Australia, en Melbourne.
+[SPEAKER_02]  Llevo aproximadamente ya casi nueve años en Australia.
+[SPEAKER_02]  Y antes de vivir en Australia estuve algunos años en Alemania y antes de eso estuve también en...
+[SPEAKER_02]  Holanda, donde hice mi doctorado.
+[SPEAKER_02]  eh
+[SPEAKER_02]  antes de hacer mi doctorado.
+[SPEAKER_02]  Trabajé en la industria.
+[SPEAKER_02]  un par de años.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  en Bogotá, donde me gradué.
+[SPEAKER_02]  Yo nací en Palmira Valle y crecí en Palmira Valle.
+[SPEAKER_02]  Y digamos que...
+[SPEAKER_02]  La historia que diría que es muy común a muchas personas de mi generación.
+[SPEAKER_02]  en algún momento nos regalaron un computador.
+[SPEAKER_02]  Y de alguna forma eso cambió las perspectivas y se descubrieron como...
+[SPEAKER_02]  ciertos intereses nuevos, etc.
+[SPEAKER_01]  No.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Digamos, cuando yo estaba en el colegio...
+[SPEAKER_02]  Mmm...
+[SPEAKER_02]  Me gustaba un poco...
+[SPEAKER_02]  como el periodismo.
+[SPEAKER_02]  Y me gustaba también...
+[SPEAKER_02]  Me gustaban también los computadores.
+[SPEAKER_02]  Me gustaba un poco también la política.
+[SPEAKER_02]  O sea que me gustaba básicamente, me gustaba como de todo un poquito.
+[SPEAKER_02]  eh eh
+[SPEAKER_02]  Pero digamos que cuando...
+[SPEAKER_02]  Yo tendría que haber tenido por ahí 15 años cuando me regalaron mi primer computador y empecé.
+[SPEAKER_02]  a cambiar el RAM, a entender un poquito qué era lo de la programación, etcétera.
+[SPEAKER_02]  Mi papá trabajaba en esa época en un...
+[SPEAKER_02]  en un instituto de investigación de agricultura que se llama CIAT.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Y en ese momento quizá era como lo más cercano a un mundo relativamente académico que yo tenía, digamos, en el entorno en el que yo estaba.
+[SPEAKER_02]  Entonces...
+[SPEAKER_02]  Digamos, un par de años antes de graduarme, mi papá habló con sus amigos en la sección de informática.
+[SPEAKER_02]  y
+[SPEAKER_02]  Terminé yo yendo allá todos los viernes por las tardes, digamos cuando ya me imagino que ellos ya no tenían trabajo.
+[SPEAKER_02]  Entonces yo me metía a internet y miraba revistas de computación, etcétera. Y definitivamente, pues como que esa, de alguna forma esa afición empezó a crecer y a crecer.
+[SPEAKER_00]  ¿Qué año era?
+[SPEAKER_02]  Ya yo era.
+[SPEAKER_02]  Eso tendría que ser más o menos 1996-97.
+[SPEAKER_02]  Ya había internet.
+[SPEAKER_02]  pero digamos que
+[SPEAKER_02]  De pronto no era como tan...
+[SPEAKER_02]  Ubíquito pues como es ahora.
+[SPEAKER_02]  Entonces, claro, yo aprovechaba también para...
+[SPEAKER_02]  meterme internet en esa época.
+[SPEAKER_02]  No recuerdo muy bien cuál era el nombre del mainframe, pero era cuando había esos computadores gigantescos que...
+[SPEAKER_02]  que lidiaban con todo.
+[SPEAKER_02]  ¿Qué tal la respuesta?
+[SPEAKER_06]  Era un esfuerzo seguramente grande porque te tocaba desplazarte hasta el CIAD.
+[SPEAKER_06]  Que es el Centro Internacional de Agricultura Tropical que queda cerca del aeropuerto, es lejos de Palmas.
+[SPEAKER_02]  Era muy...
+[SPEAKER_02]  Esa actitud, sí, te cuento. Mira, yo me subía en un bus que iba de Palmira a Cali.
+[SPEAKER_02]  Y entonces en la mitad del camino le decía al conductor que me dejara ahí.
+[SPEAKER_02]  Y son aproximadamente dos kilómetros, dos kilómetros caminando entre un caña dusal, que yo no sé si yo tuviera mis propios hijos ahora, no sé si...
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  aproximadamente dos
+[SPEAKER_07]  No lo haría.
+[SPEAKER_02]  Sí, los dejaría hacer eso, pero sí, eventualmente llegaba ya. Y digamos que para mí valía la pena, ¿no? Porque era como un mundo nuevo. Me acuerdo que estaban esas revistas en inglés también, entonces...
+[SPEAKER_02]  como tener literatura en inglés también de alguna forma era como muy...
+[SPEAKER_02]  eh
+[SPEAKER_02]  Sí, de alguna forma pues como que alimentaba mi cerebro.
+[SPEAKER_02]  Entonces, claro, eso generó...
+[SPEAKER_02]  ciertos intereses y eventualmente cuando ya terminé de graduarme pues tomé la difícil decisión de que bueno, tiene que estudiar algo.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  y escogí ingeniería de sistemas.
+[SPEAKER_02]  La siguiente decisión importante...
+[SPEAKER_02]  En ese momento fue si quería estudiar ahí en el valle.
+[SPEAKER_02]  la Universidad del Valle era como la primera opción.
+[SPEAKER_02]  y también estaba la Universidad Nacional.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  en Bogotá.
+[SPEAKER_02]  Entonces...
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Fue una sesión bastante difícil, digamos que...
+[SPEAKER_02]  eh
+[SPEAKER_02]  no solo mía, sino también de mi familia.
+[SPEAKER_02]  eventualmente digamos por
+[SPEAKER_02]  Me hacía mucha ilusión vivir en Bogotá.
+[SPEAKER_02]  Siempre quise salir de donde nací, digamos, de Portoleno de alguna forma. Entonces esa salida a Bogotá de alguna forma era como el primer paso a eso.
+[SPEAKER_02]  Y...
+[SPEAKER_02]  Creo que hasta el sol de hoy...
+[SPEAKER_02]  digamos de las muchas decisiones que he tomado en mi vida, creo que incluso he incluido decisiones como vivir aquí o allá, o hacer esto o lo otro.
+[SPEAKER_02]  La decisión que yo tomé de irme a Bogotá creo que ha sido...
+[SPEAKER_02]  probablemente la decisión más importante que he tomado.
+[SPEAKER_02]  por lo que implicó en mi desarrollo personal.
+[SPEAKER_02]  No solo...
+[SPEAKER_02]  digamos, la oportunidad de ir a la Universidad Nacional, sino también, digamos, la oportunidad de vivir solo, de vivir en Bogotá, de salir del entorno en el que estaba y vivir en una ciudad grande, etc.
+[SPEAKER_02]  Eh...
+[SPEAKER_05]  Mira, Julián, que hay una cosa importante. Mira, que te iba a comentar que hay algo interesante que tú mencionas y es que...
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Sí, sí, sí, sí, sí.
+[SPEAKER_01]  Me
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Para nosotros los que no somos de Bogotá hay que ir, nos desplazamos a Bogotá para formarnos.
+[SPEAKER_05]  en nuestras disciplinas. Justamente en el 98, 97, si bien en Bogotá ya existía el internet y los estudiantes tenían acceso al internet en diferentes computadores personales en las universidades, para nosotros los que estábamos en región era distinto porque el acceso al internet estaba en el centro educativo que tuviéramos más próximo o cercano o en la presa de personas que estuvieran conocidas.
+[SPEAKER_00] 
+[SPEAKER_05]  Entonces, el hecho de desplazarse a Bogotá y tener el acceso allí como núcleo central a ese despliegue de tecnología que comienza a impactar a nuestro país, pues fue bien interesante. Entonces, yo creo que ahí marcamos como un...
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Se marca una diferencia fuerte en lo que era el desarrollo de conectividad a nivel central de región andina.
+[SPEAKER_05]  y la conectividad en lo que estaba en Colombia y en las otras.
+[SPEAKER_05]  en las otras ciudades. Así es, un día.
+[SPEAKER_02]  Sí, efectivamente yo creo también que el...
+[SPEAKER_02]  Sí, de pronto se ve un poco en mi conversación también está como esa diferencia como entre Bogotá y el resto del país, ¿no? Y son cosas que...
+[SPEAKER_02]  que yo creo que van incluso más allá del acceso a internet. Yo recuerdo también cuando llegué a Bogotá.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Sentir un poco la diferencia, ¿no? Como de las personas que habían salido de colegios muy buenos en Bogotá versus yo y como, uy.
+[SPEAKER_02]  no sé, me toca como ponerme al día
+[SPEAKER_02]  Yo creo que a pesar de que Colombia es un país bastante descentralizado, digamos que yo también estaba cerca de un centro urbano muy grande que es Cali.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Yo creo que sí hay una diferencia ahí también entre la...
+[SPEAKER_02]  digamos, ese origen regional.
+[SPEAKER_02]  Y digamos, sí, la oportunidad de estar en Bogotá. Yo también creo que...
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  En Bogotá conocí también gente de todas partes del país en la Universidad Nacional y creo que todos traíamos como esa identidad de alguna forma.
+[SPEAKER_02]  Y esa...
+[SPEAKER_02]  Eso le dio como una naturaleza muy bonita también, pues como a esos grupos de amigos, etcétera, en Bogotá, porque estaban pues los bogotanos, pero también estaba...
+[SPEAKER_02]  Sí, el que venía de Bucaramanga, el que venía de...
+[SPEAKER_02]  de otros lugares.
+[SPEAKER_02]  Entonces, de alguna forma eso también, yo digo que esa oportunidad de ir a Bogotá y estar particularmente en la Universidad Nacional.
+[SPEAKER_02]  Fue también para mí como una forma de conocer un poco el país, de cierta forma, como tener otra perspectiva ahí.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Sí, bueno, yo llegué a Bogotá en el 98.
+[SPEAKER_02]  aproximadamente en julio, obviamente un proceso bastante grande.
+[SPEAKER_02]  como de adaptación.
+[SPEAKER_02]  Y lo primero que recuerdo desde el punto de vista académico...
+[SPEAKER_02]  Es como el...
+[SPEAKER_02]  Sí, la necesidad de empezar a estudiar.
+[SPEAKER_02]  Con mucha dedicación.
+[SPEAKER_02]  por decirlo de alguna forma.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Quizás el curso más memorable en mi primer año fue el curso de programación de computadores.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Tuve la suerte.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  de tomar ese curso con el profesor Jonathan Gómez.
+[SPEAKER_02]  Jonathan en ese momento creo que no había salido a hacer su doctorado, pero Jonathan estaba haciendo una maestría en matemáticas.
+[SPEAKER_02]  o estaba terminando una maestría en matemáticas. Y creo que eso le dio como cierto color muy bonito al curso.
+[SPEAKER_02]  Entonces, había muchas secciones de programación de computadores.
+[SPEAKER_02]  Pero yo me atrevo a decir que la sección en la que yo estaba era bastante especial, por decirlo de alguna forma.
+[SPEAKER_02]  porque lo que yo recuerdo muy bien es que los primeros dos meses era solo tablero y no computadores.
+[SPEAKER_02]  era tablero
+[SPEAKER_02]  ejercicios que parecían más como ejercicios de matemáticas.
+[SPEAKER_02]  En realidad es lo que después vine a conocer, eran como algoritmos y definición de tipos a partir de composición de funciones y un estilo muy funcional que ahora que lo veo ya pues como que tiene mucho sentido, pero en ese entonces.
+[SPEAKER_02]  Era como...
+[SPEAKER_02]  era como, uy, esto está como raro, ¿no? Porque yo también hablaba con los compañeros que estaban tomando el curso en otras secciones.
+[SPEAKER_02]  Y ellos eran, no, no, estamos aprendiendo Pascal y ciclos y estructuras de... Y yo era como...
+[SPEAKER_02]  Sí, pero nosotros estamos hablando de conjuntos de conjuntos, o sea, y de composición generalizada de funciones.
+[SPEAKER_02]  Entonces...
+[SPEAKER_02]  era un poco extraño y ya como hacia el final del curso
+[SPEAKER_02]  En algún momento llega Jonathan y hacen un tablero muy grande.
+[SPEAKER_02]  en lo que llamamos el edificio de ingeniería nuevo.
+[SPEAKER_02] 
+[SPEAKER_02]  Dibuja cuatro columnas. En la primera columna pone la notación matemática. En la segunda columna dice, mire, así se hace en C. En la tercera columna dice, así se hace en Pascal. Y en la otra columna dice, así se hace en Java.
+[SPEAKER_02]  Y todos esos ejercicios nos tocó entonces llegar y hacerlos no solo en C,
+[SPEAKER_02]  o creo que Pascal era lo que usaban las otras secciones, sino en todos esos lenguajes.
+[SPEAKER_02]  Y...
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  funcionó.
+[SPEAKER_02]  O sea, funcionó para mí.
+[SPEAKER_02]  No sé si funcionó para todo el mundo, pero para mí funcionó y digamos que de ese curso tomo cosas muy bonitas.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Digamos ahorita que ya soy, entre comillas, viejo, pues tengo un libro en mi biblioteca, en mi oficina, que se llama Purely Functional Programming.
+[SPEAKER_02]  Y ahí encuentro todos esos elementos que me enseñaron en el año 98.
+[SPEAKER_02]  y que digamos de alguna forma sí, todavía los uso
+[SPEAKER_02]  Fue bastante difícil, pero digamos que esa clase con Jonathan fue muy especial en particular porque también me abrió los ojos.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  a otras perspectivas de la disciplina.
+[SPEAKER_02]  Entonces, una de las clases que más recuerdo.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Cuando él llega a hablar de definición de tipos, entonces antes de eso hablábamos de conjuntos, y para hablar de conjuntos él eventualmente terminó hablando de la paradoja de Russell.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Y la clase donde él introduce la parábaja de Russell para mí fue como si...
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  como el emoji que le explota la cabeza, algo así.
+[SPEAKER_02]  Y recuerdo mucho con mi compañero en ese entonces, Juan Carlos Galeano.
+[SPEAKER_02]  Estoy seguro que muchos de ustedes lo recuerdan a él.
+[SPEAKER_02]  O sea, nos sentábamos a tratar como de buscar ejemplos de esta paradoja.
+[SPEAKER_02]  Y fue una cosa, digamos, que como intelectualmente muy...
+[SPEAKER_02]  estimulante y creo que
+[SPEAKER_02]  Sí, a partir de ese entonces como que...
+[SPEAKER_02]  aprendí a ver también como otras cosas de la disciplina y creo que incluso como esas experiencias tan tempranas de alguna forma como que llevaron pues después a las decisiones que tomé para de alguna forma pues como escoger un camino académico.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Estamos en 1998.
+[SPEAKER_05]  ¿Cómo te fue con los cálculos? Porque ese es un punto neurálgico para la Universidad Nacional, todo lo que es la parte de formación disciplinar.
+[SPEAKER_05]  en ciencias exactas y naturales como fue
+[SPEAKER_07]  Sí, sí, sí
+[SPEAKER_01]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_01]  Sí.
+[SPEAKER_05]  ese encuentro contigo en esas áreas y que...
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Me fue relativamente...
+[SPEAKER_01]  Me fue relativamente bien.
+[SPEAKER_01]  El primer cálculo lo tomé con uno de los mantillas.
+[SPEAKER_01]  Creo que era...
+[SPEAKER_01]  Gracias, mi amor.
+[SPEAKER_02]  Olvida el nombre en este momento.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  En esa época se llamaba Matemáticas 1 y era muy bueno.
+[SPEAKER_02]  y recuerdo muy
+[SPEAKER_02]  También muy claramente en una de las primeras clases lo que nos dijo fue
+[SPEAKER_02]  ¿Cuántos de ustedes han visto límites en el colegio?
+[SPEAKER_01] 
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Y entonces algunos alzaron la mano, ¿no? Y lo que nos dice después es, bueno, olvídense.
+[SPEAKER_02]  Voy a explicarlo otra vez y como que lo vamos a hacer.
+[SPEAKER_02]  vamos a hacer de la forma correcta. Matemáticas 2 no me fue tan bien, de hecho terminé perdiendo esa materia y pasé raspando, o sea, por muy poco.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Pero eso de alguna forma también fue bueno, porque esa materia la tomé después con un profesor.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  O sea, la segunda vez la tomé con un profesor de apellido Rincón.
+[SPEAKER_02]  como probablemente ustedes también recuerden.
+[SPEAKER_02]  Tenían un apodo que no voy a decir acá, pero digamos que tenía una fama muy...
+[SPEAKER_02]  de ser muy difícil.
+[SPEAKER_02]  por ponerlo de cierta forma, incluso
+[SPEAKER_02]  Era muy bonito porque él tenía su propio libro, que era el nombre.
+[SPEAKER_02]  del código de la materia Matemáticas 12.
+[SPEAKER_02]  y eran unos ejercicios que eran
+[SPEAKER_02]  muy difíciles en esa época
+[SPEAKER_02]  Me gustaba a mí un cálculo que se llamaba la apóstol y me gustaba supuestamente porque era como el más.
+[SPEAKER_02]  el más difícil de los cálculos.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Y recuerdo que esos ejercicios del profesor Rincón, o sea, eran más difíciles que incluso los del apóstol.
+[SPEAKER_02]  o por lo menos los recuerdo de esa forma.
+[SPEAKER_02]  ya a partir de ese momento creo que me fue bien yo creo que esa clase con el profesor Rincón de alguna forma fue también como que sentó unas bases que no había ahí
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Y yo creo que a partir de ese momento como que...
+[SPEAKER_02]  De alguna forma, sí, la parte de las matemáticas empezó a tener como otro sabor que antes no estaba.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  en un sentido, digamos, también positivo.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Eso viene siendo entonces más o menos, sí, en el año 99.
+[SPEAKER_02]  Creo que por esa época también estábamos tomando nuestros primeros cursos de estructuras de datos.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Y...
+[SPEAKER_02]  Digamos que en esa época, digamos, mi perspectiva era como muy, o sea, me gustaba mucho la teoría, pero digamos que como que mi...
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Lo que en realidad yo quería era practicar la ingeniería de sistemas.
+[SPEAKER_02]  O sea, me voy a graduar y, no sé, voy a ser en esa época creo que un ingeniero de software o arquitecto de software o...
+[SPEAKER_02]  o algo de ese estilo, entonces no tenía como...
+[SPEAKER_02]  No tenía como una visión muy...
+[SPEAKER_02]  muy específica de querer tener como una carrera académica.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  A pesar de que sí, estudiábamos mucho y...
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Sí, con muchos compañeros.
+[SPEAKER_02]  Incluso recuerdo...
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Yo descansaba los sábados, pero los domingos nos íbamos para la Luis Ángel Arango.
+[SPEAKER_02]  eh
+[SPEAKER_02]  Creo que abrían a las 8, a las 8 estábamos allá.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Recuerdo buscando un libro de física que se llamaba La Tipler, pero entonces en la...
+[SPEAKER_02]  en la eh en la
+[SPEAKER_02]  En la Luis Ángel Arango tenían una versión en inglés que era mucho más grande y mucho más bonita y como una nueva edición que no estaba todavía traducida al español.
+[SPEAKER_02]  Y esa también tenía como los ejercicios más bonitos, por decirlo de cierta forma. Mi profesor de física...
+[SPEAKER_02]  Era de apellido Cediel y era...
+[SPEAKER_02]  era muy estricto, muy bueno, entonces nosotros...
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  con algunos compañeros íbamos a la Luis Ángel todos los domingos.
+[SPEAKER_02]  A las 8 ni siquiera, sí, y al otro día...
+[SPEAKER_02]  Estábamos en la oficina del profesor Cediel con los ejercicios que no habíamos podido resolver.
+[SPEAKER_02]  Y esa es como, digamos, como mi experiencia también como en la Universidad Nacional, ¿no? O sea, digamos que no sé si era el hecho de que yo venía de afuera, pero entonces digamos que había mucho tiempo y...
+[SPEAKER_02]  lo dedicaba, digamos que casi que 100% al...
+[SPEAKER_02]  al estudio.
+[SPEAKER_02]  También había un grupo de amigos, digamos que eso trasciende la ingeniería de sistemas, pero teníamos un grupo de amigos.
+[SPEAKER_02]  de alguna otra gente que había venido del valle.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  también de otras carreras, y yo creo que también como esa perspectiva de otras disciplinas también de alguna forma influenció.
+[SPEAKER_02]  como el camino que yo eventualmente tomé.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Digamos que...
+[SPEAKER_01]  ¡Gracias!
+[SPEAKER_02]  Todo iba como en camino de que si yo iba, pues digamos que quería ser como ingeniero de sistemas y practicar.
+[SPEAKER_02]  la ingeniería de sistemas, digamos, en un sentido no académico, sino salir a la industria, etc.
+[SPEAKER_02]  Y eso de pronto cambia un poquito.
+[SPEAKER_02]  Yo creo que hay dos factores ahí.
+[SPEAKER_02]  Dos factores importantes. Uno de esos factores es que en esa época el profesor Fernando Niño, el profesor Germán Hernández.
+[SPEAKER_02]  regresaron de Estados Unidos, habían terminado su doctorado.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  regresaron a enseñarnos un curso que se llamaba análisis de algoritmo, que en esa época era nuevo.
+[SPEAKER_02]  Yo creo que...
+[SPEAKER_02]  No exagero cuando digo que ellos tuvieron un rol bastante...
+[SPEAKER_02]  en ciertos cambios importantes que hubo en el pensum de la carrera, por lo menos en la Universidad Nacional en ese momento.
+[SPEAKER_02]  y de alguna forma digamos que como yo era uno de los estudiantes curiosos que siempre estaba haciendo preguntas, etc. Entonces yo creo que esas conversaciones en particular con el profesor Fernando Niño
+[SPEAKER_02]  De alguna forma como que abrieron mis ojos a decir, oh mira, hay una oportunidad de hacer como una carrera académica.
+[SPEAKER_02]  digamos que
+[SPEAKER_02]  eso no existía como en mi entorno familiar, entonces fue una cosa que en ese momento como que descubrí.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Eso por un lado. Ahí hay una cosa.
+[SPEAKER_05]  Eso por un lado. Ahí hay una cosa, te interrumpo, qué pena, y una cosa importante y es que...
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  justamente como lo menciona Julián
+[SPEAKER_05]  Juliana hace parte del grupo de estudiantes que se formó antes de la reforma del 2008, la reforma que lleva a toda la educación superior.
+[SPEAKER_05]  alinearse con los estándares internacionales para pasar la modalidad de calificación de 0 a 5.
+[SPEAKER_05]  en asignaturas específicas a...
+[SPEAKER_05]  La modalidad de compartir esas asignaturas en términos de créditos, ¿no?
+[SPEAKER_05]  ¿Cuánto equivale un crédito en términos de horas para poder hacer eso?
+[SPEAKER_05]  este match entre los programas internacionales y los programas de ingeniería de sistemas en Colombia.
+[SPEAKER_05]  Precisamente por la dificultad que tuvieron los profes Jonathan y el profe Germán.
+[SPEAKER_05]  Hernández y Luis Hernando Niño al intentar explicarle
+[SPEAKER_05]  al resto de sus colegas en el mundo, que era la ingeniería de sistemas y computación, bueno, en ese momento no era de computación, era de sistemas solamente, en Colombia.
+[SPEAKER_05]  porque la asociaba muchísimo a la parte técnica y científica de programación de dispositivos a gran escala.
+[SPEAKER_05]  Y nosotros trabajamos era cosas diferentes. Entonces ellos querían...
+[SPEAKER_05]  que los estudiantes tuvieran la oportunidad de hacer el match entre lo que estudiaba un ingeniero de sistemas en Colombia.
+[SPEAKER_05]  versus lo que estudiaban los demás ingenieros de sistemas en el mundo, y que no fuera tan complicada esa explicación, ¿no? Así en términos generales y coloquiales, ¿no? No, y tiene mucho sentido porque yo también...
+[SPEAKER_02]  Y tiene mucho sentido porque yo también
+[SPEAKER_05]  Sí, yo también.
+[SPEAKER_02]  Sí, yo también tuve ese problema, digamos, de alguna forma que la disciplina...
+[SPEAKER_02]  Sí, como ingeniería de sistemas y de pronto...
+[SPEAKER_02]  Era un poquito difícil encontrar cosas similares o explicarle a la gente.
+[SPEAKER_02]  por fuera.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  digamos, por qué es así. De hecho, yo recuerdo mucho...
+[SPEAKER_02]  Tiempo después, cuando estuve viviendo, de hecho, en Alemania, que yo le explicaba a uno de mis profesores, le explicaba, mire, es que lo que yo estudié dura cinco años y tiene una tesis al final y es así. Y entonces él me dijo, ah, es que lo que usted hizo fue un diploma.
+[SPEAKER_02]  Diploma Alemán.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Sí.
+[SPEAKER_02]  Sí, porque en Alemania los dividendos...
+[SPEAKER_05]  Porque en Alemania los dividen en dos bloques, ¿no?
+[SPEAKER_05]  Viene un bloque que es como, está dividido en dos secciones. El primer bloque donde te entregan un certificado.
+[SPEAKER_05]  Y luego sí, cuando haces tu tesis, te entregan el diploma, ¿cierto? Que es como valida la parte técnica y luego sí, entrega.
+[SPEAKER_05]  El título en Alemania es más o menos así.
+[SPEAKER_02]  Sí.
+[SPEAKER_05]  Pero es de...
+[SPEAKER_02]  Pero ese diploma, digamos, que yo creo que sería como lo más cercano a lo que yo hice, donde había pues como una tesis así necesaria y como de ese nivel y también los cinco años, digamos, que era la carrera.
+[SPEAKER_05]  Y hay que recordar que tú haces parte del grupo de antes de la reforma, donde la tesis de pregrado de la nacional era casi...
+[SPEAKER_05]  una tesis de maestría hoy en día, ¿no?
+[SPEAKER_05]  Bueno, voy a hablar también de...
+[SPEAKER_02]  Bueno, voy a hablar también de eso en un momento, porque digamos que la tesis para mí fue también...
+[SPEAKER_05]  que la
+[SPEAKER_02]  Sin exagerar, me cambió la vida y ya les contaré por qué.
+[SPEAKER_05]  Yo quería, antes de que sigas también, hacer ahí un paréntesis.
+[SPEAKER_02]  Hacen de que sí.
+[SPEAKER_05]  Y es... hoy tenemos un sinnúmero de materias que hizo que el plan de estudios...
+[SPEAKER_05]  quedará más o menos
+[SPEAKER_05]  Fijado para un promedio de cuatro años para la graduación, pero en el momento en que Julián estaba...
+[SPEAKER_05]  cursando el programa de Ingeniería de Sistemas en la Nacional.
+[SPEAKER_05]  El promedio de sistemas que se cursaban, de materias en sistemas que se cursaban, era de 64 materias, o sea, un gran número de asignaturas.
+[SPEAKER_05]  con una intensidad horaria muchísimo más fuerte y un componente...
+[SPEAKER_05]  riguroso en la parte de educación de ciencias exactas y naturales.
+[SPEAKER_05]  Y pues también es un gusto hacer referencia a las profesoras que estaban en ese momento, que estaban profesoras Martilla.
+[SPEAKER_05]  El profesor Rincón.
+[SPEAKER_05]  El profesor Jonathan, entonces, el nivel de rigurosidad, pues obviamente era siempre mucho más alto.
+[SPEAKER_05]  Sí.
+[SPEAKER_05]  Adelante, Julián, ya no te interrumpo más. Pasen, pasen. El profesor Rafael García también. Sí, sigue, sigue rápido.
+[SPEAKER_02]  El profesor Rafael García también. Sí, sigue.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  No, no, no, por favor interrúmpeme porque si lo hacemos como una conversación también me ayuda un poquito como a...
+[SPEAKER_02]  A mirar eso, pero sí tienes razón.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  digamos en ese momento cuando volvió, cuando volvieron.
+[SPEAKER_07]  Gracias.
+[SPEAKER_01]  Llegamos en ese momento.
+[SPEAKER_02]  Germán y Fernando.
+[SPEAKER_02]  De alguna forma sí se empezó también como a tratar de poner ciertas cosas pues como a que ellos traer esa experiencia.
+[SPEAKER_02]  Y...
+[SPEAKER_02]  Y yo lo recuerdo así, lo recuerdo en ese momento, incluso como estudiante no me imagino lo que debe haber sido como parte del...
+[SPEAKER_02]  del profesorado en ese momento, pero incluso como estudiante sí se veía como...
+[SPEAKER_02]  como una inyección necesaria.
+[SPEAKER_02]  de
+[SPEAKER_02]  no sé, de sangre nueva, de energía, ¿no? Y de algún momento a otro, entonces nosotros estábamos ya estudiando.
+[SPEAKER_02]  análisis de algoritmos con el libro de Cormen, que era como una biblia a nivel internacional.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Entonces...
+[SPEAKER_02]  Entonces eso fue muy importante también para mí.
+[SPEAKER_02]  Y efectivamente, como esas diferencias en el...
+[SPEAKER_02]  en
+[SPEAKER_02]  en esa época con lo que se hacía también por fuera.
+[SPEAKER_02]  eran importantes. Yo quisiera enfatizar en el sentido de que eran diferencias semánticas porque
+[SPEAKER_02]  De alguna forma, aunque sí hay cambios curriculares ahí también importantes.
+[SPEAKER_02]  Me atrevería a decir que hasta conté con la suerte de tomar ese pensum anterior, digamos, porque tenía también ciertas cosas que de pronto ahora no hay, pero que, digamos, han influenciado también mi carrera y mi trayectoria.
+[SPEAKER_02]  Entonces de alguna forma...
+[SPEAKER_02]  O sea, está bien innovar y...
+[SPEAKER_02]  poner las cosas como... hacer que las cosas...
+[SPEAKER_02]  estén alineadas con estándares internacionales también, etcétera. Pero lo que se hacía también, digamos que tenía también su valor, lo que se hacía en esa época, sin que eso necesariamente implique que yo iría a meter la mano a la candela para volver allá.
+[SPEAKER_02]  No sé si me explico.
+[SPEAKER_07]  Gracias.
+[SPEAKER_02]  Pero entonces, si los profesores...
+[SPEAKER_02]  Fernando y Germán en particular tuvieron ahí una labor muy importante.
+[SPEAKER_02]  En esa época había unas electivas de contexto, creo que se llamaban en esa época, ahorita no sé si se llaman electivas libres o algo similar.
+[SPEAKER_02]  Esas selectivas de contexto...
+[SPEAKER_02]  le daban a los estudiantes la oportunidad de tomar asignaturas en otras...
+[SPEAKER_02]  en otras carreras o cosas que tuvieran como un carácter.
+[SPEAKER_02]  donde presentas en un...
+[SPEAKER_02]  en un salón de clases con gente que está estudiando muchas otras cosas.
+[SPEAKER_02]  Para mí esa también fue como una parte...
+[SPEAKER_02]  Muy importante mi formación y en particular tanto la ciudad de Bogotá como la Universidad Nacional.
+[SPEAKER_02]  Y el carácter de la Universidad Nacional creo que tuvo un rol ahí bastante significativo, en el sentido de que me permitió ir a otras facultades y tomar también...
+[SPEAKER_02]  cursos de otras facultades.
+[SPEAKER_02]  Entonces tomé los cursos clásicos, recuerdo Astronomía para Todos, era una lectiva de contexto que era muy famosa en esa época.
+[SPEAKER_02]  eh
+[SPEAKER_02]  con una noviecita que yo tenía en ese momento, y nos levantamos a las 4 de la mañana.
+[SPEAKER_02]  para ir a hacer fila en la puerta 26
+[SPEAKER_02]  y cuando abrían la puerta salir corriendo hasta llegar al observatorio para poder inscribirse.
+[SPEAKER_02]  En esa época era así. Entonces, digamos que esos cursos...
+[SPEAKER_02]  Esos cursos, como de otras facultades, fueron también importantes.
+[SPEAKER_02]  y tuve la suerte
+[SPEAKER_02]  de
+[SPEAKER_02]  como temprano en esa secuencia de cursos libres, tomar algunos cursos en la Facultad de Economía.
+[SPEAKER_02]  Entonces, tengo recuerdos muy bonitos de curso de pensamiento económico con el profesor Beethoven Herrera.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  sencillamente uno de los mejores educadores que me he encontrado.
+[SPEAKER_02]  en toda mi vida.
+[SPEAKER_02]  y también cursos, digamos, un poco más técnicos como Microeconomía I.
+[SPEAKER_02]  equilibrio general. Entonces...
+[SPEAKER_02]  Lo que pasó ahí fue que yo empecé a tomar esos cursos y me empecé a sentir como que...
+[SPEAKER_02]  Hola.
+[SPEAKER_02]  Yo de pronto debería de ver si hay economía, porque eso está como chévere.
+[SPEAKER_02] 
+[SPEAKER_02]  Y de hecho hasta en algún momento en esas dudas...
+[SPEAKER_02]  Hasta pensé de pronto cómo hacer una transferencia a la Facultad de Economía.
+[SPEAKER_02]  Finalmente eso no pasó, pero digamos que la clave ahí es que encontré el...
+[SPEAKER_02]  como lo dio el profesor Fernando Niño.
+[SPEAKER_02]  Y en esa época yo estaba interesado en...
+[SPEAKER_02]  digamos, el área de teoría de juegos y en particular el problema de la cooperación.
+[SPEAKER_02]  me parecía pues como la cosa más fascinante pues que
+[SPEAKER_02]  que en ese momento tenía como enfrente mío.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Entonces, digamos, en esa época todo el mundo hablaba como del dilema del prisionero. Es un juego muy sencillo donde básicamente cuando los agentes quieren maximizar su...
+[SPEAKER_02]  beneficio individual terminan en una situación que es peor.
+[SPEAKER_02]  a lo que ellos podrían haber hecho.
+[SPEAKER_02]  si de alguna forma hubiesen escogido ayudar al otro. Entonces digamos que la...
+[SPEAKER_02]  el dilema del prisionero precisamente consiste en...
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  que cuando la gente, digamos, de alguna forma está sola, tratando simplemente de ir por su propio beneficio, terminan en una situación.
+[SPEAKER_02]  peor. Entonces...
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Mi profesor de microeconomía.
+[SPEAKER_07]  Mmm.
+[SPEAKER_02]  Yo le pregunté, bueno, ¿no hay como modelos un poquito más, como menos sencillos de esto, como de pronto más aplicados a la realidad?
+[SPEAKER_02]  y él me regaló un paper que se llamaba en ese momento The Great Fish War.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  que es una extensión como de SiteDA.
+[SPEAKER_02]  Ah
+[SPEAKER_02]  a un ambiente donde hay
+[SPEAKER_02]  como una dinámica externa. Entonces hay un lago y son pescadores, etc. Y es una solución que se llama Cournot.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Y yo empecé a pensar como en extensiones a N jugadores, como no solo entre dos, sino entre N jugadores.
+[SPEAKER_02]  Y me gustó tanto que yo le dije a profesor Fernando Niño...
+[SPEAKER_02]  Yo quiero como estudiar esto porque mire, aquí hay dos equilibrios y como la forma en la que...
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Los economistas piensan, pues ellos no piensan como en aprendizaje, pero desde el punto de perspectiva de la computación.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  lo que nosotros podemos hacer es como mirar
+[SPEAKER_02]  Si le damos a esos agentes como algoritmos de aprendizaje, ¿qué equilibrio aprenden a jugar?
+[SPEAKER_02]  Y...
+[SPEAKER_02]  digamos el profesor Fernando tuvo la
+[SPEAKER_02]  La paciencia.
+[SPEAKER_02]  primero que todo para escucharme, pues porque eso era como raro, o sea, un man con venir con papers de economía acá.
+[SPEAKER_02]  y también, digamos, para de alguna forma apoyarme.
+[SPEAKER_02]  Entonces eso se terminó.
+[SPEAKER_02]  volviendo.
+[SPEAKER_02]  mi proyecto de grado.
+[SPEAKER_02]  y trabajé solo en esa tesis y básicamente era aplicar
+[SPEAKER_02]  lo que se llama programación genética, en esa época se llama programación genética.
+[SPEAKER_02]  Ahorita le dicen symbolic regression, pero es lo mismo.
+[SPEAKER_02]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_02]  y la aplicamos a ese problema y tuvimos resultados muy bonitos. Había una cosa muy interesante ahí y es que...
+[SPEAKER_02]  Yo necesitaba mucha computación como para que los agentes convergieran a cosas que, digamos, de alguna forma tenían sentido.
+[SPEAKER_02]  Entonces...
+[SPEAKER_02]  Precisamente en esa época, el profesor Gabriel Mañana...
+[SPEAKER_02]  Estaba...
+[SPEAKER_02]  Esta va...
+[SPEAKER_02]  empezando a pensar como en grid computing y cosas de ese estilo. Y tenía un par de estudiantes.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Ariel
+[SPEAKER_02]  me recuerdo el otro, me tocaría meterme a LinkedIn y consigo los nombres, pero tenía un par de estudiantes que estaban mirando.
+[SPEAKER_02]  estaban realmente programando una forma en la que uno podría donar
+[SPEAKER_02]  los ciclos de su computador corriendo un programa.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Y ellos tenían un sistema que era bastante funcional y usaba computadores en la red de la universidad.
+[SPEAKER_02]  hasta el punto de que ellos necesitaban como una aplicación y yo tenía ya mi programita listo y lo corrimos así. Yo creo que eso fue un ejemplo muy bonito de, digamos, de cosas convergiendo y de gente de esa generación que estaba haciendo cosas muy interesantes.
+[SPEAKER_02]  donde eventualmente pudimos como juntar esas dos cosas.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Y eso se convirtió en mi proyecto de grado.
+[SPEAKER_02]  Entonces ahí tuvimos unos resultados relativamente interesantes.
+[SPEAKER_02]  Y en algún momento el profesor Fernando me dice...
+[SPEAKER_02]  No, yo creo que esto lo podemos escribir en un paper y lo mandamos a una conferencia y hay una conferencia que se llama...
+[SPEAKER_02]  CEC, Conference on Evolutionary Computation.
+[SPEAKER_02]  que va a ser en Australia y Fernando me dice y yo siempre he querido ir a Australia.
+[SPEAKER_02]  Entonces escribamos el paper y yo voy a mostrarles lo presento.
+[SPEAKER_02]  Y yo, bueno, no, excelente, hagámosle. Y empezamos a escribir el paper. Yo obviamente con mi inglés de esa época que no era tan bueno.
+[SPEAKER_02]  necesitaba pues como mucha
+[SPEAKER_02]  guía del profesor Fernando y escribimos el paper y mandamos el paper y todo esto pues fue un proceso absolutamente nuevo para mí, o sea, qué significa esto y cómo así que se manda y que lo revisan.
+[SPEAKER_02] 
+[SPEAKER_02]  pero también muy enriquecedor, porque era como ¡guau!
+[SPEAKER_02]  Estamos aquí generando este conocimiento nuevo y hay gente que son expertos, que lo van a leer, etc. Entonces, como ya solo tener esa oportunidad.
+[SPEAKER_02]  Era muy bueno.
+[SPEAKER_02]  Y finalmente ese paper lo aceptaron.
+[SPEAKER_02]  lo cual fue una sorpresa muy grande.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  En esa época nos llegó una...
+[SPEAKER_02]  una copia física del paper con unas correcciones.
+[SPEAKER_02]  que eso ya no se ve
+[SPEAKER_02]  El profesor Alan Blair, que ahorita, pues yo sé quién es, porque yo estoy en la comunidad Khan Australia.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Sí, él fue la persona que hizo eso en ese momento.
+[SPEAKER_02]  entonces el paper lo aceptaron y bueno, listo, ya el paper, entonces Fernando, alístese que va para Australia.
+[SPEAKER_02]  Y Fernando...
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  me dice, no, yo no puedo ir, le va a tocar ir a usted.
+[SPEAKER_02]  Y yo dije, ¿pero qué? ¿Cómo así? ¿No Australia? O sea, imposible.
+[SPEAKER_02]  Entonces el profesor Fernando me empezó a decirme, no, es en serio, mire cómo va sacando la visa, vamos cotizando unos pasajes, miramos acá el departamento qué puede hacer y vamos a hacerlo, se va usted para Australia.
+[SPEAKER_02]  Y empezó una tarea titánica.
+[SPEAKER_02]  que para mí en ese entonces empezó con sacar el pasaporte porque yo nunca había salido.
+[SPEAKER_02]  de Colombia.
+[SPEAKER_02]  y sacar visas y mandar papeles. Yo me acuerdo que era DHL cerca del aeropuerto. O sea, eso fue una tarea absolutamente titánica y casi que hasta el final se veía imposible.
+[SPEAKER_02]  incluso en la facultad, en el departamento de ingeniería de sistemas.
+[SPEAKER_02]  hubo discusiones para mirar cómo tratar de apoyarme, digamos, financieramente para poder hacer eso.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Sí, eventualmente alguien firmó.
+[SPEAKER_02]  No recuerdo quién era el director del departamento en esa época.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Se me escapa en ese momento. Al final de la entrevista, pronto un adendo que lo grabemos después, grabemos después con los nombres que me he olvidado.
+[SPEAKER_02]  eh
+[SPEAKER_05]  Tal vez Mario Alberto Pérez, Horacio Castellanos.
+[SPEAKER_02] 
+[SPEAKER_02]  Mario Alberto Pérez y Mario Alberto. Entonces finalmente él firmó un papel.
+[SPEAKER_02]  Digamos que no voy a entrar en detalles y se mandó eso a la embajada y cuando menos pensé estaba yo en un...
+[SPEAKER_02]  en un vuelo
+[SPEAKER_02] 
+[SPEAKER_02]  que iba de Bogotá a Caracas, de Caracas a Londres, de Londres a Singapur y de Singapur a Sydney. Y en Sydney...
+[SPEAKER_02]  Después de esa maratón tomé un bus hasta Canberra.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  donde estaba la conferencia, entonces era...
+[SPEAKER_02]  Creo que esto pasa ahorita mucho más seguido de lo que antes, pero en esa época, en esa época, o sea, era como, wow, o sea, este man que, o sea.
+[SPEAKER_02]  si era
+[SPEAKER_02]  Yo creo que fue la primera vez y creo que soy convencido que mucha gente después de eso empezó también como a hacer caminos similares, pero en esa época era muy raro.
+[SPEAKER_02]  y por fortuna sí, vine acá a Australia, no tenía ni idea
+[SPEAKER_02]  Que...
+[SPEAKER_02]  que yo iba a terminar acá, de hecho...
+[SPEAKER_02]  Eventualmente yo me volví ciudadano australiano y la primera vez que fui al Parlamento de Australia fue cuando visité en el año 2003 viniendo de Colombia.
+[SPEAKER_02]  Y todo salió muy bien, o sea, yo di mi charla en inglés.
+[SPEAKER_02]  Y de ahí salieron algunas...
+[SPEAKER_02]  algunas conversaciones interesantes.
+[SPEAKER_02]  Y eso fue como la base de lo que empezó a ser como mi camino para tratar de hacer un doctorado.
+[SPEAKER_02]  y tratar de seguir en este cuento, por decirlo de cierta forma.
+[SPEAKER_00]  Se ha ido ella.
+[SPEAKER_02]  La conferencia fue en el año 2003.
+[SPEAKER_02]  Verano australiano, me recuerdo que eso era diciembre.
+[SPEAKER_02]  del 2003, se llama Conference on Evolutionary Computation.
+[SPEAKER_02]  eh eh
+[SPEAKER_02]  El paper está todavía por ahí.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Y...
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Sí, digamos que esa fue de alguna forma...
+[SPEAKER_02]  Digamos que...
+[SPEAKER_02]  Eso fue en diciembre del 2003 y yo me gradué.
+[SPEAKER_02]  en la primera ceremonia del 2004, que fue más o menos en abril.
+[SPEAKER_02]  Ya estaba obviamente la tesis aprobada y el hecho de que hubiera sido presentada en una conferencia internacional.
+[SPEAKER_02]  En esa época era como bastante...
+[SPEAKER_02]  Bastante raro y creo que eso fue de alguna forma lo que también llevó como a la...
+[SPEAKER_02]  tener la oportunidad de que la tesis fuera meritoria, etc.
+[SPEAKER_02]  aparte digamos de las cosas académicas y obviamente la experiencia que yo tuve
+[SPEAKER_02]  de poder salir del país en esa época.
+[SPEAKER_02]  estar solo en una conferencia y como mirar que las cosas que estábamos haciendo en Colombia en esa época eran...
+[SPEAKER_02]  suficientemente buenas, ¿no? Como para tener en ese nivel, eso fue bastante...
+[SPEAKER_02]  enriquecedor y también no solo desde la perspectiva académica, sino también desde la perspectiva, digamos, como...
+[SPEAKER_02]  más general de la vida, de poder salir y hacer eso.
+[SPEAKER_02]  y mirar que sí, que de alguna forma que sí se pudo tener esa experiencia que...
+[SPEAKER_02]  Nunca pensé en...
+[SPEAKER_02]  que eso pudiera llegar a ser.
+[SPEAKER_02]  Y esa fue como la forma en la que terminó mi carrera en la Universidad Nacional.
+[SPEAKER_02]  Eh...
+[SPEAKER_00]  Yo veo una serie de cosas, seguramente sin querer queriendo, como se dice Julián, nos está dando unas lecciones muy importantes.
+[SPEAKER_00] 
+[SPEAKER_00]  Entre otras cosas, Beatriz Caicedo es del Valle, ¿no?
+[SPEAKER_00]  de tu región también.
+[SPEAKER_00]  que no se contó pero pues es un colega
+[SPEAKER_00]  Hiciste un homenaje, porque no hablaste mal del tablero, ¿no?
+[SPEAKER_06]  Además, soy de Palmira, que es lo interesante. Me emocionó mucho el arranque de él porque yo soy palmirana, conozco muy bien la historia que él habla, donde trabajaba su papá y demás. Qué maravilla para que vean estos palmiranos cómo crecemos, ¿no?
+[SPEAKER_00]  Ah.
+[SPEAKER_00]  Emocionó mucho la rama.
+[SPEAKER_00]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_00]  Cuando se encuentra con la culpa al mirando, comienza a hablar Bayuno.
+[SPEAKER_00]  ahí mismo se le cae, olvida el rol
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  ¡Gracias!
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Muy bien Beatriz.
+[SPEAKER_02]  Muy bien, Beatriz, excelente.
+[SPEAKER_00]  El tema tiene que ver con la pedagogía de la enseñanza y la programación.
+[SPEAKER_00]  Nietzsche habla del eterno retorno.
+[SPEAKER_00]  Y no sería raro que volviéramos al tablero.
+[SPEAKER_00]  Casi es piense primero y haga después.
+[SPEAKER_00]  porque la manera como lo narras, digamos ingenuamente en esa época como estudiante.
+[SPEAKER_00]  ahora lo narras con un concepto muy pedagógico.
+[SPEAKER_00]  El valle en tu época cuando te viniste ya era muy avanzado.
+[SPEAKER_00]  Carvajal había ya pasado por representar los computadores NEC.
+[SPEAKER_00]  ya tenían minicomputadores.
+[SPEAKER_00]  Yo tuve la oportunidad de que mi software de lógica...
+[SPEAKER_00]  era el de Carvajal, porque yo trabajé, pues, yo...
+[SPEAKER_00]  me gustaba mi software y una época...
+[SPEAKER_00]  que viajamos mucho a Cali.
+[SPEAKER_00]  y Carvajal era muy avanzado.
+[SPEAKER_00]  En ese tema, yo obviamente tenía su oficina en Bogotá.
+[SPEAKER_00]  Me llama la atención anecdóticamente el edificio nuevo de ingeniería.
+[SPEAKER_00]  porque la primera reunión de Reyes en la Nacional hace como 18 años.
+[SPEAKER_00]  Los esperamos en el edificio nuevo de ingeniería.
+[SPEAKER_00]  y busque un edificio nuevo.
+[SPEAKER_00]  El edificio nuevo tendrá como se llama.
+[SPEAKER_00]  No, es una cosa tan simple.
+[SPEAKER_00]  Otro tema que hablas y que nos rememora mucho lo que hoy día hablamos es la Luis Ángel Arango.
+[SPEAKER_00]  Había que ir.
+[SPEAKER_00]  Había que ir a hacer copy-paste.
+[SPEAKER_00]  en la discusión del copy-paste que tanto nos quejan, ahora nos quejamos el copy-paste era en la Luis Ángel Arango pero implicaba un sacrificio enorme
+[SPEAKER_00]  Me gusta mucho la...
+[SPEAKER_02]  Y eran las terminales de pantalla verde.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Sí, sí, claro. Estaban los micros primeros. Yo traje los micros a Colombia en el 80. O sea, ya había una historia ahí. En el 96 ya estaba Windows y todo eso.
+[SPEAKER_00]  Me gusta la frase, la tesis me cambió la vida.
+[SPEAKER_00]  La tesis es una discusión de hoy en día muy fuerte porque ya la han eliminado en muchas universidades.
+[SPEAKER_00]  la cambian por un diplomado.
+[SPEAKER_00]  Y es muy probable que el esfuerzo de la tesis es vida, ¿no? Es potencia, es energía.
+[SPEAKER_00]  Y el sufrimiento, ¿no? También es parte un poco de...
+[SPEAKER_00]  de la vida
+[SPEAKER_00]  Y por último, la historia de la astronomía de la madrugada.
+[SPEAKER_00]  a correr al campo de la nacional.
+[SPEAKER_00]  Porque yo molesto a mis amigos de la Nacional de Uso de Andino.
+[SPEAKER_00]  Yo tomé un curso de análisis numérico en la Nacional en esa época que me tocó, porque en los Andes no lo había, etc.
+[SPEAKER_00]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_00]  Yo les digo a mis amigos que ellos salen de la nacional.
+[SPEAKER_00]  Y sigue.
+[SPEAKER_00]  averiguando la vida de la nacional como si estuvieran en la nacional, ¿no?
+[SPEAKER_00]  todas las estadísticas que están pasando
+[SPEAKER_00]  Y yo los molesto porque les digo que cuando se deprimen se van para el campus, ¿no?
+[SPEAKER_00]  Hay un amor por la universidad.
+[SPEAKER_02]  pero es verdad
+[SPEAKER_00]  Muy interesante, hay un amor por la universidad. O sea, todo es un recorrido que fíjate, la parte de lo narrativo, ¿no? Tiene un contenido humano, pedagógico.
+[SPEAKER_00]  y se ve el espíritu de un estudiante de la nacional. Esa narración que tú acabas de hacer, esa mandada a Australia, ¿no? Primer viaje.
+[SPEAKER_07]  Gracias.
+[SPEAKER_00]  investigación
+[SPEAKER_00]  Entonces, para que sepas, digamos, vas en un nuevo proceso de...
+[SPEAKER_00]  del objetivo de estas charlas, que es conocer esos aspectos.
+[SPEAKER_00]  Bueno.
+[SPEAKER_00]  Muy bien.
+[SPEAKER_00]  Sí, mi nombre es...
+[SPEAKER_05]  Manuel, ahí hay algo interesante en la nacionalidad. Si bien la universidad nacional se ha caracterizado por impulsar...
+[SPEAKER_05]  que sus estudiantes realicen sus estudios de doctorado o doctorado en el exterior, porque eso como que nació con la Universidad Nacional.
+[SPEAKER_05]  Ese fuerte, como dice Julián García.
+[SPEAKER_05]  Tiene un ángel muy grande a partir de la década del 2000 al 2000.
+[SPEAKER_05]  Yes.
+[SPEAKER_05]  Se comienza con un impulso grande de apoyar a los estudiantes.
+[SPEAKER_05]  a que presenten sus trabajos en el exterior.
+[SPEAKER_05]  y da cuenta del grado de desarrollo científico y tecnológico que tiene la universidad en sus estudios de investigación.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Entonces, eso fue un aporte bien interesante.
+[SPEAKER_05]  y como que se impulsa en la década del 2000 al 2010.
+[SPEAKER_05]  la parte de internacionalización del currículo.
+[SPEAKER_05]  de tratar de hacer charlas con otros profesores, de impulsar el concurso de programación de computadores a nivel mundial.
+[SPEAKER_05]  de preparar a esos chicos para que se enfrenten en otros contextos y la necesidad de un segundo idioma, ¿no?
+[SPEAKER_05]  Aunque en la nacional esa chispita de aprender ese otro idioma era más como del estudiante.
+[SPEAKER_05]  Ahí ya se vuelve en un...
+[SPEAKER_05]  como en un objetivo institucional.
+[SPEAKER_05]  Entonces eso también hace parte como de ese currículo. Yo quería preguntarte, Julián.
+[SPEAKER_02]  Yo también, o sea, quisiera también decir, o sea, yo mencioné a Jonathan, a Germán, a Fernando, pero también muy...
+[SPEAKER_02]  Muy cerca, como al final de mis estudios, el profesor Fabio González.
+[SPEAKER_02]  También regresó y también regresó Jonathan después de terminar su doctorado.
+[SPEAKER_02]  Y claro, ellos, digamos que siguieron de alguna forma impulsando más y yo creo que eso cambió bastante también.
+[SPEAKER_02]  Sí, la perspectiva de mucha gente. Profesor Rafael, creo que tiene una pregunta.
+[SPEAKER_07]  Gracias.
+[SPEAKER_01]  Lo.
+[SPEAKER_07]  No, dame.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Muchas gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Sí, Julián, bueno, varias cosas.
+[SPEAKER_03]  Primero agradecerte la narrativa.
+[SPEAKER_03]  Fíjense que es algo que...
+[SPEAKER_03]  que normalmente
+[SPEAKER_03]  se entrena en otros espacios.
+[SPEAKER_03]  Y esa capacidad de narrar, creo que todos estamos encarretadísimos.
+[SPEAKER_03]  escuchando el cuento porque nos estás haciendo un recorrido en el tiempo, en el espacio.
+[SPEAKER_03]  Y eso es muy bonito.
+[SPEAKER_03]  Eh
+[SPEAKER_03]  Hay una pregunta que, bueno, dos preguntas.
+[SPEAKER_03]  La primera.
+[SPEAKER_03]  está asociada con
+[SPEAKER_03]  con una frase
+[SPEAKER_03]  que pronunciaste muy al principio.
+[SPEAKER_03]  Adiós.
+[SPEAKER_03]  Una de las decisiones trascendentales para mi vida
+[SPEAKER_03]  jajaja
+[SPEAKER_03]  Tal vez la más trascendental en mi vida.
+[SPEAKER_03]  Fue...
+[SPEAKER_03]  Haber aceptado o no, ni siquiera haber aceptado porque no había una propuesta, fue una decisión.
+[SPEAKER_03]  venir a Bogotá.
+[SPEAKER_03]  Eh.
+[SPEAKER_03]  Existían también otras opciones, existían también otras opciones en Cali.
+[SPEAKER_03]  de muy buen nivel académico.
+[SPEAKER_03]  etcétera, pero hay una decisión
+[SPEAKER_03]  de vida.
+[SPEAKER_03]  ¿Qué edad tenía?
+[SPEAKER_03]  Ese...
+[SPEAKER_03]  Ese niño, Julián,
+[SPEAKER_03]  Cuando toman la decisión que le cambia la vida.
+[SPEAKER_02]  Sí, yo llegué a Bogotá
+[SPEAKER_02]  con 17 años y...
+[SPEAKER_02]  Y sí, realmente para mí, sí.
+[SPEAKER_02]  Sí, fue digamos que fundamental.
+[SPEAKER_02]  La parte académica.
+[SPEAKER_02]  por un lado, porque...
+[SPEAKER_02]  digamos yo, sí, de pronto un poco lo que decía también el profesor Manuel.
+[SPEAKER_02]  Entonces, tendemos como a romantizar la Universidad Nacional, pero yo sí, efectivamente, creo que esa formación...
+[SPEAKER_02]  Fue bastante...
+[SPEAKER_02]  especial, por un lado.
+[SPEAKER_02]  pero creo que también como
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  el hecho de que tenía que vivir solo acá.
+[SPEAKER_02]  Eh...
+[SPEAKER_07]  Gracias.
+[SPEAKER_02]  fue bastante...
+[SPEAKER_02]  Bastante fundamental. En Cali en realidad sí había muchas opciones. Cuando yo...
+[SPEAKER_02]  En la época que yo vine al Nacional había un paro larguísimo, larguísimo en la Universidad del Valle.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Era como mi otra opción y digamos que como hasta el...
+[SPEAKER_02]  Tercer semestre, yo estaba tratando de pronto de homologar mis estudios en Bogotá y regresar a Cali.
+[SPEAKER_02]  particularmente por cuestiones logísticas, económicas, etc.
+[SPEAKER_02]  Pero creo que ya en ese entonces hablé yo con mi familia y dije como no, o sea, yo realmente me siento en casa acá en Bogotá y...
+[SPEAKER_02]  Y quiero de forma, seguir acá.
+[SPEAKER_03]  Afortunadamente pasó en esa dirección. Y lo que me estás diciendo encadena con la otra.
+[SPEAKER_03]  Pregunta que...
+[SPEAKER_03]  que tengo, porque estamos hablando entonces...
+[SPEAKER_03]  De un...
+[SPEAKER_03]  Un niño, insisto, de 17 años que toma la decisión más trasera, dos de las decisiones más importantes de su vida, una es seleccionar.
+[SPEAKER_03]  a qué se va a dedicar.
+[SPEAKER_03]  Bien.
+[SPEAKER_03]  Pero eso sigue pasando. Y otra.
+[SPEAKER_07]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  ese cambiar de ciudad.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  y rescatando un poquito todos los otros ambientes que vienen con eso.
+[SPEAKER_03]  Mencionaste y gracias por hacerlo.
+[SPEAKER_03]  a Juan Carlos Galeano.
+[SPEAKER_03]  Una persona que...
+[SPEAKER_03]  que quise muchísimo fue
+[SPEAKER_03]  profesor en el Poli también.
+[SPEAKER_03]  Bueno.
+[SPEAKER_03]  Juanca es una persona muy, muy, muy especial.
+[SPEAKER_03]  Pero...
+[SPEAKER_03]  Juanca, gimnasta, baterista.
+[SPEAKER_03]  Entonces hay otros componentes de la vida.
+[SPEAKER_03]  que de pronto se dejan fuera cuando empezamos a contar nuestra historia de la formación de ingeniero, de la forma de cómo era mi universidad, yo me dedicaba a estudiar, etc.
+[SPEAKER_03]  ¿Ve?
+[SPEAKER_03]  ¿Cómo era?
+[SPEAKER_03]  Durante el trayecto de esa vida de pregrado,
+[SPEAKER_03]  el resto de vida.
+[SPEAKER_03]  de Julián. También porque...
+[SPEAKER_03]  En muchos mentideros se tiene la noción de que, no, si usted está estudiando ingeniería no va a tener vida.
+[SPEAKER_03]  Entonces...
+[SPEAKER_03]  También yo creo que esto lo van a ver otras personas.
+[SPEAKER_00]  Gracias.
+[SPEAKER_07]  creo que es
+[SPEAKER_03]  a quienes es importante...
+[SPEAKER_03]  contarles
+[SPEAKER_03]  Que...
+[SPEAKER_03]  para nosotros, que nosotros también tenemos vida.
+[SPEAKER_03]  una vida más allá de la academia. ¿Cómo era ese...?
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Sí, digamos que mi vida en Bogotá era como muy rica y muy enriquecedora en todos los sentidos.
+[SPEAKER_02]  tenía también digamos tiempo libre los sábados por la mañana jugaba baloncesto en una cancha pública ahí del Recuerdo que está cerca de la 26 vivía ahí en el Recuerdo
+[SPEAKER_02]  Y el plan con mi novia de ese entonces era ir por las tardes a ver a la Filarmónica de Bogotá.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  en el...
+[SPEAKER_02]  en la Universidad Nacional, y digamos que había también, sí, otras esferas.
+[SPEAKER_02]  Mi compañero que tú mencionas, Juan Carlos Galeano, otras personas que eran también cercanas, Angélica Velosa.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  John García y otros, o sea, éramos también amigos por fuera de la universidad.
+[SPEAKER_02]  Juan Carlos.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Venía mucho a Palmira también, eventualmente hacia final y pasábamos mucho tiempo en el clima.
+[SPEAKER_02]  mucho más caliente de Palmira también, y la amistad sí trascendía, digamos, que las cosas académicas, obviamente.
+[SPEAKER_02]  pasaba por muchas esferas.
+[SPEAKER_02]  la música, etcétera, y...
+[SPEAKER_02]  Y yo creo que sí, digamos que la universidad de alguna forma es como cierto...
+[SPEAKER_02]  punto de convergencia ahí, pero las amistades que
+[SPEAKER_02]  que se forjaron en esa época
+[SPEAKER_02]  Son muy importantes y es una cosa que yo le digo mucho también a mis estudiantes ahora.
+[SPEAKER_02]  en lo que llamamos acá la semana, bueno, lo que sería como el equivalente a la semana de inducción en Colombia, lo que yo le digo a mis estudiantes que están entrando a la Universidad Monash.
+[SPEAKER_02]  Yo les digo...
+[SPEAKER_02]  O sea, va a haber muchas cosas académicas acá importantes, pero lo más importante que usted va a tomar de esta experiencia es la red de amigos y colegas que...
+[SPEAKER_02]  con la que usted, digamos, que va a salir de acá, ¿no? Y de alguna forma...
+[SPEAKER_02]  Podría uno incluso argumentar que es más importante que...
+[SPEAKER_02]  que las otras cosas y en efecto sí, son amistades también de por vida que se forjaron en esas épocas.
+[SPEAKER_07]  Gracias.
+[SPEAKER_05]  Julián, yo, perdona, Manuel, una duda y es que me picas de asfalto.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  La curiosidad. Tú te fuiste por una línea bien compleja que es la línea de Computer Science, básicamente.
+[SPEAKER_05]  en lo que teníamos en la universidad, programas de computadores, estructuras de datos, algoritmos. Finalizas viendo algoritmos con Fabio, me imagino yo, con Fabio González de Proctora. Era creo que Fernando.
+[SPEAKER_02]  Era creo que Fernando Niño, porque Fabio...
+[SPEAKER_05]  Eso, eso.
+[SPEAKER_05]  En mi caso fue con Fabio, entonces termina uno con esa línea, con este grupo de profesores maravillosos con los que contamos actualmente en la universidad.
+[SPEAKER_02]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_05]  Y yo te pregunto, ¿y en la otra línea, como en la línea de Sofar, cómo te fue? ¿Qué estaban viendo, qué vieron en esa época, en esa línea?
+[SPEAKER_05]  Quiénes están, si tú los recuerdas, de fondo.
+[SPEAKER_02]  Sí, en esa época...
+[SPEAKER_05]  Esa poca... Esa poca...
+[SPEAKER_02]  Sí, sí, efectivamente en esa época, digamos que una parte que no mencioné mucho, porque digamos que me concentré como en la parte académica, pero...
+[SPEAKER_02]  en el proceso de...
+[SPEAKER_02]  de buscar el doctorado, etcétera, pues yo tenía que...
+[SPEAKER_02]  trabajar.
+[SPEAKER_02]  Entonces trabajé como ingeniero de software.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  En esa época, sí, claro, estaba como muy en boga el asunto de lo que se llamaba, creo que servicios en esa época, que era mirar como al software como un servicio y tener estos pequeños componentes que prestan servicios. Microservicios quizás sería el nombre en esa época.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  estaba también
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  De alguna forma como que Java.
+[SPEAKER_02]  Había de alguna forma ya, se había establecido mucho más de lo que estaba al principio.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Y...
+[SPEAKER_02]  Digamos, también en lo que en esa época se usaba en la industria, había una tecnología que se llamaba JSP, había también...
+[SPEAKER_02]  como el
+[SPEAKER_02]  La introducción un poquito más rigurosa de lo que se llamaba patrones, había uno que se llamaba creo que MVC.
+[SPEAKER_02]  que digamos que se implementaban esas cosas en frameworks.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  que se usaban en la industria. Y digamos que también tuve la oportunidad
+[SPEAKER_02]  de...
+[SPEAKER_02]  de hacer eso pues como en el...
+[SPEAKER_02]  en el periodo entre el que me gradué y cuando finalmente me voy a hacer el doctorado, pues era básicamente como...
+[SPEAKER_02]  ingeniero de software.
+[SPEAKER_02]  Y hay también una cosa bonita ahí, ¿no? Y es que también es una cosa que uso también con muchos estudiantes.
+[SPEAKER_02]  míos en esta época que a veces como que están indecisos entre un camino académico o no académico. Y digamos que para mí esa parte de la industria fue instrumental también porque me di cuenta que en la industria
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  podría tener también un camino igualmente estimulante desde el punto de vista intelectual, porque...
+[SPEAKER_02]  estaba también la tarea de aprender esas nuevas tecnologías y era un digamos un
+[SPEAKER_02]  un espacio muy dinámico donde las cosas estaban cambiando mucho y muy rápido.
+[SPEAKER_02]  entonces sí, había libros, había investigación, pruebas pequeñas, etcétera, y también era de alguna forma muy estimulante desde el punto de vista intelectual, o sea que no solo estaba esa parte académica sino también.
+[SPEAKER_02]  como la parte
+[SPEAKER_02]  de ingeniería de software y es algo que hasta el sol de hoy...
+[SPEAKER_02]  como se dice preaching, predico también como a mis estudiantes, que muchas veces ellos se ven como en esa encrucijada de voy a hacer una tesis o no una tesis, y es como...
+[SPEAKER_02]  No sé, mi perspectiva es que eventualmente uno termina descubriendo...
+[SPEAKER_02]  las cosas que le interesan, digamos que no necesariamente...
+[SPEAKER_02]  en alineación o incluso a pesar de ciertas decisiones que se toman que en el momento lucen así súper...
+[SPEAKER_02]  como definitivas, ¿no?
+[SPEAKER_02]  Yo pienso mucho, por ejemplo, cuando yo quería estudiar economía.
+[SPEAKER_02]  Eh
+[SPEAKER_02]  y que me iba a cambiar, pero no lo hice y eventualmente...
+[SPEAKER_02]  Digamos, tengo algunas publicaciones en economía, mi supervisor es un economista también y técnicamente mi doctorado es en una facultad de economía, a pesar de que en ese entonces no me cambié. Entonces yo creo que de alguna forma los intereses que uno tiene como que...
+[SPEAKER_02]  por lo menos desde mi perspectiva.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Sí, toman prevalencia a pesar de esas escogencias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Creo que me estoy desviando un poco, o sea que mejor que me paren.
+[SPEAKER_05]  Una pregunta, Manuel, tú tenías por ahí una pregunta.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  ¡Gracias!
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  La parte personal y humana es fundamental, ¿cierto Rafa? Lo veo asintiendo, ¿no? De tal manera que no te desvías.
+[SPEAKER_00]  no solamente dos cosas.
+[SPEAKER_00]  Este es un grupo de nerds, ¿no? Me parece.
+[SPEAKER_00]  Este es un grupo de...
+[SPEAKER_00]  Yo tenía un grupo de estudio de los Andes con cuatro amigos, todos de distintas carreras de ingeniería.
+[SPEAKER_00]  Y en las casas nos reuníamos y las mamás eso atendían divinamente.
+[SPEAKER_00]  Hasta la madrugada.
+[SPEAKER_00]  Y tenía otro grupo con dos amigos míos de la nacional.
+[SPEAKER_00]  que estudian Ingeniería Mecánica.
+[SPEAKER_00]  Uno de ellos tenía una fábrica y íbamos a la fábrica a estudiar hasta la madrugada.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  estudiar
+[SPEAKER_00]  No hubo ni un aguardiente.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  la época, es un grupo de nerds.
+[SPEAKER_00]  Pero ahí yo pude ver mucho la personalidad del ingeniero estudiante de la nacional.
+[SPEAKER_00]  Anoté dos palabritas, autodisciplina y autorregulación.
+[SPEAKER_00]  Yo nunca los oí diciendo, es que el profesor me dice que debo... No, era una autorregulación. Estudiosos a morir.
+[SPEAKER_00]  Y yo creo que ese es un concepto porque también parte, no sé, de Sandra Rafa.
+[SPEAKER_00]  de estas charlas es
+[SPEAKER_00]  Es el alma mater, ¿verdad?
+[SPEAKER_00]  ese espíritu
+[SPEAKER_00]  que da a sus estudiantes.
+[SPEAKER_00]  Es parte también de lo que aquí vamos a observar y estamos observando.
+[SPEAKER_00]  Espera, esa me observa.
+[SPEAKER_00]  Y otra cosita.
+[SPEAKER_00]  la influencia de la nacional en el exterior. No había sábado sin la filarmónica.
+[SPEAKER_00]  No había sábado sin la tienda.
+[SPEAKER_00]  Y uno hacía su cola y entraba.
+[SPEAKER_03]  No se afila en el león porque hay que hacerla.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Sí, sí, esa época, no sé ahora la verdad si están en lo mismo.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  En este momento estamos en remodelación del león de Grey, está a punto ya de estar listo.
+[SPEAKER_00]  De Grey. A punto ya.
+[SPEAKER_05]  Y nuevo para lanzamiento. Entonces haremos fila.
+[SPEAKER_00]  No, no, no.
+[SPEAKER_05]  como lo hemos venido haciendo siempre. Yo recuerdo mucho a Angélica.
+[SPEAKER_05]  y a Juan Carlos, y creo que tú estabas en ese grupo también, un grupo muy dinámico, si bien estaban concentrados en su estudio.
+[SPEAKER_05]  Era un grupo pues muy bonito porque era...
+[SPEAKER_05]  de esos grupos de estudiantes que es que está en muchas cosas no
+[SPEAKER_05]  que no es solamente la disciplina así, sino también el deporte, el involucrado con la universidad en sus actividades culturales y en sus actividades académicas.
+[SPEAKER_05]  y muy presente dentro del 453.
+[SPEAKER_05]  Me acuerdo en el segundo piso ahí.
+[SPEAKER_00]  De acuerdo.
+[SPEAKER_07]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  en el laboratorio, entonces...
+[SPEAKER_05]  Creo que sí, esa parte que tiene la universidad de integrar a los estudiantes.
+[SPEAKER_05]  Además son estudiantes con un carisma muy...
+[SPEAKER_05]  muy importante y que trasciende.
+[SPEAKER_05]  a su grupo, pasa a los profesores y luego ellos como parte también de...
+[SPEAKER_05]  Una modalidad que tiene la universidad es apoyar a los profesores como profesores con becas académicas, entonces los estudiantes.
+[SPEAKER_05]  que ya terminaron su pregrado e inician una maestría, pues ingresan como profesores.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  apoyar los cursos precisamente de programación porque tenemos 22 grupos de programación.
+[SPEAKER_05]  un promedio más o menos de mil estudiantes por semestre en programación de computadores, por eso es que Julián decía, yo estaba en una sección privilegiada.
+[SPEAKER_05]  Claro, porque...
+[SPEAKER_05]  Porque justamente a los de sistemas, pues vamos con todo lo de sistemas por ser nuestra área específica, ¿no? Entonces...
+[SPEAKER_05]  Pues muy chévere. Sí, es interesante también.
+[SPEAKER_02]  Sí, es interesante también mirar acá también desde la perspectiva...
+[SPEAKER_02]  eh
+[SPEAKER_02]  He tenido, digamos, roles similares acá en Australia. Fui lo que sería como el equivalente director de la carrera y ahorita soy director de...
+[SPEAKER_02]  de programas de pregrado y sí, como ver que algunos de esos retos son muy similares. Nosotros también tenemos...
+[SPEAKER_02]  El primer curso de programación son aproximadamente...
+[SPEAKER_02]  1500 estudiantes.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Y el reto cada vez más grande, Julián, aquí.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Fuimos pioneros en lanzar unos programas de formación de programación para niños y niñas en Colombia.
+[SPEAKER_05]  Y yo creo que todos los que estamos aquí casi como unos desjuiciositos seguimos en lo mismo procurando por las formaciones.
+[SPEAKER_07]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  En TICS a nivel nacional.
+[SPEAKER_05]  Y pues hemos apoyado al Ministerio de Tecnología, Información y Comunicaciones en...
+[SPEAKER_05]  programas de formación y capacitación de TICS.
+[SPEAKER_05]  El último y más reciente es el de la alcaldía, que se llama Atenea.
+[SPEAKER_05]  que lo que buscas formar.
+[SPEAKER_05]  a personas de escasos recursos que tengan la oportunidad de formarse en actividades muy específicas que les permita elaborar.
+[SPEAKER_05]  justamente en el marco de esas actividades en un sector productivo.
+[SPEAKER_05]  Ya nos contaste, ya te graduaste, afortunadamente como dice Manuel, no fue en cinco minutos.
+[SPEAKER_05]  Entonces sí.
+[SPEAKER_05]  Sui... Nos...
+[SPEAKER_00]  ¡Suitos!
+[SPEAKER_00]  Vamos a llegar al grado, vamos bien, va bien.
+[SPEAKER_05]  Ya es.
+[SPEAKER_05]  En el grado, cuéntanos, ¿y te graduas? ¿Y qué pasa? ¿Qué pasa ya en adelante? Cuéntanos.
+[SPEAKER_02]  Bueno, cuando me gradué, entonces digamos que yo tenía más o menos claro que tenía que hacer un doctorado.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Pero tenía obviamente que buscar una beca, porque no podía sencillamente...
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Otras opciones no eran de pronto tan opciones para mí.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Entonces, tomó bastante tiempo. Yo tomé alrededor de...
+[SPEAKER_02]  dos años para finalmente escoger.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Y...
+[SPEAKER_02]  Y en esa época...
+[SPEAKER_02]  Sí, yo tenía como la intención de ir a Inglaterra.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Y tuve muchas aplicaciones, incluso...
+[SPEAKER_02]  Me dieron algunas becas también allá, pero siempre eran como parciales. Entonces, tenía que completar o con Colfuturo, otra cosa, y no...
+[SPEAKER_02]  Digamos que no era una opción para mí tener esos préstamos.
+[SPEAKER_02]  y eso digamos que complicó un poco el asunto como en términos de...
+[SPEAKER_02]  de salir rápidamente.
+[SPEAKER_02]  Y finalmente a los dos años encontré una beca que era completamente pagan en Holanda.
+[SPEAKER_02]  eh
+[SPEAKER_02]  trabajando en un problema similar.
+[SPEAKER_02]  pero trabajando más con economistas.
+[SPEAKER_02]  Entonces ellos querían como ver la aplicación de las...
+[SPEAKER_02]  de las técnicas computacionales en un entorno más económico realmente.
+[SPEAKER_02]  básicamente la continuación de mi tesis de pregrado.
+[SPEAKER_02]  y creo que por eso también les llamó la atención a ellos y por eso me escogieron.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  para ese proyecto en particular.
+[SPEAKER_02]  Entonces...
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Sí, en el 2006, en abril de 2006, empaqué todas las cosas.
+[SPEAKER_02]  Y me fui para Ámsterdam.
+[SPEAKER_02]  En Amsterdam estuve...
+[SPEAKER_02]  cinco años.
+[SPEAKER_02]  haciendo doctorado del modelo de Holanda, básicamente es un doctorado donde...
+[SPEAKER_02]  Estás como 100% haciendo investigación. Hay muy poco...
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  como cursos o cuestión de estar en clases.
+[SPEAKER_02]  Y esto también de alguna forma generaba un problema porque en general el requisito para entrar a ese tipo de programa era tener una maestría que yo no tenía.
+[SPEAKER_02]  Entonces...
+[SPEAKER_02]  Lo que yo dije de la tesis, digamos que haber tenido esa experiencia internacional y tener el paper, básicamente les ayudó a ellos como para hacer.
+[SPEAKER_02]  El...
+[SPEAKER_02]  el papeleo de tal forma que yo pudiera entrar directamente al programa.
+[SPEAKER_02]  y estando ya en el programa conocí a mi supervisor principal, que se llama Matthijs van Velen, él es un economista y es un especialista en teoría de juegos.
+[SPEAKER_02]  Y ya eso fue, digamos, como básicamente aprender desde cero.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  todas las técnicas y me tomó cinco años para escribir mi tesis.
+[SPEAKER_02]  también fue una época muy enriquecedora.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Estar en Amsterdam.
+[SPEAKER_02]  que es realmente una ciudad para mí, hasta el sol de hoy, todavía muy especial.
+[SPEAKER_02]  eh
+[SPEAKER_02]  Al final de mi doctorado.
+[SPEAKER_02]  Tuve la oportunidad de...
+[SPEAKER_02]  Visitar la Universidad de Harvard en Boston.
+[SPEAKER_02]  porque mi promotor, mi supervisor estaba trabajando con...
+[SPEAKER_02]  con alguien en...
+[SPEAKER_02]  en la universidad, entonces pasé un tiempo allá.
+[SPEAKER_02]  y eso genera una conexión con mi supervisor postdoctoral.
+[SPEAKER_02]  que es un alemán que estaba en esa época en Boston y estaba regresando a Alemania.
+[SPEAKER_02]  a un Instituto Max Planck.
+[SPEAKER_02]  donde básicamente
+[SPEAKER_02]  Pues sí, él me contrata inmediatamente después del doctorado.
+[SPEAKER_02]  y
+[SPEAKER_02]  eh eh
+[SPEAKER_02]  digamos que sí, puedo continuar la carrera ahí.
+[SPEAKER_02]  y básicamente seguir trabajando en cosas muy similares. De pronto había como un...
+[SPEAKER_02]  una visión un poquito más biológica de los problemas.
+[SPEAKER_02]  pero en términos, digamos, técnicos era muy similar lo que estaba haciendo.
+[SPEAKER_02]  Y también fue una época muy enriquecedora porque estaba en un pueblo muy pequeño que tenía casi que un carácter monástico.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Y eso digamos que sí se prestaba mucho pues como para tener esa vida.
+[SPEAKER_02]  donde básicamente es 100% investigación y no hay nada de distracciones, no hay administración, no hay absolutamente nada.
+[SPEAKER_02]  de cursos ni nada. Entonces eso fue...
+[SPEAKER_00]  ¿Qué pueblo era? ¿Qué pueblo?
+[SPEAKER_02]  Eso es un pueblo que se llama Plön, que queda aproximadamente una hora de Hamburgo, en el norte de Alemania.
+[SPEAKER_00]  En Alemania.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Y yo vivía en una ciudad que se llama Kiel, que es más o menos 30 minutos en tren.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Explorando Los Ángeles
+[SPEAKER_02]  y
+[SPEAKER_02]  mmm
+[SPEAKER_02]  Digamos que ese fue también un periodo muy rico intelectualmente porque el poder que tenía el Instituto Max Planck para...
+[SPEAKER_02]  traer gente y viajar, etcétera, digamos que me hacía, sí, digamos que me sentía que estaba pues como en la crema del asunto. En esa época también volví a Boston.
+[SPEAKER_02]  Es un ambiente bastante enriquecedor intelectualmente.
+[SPEAKER_02]  Y...
+[SPEAKER_02]  Y, digamos, después de tres años de hacer el doctorado,
+[SPEAKER_02]  Llega también como la otra encrucijada que es, bueno,
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  ¿Usted se va a quedar por acá o se va a volver a Colombia o qué?
+[SPEAKER_02]  Llevas ya como ocho años en esto y en tu vida, ¿qué?
+[SPEAKER_02]  Entonces...
+[SPEAKER_02]  Yo hice algunas aplicaciones para ser profesor en Colombia en la época.
+[SPEAKER_02]  Y realmente sí me encontré como en esa encrucijada de tratar de decidir si volvía o no.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Entonces...
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Ah
+[SPEAKER_02]  Digamos que era claro para mí que quería salir de Europa, estaba un poco ya...
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Bien.
+[SPEAKER_02]  Sí, un poco cansado quizás, que no necesariamente esto implica que...
+[SPEAKER_02]  nada malo digamos de esos lugares, sino que quería como un cambio de aire.
+[SPEAKER_02]  Quería vivir también en una ciudad grande.
+[SPEAKER_02]  Entonces...
+[SPEAKER_02]  Básicamente quería ir a un lugar que no fuera Estados Unidos, que hablara en inglés y que fuera una ciudad grande.
+[SPEAKER_02]  o volver a Colombia. Y digamos que como en esas dos...
+[SPEAKER_02]  En esas dos líneas paralelas empecé a hacer mis procesos de aplicación.
+[SPEAKER_02]  y eventualmente me ofrecieron un trabajo en Australia.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Y...
+[SPEAKER_02]  Un poco como mi visión era como, bueno, quizá me puedo ir tres años para allá y después vuelvo a Colombia. También es bueno como tener la experiencia.
+[SPEAKER_02]  en una universidad extranjera.
+[SPEAKER_02]  como profesor.
+[SPEAKER_02]  Y me vine acá como en esa mentalidad.
+[SPEAKER_02]  vine para Australia como en esa mentalidad
+[SPEAKER_02]  Ya estando acá.
+[SPEAKER_02]  Un poco curioso porque conocí a mi compañera.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Al muy poco tiempo de llegar acá, mis compañeras de Estados Unidos.
+[SPEAKER_02]  No sé si se acuerdan que yo no quería ir a Estados Unidos.
+[SPEAKER_07]  Gracias.
+[SPEAKER_02]  entonces sí, conocí a mi compañera y terminamos
+[SPEAKER_02]  De a poco, sí, haciendo una vida acá, a los tres años yo pasé como mi probación, que es como el equivalente a...
+[SPEAKER_02]  a tener tenure
+[SPEAKER_02]  y eso me dio también la oportunidad de
+[SPEAKER_02]  de volverme un ciudadano australiano.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Y empezó como todo a...
+[SPEAKER_02]  a tener su lugar.
+[SPEAKER_02]  Y realmente...
+[SPEAKER_02]  Yo estoy en Melbourne, que es una ciudad fantástica.
+[SPEAKER_02]  Se paga un poco el precio de la distancia porque está muy lejos de Colombia, pero...
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Digamos que es un lugar...
+[SPEAKER_07]  Gracias.
+[SPEAKER_02]  ¡Gracias por ver el video!
+[SPEAKER_02]  muy bonito para vivir y acá nos fuimos quedando y ya.
+[SPEAKER_02]  digamos,
+[SPEAKER_07]  Gracias.
+[SPEAKER_02]  Sí, ocho o nueve años después. Tengo una hija acá que es más australiana, que es la única australiana en mi casa.
+[SPEAKER_07]  jajaja
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  con su acento y sus comidas y todo. Mi hija tiene dos años.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  y
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Sí, ya tengo casa, perro, todo, gato, acá en Australia, entonces yo creo que...
+[SPEAKER_02]  Creo que sí, ya nos quedamos por acá.
+[SPEAKER_00]  En Asís se ha visto alguna actividad con Australia, que Beatriz ha traído, Australia ofrece sus...
+[SPEAKER_02]  En la ciencia...
+[SPEAKER_00]  sus sistemas educativos, sus ofertas universitarias.
+[SPEAKER_00]  Yo le contaba a Julián que mi hijo estudió en Australia también.
+[SPEAKER_00]  de arquitecto, pero hice una carrera de fotografía totalmente en Australia.
+[SPEAKER_00]  Y tuvimos una experiencia muy interesante con Martín Dujamas, el autor de Moodle.
+[SPEAKER_00]  ¡Boo!
+[SPEAKER_07]  ¡Oh!
+[SPEAKER_00]  Martín vive en Perth.
+[SPEAKER_00]  Y él nos decía, pero es tan lejos que no había universidad, había radio.
+[SPEAKER_00]  estudiar por radio
+[SPEAKER_00]  le dio un concepto muy filosófico de la distancia.
+[SPEAKER_00]  y de la necesidad de acercar la distancia. Es un planteo filosófico de Villamón muy interesante, porque él estuvo con nosotros acá varios días, y lo reunimos con Revis y todo eso, ¿no?
+[SPEAKER_00]  Y fue cuando él comenzó a pensar.
+[SPEAKER_00]  hacer un aula virtual cuando no existía.
+[SPEAKER_00]  Todavía esas plataformas de manera tan como hoy, ¿no?
+[SPEAKER_00]  Y esa historia se la dimos mucho a él en Perth.
+[SPEAKER_00]  que es lejos, en Australia todo es lejos porque es muy grande, todo es muy grande.
+[SPEAKER_02]  Sí, sí, Australia es como la lejanía y también digamos que la otra forma, digamos, aquí un poco de cerrar la narrativa y cerrar la historia es que yo terminé también en Australia, que es el lugar donde vine a presentar mi tesis. Entonces, ahora son...
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Ahora.
+[SPEAKER_02]  Sí, eh...
+[SPEAKER_00]  Volviste.
+[SPEAKER_02]  Digamos que...
+[SPEAKER_02]  Casi 20 años después, estoy ya en Australia y...
+[SPEAKER_02]  digamos que de alguna forma sí estoy radicado acá y...
+[SPEAKER_02]  ese edificio que cuando tenía 20 y pico años que fui al parlamento australiano
+[SPEAKER_02]  digamos que es ahorita donde los políticos que me dan las emociones están ahí de alguna forma creo que también si eso como que de alguna forma cierra un círculo
+[SPEAKER_02]  y
+[SPEAKER_02]  Sí, es bonito. Yo trato de tener vínculos con...
+[SPEAKER_02]  con Colombia y en particular con la universidad, como decía Sandra, pues...
+[SPEAKER_02]  Creo que estoy todavía como profesor adjunto en la lista. A veces he tenido...
+[SPEAKER_02]  tareas que hacer para la Universidad Nacional.
+[SPEAKER_02]  una que otra charla en la cátedra o revisar documentos y cosas de ese estilo. Entonces sí, trato de...
+[SPEAKER_02]  de tener contacto y siempre que vuelvo a Colombia.
+[SPEAKER_02]  un poco como decía Manuel, siempre cuando nos deprimimos vamos a la Universidad Nacional.
+[SPEAKER_02]  Yo casi que siempre salgo del dorado derechito.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Yo casi que siempre.
+[SPEAKER_01]  Salgo del...
+[SPEAKER_07]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_05]  Sí.
+[SPEAKER_02]  derechito al campus y gracias a la mía
+[SPEAKER_05]  Gracias a la universidad.
+[SPEAKER_02]  Lo maturamos.
+[SPEAKER_02]  De alguna forma sí, yo creo que se convierte como ese lugar espiritual de cierta conexión.
+[SPEAKER_02]  Y ya que...
+[SPEAKER_02]  Sí, pues hay como muchos recuerdos ahí, pero también gente que está por ahí, siempre vuelvo y me tomo un café con Fabio o con Germán, sí, ir a almorzar y también como sí, mantener ese vínculo y esa...
+[SPEAKER_02]  esa línea con la universidad en Colombia.
+[SPEAKER_02]  En términos más generales, también con la disciplina en colombiano.
+[SPEAKER_00]  Pues bueno, mira, hoy estás con nosotros.
+[SPEAKER_00]  El no retorno te persigue porque de alguna manera mira cómo te escogieron para Sandra.
+[SPEAKER_02]  Sí, sí, sí, sí, muy bonito en realidad.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Muy bonito.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Muy bonita experiencia y es muy bueno verlos acá también y tener la oportunidad de charlar.
+[SPEAKER_05]  Julián, una cuestión importante hoy en día y hablábamos con los otros invitados acá, es cómo promover nuestro programa de ingeniería de sistemas y computación y programas de formación afines. Los jóvenes y las jovencitas en nuestro país, mándales tú por favor un mensaje de por qué sí vale la pena estudiar este tipo de carreras.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  ¡Gracias!
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Sí.
+[SPEAKER_02]  Mucha gente, digamos que acá también, acá en Australia me preguntan y me dicen...
+[SPEAKER_02]  Sí, como porque estudiar computación informática.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Lo que yo diría de alguna forma es que es un campo que tiene...
+[SPEAKER_00]  variadas.
+[SPEAKER_02]  Todo por descubrir.
+[SPEAKER_02]  Y una cosa que yo enfatizo mucho con mis estudiantes es que
+[SPEAKER_02]  Muchos nos...
+[SPEAKER_02]  nos atrae la disciplina porque usamos tecnología.
+[SPEAKER_02]  Pero la disciplina y lo que vamos a hacer y lo que vamos a estudiar en realidad no es sobre usar tecnología, es sobre crearla.
+[SPEAKER_02]  Y digamos que para mí es claro que muchos de los retos que...
+[SPEAKER_02]  Nosotros en este momento encontramos incluso...
+[SPEAKER_02]  a una escala humanitaria.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  van a necesitar tecnología nueva.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  y se necesita gente que venga con mucha energía y con muchos distintos tipos de capacidades.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Entonces, una de las cosas que yo...
+[SPEAKER_02]  Fui muy específico cuando hablé de mi curso de programación en la Universidad Nacional. Eso funcionó para mí.
+[SPEAKER_02]  Sí.
+[SPEAKER_02]  Pero viene mucha gente.
+[SPEAKER_02]  con muchos otros tipos de capacidades, muchos otros tipos de...
+[SPEAKER_02]  Y todos tienen un lugar en lo que es esta disciplina.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Es básicamente, sí, crear la tecnología del futuro, la necesitamos casi, diría yo, que a un nivel existencial.
+[SPEAKER_07]  Gracias.
+[SPEAKER_02]  Entonces es un buen lugar para poner esa energía.
+[SPEAKER_01]  muy bien.
+[SPEAKER_05]  Manuel, tú no me dirás si continuamos, paramos ahí, si hay alguna pregunta adicional.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  hayamos tocado
+[SPEAKER_00]  Chao.
+[SPEAKER_00]  Es muy interesante, un factor común es Julián y Sandra Rafa.
+[SPEAKER_00]  Kevin, Beatriz, que nos conoce tanto.
+[SPEAKER_00]  que es la pasión por la ingeniería.
+[SPEAKER_00]  A veces es difícil, el final tuyo es muy bueno, que es este proyecto de vida, ¿no?
+[SPEAKER_00]  forma de vivirla
+[SPEAKER_00]  Que es lo tecnológico, claro, pero no es solamente la herramienta en sí.
+[SPEAKER_00]  una cantidad de significados casi metafísicos, por decirlo.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Porque todos los que han pasado por acá cuando cuentan su historia, los primeros, los de los años 75, ¿no? Yo soy de 72, ¿no?
+[SPEAKER_00]  En el 75 decían, y yo lo viví, estudiábamos sin saber para qué.
+[SPEAKER_00]  No se sabía que iba a pasar con uno.
+[SPEAKER_00]  No, no, sí a los sistemas en Colombia.
+[SPEAKER_00]  No había casi computadores.
+[SPEAKER_00]  Pero la pasión era enorme.
+[SPEAKER_00]  Y nunca teníamos la preocupación de qué vamos a hacer. Era esa época, ¿no?
+[SPEAKER_00]  Hoy en día, pues eso obviamente ha cambiado.
+[SPEAKER_00]  pero en general hay mucha pasión por los ingenieros de sistemas.
+[SPEAKER_00]  Y ese es un gran valor.
+[SPEAKER_00]  Nada más ver a Rafa con su maratón de programación, que es increíble, ¿no?
+[SPEAKER_00]  Ok.
+[SPEAKER_00]  Rafa, una conclusión.
+[SPEAKER_07]  Gracias.
+[SPEAKER_03]  No, pues...
+[SPEAKER_00]  Perdón.
+[SPEAKER_03]  digamos que esta historia afortunadamente no termina
+[SPEAKER_03]  Siempre queda en el comienzo. Pero esperamos más actualizaciones.
+[SPEAKER_03]  Bien.
+[SPEAKER_03]  Fíjense que en...
+[SPEAKER_03]  En muchas de las discusiones las hemos tenido en red y las hemos tenido en muchos espacios.
+[SPEAKER_03]  con la Secretaría de Educación, con el Ministerio, con toda la gente que se...
+[SPEAKER_03]  que no es residente a veces en la disciplina, pero también con los residentes en la disciplina.
+[SPEAKER_03]  Por eso mencioné a Reyes. Hemos tenido muchas discusiones.
+[SPEAKER_03]  donde hay una línea de personas
+[SPEAKER_03]  en la que creo que nos incluimos.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  que defendemos
+[SPEAKER_03]  que sí es necesario saber de algoritmos, sí es necesario saber matemáticas, en últimas.
+[SPEAKER_03]  Sí es necesario eso. Hay otros que dicen...
+[SPEAKER_03]  No, minimicemos eso, porque eso resulta siendo un asunto casi que teórico y para teóricos.
+[SPEAKER_03]  y más bien empecemos a apropiar.
+[SPEAKER_03]  cierta tecnología y a resolver la pregunta de...
+[SPEAKER_03]  Es lo que necesita la empresa.
+[SPEAKER_03]  Entonces...
+[SPEAKER_03]  Y...
+[SPEAKER_03]  sin irse al otro extremo?
+[SPEAKER_03]  Mmm.
+[SPEAKER_03]  Es decir, que una cosa no sirve y la otra sí.
+[SPEAKER_03]  Por eso me gustó tanto la pregunta que te hizo Sandra cuando dijo, has hablado mucho de algoritmos y de la línea, y de esa línea de informática teórica, ¿cómo te fue en ingeniería de software? Casi que de alguna manera deja como una línea ahí divisoria.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Porque aún hay personas que...
+[SPEAKER_03]  Que...
+[SPEAKER_03]  Que a veces dicen...
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Evitemos las matemáticas.
+[SPEAKER_03]  Entonces...
+[SPEAKER_03]  Me gustaría escuchar, yo soy creyente, no es para mí. La respuesta es, la pregunta es muy para quienes nos escuchan también.
+[SPEAKER_03]  En...
+[SPEAKER_03]  En términos de esa eventual división.
+[SPEAKER_03]  en términos de por qué hay que acercarse a las matemáticas.
+[SPEAKER_03]  Porque...
+[SPEAKER_03]  Esta pasión
+[SPEAKER_03]  A veces...
+[SPEAKER_03]  He empezado, he ido descubriendo, hablando con personas.
+[SPEAKER_03]  que a veces la pasión ni siquiera es por la tecnología.
+[SPEAKER_03]  sino hay mucha pasión por las matemáticas.
+[SPEAKER_03]  y mucha pasión por entender lo que está pasando.
+[SPEAKER_03]  ¿Recuerdas, Manuel, alguna vez decía en un foro que nos invitaron?
+[SPEAKER_03]  Y después algún periodista solamente citó la mitad de mi frase.
+[SPEAKER_03]  Mmm.
+[SPEAKER_03]  Cuando yo dije que los ingenieros no sabemos nada útil.
+[SPEAKER_03]  Los ingenieros de sistemas no son de nada útil, se colocaron ahí.
+[SPEAKER_03]  Porque yo decía, pero estamos entrenados para aprender y comprender cualquier cosa más rápido que otros.
+[SPEAKER_03]  Entonces, ¿qué?
+[SPEAKER_07]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_04]  Te dejaron solo la primera mitad.
+[SPEAKER_03]  ¿Me dejaron solamente la primera mitad?
+[SPEAKER_04]  la primera mitad. Por esa mitad.
+[SPEAKER_03]  Me hice famoso por esa primera mitad de no sabemos nada.
+[SPEAKER_03]  Pero bueno.
+[SPEAKER_03]  Entonces, muy en esa dirección, Julián.
+[SPEAKER_03]  Un mensaje.
+[SPEAKER_03]  alrededor de...
+[SPEAKER_03]  de la aproximación que hay que tener a las matemáticas y de si esa vaina sirve o no, mejor dicho.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03] 
+[SPEAKER_02]  Sí, digamos que las matemáticas y la fundamentación teórica es muy importante en la disciplina, sobre todo cuando...
+[SPEAKER_03]  lo conocía.
+[SPEAKER_02]  digamos que está tratando como de empujar la frontera del conocimiento.
+[SPEAKER_02]  Lo que yo diría al respecto es que no hay que...
+[SPEAKER_02]  M.
+[SPEAKER_02]  tenerle miedo a eso y que muchas veces
+[SPEAKER_02]  cuando uno entra, también tiene una...
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  experiencias diferentes de la matemática y hay muchas formas de aproximarse a ese conocimiento y hay formas digamos un poco inclusivas también de relacionarse.
+[SPEAKER_02]  con esas partes del conocimiento también. Yo creo que hay muchos diferentes tipos de personas que tienen talentos para ciertas cosas.
+[SPEAKER_02]  Y se puede siempre como enfatizar esa parte sin tener que necesariamente relegar, digamos, los otros aspectos. Entonces, desde ese punto de vista, igual que Rafael, yo también soy creyente.
+[SPEAKER_02]  pero también soy creyente en que todos podemos tener una experiencia también de ese conocimiento teórico, que es inclusiva y a la cual se puede aproximar también desde muchas perspectivas y muchos ángulos.
+[SPEAKER_02]  La matemática es complicada porque es una disciplina muy antigua.
+[SPEAKER_02]  Y hay ciertos paralelos de cosas como inclusión, tangentes con cosas de género que son complicadas.
+[SPEAKER_02]  pero digamos que hay mucha gente ahorita haciendo matemáticas de una forma...
+[SPEAKER_02]  de una forma donde todos cabemos. Y me gustaría también pensar que en términos de la ingeniería de sistemas, también esa es como la aproximación que tenemos. Y sí hay matemáticas ahí también, pero no tiene por qué ser un problema.
+[SPEAKER_03]  Julián, tocaste un tema y perdón, me meto por allí.
+[SPEAKER_03] 
+[SPEAKER_03]  Y es más, casi que curiosidad, ¿cómo está la cosa en Australia?
+[SPEAKER_03]  En Colombia se...
+[SPEAKER_03]  y la información que tenemos en algunos espacios, de algunos espacios.
+[SPEAKER_03]  y también las experiencias que tenemos de aproximaciones en América Latina, de lo que pasa en Estados Unidos, en Europa, etc. Pero cómo está la cosa en Australia.
+[SPEAKER_03]  Eh.
+[SPEAKER_03]  alrededor de las mujeres en ingeniería.
+[SPEAKER_03]  Las mujeres en nuestra disciplina.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Sí, sí.
+[SPEAKER_02]  Digamos que hay unas...
+[SPEAKER_02]  Unas disparidades que digamos son comunes en todo el mundo. Yo a la gente que está interesada como en este aspecto les recomiendo un libro que se llama Unlocking the Clubhouse.
+[SPEAKER_02]  Y es un libro que habla un poco como del nacimiento de la disciplina de la computación y cómo se hace como intersección con las cuestiones de género. Es un programa, digamos que en mi facultad tenemos programas de...
+[SPEAKER_02]  de mujeres en ingeniería, donde hay particularmente mentores mujeres que tienen un rol ahí bastante importante.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Y es una cosa, digamos, en la que sí, desde el comienzo.
+[SPEAKER_02]  Yo creo que hay que tener una visión.
+[SPEAKER_02]  donde digamos que todos incluyen. Pero yo creo que sigue siendo, de cualquier forma, sigue siendo un reto.
+[SPEAKER_02]  Creo que han mejorado las cosas en cierto punto, incluso creo que si uno mira ahorita en la educación universitaria, tiende a haber muchas más mujeres que hombres ya, lo cual es...
+[SPEAKER_02]  Es un...
+[SPEAKER_02]  un paso en la dirección correcta hacia tener cierta paridad.
+[SPEAKER_02]  pero en computación es particularmente difícil y es un problema complejo.
+[SPEAKER_02]  que yo creo que se tiene que atacar de muchas formas.
+[SPEAKER_00]  Gracias, Rosianna.
+[SPEAKER_00]  Bueno, curiosamente, iniciamos hablando de matemática y el tablero.
+[SPEAKER_00]  ¿De acuerdo?
+[SPEAKER_07]  Sí.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  La formación de Julián fue tablero, matemáticas y después quedaron los algoritmos.
+[SPEAKER_00]  Y ahí estamos hablando de matemáticas, ¿no?
+[SPEAKER_00]  Solamente como para concluir, cuando yo hice la maestría en filosofía...
+[SPEAKER_00]  Me encontré con Descartes, un libro que eso me lo ha ido mucho Rafa, tal vez.
+[SPEAKER_00]  que Lescartes dijo, ¿por qué la música produce sentimientos?
+[SPEAKER_00]  Y descubrió un librito, ese es el librito, ¿no? Compendio de la música, música, la filarmónica, ¿te acuerdas?
+[SPEAKER_00]  El libro es un libro de física y matemáticas.
+[SPEAKER_00]  Física porque las ondas sonoras del instrumento llegan al cuerpo que vibra.
+[SPEAKER_00]  Y según el alma y el cuerpo se unen por la hipófisis, ¿no?
+[SPEAKER_00]  Y matemáticas, pues que la música es matemática, es una realidad.
+[SPEAKER_00]  De tal manera que eso es lo que hemos perdido un poco, ese concepto un poco filosófico de las matemáticas.
+[SPEAKER_00]  Y que fíjense que aquí terminamos, iniciamos y terminamos hablando de las matemáticas, que es muy interesante.
+[SPEAKER_00]  Yo creo que hemos cumplido, Julián. Muchas gracias.
+[SPEAKER_00]  Yo lo perseguí, lo encontré en Australia.
+[SPEAKER_02]  Muchas gracias, ha sido realmente chévere, muy bonito estar aquí y verlos a todos ustedes.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Sí, y fue muy interesante todo lo que nos contaste. Vamos a cerrar, no sé si Bibi Atriz está por ahí, Kevin.
+[SPEAKER_00]  Para la foto.
+[SPEAKER_00]  No sé si están, tal vez no.
+[SPEAKER_07]  De niña.
+[SPEAKER_00]  Kevin está.
+[SPEAKER_00]  Kevin es estudiante, él es el webmaster de ASICS.
+[SPEAKER_07]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_07] 
+[SPEAKER_00]  ¿Quién toma la foto, Beatriz? ¿Kevin? ¿Salí? ¿Estás peinado?
+[SPEAKER_00]  Gracias.
+[SPEAKER_06]  Qué lindo, usted le abre la cámara.
+[SPEAKER_00]  Prende el abre la cámara.
+[SPEAKER_06]  Abre la cámara, Kevin.
+[SPEAKER_00]  Sí está peinado, ok.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_06]  Rafa también toma buenas fotos.
+[SPEAKER_06]  Muy bien.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  ya
+[SPEAKER_05]  fe.
+[SPEAKER_05]  Muchísimas gracias, Julián, por tu presentación.
+[SPEAKER_07]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_06]  Muchas gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_02]  Muchas gracias.
+[SPEAKER_05]  Un saludo especial a tu familia. Muchas gracias.
+[SPEAKER_02]  Muchas gracias igualmente a todos los profes de la Universidad Nacional. Muy bonito verlos a todos. Quedo pendiente. Estoy aquí. Aquí estoy. Cualquier cosa que podamos hablar o que se pueda ayudar.
+[SPEAKER_05]  Gracias.
+[SPEAKER_02]  Con mucho gusto. Y gracias por poner esto en el horizonte. Muchas gracias.
+[SPEAKER_07]  Gracias por poner esto.
+[SPEAKER_02]  Gracias.
+[SPEAKER_07]  Muchas gracias, Julián. Gracias.
+[SPEAKER_02]  Muchas gracias, Julián.
+[SPEAKER_02]  Un abrazo grande.
+[SPEAKER_00] 
+[SPEAKER_07]  Gracias.
+[SPEAKER_02]  Chau, saludos.
+[SPEAKER_00]  Hasta luego.
