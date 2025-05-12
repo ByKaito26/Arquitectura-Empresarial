@@ -1,0 +1,2060 @@
+[SPEAKER_00]  Inicio, saludo.
+[SPEAKER_02]  Bueno, pues buenas tardes a todos.
+[SPEAKER_00]  Bueno, pues buenas tardes.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Buenas tardes a todos.
+[SPEAKER_00]  Buenas noches.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Buenas tardes, Manuel.
+[SPEAKER_00]  Buenas tardes, Manuel. Buenas tardes, Mauricio.
+[SPEAKER_02]  ¡Adiós!
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Gracias. Un saludo. Estamos con Fabio Mauricio Pinzón.
+[SPEAKER_00]  Gradado en el 82 para este proceso de la...
+[SPEAKER_00]  Evolución de la ingeniería de sistemas en Colombia.
+[SPEAKER_00]  Y obviamente es un aporte maravilloso por todo el historial que él tiene.
+[SPEAKER_00]  Ya vamos a ver por qué lo decimos.
+[SPEAKER_00]  Obviamente estamos Edgar Ruiz y yo como...
+[SPEAKER_00]  encargados del tema en este momento. Edgar va a ser el entrevistador central, yo haré algunas preguntas de pronto.
+[SPEAKER_00]  Y la idea con él es...
+[SPEAKER_00]  Como siempre hemos visto en las entrevistas anteriores.
+[SPEAKER_00]  ver cómo evolucionó la ingeniería en este caso desde la época de Mauricio.
+[SPEAKER_00]  desde el mago, como le decimos.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  ¡Mamá!
+[SPEAKER_00] 
+[SPEAKER_00]  colegio mismo.
+[SPEAKER_00]  ¿Y por qué estudió esto en esa época? ¿Y cómo lo escogió? ¿Y qué sabía?
+[SPEAKER_00]  Y toda esa trayectoria. Es una conversación de amigos.
+[SPEAKER_00]  pero que va a ser una contribución maravillosa para la red de programas de ingeniería de sistemas.
+[SPEAKER_00]  que como le decía Mau antes de iniciar, somos ya más de 100 universidades a nivel nacional.
+[SPEAKER_00]  que después saldrá esto al aire un poco con esta contribución que agradecemos mucho.
+[SPEAKER_00]  de Mauricio.
+[SPEAKER_00]  Entonces...
+[SPEAKER_00]  siendo Mauro del grupo de Edgar en este proyecto.
+[SPEAKER_00]  Le paso la palabra a Edgar Ruiz.
+[SPEAKER_00]  y seguimos para adelante con la entrevista yo pues el sistema de los primeros
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  David
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Año 72.
+[SPEAKER_00]  graduado, ya lo hemos dicho en otras entrevistas.
+[SPEAKER_00]  Voy con muchos años.
+[SPEAKER_00]  Las carnas son de verdad.
+[SPEAKER_00]  y seguimos vigentes en toda esta trayectoria en la ingeniería de sistemas.
+[SPEAKER_00]  Edgar, que también va a comenzar sobre él.
+[SPEAKER_00]  Y arranca luego con la entrevista para...
+[SPEAKER_00]  Bueno.
+[SPEAKER_00]  Entonces, Edgar, adelante, por favor.
+[SPEAKER_02]  Bueno, muchas gracias Manuel por la palabra.
+[SPEAKER_02]  Muy complacido de poder invitar a...
+[SPEAKER_02]  Fabio Mauricio Pinzón, quien...
+[SPEAKER_02]  hemos sido colegas tanto académicamente como laboralmente.
+[SPEAKER_02]  Y...
+[SPEAKER_02]  reconociendo su aporte que ha hecho la tecnología, pues es interesante poder conversar con él.
+[SPEAKER_02]  De mi parte, pues sí, yo soy ingeniero de sistemas y computación.
+[SPEAKER_02]  trabaje en el banco
+[SPEAKER_02]  Más de 20 años me jubilé y luego he dedicado mis esfuerzos al apoyo del talento TI en el país, participando en academia, en redes, en ASIS, en otras instancias, mesas sectoriales, clúster y demás. Y por eso este tipo de proyectos me entusiasman porque pueden ser...
+[SPEAKER_02]  pedagógicos y...
+[SPEAKER_02]  motivacionales para las nuevas generaciones.
+[SPEAKER_02]  Entonces, bueno, buenas tardes.
+[SPEAKER_02]  Buenas tardes Edgar, gracias. Nos llama mucho la atención no ponernos a presentarnos, sino más bien que tú mismo seas quien te presentes inicialmente y luego empecemos con las preguntas sobre el recorrido de tu interés desde el colegio, en qué cosas te destacabas y que te llamaba la atención para...
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  que era atractivo en la formación de secundaria para después tomar la decisión.
+[SPEAKER_02]  a encarrilarte en esta profesión.
+[SPEAKER_02]  Entonces ahí la...
+[SPEAKER_00]  Y no olvidar mencionar los años, los años de la historia que vas a ir contando.
+[SPEAKER_02]  Sí.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Sí, pues a ver, arranquemos. Gracias, muy amables.
+[SPEAKER_00]  Pues ahora...
+[SPEAKER_01]  Sí, no, a mí la aproximación por décadas me parece interesante que no.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  me pone a mí en contexto también con...
+[SPEAKER_01]  con el trabajo que hice en el Banco de la República.
+[SPEAKER_01]  Pero bueno, arranquemos. Efectivamente yo soy, yo entré a la Universidad de Los Andes en el año 76 a estudiar Ingeniería de Sistemas.
+[SPEAKER_01]  En aquella época yo tenía 16 años.
+[SPEAKER_01]  Entonces, y yo era...
+[SPEAKER_01]  Bueno, en matemáticas y era, digamos, uno de los jóvenes del curso. Mis compañeros, pues en esa época tenían 18, 19 años.
+[SPEAKER_05]  años.
+[SPEAKER_01]  Y...
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  ¡Adiós!
+[SPEAKER_05]  Bien.
+[SPEAKER_01]  Y como que eso me daba cierta fuerza en el grupo, el ser de los buenos en matemáticas.
+[SPEAKER_01]  Sin más.
+[SPEAKER_01]  Con solo eso...
+[SPEAKER_01]  me dio por estudiar Ingeniería de Sistemas porque decían que eso de Ingeniería de Sistemas, eso era para los que sabían matemáticas.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Así me vinculé a los Andes y pues con un ICFES relativamente decente.
+[SPEAKER_01]  Entré a la Universidad de Los Andes en 1976.
+[SPEAKER_01]  Allá pues desarrollé el programa normal cuando llegué.
+[SPEAKER_01]  Yo realmente quedé fascinado con...
+[SPEAKER_01]  que quedé mucho más, digamos, contento.
+[SPEAKER_01]  de haber escogido la carrera.
+[SPEAKER_01]  Yo creo que como por tres frentes.
+[SPEAKER_01]  Cuando entramos la introducción a sistemas de aquella época, de acuerdo con, me tocó con Ernesto Lleras.
+[SPEAKER_01]  A mí me fascinó ese tema de resolver problemas.
+[SPEAKER_01]  prácticamente por fuera de la caja, cualquier cosa que apareciera retadora.
+[SPEAKER_01]  Buscar las formas de resolverlo, eso por un lado.
+[SPEAKER_01]  El tema de lógica me fascinaba, el tema de lógica matemática también, todos los IS, los AN, los OR, toda la construcción lógica que había.
+[SPEAKER_01]  me encantaba y pues cuando vi programación a mí eso me fascinó.
+[SPEAKER_01]  Entonces realmente yo quedé muy contento con la escogencia de la carrera.
+[SPEAKER_01]  Efectivamente, yo duré seis años en la universidad, yo tomaba mis semestres.
+[SPEAKER_01]  digamos un poco más relajado.
+[SPEAKER_01]  porque también por esa época me fascinaba y todavía hoy en día me encanta el deporte, pero por esa época el deporte de competencia, voleibol, básquet, fútbol.
+[SPEAKER_01]  Microfútbol.
+[SPEAKER_01]  Pues yo le he dedicado también un tiempo extenso en los Andes, tengo que confesarlo. Y no les cuento mi promedio en los Andes que se vio afectado por...
+[SPEAKER_01]  y por esa actividad deportiva.
+[SPEAKER_01]  Pero en fin, realmente fue una temporada muy buena en la Universidad de los Andes.
+[SPEAKER_01]  tanto deportivas como de aprendizaje.
+[SPEAKER_01]  Ahora, según recuerdo, en el año 76, cuando yo fui a mirar ingeniería de sistemas,
+[SPEAKER_01]  Estaba en los Andes, todavía no aparecían otras universidades en el escenario en Bogotá.
+[SPEAKER_01]  Entonces, para mí fue la única ingeniería de sistemas a la que me inscribí en esa época.
+[SPEAKER_01]  ¿Y por qué te...?
+[SPEAKER_02]  Me graduo.
+[SPEAKER_02]  Sí, pero no antes de tan lejos.
+[SPEAKER_02]  porque
+[SPEAKER_02]  Sí, era opción la Universidad de los Andes en sistemas. En el colegio, si te llamaba mucho la atención las matemáticas, generalmente...
+[SPEAKER_02]  Las orientadoras, profesionales y demás conocían mucho más.
+[SPEAKER_02]  temas como electrónica, eléctrica o física, qué sé yo.
+[SPEAKER_02]  carreras que están más relacionadas con matemáticas.
+[SPEAKER_02]  ¿Cómo logras evaluar qué sistema sí podría ser esa opción?
+[SPEAKER_01]  Pues mira, yo más bien...
+[SPEAKER_01]  A mí me aterró electrónica o eléctrica por la parte de la física.
+[SPEAKER_01]  Yo en física sí no me sentía muy bien.
+[SPEAKER_01]  O sea, yo me sentía muy bien en las matemáticas tradicionales, en la lógica, en la trigonometría.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  Creo que hasta en el cálculo me sentía medio bien.
+[SPEAKER_01]  Pero en cambio a mí la física me aterraba.
+[SPEAKER_01]  Y yo ya tenía compañeros, pues mejor dicho, que habían empezado a estudiar eléctrica o electrónica.
+[SPEAKER_01]  Y el tema de la física así me aterraba. Pues ya con los años ya tuve que...
+[SPEAKER_01]  Pues perder el miedo y enfrentar la electrónica y enfrentar...
+[SPEAKER_01]  enfrentar hasta la eléctrica por la carrera que me tocó.
+[SPEAKER_01]  después en el banco.
+[SPEAKER_01]  Pero en ese momento...
+[SPEAKER_00]  en el...
+[SPEAKER_01]  no era para mí una opción.
+[SPEAKER_01]  Meterme a una electrónica o a una electrónica.
+[SPEAKER_01]  Eso no...
+[SPEAKER_01]  Mucho. A mí me aterraba la idea de electrónica en la Javeriana, por ejemplo, por lo que veía compañeros que estaban estudiando electrónica en la Javeriana.
+[SPEAKER_01]  Entonces no, por ese lado tal vez no.
+[SPEAKER_01]  Ya cuando desarrollé la carrera en los Andes, pues bueno, ustedes eso lo entienden mejor que yo, pero nosotros entramos a...
+[SPEAKER_01]  Yo entré con el IBM 3.
+[SPEAKER_01]  360 tal vez, con el IBM 360 y las tarjetas.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  En ese momento.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Y cuéntanos de eso.
+[SPEAKER_01]  Y a echar el código en las tarjetas, en ese momento a punta de Fortran, digamos.
+[SPEAKER_02]  Sí, cuéntanos sobre eso, las metodologías que se utilizaban, las lenguajes que se desarrollaban.
+[SPEAKER_02]  las clases que más te llamaban la atención, los profesores que te inspiraron.
+[SPEAKER_02]  los modelos que tenías, este tipo de cosas académicas. Pues mira, a mí yo...
+[SPEAKER_01]  Pues mira, a mí yo...
+[SPEAKER_01]  Voy a mencionarlos con nombres propios, pero el otro día los vi por ahí en un video del sistema de los Andes, pero...
+[SPEAKER_01]  Pero pues, aparte de Ernesto en esa introducción, pues mis profesores de programación sí eran...
+[SPEAKER_01]  Yo me acuerdo de Fernando Fernández y Homero.
+[SPEAKER_01]  Pero a mí y los otros que también me...
+[SPEAKER_01]  Francisco Rueda en Sistema Operacional fue una inspiración tremenda. A mí recién graduado de los Andes.
+[SPEAKER_01]  sistema operacional era lo que realmente me atrajo bastante.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  Ahora, pues empecé a echar código normal en COBOL y en ALBOL y en BPL.
+[SPEAKER_01]  cuando salí de los Andes.
+[SPEAKER_01]  Pero en los Andes el tema fue Fortran y Cobol.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Algo que yo no imaginé que me iba a servir años después.
+[SPEAKER_01]  fue el Assemble.
+[SPEAKER_01]  ¿No?
+[SPEAKER_01]  Pues me han dicho que uno hacía unos programas básicos en Assembler.
+[SPEAKER_01]  con sus jumps y todo su movimiento de variables de memoria, procesamiento y todo.
+[SPEAKER_01]  Y uno dice, no, pues esto está muy...
+[SPEAKER_01]  Ya, esto está de muy bajo nivel.
+[SPEAKER_01]  Pero...
+[SPEAKER_01]  Años después...
+[SPEAKER_01]  Pude entender, por ejemplo...
+[SPEAKER_01]  Un problema que hubo gravísimo en Bangladesh, que al Banco Central le robaron una plata.
+[SPEAKER_01]  Y lo pude entender bastante bien gracias al tema del assembler que había por debajo.
+[SPEAKER_01]  en el tema de los passwords, un tema delicadísimo como he dicho
+[SPEAKER_01]  O sea, a un código en Assembler.
+[SPEAKER_01]  Le quitaron la validación del password.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  Entonces, un hueco de esos, fíjate, con un cambio en el Asamblea lo pude entender y era para nosotros un aseguramiento importante.
+[SPEAKER_01]  Porque era una cosa que le ha pasado a un banco central y en un software que usamos los demás bancos.
+[SPEAKER_01]  Era un tema delicado, pero digamos, las metodologías...
+[SPEAKER_01]  Yo no toqué una pantalla de computador desde el 76 hasta el 81.
+[SPEAKER_01]  Y solo ya cuando estoy haciendo mi tesis en el 81.
+[SPEAKER_01]  Es que por primera vez tocó una pantalla de un borros, ya para ese momento estábamos trabajando los...
+[SPEAKER_01]  Era en el borro que se estaba trabajando.
+[SPEAKER_01]  Según recuerdo esa tesis, la trabajé un pedazo en Cobol.
+[SPEAKER_01]  y otro pedazo lo trabajé.
+[SPEAKER_01]  en el borros programming language que se llamaba esa vaina vpl vpl
+[SPEAKER_01]  Pero eso fue la metodología que desarrollé. Eso, digamos, para mencionar clases que me hayan gustado, pues obviamente mis programaciones.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  las estructuras de datos.
+[SPEAKER_01]  A mí realmente eso también me pareció muy interesante.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  había también un curso de LIS que vimos con Rodrigo López
+[SPEAKER_01]  Pucha, qué lenguaje ese, pero el lenguaje me parecía fascinante. No sé para qué me iba a servir.
+[SPEAKER_01]  No sé en mi vida para qué me iba a servir, pero a mí me encantaba ver cómo era ese lenguaje de esas listas.
+[SPEAKER_01]  En fin, eso fue un poco como los hitos grandes de Ingeniería Sistemas.
+[SPEAKER_01]  Yo te diría muy, muy por el lado de la máquina, muy por el lado de los lenguajes, de las estructuras de datos, no tanto por la parte organizacional, a mí la parte organizacional.
+[SPEAKER_01]  no me llamaba la atención. A mí sí me... Enfrentarme con la máquina y decirle a la máquina era lo que me llamaba la atención.
+[SPEAKER_00]  En realidad...
+[SPEAKER_00]  Y decirle a la máquina...
+[SPEAKER_00]  Era una época donde realmente se enseñaba Computer Science.
+[SPEAKER_00]  ¿No?
+[SPEAKER_00]  Pienso, es computer science. Es la verdad.
+[SPEAKER_01]  Eso es Computer Science.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Y con el assembler había ya la promoción del system programming.
+[SPEAKER_00]  ¿No?
+[SPEAKER_00]  Yo fui profesor de Assembles.
+[SPEAKER_00]  en años anteriores.
+[SPEAKER_00]  y después trabajé mucho en Assembler en estas máquinas.
+[SPEAKER_00]  que había que meterse dentro del interno del sistema operacional.
+[SPEAKER_00]  Y era una mentalidad muy interesante.
+[SPEAKER_00]  el no saber para dónde iba.
+[SPEAKER_00]  No ibas. No solo tú.
+[SPEAKER_00]  apasionados con el ISP y apasionados con el Fortran y apasionados con el Assemble.
+[SPEAKER_01]  Apasionado.
+[SPEAKER_00]  pero no se sabía para dónde iba porque toda la profesión le faltaba.
+[SPEAKER_00]  un factor común, lo mismo que la matemática.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Ahí a quien tuviste, profesor, en estructura de...
+[SPEAKER_02]  computadores, creo que se denominaba eso cuando trabajamos al Sembler, ¿no? ¿Ahoramas o...?
+[SPEAKER_01]  Yo tuve a Oramas y tuve a Chiman, pero no recuerdo bien a cuál de los dos tuve en esas dos disciplinas.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  Yo creo que tuve ahora más por ahí.
+[SPEAKER_01]  Es que también cuando aparecen estos autómatas y las máquinas de Turing.
+[SPEAKER_01]  Ahí yo tenía Chima. Ahí me acuerdo que yo tenía Chima. Yo creo que en estructura de computador yo tenía Oramas.
+[SPEAKER_02]  Ahora es más correcto.
+[SPEAKER_02]  Y después con sistemas operativos fue con...
+[SPEAKER_01]  Pach.
+[SPEAKER_01]  Fue la primera vez que tuve a Pacho de profesor y esa mañana me pareció fascinante.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Yo no había tenido apoyo. De hecho, ya terminando la carrera, fue cuando tuve profesor.
+[SPEAKER_02]  Pero en introducción no lo tuviste, sí.
+[SPEAKER_01]  No, tuve fornaz tolleras.
+[SPEAKER_02]  Ah, Ernesto, ¿quieres ver otro grupo?
+[SPEAKER_01]  Estoy lleno.
+[SPEAKER_02]  Bueno.
+[SPEAKER_02]  Y bueno, entonces te llamaban más las asignaturas de programación, hiciste los lenguajes.
+[SPEAKER_02]  Y las máquinas que estuviste fueron esa, IBM 360 y el Borros.
+[SPEAKER_02]  Sí, sería, era, sería, era.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  No, no, no, esto es una serie anterior.
+[SPEAKER_01]  No, los series A ya son en el banco.
+[SPEAKER_01]  En el banco. En el banco hay borrosería.
+[SPEAKER_01]  ya es inclusive ya ya en esa época ya esta compañía se empieza a llamar unisis que fue la
+[SPEAKER_01]  La conjunción de Borrox y Sperry.
+[SPEAKER_01]  Formaron Ionesis y ahí ya...
+[SPEAKER_01]  Pero esto ya es el principio de los 90 prácticamente. El bordo es casi toda la década de los 80.
+[SPEAKER_02]  Borbón es casi toda la deuda de los...
+[SPEAKER_02]  Saliendo de la universidad no lograste tener contacto con los microcomputadores, o sí, porque por esa época creo que se hicieron los lanzamientos allá.
+[SPEAKER_02]  Con distancia bien.
+[SPEAKER_01]  En los Andes, no. En los Andes yo tenía pantalla.
+[SPEAKER_01]  Pantalla verde.
+[SPEAKER_01]  Pantalla propia de borros.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Adiós.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Ya cuando...
+[SPEAKER_01]  Pues yo salgo de la universidad en el 83, entró al banco.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Y en el 83, pues lo que vimos en el banco, ¿tú te acuerdas que en los 80s?
+[SPEAKER_01]  Es cuando ya llegan los primeros computadores portátiles, portátiles no, perdón, los primeros desktops.
+[SPEAKER_05]  De eso.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Los primeros desktops que algunos fueron RadioShack y otros fueron IBM.
+[SPEAKER_01]  y estos empiezan a hacerse la conexión.
+[SPEAKER_01]  a los mainframe para que sirvieran como pantallas de los mainframe.
+[SPEAKER_01]  Pero en un principio cuando yo entré al banco en el 83, incluso en el banco eran pantallas.
+[SPEAKER_01]  Borrocks.
+[SPEAKER_01]  Banco de la República.
+[SPEAKER_00]  Banco de la República, para los que nos van a escuchar. Ah, sí. ¿Se acuerda qué? Que en el 83 ingresó a Banco de la República.
+[SPEAKER_01]  Ah, sí.
+[SPEAKER_01]  en el 83 ingresó a la República como desarrollador de software
+[SPEAKER_02]  O sea, tú entraste directamente al banco saliendo recién graduado.
+[SPEAKER_01]  Sí, realmente. Pero no hiciste.
+[SPEAKER_02]  ¿Pero no hiciste una práctica externa?
+[SPEAKER_01]  No, yo salí, yo me gradué y mientras entraba al banco, mi proceso de selección era, es y sigue hoy en día.
+[SPEAKER_01]  Una selección en el banco puede pasar meses, digamos, tres meses, puede pasar uno, cuatro meses, mientras entra.
+[SPEAKER_01]  y
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Alcance a trabajar.
+[SPEAKER_01]  Pero si hemos pasado...
+[SPEAKER_02]  Por eso, pero hacemos pasantías, por ejemplo, en el SENA o en...
+[SPEAKER_02]  No.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  No, yo hice en la empresa del papá de un amigo, yo les trabajé en los programas en SAS.
+[SPEAKER_01]  durante una época, pero fue cortico, eso fue la única experiencia laboral fuera del banco.
+[SPEAKER_01]  Eso fue en el final del 82 y ya...
+[SPEAKER_01]  En principios del 83 yo entro al banco.
+[SPEAKER_01]  Sí.
+[SPEAKER_00]  Un reversito, un reversito
+[SPEAKER_00]  Porque ya nos grabamos y todo eso.
+[SPEAKER_01]  Ok.
+[SPEAKER_04]  No.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Sí.
+[SPEAKER_00]  Ya se graduó y todo, se graduó del Antic.
+[SPEAKER_04]  Muchas gracias.
+[SPEAKER_00]  Al terminar la universidad, el proceso de finalizar el proyecto de grado que hiciste.
+[SPEAKER_00]  ¿Cómo fue ese momento ya finalizando la universidad? Y ahora seguimos con el banco.
+[SPEAKER_01]  No, me da pena contar esto, pero contémoslo, porque aquí están grabando, pero yo casi no me graduo.
+[SPEAKER_00]  No, no, no.
+[SPEAKER_04]  jajaja
+[SPEAKER_01]  Porque fuera de chiste, mi tesis no funcionaba.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Yo me gasté un jurgo de código haciendo una tesis para un tema de taxonomía vegetal.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  pero realmente los programas no funcionaban bien. De hecho, es que hasta la propia, podemos decir, incluir, modificar.
+[SPEAKER_01]  eliminar
+[SPEAKER_01]  Y el incluir no funcionaba muy bien.
+[SPEAKER_01]  Eh
+[SPEAKER_01]  Entonces, a veces como que incluía más taxonomías de la cuenta o no incluía la que tenía que incluir.
+[SPEAKER_04] 
+[SPEAKER_01]  Entonces, pues realmente el grado fue milagroso por el trabajo que...
+[SPEAKER_01]  no por los resultados.
+[SPEAKER_01]  por la cantidad de trabajo que hice en el computador y la cantidad de código.
+[SPEAKER_01]  más que por...
+[SPEAKER_01]  Más que por los resultados del programa.
+[SPEAKER_01]  Eso fue increíble.
+[SPEAKER_02]  ¿Quién fue el director de tu proyecto?
+[SPEAKER_01]  Mira, qué pena, pero yo creo que sí era algo de taxonomía vegetal, un sistema de taxonomía vegetal.
+[SPEAKER_01]  Así de sencillo.
+[SPEAKER_01]  Mejor dicho, clasificar plantas y almacenarlas en el computador.
+[SPEAKER_01]  puesto de otra manera.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  ¿Pero no recuerdas el director del proyecto?
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Ah, el rector del proyecto fue un francés.
+[SPEAKER_02]  ¿no?
+[SPEAKER_01]  que se llamaba Alain Núñez.
+[SPEAKER_01]  Era un francés de esos que venía a la universidad de manera periódica, corta.
+[SPEAKER_01]  Y resulta que este hombre se devolvió a Francia.
+[SPEAKER_01]  antes de que termináramos.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Entonces, claro, yo quedé sin director de proyecto a mitad del camino.
+[SPEAKER_01]  Y pues cuando yo presenté el proyecto nadie conocía que era lo que yo había hecho y yo no sabía que había gastado una cantidad de computador.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  haciendo el proyecto.
+[SPEAKER_01]  Entonces realmente mi proyecto en ese momento fue vergonzoso, para decirlo de otra manera. De hecho, mi proyecto no funcionó en software.
+[SPEAKER_02]  No funciona.
+[SPEAKER_01]  Pero pues...
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Pero era proyecto finalmente.
+[SPEAKER_01]  Pero justificando...
+[SPEAKER_01]  pase la tesis porque francamente pues hizo una cantidad de trabajo y pues
+[SPEAKER_01]  Realmente no está como para rajarlo tampoco, llamémoslo así.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  pero voy a justificar y defender esa dificultad tuya.
+[SPEAKER_00]  porque los jóvenes de hoy no saben lo que era hacer debugging.
+[SPEAKER_00]  en esa época.
+[SPEAKER_00]  cuando era mucho más complejo, ¿no?
+[SPEAKER_00]  Es decir, las herramientas hoy tan instantáneas de...
+[SPEAKER_00]  Inclusive prueba y error.
+[SPEAKER_00]  Era una época más complicada en el tema del software.
+[SPEAKER_00]  y los profesores franceses que marcaron un hito en los Andes.
+[SPEAKER_00]  Cuando ellos llegaron, los profesores nuestros, a mí me tocaron, mucho antes que tú.
+[SPEAKER_00]  Los profesores nuestros eran serios, encorbatados, toda la cosa.
+[SPEAKER_00]  Y llegaron los franceses que eran jóvenes.
+[SPEAKER_00]  fiesteros, ¿no?
+[SPEAKER_00]  digamos de unas personalidades muy distintas.
+[SPEAKER_00]  Ese fue un hito muy importante.
+[SPEAKER_00]  Y tiene razón.
+[SPEAKER_00]  que ellos después viajaron y a ti te dejaron prácticamente sin director.
+[SPEAKER_00]  La otra pregunta es ¿qué lenguaje usaste en la programación?
+[SPEAKER_02]  Sí.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Pero...
+[SPEAKER_02]  de lo que...
+[SPEAKER_01]  ¿Cómo?
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  ¿Qué lenguaje? ¿Trabajado en el Borros?
+[SPEAKER_02]  lenguaje
+[SPEAKER_04]  ¿no?
+[SPEAKER_01]  Si yo trabaja en el Borros, usé más, sobre todo, es que no me acuerdo si era...
+[SPEAKER_01]  Pero era algo lo EPL1.
+[SPEAKER_01]  Sí.
+[SPEAKER_04]  porque el modelo
+[SPEAKER_01]  Porque es que el modelo de lenguaje se me confunde, pero...
+[SPEAKER_01]  Son lenguajes idénticos, me ha dicho el Gol y el IPL, y el IPL1 eran idénticos.
+[SPEAKER_00] 
+[SPEAKER_01]  tenían que ver solo con el modelo del borros.
+[SPEAKER_00]  Sí, el gol era más cercano al Borros.
+[SPEAKER_00]  Inclusive el sistema operacional era en alcohol.
+[SPEAKER_00]  Era una curiosidad.
+[SPEAKER_00]  Bueno, pero entonces saliste de la tesis.
+[SPEAKER_02]  Sí, salió.
+[SPEAKER_00]  que ese es un consuelo para los que sufren hoy en día sufrimos haciendo software de que siempre se sale adelante
+[SPEAKER_00]  Entonces, aliste con el proyecto de grado, de todas maneras.
+[SPEAKER_01]  Sí, ¿no? Y realmente...
+[SPEAKER_01]  Ya cuando, digamos, ya me ingresó al banco.
+[SPEAKER_01]  Y prácticamente...
+[SPEAKER_01]  con
+[SPEAKER_01]  digamos, con el acercamiento con todos los compañeros del banco al tema de la programación.
+[SPEAKER_01]  y el acercamiento al cliente.
+[SPEAKER_01]  Ya ahí sí, mejor dicho, lo que...
+[SPEAKER_01]  Digamos, mi primer proyecto en el banco.
+[SPEAKER_01]  que se demoró dos meses.
+[SPEAKER_01]  escucha, superaba ampliamente lo que yo hice con la tesis, digamos.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  proyecto muy sencillo, era
+[SPEAKER_01]  Digamos, en el banco tenemos una tesorería, la tesorería de los billetes, los billetes tienen temas de billetes devueltos, billetes falsos, billetes deteriorados.
+[SPEAKER_01]  Y hice un sistema para ese tema del inventario de los billetes.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Y eso salió en dos meses sin ningún problema.
+[SPEAKER_01]  Y era más un tema de...
+[SPEAKER_01]  Todos los compañeros, digamos.
+[SPEAKER_01]  haciéndome el coaching.
+[SPEAKER_01]  de cómo era que se hacían los programas.
+[SPEAKER_01]  Y una cercanía con el usuario que realmente es.
+[SPEAKER_01]  muy al sistema moderno.
+[SPEAKER_01]  en donde uno está
+[SPEAKER_01]  Hoy en día, entregando los sprints y diciéndole al usuario, mire, esto es lo que se hizo ayer.
+[SPEAKER_01]  Y pruébelo.
+[SPEAKER_01]  Y el tipo dice, eso que usted hizo ayer, corríjale esto. Y es una interacción diaria.
+[SPEAKER_01]  que en esa época se daba maravillosamente con el usuario.
+[SPEAKER_01]  Entonces, esa también fue una etapa muy interesante donde...
+[SPEAKER_01]  Yo hoy en día que veo a los ingenieros, digamos, actuando con el Product Owner.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Me recuerda mucho ese momento de cuando yo programé en el banco.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  digamos.
+[SPEAKER_01]  para el negocio.
+[SPEAKER_01]  Sí.
+[SPEAKER_02]  Sí.
+[SPEAKER_01]  Ya...
+[SPEAKER_02]  O sea, a pesar de que no había metodología definida...
+[SPEAKER_02]  ¿Consideras que ese tipo de esquema de trabajo?
+[SPEAKER_02]  con las áreas funcionales era...
+[SPEAKER_02]  Muy empatizado, ¿verdad?
+[SPEAKER_01]  Sí, claro, es que...
+[SPEAKER_01]  Marichu, tú grabas todo el día programando.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  A la mañana siguiente le mostrabas al cliente.
+[SPEAKER_01]  ¿Cómo iba la vaina?
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Y de una vez iban las correcciones y las pruebas.
+[SPEAKER_01]  y
+[SPEAKER_01]  Mejor dicho, la celeridad en dejar a un cliente satisfecho sin toda una cadena de intermediación que se volvió después la ingeniería de software.
+[SPEAKER_01]  pues le agregaba, le decía, tenías un cliente satisfecho un poquito más rápido.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Sería como el resultado de esa experiencia que tuve.
+[SPEAKER_01]  cuando desarrollé al principio en el banco.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  que destacan
+[SPEAKER_02]  ¡Feliz Día!
+[SPEAKER_02]  bien estabas hablando de que había coaching entre los compañeros
+[SPEAKER_05]  Gracias.
+[SPEAKER_02]  que ese tipo de esquema donde se llegaba a trabajar y los compañeros no eran jefes, sino colaboradores, y lo mismo los jefes, supuestamente, jefes eran más líderes.
+[SPEAKER_02]  ¿Ese esquema se ha mantenido, ha cambiado? ¿Cómo lo sentiste en esa época?
+[SPEAKER_02]  lo marca el comunito ahí
+[SPEAKER_01]  Pues mira, es que...
+[SPEAKER_01]  digamos
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Después vienen una serie de décadas.
+[SPEAKER_01]  Cuando ya digamos...
+[SPEAKER_01]  Tener desarrolladores empleados del banco.
+[SPEAKER_01]  se vuelve imposible.
+[SPEAKER_01]  por la cantidad de software que se tiene que desarrollar.
+[SPEAKER_01]  Entonces ya viene el tema de las...
+[SPEAKER_01]  de lo que llaman las software factory de contratar compañías de desarrollo de software
+[SPEAKER_01]  con unas metodologías específicas, digamos.
+[SPEAKER_01]  En el banco hasta los 90's.
+[SPEAKER_01]  desarrollamos en casa con empleados banco, desarrolladores banco y la interacción que tenemos acá.
+[SPEAKER_03]  Amiga, tu hijo tiene agüita aquí.
+[SPEAKER_01]  y un coaching muy cercano de los compañeros. Cualquier pedazo de código que tú querías.
+[SPEAKER_03]  de los compañeros.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  ¿Qué necesitas?
+[SPEAKER_04]  que necesitabas, era muy fácil.
+[SPEAKER_01]  Era muy fácil decirle a un compañero, pasen el pedazo de código.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Un ejemplo muy sencillo, por ejemplo, es la famosa rutina de escribir un número en letras.
+[SPEAKER_01]  ¿No?
+[SPEAKER_01]  Si a uno le tocara hacer esa rutina desde cero.
+[SPEAKER_01]  Pucha, arranqué a hacerlas de cero, pero en ese momento, ya en los 80, esa rutina estaba escrita.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Préstame la rutina para escribir, para poner ese número en letras, punto.
+[SPEAKER_01]  Y está confiable, está probada.
+[SPEAKER_01]  Es un ejemplo de cómo ese coaching traía.
+[SPEAKER_01]  traía ya una serie de beneficios de agilidad en el desarrollo de software.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Eso mientras estuvo, digamos.
+[SPEAKER_05]  es
+[SPEAKER_01]  con compañeros.
+[SPEAKER_01]  de trabajo que hacían también software.
+[SPEAKER_05]  trabajo
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Pues en los 90s ya la modernización de la organización ya no da.
+[SPEAKER_01]  Y nos toca es contratar compañías de software.
+[SPEAKER_01]  con otro tipo de metodología.
+[SPEAKER_01]  Sí, ¿no?
+[SPEAKER_01]  Entonces ahí sí ya viene el diseño de requerimientos, la entrega de requerimientos.
+[SPEAKER_01]  Toda la cadena.
+[SPEAKER_01]  que en este momento estamos volviendo otra vez a compactar.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Esa rutina famosa era la que se llamaba el monto escrito, si no estoy mal. ¿Ustedes de acuerdo?
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  ¿De acuerdo?
+[SPEAKER_00]  El monto escrito se llamaba, de acuerdo. Esa rutina estaba en todos los lenguajes. Hay que desarrollar un sorte muchas veces, cosas que hoy en día es un utility.
+[SPEAKER_01]  Esa rutina estaba en todos los lenguajes.
+[SPEAKER_01]  Hay que desarrollar.
+[SPEAKER_01]  Sí, eso ya.
+[SPEAKER_02]  Bueno, pero...
+[SPEAKER_01]  Bueno, pero...
+[SPEAKER_02]  Pero antes de irte tan lejos...
+[SPEAKER_02]  hablemos del tema de la fábrica de software interna.
+[SPEAKER_02]  Hablemos de los esquemas, cómo se programaba, cómo se hacían las pruebas.
+[SPEAKER_02]  ¿Qué esquemas teníamos? Todos no teníamos computadores ni pantallas. Describe un poco.
+[SPEAKER_02]  y
+[SPEAKER_02]  las maneras de trabajar.
+[SPEAKER_02]  en el banco.
+[SPEAKER_01]  Pues mira, cuando yo entré al banco...
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Allá había el computador de desarrollo y el computador de producción.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  O sea, no había...
+[SPEAKER_01]  Con los años después tuvimos computador de pruebas.
+[SPEAKER_01]  pero era el computador de desarrollo.
+[SPEAKER_01]  donde confluían.
+[SPEAKER_01]  El que había desarrollado un software
+[SPEAKER_01]  Y...
+[SPEAKER_01]  digamos el futuro usuario de ese software.
+[SPEAKER_01]  viendo que eso era lo que se iba a usar.
+[SPEAKER_03]  Punto.
+[SPEAKER_01]  Y ya finalmente uno con el usuario charlaba y decía, ya está listo, ya está listo. Ah, bueno, entonces ahora sí.
+[SPEAKER_01]  pasemos a la producción
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Esa era la mecánica sencilla de hago un programa, mire, su programa es esto, está bien, sí está bien, listo. Entonces el programa se va para la producción y allá ya lo puede usted usar en su día a día.
+[SPEAKER_05]  Vamos.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Eso fue durante los 80's y yo creo que la máquina de pruebas...
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  El esquema de pruebas intermedias aparece solo a finales de los 80 ya.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  cuando se habla de máquina de pruebas.
+[SPEAKER_01]  Pero durante todos los 80, nosotros vivimos con la máquina de desarrollo para los ingenieros y la máquina de producción para los usuarios.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Con estos borros...
+[SPEAKER_01]  el banco durante todo el tiempo.
+[SPEAKER_02]  por Rux.
+[SPEAKER_02]  Fue Borrocks.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  ¡Voy a unirse!
+[SPEAKER_02]  Pero es Borros en ese momento cuando entraste. En ese momento es Borros, en los ochentas es Borros.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00] 
+[SPEAKER_05]  Gracias.
+[SPEAKER_02]  Sí.
+[SPEAKER_00]  Sí.
+[SPEAKER_00]  De acuerdo.
+[SPEAKER_00]  ¿Y te acuerdas de los compañeros que encontraste? O digámoslo así, que llamémoslo ya compañeros del banco.
+[SPEAKER_00]  Cuando entraste a trabajar,
+[SPEAKER_00]  Claro, es que el banco legal...
+[SPEAKER_01]  Claro, es que el banco, digamos, el banco al que yo entré en los 80s.
+[SPEAKER_01]  había reclutado un equipo de ingenieros de sistemas de la Universidad de Los Andes.
+[SPEAKER_01]  Marichuari.
+[SPEAKER_01]  Este equipo fue promovido por un economista dentro del banco que precisamente fue...
+[SPEAKER_01]  El que compró el primer computador, digamos, el que motivó a la gerencia en el 71 a comprar el primer computador, un señor que se llamaba Roberto Villaveses.
+[SPEAKER_01]  Este hombre tiene una historia maravillosa dentro del banco.
+[SPEAKER_01]  Porque además el tipo hizo programas para comunicar las pantallas.
+[SPEAKER_01]  con el computador.
+[SPEAKER_01]  O sea, el programa de comunicación entre las pantallas y el mainframe fue hecho por él.
+[SPEAKER_01]  En esa época, digamos, él también desarrolló un editor de texto para hacer los programas.
+[SPEAKER_01]  Él lo llamó mega, pero en ese momento el banco no tenía lo que después Borrocks conoció como candy.
+[SPEAKER_01]  Que era como Nanedí.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  ¿Cómo es un idioma de edición?
+[SPEAKER_01]  Ese programa no lo tenía el banco. El señor había hecho el...
+[SPEAKER_03] 
+[SPEAKER_03]  ¿Vale?
+[SPEAKER_03]  la comunicación Soledad
+[SPEAKER_01]  en la comunicación.
+[SPEAKER_01]  ¿Pero antes de que te...
+[SPEAKER_00] 
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  ¿Tengo otra pregunta? No, no, no. Beatriz.
+[SPEAKER_00]  Beatriz, ¿puedes cerrar tu micrófono?
+[SPEAKER_03]  Saludos.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  espíritu.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  ¿Listo? Ya. Ok.
+[SPEAKER_01]  Ya cerró Beatriz. Entonces, tenemos un señor que promovió primero que hubiera ingenieros de sistemas en el banco.
+[SPEAKER_01]  ¿Qué hizo?
+[SPEAKER_01]  el impulso para que en el banco hubiera computador digital y que ese computador ayudara en las principales actividades del banco que eso arranca.
+[SPEAKER_01]  Bueno, sí lo tengo de haber hecho un trabajo reciente sobre la historia de tecnología en el Banco de la República.
+[SPEAKER_01]  Este señor arranca con los temas de...
+[SPEAKER_01]  de estadísticas económicas.
+[SPEAKER_01]  Esa sección de estadísticas económicas en el banco.
+[SPEAKER_01]  Después es lo que se transforma en una subdirección de sistemas.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Entonces realmente en el banco la entrada del computador es para el tema de estadísticas económicas. Ya después obviamente...
+[SPEAKER_01]  entra esto a fortalecer otras áreas de...
+[SPEAKER_01]  digamos las islas más operativas. ¿Qué es lo más operativo? Pues la contabilidad.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  Entonces...
+[SPEAKER_01]  empieza a volverse una serie de aplicaciones departamentales y los ingenieros somos asignados a funciones departamentales.
+[SPEAKER_01]  Entonces, que hay que sacar la nómina.
+[SPEAKER_01]  que hay que mirar la cartera.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Entonces todas estas verticales de partidos internacionales.
+[SPEAKER_02]  Cambios internacionales.
+[SPEAKER_01]  Empiezan a tener su ingeniero especializado en eso.
+[SPEAKER_01]  Los cambios internacionales, fue un frente donde estuvo Edgar también muy vinculado en el banco.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Entonces, durante un tiempo, por ejemplo, yo en ese momento, el Banco de la República era un prestamista de crédito.
+[SPEAKER_01]  a personas naturales.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  crédito de fomento y crédito agropecuario.
+[SPEAKER_01]  Cuando yo entré al banco, después del tema de tesorería, yo empecé a trabajar fuertemente en el tema de crédito de fomento.
+[SPEAKER_01]  aprobación de créditos de fomento y estadísticas y manejo de cartera de crédito de fomento.
+[SPEAKER_01]  Ok.
+[SPEAKER_01]  Eso, digamos, en estos ochentas, al principio de los ochentas.
+[SPEAKER_01]  Porque como tú bien lo mencionaste, Manuel, yo después me vuelvo el System Engineer. O sea, me vuelvo el...
+[SPEAKER_01]  Me vuelvo el del sistema, el hombre que le montaba los sistemas operacionales a los borros, digamos.
+[SPEAKER_05]  ¿Hm?
+[SPEAKER_01]  Ya a finales de los 80's han entrado máquinas.
+[SPEAKER_01]  tipo medio, se llamaban unos altos.
+[SPEAKER_01]  parecido a un cenix o sistemas medios multiusuario
+[SPEAKER_01]  Y esto lo empezamos a desplegar a nivel nacional.
+[SPEAKER_01]  Entonces, digamos que en los 80s tenemos los mainframes y un desarrollo fuerte en cosas departamentales.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Desplegamos ya.
+[SPEAKER_01]  sistemas medios, por ejemplo, para contabilidad en nuestras sucursales.
+[SPEAKER_01]  Para ese momento el banco tenía una presencia.
+[SPEAKER_01]  Todavía tiene presencia en el país mucho más cultural, pero en ese momento tenía una presencia contable.
+[SPEAKER_01]  y de emisión y distribución de efectivo a nivel nacional.
+[SPEAKER_01]  Entonces, ese fue como el desarrollo en parte de los 80s.
+[SPEAKER_01]  No sé, ¿quieren que amplíe un poquito más cómo fue mi experiencia en los 80? Sí.
+[SPEAKER_02]  Yo sí creo que vale la pena.
+[SPEAKER_02]  procuramos
+[SPEAKER_01]  ¿Vergamos ya?
+[SPEAKER_01]  Ya uno se vuelve, digamos, mi experiencia como system, ya yo dejo entonces de ser el hombre que habla con el usuario.
+[SPEAKER_01]  sino ahora soy el que le responde a los ingenieros porque las máquinas funcionan.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  No tanto por el hardware, digamos, pero sí una vez que la máquina está prendida.
+[SPEAKER_01]  por toda la instalación del sistema operacional.
+[SPEAKER_01]  Y ya pues obviamente empiezan a aparecer las primeras bases de datos.
+[SPEAKER_01]  Ya había en el software de base de datos hecho.
+[SPEAKER_01]  Incluso cuando yo entré al banco.
+[SPEAKER_01]  Pues no había un software de base de datos. A uno le tocaba construir los famosos índices e indexar los archivos para que hubiera un funcionamiento similar al de una base de datos con sus índices.
+[SPEAKER_01]  Entonces esa fue como, digamos, la experiencia como ingeniero.
+[SPEAKER_01]  en esos primeros 10 años.
+[SPEAKER_02]  Ahí es cuando entra el lenguaje Ling, que trabajamos para...
+[SPEAKER_01]  Y Ulysses propone un lenguaje como de, que en ese momento lo llaman de cuarta generación.
+[SPEAKER_01]  en donde es un poco, digamos, más fácil.
+[SPEAKER_01]  poner estructuras de datos, ¿sí? Como casi, no lo digamos como objetos, pero muy cercano a decir, mire, yo tengo una pantalla y esa pantalla...
+[SPEAKER_01]  Refleja además
+[SPEAKER_01]  Un objeto.
+[SPEAKER_01]  en una base de datos.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Me han dicho crédito. Listo, tengo la pantalla crédito.
+[SPEAKER_01]  La pantalla crédito además se refleja allá en la base de datos con una tabla que se llama créditos.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Y los campos de esa pantalla van a ser al final de cuentas los campos que se ven allá.
+[SPEAKER_01]  En la tabla de créditos.
+[SPEAKER_01]  Entonces las diferentes pantallas del sistema...
+[SPEAKER_01]  no recuerdo el link, el L-I-N-S de Unisys que quería decir, pero más o menos lo que está diciendo es un lenguaje que sin...
+[SPEAKER_01]  que por debajo, inclusive por debajo, eso se traducía en...
+[SPEAKER_01]  en Cobol.
+[SPEAKER_01]  Sí, pero uno desarrollaba eso.
+[SPEAKER_01]  en unos pantallazos que al final se traducían en una serie de programas cobol que se compilaban.
+[SPEAKER_00]  para ubicar un poquito como la línea histórica de los 80.
+[SPEAKER_00]  En el 80 llegaron los primeros micros.
+[SPEAKER_00]  Yo personalmente traje los Radio Shack que tú mencionaste hace un ratico.
+[SPEAKER_00]  Inclusive IBM vio aparecer como en el 81.
+[SPEAKER_00]  ¿No?
+[SPEAKER_00]  De acuerdo, gente.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Charles Chaplin era el logo de IBM con los PCs.
+[SPEAKER_00]  O sea que todavía en el 80 los micros iban a aparecer.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04] 
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Ya mencionaste algo.
+[SPEAKER_00]  pero todavía estabas en el mainframe
+[SPEAKER_00]  Y esto que estás hablando de sus lenguajes, ¿no?
+[SPEAKER_00]  Esa es como para ubicar un poquito esa línea histórica del momento. Porque me imagino que después aparecerán ya los micros en el banco.
+[SPEAKER_01]  Los miembros en el banco vienen como en el 83-84.
+[SPEAKER_05]  De eso.
+[SPEAKER_01]  obviamente para los ingenieros y para los usuarios importantes.
+[SPEAKER_01]  Sí, cierto.
+[SPEAKER_01]  Cuando decimos importantes, pues eran los responsables en cada uno de estos departamentos del procesamiento asociado a su departamento.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  que si eran los estudios económicos, que si eran la contabilidad, que si eran los cambios internacionales, que si eran la tesorería, eran estos usuarios, llamémoslo así.
+[SPEAKER_01]  que son los primeros usuarios.
+[SPEAKER_01]  que tenemos
+[SPEAKER_01]  en buena parte conocedores del computador.
+[SPEAKER_01]  conocedores de su negocio.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Eran como gerentes funcionales.
+[SPEAKER_02]  como gerentes funcionales, ¿no?
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Ahora, lo que sí también, Edgar fue testigo en el banco de que los ingenieros de sistemas.
+[SPEAKER_01]  que conocen el negocio.
+[SPEAKER_01]  y hacen los programas para el negocio, se empapan tanto del negocio.
+[SPEAKER_01]  que terminan siendo ellos los que se van para el negocio, a manejar el negocio.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  Porque ellos mismos hacen el software.
+[SPEAKER_01]  conocen los procesos, conocen el área, empiezan a conocer el macro del departamento en su totalidad, cómo funciona, porque tienen que entrevistar a las diferentes personas que interactúan durante el proceso.
+[SPEAKER_01]  Y viene un fenómeno en el banco que es que los ingenieros de sistemas...
+[SPEAKER_01]  Se van de sistemas.
+[SPEAKER_01]  Pues, pucha, pasan 3, 4, 5 años y se van de sistemas.
+[SPEAKER_01]  a ser los jefes del departamento porque conocen la funcionalidad de todo el departamento.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Por el pensamiento sistémico que tienen los ingenieros.
+[SPEAKER_01]  Entonces, ahí sí el tema organizacional.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  En el banco es definitivo. En mi experiencia personal, no. Yo fui...
+[SPEAKER_01]  Técnico.
+[SPEAKER_01]  Yo me quedé de System durante todos los 80s, incluso en los 90s.
+[SPEAKER_01]  Bueno, tuve la bendición de que el banco me mandó a estudiar a Estados Unidos.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Estuve en Estados Unidos entre el 89 y el 91.
+[SPEAKER_01]  Sigo siendo un experto en sistema operacional.
+[SPEAKER_01]  Yo acojo fortalezas en bases de datos y en los 90s...
+[SPEAKER_01]  Yo duré la mitad de los 90 todavía haciendo...
+[SPEAKER_01]  ingeniero.
+[SPEAKER_01]  de la parte de abajo, de la parte de infraestructura.
+[SPEAKER_01]  Sí.
+[SPEAKER_02]  Pero cuéntanos el proceso también de la educación en Estados Unidos que tuviste, la maestría que desarrollaste.
+[SPEAKER_02]  cómo cambió la perspectiva.
+[SPEAKER_02]  la formación, cómo te trajo para aportar al banco.
+[SPEAKER_01]  Pues mira, yo lo que...
+[SPEAKER_01]  Yo me sentí como muy tranquilo en los Estados Unidos.
+[SPEAKER_01]  Bueno, una parte era el inglés, que bueno, esa parte afortunadamente no se me...
+[SPEAKER_01]  Me fue bien, mejor dicho, con la parte del inglés me fue bien.
+[SPEAKER_01]  curiosamente miren las cosas
+[SPEAKER_01]  Resulta que a mí me encantaba el voleibol, yo llegué a ser...
+[SPEAKER_01]  del equipo de bolígrafos de la Universidad de los Andes.
+[SPEAKER_01]  Y cuando llegué a Estados Unidos,
+[SPEAKER_01]  Tuve la oportunidad de ser del equipo también.
+[SPEAKER_01]  no de lo que se llama el varsity team, porque ese sí es el equipo de los de pregrado.
+[SPEAKER_01]  pero había equipo también como club.
+[SPEAKER_01]  donde podíamos participar los de posgrado.
+[SPEAKER_01]  en ese equipo de voleibol.
+[SPEAKER_01]  realmente ahí fue donde yo aprendí inglés.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  De hecho, fue en el día a día, interactuando con mis compañeros de voleibol, donde yo realmente...
+[SPEAKER_01]  Pues yo tenía que hablar o hablar o si no, no jugaba a bolígol.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Pues por supuesto los estudios de inglés y eso.
+[SPEAKER_01]  pues me sirvieron ya para el tema de...
+[SPEAKER_01]  de la parte académica escrita.
+[SPEAKER_01]  Pero la enseñanza de la universidad...
+[SPEAKER_01]  yo no me sentía en ninguna desventaja académica.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  O sea, lo que yo había aprendido en la Universidad de los Andes me estaba sirviendo perfectamente y sin mayores, digamos, tropiezos.
+[SPEAKER_01]  en los cursos de la maestría.
+[SPEAKER_01]  Tocó repetir los cursos de análisis de algoritmos, de diseño de infraestructuras de datos.
+[SPEAKER_01]  repetí sistema operacional.
+[SPEAKER_01]  Vi sistema operacional avanzado. O sea, yo seguí mucho en la parte técnica.
+[SPEAKER_01]  Yo en la parte de negocio muy poco, en la parte organizacional muy poco.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Bien, genial, ya eso fue.
+[SPEAKER_01]  Pero en general yo me quedé todavía en la parte de abajo de las máquinas.
+[SPEAKER_01]  Y yo me sentía muy tranquilo con lo que había aprendido en los Andes.
+[SPEAKER_01]  Yo estudié en George Washington University.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  La universidad en esa época estaba ya haciendo sus primeros pinos en ser fuerte en computación gráfica, digamos.
+[SPEAKER_05]  ¿Hm?
+[SPEAKER_01]  Pero yo realmente seguí con sistema operacional y me devolví al banco.
+[SPEAKER_01]  pues con las fortalezas del sistema operacional y más fuerte en las disciplinas.
+[SPEAKER_01]  en que yo seguía trabajando en el banco durante la primera mitad de los 90.
+[SPEAKER_01]  digamos desde el 91 hasta el 94 yo seguía haciendo el system
+[SPEAKER_01]  Pues ya ahora sí.
+[SPEAKER_01]  En este momento ya el despliegue de los altos, que era una herencia de Cénix.
+[SPEAKER_01]  y el nacimiento de UNIX realmente.
+[SPEAKER_01]  Para mí también fue maravilloso porque...
+[SPEAKER_01]  Todo lo que yo dejaba de sistema operacional lo hacía con scripts de Unix para ayuda de los demás.
+[SPEAKER_01]  de los demás, de las demás...
+[SPEAKER_01]  aplicaciones de negocio.
+[SPEAKER_01]  O sea, yo duré un...
+[SPEAKER_01]  una buena parte de los 90, digamos como del 92 al 94.
+[SPEAKER_01]  haciendo scripting en UNIX.
+[SPEAKER_01]  Solamente para toda la administración de las máquinas y para poner, por ejemplo, a disposición de las personas en las sucursales.
+[SPEAKER_01]  que no eran tecnológicamente hábiles, unas menús para que pudieran administrar un computador.
+[SPEAKER_01]  pues saque sus respaldos. Si le toca hacer un reboot, pues por lo menos dejarle unos scripts básicos para que haga un reboot, para que pueda nuevamente subir las aplicaciones.
+[SPEAKER_01]  Ese fue, digamos...
+[SPEAKER_01]  Poder dejarle a la gente que no era tecnológicamente hábil.
+[SPEAKER_01]  dejarle una serie de herramientas de scripting
+[SPEAKER_01]  que le permitían interactuar con la máquina fácilmente.
+[SPEAKER_01]  en lo que era la...
+[SPEAKER_01]  volver a arrancar una máquina.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Ok.
+[SPEAKER_01]  Estamos en los 90's acá.
+[SPEAKER_02]  Bueno, y ahí...
+[SPEAKER_02]  Sí, ahí estamos en los 90s y tenías que administrar entonces las sucursales que seguían teniendo aplicaciones operativas, ¿verdad?
+[SPEAKER_04]  Claro, eso no es operativo.
+[SPEAKER_02]  eso no es operativo
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  porque como el banco después cambió en el 91 con la constitución, hace el Banco Central, ya dejaron de...
+[SPEAKER_02]  desarrollar ciertas funciones.
+[SPEAKER_02]  tesorería en algunos lugares.
+[SPEAKER_02]  Eso es en que cambió el desarrollo allá.
+[SPEAKER_02]  Señor Rocio.
+[SPEAKER_02]  El.
+[SPEAKER_01]  banco deja de ser
+[SPEAKER_01]  El banco por el crédito.
+[SPEAKER_01]  de fomento y agropecuario.
+[SPEAKER_01]  Con la constitución del 91 ya deja de ser un banco que tenga primer piso, llamémoslo así.
+[SPEAKER_01]  un banco que llegue a las personas.
+[SPEAKER_01]  Ahora sí es un banco solo de bancos.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Entonces, con el 91...
+[SPEAKER_01]  Todas estas aplicaciones, digamos, de usuario, de persona natural, desaparecen.
+[SPEAKER_01]  Eso sí.
+[SPEAKER_01]  las tesorerías
+[SPEAKER_01]  y
+[SPEAKER_01]  Se empiezan a reducir, pero más porque los bancos comerciales, el banco privado,
+[SPEAKER_01]  ya pues empieza a llegar a todos los rincones de Colombia.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Entonces, pues claro, nosotros tenemos que preocuparnos de que en Florencia...
+[SPEAKER_01]  de que Leticia
+[SPEAKER_01]  de que en San Andrés hubiera efectivo colombiano.
+[SPEAKER_01]  Pero ya...
+[SPEAKER_01]  con el crecimiento de los demás bancos.
+[SPEAKER_01]  pues ya había sucursales de estos bancos.
+[SPEAKER_01]  tanto los nacionales de Ituva, Colombia, Vivienda, Bogotá.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  o como los internacionales, BBVA.
+[SPEAKER_01]  empiezan a tener presencia a nivel nacional.
+[SPEAKER_01]  Entonces ya...
+[SPEAKER_01]  digamos, nuestra responsabilidad de llevar el efectivo empieza a verse un poco más tranquila.
+[SPEAKER_01]  de los bancos comerciales llevan todavía hoy
+[SPEAKER_01]  Hace poquito, por ejemplo...
+[SPEAKER_01]  Finalmente dejamos de llevar efectivo, y esto no tiene dos años de haber hecho este cambio, a Leticia.
+[SPEAKER_01]  O sea, no...
+[SPEAKER_01]  A Leticia Arribacha, por ejemplo, estábamos llevando efectivo a Leticia Arribacha todavía por el acceso.
+[SPEAKER_01]  Ya, por ejemplo, ahí tenemos solo presencia cultural. La presencia cultural sí es...
+[SPEAKER_01]  Realmente una...
+[SPEAKER_01]  un sentir de la comunidad tremenda.
+[SPEAKER_01]  en esta presencia cultural.
+[SPEAKER_01]  Sigue siendo muy importante en las regiones. Nosotros no nos hemos salido de ningún lado por el tema de la red cultural del mar.
+[SPEAKER_01]  Pero bueno, cerrando paréntesis.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Ese 91 trae ese cambio en el banco.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Y entonces ahora sí nos volvemos más Banco Central y los noventas.
+[SPEAKER_01]  digamos, hablando del banco y no de manera personal, nos pone la responsabilidad de montar el sistema de pagos del país.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Entonces,
+[SPEAKER_01]  Antes teníamos los famosos cheques, la compensación de cheques.
+[SPEAKER_01]  y el cruce de todo eso entre los diferentes bancos en una operación que tomaba dos o tres días.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  En los 90 ya creamos un sistema de pagos.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Con pagos de bajo valor, que lo llamamos el CENIT, digamos los pagos del gobierno se hacen a través del CENIT.
+[SPEAKER_01]  Las nóminas del gobierno se pagan a través de CENIT.
+[SPEAKER_01]  y pues el sistema de cuentas de depósito de los bancos.
+[SPEAKER_01]  que es el sistema de alto valor de un país, donde se cruzan todas las platas entre los grandes bancos.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Eso.
+[SPEAKER_01]  lo montamos en los 90's.
+[SPEAKER_01]  En los 90, digamos, ahí sí ya un poco acercándome más a mi rol.
+[SPEAKER_01]  La red tiene que llegar a todos los empleados.
+[SPEAKER_01]  Y ya se acabó eso de que el computador es solo para ciertos empleados, ¿no?
+[SPEAKER_01]  Ahora sí hay computadores para toda la fuerza administrativa de la organización.
+[SPEAKER_01]  Entonces, los 90 se vuelven el momento de desplegarle PCs a todos los empleados del banco.
+[SPEAKER_01]  Y esos PCs además tienen que estar conectados y tienen que tener correo electrónico.
+[SPEAKER_01]  Y pues cuando yo volví de Estados Unidos.
+[SPEAKER_01]  en el 91.
+[SPEAKER_01]  ya nuestros ingenieros de telecomunicaciones estaban haciendo los primeros TELNETs, o sea, los primeros TCP y IPs, el primer uso de TCP y IP, FTP y TELNET, lo estábamos haciendo en el 92.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  probando ya la conexión del banco con internet.
+[SPEAKER_01]  ¡Gracias!
+[SPEAKER_01]  Entonces realmente esta década de los 90's...
+[SPEAKER_01]  En la institución desplegamos.
+[SPEAKER_01]  desplegamos los computadores para todos y comunicarnos todos con todos a nivel nacional.
+[SPEAKER_01]  Esto fue...
+[SPEAKER_01]  Esto fue movido en los noventas, porque ahora sí yo ya paso.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Yo ya paso a ser, digamos, el jefe del área de infraestructura, llamámoslo así, el área de telecomunicaciones.
+[SPEAKER_01]  Entonces me toca preocuparme.
+[SPEAKER_01]  de que haya comunicación en Leticia y en San Andrés.
+[SPEAKER_01]  Bueno, dicho.
+[SPEAKER_01]  En los 90's...
+[SPEAKER_01]  De hecho, la comunicación terrestre hacia San Andrés se dio hasta hace poco. La fibra de San Andrés se dio hace poco, no hace 10 años. Se dio la fibra con San Andrés.
+[SPEAKER_01]  Y conexión.
+[SPEAKER_01]  Conexión por radio hasta Leticia tampoco tiene menos de 10 años. Entonces a nosotros nos tocó dar esa comunicación inicialmente satelital.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  O sea, a nosotros nos tocó desplegar una red satelital.
+[SPEAKER_01]  para tener la comunicación nacional.
+[SPEAKER_01]  y
+[SPEAKER_01]  centralizar la contabilidad en tiempo real.
+[SPEAKER_01]  No es porque...
+[SPEAKER_01]  Cada sucursal en su sistema medio, los noventas, arrancó teniendo una contabilidad local.
+[SPEAKER_01]  Al final, me echo ya en el 96, nosotros estamos integrando.
+[SPEAKER_01]  a que todas las sucursales se conecten a una contabilidad central en Bogotá en tiempo real.
+[SPEAKER_01]  En una red satelital eso fue bastante doloroso.
+[SPEAKER_01]  Porque ya en esta época, no sé si ustedes recuerdan, en los 90 estamos en el concepto de cliente-servidor.
+[SPEAKER_01]  En donde unos PCs tienen una gran cantidad de información y se comunican con un sistema central, pero la interacción entre los PCs y el sistema central es constante.
+[SPEAKER_01]  Y esto con una red satelital, con una latencia de...
+[SPEAKER_01]  300 milisegundos en cada viaje.
+[SPEAKER_01]  Pues esto era tremendo.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Entonces...
+[SPEAKER_01]  Eso fue una experiencia dura de...
+[SPEAKER_01]  de descentralización.
+[SPEAKER_01]  que nosotros la íbamos a sacar como en dos años y nos gastamos cuatro.
+[SPEAKER_02]  Y a pesar de que tú estabas más en el tema de esas conexiones y todo, también empieza la preocupación por la seguridad informática.
+[SPEAKER_02]  como para relatar un poco
+[SPEAKER_04]  Ok.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  como participamos en esto.
+[SPEAKER_01] 
+[SPEAKER_01]  Con el tema de los 40 años me tocó...
+[SPEAKER_01]  Mire, esto es simpático. Lo que pasa es que, bueno, les voy a adelantar por algo.
+[SPEAKER_01]  A nosotros ahorita en el año, en este siglo.
+[SPEAKER_01]  También la seguridad electrónica, la seguridad física de las instalaciones ya se integró a la tecnología y a nuestra red.
+[SPEAKER_01]  ¿Ok?
+[SPEAKER_01]  las cámaras, la videovigilancia.
+[SPEAKER_01]  El banco.
+[SPEAKER_01]  El banco se tecnificó mucho en eso.
+[SPEAKER_01]  en los 70's
+[SPEAKER_01]  Y más efectivamente porque en el 78 ocurrió un famoso robo que se llamó los topos de paz.
+[SPEAKER_01]  resulta que unos señores por allá en Pasto
+[SPEAKER_01]  Si se metieron a las bojas del banco, hicieron un túnel.
+[SPEAKER_01]  Tenían un negocio al lado de negocios agrícolas.
+[SPEAKER_01]  Y los tipos sacaban la tierra como quien saca...
+[SPEAKER_01]  como quien saca fertilizantes.
+[SPEAKER_01]  Los tipos hicieron un túnel.
+[SPEAKER_01]  Se metieron por debajo a las bóvedas del banco y sacaron plata.
+[SPEAKER_01]  Eso es lo que pasa.
+[SPEAKER_01]  Eso generó la creación.
+[SPEAKER_01]  de tecnología para seguridad física.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Es incluso anterior a la seguridad informática, la seguridad digital.
+[SPEAKER_01]  en el 83-84.
+[SPEAKER_01]  Ocurrió el famoso robo de los 13 millones. 13 millones, sí.
+[SPEAKER_01]  Porque digamos ya por este momento las transacciones internacionales ya empezaban a utilizar.
+[SPEAKER_02]  Por el teléfono.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  No era la llamada telefónica de que por favor pásenle plata a tal país y que paguemos los deudas de la nación de tal manera, sino empieza el famoso, se hace con Télex.
+[SPEAKER_01]  Y con las claves de Telex.
+[SPEAKER_01]  Y
+[SPEAKER_01]  desafortunadamente un incidente con el cual
+[SPEAKER_01]  Un señor
+[SPEAKER_01]  donde se puede googlear fácilmente.
+[SPEAKER_01]  Un señor logró sacar 13.5 millones de dólares.
+[SPEAKER_01]  a una cuenta
+[SPEAKER_01]  a unas cuentas de él.
+[SPEAKER_01]  en otro lado.
+[SPEAKER_02]  Que denominó Banco de la República.
+[SPEAKER_01]  Entonces,
+[SPEAKER_01]  Ese es Raquel
+[SPEAKER_01]  realmente va a desembocar en medidas de seguridad informática posteriormente.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Pues se fortalece la seguridad informática desde ese momento, pero ya en el 91.
+[SPEAKER_01]  El área de seguridad informática del banco es una área independiente.
+[SPEAKER_01]  Incluso.
+[SPEAKER_01]  y
+[SPEAKER_01]  Ingeniero de sistemas.
+[SPEAKER_01]  del banco.
+[SPEAKER_01]  hicieron un antivirus.
+[SPEAKER_01]  Así de sencillo.
+[SPEAKER_01]  Lo he dicho.
+[SPEAKER_01]  antes de McAfee, antes de Norton y todas esas cosas, estos señores dijeron, bueno, yo le pongo un software al computador.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Y se lo pongo en el BIOS. Y si alguien me cambia...
+[SPEAKER_01]  Algo del sistema operacional bloqueó ese computador.
+[SPEAKER_01]  Punto.
+[SPEAKER_01]  Así de sencillo.
+[SPEAKER_01]  ¿Por qué?
+[SPEAKER_01]  Nosotros lo llamábamos el SISEME y fue una medida de seguridad interesantísima.
+[SPEAKER_01]  de las primeras medidas de seguridad.
+[SPEAKER_01]  de seguridad informática, el código de usuario, la carga que...
+[SPEAKER_01]  La famosa carga que tenemos en el banco, que es el primer nombre, la inicial del primer nombre, 5 del apellido y 2 del segundo apellido.
+[SPEAKER_01]  Ese es un estándar que ha sido...
+[SPEAKER_01]  Yo no sé de dónde lo sacamos, pero funciona bastante bien porque cuando uno va a sacar una carga en Gmail o en Hotmail.
+[SPEAKER_01]  Esa no la tiene nadie.
+[SPEAKER_01]  Ese estándar funcionó bastante bien.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  La doble autenticación.
+[SPEAKER_01]  La doble autenticación es desde los 90 que pusimos eso, porque las transacciones que se hacían...
+[SPEAKER_01]  Nosotros al montar el sistema de pagos montamos CEBRA, Sistema Electrónico del Banco de la República.
+[SPEAKER_01]  Tenemos que hacer transacciones con canales dedicados con bancos o con llamada telefónica y modem con bancos.
+[SPEAKER_01]  Eso tenía una seguridad, nosotros trajimos encriptores de hardware.
+[SPEAKER_01]  Inclusive nos tocó pedirle permiso al Departamento de Defensa de los Estados Unidos para que sí nos dejaran tener eso acá.
+[SPEAKER_01]  O sea, la compañía que nos vendió los encriptores le tocó pedirle permiso.
+[SPEAKER_01]  al Departamento de Defensa de los Estados Unidos diciendo esto se le va a vender al Banco Central de Colombia. Nosotros tuvimos inscriptores por hardware para las transacciones de alto valor.
+[SPEAKER_01]  entre las instituciones financieras y nosotros.
+[SPEAKER_01]  Eso fue...
+[SPEAKER_01]  Un tema de los noventas, el sistema de pagos y la seguridad que se hizo.
+[SPEAKER_02]  Y ya para reemplazar ahí, para reemplazar ahí el TELES llegó a subir. Entonces...
+[SPEAKER_01]  Y ya pero...
+[SPEAKER_02]  Y eso también iba en...
+[SPEAKER_02]  colaboración ahí con Zebra, pero bueno, tú cuéntanos.
+[SPEAKER_01]  No, sui... No, yo sui to'a mí, a hoy.
+[SPEAKER_01]  Sigue siendo el estándar internacional para las transacciones de alto valor entre instituciones financieras.
+[SPEAKER_01]  No hay chuparazos, lo claro.
+[SPEAKER_01]  el target que funciona en la Unión Europea.
+[SPEAKER_01]  Funciona con Swift.
+[SPEAKER_01]  y con los sistemas que ellos tienen de File Transfer, Web Transfer y Message.
+[SPEAKER_01]  O sea, mensajes...
+[SPEAKER_01]  Transferencia de archivos.
+[SPEAKER_01]  o transacciones webs, pero con las reglas de SWIFT.
+[SPEAKER_01]  El incidente de Bangladesh fue un incidente grave en los, no recuerdo cuánto, pero como entre 2000 y 2010 ocurre el incidente de Bangladesh.
+[SPEAKER_01]  De pronto más adelante, como 2012 más o menos, tendría que googlearlo.
+[SPEAKER_01]  Pero el incidente a Bangladesh
+[SPEAKER_01]  levantó alarmas sobre el sistema SWIFT y el sistema SWIFT se endureció tremendamente a raíz de ese incidente.
+[SPEAKER_01]  De hecho, hoy en día,
+[SPEAKER_01]  Tu pantalla que entra a hacer transacciones en Swift no puede tener internet.
+[SPEAKER_01]  Es así de sencillo.
+[SPEAKER_01]  Esto es un sistema encapsulado de seguridad.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Y la seguridad sobre esto es tremenda.
+[SPEAKER_01]  y tiene por qué serlo
+[SPEAKER_01]  porque son pocos actores.
+[SPEAKER_01]  Y son transacciones de muy alto valor.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Y eso es lo que pasa.
+[SPEAKER_02]  Y eso ha servido para el desarrollo interno también.
+[SPEAKER_01]  Claro.
+[SPEAKER_02]  modelo de seguridad.
+[SPEAKER_01]  nosotros hacia Cebra
+[SPEAKER_01]  trajimos lecciones de lo que enseñó Swift, digamos.
+[SPEAKER_01]  canales dedicados, inscripción por hardware. Eso se ha fortalecido de otras maneras.
+[SPEAKER_01]  La seguridad de las VPN cada vez está mucho mejor.
+[SPEAKER_01]  A principios de siglo los VPN se aseguraron tremendamente.
+[SPEAKER_01]  Ya hoy en día hasta...
+[SPEAKER_01]  Hasta una de mis tías que tiene 78 años, ella sabe que la transacción tiene que tener HTTPS.
+[SPEAKER_01]  que si eso no tiene ese, mejor dicho, no hay transacción que valga.
+[SPEAKER_01]  Ok.
+[SPEAKER_01]  Entonces cosas tan elementales como esa ya son del dominio público.
+[SPEAKER_02]  cosas
+[SPEAKER_02]  Bueno, entonces, en tu oficio ya como System Programmer.
+[SPEAKER_02]  allá en el banco cambia la constitución, cambian las funciones. ¿Cómo sigue tu carrera ahí en el desarrollo de la tecnología?
+[SPEAKER_01]  Pues Edgar, yo...
+[SPEAKER_01]  Ya viene, digamos...
+[SPEAKER_01]  Ah, bueno, durante todos estos 90, nosotros tenemos un desarrollo de software muy acelerado en todos los departamentos.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  O sea, la sistematización se hace ahora sí global para todos los departamentos de la institución, para el área cultural, incluso en el área cultural desde los 80.
+[SPEAKER_01]  El préstamo de libros, yo no tenía mucho que ver con esa área, yo no era el sistema, pero el préstamo de libros de la Luis Ángel Arango se hace con un IBM.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Ese sí era un nivel.
+[SPEAKER_01]  Ya en los 90's ya todo eso se vuelve en sistemas UNIX, digamos.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  tanto al interior de la operación.
+[SPEAKER_01]  digamos, crítica del banco como la operación del área cultural.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Toda la operación de estudios económicos, digamos, toda la operación estadística de estudios económicos, que es un frente también grandísimo del banco.
+[SPEAKER_01]  Ellos especialmente se apoyaban en el IBM de la biblioteca, con sus fortalezas, precisamente en SAS.
+[SPEAKER_01]  Y hoy en día...
+[SPEAKER_02]  Oye.
+[SPEAKER_01]  40 años después.
+[SPEAKER_01]  SAS sigue siendo la herramienta fundamental de...
+[SPEAKER_01]  de
+[SPEAKER_01]  del tema de...
+[SPEAKER_01]  estadístico en el banco.
+[SPEAKER_01]  Pues hay herramientas de...
+[SPEAKER_01]  de bodega de datos, de la data.
+[SPEAKER_01]  o hay herramientas como de informática para el tema de extracción y carga de información.
+[SPEAKER_01]  Pero en general el SAS ha sido una constante para los economistas del banco en su trabajo diario.
+[SPEAKER_01]  Ok.
+[SPEAKER_01]  Eso ha sido muy fuerte.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Cuando tú me dices...
+[SPEAKER_01]  en los 90's
+[SPEAKER_01]  El que cambia la constitución no tuvo que ver sino con el crédito de fomento, de todas maneras las verticales grandes del banco.
+[SPEAKER_01]  la parte, digamos, transaccional, banco de bancos.
+[SPEAKER_01]  la parte estadística económica.
+[SPEAKER_01]  y la parte cultural.
+[SPEAKER_01]  se desplegó tremendamente.
+[SPEAKER_01]  en software desarrollado mucho a la medida.
+[SPEAKER_01]  El banco eso sí ha tenido esa constante y es que a pesar de las fábricas de software...
+[SPEAKER_01]  a pesar de otros programas como SAP, por decir algo, que SAP lo montamos.
+[SPEAKER_01]  Lo montamos hace como unos 10 años ya.
+[SPEAKER_01]  pues montamos primero en...
+[SPEAKER_01]  En las fábricas de...
+[SPEAKER_01]  De billetes y de monedas montamos app.
+[SPEAKER_01]  Y ya después, ahorita como en el 2016, quedó montado SAP.
+[SPEAKER_01]  ya para toda la parte de Estados financieros del banco.
+[SPEAKER_01]  Pero sacando esa parte, el resto del software ha sido muy desarrollado a la medida.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Pero entre el 95 en adelante, que cuentas que ya se...
+[SPEAKER_01]  pero
+[SPEAKER_02]  Empezaron a contratar proveedores.
+[SPEAKER_02]  cómo se desarrollaba, qué metodologías se usaban, cómo se contrataba.
+[SPEAKER_02]  cómo tú influías o te influían en el desarrollo de aplicativos elaborados por otras.
+[SPEAKER_02]  entidades.
+[SPEAKER_01]  entidades.
+[SPEAKER_01]  Ya empiezan las compañías de software. Y ahí sí.
+[SPEAKER_01]  digamos en su mayoría compañías establecidas en Colombia.
+[SPEAKER_01]  por mano de obra colombiana.
+[SPEAKER_01]  a desarrollar el software en el banco.
+[SPEAKER_01]  En un principio era, digamos, yo contrato una compañía para un sistema específico.
+[SPEAKER_01]  Voy a dar nombres.
+[SPEAKER_01]  No hay problema. Me hubiera dicho, Indra hace software, por ejemplo.
+[SPEAKER_01]  Han sido...
+[SPEAKER_01]  han sido compañías que han desarrollado ITAC.
+[SPEAKER_01]  Este, Marín, ¿qué es eso?
+[SPEAKER_04]  Este marino.
+[SPEAKER_01]  Han sido compañías que le han desarrollado al banco hace unos años, en el no 95, cuando esto arranca es para el sistema tal.
+[SPEAKER_01]  para el sistema de cuentas de depósito, para el sistema de cartera.
+[SPEAKER_01]  para el sistema de nóminas.
+[SPEAKER_01]  una compañía específica, eran especialistas en cierto software para ese nicho.
+[SPEAKER_01]  Con el paso de los años y ahora ya en...
+[SPEAKER_01]  me vengo de una vez al presente o digamos a la última década, digamos antes del 2020, porque eso también es otro tema.
+[SPEAKER_01]  Digamos, 2010, 2020, ya eran compañías que se contrataban por cantidad de horas.
+[SPEAKER_01]  estimadas para una temporada para mejoramiento de los diferentes sistemas.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  O sea, ahí cambia un poquito el modelo. No es que yo lo contraté a usted para que me desarrolle este sistema.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  sino yo lo contraté a usted para que con una cantidad de horas medidas por puntos funcionales.
+[SPEAKER_01]  me mejore el sistema.
+[SPEAKER_01]  de tal manera en estos aspectos y me lo mantenga mejorando, me mantenga el mejoramiento de ese sistema.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  y los ingenieros de sistemas dentro del banco.
+[SPEAKER_01]  son realmente
+[SPEAKER_01]  llamemos la sigla, como los interventores o los auditores o los que dicen, mire.
+[SPEAKER_01]  El señor dice que se va a gastar tantas horas con tantos puntos funcionales en hacer estos requerimientos que levantamos con el cliente.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Entonces él participa en toda la cadena desde que el cliente hace su requerimiento.
+[SPEAKER_01]  que toca también, ese es un tema que...
+[SPEAKER_01]  que digamos entre 95 y 2000.
+[SPEAKER_01]  13 de 2014.
+[SPEAKER_01]  Es muy así en el banco, digamos, hacemos requerimientos para un sistema nuevo o hacemos requerimientos para mejorar un sistema existente.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Esos requerimientos pasan por toda la cadena hasta que van allá a que lo desarrollen y vuelva.
+[SPEAKER_01]  Otra vez la etapa de pruebas.
+[SPEAKER_01]  pruebas de unidad, pruebas integrales, y llegue otra vez al cliente final y diga sí.
+[SPEAKER_01]  Eso es lo que yo quiero.
+[SPEAKER_01]  Ese proceso
+[SPEAKER_01]  digamos, ha funcionado bastante bien en el sentido de la calidad del software. Funcionó bastante bien en el sentido de la calidad del software.
+[SPEAKER_01]  pero no muy bien en los tiempos y la oportunidad para los clientes.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  O sea, de todas maneras, estamos hablando de cosas que le podían tomar a un cliente desde tres meses hasta seis meses por requerimientos simples.
+[SPEAKER_01]  O sea, yo quiero este cambio.
+[SPEAKER_01]  Sí, lo va a haber dentro de seis meses.
+[SPEAKER_01]  Caramba.
+[SPEAKER_01]  ¿En serio?
+[SPEAKER_01]  mucho es mucho tiempo
+[SPEAKER_01]  Entonces, digamos...
+[SPEAKER_01]  Viene primero una modernización, digamos, entre el 95 y el 2000.
+[SPEAKER_01]  porque realmente tocó desplegar aplicaciones.
+[SPEAKER_01]  a nivel de toda la organización.
+[SPEAKER_01]  El que no tenía un sistema tenía que tenerlo.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Y el banco tiene fácilmente unos 50 departamentos.
+[SPEAKER_01]  y sus sucursales.
+[SPEAKER_01]  Tenemos, mejor dicho,
+[SPEAKER_01]  A 2020, 2021, nosotros teníamos 100 sistemas fácilmente todavía.
+[SPEAKER_01]  a pesar del montaje de SAP y a pesar de la integración que se ha hecho de procesos y todo. Son demasiados sistemas departamentales.
+[SPEAKER_01]  Entonces, digamos, la forma de desarrollo, para terminar la pregunta, era tradicional cascada, requerimientos.
+[SPEAKER_01]  Vaya hasta la fábrica y devuélvase hasta que tengo un sistema entregado.
+[SPEAKER_02]  Pero entonces...
+[SPEAKER_02]  se redujo en...
+[SPEAKER_02]  las áreas de programación o se incrementó más personal, hubo más...
+[SPEAKER_02]  Se congeló, digamos.
+[SPEAKER_01]  Se congeló, digámoslo así. Yo diría que se congeló, porque se trata de... también hay una directriz muy grande.
+[SPEAKER_01]  institucional y relacionada precisamente con
+[SPEAKER_01]  con el tema de outsourcing y de gasto público principalmente.
+[SPEAKER_01]  de mantener la nómina.
+[SPEAKER_01]  al menos la de tecnología, muy estable.
+[SPEAKER_01]  Ya viene una temporada.
+[SPEAKER_01]  en que después de la constitución
+[SPEAKER_00]  de la...
+[SPEAKER_04]  Gracias.
+[SPEAKER_00] 
+[SPEAKER_01]  Pues primero con el banco, con esa reducción de dejar de ser banco para personas.
+[SPEAKER_01]  El banco tiene unas infraestructuras muy grandes y viene un downsizing.
+[SPEAKER_01]  no solo en el tema físico, principalmente edificios y cantidad de empleados.
+[SPEAKER_01]  No en el área de tecnología, pero en el área de tecnología no podíamos crecer la planta.
+[SPEAKER_01]  en una forma significativa.
+[SPEAKER_01]  O sea, a la...
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Como ustedes saben, yo me retiré del banco hace dos meses.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Entonces, pero hace dos meses teníamos un área de tecnología con 200 personas.
+[SPEAKER_01]  Y eso...
+[SPEAKER_01]  más o menos corresponde a la planta de personal de tecnología que podíamos tener a principios de siglo.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  160, digamos que de 2000 a 2020.
+[SPEAKER_01]  La planta no cambió mucho de 160 a 200 personas, más o menos.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Y cambios tecnológicos de fondo.
+[SPEAKER_02]  Porque estás hablando de la...
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  de la organización, de la automatización, llamémoslo sistematizaciones.
+[SPEAKER_02]  De la Saria.
+[SPEAKER_02]  pero hubo cambios en infraestructura, qué cosas tuviste tú que...
+[SPEAKER_02]  administrar con esos cambios.
+[SPEAKER_01]  No, pues mira, ya ahora sí, el periodo 95-2010, digamos. Bueno, en ese periodo viene todo el tema también.
+[SPEAKER_01]  Es que uno se le olvida todo el bailecito ese del año 2000.
+[SPEAKER_04]  Vamos a ver.
+[SPEAKER_04]  Sí.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Eso, mejor dicho, yo no sé cómo logramos crear semejante paranoia, pero pues...
+[SPEAKER_01]  Tocó meterle la mano a todos los programas a ver qué era lo que estaba pasando con el año 2000.
+[SPEAKER_01]  Eso fue un desgaste tremendo.
+[SPEAKER_01]  Pero bueno, cerrando ese tema del año 2000.
+[SPEAKER_01]  Mucho la...
+[SPEAKER_01]  Todo durante ese periodo.
+[SPEAKER_01]  El crecimiento de potencia tecnológica es...
+[SPEAKER_01]  Es tremendo y la interacción con Internet.
+[SPEAKER_01]  Ya se vuelve realmente, me han dicho, ya para el 2010 quedarse sin internet era no poder operar.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Richard.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  porque ya empieza, digamos, todo el área cultural.
+[SPEAKER_01]  Por ejemplo, ya en el 2010 nuestra área cultural ya se había ido para la nube.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  para nosotros en
+[SPEAKER_01]  En nuestras instalaciones, digamos.
+[SPEAKER_01]  si tenemos todavía el sistema de pagos de Colombia.
+[SPEAKER_01]  todo el tema de fabricación y emisión de efectivo, que eso está supremamente tecnificado.
+[SPEAKER_01]  de hecho nuestra fabricación de efectivo.
+[SPEAKER_01]  se tecnifica tremendamente en el 2006 y todas las aplicaciones asociadas a esa fabricación y emisión de efectivos se tecnifican tremendamente en ese periodo.
+[SPEAKER_01]  ¡Gracias!
+[SPEAKER_01]  el crecimiento del poder de cómputo.
+[SPEAKER_01]  y la aceleración de telecomunicaciones y velocidades de telecomunicación durante todo ese periodo se crece mucho.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Porque pasa que ya...
+[SPEAKER_01]  digamos, yo me quedaría en todo ese crecimiento.
+[SPEAKER_01]  porque ya el correo electrónico y la agenda
+[SPEAKER_01]  Yo me acuerdo de la última caída grave que tuvimos.
+[SPEAKER_01]  Alguna vez fue como en el 2012, tal vez, ¿no?
+[SPEAKER_01]  Tuvimos un incidente en uno de nuestros dos centros de cómputo.
+[SPEAKER_01]  Y como durante dos horas.
+[SPEAKER_01]  Nuestros jefes nos dijeron no pudimos trabajar porque usted me dejó sin agenda.
+[SPEAKER_01]  Yo no sabía qué era lo que tenía que hacer.
+[SPEAKER_01]  El despliegue de correo y de agenda se volvió el día a día de las personas.
+[SPEAKER_01]  O sea, tú abrías la agenda para saber qué era lo que tenías que hacer. Y si no podías abrir la agenda, no sabías qué tenías que hacer.
+[SPEAKER_01]  No sabías con quién tenías que reunirte, a quién tenías que llamar, cuáles eran los trabajos del día.
+[SPEAKER_01]  Entonces ya ese despliegue y esa interconexión y ese depender de la tecnología.
+[SPEAKER_01]  Ya para el 2012 era una realidad tremenda en el banco.
+[SPEAKER_01]  No, Richard. Escasamente los empleados que fabricaban el efectivo eran los únicos que no necesitaban...
+[SPEAKER_01]  la tecnología tradicional, que ellos también tienen su tecnología para eso.
+[SPEAKER_01]  Pero el resto de los empleados, es que hasta los señores que prestan un libro en la biblioteca, o los señores que hacen tours en los museos.
+[SPEAKER_01]  sin la comunicación de correo electrónico y sin sus agendas.
+[SPEAKER_01]  quedaban locos.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  La dependencia es por una tremenda tecnología.
+[SPEAKER_01]  Tremenda dependencia.
+[SPEAKER_00]  Mauricio, mirando un panorama interesante.
+[SPEAKER_00]  Obviamente va a ser el recorrido y vamos bien.
+[SPEAKER_00]  No.
+[SPEAKER_00]  Pero el banco en nuestro medio de sistemas
+[SPEAKER_00]  Yo también fui sistema programmer y todas esas cosas que tú dices que era como estar en el cielo, ¿no? Es trabajar con la máquina y todo, maravilloso.
+[SPEAKER_05]  ¡Gracias!
+[SPEAKER_00]  El vacuo era generador de tecnología.
+[SPEAKER_00]  Eso que dijiste que desarrollaron software para telecomunicaciones, me imagino.
+[SPEAKER_00]  o utilities dentro del sistema operacional UNIX.
+[SPEAKER_00]  Hubo una época en que fueron muy generadores de esas tecnologías. Ya después obviamente las multinacionales nos llenan de tecnología.
+[SPEAKER_00]  Y bueno, se compra.
+[SPEAKER_00]  Pero hubo una época muy fuerte en eso, ¿no, Mauricio?
+[SPEAKER_01]  Pues mira, yo creo que el sistema de pago sí generamos la tecnología.
+[SPEAKER_01]  porque
+[SPEAKER_01]  Me han dicho.
+[SPEAKER_01]  que la tesorería
+[SPEAKER_01]  de un banco.
+[SPEAKER_01]  como hubiera su plata en el Banco de la República, se hizo totalmente con ingeniería hecha por nosotros. Sabemoslo así.
+[SPEAKER_01]  O sea...
+[SPEAKER_01]  Me han dicho, sí, pues está Swift y es que Swift vale.
+[SPEAKER_01]  Es que hacer una transacción, un mensaje suite vale 20 dólares.
+[SPEAKER_01]  ¿Qué tal, Mecho? Yo no le puedo trasladar esos costos a todo el sistema financiero colombiano, es costoso.
+[SPEAKER_01]  Nosotros hicimos en la arrancada comunicación con líneas análogas, con módem.
+[SPEAKER_01]  comunicación segura punto a punto entre una tesorería de un banco comercial y nuestro sistema central de...
+[SPEAKER_01]  de cuentas de depósito de los bancos.
+[SPEAKER_01]  Eso se hizo con ingeniería nuestra.
+[SPEAKER_01]  Un ejemplo, porque los ejemplos de estos, además del antivirus, hay muchísimos.
+[SPEAKER_01]  El emulador de pantalla, por ejemplo.
+[SPEAKER_01]  porque esto finalmente había un mainframe.
+[SPEAKER_01]  en la parte central.
+[SPEAKER_01]  y la tesorería del banco comercial.
+[SPEAKER_01]  Pues tenía un desktop.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  El emulador de pantalla.
+[SPEAKER_01]  fue hecho por nosotros, por un ingeniero de...
+[SPEAKER_01]  del banco.
+[SPEAKER_01]  fue el que hizo el emulador de pantalla. Ese ingeniero, por ejemplo, hoy en día, ingeniero de sistemas de la Universidad de los Andes, José Germán Acevedo.
+[SPEAKER_01]  está haciendo código en Motorola.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  está haciendo código para celulares Motorola, hablando de gente como yo que le gustaba.
+[SPEAKER_01]  la parte de abajo.
+[SPEAKER_01]  El Assembler.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Entonces, eso lo hicimos nosotros. Sí fuimos generadores de tecnología para que el sistema de pagos funcionara.
+[SPEAKER_01]  Así de sencillo, Marjorie. Nosotros no podíamos obligar a todo el sistema financiero. En algún momento lo pensamos ya después de llevar con CEDRA varios años.
+[SPEAKER_01]  Dijimos, no, pero ¿qué le vamos a decir ahora al sistema financiero?
+[SPEAKER_01]  que las transacciones que no le cuestan tanto con Banco de la República, ahora todo va a ser con mensajería SWIFT.
+[SPEAKER_01]  Y que cualquier transacción que haga le va a tocar pagarle a SWIFT una plata y le va a tocar asociarse a SWIFT.
+[SPEAKER_01]  Aunque ya todos son socios de SWIFT, pero las transacciones nacionales las hacemos vía Zebra.
+[SPEAKER_01]  Entonces sí fuimos generadores de tecnología en esa parte.
+[SPEAKER_01]  El web de la biblioteca Luis Ángel Arango en los 90s.
+[SPEAKER_01]  realmente fue una de las primeras...
+[SPEAKER_01]  instalaciones que le permitía a los colombianos tener un
+[SPEAKER_01]  Pues salir a internet.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Es que uno no se acuerda, pero es que uno no cualquiera salía a internet.
+[SPEAKER_01]  No cualquiera podía ir a un browser y consultar algo.
+[SPEAKER_01]  En los 90 la gente podía hacer eso en la biblioteca Luis Ángel Arán.
+[SPEAKER_01]  Entonces hay dos frentes muy interesantes de tecnología que desarrollamos.
+[SPEAKER_01]  a finales del siglo pasado.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Y ahí cambias de estatus o continúas como si...
+[SPEAKER_01]  Yo sigo técnico.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Pues lo que pasa es que me vuelvo jefe.
+[SPEAKER_01]  Me vuelvo jefe de la parte técnica, no tanto del área de negocio donde...
+[SPEAKER_01]  Digamos, tecnología tiene entonces una parte fuerte.
+[SPEAKER_01]  La de siempre, el departamento de sistemas, donde da las soluciones al usuario final.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Pero la parte de infraestructura
+[SPEAKER_01]  Digamos, yo sigo como, yo me vuelvo el jefe de la parte de infraestructura. Y la infraestructura es todo el tema de la red.
+[SPEAKER_01]  Todo el tema de los sistemas operacionales, las máquinas que se compran, los centros de cómputo.
+[SPEAKER_01]  A finales de los 90's,
+[SPEAKER_01]  digamos nosotros
+[SPEAKER_01]  como en el 98 finalmente.
+[SPEAKER_01]  pusimos a funcionar los dos centros de cómputo por el tema de alta disponibilidad, porque para el sistema de pagos del país eso era crítico.
+[SPEAKER_01]  Yo no podía parar el sistema de pagos del país por un centro de cómputo. Yo tenía que tener dos centros de cómputo por lo menos.
+[SPEAKER_01]  y uno totalmente que sostuviera al otro en caso de una tragedia.
+[SPEAKER_01]  Aprovechamos una instalación de la Biblioteca Luis Ángel Arango en los 90's.
+[SPEAKER_01]  y montamos un segundo centro de cómputo en la Luis Ángel Arango, lo que pasa es que eso era muy cerquita.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  El centro del Terno.
+[SPEAKER_01]  El Banco en la Jiménez con séptima y la Luis Ángel Arango en la once con...
+[SPEAKER_01]  en la once con cuarta.
+[SPEAKER_01]  Pues eso era una resiliencia.
+[SPEAKER_01]  Además en el centro de Bogotá que hoy en día pues todo el mundo...
+[SPEAKER_01]  31 de agosto todo el mundo dice que va a haber terremoto en Bogotá otra vez.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Entonces, esa resiliencia siempre la teníamos como una espada de Damocles diciendo, ustedes tienen que tener algo más sólido.
+[SPEAKER_01]  ya con la fábrica de billetes.
+[SPEAKER_01]  allá en las instalaciones de la calle 26.
+[SPEAKER_01]  movimos un centro de cómputo allá.
+[SPEAKER_01]  Pero digamos, en ese momento...
+[SPEAKER_01]  Nosotros somos referente nacional de cómo se hace una alta disponibilidad entre dos centros de compra.
+[SPEAKER_01]  En principio estaba pensada en Cali, ¿no?
+[SPEAKER_02]  organización.
+[SPEAKER_01]  Sí, Edgar, pero necesitábamos, lo que empezamos a ver es que
+[SPEAKER_01]  Nosotros teníamos que tener lo que se llamaba en ese momento el RPO de...
+[SPEAKER_01]  El RPO cero.
+[SPEAKER_01]  O sea, que no se pierda ni un bit.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  O sea que si llega a haber una desgracia en un centro de cómputo...
+[SPEAKER_01]  Yo no podía perder un solo bit.
+[SPEAKER_01]  Entonces nosotros conectamos los dos centros de cómputo con fibra O.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  O sea, BIT que se escribía en un centro de cómputo quedaba automáticamente escrito en el otro antes de decirle al cliente la transacción es correcta.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Entonces teníamos una resiliencia, todavía se tiene hoy en día.
+[SPEAKER_01]  Eso es firme. Lo que pasa es que ahora ya tenemos la nube. Entonces ya aparece otra historia.
+[SPEAKER_01]  Pero la resiliencia en ese momento se logró con fibra.
+[SPEAKER_01]  En el centro de Bogotá en esa época tocó con un rayo láser.
+[SPEAKER_01]  Tengo que conectar los datos con rayo láser entre un edificio y el otro con línea vista.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  y que nadie cierre la ventana o cierre la cortina porque se nos corta la comunicación.
+[SPEAKER_01]  Pero ya una vez...
+[SPEAKER_01]  A finales de los 90 ya logramos conectar eso con fibra óptica.
+[SPEAKER_01]  Nosotros arrancamos con rayos de la acertoría, después con fibra óptica teníamos eso.
+[SPEAKER_01]  y a nuestra central de efectivo ya estábamos a 10 kilómetros con fibra óptica.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Vi David. Es que le me chasé.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  Hago una claridad sobre tu consulta de Cali.
+[SPEAKER_01]  Eso tiene que ver con nuestra vigilancia física.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  O sea...
+[SPEAKER_01]  Una sucursal puede vigilar a Bogotá.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Porque pues en Bogotá también.
+[SPEAKER_01]  Es bueno que esté vigilada.
+[SPEAKER_01]  Pues que la seguridad física de los que controlan seguridad física esté vigilada desde alguna sucursal.
+[SPEAKER_01]  Entonces tenemos esa reciprocidad en la vigilancia física.
+[SPEAKER_01]  La videograbación, los circuitos de radio y televisión tienen ese tipo de reciprocidad.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Es que siempre alguien lo está vigilando a uno desde el otro lado.
+[SPEAKER_02]  Eso no existía para el robo del banco en Valle de Upar.
+[SPEAKER_01]  Esa es la...
+[SPEAKER_02]  La razón.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  La razón de cómo se fortaleció la vigilancia física.
+[SPEAKER_01]  Tuvo que ver efectivamente porque en Valledupar en el 94
+[SPEAKER_01]  pues Vallejo Parra estaba solo.
+[SPEAKER_01]  Estaba solo en Valledupar, nadie de Bogotá ni de Barranquilla estaba vigilando a alguien.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Entonces...
+[SPEAKER_01]  Pues localmente se dio todo, pues la alarma a la policía, pero la policía también.
+[SPEAKER_01]  Es parte...
+[SPEAKER_02]  parte del juego
+[SPEAKER_01]  Estamos en la historia.
+[SPEAKER_01]  Entonces, eso de alarmas a la policía...
+[SPEAKER_01]  Eso venía de lo que te contaba yo de Pasto.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  El tema de que no me hagan un túnel, cosas de ese estilo.
+[SPEAKER_01]  Pero lo que no se previó era que...
+[SPEAKER_01]  toda una sucursal.
+[SPEAKER_01]  pues digamos, unos señores de vigilancia entre las sucursales, un señor además, uno solo.
+[SPEAKER_01]  más una complicidad de las autoridades.
+[SPEAKER_01]  y unos ladrones lograban hacer lo que se hizo en Valle del Parque.
+[SPEAKER_01]  Pues finalmente la plata por X o Y razones de ser...
+[SPEAKER_01]  de nuevas emisiones y todo eso, pues no se perdió.
+[SPEAKER_01]  Pero sí fue una lección de seguridad física para el banco. La vigilancia remota, incluso.
+[SPEAKER_01]  Nuestra primera red nacional.
+[SPEAKER_01]  tenía más, en el 95 que la montamos, tenía más razones de seguridad.
+[SPEAKER_01]  electrónica que de intercomunicación de transacciones.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Era más por la vigilancia inmediata de las diferentes bóvedas del banco a nivel nacional.
+[SPEAKER_01]  La que montamos en el 95 tenía esa razón.
+[SPEAKER_02]  Bueno, ¿y qué cambia así radicalmente antes del 2010 para pasar del 2010 al 2020?
+[SPEAKER_01]  No, Edgar, yo creo que ahí sí yo me quedaría solamente en una etapa de mejoramiento continuo de las aplicaciones. Obviamente ya empieza a aparecer el concepto de la aplicación web, ¿no?
+[SPEAKER_01]  Porque es que ese tema del cliente servidor, eso era una tragedia.
+[SPEAKER_01]  Entonces ya tener un sistema central, obviamente una dependencia total de la telecomunicación entre...
+[SPEAKER_01]  entre ese web
+[SPEAKER_01]  y el sistema central, el servidor web.
+[SPEAKER_01]  Ahí sí, por eso te digo, el internet se vuelve ya mucho. Si yo no tengo internet, yo no opero.
+[SPEAKER_01]  porque mi browser per se no va a poder operar.
+[SPEAKER_01]  Entonces tenemos que tener buena comunicación con el sistema central, pero ya tenemos, viene todo el concepto de las aplicaciones livianas.
+[SPEAKER_00]  Tenemos que...
+[SPEAKER_01]  precisamente porque
+[SPEAKER_01]  Cuesta el ancho de banda.
+[SPEAKER_01]  y nos toca tener una comunicación liviana desde los browsers hacia el sistema central.
+[SPEAKER_01]  Esto no pueden ser paquetes de...
+[SPEAKER_01]  de un mega.
+[SPEAKER_01]  porque con las comunicaciones que tenemos no se puede.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Entonces esto tiene que ser paquetes muy livianos y la comunicación web muy ágil.
+[SPEAKER_02]  Y ahí se forza también a los bancos en las conexiones a desarrollar aplicaciones. Yo recuerdo que una de las que hice era para el registro.
+[SPEAKER_02]  de la inversión extranjera, de la deuda externa, cuentas de compensación, y lo que hacían era transferirnos archivos, pero...
+[SPEAKER_02]  posteriormente veo que hay conexiones en línea.
+[SPEAKER_01]  Sí, esa estadística del sistema...
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Adiós.
+[SPEAKER_01]  Lo que tú trabajas, lo que trabajamos es la parte cambiaria.
+[SPEAKER_01]  que es las estadísticas nacionales.
+[SPEAKER_01]  sistema estadístico cambiario.
+[SPEAKER_01]  Eso obliga a que todo intermediario del mercado cambiario que hace una operación internacional tenga que reportarnos operaciones de cierto monto hacia arriba.
+[SPEAKER_01]  en tiempo real.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Digamos, no esa operación en ese momento.
+[SPEAKER_01]  Pero...
+[SPEAKER_01]  por tarde.
+[SPEAKER_01]  Todas sus operaciones tienen que llegar al banco.
+[SPEAKER_01]  esa semana o ese mes dependiendo del tipo de operación.
+[SPEAKER_01]  Y efectivamente...
+[SPEAKER_01]  Las diferentes entidades tienen que también desarrollar cosas para mandarle al Banco de la República eso.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Si hay una jalada, si jalamos al sistema financiero, por un lado.
+[SPEAKER_01]  el depósito central de, digamos, los...
+[SPEAKER_01]  Los títulos de deuda pública los guardamos nosotros.
+[SPEAKER_01]  Los títulos de deuda privada se guardan en el deseo alto.
+[SPEAKER_01]  Pero...
+[SPEAKER_01]  El cumplimiento de operaciones, el front office de yo realizar una operación y comprometerme.
+[SPEAKER_01]  a comprar un título, por ejemplo.
+[SPEAKER_01]  Y tener ese título esa noche, porque esa operación se tiene que cerrar ese día.
+[SPEAKER_01]  Mucho.
+[SPEAKER_01]  puede que toque extender el horario si una operación se cierra.
+[SPEAKER_01]  Eso se tiene que realizar ese día.
+[SPEAKER_01]  Y entonces...
+[SPEAKER_01]  a nuestro sistema de cuentas de depósito se integra de ese valor.
+[SPEAKER_01]  O sea, la bolsa de valores con el PRONEN y de CEBAL, con el manejo en el backend de los títulos de deuda privada.
+[SPEAKER_01]  Actúa contra Banco República ese mismo día.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Entonces eso jaló un poco también el sistema financiero.
+[SPEAKER_01]  la resiliencia del famoso terremoto de Bogotá.
+[SPEAKER_01]  Muy chulo.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Ellos muchas veces decían, pero si Banco República no tiene resiliencia, ¿para qué la ponemos? Banco República sí tiene resiliencia.
+[SPEAKER_01]  Hoy en día...
+[SPEAKER_01]  Ya tenemos centro de cómputo, desde el 2007 tenemos un centro de cómputo en Barranquilla también.
+[SPEAKER_01]  Lo que pasa es que ya...
+[SPEAKER_01]  La nube.
+[SPEAKER_01]  nos hace pensar un poco más en otro tipo de resiliencias.
+[SPEAKER_01]  que seguir desplegando centros de cómputo.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  De hecho ya hoy en día uno dice...
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Con la nube, ¿cómo es mi resiliencia? ¿Y con qué nube la hago?
+[SPEAKER_00]  ¿Por qué hablaste del terremoto dos veces?
+[SPEAKER_00]  el famoso poema de Clópez Moury.
+[SPEAKER_00]  Un día de agosto de un año que no diré.
+[SPEAKER_00]  Un terremoto destruirá Santa Fe.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  31 de agosto.
+[SPEAKER_00]  El 31 de agosto.
+[SPEAKER_00]  31 de agosto era, yo no me acuerdo si le ponía fecha precisa. 31 de agosto.
+[SPEAKER_01]  Por eso le pongo...
+[SPEAKER_01]  No, el 31 de agosto y fue así.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Un día de agosto, bueno, sí, había mucho ese temor.
+[SPEAKER_00]  Quiero volver un poquito a lo personal.
+[SPEAKER_00]  Si usted me permite, porque ya vamos como en el 2011, 12, 10, ya hemos avanzado.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  y de pronto en tu proceso de vida
+[SPEAKER_00]  Está la economía y la geografía.
+[SPEAKER_00]  ¿Estoy equivocado?
+[SPEAKER_00]  Mira, ya se quedan...
+[SPEAKER_01]  Mira.
+[SPEAKER_04]  ¡Gracias!
+[SPEAKER_01]  Ya llegó un momento.
+[SPEAKER_01]  Digamos, la economía sí es un tema muy relacionado con el banco.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  porque realmente ya llega un momento de mi vida en que yo tengo que entender dónde estoy trabajando.
+[SPEAKER_01]  Y yo estudié economía un poco también para entender el dolor del negocio.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  De todas maneras, el principal proceso del banco es macroeconómico.
+[SPEAKER_01]  Es política, maestro Económico.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Ese proceso pues también se puede, tiene una...
+[SPEAKER_01]  llamémoslo así, tiene un ciclo.
+[SPEAKER_01]  que se cierra todos los meses con la junta directiva.
+[SPEAKER_01]  diciendo si se incrementan o las tasas de interés.
+[SPEAKER_01]  Yo me vi en la necesidad, yo dije yo tengo que entender economía un poco más porque yo sí tengo que entender un poco el negocio en que estoy trabajando y para quién estoy trabajando.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Porque ya...
+[SPEAKER_01]  Ya yo me vuelvo director general de tecnología. O sea, ya soy entonces el...
+[SPEAKER_01]  Ya me vuelvo el, ¿cómo se llama? En ese momento se llama el CIO.
+[SPEAKER_01]  Ya después aparecen otros términos como CTO o CFO.
+[SPEAKER_01]  O si eso, bueno, pero en ese momento realmente...
+[SPEAKER_01]  Tecnología.
+[SPEAKER_01]  digamos ahorita por ejemplo en el banco ya se distingue el sitio del cd del chip data officer
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Uno es el chief technical y otro es el chief data.
+[SPEAKER_01]  Esos cargos están en el banco, se llama director general de tecnología y hay otro que se llama director general de información.
+[SPEAKER_01]  Eso en el banco ya se distingue desde hace unos años.
+[SPEAKER_01]  Pero en ese momento yo era ya el Chief Information Officer.
+[SPEAKER_01]  Y entonces a mí sí ya me toca entender las aplicaciones de negocio y yo veo una debilidad muy grande en la parte económica.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  en cómo funciona el proceso de los economistas.
+[SPEAKER_01]  completo.
+[SPEAKER_01]  No.
+[SPEAKER_01]  con todas sus estadísticas, sus...
+[SPEAKER_01]  pues para ponerlo...
+[SPEAKER_01]  Con sus análisis.
+[SPEAKER_01]  econométricos
+[SPEAKER_01]  sus simulaciones
+[SPEAKER_01]  Y ya las decisiones...
+[SPEAKER_01]  de inflación o de programación de inflación.
+[SPEAKER_01]  que es cuando el equipo técnico le recomienda a la Junta.
+[SPEAKER_01]  o no subir las tasas de interés.
+[SPEAKER_01]  Uno de los tres mecanismos económicos con que más o menos se maneja.
+[SPEAKER_01]  la política macroeconómica.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  que los otros dos, pues la tasa de cambio...
+[SPEAKER_01]  y emitir moneda no
+[SPEAKER_01]  No son los que se usan hoy en día.
+[SPEAKER_01]  Entonces hoy en día se trabaja con las tasas de interés.
+[SPEAKER_01]  Eso fue la economía.
+[SPEAKER_01]  La geografía sí era una...
+[SPEAKER_01]  Una curiosidad totalmente personal.
+[SPEAKER_01]  eso sí es porque yo desde
+[SPEAKER_01]  Desde muy pequeño me metí en tema de caminar montañas. En el banco me fortalecí como montañista.
+[SPEAKER_01]  Y el tema de geografía me apasionó, pero pues ahí aprendí que geografía e historia van pegados.
+[SPEAKER_01]  Entonces también me tocó estudiar algo de historia.
+[SPEAKER_01]  Y pues finalmente no terminé esa maestría porque...
+[SPEAKER_01]  Mi trabajo en el banco junto con esas horas de las clases eran incompatibles.
+[SPEAKER_01]  Pero sí era una cosa totalmente personal, lo de geografía e historia sí era totalmente personal.
+[SPEAKER_01]  Bueno, yo ahí me acuerdo que...
+[SPEAKER_02]  Bueno, yo ahí me acuerdo que...
+[SPEAKER_02]  Me acuerdo que Mauricio hicimos un álbum de...
+[SPEAKER_02]  de Colombia y Mauricio mismo.
+[SPEAKER_02]  Ah, pero es que yo esas fotos que tenemos en el álbum, yo las quiero tomar personalmente.
+[SPEAKER_02]  ¿Cómo te fue en eso?
+[SPEAKER_01]  Pues sí, Edgar, me he movido por Colombia, pero principalmente por la región andina, yo diría. Por las cordilleras y por las montañas, que me apasiona.
+[SPEAKER_01]  pero y pues tuve una oportunidad impresionante, una oportunidad increíble fue que el banco me...
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Me dejó la gerencia de Leticia durante casi tres años.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Hola, Javi.
+[SPEAKER_01]  Durante casi tres años yo viví en Leticia.
+[SPEAKER_01]  Ahí me familiaricé un poquito más con la Amazonía.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Pero mira, en este momento la brinoquía y la región pacífica...
+[SPEAKER_01]  Yo la desconozco mucho. Todavía cualquiera.
+[SPEAKER_01]  en esas colecciones de los 100 lugares de Colombia que toca visitar y que tienes que ver y no sé qué.
+[SPEAKER_01]  Yo creo que cualquiera que quede por la costa pacífica.
+[SPEAKER_01]  y por la orinoquía no lo tengo.
+[SPEAKER_01]  Yo desconozco todavía esa Colombia.
+[SPEAKER_01]  Pero la Amazonía, la región Caribe y la región Andina sí me defiendo bastante bien.
+[SPEAKER_00]  Pero la Amazonía...
+[SPEAKER_00]  Ese tema personal es parte del factor humano, ¿no, Edgar?
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  el ingeniero
+[SPEAKER_00]  Me acuerdo de Alberto Pradilla de Texins de Colombia.
+[SPEAKER_00]  que ha hecho 22 veces el cruce de todo el Magdalena en Lancha.
+[SPEAKER_00]  ¿Ustedes se acuerdan de esa historia?
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  de Alberto Pradilla, ¿no?
+[SPEAKER_00]  Sí, es decir...
+[SPEAKER_00]  Me acuerdo también cuando usted es de economía.
+[SPEAKER_00]  Y aquí tengo el pecado que no me acuerdo de ver.
+[SPEAKER_00]  pero era compañero mío de estudios en los Andes.
+[SPEAKER_00]  de las Bancos de la República que estudió Derecho.
+[SPEAKER_00]  Uno de los colegas...
+[SPEAKER_00]  de ustedes de esa época.
+[SPEAKER_00]  pero el nombre debía tenerlo en la mente.
+[SPEAKER_00]  Jorge Sánchez, ¿no?
+[SPEAKER_05]  Jorge Sánchez, ¿no?
+[SPEAKER_00]  No me acuerdo si era Boris, pero...
+[SPEAKER_00]  Es un pecado realmente, pero es muy interesante eso que decía Mauricio.
+[SPEAKER_00]  de pasar de la ingeniería pura de sistemas
+[SPEAKER_00]  a la labor del usuario, a la labor de...
+[SPEAKER_00]  la dirección de los procesos mismos de la empresa.
+[SPEAKER_00]  Eso no se ve tanto ahora, pero en el Banco de la República se dio mucho, parece.
+[SPEAKER_00]  Eso es muy interesante.
+[SPEAKER_01]  Me habría dicho el...
+[SPEAKER_01]  El actual...
+[SPEAKER_01]  Operación Oficial del Banco.
+[SPEAKER_01]  Es Francisco Rivas, es ingeniero de sistemas.
+[SPEAKER_01]  de los Andes también.
+[SPEAKER_01]  Néstor Plaza, que es el...
+[SPEAKER_01]  el encargado de todo el tema de la producción y distribución de efectivo.
+[SPEAKER_01]  También es ingeniero de sistemas de los Andes.
+[SPEAKER_01]  En el banco sí ese movimiento de ingenieros de sistemas a la parte administrativa.
+[SPEAKER_01]  de negocio se dio
+[SPEAKER_01]  También yo diría, por otra parte, y esto es una opinión muy personal.
+[SPEAKER_01]  porque a los economistas
+[SPEAKER_01]  como que no les gustaba esa parte, digamos, operativa del banco.
+[SPEAKER_01]  Sí.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  y
+[SPEAKER_00]  Pero ese tema, por ejemplo, el...
+[SPEAKER_00]  El tema de la econometría, yo trabajé con Guillermo Pedrín.
+[SPEAKER_00]  haciéndole software en SPSS FEDESARROYO.
+[SPEAKER_00]  Y Guillermo era un hombre muy del Banco de la República, ¿cierto? Muy de estos temas de...
+[SPEAKER_00]  de esas legislaciones económicas.
+[SPEAKER_02]  De macroeconomía.
+[SPEAKER_00]  la pre-economía y era un tema en la ingeniería que nos tocaba acercarnos a esos personajes.
+[SPEAKER_00]  y entrar en temas que eran nuevos para uno, la econometría, por ejemplo, ¿no? Desde el lado del desarrollo de...
+[SPEAKER_00]  de aplicaciones.
+[SPEAKER_00]  Me acabo de acordar mucho de eso porque...
+[SPEAKER_00]  Miguel Urrutia
+[SPEAKER_00]  Guillermo Pérez era muy del Banco de la República, obviamente.
+[SPEAKER_00]  Bueno, yo creo que hemos dado... Espérate, pero...
+[SPEAKER_02]  Yo creo que...
+[SPEAKER_02]  Espérate, pero falta la última...
+[SPEAKER_02]  Los últimos sucesos en el...
+[SPEAKER_02]  La última década...
+[SPEAKER_02]  organizacionales, personales y tecnológicos que podrías destacar.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Mira, aquí hay un tema importantísimo.
+[SPEAKER_01]  Porque...
+[SPEAKER_01]  Marichu, yo te diría que la última década viene con el tema de Fintech.
+[SPEAKER_01]  de la tecnología financiera.
+[SPEAKER_01]  en donde el banco central es el hub.
+[SPEAKER_01]  y es el que tiene, digamos, que mover.
+[SPEAKER_01]  ese financial technology y facilitar.
+[SPEAKER_01]  que en los diferentes...
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  actores del ecosistema financiero.
+[SPEAKER_01]  se dé esa intercomunicación y ese movimiento del dinero.
+[SPEAKER_01]  Ese es un punto bien interesante de lo que se viene. Yo te diría como tres puntos claves.
+[SPEAKER_01]  Como banco central, el tema de FinTech.
+[SPEAKER_01]  Y nosotros estamos trabajando un proyecto de pagos inmediatos.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Y el proyecto de pagos inmediato lo que significa es que las transferencias de...
+[SPEAKER_01]  de dinero, de cualquier.
+[SPEAKER_01]  No sé.
+[SPEAKER_01]  de Bancolombia a la vivienda, a la Escocia, a la...
+[SPEAKER_01]  al PSE al tuya
+[SPEAKER_01]  Se den inmediatas. Inmediatas son 10 segundos.
+[SPEAKER_05]  de inmediato
+[SPEAKER_01]  Inmediata no es mediodía.
+[SPEAKER_01]  y fuera de eso que sea un costo razonable.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  Ya estamos viendo ecosistemas.
+[SPEAKER_01]  que nosotros llamamos cerrados, digamos.
+[SPEAKER_01]  Tú ves Neki, tú ves David Plata.
+[SPEAKER_01]  Tú ves los esquemas del grupo Amal.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  que son ecosistemas cerrados, pero esto se tiene que dar un movimiento mucho más ágil en el sistema de pagos. Y fuera de eso, con muchos más mecanismos y muchas más...
+[SPEAKER_01]  Mucha más apificación.
+[SPEAKER_01]  que le permita a estas entidades interactuar mucho más fácil.
+[SPEAKER_01]  y que ese beneficio se traduzca al ciudadano.
+[SPEAKER_01]  el beneficio, porque ellos tienen unos costos.
+[SPEAKER_01]  Pero si reducimos esos costos, esas transferencias deberían ser...
+[SPEAKER_01]  hacer un costo.
+[SPEAKER_01]  para el ciudadano.
+[SPEAKER_01]  Por un lado.
+[SPEAKER_01]  En el esquema de la empresa digital,
+[SPEAKER_01]  Tenemos un reto tremendo.
+[SPEAKER_01]  las empresas colombianas y lo veíamos en el pan.
+[SPEAKER_01]  Y es que...
+[SPEAKER_01]  Las empresas digitales...
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  El 50% del personal es tecnología.
+[SPEAKER_01]  Tú miras.
+[SPEAKER_01]  Creo que el 50% de los empleados de NX son tecnología.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  No sé cuántos empleados tenga Nubank.
+[SPEAKER_01]  Pero pues...
+[SPEAKER_01]  Mercado Libre
+[SPEAKER_01]  La mitad de los empleados son tecnología, porque la empresa es digital.
+[SPEAKER_01]  por hecho, tu negocio.
+[SPEAKER_01]  Ya es lo que vemos en la pantalla. Tú no vas a la vitrina, tú no vas a la sucursal, tú no vas.
+[SPEAKER_01]  al
+[SPEAKER_01]  Tu vitrina es lo que estás viendo en el computador.
+[SPEAKER_01]  Entonces, pues hemos visto, nosotros en el banco sufrimos tremendamente en estos últimos, en hecho después de COVID.
+[SPEAKER_01]  de la fuga de nuestros ingenieros.
+[SPEAKER_01]  De hecho, nuestros ingenieros...
+[SPEAKER_01]  No se van de Colombia.
+[SPEAKER_01]  pero sí se van para una empresa internacional.
+[SPEAKER_01]  Chau.
+[SPEAKER_01]  y trabaja.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  con vos.
+[SPEAKER_04]  con vos
+[SPEAKER_01]  Y yo no, mejor dicho, nosotros...
+[SPEAKER_01]  Yo como le decía yo al gerente que es que el ingeniero tenía que ganarse 5 mil dólares mensuales.
+[SPEAKER_01]  4 mil dólares mensuales. Sí van a ganar 4 mil dólares mensuales.
+[SPEAKER_01]  Un economista del banco no se gana por cantar las mensuales.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Entonces, como le digo yo al gerente, que los ingenieros tienen que ganar más que los economistas, que son el negocio del banco.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  Ese es un reto inmenso que tenemos, que yo no lo he podido descifrar.
+[SPEAKER_01]  Pero mira, tú crees que yo...
+[SPEAKER_01]  que hemos podido contratar ingenieros de los Andes o de la Javeriana o de la Nacional o incluso de la Distrital, se me acabó de ir uno para Suecia.
+[SPEAKER_01]  Un tipo que estábamos trabajando con él en blockchain.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  El tipo ya sabía los diferentes esquemas de blockchain, eso. Se fue al país rapidito.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  Entonces, esa empresa digital...
+[SPEAKER_01]  Está costando en ingenieros.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  Porque son el negocio y la competencia con el exterior no estando muy duro.
+[SPEAKER_01]  conferencia de esta globalización.
+[SPEAKER_01]  No se está dando muy duro. Sí, trabajan aquí en Colombia, pero...
+[SPEAKER_01]  Te puedo decir para todos lados, se nos fueron para Amazon, se nos fueron para...
+[SPEAKER_01]  Valhalla, Escocia.
+[SPEAKER_01]  que es una cosa internacional.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Pero fueron todas compañías internacionales.
+[SPEAKER_01]  Eso lo hicimos mucho con algunos bancos colombianos.
+[SPEAKER_02]  Bueno, esto es...
+[SPEAKER_02]  Claro.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Está bien difícil.
+[SPEAKER_02]  Y eso y el home office también ha afectado el desarrollo tecnológico, supongo, porque entiendo que la mayoría de los empleados están más...
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Entiendo que la mayoría...
+[SPEAKER_02]  por fuera que en el edificio ya.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Nosotros en el 2020, mancha, apenas se acabó.
+[SPEAKER_01]  En el 2021 quedó...
+[SPEAKER_01]  Bueno, no, 2022 realmente.
+[SPEAKER_01]  Quedó institucionalizado el trabajo 4x1.
+[SPEAKER_01]  o 9.1.
+[SPEAKER_01]  4 y 1 o 9 y 1, mejor dicho.
+[SPEAKER_01]  Un día a la semana vas al banco.
+[SPEAKER_01]  o un día cada dos semanas bajo el banco.
+[SPEAKER_01]  De resto, trabajas en la casa.
+[SPEAKER_01]  Y si no hacíamos eso, se nos iban más todavía.
+[SPEAKER_01]  Ahí sí perdíamos más ingenieros. Algunos se quedaron gracias a eso. Muchos se quedaron gracias a eso.
+[SPEAKER_01]  Es un poco común, ¿no?
+[SPEAKER_00]  Ese comentario es muy clave, Mauricio. Perdona.
+[SPEAKER_00]  en los cambios que tiene que dar el país en la visión de lo que son los ingenieros de sistemas.
+[SPEAKER_00]  Fíjate tú en el tema de la educación en el año 2000.
+[SPEAKER_00]  le hacían cruz a la educación virtual.
+[SPEAKER_00]  ¿Sí?
+[SPEAKER_00]  Eso no, el ministerio no se metía.
+[SPEAKER_01]  ¡Gracias!
+[SPEAKER_00]  Cuando se llenó esto con la aberta de Cataluña y TEC de Monterrey de educación virtual, sin miles de ingenieros con maestría ya, etc.
+[SPEAKER_00]  Tengo que decirle a ella qué está pasando.
+[SPEAKER_00]  Me parece que eso que tú acabas de decir va a ser un proceso en la evolución muy clave, ¿no Edgar?
+[SPEAKER_00]  Una conciencia.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  de lo que es el ingeniero de sistemas.
+[SPEAKER_00]  que no es lo que hace muchos años nos preocupaba, que pensaban.
+[SPEAKER_00]  que éramos los que hacíamos mantenimiento a las impresoras.
+[SPEAKER_00]  ¿No?
+[SPEAKER_00]  Estoy ya pasando a unos niveles.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Muy interesante. Es un comentario muy válido.
+[SPEAKER_00]  Recuerda que esto va para las universidades y para la prensa. Sí, es la promoción.
+[SPEAKER_05]  Sí, esa es la promoción.
+[SPEAKER_00]  Y la parte empresarial, que es la conciencia de lo que es un ingeniero de sistemas.
+[SPEAKER_00]  Por esa trayectoria de vida que estás diciendo.
+[SPEAKER_00]  no solamente, digamos, aquí entre nosotros, sino lo que va a implicar.
+[SPEAKER_00]  en los discursos que se van a dar en estos años sobre lo que es el ingeniero del sistema.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Sí, pero hoy...
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Pero ahí...
+[SPEAKER_01]  fundamentales. Uno, la remuneración.
+[SPEAKER_01]  Sí, esa competencia con la remuneración.
+[SPEAKER_01]  pues realmente la academia lo está haciendo bien, porque si no, estos tipos no estarían yéndose a trabajar a otro lado.
+[SPEAKER_01]  Pero en la empresa local estamos sufriendo mucho por esa remuneración, por esa competencia con la remuneración.
+[SPEAKER_01]  Y algo que sí es general y que lo estoy viendo es...
+[SPEAKER_01]  El tema del user experience.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Me lo han dicho.
+[SPEAKER_04]  ¿No lo dices?
+[SPEAKER_01]  Tenemos, Marichu, cuando nosotros nos hicimos ingenieros de sistemas, nosotros obligábamos al user experience, nosotros, nosotros obligábamos al usuario y le decíamos, es que a usted le toca, yo no sé si a usted, Marichu, uno usa SAP. Te imponíamos.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Le imponíamos la solución.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Pero cuando a uno le tocaba el Zap de cliente-servidor, eso era, a usted le toca dar el clic ahí, punto. Así viene el producto y así le toca usarlo.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  Pero en el user experience, cuando tu negocio...
+[SPEAKER_01]  va a perder un cliente.
+[SPEAKER_01]  Si tú no encuentras rápido dónde es que está ese colchón.
+[SPEAKER_01]  ¿O dónde es que estás el televisor? ¿Qué vas a comprar?
+[SPEAKER_01]  ¿O dónde es que están las hamburguesas?
+[SPEAKER_05]  No.
+[SPEAKER_01]  Salud.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Perdiste el cliente por un user experience.
+[SPEAKER_01]  Y eso es una especialidad que curiosamente se está dando más en el mundo de la ingeniería de sistemas que en los otros temas de diseño, antropología, pero en las clases de Computer Human Interaction.
+[SPEAKER_05]  ¿Qué es?
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  dentro de Ingeniería de Sistemas, en donde se tiene que dar el User Experience.
+[SPEAKER_01]  De hecho, somos nosotros los que tenemos que entender el user experience y facilitar el user experience y no obligar.
+[SPEAKER_01]  y no transformar el cliente en un usuario de lo que a mí se me ocurrió.
+[SPEAKER_02]  Sí.
+[SPEAKER_01]  Eso es otro tema que a mí me parece gruesísimo.
+[SPEAKER_01]  Lo que hemos visto en esto de transformación digital.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Vale.
+[SPEAKER_01]  Bueno, y en...
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  en
+[SPEAKER_02]  Antes de retirarte...
+[SPEAKER_02]  Seguramente.
+[SPEAKER_02]  ¿Pesó alguna anostasia? ¿Qué impactos?
+[SPEAKER_02]  te generó el tener que cambiar ya de...
+[SPEAKER_02]  Bien.
+[SPEAKER_02]  el esquema en la que dejaste, bueno, esto es mi hijo, bueno, dejaste muchos hijos ahí de tecnológicos.
+[SPEAKER_02]  al final qué destaca de lo que dejaste.
+[SPEAKER_01]  Pues mira Edgar, yo todavía pues es que me fui hace dos meses, pero yo todavía tengo como tres hijos ahí pendientes.
+[SPEAKER_02]  Sí, pero...
+[SPEAKER_02]  como tres hijos.
+[SPEAKER_01]  Estoy pendiente de cómo termina.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Digamos, el primero es que...
+[SPEAKER_01]  Nuestro centro de cómputo secundario sale del centro de Bogotá.
+[SPEAKER_01]  Ahora sí se va a una empresa especializada en centros de cómputo.
+[SPEAKER_01]  y más allá del río Bogotá.
+[SPEAKER_01]  Sí.
+[SPEAKER_05]  Ok.
+[SPEAKER_01]  todas esas instalaciones nuevas que...
+[SPEAKER_05]  así es que las...
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  que se están haciendo por la calle 80 o Puerto Cancillado.
+[SPEAKER_05]  Sí, señoría.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Entonces, eso es un hijo que tengo técnico.
+[SPEAKER_01]  que es muy cercano.
+[SPEAKER_01]  Yo quería sacar ese centro de cómputo de...
+[SPEAKER_01]  de la Jiménez Concéptico.
+[SPEAKER_01]  Y va a salir de ahí.
+[SPEAKER_01]  Eso ya tiene fecha y todo.
+[SPEAKER_01]  El sistema de pagos es un hijo que se demora un poquito más.
+[SPEAKER_01]  pero debe salir en el 24.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  O sea, eso de que todos estos David Platas y Neki se unan.
+[SPEAKER_01]  a un sistema
+[SPEAKER_01]  en donde puedan interactuar y con beneficio para el usuario, ese es un segundo hijo que viene.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  En el tema de la nube...
+[SPEAKER_01]  Lo que estamos viendo...
+[SPEAKER_01]  No sé, ustedes han oído hablar de lo que es un outpost de Amazon o de Amazon Web Services.
+[SPEAKER_01]  O sea, Amazon...
+[SPEAKER_01]  pone todas sus máquinas en tu centro de compra.
+[SPEAKER_01]  En lugar de uno estar buscando por allá cosas en Amazon.
+[SPEAKER_01]  por temas de latencia.
+[SPEAKER_01]  A uno sí le puede convenir.
+[SPEAKER_01]  Suena chistoso, pero en lugar de yo irme a la nube de Amazon por allá, quién sabe dónde.
+[SPEAKER_01]  Amazon se viene y me pone un autobús en el centro de cómputo por temas de latencia.
+[SPEAKER_01]  en sistemas transaccionales que requieren.
+[SPEAKER_01]  una velocidad
+[SPEAKER_01]  inferior a los 30 milisegundos que puedo yo tener cuando estoy interactuando con una vaina que está por allá.
+[SPEAKER_01]  en California o en Miami.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Eso es un tema, esos son tres hijos que tengo todavía pendientes.
+[SPEAKER_01]  que quiero ver cómo terminan.
+[SPEAKER_01]  en lo que estamos haciendo en la modernización del banco en este tema ahora sí de...
+[SPEAKER_01]  de la transformación digital del sistema de pagos.
+[SPEAKER_01]  Ok, muy bien.
+[SPEAKER_02]  Ok.
+[SPEAKER_01]  Sí, entonces para que no me sigan echando el cuento de que con el terremoto de Bogotá nos vamos a caer sin pagar pagos.
+[SPEAKER_02]  Ok.
+[SPEAKER_02]  Bueno, Manuel, tú pregúntales.
+[SPEAKER_00]  No, no, no, ha sido muy interesante, había cosas que no sabía de Mao.
+[SPEAKER_00]  Me identifico por aquello del System Programmer, yo trabajé en Assembler, fui profesor en los Andes de Assembler en el 360, todavía programo.
+[SPEAKER_00]  Y me encanta ese mundo.
+[SPEAKER_00]  Tome curso de BIOS Multiusuarios de CPM.
+[SPEAKER_00]  ¿Se acuerdan? El CPM, el sistema operacional de los...
+[SPEAKER_00]  ¿No?
+[SPEAKER_00]  O sea, son temas que para decirle a los jóvenes que van a oírnos.
+[SPEAKER_00]  A veces uno entra en mundos que realmente...
+[SPEAKER_00]  no tiene claro para dónde va.
+[SPEAKER_00]  Entonces, tiene una gran pasión por el conocimiento.
+[SPEAKER_00]  ¿Ya fue, Luz?
+[SPEAKER_00]  Y eso es valio.
+[SPEAKER_00]  No todo tiene que ser...
+[SPEAKER_00]  utilitarista, digamos.
+[SPEAKER_00]  Voy a hacer este curso.
+[SPEAKER_00]  porque es que va a ganar más, ¿no?
+[SPEAKER_00]  Yo creo que se ha visto mucho en las entrevistas, ¿no Edgar?
+[SPEAKER_00]  que nos dicen los colegas.
+[SPEAKER_00]  Yo no sabía qué iba a hacer en la vida con los sistemas, pero me fascinaba lo que estaba haciendo.
+[SPEAKER_00]  Me encantaba programar en LIS, decía uno de los...
+[SPEAKER_00]  entrevistados, lo mismo que tú mencionaste.
+[SPEAKER_00]  Entonces,
+[SPEAKER_00]  identifica un proyecto de vida.
+[SPEAKER_00]  que acaba de salir del banco, pues en el proceso normal.
+[SPEAKER_00]  Yo llevo 23 años en Uniminuto y el mes pasado salí de Uniminuto. Eso no le he contado mucho a Edgar.
+[SPEAKER_00]  ¿No?
+[SPEAKER_00]  Y nada de nostalgia.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  Es decir, hay una cosa de formación personal muy importante.
+[SPEAKER_00]  Y lo que dejas, ¿no? Esos hijos.
+[SPEAKER_00]  Y lo que sigue.
+[SPEAKER_00]  porque creo que la vigencia...
+[SPEAKER_00]  De los que somos muy técnicos en esto,
+[SPEAKER_00]  es alto
+[SPEAKER_00]  Esa es una enseñanza muy buena, ese proyecto de vida.
+[SPEAKER_00]  que hemos notado eso, no se sabía para dónde ir, entró a la universidad.
+[SPEAKER_00]  Ya todo nos pasó, yo vendiré y todo eso.
+[SPEAKER_00]  Y mire que va...
+[SPEAKER_00]  Mirando retrospectivamente se ve el camino.
+[SPEAKER_00]  recorrido tan interesante.
+[SPEAKER_00]  Hay que agradecerte que hayas querido participar.
+[SPEAKER_00]  Y claro, si quieres concluir de alguna manera.
+[SPEAKER_00]  de...
+[SPEAKER_00]  hazlo para ir cerrando la conversación.
+[SPEAKER_01]  Gracias. No, lo que les quería comentar, yo creo que ese tema que nos toca preocuparnos.
+[SPEAKER_01]  de la user experience.
+[SPEAKER_01]  Y el tema de no perder...
+[SPEAKER_01]  en el país.
+[SPEAKER_01]  Estos ingenieros que se nos están yendo por globalización a...
+[SPEAKER_01]  a trabajar con tecnologías en otros países. Estamos quedando un poco huérfanos.
+[SPEAKER_01]  de toda esa mano de obra.
+[SPEAKER_01]  Eso, no tengo la respuesta.
+[SPEAKER_02]  no tengo la razón
+[SPEAKER_01]  Respecto a la...
+[SPEAKER_02]  No, no, no.
+[SPEAKER_01]  A la segunda. La primera sí yo creo que desde ya nos toca trabajar el tema de User Experience. A todos.
+[SPEAKER_02]  Perfecto, fantástica recomendación.
+[SPEAKER_02]  Pues no, yo quisiera darle las gracias a Mauricio, seguimos siendo colegas y amigos de por vida, por supuesto.
+[SPEAKER_01]  Pues...
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Y pues el aporte ha sido muy valioso en hacer este recorrido.
+[SPEAKER_02]  gratificante.
+[SPEAKER_02]  Yo quería comentar que una de las asignaturas que yo estuve por perder, que afortunadamente no lo hice.
+[SPEAKER_02]  fue economía y yo no sabía para qué me iba a servir.
+[SPEAKER_02]  Y cuando tuve que interactuar, porque nos pusieron a estudiar, el profesor Franco, que era el...
+[SPEAKER_02]  que después fue rector de la pedagógica.
+[SPEAKER_02]  cuando ya tuve que interactuar con los economistas, le agradecí mucho al doctor Franco de no haberme permitido perderla y haberme hecho estudiar. Uno no sabe para dónde va la vida, pero todo nos aporta y fíjate que...
+[SPEAKER_02]  Pues terminamos en...
+[SPEAKER_02]  A mí sí me llamaba más la atención el tema como lo viste.
+[SPEAKER_02]  del negocio y me metí como desde el principio, pero bueno, ahí...
+[SPEAKER_02]  Ahí tuvimos apoyo mutuo en esos procesos de...
+[SPEAKER_02]  de desarrollo y transformación digital del universo.
+[SPEAKER_02]  del banco.
+[SPEAKER_02]  Pues muchas gracias, Mauricio.
+[SPEAKER_01]  A ustedes muchas gracias por todo este...
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Este espacio también para hacer una...
+[SPEAKER_01]  autoevaluación de mis últimos 40 años.
+[SPEAKER_00]  Bien, y para que sepas, Mauricio, como ves, esta es una entrevista privada.
+[SPEAKER_00]  va a ser pública en su momento, ¿verdad?
+[SPEAKER_00]  pero está hecho, digamos, para aprender de todos este proceso.
+[SPEAKER_00]  En su momento les contaremos.
+[SPEAKER_00]  Hay muchas cosas que Edgar y yo no hemos resuelto, digamos, del proceso, ¿verdad?
+[SPEAKER_00]  Seguramente vamos a escribir un libro.
+[SPEAKER_00]  Vamos a editar estos videos, pero sobre todo...
+[SPEAKER_00]  poder marcar en un mapa esa transformación.
+[SPEAKER_00]  personal, humana y tecnológica y académica.
+[SPEAKER_01]  personal.
+[SPEAKER_00]  Pero a César Beatriz, que sin ella no hacemos nada.
+[SPEAKER_00]  ¿Listo Beatriz?
+[SPEAKER_01]  y a Kevin también
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Y a Kevin también. Y a Kevin también que está ahí presente.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias, Beatriz. Gracias, Kevin.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Bueno, si cree que está por ahí.
+[SPEAKER_02]  Ok, le vamos a pedir que en la clase de arquitectura empresarial...
+[SPEAKER_02]  haga referencia a estas historias que está aprendiendo.
+[SPEAKER_03]  Ah, muy bien.
+[SPEAKER_03]  Un placer.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  Ahí está que...
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Es verdad.
+[SPEAKER_04]  Es algo no de Edgar en la universidad, sí.
+[SPEAKER_00]  de que viene en este momento.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Qué bueno, qué bueno.
+[SPEAKER_00]  Bueno, pues muchísimas gracias. Muchas gracias. Gracias, Mauricio.
+[SPEAKER_05]  Bueno, muchísimas gracias.
+[SPEAKER_00]  Por todo.
+[SPEAKER_02]  Esperen que yo tomo la foto de la despedida aquí, ya que Kevin puso cámara también.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Eso también.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Listo.
+[SPEAKER_02]  Listo, muy bien.
+[SPEAKER_03]  Muchísimas gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Bueno, gracias a todos y muy buen, feliz fin de semana. Un abrazo para todos. Cuídate, Mau. Muchas gracias. Hasta luego.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Gracias a todos.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03] 
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Chao.
+[SPEAKER_00]  y hasta luego

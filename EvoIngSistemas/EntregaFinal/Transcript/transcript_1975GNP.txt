@@ -1,0 +1,1303 @@
+[SPEAKER_03]  Cristo.
+[SPEAKER_04]  Adelante. Perfecto.
+[SPEAKER_04]  Bueno, muy bien.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Ok.
+[SPEAKER_02]  Entonces, tenemos hoy a la ingeniera...
+[SPEAKER_02]  Gloria, niño de Pieto.
+[SPEAKER_02]  que va a ser la segunda entrevistada de este proceso.
+[SPEAKER_02]  donde es una conversación no pública.
+[SPEAKER_02]  Tenemos, hay que tener frescura en lo que vamos a hablar, no es una conferencia en sí.
+[SPEAKER_02]  Es una charla dentro de colegas.
+[SPEAKER_02]  Pero esto va a impactar enormemente.
+[SPEAKER_02]  la ingeniería de sistemas.
+[SPEAKER_02]  Recordemos que en REI somos 100 universidades a nivel nacional.
+[SPEAKER_02]  y es un proyecto que nace desde allí, obviamente.
+[SPEAKER_02]  Este es un proceso para ir mirando cómo fue evolucionando la ingeniería.
+[SPEAKER_02]  la ingeniería de sistemas.
+[SPEAKER_02]  Entonces lo primero con el tema de Gloria, que si no estoy mal es año 75, ¿no? Sí, Manuel.
+[SPEAKER_04]  Y Monre.
+[SPEAKER_04]  Sí, ya.
+[SPEAKER_02]  Sí, ya.
+[SPEAKER_02]  Sí.
+[SPEAKER_02]  Entonces, Gloria, comencemos a conversar. Lo primero es como la época.
+[SPEAKER_02]  Digamos, la orientación que damos es...
+[SPEAKER_02]  como los puntos, porque uno puede disparar toda la historia en cinco minutos.
+[SPEAKER_02]  sino la época.
+[SPEAKER_02]  ¿En qué colegio estudiaste? ¿En qué año entraste? Comencemos por ahí.
+[SPEAKER_02]  ¿Cómo era esa época cuando entraste a la Universidad de Los Ángeles?
+[SPEAKER_05]  Bueno, Manuel.
+[SPEAKER_05]  Yo estudié en el Colegio Anglo-Colombiano.
+[SPEAKER_05]  y digamos que me gradué en el año 1969.
+[SPEAKER_05]  Ese era un colegio mixto, Manuel, eso tiene una influencia importante.
+[SPEAKER_05]  en el sentido que los hombres y las mujeres nos sentíamos totalmente iguales.
+[SPEAKER_05]  Siempre estábamos en el año de sexto compartiendo qué es lo que íbamos a estudiar y buscando nuestras carreras, era claro.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  que hombres y mujeres buscábamos un futuro profesional.
+[SPEAKER_05]  Yo recuerdo que en mi caso en especial yo iba a estudiar zootecnia.
+[SPEAKER_05]  Sin embargo, yo tenía finca, es más, acabo de regresar de Agroexpo, me encanta eso, me parece lindo.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Estoy viéndola ahorita.
+[SPEAKER_05]  Te decía, entonces, cuando íbamos en el colegio, nos llevaron al consejo británico que había traído un computador que se llamaba Lulubell.
+[SPEAKER_05]  Entonces yo me enamoré de Lulubelle, nos mostré unos programas en Fortran y cambié completamente el camino.
+[SPEAKER_05]  pero no fue un cambio que fuera que yo lo hubiera escogido por el futuro, nada, sino...
+[SPEAKER_05]  que me encantó eso que vives, decidí estudiar Ingeniería de Sistemas.
+[SPEAKER_05]  Yo siento que en esa época esa era una carrera nueva.
+[SPEAKER_05]  Todo el mundo tenía como, ¿qué será esa carrera? Hablar a computadores, entender computadores. Era como una cosa que a uno le llamaba la atención.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02] 
+[SPEAKER_05]  Cuando uno es bueno en matemáticas, que es un paso importante en la vida que permite tomar decisiones.
+[SPEAKER_05]  que es algo que yo sigo pensando hasta ahorita.
+[SPEAKER_05]  Uno quiere estudiar algo que la matemática tenga un rol importante. Entonces, en ese sentido, las ingenierías se abrían como una posibilidad y las matemáticas.
+[SPEAKER_05]  Porque yo también estudié matemáticas, porque me encantaba.
+[SPEAKER_05]  Sin embargo, veo que el camino de matemáticas no hubiera sido un camino como tan práctico como si es la ingeniería de sistemas.
+[SPEAKER_05]  Pero entonces, esa fue una de las razones que vi que había mujeres y todas éramos buenas en matemáticas. Nos encontramos en una carrera...
+[SPEAKER_05]  donde eso era la base y la estructura que hoy siento que fue tan importante.
+[SPEAKER_05]  para mi vida de hoy en día, de querer mirar mil cosas y saber que esa formación fue importante.
+[SPEAKER_05]  ¿Cómo era el estudio? Para mí fueron cinco años, era una carrera muy formal, muy estructurada. Yo sentía que las materias cada una aportaba en ese crecimiento, cada semestre uno veía cosas más interesantes que lo iban llevando a entender.
+[SPEAKER_05]  Poco a poco.
+[SPEAKER_05]  la ingeniería de sistemas, que no la tenía uno como muy clara.
+[SPEAKER_05]  teniendo también esa formación de los Andes que tenía otras materias, a mí me gustaba la psicología, tomé cosas de filosofía, que complementaban y nos abrían un panorama.
+[SPEAKER_05]  de que el estudio, pues, es importante tener una formación global en todo.
+[SPEAKER_05]  Lo que más siento, y desconozco la formación de los ingenieros ahorita, pero en nuestra época había un enfoco muy grande, el tema era la época de los computadores mainframe, los mainframe computers, y para allá era que iba uno.
+[SPEAKER_05]  Entonces, el tema...
+[SPEAKER_05]  digamos de...
+[SPEAKER_05]  los sistemas operacionales, era una materia, uno veía sistemas operacionales y los entendía, pero a fondo, era como la forma de entender cómo funcionaba un computador, lo mismo que estructuras de computación.
+[SPEAKER_05]  y era la de cómo era un computador pon dentro, me acuerdo de una materia que la dictaba Jaime Garcés que se llamaba estructura de computación era muy interesante y uno se enamoraba de esa diagrama enorme de cómo funcionaban por dentro un computador cosa que probablemente ahorita no se estudia porque ahorita se usa eso para rápidamente salir a ser productivo
+[SPEAKER_00]  para un rápido...
+[SPEAKER_05]  Pero toda esa formación que tuvimos.
+[SPEAKER_05]  tuvo algo que nos dejó
+[SPEAKER_05]  que yo creo que fue valioso, que es esa estructura tan fuerte. Tomamos, pongamos, teoría de autómatas. Eso a mí todavía hoy, Manuel, es algo que a mí se me hace, que está volviendo a ser válido. Las cosas que se están haciendo tan interesantes por el lado de los autómatas que nosotros los vimos en la universidad.
+[SPEAKER_05]  Es impresionante, temas muy interesantes de genética, de generación de, digamos, como de nuevos organismos basados en teoría de autómatas.
+[SPEAKER_05]  Otras materias que me parecían interesantes. Tomábamos lenguajes de programación orientados a dominar un lenguaje.
+[SPEAKER_05]  Pero era una cultura muy diferente a la de hoy, porque uno aprendía a programar y lo hacía lo mejor posible. No se imaginaba uno que entregaba a alguien algo que no estaba perfecto.
+[SPEAKER_05]  No había esa metodología que de pronto la podemos ver los grandes cambios que ha habido con hoy.
+[SPEAKER_05]  que ha sido un cambio de paradigma para los ingenieros de nuestra época, que éramos como estructurados, que teníamos una forma de pensar. A mí me tocó transformarme, tú sabes que hoy tengo una empresa de tecnología.
+[SPEAKER_04]  ¡Gracias!
+[SPEAKER_04]  Sí, es necesario.
+[SPEAKER_05]  Eso es una parte interesante de ir más adelante.
+[SPEAKER_05]  Cómo hoy yo tuve que cambiar de forma de pensar, pero sigo pensando que esa formación que nosotros recibimos fue importantísima en el tema de redes, que es un tema tan importante hoy para miles de cosas.
+[SPEAKER_05]  En esa época, las redes eran completamente dedicadas a, digamos, propietarias. En ese momento arrancó ese proyecto de ARPANET, si no se recuerdan de ARPANET en el departamento de los Estados Unidos.
+[SPEAKER_04] 
+[SPEAKER_04] 
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  exactamente, arranca con el protocolo TCPIP, todo eso es un mundo que empieza a desarrollarse, pero mi mundo, apenas salí de la universidad con esa formación que tuve,
+[SPEAKER_05]  fue entrar a trabajar en empresas que todavía tenían esas mainframes, porque era de mainframes.
+[SPEAKER_02]  Sí, automático. Creo que va rápido.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  de la noche.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Nos vamos muy bien.
+[SPEAKER_02]  Voy a echar un reversito, ¿sí? Dale. Hay cierto factor humano de esto.
+[SPEAKER_02]  Es muy interesante que en el 70 en el colegio.
+[SPEAKER_02]  Ya están trabajando, según cuentas, ¿no? Sí, sí.
+[SPEAKER_05]  Sí, señor.
+[SPEAKER_05]  Gracias.
+[SPEAKER_02]  Y el programa le importa.
+[SPEAKER_05]  Y a programar.
+[SPEAKER_02]  Eso es...
+[SPEAKER_05]  No, no programábamos en Fortran, nos llevaron a conocer Lulubell. Lulubell era un computador y en ese computador se programaba en Fortran. Entonces hicieron un programa, pero esta tarde que estuvimos allá, pero para muchas personas como fue para mí, eso fue una cosa que me cambió. Punto. Yo olvidé del campo.
+[SPEAKER_02]  la conducción
+[SPEAKER_02]  y no ya
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Ah, ya.
+[SPEAKER_03]  ¿Dónde fueron?
+[SPEAKER_02]  ¡Bienvenido!
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_02]  ¿Cómo? ¿A dónde fueron? ¿A dónde fueron?
+[SPEAKER_05]  Al Consejo Británico.
+[SPEAKER_02]  El Consejo Británico.
+[SPEAKER_05]  Entonces, nos empezaron a llevar para que viéramos que eso era algo nuevo y que nació, pues. Y por eso yo cambié mi carrera, básicamente fue así.
+[SPEAKER_02]  Entonces, ahí...
+[SPEAKER_02]  Y por eso...
+[SPEAKER_02]  Ahora, entras a los Andes, es hecho de reversito.
+[SPEAKER_05]  Sí.
+[SPEAKER_02]  ¿Qué computador había en ese momento? El IBM.
+[SPEAKER_05]  El IBM, el 360, ya estábamos en la serie del 360.
+[SPEAKER_02]  Ya estaba el 360.
+[SPEAKER_02]  Ya estaba en 360.
+[SPEAKER_05]  Ya está.
+[SPEAKER_05]  Nosotros no vimos esa computación anterior. El 1130, que fue nuestro. El 1130, eso no.
+[SPEAKER_02] 
+[SPEAKER_02]  El 1130, que fue nuestro. El 1130.
+[SPEAKER_02]  Y el 650 que era el que te anterior.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Bueno, pero...
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_02]  El 360 ya es un hito, tú lo acabas de decir muy bien.
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Esa es la información que marcaron lo que hoy en día es la tecnología de cierta manera.
+[SPEAKER_04]  Exactamente.
+[SPEAKER_02]  Exactamente. Ya entonces comenzaste a trabajar, en tu época eran los dos primeros años iguales para las ingenierías, como siempre. Sí, señor.
+[SPEAKER_05]  Sí, señor, eso era muy importante porque uno hacía dos años donde se dedicaba a fortalecerse, vamos, vimos físicas, que para mí eso fue una maravilla.
+[SPEAKER_05]  mucha gente la criticaba, a mí me parecía que era una belleza la física, lo mismo que ecuaciones diferenciales, lo recuerdo como con afecto, es la primera vez que yo vi la matemática aplicada, se me hacía lindo y esa era una formación.
+[SPEAKER_05]  Química, también vimos química, química 1, química 2, sistemas dinámicos, sistemas dinámicos discretos, una matemática muy global, análisis numérico.
+[SPEAKER_05]  Estadística, probabilidad...
+[SPEAKER_02]  Estática y dinámica.
+[SPEAKER_05]  Exactamente, estática y dinámica. Te formaban como ingeniero, uno podía entender cualquier cosa con esa formación, que es algo que yo considero que fue un paso importante como ingeniero de sistemas, porque uno como ingeniero de sistemas tiene que entender lo que le están presentando para meterlo en un computador.
+[SPEAKER_05]  pero si uno tiene la formación para entender cualquier cosa como era eso, pues era muy sencillo.
+[SPEAKER_05]  Dime.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Sí, sí, sí, sí, sí.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  No, que recuerdo alguna vez, es una bobada, pero recuerdo un ingeniero civil.
+[SPEAKER_05]  comparado con el ingeniero de sistemas.
+[SPEAKER_05]  Tuvo problemas y dije, ¿por qué no se cambia de carrera? Dije, ¿cómo se le ocurre?
+[SPEAKER_05]  Pero no sé, yo como ingeniero de sistemas, ahorita estoy en esto, pero mañana puedo estar en esto otro, porque tengo la capacidad de enfocarme en algo nuevo sin ningún problema. Ese es el mensaje que nos dieron los ingenieros de sistemas de la época mía.
+[SPEAKER_03]  Sí.
+[SPEAKER_05]  usted tiene que entender el negocio de lo que sea, el mundo que sea porque usted lo va a meter en un computador y luego el nivel de detalle para entender era profundo
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Claro, eso marca una mentalidad empresarial tuya también desde esa época.
+[SPEAKER_05] 
+[SPEAKER_05]  Claro, Manuel, yo creo. Claro que la parte empresarial viene como después. Sí, pero...
+[SPEAKER_02]  pero
+[SPEAKER_05]  pero había esa como una confianza como en uno de entender
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Y además el mensaje de querer entender, que es otro que es el que uno dice.
+[SPEAKER_05]  Yo noto que en las reuniones, hago reuniones y la señora se pone en un computador y dice, ¿cómo puede estar entendiendo? Pongan atención.
+[SPEAKER_04]  ¡Gracias!
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  A ti también.
+[SPEAKER_05]  para tratar de entender qué, lo que sea, porque todo lo pueden aportar. Esa es una filosofía que yo no sé si viene de los Andes o qué, es como, era una cosa de, sí, de darse un mensaje a uno mismo, todo es posible de entender, pues tengo que poner atención, ¿no? Y que me interese todo, también era algo chévere. Yo creo que esa cantidad de materias que vimos de todo, te abrían ventanas y te abrían puertas, y tú cada vez decías, pero qué cosa, qué maravilla, ¿ves?
+[SPEAKER_04]  Sí.
+[SPEAKER_00]  Exactamente.
+[SPEAKER_04]  Claro.
+[SPEAKER_05]  Eso es una formación que tenía, era interesante en ese sentido, yo lo veo como muy valioso.
+[SPEAKER_02]  Sí.
+[SPEAKER_02]  y otro, ahorita seguimos avanzando.
+[SPEAKER_02]  el tema de género.
+[SPEAKER_02]  Porque tú y el grupo tuyo...
+[SPEAKER_02]  Varias de tus amigas, que también son amigas mías, no lo sabes. ¿Cómo visualizas esa parte femenina?
+[SPEAKER_03]  Sí.
+[SPEAKER_05]  ¿Cómo visualizan?
+[SPEAKER_05]  femenina de ese momento.
+[SPEAKER_05]  Me encanta esa pregunta, Manuel, porque yo no sabía, pero cogimos como una fama.
+[SPEAKER_05]  antipaticona para los compañeros nuestros, no les parecíamos como muy queridas porque éramos amigas de los profesores. Yo sentí que posteriormente eso era como una crítica.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  hacia nosotros, pero nosotros no lo hicimos como de antipáticas, sino que resultó así, porque los profesores eran tres o cuatro años mayores que uno, o sea, era una comunicación bastante fácil.
+[SPEAKER_05]  Pero fuimos un grupo de mujeres muy, muy estudiosas. Ese es un tema importante, Manuel.
+[SPEAKER_05]  Era una época donde a los muchachos les parecía delicioso no ir a clase y decir que no estudiaban nada, pero que igual habían sacado cinco. Nosotros no éramos de esas.
+[SPEAKER_05]  todas éramos pilísimas, estudiamos hasta las 2, 3 de la mañana en la casa de una y en la casa de la otra.
+[SPEAKER_05]  Muy como con mucha motivación, ¿ves? Mucha motivación para estudiar. Era el goce del estudio, porque todavía no nos proyectábamos profesionalmente. Era más el que uno estudiaba y le gustaba estudiar.
+[SPEAKER_05]  El hecho de ser mujeres.
+[SPEAKER_05]  uno tenía un bloqueo, uno sí generaba un bloqueo, nosotros echábamos dedo.
+[SPEAKER_05]  Entonces el Señor nos paraba.
+[SPEAKER_04]  nos paraba
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  ¿Para dónde va? ¿Usted qué hace? No, yo estudio ingeniería de sistemas. Silencio en el carro hasta que uno llegue a la casa.
+[SPEAKER_04]  Ah, la cama.
+[SPEAKER_05]  Eso generaba como una especie de miedo.
+[SPEAKER_05]  que el hombre no le provocaba salir con una mujer estudiosa o ingeniera, le parecía que eso no debía ser.
+[SPEAKER_05]  De acuerdo un poquito a que al hombre le gusta manejar las cosas, entonces encontrar una persona que también no les parecía tan chévere. Eso sí lo notábamos, pero yo creo que seguimos siendo, o sea, el tema de femenino, masculino.
+[SPEAKER_05]  Hoy en día, si tú me preguntas...
+[SPEAKER_05]  cero y muchos años yo nunca siento diferencia, Manuel. Si estoy con hombres o con mujeres, para mí se me hace que el trato ha sido el mismo siempre y lo sostengo mucho cuando me dicen que represente cosas de género y de algo corriendo, porque a mí eso no me gusta.
+[SPEAKER_05]  Yo pienso que el sentirse uno diferente y ponerse uno en movimientos, ya marcar una diferencia. Me han hecho entrevistas de mi compañía, yo no sé cuántos hombres y mujeres hay acá, no sé, jamás pregunto si es hombre o mujer.
+[SPEAKER_04]  pero
+[SPEAKER_04] 
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  No se evalúa, es el que sea.
+[SPEAKER_04]  Somos iguales.
+[SPEAKER_05]  Eso pues es un tema interesante, tal vez de la...
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Sí, esto está importantísimo oírte porque hoy en día está de moda el tema de género.
+[SPEAKER_05]  Sí, esto es...
+[SPEAKER_02]  Y siempre lo presenta más un concepto de inequidad.
+[SPEAKER_05]  Sí.
+[SPEAKER_02]  Y a mí me ha costado trabajo explicar que para mí no existe la inequidad en la relación.
+[SPEAKER_02]  porque fuimos amigos de ustedes en la universidad.
+[SPEAKER_02]  Claro, con el respeto, obviamente, porque mujeres y las compañeras, pero el respeto profesional es absoluto.
+[SPEAKER_02]  Muy bueno oíste todo eso, porque hoy se deforma un poco el tema, siempre hacia la iniquidad. Sí, no me gusta.
+[SPEAKER_05]  No me gusta, yo trato de explicarlo de la forma más, digamos, como respetuosa, ¿no? Porque ellos tienen su posición y yo nunca he necesitado.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  tener una posición que me haga a mí diferente de un hombre. Me siento exactamente igual.
+[SPEAKER_05]  Y nunca he tenido eso. Y en mi empresa, con un ejemplo chiquito.
+[SPEAKER_05]  El hecho de ser mujer o hombre no cuenta para nada.
+[SPEAKER_02]  Perfecto, y el grupo este, porque yo lo conocí, en el 70 yo estaba como a dos añitos de graduarme.
+[SPEAKER_02]  Pero el grupo de ustedes es un grupo después profesionalmente súper representativo en la ingeniería de sistemas colombianos. ¿Sí o no? Todas tuvimos capas de...
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  colombiano
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  todas tuvimos
+[SPEAKER_05]  Cargos ejecutivos importantes, unas en Hewlett Packard, Elsa en Nielsen.
+[SPEAKER_05]  Pero digamos, hay una cosa que fue una reflexión muy bonita y la puedo decir yo porque fui la única que me volví emprendedora.
+[SPEAKER_03]  Dicto.
+[SPEAKER_05]  Entonces yo tengo hoy mi empresa y tengo 72 años y quiero seguir trabajando, Manuel, tú sabes.
+[SPEAKER_05]  Eso no les pasó a mis amigas, no les pasó eso. Llegó la edad en que las sacaron y todas son muy productivas. Yo sigo trabajando con ellas en proyectos de impacto, en una red que armamos para hacer cosas interesantes, porque las sacaron muy jóvenes, ¿ves? Yo pues seguí trabajando por lo que la empresa era mía.
+[SPEAKER_03]  Yo no sé.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Correcto. Y valga decir que hoy día están estudiando filosofía.
+[SPEAKER_02]  Ah, bueno, eso es un...
+[SPEAKER_05]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Un detalle que después hablamos de eso, que me parece tan interesante. Bueno, vamos entonces, muy importante este pequeño pasaje sobre el género, ¿no?
+[SPEAKER_02]  Por lo que he dicho, queda registrado, es muy interesante para que después te oigan los colegas sobre ese aspecto.
+[SPEAKER_03]  Sí, yo...
+[SPEAKER_05]  video.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_02]  Bueno, entonces voy a mostrar...
+[SPEAKER_05]  Hay personas que se regeneran, pongamos, yo me acuerdo que le dije una vez a Brigitte.
+[SPEAKER_05]  Brigitta, que es la rectora de la universidad, me gusta Brigitta, trae su personalidad, me gusta todo de ella y conversamos.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03] 
+[SPEAKER_05]  A ver, le dije esta teoría.
+[SPEAKER_05]  Y bueno, me calificó de, no, ustedes de este, no sé qué, como si hubiera un estilo de mujeres.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  que son las que dicen esto y que no afrontan realmente que sí hay una diferencia entre hombres y mujeres, ¿ves? Sentí que a ella a eso no le llegaba, lo que yo le estaba diciendo.
+[SPEAKER_00] 
+[SPEAKER_02]  Y lo mencionaste subliminalmente.
+[SPEAKER_05]  Sí, sí.
+[SPEAKER_02]  no es el juego de la estadística.
+[SPEAKER_02]  que emita hombres y que emita mujeres.
+[SPEAKER_02]  Es profesionales.
+[SPEAKER_02]  Y la estadística resulta en lo que resulta, porque a mí en mis empresas, en mi biblioteca ilógica, siempre la mayoría eran mujeres sin darnos cuenta.
+[SPEAKER_04] 
+[SPEAKER_02]  En un minuto el 70% son mujeres, por ejemplo, estudiantes. Es bien curioso.
+[SPEAKER_05]  Yo no puedo verificar cuántas hay en Bismarck porque no las he contado.
+[SPEAKER_02]  pero pues de por todas partes si no las cuentas, no está uno en esa estadística
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Hay cualidades y defectos en las mujeres porque sí hay cositas que son excesamente, demasiado sensibles, ¿ves? Hay veces uno dice, bueno, caray.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Pero es un proceso. Entonces, en esta evolución...
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Muchas gracias.
+[SPEAKER_02]  Estás marcando una personalidad.
+[SPEAKER_02]  mujer
+[SPEAKER_02]  amante de la tecnología.
+[SPEAKER_02]  emprendedora.
+[SPEAKER_02]  amante del estudio, que es una cosa muy importante, y diferenciadora del tema de género, sino simplemente el tema profesional.
+[SPEAKER_04]  Totalmente.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Ok.
+[SPEAKER_02]  Entonces entras a la universidad con el 360 que ya existía
+[SPEAKER_04]  ¿Qué es?
+[SPEAKER_02]  Sí, y...
+[SPEAKER_02]  Y bueno, de todas esas materias, ¿te tocó la época de los profesores franceses?
+[SPEAKER_02]  Sí, totalmente.
+[SPEAKER_05]  Y nosotros éramos muy cercanas a todos.
+[SPEAKER_04]  Es más...
+[SPEAKER_05]  Es más, yo me fui a estudiar a Francia, Manuel, y los volví a encontrar a todos y fueron mis amigos mucho tiempo.
+[SPEAKER_05]  Jean-Louis Vieche, Jacques Roger, que murió después, ellos eran de la misma, un poquito mayores que nosotros, y es interesante, tenían una cultura francesa, entonces ahí es que cogimos la fama, especialmente que te dije, porque sí éramos amiguísimas de ellos, pero eso no quiere decir ni que nos pasaran las materias, ni que hubiera ninguna cosa que fuera la correcta, ¿ves?
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Sí, sí.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Si queramos hacer un recuerdo...
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  No.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02] 
+[SPEAKER_05]  Lo comenté que bien.
+[SPEAKER_02]  Lo comenté que había una reunión de que no era la de usted, de los profesores tradicionales.
+[SPEAKER_02]  porque ellos llegaban de sport, en tenis.
+[SPEAKER_02]  No, frescos, fue un cambio importante.
+[SPEAKER_04]  No.
+[SPEAKER_05]  Gracias.
+[SPEAKER_02]  Ya te tocó esa época.
+[SPEAKER_02]  Bien, las asignaturas.
+[SPEAKER_05]  Bien, las asignaturas.
+[SPEAKER_02]  en el proceso de asignaturas en la parte de Ciencias Humanas y Sociales.
+[SPEAKER_02]  Me imagino que viste temas de literatura y de humanidades. Sí, Manuel, sí, yo tengo una...
+[SPEAKER_05]  de esto desde siempre me gustaba
+[SPEAKER_05]  Me gustaba la psicología y me gustaba la literatura. Filosofía no en ese momento, Manuel, es una cosa como...
+[SPEAKER_05]  de este momento en mi vida, ese cambio es en la filosofía.
+[SPEAKER_05]  Pero siempre he sido una muy buena lectora, pero muy buena.
+[SPEAKER_05]  Me gusta, me acompaño siempre de un libro.
+[SPEAKER_05]  Y eso empieza pues desde la universidad, donde la misma cultura griega, pongamos, no sé si te recuerdas que subimos a cultura griega. Sí, cultura griega, claro.
+[SPEAKER_04] 
+[SPEAKER_05]  Ramón de Subiría, buena historia, también me gusta.
+[SPEAKER_05]  Eso hacía la ingeniería deliciosa. Uno tenía otros mundos que podía asistir desde la universidad, pero seguía su carrera por el camino como que era un poco más árido, que era el nuestro.
+[SPEAKER_05]  Esa parte también.
+[SPEAKER_02]  Me parece interesante el comentario. Esto va a ser también educativo, ¿no? Porque esto lo van a escuchar estudiantes, profesores.
+[SPEAKER_02]  de que una ingeniera sí puede tener gusto por las ciencias humanas y sociales.
+[SPEAKER_02]  De hecho, estuvimos en un curso de Marcel Proust, ¿te acuerdas?
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Claro, entre otras... Porque se creó el grupo de literatura.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Otras, ah.
+[SPEAKER_05]  Allá nació una tertulia que para mí cumple hoy 30 años.
+[SPEAKER_05]  Yo tomé un curso de la búsqueda del tiempo perdido con un grupo de gente y pareció tan... Duramos un año porque este libro ya sabes es largo, ¿no?
+[SPEAKER_05]  Y de ahí seguimos con una tertulia de literatura liderada por una persona que fue profesor de los Andes, Leonardo Venegas.
+[SPEAKER_05]  y eso
+[SPEAKER_05]  Exactamente, pero él sabe mucho de literatura, lee con una profundidad enorme. Yo creo que esa sensibilidad también es importante en la vida.
+[SPEAKER_05]  Y ese es como más equilibrio, es buscar más equilibrio, no solamente lo técnico, pero lo técnico también tiene su parte interesante por otros caminos, digamos que estamos viendo hoy miles de cosas interesantes en astronomía, en física, en neurociencia. Entonces, son temas que a mí se me hace que todos los ingenieros tenemos la capacidad de entender con profundidad lo que se está haciendo hoy.
+[SPEAKER_05]  si tenemos ese deseo de hacerlo, por la formación que recibimos, Manuel.
+[SPEAKER_05]  Eso yo es algo que agradezco, yo lo hice sin saber y me siento muy contenta de esa formación.
+[SPEAKER_02]  Bueno, ya la ves todo eso, la tecnología.
+[SPEAKER_02]  Y cuéntanos un poquito de los lenguajes de programación en los Andes por ahora.
+[SPEAKER_05]  Mira una cosa que...
+[SPEAKER_02]  ¿Cómo es ya esto?
+[SPEAKER_05]  En esa época uno veía cobol.
+[SPEAKER_05]  Cuando era temas de...
+[SPEAKER_02]  digamos
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Entre otras, a mí me tocaron muchas empresas donde el corazón del tema era Cobol.
+[SPEAKER_05]  Ahora, pues, en realidad profesional, como ese, el co-work fue importante para mí.
+[SPEAKER_05]  El tema del alcohol, PL1, era otro programa que uno también utilizaba. Y PORTRA, PORTRA también. Y algo de Ascendent, ¿te acuerdas del profesor que se me dio?
+[SPEAKER_04] 
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  ¿Profesor qué?
+[SPEAKER_05]  ¿Va a vivir caro?
+[SPEAKER_04]  Muy bien.
+[SPEAKER_05]  No, no, no, no.
+[SPEAKER_05]  Yo trabajé con Javier y me hice muy amiga de Javier.
+[SPEAKER_05]  Y es una persona que le tengo un afecto enorme porque él tenía una concepción.
+[SPEAKER_05]  del mundo profesional.
+[SPEAKER_05]  que a mí me encantaba.
+[SPEAKER_05]  Manuel, muy impresionante. Y tuve la suerte de ser de las pocas amigas que tenía Javier, porque él no era así como amiguero. Recuerda, tú eras muy amiguero.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Recuerda, tú eras muy amiguero. Él fue profesor nuestro. Yo fui profesor de Assembler después.
+[SPEAKER_02]  porque algunos de nosotros simulamos, hicimos simular a Javier.
+[SPEAKER_02]  que era un ejemplo profesional impresionante. Impresionante.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Bueno, entonces Vista Semblers también, o sea, era una época en que se veía el interior de las máquinas. Sí.
+[SPEAKER_05]  Y uno le hace...
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  las que
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Dígame, eso era una parte importante, uno las entendía. Es más, mi primer puesto...
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  cuando salí, no el primer puesto, sino con el tiempo yo me volví System Programmer. No sé si recuerdas lo que era eso.
+[SPEAKER_05]  Yo era System Programmer experta en máquinas y etcétera, me encantaba eso.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  era System
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Trabajé mucho tiempo en NASCO, siendo un System Programmer, y luego metí el tema de telecomunicaciones y de comunicaciones también.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  O sea, era un mundo que a mí me atraía. Y me leía unos manuales pesadísimos, así, gordísimos.
+[SPEAKER_04] 
+[SPEAKER_05]  a la velocidad del sonido
+[SPEAKER_05]  O sea, uno va cogiendo la facilidad de tener ese tipo de lecturas técnicas.
+[SPEAKER_04]  Sí.
+[SPEAKER_05]  a través de los años que sorprende ver cómo se va logrando.
+[SPEAKER_05]  Yo fui...
+[SPEAKER_02]  Yo fui System Programmer en Acueducto de Energía.
+[SPEAKER_02]  Y el señor Victoria Correa era mi colega.
+[SPEAKER_05]  Y el...
+[SPEAKER_02]  Exacto. En Assemble programamos nosotros, allá era un IBM 360, que era el DANE.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Sí.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Pero el System Program era una profesión en ese momento de algunos.
+[SPEAKER_04]  Exactamente.
+[SPEAKER_02]  Exacto. Eso me saca un poco, ¿no?
+[SPEAKER_04]  Es muy seco.
+[SPEAKER_02]  No, ha cambiado. Bueno, sigue siendo de una manera distinta por la tecnología.
+[SPEAKER_04]  No, ha cambiado.
+[SPEAKER_04] 
+[SPEAKER_02]  Eso es muy interesante porque cuando estuviste en Nazco, hiciste un trabajo, yo diría el más técnico de todos del momento era hacer system program. Sí, sí, sí.
+[SPEAKER_05]  Yo recuerdo una entrevista con un muchacho.
+[SPEAKER_05]  que había sido buenísimo estudiante por allá en todas las universidades, pero cambié de puesto, cambié de puesto y me llegó.
+[SPEAKER_05]  Salud.
+[SPEAKER_05]  ¿Usted qué quiere ser? Yo quiero ser System Programmer.
+[SPEAKER_05]  ¿Y qué es para usted eso? Me dijo, no. Él quería buscar el puesto más creativo donde él podía aportar más con su inteligencia.
+[SPEAKER_05]  Bien, no, aquí no es.
+[SPEAKER_05]  porque usted lo único que va a aprender es cómo otra persona hizo ese computador en un lenguaje y usted va a aprender ese lenguaje para comunicarse, pero poca creatividad debe haber por eso. No lo estoy destruyendo como puesto, digamos.
+[SPEAKER_05]  Como tema profesional, pero sí es un poquito así, Manuel.
+[SPEAKER_05]  No era tan creativo el System Programmer, era aprenderse a hablar con máquinas del mundo. Yo era experta en...
+[SPEAKER_04]  En menos de un minuto.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Lenguaje de máquina, pero hechos por IBM. Entonces era el mundo de IBM.
+[SPEAKER_04] 
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Uno aportaba poco en adicionarle una funcionalidad al computador. No, uno aprendía a manejar este computador.
+[SPEAKER_05]  y cuando tenía problemas, a ver, destrabarlo, digamos, ¿no?
+[SPEAKER_02]  Claro, sí. Bueno, y la rutina de contabilidad del sistema, que si había que...
+[SPEAKER_02]  trabajar un poco en el sistema operacional, ¿no? Sí, sí, sí. Pero bien, el System Programming exacto existía. Hoy en día existe de alguna manera los técnicos de redes, porque hoy en día más que uno central son redes digitales.
+[SPEAKER_00]  Adiós.
+[SPEAKER_02]  Bueno, eso marca una experiencia muy técnica, muy interesante tuya.
+[SPEAKER_05]  Bueno, eso...
+[SPEAKER_05]  Técnica total.
+[SPEAKER_02]  Con una mente también interesada.
+[SPEAKER_02]  en los idiomas, en las ciencias humanas, en la literatura, todo lo que acabas de decir.
+[SPEAKER_02]  Porque para que nos hayamos encontrado en un curso del Marcel Proust.
+[SPEAKER_05]  bien para que no se pierda.
+[SPEAKER_02]  era porque nos gustaba la literatura.
+[SPEAKER_02]  O por lo menos no entendíamos a Martín Proust y había que entenderlo, ¿no?
+[SPEAKER_03]  O por lo menos...
+[SPEAKER_02]  Sí, más o menos. Bueno, eso es muy interesante. Bueno, entonces, ¿hacías tesis de grado al final o en esa época? Sí, en la época nuestra había tesis de grado.
+[SPEAKER_02]  ¿Y cuál fue tu tesis de grado? Es un tema interesante.
+[SPEAKER_05]  También la testiculina no fue como muy, como digamos, era más por el lado de un sistema de información, ya no me acuerdo bien, pero no fue una cosa así como muy interesante, más como salir del paso, no me recuerdo que yo haya hecho una cosa que valga la pena contar.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  No, fue un...
+[SPEAKER_04] 
+[SPEAKER_05]  Es que ni siquiera me acuerdo. Era...
+[SPEAKER_05]  Informática en gestión.
+[SPEAKER_05]  como un sistema de gestión, pero no me acuerdo bien de qué era.
+[SPEAKER_05]  Hola, yo como...
+[SPEAKER_05]  Un tema que haya marcado.
+[SPEAKER_02]  Ok.
+[SPEAKER_05]  digamos.
+[SPEAKER_02]  Ok, entonces ya nos has hablado de tú misma, del colegio, de la manera como entraste.
+[SPEAKER_02]  es el momento de decidir estudiar sistemas en tu casa como se tomó.
+[SPEAKER_02]  porque era una carrera muy nueva.
+[SPEAKER_05]  Sí, mi papá siempre, digamos, tenía como mucha ilusión de lo que yo hice. Teníamos una relación muy cercana, le parecía que yo iba a ser buena profesional.
+[SPEAKER_05]  que era una buena estudiante, siempre fui.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Confianza.
+[SPEAKER_05]  eso fue para él una cosa
+[SPEAKER_05]  maravillosa, le parecía interesantísimo. Sin embargo, como yo había querido siempre estudiar la zootecnia y él tenía fincas, le parecía que era un camino diferente.
+[SPEAKER_05]  Pero lo aceptó muy bien y creo que fue muy acertado, Manuel. Yo miro para atrás y digo, yo he sido muy de buenas en la vida, siempre.
+[SPEAKER_05]  Porque muchas veces no soy yo la que decido, sino que viene por mí la decisión y era la acertada. Y sigo y sigo y sigo, ¿ves? Creo que eso fue un camino chévere.
+[SPEAKER_03]  Muchas gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  No.
+[SPEAKER_05]  Lo veo así realmente.
+[SPEAKER_02]  Ok.
+[SPEAKER_02]  Creo que en la vida nadie planea lo que va a hacer, sino se va encontrando el camino.
+[SPEAKER_02]  Exacto, se ha dado.
+[SPEAKER_05]  No, ya.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_04] 
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Sucede algo de pronto, no solo mira uno después hacia atrás, pero muy bien, muy interesante.
+[SPEAKER_02]  Bien, ahora...
+[SPEAKER_02]  Terminas de estudiar, ya nos contaste los temas, hay algo de los compañeros, de los profesores también.
+[SPEAKER_02]  ¿Algún profesor que tú dices, mi maestro?
+[SPEAKER_05]  digamos, tal vez por la relación que tuve siempre con él, Jaime Garcés.
+[SPEAKER_05]  Jaime Garcés fue un amigo de la vida mío y de la universidad también.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Yo me metí a estudiar con Lederman, el profesor Lederman, no sé si te acuerdas, yo me metí en bioingeniería, pero no era bioingeniería todavía, sino que era un grupo de personas que ayudábamos al profesor Lederman.
+[SPEAKER_05]  en biotecnología. Entonces yo tuve que trabajar desde mi formación en apoyar proyectos de otras ciencias. Entonces empezó a... Por eso desde ahí viene el interés de cómo las ciencias se pueden apoyar de unas a otras. Cómo a un médico o un ingeniero le puede apoyar en descubrir una cosa como la válvula de Hakim.
+[SPEAKER_00]  Un beso amén.
+[SPEAKER_05]  Porque el ingeniero sí que conoce la fuerza por unidad de presión y el otro no, el médico no.
+[SPEAKER_05]  Usted le empezó a hacer una serie de experimentos con el profesor Federici.
+[SPEAKER_05]  y yo trabajé con el profesor Federici. Eso fue algo que para mí me transformó en la vida.
+[SPEAKER_05]  Él quería hacer una visión del hombre, que fue una visión.
+[SPEAKER_05]  como de otro estilo, no tanto espiritual, sino de otro estilo.
+[SPEAKER_04] 
+[SPEAKER_05]  Y ahí yo trabajé con él muy cercanamente.
+[SPEAKER_05]  Y ese fue un cambio grande en mi vida, como hacia el camino.
+[SPEAKER_05]  que hoy tengo de la ciencia.
+[SPEAKER_05]  Yo creo que... Ok.
+[SPEAKER_02]  Ok.
+[SPEAKER_05]  Una pregunta.
+[SPEAKER_02]  Una cosa que coincidimos con Roberto cuando hablamos era que mi generación nos pasó.
+[SPEAKER_02]  Nos encantaban los sistemas, pero no sabíamos para qué servían.
+[SPEAKER_02]  No sabíamos si nos iban a dar trabajo.
+[SPEAKER_02]  Es decir, es una carrera basada en la pasión del tema, ¿sí? Y ya veremos qué suceder en el futuro.
+[SPEAKER_02]  Entonces, cuando uno sale de la universidad, tú sales de la universidad.
+[SPEAKER_02]  seguramente tenías más claro cómo lo tenías o no era tan claro en qué ibas a trabajar porque llegaste a Nazco.
+[SPEAKER_05]  porque llegaste a NACI.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Mira cómo fue, porque fue diferente, ¿no?
+[SPEAKER_05]  Yo salí de la universidad porque me quería ir para Europa. Yo quería viajar.
+[SPEAKER_05]  Y mi papá...
+[SPEAKER_05]  No deja.
+[SPEAKER_05]  Yo era muy buena en quitar clases de matemáticas porque podía evaluar.
+[SPEAKER_05]  ¿Cuál era el vacío que tenía esa persona? Entonces les enseñaba, les decía, usted lo que le falta es aritmética, mi querida, arranque desde ahí. A usted lo que le falta es esto. Entonces yo empecé a dictar clases.
+[SPEAKER_05]  para poderme ir y logré irme para Francia en una beca.
+[SPEAKER_05]  en Francia y me quedé cuatro años en Francia, Manuel, cuatro años de mi vida que valoro muchísimo.
+[SPEAKER_05]  Porque no fueron años de estudio. Yo hice una especialización, un DEA. ¿Te acuerdas? Diploma de Estudio Profundo en Francia.
+[SPEAKER_04]  heavily
+[SPEAKER_05]  de informática de gestión en Dauphine. Sin embargo, eso no es lo que yo considero que fue valioso, sino los cuatro años que me quedé en Francia viviendo sola.
+[SPEAKER_05]  fue una cosa transformadora, donde valía por mí misma, donde cuestioné y reevalué muchas cosas de las cosas que yo pensaba.
+[SPEAKER_05]  ya no tenía control de ningún estilo, sino era yo la que podía controlar mi vida, mi ética, mi moral, todo.
+[SPEAKER_05]  Y todo.
+[SPEAKER_05]  cosa tan interesante, ¿ves? Yo no trabajé ahí mismo, yo me regresé después, a los cuatro años, pero primero trabajé seis meses en colsistemas, decisión equivocada, entré a trabajar con Germán Herrán en ventas, el más amoroso Germán Herrán, pero yo, ingeniera recién graduada, entrada al área comercial, eso es la locura, eso no está bien.
+[SPEAKER_04]  Sí.
+[SPEAKER_04]  Pero yo...
+[SPEAKER_05]  Eso se llega con el tiempo al área comercial, pero no puedes entrar a una carrera que estudias hace cinco años sin saber bien lo que es a trabajar en comercial. Entonces fue equivocado, pero ahí yo a los seis meses ya me fui para Francia y eso quedó como una historia de mi vida.
+[SPEAKER_04]  Está bien.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  no puede ser
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  que me ha servido para orientar muchachos cuando vienen aquí y los entrevisto.
+[SPEAKER_05]  Y yo le dije, ingeniero industrial, busque primero en industrial, ya si no le gusta, mire por otro lado. Pero arrancar en otro lado era equivocado. Eso fue chévere. Cuando regreso a los cuatro años, yo era muy amiga de Harry Coppel y él estaba en el Centro Digital de Sistemas y entré al CICE.
+[SPEAKER_05]  Y ahí estaban todos los uniandinos que te puedas imaginar.
+[SPEAKER_05]  Muchos, mi amigos. ¡Japa!
+[SPEAKER_05]  Bueno, un grupo de gente...
+[SPEAKER_02]  Germán Villarreal.
+[SPEAKER_05]  Pero Germán, Javier, en general, sí.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Hasta después.
+[SPEAKER_05]  Harry es el gerente general y él se creó una cosa que es más el sistema de información urbano, el CIU, y ahí venían un poco como esos de la onda moderna, pues como de...
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  como de marihuana, hay gente de ese estilo, pero chévere, toda chéverísima.
+[SPEAKER_05]  Y en esos proyectos un poco locos. Marisabel Mejía la conocí yo también desde esa época.
+[SPEAKER_05]  Y yo entré a trabajar como System Programmer y trabajé con Harry siete años. Para él fue mi crecimiento profesional del mundo, como estructurarme como empresa y sobre todo entender la ciudad fue muy importante, Manuel. No me arrepiento. Un minuto, siete años trabajando con el distrito en las juntas directivas de la época Germán Duranduzán, un sistema de teleproceso que eran 500 terminales que atendía todo el distrito.
+[SPEAKER_00]  Número...
+[SPEAKER_05]  Un proyecto que calonó Harry, que se llamaba la Comisión Digital de Sistemas, para tratar de que los sistemas de información se hablaran unos con otros. Acuérdate que eso era uno por cada uno por su lado. Entonces fue una época maravillosa de gente muy, muy interesante, y con un gerente general que era Harry, que se manejaba como si eso fuera una empresa privada.
+[SPEAKER_05]  Eso no se saltea uno en gobierno, ¿ves? Entonces fue una experiencia muy bonita y muy enriquecedora por el tema que te digo de ciudad. Yo entendí la ciudad, entendí las problemáticas, porque había que hacerlas. Yo quedé asignada al sistema de tránsito y transporte.
+[SPEAKER_05]  Eso no se dejaban automatizar porque eso era un, pues ellos tenían.
+[SPEAKER_05]  forma de sacar dinero de eso.
+[SPEAKER_05]  Entonces automatizar era un freno y uno tenía que pelear contra esa cultura.
+[SPEAKER_05]  de no dejarse automatizar para seguir manejando temas.
+[SPEAKER_05]  fuera de la ley
+[SPEAKER_04]  Calde.
+[SPEAKER_04]  la ley.
+[SPEAKER_05]  Y ahí después me busqué directora del centro de cómputo y ese centro de cómputo que decía manejaba la red distrital del distrito en un sistema de multiproceso donde lo que importara que el tiempo de respuesta no fuera mayor de siete segundos y lógicamente que no se cayera nunca, ¿no? Entonces era muy interesante, fue siempre como del mundo técnico, buscando el mundo técnico, de ahí salía cómputo técnico, luego salía...
+[SPEAKER_04]  y después no
+[SPEAKER_04]  de que no
+[SPEAKER_04]  Sí.
+[SPEAKER_04]  El mundo...
+[SPEAKER_05]  era como donde más cambié yo, o no cambié, sino conocí una persona que me cambió, fue Herman Ballesteros.
+[SPEAKER_05]  No sé si puedo hablar de eso, si te parece bien. Todo va bien.
+[SPEAKER_02]  Todo va a ser lo tuyo.
+[SPEAKER_05]  Llegué a Computex, yo llegué a trabajar como...
+[SPEAKER_05]  directora de un área de planeación y luego Germán Villarreal vio que yo tenía un perfil técnico y que entendía todo este rollo y me puso de vicepresidente de IT y tú no te imaginas cómo disfruté ese puesto.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Computeca en esa época manejaba el sistema financiero en línea de Conalde, Conave y de Arramas, era una empresa muy grande con mucho tema delicado hacia los clientes, entonces esa área era una área grandísima, éramos como ciento...
+[SPEAKER_00] 
+[SPEAKER_05]  180 personas, una cosa grande.
+[SPEAKER_05]  Y de mucho tema técnico. Y había que hacer que todo eso hacia el cliente tuviera buen servicio. Yo me dediqué a eso de la forma más apasionada.
+[SPEAKER_05]  Me gustaba mucho eso, ¿ves? Y ahí fue cuando Germán Ballesteros, un día me dijo...
+[SPEAKER_05]  Y yo porque me gusté, sería buenísima comercial.
+[SPEAKER_05]  ¿Por qué trabaja tanto en los técnicos? Porque me gusta lo técnico, el comercial para mí tiene un centímetro de profundidad.
+[SPEAKER_05]  Y como a mí me gusta la profundidad, entonces no me gusta eso, pero me quedó sonando. Eso es porque me acuerdo que él me dijo eso.
+[SPEAKER_05]  Entonces ahí seguí trabajando. Si te parece que siga hablando sobre el tema profesional.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Creo que lo que más entendí yo y es lo que fue la base de este negocio que yo hice es que es muy fácil vender, pero la postventa es importante. El servicio que tú le des al cliente después es la confianza y el crecimiento de una compañía. Uno vende, pero responde por lo que vendió con un servicio. Y yo implementé eso que tenía en cuenta. A mí me lo traen todos los días, que es cómo se comportó. Yo tengo una red de política de 120 mil puntos.
+[SPEAKER_00]  Creo que lo que...
+[SPEAKER_05]  Entonces, el estado de esa red al otro día, que yo regreso temprano, es súper importante. ¿Quién tuvo problemas? ¿Qué problemas tuvo? No sé qué. Y eso lo construí yo en Computec, que tenía sistema financiero, tarjeta de crédito, una cantidad de plataformas. Entonces, el estado del servicio del cliente era importante, pero era difícil darlo, porque era con complejidad técnica de para abajo.
+[SPEAKER_05]  Y fue una escuela muy interesante la de los hechos allá.
+[SPEAKER_02]  Para la explicación de los que van a oírte.
+[SPEAKER_02]  En esa época, estos computéicos sistemas, por ejemplo, eran empresas que...
+[SPEAKER_02]  basadas en un gran centro de cómputo, comenzaron a dar servicio.
+[SPEAKER_02]  a quienes no tenían computadores, empresas.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Y a procesarle no solamente el proceso, sino a diseñarle sistemas, lo que tú estás hablando.
+[SPEAKER_04]  Y aprovecharme.
+[SPEAKER_02]  En el caso Computex, ¿no?
+[SPEAKER_02]  Porque el otro lado era con sistemas, ¿no?
+[SPEAKER_03]  Porque no...
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  No.
+[SPEAKER_02]  Y en ambas trabajé.
+[SPEAKER_05]  Y en ambas trabajes. Y en ambas trabajes.
+[SPEAKER_02]  El nombre estaba en este.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Culturas diferentes, dueños diferentes. Eso fue muy interesante porque yo creo que Computex supo reinventarse y no morir en el estado.
+[SPEAKER_04]  Eso fue muy interesante.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Con sistemas fluyentes, ¿ves? Sí, sí, exacto.
+[SPEAKER_02]  sistemas fluyentes.
+[SPEAKER_02]  Sí, sí. Se centró mucho en lo técnico del centro de compu. Yo trabajé con sistemas.
+[SPEAKER_02]  y manejé acueductos de energía dentro del cómputo.
+[SPEAKER_02]  como un no-sourcing de ecosistemas.
+[SPEAKER_04]  Exacto.
+[SPEAKER_02]  Y fue donde esa Victoria, tu amiga y nuestra amiga, trabajó conmigo en ese centro de cómputo.
+[SPEAKER_02]  Te comprendo, perfecto, pero para que sepan los que escuchan, eran empresas que daban este servicio a través de computación.
+[SPEAKER_05]  de computación
+[SPEAKER_02]  competían gemelas.
+[SPEAKER_05]  Yo creo que eran dueños interesantes a ambos, porque si tuve la combinación de los cuatro dueños de Ecolsistemas, cada uno tenía su perfil que aportaba, siendo Javier el centro técnico del tema.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Había...
+[SPEAKER_02]  técnicos.
+[SPEAKER_05]  Sí, es un compu-tick.
+[SPEAKER_05]  con Álvaro Villaveses y todo, de otro estilo era esa empresa, pero más negocio.
+[SPEAKER_05]  Este producto de Data Credito, yo lo vine a hacer, Data Credito hoy es...
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Es la empresa. Ellos vendieron esa empresa y eso era simplemente haber tenido esa idea.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  ¿Se acuerdan?
+[SPEAKER_05]  De captar la historia crediticia de los tarjetavientes y se volvió oro ese producto. Ellos eran más comerciales.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Ok, das un mensaje de integralidad de persona muy interesante, Gloria, porque...
+[SPEAKER_05]  Ok.
+[SPEAKER_02]  A veces se cuadricula mucho el ingeniero del sistema o se autocuadricula, ¿no?
+[SPEAKER_02]  o es un técnico, puro técnico, o se dedica a las ventas, pero creo que esta integración, sobre todo, me parece que nace del proceso de la vida, ¿no?
+[SPEAKER_02]  Sí, yo también creo que sí.
+[SPEAKER_05]  Sí, yo también creo que...
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Hay unas habilidades que yo creo que facilitan el que uno vaya subiendo, que es ir modificando el lenguaje, Manuel.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  El ingeniero de sistemas tiene el problema de que no modifica su lenguaje y quiere imponer su lenguaje complicado a áreas que no lo entienden. Eso no puede ser.
+[SPEAKER_05]  Si uno va progresando en eso y se puede comunicar hacia arriba, pero también hacia abajo, lo que hace hoy un Product Manager, no sé si sabes el Product Manager, es un poquito ese, el que le habla a los desarrolladores en su lenguaje críptico, pero para arriba a la empresa le traduce lo que es y ejecuta para que ellos hagan lo que la empresa quiere.
+[SPEAKER_05]  En esta época, cuando usted lee sobre outsourcing, que era como la moda en esa época.
+[SPEAKER_05]  La outsourcing empieza en las empresas porque están hartos de manejar departamentos de ingeniería de sistemas que se creen.
+[SPEAKER_05]  que hacen lo que ellos quieren y no lo que la empresa requiere. Y siempre era como una pelea complicada. Y viene de un rol equivocado en mi concepto, el ingeniero de sistemas.
+[SPEAKER_05]  Porque el INEOSISMET debería estar primero que todo...
+[SPEAKER_05]  Eso fue una cosa bonita para mí cuando estaba en Computec, me entrevistó alguien para llevarme para celu móvil.
+[SPEAKER_05]  Entonces yo ya tenía claro todo eso que te estoy diciendo y el puesto era tercer nivel y dije no.
+[SPEAKER_05]  Mis queridos amigos a tercer nivel, no.
+[SPEAKER_05]  Si usted era una persona de Cellular One, una compañía multinacional inglesa, americana.
+[SPEAKER_05]  y quien me entrevistó, le dije, venga, le explico por qué.
+[SPEAKER_05]  Si usted quiere que Ingeniería de Sistemas apoye como toca, tiene que estar oyendo el comité directivo, para dónde va la empresa. Pero si usted le pone el financiero encima o el administrativo y ese es el que traduce, jamás va a tener la importancia ni el rol que debe tener.
+[SPEAKER_05]  Entonces él llegó con la información allá y me contrataron ya como vicepresidente directo.
+[SPEAKER_05]  Y él me prometía que me subiera y le dije no, si yo no entro donde es, no puedo, porque es que eso es lo que requiere la ingeniería de sistemas, estar a segundo nivel de una organización, no es un área por debajo de cualquier, es más importante que cualquiera.
+[SPEAKER_05]  Y hoy en día fíjate que eso ya sigue clarísimo.
+[SPEAKER_05]  El de IT tiene un cargo importante y el de IT que más funciona es el que entiende la empresa y la lleva por donde debe ser y no por el camino que le provoca.
+[SPEAKER_05]  que es algo que yo creo que hemos ido madurando los ingenieros de sistemas en esa época, reinados terribles.
+[SPEAKER_02]  Me hace pensar en la arquitectura empresarial, que es un poco jugarle con la misión de la empresa.
+[SPEAKER_02]  Sí, y un comité técnico donde está desde sistemas hasta el gerente general y el presidente, etc.
+[SPEAKER_05]  Siempre hay una pelea entre el área técnica y el área comercial de las empresas. El EIT tiene que estar ahí como árbitro, mirando quién requiere qué.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  ¿Cómo prioriza? ¿Qué viene primero? El comercial, jale una por acá, pero el técnico dice que no puede por esto, por eso. Entonces usted se vuelve como esa persona que los pone a entenderse entre los dos y ayuda a que la prioridad sea la que le conviene a la empresa. Pero si no estás en esa discusión, olvidémonos, no puedes hacer nada.
+[SPEAKER_02]  Pero si no estás...
+[SPEAKER_05]  No.
+[SPEAKER_02]  ¿Qué siguió después de Computec?
+[SPEAKER_05]  Después de Computec me fui para hacer móvil, ahí fue que...
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  hacia el humor
+[SPEAKER_02]  Hacia el humor.
+[SPEAKER_05]  un cambio también muy muy interesante porque
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Y yo me acuerdo que yo llegué y les dije, mire, yo me parece delicioso el puesto, pero quiero que me den a mí.
+[SPEAKER_05]  día o dos días de inducción. Ese es otro tema que yo considero que es importante.
+[SPEAKER_05]  Cuando tú llegas a una empresa, Manuel, y te entregan un cargo de manejar no sé cuántas personas.
+[SPEAKER_05]  Ese cargo te va a comer y nunca vas a entender la empresa donde entraste.
+[SPEAKER_05]  Yo quiero ir al switch.
+[SPEAKER_05]  ¿Ese switch está? Yo no sé dónde el presidente...
+[SPEAKER_05]  el vicepresidente se llamaba Felipe Cucalón, furibundo, que porque yo quería ir a Chile, porque nunca voy a volver.
+[SPEAKER_05]  Y necesito saber lo que es un switch. Yo sé que es un computador, pero no tengo idea que es un switch. Necesito entenderlo.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Y fue muy rico porque con el tiempo él entendió por qué yo quería eso, porque no es fácil decir la frontera hasta dónde llega la vicepresidencia técnica y hasta dónde llega la DIT en una empresa de telecomunicaciones. Es difícil.
+[SPEAKER_04]  rico
+[SPEAKER_05]  Y hay como rollos, como roces, esto es suyo, esto es mío, y para el servicio hay que saber hasta dónde uno llega. Entonces fue un proceso de aprendizaje siempre desde el entendimiento. Ese es de pronto el perfil que yo he tenido toda la vida, Manuel.
+[SPEAKER_05]  No puedo manejar algo si no lo entiendo. Me cuesta un trabajo tremendo. Entonces, en las reuniones, en la empresa, todo el mundo lo ha acostumbrado que hay que entender.
+[SPEAKER_05]  que uno no tiene nada en la cabeza que le diga, no, es que si yo no lo voy a entender. Ese es un mensaje que tiene mucha gente en la cabeza.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Entonces, ha hecho que yo maneje esta compañía desde entender, vendo entendiendo. Entonces, lógicamente vendo con pasión porque entiendo perfectamente lo que explico sin necesidad que me pongan un técnico en la mitad para que yo explique mejor.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Yo considero que esa es la forma que hoy en día la gente quiere comprar.
+[SPEAKER_02]  Y yo me acuerdo.
+[SPEAKER_05]  con personas que te vendan lo que entienden que es bueno.
+[SPEAKER_05]  Y es un tema que en esta compañía se hizo así. Entonces, en la que tengo ahorita indica, pero sigamos en salud móvil. Interesantísimo, era una empresa que tenía un dato genial que era...
+[SPEAKER_03]  Sí.
+[SPEAKER_05]  Éramos 3.000 en esa época, 1.000.
+[SPEAKER_05]  ¿1500 mujeres?
+[SPEAKER_05]  Y en la plana mayor éramos como cuatro.
+[SPEAKER_05]  de mujeres.
+[SPEAKER_04]  Maric.
+[SPEAKER_05]  Marek, es una mejilla de la presidenta.
+[SPEAKER_05]  O sea, era chévere. Sí.
+[SPEAKER_04]  Sí, claro.
+[SPEAKER_05]  Era una empresa, eso pongamos, venían los chilenos y decían, ¿qué es esta empresa? ¿Cómo las mujeres? ¿Qué hacen ustedes con sus maridos? Nos preguntaban.
+[SPEAKER_04]  Aterrados.
+[SPEAKER_05]  Eso no sucede en Latinoamérica.
+[SPEAKER_05]  Yo alguna vez a Connie, no sé si conoces a Connie, porque Connie estaba interesada en saber...
+[SPEAKER_05]  el rol de la mujer en América Latina. Le dije, mira, yo creo que estudia todos los países porque Colombia es diferente.
+[SPEAKER_05]  En Colombia la mujer ha llegado donde ha querido llegar. Jamás una mujer se quedó sin nada, que porque no puede, nada. Uno tiene esa posibilidad y siempre tiene un compañero que entiende ese rol.
+[SPEAKER_04]  mujer chiquero
+[SPEAKER_05]  Y si no lo entiende, lo deja y se va a buscar otro.
+[SPEAKER_05]  Que sí lo entiendo.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Eso es importante porque siempre la mujer se ve frenada por un...
+[SPEAKER_05]  por un tema, digamos, de pareja que no la dejan progresar hasta donde quiere.
+[SPEAKER_05]  Y en Colombia las mujeres hemos llegado muy lejos, yo creo, en los profesionales.
+[SPEAKER_02]  muy lejos.
+[SPEAKER_02]  Para los que te van a escuchar, Cellumóvil era una empresa de celulares, ¿no? De las primeras tecnologías de Cellumóvil.
+[SPEAKER_05]  de las primeras, exactamente fue genial porque esas empresas eran emprendimientos, Manuel, uno trabajaba 15 horas diarias, eso era la locura pero felices todos, eso no había nadie triste
+[SPEAKER_02]  Primero, sí.
+[SPEAKER_04]  Sí, una gran empresa.
+[SPEAKER_05]  Llegaba tempranísimo y salía a las 10 de la noche. Había un inglés que era que conocía el negocio, porque ese es un negocio complejo, ese es complejo ese negocio, es sencillísimo.
+[SPEAKER_05]  Entonces, era el que nos iba como formando la empresa hacia el camino. Nacimos en un momento que éramos iguales que Claro, y mira hoy la ventaja tan brutal que cogió Claro.
+[SPEAKER_02]  Claro, es que ahí se fue desarrollando todo, está claro, desde el móvil.
+[SPEAKER_05]  Sí, de ahí se fue desarrollando.
+[SPEAKER_02]  Ellos fueron clientes míos en Compusilina, el antivirus. ¿Sí?
+[SPEAKER_02]  En esa época, sí, claro, en esa época, acá los conocemos.
+[SPEAKER_02]  porque eran de los líderes, de empresas líderes en el momento.
+[SPEAKER_04]  Claro, claro. Y lo que hice.
+[SPEAKER_02]  Y lo que dices, de ahí nació toda una cadena hasta...
+[SPEAKER_02]  Llegará claro, digamos, en este momento.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Digamos al tiempo ya se cumplía con Tracomcel.
+[SPEAKER_02]  Bueno.
+[SPEAKER_05]  Y las estrategias de mercadeo era quién le ganaba a quién.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  El de ganado aquí. Telefónica, digamos el móvil tenía los clientes que tenían un arco más grande que el airtime per user.
+[SPEAKER_04]  Él le ganaba a quién.
+[SPEAKER_05]  Usaban mucho el teléfono, entonces él decía tenemos la crema de la crema, así que claro tenga más gente no nos importa.
+[SPEAKER_05]  Pero eso se fue con el tiempo cambiando y hoy en día, claro, es casi que...
+[SPEAKER_05]  Mejor yo soy la de Watto. Un día.
+[SPEAKER_02]  un día
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  ¿No?
+[SPEAKER_05]  Gracias.
+[SPEAKER_02]  No, aquí, aquí.
+[SPEAKER_05] 
+[SPEAKER_02]  Bueno, muy bien. Sigamos entonces.
+[SPEAKER_02]  que siguió después en el trabajo.
+[SPEAKER_02]  Siempre con este rol de ingeniera de sistemas.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  con este producto ingeniera
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Sí, pero ahí fui vicepresidente de tecnología de información, que fue muy interesante, porque imagínate lo que era en esa, era grandísimo eso.
+[SPEAKER_05]  Entonces era ser esa persona que entendía la problemática que requería la empresa. Yo tenía a EDS, I-10, la famosa I-10, todo el sistema de información, el billing system era de EDS.
+[SPEAKER_05]  Entonces había una interfase entre EDS y lo que yo manejaba para hacer los desarrollos de la compañía.
+[SPEAKER_01]  Mía.
+[SPEAKER_05]  Entonces yo empiezo a conocer semejante metodología que tenía EDS, Emanuel, eso era una belleza.
+[SPEAKER_05]  porque eso no tenía una cantidad, tenía el requerimiento, el requerimiento había que desarrollarlo, luego lo firmaba no sé quién, luego me llegaba a mí para que yo lo leyera y decía, sí, autorizo y se fue.
+[SPEAKER_06]  No teníamos la oportunidad.
+[SPEAKER_05]  cosas muy organizadas que me hicieron como entender un mundo.
+[SPEAKER_05]  que era el de ser como, digamos, vender software en forma muy sofisticada y muy controlada.
+[SPEAKER_05]  Un error en un sistema de facturación es un error que puede ser tremendo.
+[SPEAKER_05]  Tremendo. Entonces, era importante que fuera así. Eso me dio una formación. Primero el manejo de gente yo creo que ayuda, ¿sabes, Manuel?
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Tremendo.
+[SPEAKER_03]  Permíteme.
+[SPEAKER_05]  Cuando yo miro para atrás, yo siento que construí un mundo.
+[SPEAKER_05]  Comercial después.
+[SPEAKER_05]  de gente que me...
+[SPEAKER_05]  Me respetaba profesionalmente, con la cual nunca peleé, que creo que es importante, porque hay gente que pelea con todo el mundo, esas son cosas que no se pueden perder en la vida, ¿no?
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Toda pequeña pelea que uno deja es una puerta que cerró en la vida más a tarde, porque tú no sabes con quién te vas a encontrar.
+[SPEAKER_05]  Estando en celu móvil empiezan a salir las redes inalámbricas. Esas redes se llamaban CDPD.
+[SPEAKER_05]  Entonces, yo como vicepresidente de IT...
+[SPEAKER_05]  Esas eran redes de datos. Los ingenieros de telefónica, de teléfono móvil, no tenían ni idea que eran IT, CP, IT, porque ellos eran ingenieros de telefonía. Entonces, yo fui como vicepresidenta de IT con el comercial y con una persona del área técnica a ver un negocio.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  de
+[SPEAKER_05]  de datos sobre las redes celulares, que es lo que hoy en día es nuestro negocio.
+[SPEAKER_05]  Y ahí...
+[SPEAKER_05]  El rol mío fue más importante porque yo entendía todo eso, entendía las redes, entendía las aplicaciones que podía ir por encima, entendía la infraestructura. Entonces fue muy rico, fue como un trabajo con la área técnica, pero desde IT.
+[SPEAKER_05]  Y ahí, en ese momento...
+[SPEAKER_05]  Una persona que había arrancado una compañía en Ecuador con visión de hacer en cada país latinoamericano una compañía me invitó a ser su socio.
+[SPEAKER_05]  Yo entré de socia de él para armar Colombia.
+[SPEAKER_05]  Fuimos en un momento a siete compañías a nivel latinoamericano, cada una en un país. Yo arranqué México y arranqué otras compañías para que funcionaran.
+[SPEAKER_05]  Hoy en día la única que queda es BISMA.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Es tu empresa.
+[SPEAKER_05]  Esta es la mía. ¿Esta es tu empresa? Sí, para las demás. ¿En qué hay?
+[SPEAKER_02]  Es tu empresa.
+[SPEAKER_02]  ¿En qué año? Hablemos un poquito de los años.
+[SPEAKER_05]  Hace 27 años.
+[SPEAKER_02]  ¿Selumovic qué año era? 19...
+[SPEAKER_05]  1997 es esto
+[SPEAKER_02]  Ya, claro.
+[SPEAKER_05]  La primera red inalámbrica nacieron en esta época, ¿ves? Entonces fue interesantísimo porque era un mundo de, lea todo lo que se puede hacer en redes inalámbricas. Nosotros íbamos a los bancos, yo iba con Ignacio Londoño, que tú lo...
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Sí.
+[SPEAKER_02]  Sí, maravillosa persona.
+[SPEAKER_05]  Ignacio siempre ha sido como mi compañero de trabajo
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Y era enseñarles que las redes inalámbricas eran seguras y nos tocaba ir a las áreas de seguridad y mostrar que eran encriptadas, todo eso. Era un producto que no se conocía que fuimos posicionando a través de los años. Hoy en día esas redes son...
+[SPEAKER_04]  todo eso
+[SPEAKER_05]  mejor dicho, todas las aplicaciones se montan sobre esas redes. El IoT, el internet de las cosas, que es lo que nosotros hacemos en esta plataforma, pues está montado sobre eso. Entonces fue un negocio que yo concebí en el año 1997 que hoy es muy válido.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  El IoT.
+[SPEAKER_04]  Sí.
+[SPEAKER_04]  Sí.
+[SPEAKER_05]  Porque hay veces los negocios van cambiando y ya lo tuyo se vuelve desactualizado y lo perdiste.
+[SPEAKER_05]  que está basado...
+[SPEAKER_03] 
+[SPEAKER_05]  en
+[SPEAKER_05]  Activar puntos en la red, vendiendo soluciones inalámbricas, conectando cosas inalámbricas de muchos sectores, sector de seguimiento vehicular, sector de alarmas, sector financiero, sector energético, el tema del código de medida, el tema del smart grid, de la red eléctrica. Bueno, muchas cosas que tú tienes que llegar, estudiar y entender para ir a vender.
+[SPEAKER_05]  Entonces es muy rico, muy agradable.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Esa empresa que se creó en 1997 tiene hoy 27 años.
+[SPEAKER_04]  Siempre es así, te termino.
+[SPEAKER_04]  7
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Claro, imagínate. ¿Deven? Claro. ¿Señor?
+[SPEAKER_05]  Gracias.
+[SPEAKER_02]  Y el Internet comenzó a, digamos, el correo electrónico comenzó a verse en Colombia como en el 99, 98.
+[SPEAKER_02]  ¿Cierto? El correo electrónico para tener como una...
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Línea de tiempo.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Digamos que en este momento lo que sonaba interesante era, yo venía del sector financiero por trabajar en Computec, entendía perfectamente el sector financiero.
+[SPEAKER_02]  Vamos a querer este mojito.
+[SPEAKER_05]  Técnicamente tú al sector financiero no le puedes vender si no lo entiendes bien.
+[SPEAKER_05]  Porque sí.
+[SPEAKER_05]  No, no puedes vender. Entonces yo empecé con esto y iba vendiendo. Entonces conectamos los primeros cajeros automáticos inalámbricos que tienen un concepto comercial muy interesante. Probar un cajero en un punto implicaba hacer un enlace de fibra con instalación de dos meses y a los tres meses se dan cuenta que el punto no era bueno, que era inalámbrico. Le pongábamos un equipo, lo probaba y decía, si me sirvió, bueno, déjelo, no me sirvió, quítelo, que a mí no lo llevamos para otro lugar. Había ese concepto de móvil e inalámbrico.
+[SPEAKER_05]  Eso fue exitosísimo. Entonces, la red nuestra de cajeros automáticos fue enorme.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Luego los datáfonos inalámbricos, el tema también lo mismo.
+[SPEAKER_05]  los los los que hay otra aplicación de esta definición el backup
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Hoy somos backup de muchos sitios inalámbricos a enlaces de fibra. En caso que se cae la fibra, entra el inalámbrico y nuestro inalámbrico lo manejamos con el...
+[SPEAKER_05]  con el cliente en muchas formas. Es un tema muy interesante.
+[SPEAKER_02]  Bueno, no, súper bien lo que, ¿cómo vamos? Vamos divinamente porque esto es un modelo de vida.
+[SPEAKER_02]  Tal vez yo insisto mucho en el hecho para los jóvenes.
+[SPEAKER_02]  que es normal no saber para dónde se va, ¿no? En los primeros años.
+[SPEAKER_02]  pero la vida va mostrando un camino.
+[SPEAKER_02]  En el caso tuyo, fíjate cómo nos ha mostrado ese desarrollo.
+[SPEAKER_02]  que al final de cuentas es la explotación de sí misma, de tu interior, de tus intereses.
+[SPEAKER_05]  Gracias.
+[SPEAKER_02]  etcétera.
+[SPEAKER_05]  sin que uno sepa que tiene esas habilidades, Manuel.
+[SPEAKER_05]  De pronto tal vez el primer campanazo que a mí me sonó fue cuando a mí me dijo mi Germán Ballesteros eso y yo me salgo a volverme comercial de un día para otro.
+[SPEAKER_02]  tal vez
+[SPEAKER_05]  Cuando tú eres vicepresidente de una celular, entonces tú llamas y pides una cita y te la dan ahí mismo, ¿no?
+[SPEAKER_05]  Hay un mundo que se te abre por el cargo que tienes.
+[SPEAKER_05]  Yo cambio a ser...
+[SPEAKER_00] 
+[SPEAKER_05]  presidenta de nadie, yo sola en una oficina chiquitica arranqué este negocio y tenía que empezar a vender
+[SPEAKER_05]  Entonces fue impresionante, dije yo quiero seguir siendo la misma siempre. Eso fue un tema que me propuse.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Porque siempre encontré gente que se le sube el cargo a la cabeza. Me imagino que tú también.
+[SPEAKER_04]  Sí.
+[SPEAKER_05]  y después
+[SPEAKER_04]  Lo he visto, lo he visto muchísimo.
+[SPEAKER_05]  Yo siempre lo rechacé como algo, ojalá que a mí eso no me pase nunca. Si tú lo manejas pensando, no te pasa nunca. Yo lograba que presidentes de compañías que la primera reunión me dejaban esperando, la segunda.
+[SPEAKER_05]  que por qué me habían dejado aquí, no, tranquilo, no se preocupe, mientras lo esperaba usted.
+[SPEAKER_05]  Alcancé a trabajar otros temas que tenía por ahí.
+[SPEAKER_05]  embolatado, esto es ahora que fue corto, no se preocupe.
+[SPEAKER_05]  Ya había quedado claro que me había dejado una hora metida.
+[SPEAKER_03]  No, no, no.
+[SPEAKER_05]  Entonces eso se va construyendo.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Algo que me parecía importante comercialmente, Manuel, era primero que todo yo vendo con pasión, porque adoro lo que hago.
+[SPEAKER_05]  Y eso se nota.
+[SPEAKER_05]  Desde que hablo se nota fuertemente y eso le gusta a la gente.
+[SPEAKER_05]  Pero respetar el tiempo atlético.
+[SPEAKER_05]  Yo le pedí a la presidente, declaró una cita, me puso cinco vicepresidentes, le dije yo necesito solo 30 minutos, no necesito más. No va a perder un solo minuto que me...
+[SPEAKER_05]  recibe usted algo que vamos a tener es 30 yenes
+[SPEAKER_05]  Se para usted y se va, y no empieza a alargar la reunión porque sí que no sé qué. Y eso da un efecto que tú eres efectivo, que respetas el tiempo, que lo que dices vale la pena oírlo, cosas que ayudan.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03] 
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  a que sigas como que creciendo, yo creo que eso es importante.
+[SPEAKER_05]  En tu imagen, digamos.
+[SPEAKER_02]  Muy bien, muy bien. Nos han mostrado la pasión perfectamente en esta charla, ¿no? Estamos convencidos de tanto.
+[SPEAKER_05]  porque lo siento, hablo así y a eso le gusta la música
+[SPEAKER_02]  Excelente, sí, maravilloso Gloria.
+[SPEAKER_02]  Bueno, y como para ir a la línea final.
+[SPEAKER_02]  hay una línea de transformación de la sociedad por la tecnología bastante importante.
+[SPEAKER_04]  lo que
+[SPEAKER_02]  Lo que nosotros vivimos, a lo que hoy que yo siempre digo, la tecnología ya no es de nosotros, es de la sociedad.
+[SPEAKER_02]  Es del ciudadano, es del taxista, es del vendedor ambulante, es del sacerdote, es del médico, etc. Y ha habido una enorme transformación.
+[SPEAKER_02]  ¿Qué podrías decir tú sobre eso, un poquito, de esa evolución, de esa transformación?
+[SPEAKER_05]  Bueno, digamos que una cosa que siento que ha sido como muy valiosa es sentir...
+[SPEAKER_05]  que dada la carrera que estudiamos, todos los ingenieros de sistemas no nos hemos quedado en nada.
+[SPEAKER_05]  Nos hemos ido moviendo en la tecnología, acogiendo la tecnología, utilizando la tecnología y estando en la tecnología.
+[SPEAKER_05]  probablemente por nuestra edad y nuestra filosofía de vida.
+[SPEAKER_05]  Tratando de que no, la tecnología no nos tome a nosotros. Eso sí, yo lo tengo como claro.
+[SPEAKER_05]  Yo necesito ir a mi casa, no permito teléfonos al almuerzo y sigo peleando. ¿Pueden verlo?
+[SPEAKER_05]  sigo creyendo, sigo creyendo hacerlo, entonces trato de que la tecnología no me impada.
+[SPEAKER_04]  Sí, estoy seguro.
+[SPEAKER_05]  pero estoy completamente dentro de la tecnología porque es que yo vendo tecnología. Y mirándola, digamos, de una forma positiva y no como invasiva. No sé si has leído ese filósofo coreano Byung-Sul Han. Sí, mucho.
+[SPEAKER_02]  Sí, muchísimo. Tengo todos los dedos aquí enfrente.
+[SPEAKER_05]  Y me gusta extraer cosas de las que él dice, hemos olvidado de la contemplación, pero uno no se puede poner solamente de ese lado y olvidarse que la tecnología llegó para quedarse y hay que seguir detrás de ella.
+[SPEAKER_05]  Como vemos esto, lo que va a pasar con ChatGPT, esto es una transformación más grande que Internet, en mi concepto. Es brutal. Y hay que estar, hay que estar, Manuelito, hay que estar. Hay que estar ahí, claro. Claro, entonces siento que yo puedo entender.
+[SPEAKER_04]  ¿Qué está?
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  que
+[SPEAKER_05]  que puede acabar con las, digamos, yo tengo hijo millennial, eso es importante. Tal vez eso es lo que más feedback me ha dado y más me ha hecho pensar cosas.
+[SPEAKER_03]  Tal vez es eso.
+[SPEAKER_05]  positivas y negativas de ese manejo tan complicado que debe ser un hijo Millennial para un papá o mamá que no entienda en el mundo en el que el chino está, esos multiproceptos, bueno, todo lo que tú quieras. Sin embargo, me ha parecido que él ve en mí una persona que ha sabido.
+[SPEAKER_05]  colocarse, montarse sobre la onda de la tecnología sin criticarla, sino...
+[SPEAKER_05]  Ir aprendiendo y estando ahí, porque es que esto va por ahí. Entonces, uno no está desactualizado para nadie. Es más, la gente cuenta con nosotros en todo. Yo lo siento, me llaman para una cosa, me llaman para la otra, porque ven que yo...
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  aprecio la tecnología y es así, yo no estoy criticando.
+[SPEAKER_05]  O sea, si no se pone a mirar.
+[SPEAKER_05]  que hay es todo es que el autoestudio manuel hoy el día el autoestudio
+[SPEAKER_05]  Es importante, de las plataformas que hay.
+[SPEAKER_03]  Permanente. Si tú quieras.
+[SPEAKER_05]  eso no tiene límite uno quiere actualizarse yo vendo en esta compañía es una conferencia que le dieron a la CEO de IBM
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  ¡SARC!
+[SPEAKER_05]  que después de muchos años transformó a IBM y le preguntan, ¿qué busca usted en la gente? No busco nada, no quiero títulos de doctorado de nada, solo quiero que esa persona quiera y tenga capacidad de aprender. Y eso es lo que vale la gente, Manuel, eso es lo que vale.
+[SPEAKER_05]  Tú ves hojas de vida donde la persona no ha tomado un solo curso.
+[SPEAKER_05]  Y no tiene ese deseo de aprender. Cualquiera que quiera aprender te hace el cargo que sea.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Es valioso. Hay ahí un tema importante también, digamos el...
+[SPEAKER_05]  el acceso a la información, Manuel.
+[SPEAKER_05]  Uy.
+[SPEAKER_05]  ¡Don!
+[SPEAKER_05]  Tenemos acceso a lo que queramos. Se digitaliza todo. Todo está como en nuestras manos para tener acceso a ello. Hay que verlo positivo y no verlo como invasión, porque la invasión uno la controla si quiere controlarla. Pero decir no la tengo para controlarla es un camino chino.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Pero es...
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Sí.
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Estaba viendo la tecnología y decir yo creo que el teléfono hay que reducirlo. En los niños chiquitos, yo tengo nieta de cuatro años y tengo nieta de trece que es TikTok todo el santo día. Yo trato de explicarle.
+[SPEAKER_05]  esa educación que recibimos nosotros. Entonces, un ejemplito bobo.
+[SPEAKER_05]  Un libro como el Busque de la Tiempo Perdido no se lo lee un muchacho de hoy, Manuel.
+[SPEAKER_05]  No, no, no.
+[SPEAKER_04]  No, no, no. Olvídate.
+[SPEAKER_05]  Olvídate. Ellos se cerraron unas puertas de la sensibilidad que tenemos nosotros porque se los tomó la tecnología y la rapidez. El cerebro de ellos, eso es un tema cerebral, eso no es ni siquiera consciente.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04] 
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Sí.
+[SPEAKER_05]  El cerebro de ellos necesita esa velocidad. Ta, ta, ta. Yo lo probé con películas de mis hijas. Mi nieta es una que se llamaba Poliana, que yo la adoraba. Se me fue parando una, una detrás de otra, tita, tita, y se fue. Me quedé con una nieta.
+[SPEAKER_04]  Sí.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Bolívar.
+[SPEAKER_04]  Fue para...
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Porque no son capaces de ver esas cosas ya.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  que no son
+[SPEAKER_05]  Entonces, si han cambiado, nosotros tenemos la posibilidad de mantenerlos actualizados, frenando que nos invada la tecnológica, pero qué rico estar en todo. Es mi forma de pensar.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Sí, muy bien. No dejársela ganar por la tecnología.
+[SPEAKER_02]  No al menos es clave de la tecnología, pero comprenderla.
+[SPEAKER_03]  para entenderla
+[SPEAKER_02]  Bueno.
+[SPEAKER_02]  En esta fase quisiera ver si Edgar y Sandra tienen alguna pregunta.
+[SPEAKER_02]  Para Gloria.
+[SPEAKER_02]  para continuar, digamos, ir como cerrando. Adelante, Sandra.
+[SPEAKER_06]  Gloria, muchas gracias por la presentación, por ese recuento tan...
+[SPEAKER_06]  tan concreto, tan específico de ese desarrollo de la tecnología, la infraestructura, el comercio de...
+[SPEAKER_06]  de tecnología en Colombia.
+[SPEAKER_06]  Ehm...
+[SPEAKER_06]  ¿Cómo es el futuro para las mujeres ingenieras?
+[SPEAKER_06]  en tecnología en nuestro país.
+[SPEAKER_05]  Sandra, fíjate que yo, ahí como volviendo al tema de mujeres o no mujeres.
+[SPEAKER_05]  Yo siento que no hay diferencia. Esa es una carrera que es para hombres y mujeres, ¿no?
+[SPEAKER_05]  De pronto hay otras que tienen más.
+[SPEAKER_05]  están cargadas más a un lado, pongamos la ingeniería civil, pero la ingeniería de sistemas yo no veo diferencias entre hombres y mujeres.
+[SPEAKER_05]  Es así, te lo digo, no veo diferencia ninguna. Es decir, aquí un programador es hombre o mujer y da lo mismo si esa persona a sí misma se ve con esa seguridad.
+[SPEAKER_03]  ¡Gracias!
+[SPEAKER_05]  ¿Qué siento yo un poquito con las mujeres? Que sí tienes tu razón en ciertas cositas son más conflictivas, pero si tienen de frente a una mujer fuerte como soy yo, perdón que diga eso, digo eso porque a mí no me pueden llorar.
+[SPEAKER_05]  Iniciativa.
+[SPEAKER_05]  Y llorar, no.
+[SPEAKER_05]  No vamos a llorar, quiero que me explique qué es lo que le pasa. Uno tiene que también ver qué pasa con la mujer.
+[SPEAKER_05]  La mujer está viendo, se hace como películas, películas de cosas que cree que están pasando. Y esas películas se pueden convertir en chismes. Yo trato de regular todo eso para que, esto es una empresa de 50 personas, Sandra, esas cosas son dañinas. Si tú dejas que vuelen así. Entonces yo las acabo muy fácilmente.
+[SPEAKER_05]  con estrategias que tengo, que eso no sea grande, digamos. Pero yo siento que para las mujeres como para los hombres. Hay una cosa que quería comentar rápidamente.
+[SPEAKER_05]  que a mí me tocó hablar con Tiberio de la preocupación, porque es que resulta que yo recibí ingenieros desarrolladores de 18 años que habían acabado solo bachillerato.
+[SPEAKER_05]  Entonces me puse a hacer un estudio de la mano de Carlos Enrique Moreno.
+[SPEAKER_05]  que yo no sé si lo conoce, pero es una persona muy conocida.
+[SPEAKER_05]  en el mundo empresarial.
+[SPEAKER_05]  Y él quería saber si un...
+[SPEAKER_05]  muchacho podía aprender a desarrollar sin tener ninguna información ni ingeniero ni yo le digo en eso se me hace genial esta investigación y la hicimos completa pues si se puede
+[SPEAKER_05]  No, toda esa estructura tan maravillosa que les dije que había que tener, eso ya no hay que tener, CISO, el futuro es ser desarrollador. Este muchacho tenía 18 años.
+[SPEAKER_05]  Y trabajó en Bismarck y era impresionante.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Porque si él quería hacer el algoritmo para calcular la ruta óptima con una fórmula sofisticadísima, tenía un módulo que le decía ruta óptima, cálculelo. Pero él tenía la lógica de hacer cualquier cosa. Entonces los desarrolladores pueden y las mujeres y hombres encontrar una oportunidad muy grande en desarrollo de ingeniería de sistemas. Es una carrera muy valorada, muy peleada. A uno le quitan los ingenieros de acá para allá. Es complicadísimo mantenerlos como contentos, pero es una carrera de muchísimo futuro para miles de personas. El ministerio ha formado mucha gente.
+[SPEAKER_05]  en
+[SPEAKER_05]  dirigidos por una persona de la Universidad de Los Andes que se llama Jorge Villalobos.
+[SPEAKER_05]  Una persona muy sólida.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  mi amigo
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Está en la lista, está en la lista para las entrevistas.
+[SPEAKER_05]  Yo hablé con él porque yo llegué a él y le dije, bueno, explíqueme qué es esa arquitectura que usted está enseñando. Interesante. Él asesoró al ministerio en hacer toda esa ruta de capacitación que tiene muchas rutas y, digamos, caminos para formar a todas estas personas. Lo mismo que Claudia López en el ministerio, formando gente para hacer desarrollar. Y el mismo Sena. Con el Sena hablé para tratar de traer inteligencia artificial que venía de una compañía en Argentina. Marisabel me hizo esa puerta.
+[SPEAKER_05]  para poder llevar
+[SPEAKER_05]  a que el Sena recibiera eso. No pudo, porque el Estado no puede recibir regalado. Hágame el favor, eso fue increíble. Como con muy tristeza se acabó el proyecto en que no hicimos nada en esa ruta, específicamente porque la gente no tenía...
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Ajá.
+[SPEAKER_04]  Como
+[SPEAKER_05]  forma de recibir eso y tampoco había las pilas de decir que rico aprender esto hay que combinar dos cosas entonces si creo
+[SPEAKER_05]  Sí creo que esto es una oportunidad para hombres y mujeres, la higiene y los sistemas.
+[SPEAKER_06]  Y en el caso de tus nietas, que tú hablaste de tus nietas.
+[SPEAKER_06]  Les mostraste el ejemplo sobre qué nos gustaba antes a nosotros, qué les gusta a ellos ahora.
+[SPEAKER_06]  para incentivar esa motivación hacia el buen uso de la tecnología.
+[SPEAKER_04]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Estrategias susasí.
+[SPEAKER_05]  cuáles son las estrategias de contrarrestar esos estar con los niños.
+[SPEAKER_05]  Tú no puedes apagarles una TikTok cuando no les dices algo por otro lado.
+[SPEAKER_05]  Yo cuando vi lo de mi nieta, sobre todo es la que más cercana a mí es, absolutamente tomada por esto, hablé con su papá.
+[SPEAKER_05]  Y le dije, mira lo que veo, esto acá. Si tú no le das tiempo a Julieta...
+[SPEAKER_05]  Julieta va a ser más metida entre esto y deja de disfrutar.
+[SPEAKER_05]  de otras actividades que los niños necesitan también, pero tienes que darte tu tiempo para que el niño...
+[SPEAKER_05]  Deje eso por lo que tú le cambias. Eso es una cosa así. Eso no es cambiando lo de que apague la televisión solo una hora diaria, no, es mostrándole todo lo que hay. Y es difícil porque es llevarla a la lectura, es llevarla a la conversación, es llevarla a juegos diferentes que la distraigan en lugar de un TikTok. Pero también es bueno que hagan el TikTok, eso les da habilidades.
+[SPEAKER_05]  En un evento que se llama el World Innovation Forum de Nueva York, conocí a la escritora de un libro.
+[SPEAKER_05]  que dijo
+[SPEAKER_05]  que la tecnología desarrollaba habilidades cerebrales en las personas muchísimas, importantísimas para ciertas cosas. Yo me fui allá y le dije, por favor, explíqueme cuáles. Porque mi hijo...
+[SPEAKER_05]  Yo veo lo único que veo es la destreza del dedo, pero si usted me dice que hay algo más, la quiero oír. Y me dijo, impresionante, yo oí ese hijo mío, tú no te imaginas lo que es.
+[SPEAKER_05]  Es una flecha, es impresionante. El arma, desarma, es rápido, es así, es un emprendedor, es una, ¿cómo se llama? Una...
+[SPEAKER_05]  Influencer, tiene 600 mil seguidores, mucho desarrollado por esa cantidad de juegos que él jugaba. Lo desarrolló, entonces yo no había visto eso.
+[SPEAKER_05]  Eso también hay que verlo.
+[SPEAKER_05]  No toda la negotidia, eso es un desarrollo que el niño hace que tú no se lo puedes respasar y hay que verlo positivo.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_02]  Tú sabes que Sandra está en la lista para mujer del año en este tema.
+[SPEAKER_02]  Ciencia, tecnología, ingeniería y matemáticas, sí, cómo no.
+[SPEAKER_02]  en el tema de robótica para niños, ¿no?
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Sí, nosotros...
+[SPEAKER_06]  Y no se auto-segurice.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  ¡Gracias!
+[SPEAKER_02]  Y nosotros en Unimio Nostra tenemos...
+[SPEAKER_06]  y nosotros en un nivel
+[SPEAKER_04]  Gracias.
+[SPEAKER_06]  tenemos... ...en la educación en ciencia, tecnología y en matemáticas.
+[SPEAKER_06]  desde ese enfoque integrador, ese enfoque que tal vez tú mencionabas al comienzo de la entrevista.
+[SPEAKER_06]  donde tuvimos la oportunidad de formarnos muy fuertemente en las...
+[SPEAKER_06]  Ciencias exactas y naturales.
+[SPEAKER_06]  incluida la ingeniería química, pero al tiempo en ver cómo podemos integrar esos conocimientos para soluciones también a problemas sociales, humanísticos y desde el punto de vista también.
+[SPEAKER_06]  de la RTI.
+[SPEAKER_06]  y el lenguaje, entonces, sí, la idea es...
+[SPEAKER_05]  la idea
+[SPEAKER_05]  Esta señora encontró...
+[SPEAKER_05]  que esos muchachos que habían sido buenos en juegos, si tú les ponías un objetivo que tenía algún impacto importante, eran muchísimo mejores que cualquier otro.
+[SPEAKER_05]  Porque tenían esa velocidad que les había dado su formación en juegos, ¿ves? Pero era orientarlos a algo que fuera productivo y no solo al marco.
+[SPEAKER_00]  Porque...
+[SPEAKER_05]  al proceso
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Sí.
+[SPEAKER_02]  Ese tema, en el parque científico tenemos 35.000 niños.
+[SPEAKER_02]  en robótica para niños y 300 colegios.
+[SPEAKER_02]  Y lo bonito es que los niños que nos hemos entrevistado...
+[SPEAKER_02]  ¿No hablan del robot?
+[SPEAKER_02]  Hablan de la vida alrededor de.
+[SPEAKER_02]  Es decir, cómo esa experiencia les ha transformado su vida. Dice un niño de 10 años diciendo, me ha cambiado la vida. Sí, un niño de 10 años. Pero yo creo que este tema también es importante. Has hablado de unos hitos sumamente interesantes.
+[SPEAKER_02]  en todo el tema. Y Sandra, pues es, como te digo, está candidata para este año con Mujeres TEMP.
+[SPEAKER_04]  Hasta mañana.
+[SPEAKER_02]  Ella está en eso.
+[SPEAKER_02]  Por eso el tema de los niños y los nietos.
+[SPEAKER_02]  tenía su razón de ser.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  No sé si, Edgar, estás presente.
+[SPEAKER_02]  Ah, mire, Edgar, ¿cómo estás? Edgar es otra gran persona, presidente de así decir.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  ¿Y alguna pregunta para Gloria? Sí, pues...
+[SPEAKER_00]  Sí, pues...
+[SPEAKER_00]  Pues muy agradecido por la historia, Gloria nos ilustró mucho de...
+[SPEAKER_00]  épocas anteriores, pero además de...
+[SPEAKER_00]  con proyección futura y eso me llama mucho la atención.
+[SPEAKER_00]  Yo quisiera preguntarte, en este momento precisamente hablaste de la formación.
+[SPEAKER_00]  que ha promovido el Ministerio de Tecnologías.
+[SPEAKER_00]  el SENA y otras instituciones.
+[SPEAKER_00]  Entre otras, hoy hablamos de...
+[SPEAKER_00]  plataformas tecnológicas como Platzi, donde se forman algunos programadores.
+[SPEAKER_00]  y pues que de alguna manera contribuye a la industria.
+[SPEAKER_00]  ¿Cómo consideras tú o cómo ves?
+[SPEAKER_00]  estas formaciones que no son, digamos, institucionales, sino más, de pronto, más autónomas.
+[SPEAKER_00]  que es...
+[SPEAKER_00]  Son acogidas por la industria, pero ¿cuál debería ser la proyección de estas personas una vez…?
+[SPEAKER_00]  llegadas a la industria.
+[SPEAKER_00]  ¿Se les proponía alguna perspectiva?
+[SPEAKER_00]  ¿Qué propones de la visión de estas formaciones que se vienen dando en este momento?
+[SPEAKER_05]  Sí, mira, me gusta la pregunta muchísimo porque te digo que yo tenía muchas dudas de...
+[SPEAKER_05]  de si toda esa formación no hacía falta.
+[SPEAKER_05]  para tener mucho más visión y resulta que lo único que estás haciendo es dándole la oportunidad a personas que no tienen.
+[SPEAKER_05]  la forma de pagarse una carrera y abrirle un campo profesional.
+[SPEAKER_05]  Y muchos han resultado muy buenos. Entonces, ¿cómo lo hacen? Con estas plataformas, con los sacatones, con todo eso. Yo tuve esos muchachos acá trabajando y te digo que era impresionante. Completamente centrados así. ¿Qué sentí un poquito yo? Que son personas que, como pasa en Estados Unidos, que si empiezas a empacar cajas y eso te produce mil dólares, te compras el carro y el apartamento y no hiciste más.
+[SPEAKER_05]  Ese es el tema que yo veo triste, ¿ves? Porque sobre todo este muchacho se llama Nicolás. Dije, Nico, ¿en qué estás tú ahorita?
+[SPEAKER_05]  Se dedicó, gana 25 millones de pesos mensuales, un chico que tiene 22 años.
+[SPEAKER_05]  No acá, yo ya, él salió de acá porque se lo llevaron para no sé dónde.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  No.
+[SPEAKER_05]  ya no sigue estudiando, no progresa más.
+[SPEAKER_05]  Esa es la parte que yo siento, le resolvieron su tema económico.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  con esta cuestión, pero su proyección de personas hacia adelante se quedó estancada porque ya resolvió el tema económico.
+[SPEAKER_05]  Entonces es cierto que se trunca la información.
+[SPEAKER_05]  Pero...
+[SPEAKER_05]  De todas maneras, viéndolo como positivo, creo que le habilitaste a esa persona a tener una posibilidad de trabajo.
+[SPEAKER_05]  Y eso es lo que vale acá.
+[SPEAKER_05]  Y eso lo está haciendo el ministerio de una forma yo creo que bastante exitosa.
+[SPEAKER_05]  Han logrado que empresas como Bancolombia, en lugar de decir, busco ingeniero de sistemas, ¿qué? Dicen, busco persona experta en Python. Y eso es lo que busca. Y se le presenta a un señor y no le importa la hoja de vida. Haber logrado esos cambios ha sido un trabajo muy grande para que eso se dé.
+[SPEAKER_05]  Porque si uno las capacita y no hay empresa que las contrate, no existe nada.
+[SPEAKER_05]  Y entonces cuando tú eres de la formación que tengo yo, Manuel, que somos de ese estilo, yo ahorita recibí una persona, ustedes no saben la emoción que yo siento, es un muchacho.
+[SPEAKER_05]  que estudió matemáticas puras en la Universidad Nacional.
+[SPEAKER_05]  Oígame, a Marta le tocó salirse porque se le murió su mamá o el papá o no sé qué. Le empezó, le pasó a mecatrónica.
+[SPEAKER_05]  Y se presenta aquí a un cargo y ese cargo...
+[SPEAKER_05]  ¡Y si cargamos pa' él!
+[SPEAKER_05]  Pero entonces yo, ¿qué hice?
+[SPEAKER_05]  que lo reciba en ese cargo, pero él tangencialmente va a participar en la gente del grupo de AI. Entonces tú ves personas que no tienen a alguien que les diga que esa cabeza que tiene...
+[SPEAKER_05]  siga la formando porque con eso va a llegar lejísimos. Se vino a un cargo que yo te digo, ¿cómo aceptes de cargo de producción? Ya no me acuerdo lo que era. Pero yo vi eso en él, ¿ves? Ese es un high potential que yo formo acá.
+[SPEAKER_05]  Y los llevó a donde quiera llevarlo porque tiene la cabeza.
+[SPEAKER_02]  y lo...
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Eso me llama la atención, que la gente cuando no tiene...
+[SPEAKER_05]  un papá que esté encima o que no tengan mucha educación.
+[SPEAKER_05]  Estamos como que formando gente que no va más allá.
+[SPEAKER_05]  Es lo que siento.
+[SPEAKER_05]  porque no se le siembra ese deseo de seguir creciendo.
+[SPEAKER_05]  que es lo que te lleva más lejos. El salir y ganar una plata, esa es fácil, siga creciendo. Ese está en el ADN de la persona. Eso hace falta en la formación.
+[SPEAKER_00]  Es muy bien.
+[SPEAKER_00]  Y pues validando eso.
+[SPEAKER_00]  Precisamente cuando se desabrió el plan TIC de los 100.000 programadores.
+[SPEAKER_00]  una de las
+[SPEAKER_00]  falencias pues que yo planteaba
+[SPEAKER_00]  Inclusive a Jorge y a...
+[SPEAKER_00]  Denise, que eran los promotores en el ministerio.
+[SPEAKER_00]  y
+[SPEAKER_00]  lograr una alianza o una valoración desde el Ministerio de Educación.
+[SPEAKER_00]  para homologarles y que ellos pudieran continuar sus estudios y no se quedaran.
+[SPEAKER_00]  como operativos, entre otras, porque pues...
+[SPEAKER_00]  Terminan ahí.
+[SPEAKER_00]  Sí, lo que tú dijiste, haciendo cada vez así.
+[SPEAKER_00]  Y después, pues claro, esa es una herramienta válida, pero ni siquiera con título. Y entonces...
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Ahora se viene otro dilema y es...
+[SPEAKER_00]  la tarjeta profesional, ¿no? Entonces...
+[SPEAKER_00]  pues viene...
+[SPEAKER_00]  La...
+[SPEAKER_00]  el Cognia a las empresas.
+[SPEAKER_00]  y está haciendo seguimiento de quienes desempeñan cargos de ingeniería.
+[SPEAKER_00]  sin tarjeta profesional.
+[SPEAKER_00]  Y pues estas personas ya están llegando a cargos, bien lo dices tú.
+[SPEAKER_00]  de alto nivel.
+[SPEAKER_00]  Y entonces está este dilema, ¿cómo podríamos pensar en lograr este tipo de cosas en alianza entre empresas?
+[SPEAKER_00]  Universidad y Estado.
+[SPEAKER_05]  Hay una cosa que se llama diálogos de futuro, no sé si lo han oído nombrar.
+[SPEAKER_05]  Es una, digamos, en la Universidad de Empresa Estado yo pertenezco.
+[SPEAKER_05]  desde que comenzó a Conect Bogotá Región.
+[SPEAKER_05]  que era una iniciativa que quería unir las universidades, las empresas y el Estado para que se trabajara coordinadamente para lograr cosas de impacto. Ustedes no saben dónde está Coneco de lejos, lo impactante, todo lo que ha logrado en este camino.
+[SPEAKER_05]  Lo mismo el tema de diálogos de futuro, ese era un tema motivado hacia la educación.
+[SPEAKER_05]  Y todas las universidades como la nacional, como la Javeriana, la Javeriana está avanzadísima en eso, yo trabajo con el padre Munera.
+[SPEAKER_05]  en un proyecto y nos cuenta, ya están haciendo carreras intermedias como es en Alemania. En Alemania existen esas carreras intermedias que son consideradas iguales que las ingenierías, para que a la gente le paguen de acuerdo a esa carrera como si fuera una ingeniería. Entonces se enfocan a esas, como digamos el SENA, pero un poco mejorado, digamos, un SENA mejorado. El SENA ha sido de muchísimo impacto para Colombia. Créanme que yo me quedo sorprendida de ver.
+[SPEAKER_05]  La cantidad de gente que ha sido formada por el SENA y trabaja hoy es un medio de vivir.
+[SPEAKER_05]  la información que le dio el Sena. Entonces, eso es lo que yo diría que se está habilitando en Colombia, es un ecosistema muy grande. Primero, las empresas tienen que, el ministerio tiene que dejar de controlar eso que me estás diciendo, Edgar. Eso no tiene por qué controlar el ministerio. Si esa persona funciona en la empresa y la empresa acepta el trabajo de esa persona, eso es suficiente. No necesitamos títulos ahorita. Era un poco lo que decía la presidenta de IBM, eso no importa, ¿ves?
+[SPEAKER_05]  olvidémonos de los títulos, queremos gente que se forma y haga un trabajo correcto, eso es lo que necesitamos, y que trabajen.
+[SPEAKER_05]  con pasiones.
+[SPEAKER_05]  Siento que para Colombia, dice Gustavo, mira que se llama Andrew NG.
+[SPEAKER_05]  el de inteligencia artificial, se vino a Medellín aquí.
+[SPEAKER_05]  armar una empresa de AI.
+[SPEAKER_05]  ¿Por qué? Por la educación tan buena que hay en Colombia.
+[SPEAKER_05]  Esos ingenieros colombianos se destacan, eso que decías tú, Manuel.
+[SPEAKER_05]  Se destacan acá y son muchachos que han recibido formación universitaria, seguro que sí, porque para AI se necesita. Hay un tema matemático sólido, eso no puede uno ser.
+[SPEAKER_05]  Ella, si no ha tenido ese correo, entonces lo que yo digo es triste. Este muchacho que te digo yo es un chino que si hubiera seguido en su formación de después del colegio, universidad, ese chino llega diez veces más lejos que lo va a llegar ahorita. Es ahí donde siento una dificultad, pero aquel que no tiene formación y no tiene otra opción, esta es una educación que le da para vivir.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Eso tiene este lado y la otra.
+[SPEAKER_02]  Oye.
+[SPEAKER_02] 
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Perfecto.
+[SPEAKER_02]  Perfecto.
+[SPEAKER_02] 
+[SPEAKER_02]  Gracias. Esto nos da Edgar y también...
+[SPEAKER_02]  Sandra.
+[SPEAKER_02]  la formación integral del ser humano es muy importante.
+[SPEAKER_02]  que es lo que en las universidades defendemos un poco.
+[SPEAKER_02]  versus una proyección muy de mercadeo de las entidades que enseñan Python solamente.
+[SPEAKER_02]  Sí, como proyecto de vida, es decir, el tema de integrar.
+[SPEAKER_02]  Vamos a terminar.
+[SPEAKER_02]  dándole la posibilidad a Harvey si quiere hacer una preguntita.
+[SPEAKER_02]  Harvey Noe de sistemas.
+[SPEAKER_02]  a Gloria y con la pregunta de Harvey vamos a cerrar porque todo tiene que tener su...
+[SPEAKER_02]  Su momento de final.
+[SPEAKER_02]  Entonces, si Harvey está...
+[SPEAKER_01]  Gracias, doctor.
+[SPEAKER_01]  Muchas gracias.
+[SPEAKER_01]  Realmente fascinado con la conversación, estoy impresionado de todo lo que se ha dicho, de esa historia que se ha venido recorriendo desde...
+[SPEAKER_01]  desde la ingeniería de sistemas.
+[SPEAKER_01]  Como bien lo decía el doctor Manuel, mi relación con las ciencias humanas es mucho más fuerte y con las ciencias sociales.
+[SPEAKER_01]  Entonces desde allí yo quisiera preguntarle, doctora Gloria, ¿cómo usted logra mediar?
+[SPEAKER_01]  digamos, este pensamiento lógico, formal, de las ingenierías, ¿no? Y traerlo y ponerlo en discusión y también como en tránsito.
+[SPEAKER_01]  con esta formación de las ciencias humanas y de las ciencias sociales. Me llamó mucho la atención que haya citado a este filósofo subcoreano, Woo Jung Han.
+[SPEAKER_01]  Además, hayas dicho que estás estudiando filosofía.
+[SPEAKER_01]  que además hayas tenido una relación muy fuerte con la literatura.
+[SPEAKER_01]  ¿Cómo se logra conciliar este tipo también de pensamientos de cara al fortalecimiento de esos recorridos que vienes haciendo con la ingeniería?
+[SPEAKER_05]  Bueno, yo creo que...
+[SPEAKER_05]  No es como fácil la pregunta porque creo que...
+[SPEAKER_05]  Las habilidades que me desarrolla en la vida pueden ser como particulares de las personas.
+[SPEAKER_05]  Hay cosas que le motivan a uno a que uno desarrolle esa visibilidad, pero no tiene que estar necesariamente ligado a la carrera que uno estudia. Lo que yo sí puedo, y lo hago todo el tiempo.
+[SPEAKER_05]  Es decirle Harvey a las personas que empiezan a decidir que en los colegios los empiezan a marcar que no matemáticas, entonces ya no puede estudiar eso que lo otro. Yo fui al colegio de mi hija y le dije, mire, yo me encargo de mi hija, usted no me la vaya a clasificar de que matemáticas no. Si ella dice que no, yo la pongo al día porque le frenan la posibilidad de estudiar otras cosas. Pero ¿cómo haces tú eso?
+[SPEAKER_05]  la sensibilidad hacia otras cosas, no es tan fácil. Yo tengo cuatro hijos, Harvey, cuatro.
+[SPEAKER_05]  Y digamos, ninguno de los cuatro tiene esta sensibilidad que yo te digo. Y yo trato de ver de lo que se están perdiendo, trato de comunicarlo y no es tan fácil. Mi hija tiene cierta habilidad. Le gusta este tema y trato de que lea, lea al menos un libro. Y pienso que la formación de la literatura es que no es solamente la historia, es la formación que te deja. Es impresionante todo lo que te deja. Pero eso está en la personalidad de uno. Yo creo que esa parte reflexiva.
+[SPEAKER_05]  La tuve desde niña, desde que estaba en el colegio.
+[SPEAKER_05]  De pronto tal vez el sufrimiento te hace sentir a los demás.
+[SPEAKER_05]  y te hace pensar que hay más cosas que solo...
+[SPEAKER_05]  pasar por encima de todo y entonces empiezas a hacer de un estilo diferente.
+[SPEAKER_05]  que es sentir a los demás, es sentir a los demás, es una empatía con los demás, es sentir el sufrimiento, y de eso va llevándote a profundizar y ser una persona un poco más profunda que lo normal.
+[SPEAKER_05]  que la de buscar conversaciones profundas con la gente yo no tengo amigos
+[SPEAKER_05]  con los cuales no pueda conversar porque me hace falta, ¿ves? Mis relaciones son de, hablemos de algo que sea diferente. Entonces eso se va marcando en la vida.
+[SPEAKER_05]  Mi vida profesional me llena profundamente porque es una especie de reto permanente contigo mismo, de hacer cosas nuevas, me mantiene actualizada y es como el hilo conductor de una vida interesante.
+[SPEAKER_05]  Te lo digo así, Harvey, es una vida interesante la que yo tengo al lado de esas otras cosas que hago, pero mi carrera, y se me hace delicioso, y aquí hay 50 familias que viven de esta empresa con las cuales de alguna manera hay una relación.
+[SPEAKER_05]  El tema de impacto social me gusta y pertenezco a una cosa que se llama transformar, que son personas de más de 55 años que hacemos cosas sociales porque me gusta ver el efecto de todo esto que yo recibí, así como gratis.
+[SPEAKER_05]  puedo devolver a la ciudadanía cosas. Y estamos viendo que hacemos en diferentes cosas, en el fortalecimiento de empresas. Durante la pandemia hicimos una metodología divina.
+[SPEAKER_05]  de tres meses de formación para emprendedores y la aplicamos en Impulsa, la cosa más rica con emprendedores. Y entonces decíamos, esta empresa es de telecomunicaciones, pues Gloria vaya para allá que sabe de eso. Entonces tú empiezas a ver...
+[SPEAKER_05]  Y eso es la satisfacción, ¿cuál es? Nada, es lo que das.
+[SPEAKER_05]  Y a eso que das, tú recibes.
+[SPEAKER_05]  Y es lo que yo siento que también complementa la vida profesional de uno, dedicarse solamente.
+[SPEAKER_05]  a tener más dinero cuando ya lo tienes, no tiene mucho sentido en un momento de la vida.
+[SPEAKER_05]  porque no tiene, y empiezas a darte cuenta que ya tienes resuelto el tema económico, pero tienes un vacío interior.
+[SPEAKER_05]  El espacio interior solo lo llenas con temas espirituales. Los sistemas espirituales puede ser la filosofía, desde la edad que tengo, donde estoy mirando cosas divinas que sucedieron que nunca las había visto, pero las cuestiono contra lo que yo pienso. Entonces, son muchas cosas que van armando una persona a través de la vida.
+[SPEAKER_05]  ¿Qué fue lo que hizo que yo fuera así? No tengo idea, pero que me gusta ser como soy, me encanta.
+[SPEAKER_02]  Gustavo.
+[SPEAKER_05]  No sé si expliqué lo que querías, Harvey. Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Muy bien.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Gracias Harvey por la pregunta, muy oportuna.
+[SPEAKER_02]  Porque si culminamos con la filosofía, tertulia que tenemos pendiente por ahí, ¿no, Gloria?
+[SPEAKER_05]  Yo conocí a Manuel y me contó que había hecho un mapa de todos los filósofos que nunca me lo ha mostrado y me moriría por verlo.
+[SPEAKER_03]  por ver
+[SPEAKER_05]  porque se me hace diferente. Creo que en este momento de la vida la filosofía tiene un sentido diferente, Manuel.
+[SPEAKER_03]  sí
+[SPEAKER_05]  Ahorita pensamos cosas diferentes y hay respuestas que están en cabezas de otras personas. Leerlo es muy agradable.
+[SPEAKER_02]  Sí, muy interesante.
+[SPEAKER_02]  Darse la oportunidad de pensar, no de resolver necesariamente.
+[SPEAKER_04]  No.
+[SPEAKER_02]  Bueno, ha sido una lección de vida increíble, Gloria. Yo a pesar de que te conozco y todo, no te imaginas todo lo que me has impactado y creo que al grupo.
+[SPEAKER_02]  Y vas a impactar a la Sociedad de Ingeniería de Sistemas con esta charla tan interesante.
+[SPEAKER_02]  con esa postura, con esa energía, con toda esa pasión con que contaste todo. Te agradecemos mucho y bueno, vamos a seguir en contacto.
+[SPEAKER_02]  Nos vemos en el próximo video.
+[SPEAKER_04]  Gracias.
+[SPEAKER_07]  Gracias, Beatriz. Muchas gracias.
+[SPEAKER_02]  No, Beatriz está todavía un momentico. Claro, ¿cómo me va a perder?
+[SPEAKER_07]  Claro, ¿cómo me iba a perder semejante charla?
+[SPEAKER_07]  Semejante a historias tan buenas de Gloria que muchas cosas no conocía, a pesar de que es mucha historia la que ha transcurrido alrededor de todos estos temas de sistemas de tecnología y de todos tan amigos y cercanos a CIS.
+[SPEAKER_02]  ¿Qué tal, ah?
+[SPEAKER_02]  Gracias.
+[SPEAKER_07]  Gloria, de verdad, mil gracias.
+[SPEAKER_04]  Excelente la...
+[SPEAKER_07]  Excelente el aporte y todo lo que cuentas porque...
+[SPEAKER_07]  Va a ser novedoso también para toda la gente que seguramente va a estar escuchando en algún momento lo que está ocurriendo.
+[SPEAKER_02] 
+[SPEAKER_02]  ¿Quiere?
+[SPEAKER_07]  Gracias.
+[SPEAKER_02]  ¿Quieres tomar la foto, Beatriz?
+[SPEAKER_07]  ¿Te diste?
+[SPEAKER_07]  ¡Gracias!
+[SPEAKER_02]  Si, pero... ¿Paremos la grabación? ¿Paremos grabación, Kevin?
+[SPEAKER_07]  Si, pero que ahora la hay.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Un momentico, ya terminamos esta...

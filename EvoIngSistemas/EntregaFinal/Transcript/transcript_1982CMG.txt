@@ -1,0 +1,1582 @@
+[SPEAKER_01]  Bueno, un saludo de nuevo a todos.
+[SPEAKER_01]  los que nos están viendo en estos...
+[SPEAKER_01]  video de la evolución de la ingeniería de sistemas.
+[SPEAKER_01]  En esta ocasión vamos a hablar con el ingeniero Carlos Mario Giraldo.
+[SPEAKER_01]  graduado en el año 82.
+[SPEAKER_01]  que tiene una historia.
+[SPEAKER_01]  desde la época en que, podemos decir, llegaron los microcomputadores a Colombia.
+[SPEAKER_01]  época donde la tecnología era extraña en la sociedad.
+[SPEAKER_01]  y por lo tanto es uno de los pioneros.
+[SPEAKER_01]  de la computación.
+[SPEAKER_01]  dedicado a su tema de desarrollo de software como él nos va a ir contando.
+[SPEAKER_01]  Él tiene también su historia que nos lo va a narrar y vamos a...
+[SPEAKER_01]  grabarla y será parte
+[SPEAKER_01]  del material de este proyecto de la evolución de la ingeniería de sistemas.
+[SPEAKER_01]  Entonces...
+[SPEAKER_01]  Carlos Mario, bienvenido.
+[SPEAKER_01]  Y bueno, cuéntanos desde el comienzo a ver.
+[SPEAKER_01]  ¿Qué nos puedes decir?
+[SPEAKER_01]  contarles esa historia tan interesante.
+[SPEAKER_01]  Carlos Mario, adelante.
+[SPEAKER_03]  Bueno, Manuel, muchas gracias.
+[SPEAKER_03]  Tocará remontarse a bastantes años atrás.
+[SPEAKER_03]  pero exprimamos un poco el cerebro y empecemos.
+[SPEAKER_03]  como desde los 14 o 15 años.
+[SPEAKER_03]  Mmm.
+[SPEAKER_03]  Recuerdo en esa época yo podía estar en...
+[SPEAKER_03]  segundo bachillerato, tercero bachillerato, y mi interés siempre fue la ingeniería, y en particular yo quería ser ingeniero industrial.
+[SPEAKER_03]  ¿Por qué?
+[SPEAKER_03]  Bueno.
+[SPEAKER_03]  Pertenezco a una familia donde tengo...
+[SPEAKER_03]  seis hermanos
+[SPEAKER_03]  Tres hombres.
+[SPEAKER_03]  mayores que yo.
+[SPEAKER_03]  mujeres
+[SPEAKER_03]  Los tres hombres, no, dos de los tres hombres.
+[SPEAKER_03]  eran ingenieros, estudiaron ingeniería en esa época.
+[SPEAKER_03]  A mí las matemáticas y todo ese tipo de cosas en el colegio siempre...
+[SPEAKER_03]  como que me atraían.
+[SPEAKER_03]  Y la ingeniería industrial me llamaba mucho la atención, toda la parte de procesos industriales y ese tipo de cosas.
+[SPEAKER_03]  me llamaba mucho la atención.
+[SPEAKER_03]  Pero...
+[SPEAKER_03]  Aló.
+[SPEAKER_03]  pocos años, digamos 16.
+[SPEAKER_03]  Sí, cuando tenía 15, 16 años.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  Llegó la ingeniería de sistemas o conocí la ingeniería de sistemas.
+[SPEAKER_03]  por un
+[SPEAKER_03]  una persona cercana a Richard Jiménez.
+[SPEAKER_03]  que estudiaba Ingeniería de Sistemas en los Andes.
+[SPEAKER_03]  Niño.
+[SPEAKER_03]  Pues le pregunté.
+[SPEAKER_03]  ¿Qué tal era eso? Me parecía...
+[SPEAKER_03]  La maravilla.
+[SPEAKER_03]  pensar en computadores, lo veía en esa época, lo veía eso como viaje a las estrellas, como hacer cosas de esas de ciencia ficción maravillosas y pensar en programar un computador y hacer ese tipo de cosas, en el imaginario que puede tener uno a esa edad me parecía perfectamente.
+[SPEAKER_03]  apasionante.
+[SPEAKER_03]  Igual Richard me contó, me habló de qué se trataba y realmente me apasionó.
+[SPEAKER_03]  Y gracias a eso no tuve que tomar ninguna clase de orientación profesional ni nada de ese estilo.
+[SPEAKER_03]  porque estaba decidido a hacer ingeniería de sistemas.
+[SPEAKER_03]  Así fue como en el año...
+[SPEAKER_03]  74 me gradué del colegio.
+[SPEAKER_03]  me presenté a la Universidad de Los Andes en ese año del 74.
+[SPEAKER_03]  para mi papá y para mi familia, pues eso prácticamente era imposible porque mi papá venía de una quiebra.
+[SPEAKER_03]  pues no tan reciente, pero no se había podido recuperar.
+[SPEAKER_03]  Tanto se pierde en los ámbitos de la universidad, muy costosa en ese momento.
+[SPEAKER_03]  Pues no era fácil.
+[SPEAKER_03]  Pero igual me presenté en los Andes y coincidió con que a mi papá lo trasladaron para Medellín. O consiguió un trabajo en Medellín y mi familia tomó la decisión de irse a Medellín.
+[SPEAKER_03]  Yo mantenía la ilusión de seguir en la...
+[SPEAKER_03]  en los grandes ingeniería sistemas.
+[SPEAKER_03]  Pero mis papás se opusieron de todas las formas posibles. Me dijeron que me presentara en la Bolivaria de Estudios de Ingeniería Mecánica.
+[SPEAKER_03]  presenté el examen de admisión.
+[SPEAKER_03]  queriendo no pasarlo.
+[SPEAKER_03]  y casi lo logro.
+[SPEAKER_03]  No sé cómo, si hubo influencias familiares ahí o qué, pero el caso es que desafortunadamente pasé en la Bolivariana y empecé a estudiar Ingeniería Mecánica. No hubo forma que me dejaran quedar en Bogotá estudiando.
+[SPEAKER_03]  la ingeniería de sistemas en los Andes.
+[SPEAKER_03]  Entonces, empecé a estudiar Ingeniería Mecanica en la Bolivariana.
+[SPEAKER_03]  La verdad me aburrí bastante en el primer semestre.
+[SPEAKER_03]  Pues fue medianamente duro, pero el segundo semestre a mitad ya no soporté más y me retiré.
+[SPEAKER_03]  con la intención
+[SPEAKER_03]  en algún momento poder volver a Bogotá a estudiar.
+[SPEAKER_03]  Empecé a trabajar con mi papá, tenía una empresa de comercio.
+[SPEAKER_03]  o algo en esa época, cuando vivía en Medellín, porque el trabajo que se hizo originalmente algo pasó.
+[SPEAKER_03]  montó un negocio entonces yo lo estuve ayudando un rato en eso, fue bien simpático pero ya llegó el punto en que tomé la decisión que me tenía que devolver para Bogotá a Acción Ingeniería Sistema.
+[SPEAKER_03]  contra viento y marea.
+[SPEAKER_03]  sin haber recursos en la familia ni nada, pero yo no me iba a quedar en Medellín sin hacer absolutamente nada.
+[SPEAKER_03]  No sé, hasta pensaba que iba a terminar de mensajero de droguería, como buen paisa. En fin, no sé, el caso es que volví a...
+[SPEAKER_03]  a vos, ¿verdad?
+[SPEAKER_03]  ¿Aceptaron mis papás?
+[SPEAKER_03]  Y volví a la Universidad de Los Andes a presentar el examen de admisión.
+[SPEAKER_03]  llevándome la ingrata sorpresa que no me dejaban inscribir porque yo ya había estado inscrito en el 74.
+[SPEAKER_03]  y no había hecho ninguna gestión para guardar el cupo o cualquier cosa del estilo.
+[SPEAKER_03]  Y fue un golpe bastante fuerte.
+[SPEAKER_03]  Pero bueno, uno siempre tiene angelitos de la guarda por ahí que aparecen.
+[SPEAKER_03]  Gracias a un hermano que conocí, alguien de la Junta.
+[SPEAKER_03]  de los fans, de los amantes o del consejo.
+[SPEAKER_03] 
+[SPEAKER_03]  me permitieron presentar el examen nuevamente.
+[SPEAKER_03]  presenté el examen de admisión para empezar en el año 77, o sea, en el final del año 76.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  con la buena fortuna de haber aprobado, pasé el examen.
+[SPEAKER_03]  pero ahora venía el problema.
+[SPEAKER_03]  de la matrícula.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Bueno, voy a contarles una cosa bien chingada.
+[SPEAKER_03]  Como era tan costosa y era por declaración de renta.
+[SPEAKER_03]  y realmente no tenía los recursos.
+[SPEAKER_03]  Para ello,
+[SPEAKER_03]  Entonces yo hice una declaración de renta.
+[SPEAKER_03]  donde
+[SPEAKER_03]  mis papás estaban a mi cargo.
+[SPEAKER_03]  mis ingresos eran cualquier cosa.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  De tal manera que logré entrar a la universidad con la matrícula.
+[SPEAKER_03]  la círcula mínima a una sierra costosa pero bueno ya era ya era más manejable
+[SPEAKER_03]  un hermano
+[SPEAKER_03]  Me prestó la plata para el primer semestre.
+[SPEAKER_03]  Realmente no me la prestó, creo que me la...
+[SPEAKER_03]  en la agonó.
+[SPEAKER_03]  para el primer semestre.
+[SPEAKER_03]  Y en ese primer semestre...
+[SPEAKER_03]  tuve la buena fortuna
+[SPEAKER_03]  por haber estado en la experiencia de haber estado en la bolivariana me sirvió muchísimo
+[SPEAKER_03]  Por eso lo agradezco, fue muy bueno.
+[SPEAKER_03]  haber pasado por la bolivariana y empezar a tener la disciplina que se requiere para una universidad.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  En el colegio yo no estudiaba, yo no tenía ningún tipo de disciplina. Yo hacía las tareas a las nueve de la noche el domingo.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  para llegar el lunes al colegio.
+[SPEAKER_03]  No hice ningún esfuerzo realmente en el colegio para...
+[SPEAKER_03]  para estudiar.
+[SPEAKER_03]  Me aburría además.
+[SPEAKER_03]  Entonces, pues, uno en la universidad sí necesita.
+[SPEAKER_03]  cierta disciplina y ciertos conocimientos para, por lo menos, para sobrevivir, sobre todo en un semestre donde entramos 120 personas a estudiar Ingeniería de Sistemas.
+[SPEAKER_03]  Si no me equivoco, creo que fue el primer semestre en que abrieron dos secciones de estudiantes.
+[SPEAKER_03]  para
+[SPEAKER_03]  para las clases de introducción a sistemas y ese tipo de cosas. Antes era una sola, ahora esta vez tuvieron que abrir dos secciones porque...
+[SPEAKER_03]  Había mucha gente.
+[SPEAKER_03]  Bueno, el caso es que gracias a los logros del primer semestre y al beneficio de haber estudiado en la Bolivariana, me fue bastante bien.
+[SPEAKER_03]  Y eso me permitió acceder a...
+[SPEAKER_03]  Mi papá tenía un conocido en el Banco Ganadero, el gerente general, algo de lo mismo, y me conseguí un crédito en el Banco Ganadero por media matrícula.
+[SPEAKER_03]  Pero igual la otra media matrícula a mí me quedaba imposible.
+[SPEAKER_03]  Entonces fui a la universidad.
+[SPEAKER_03]  a la declamatura de estudiantes.
+[SPEAKER_03]  de una señora, Elena.
+[SPEAKER_03]  que me escapa el apellido, pero la persona más sabrada del mundo.
+[SPEAKER_03]  No sé cómo.
+[SPEAKER_03]  Me conseguí la otra media.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  el préstamo para la tramitar para poder cumplir entonces yo estudio en la universidad con dos créditos universitarios
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Lo cual...
+[SPEAKER_03]  Era bastante duro porque eso me obligaba a no perder materia, a estar al día.
+[SPEAKER_03]  ¡Echorá!
+[SPEAKER_03]  bastante difícil sobre todo que fue una época en la universidad donde la presión académica era muy alta
+[SPEAKER_03]  No creo tanto por la cantidad de estudiantes que hubieran entrado, sino...
+[SPEAKER_03]  Yo se lo atribuyo.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Ah.
+[SPEAKER_03]  la huelga que hubo en la universidad a finales o a mediados del 76.
+[SPEAKER_03]  Yo me imagino que las directivas dijeron, si estos tienen tiempo para vagar, entonces pongámoslos a estudiar un poquito más. Y nos apretaron bastante las cuercas y fue...
+[SPEAKER_03]  Una época bien...
+[SPEAKER_03]  bien fuerte de él.
+[SPEAKER_03]  de estudio.
+[SPEAKER_01]  Esa fue la famosa huelga de las escaleras, la llamaban así.
+[SPEAKER_03]  Bueno.
+[SPEAKER_03]  Mmm.
+[SPEAKER_03]  Creo que fue anteriormente.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Fue una huelga en la que estuvo Piero cantando y apoyando a los estudiantes en el centro.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  solo los americanos.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Obviamente.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  obviamente
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Sí, bueno.
+[SPEAKER_03]  Mmm.
+[SPEAKER_03]  logramos sobrevivir
+[SPEAKER_03]  ese primer semestre, no, diría que me fue bien afortunadamente.
+[SPEAKER_03]  Y ya el segundo semestre empezó, o tercer semestre empieza uno a ver programación.
+[SPEAKER_03]  Y eso sí es como si a mí me hubieran...
+[SPEAKER_03]  puesto en el área donde toda la vida quise estar.
+[SPEAKER_03]  Usted no se imagina la pasión que a mí me daba aprender a programar.
+[SPEAKER_03]  Por la noche me acuerdo que cogía y ponía unos vasos en la mesa, que los vasos eran las posiciones de memoria.
+[SPEAKER_03]  Entonces, para poder empezar a manejar, a cambiar.
+[SPEAKER_03]  la cabeza a lo que es la...
+[SPEAKER_03]  el pensar paso a paso y cosas de este estilo. Entonces yo jugaba con los vasos y en los vasos iba poniendo los datos de memoria y cada una de esas cosas era bien interesante, me apasionaba, me daban las 2, 3 de la madrugada jugando con programaciones, me gustó muchísimo. Ahí empecé...
+[SPEAKER_03]  con esa programación. Me acuerdo que, bueno, en primer semestre veíamos como un brochazo de un compilador de un lenguaje que había en la universidad que se llamaba Andes 2.5.
+[SPEAKER_01]  Ante dos, sí. Así es.
+[SPEAKER_03]  No, el método del 2.5
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Ese fue un desarrollo de los Andes.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  ¿Eh?
+[SPEAKER_03]  Sí, sí, sí, correcto.
+[SPEAKER_01]  Es el lenguajito especial.
+[SPEAKER_01]  Primero le llamo a ti.
+[SPEAKER_01]  Ya está.
+[SPEAKER_03]  Ya es que...
+[SPEAKER_03]  ¿Perdón?
+[SPEAKER_01]  ya estabas avanzado en el lenguaje de la Andes.
+[SPEAKER_01]  La versión.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  bueno ya después entonces pedimos ya la clase de programación como tal que ya se le importan
+[SPEAKER_03]  empezamos a programar en portran
+[SPEAKER_03]  ¿Qué complicadores?
+[SPEAKER_01]  ¿Qué confirmadores había en ese momento en los Andes?
+[SPEAKER_03]  Era un IBM 360.
+[SPEAKER_03]  que tenía un disco duro de 4 megas.
+[SPEAKER_03]  y una memoria RAM de 64K.
+[SPEAKER_03]  De acuerdo, perfectamente.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  ¿No?
+[SPEAKER_03]  Lo más cerca que tenía un computador que en la ingeniería de sistemas, en los Andes, era la ventanilla donde uno le entregaba...
+[SPEAKER_03]  le decíamos al mono, las tarjetas.
+[SPEAKER_03]  perforadas.
+[SPEAKER_03]  que en los sótanos del...
+[SPEAKER_03]  En el Piché Ingeniería, uno...
+[SPEAKER_03]  que clavaba por las noches a...
+[SPEAKER_03]  a teclear
+[SPEAKER_03]  instrucciones en tarjetas perforadas.
+[SPEAKER_03]  y esas las entregaba uno por esa ventanilla y esperaba al día siguiente los resultados.
+[SPEAKER_03]  el dictado
+[SPEAKER_03]  en Narzocat.
+[SPEAKER_03]  rayadas en verde y blanco.
+[SPEAKER_03]  ya no errores
+[SPEAKER_03]  sino no entender ni siquiera qué estaba haciendo ni qué estaba pasando.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Pero bueno, esas eran las primeras experiencias ya en la parte de programación.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Bueno.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Mmmmm
+[SPEAKER_03]  Ya ha pasado un tiempo.
+[SPEAKER_03]  y
+[SPEAKER_03]  Vi estructuras de información, me encantó, me fascinó también esa materia.
+[SPEAKER_03]  Mmmmm
+[SPEAKER_03]  al año o al año y medio, fui monitor de...
+[SPEAKER_03]  de
+[SPEAKER_03]  estructuras de información.
+[SPEAKER_03]  en la universidad.
+[SPEAKER_03]  ¡Ni-!
+[SPEAKER_03]  Por esas épocas...
+[SPEAKER_03]  me conseguí un trabajo en la CAR.
+[SPEAKER_03]  una corporación autónoma regional de esa época.
+[SPEAKER_03]  en el departamento de hidrología y embalse y mi cargo era el enlace de tecnología
+[SPEAKER_03]  con sistemas.
+[SPEAKER_04]  ¿Hm?
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Desafortunadamente no hice nada parecido fuera de codificar el...
+[SPEAKER_03]  resultados meteorológicos y cosas de ese estilo.
+[SPEAKER_03]  pero no, bueno, un tiempo de un trabajo donde yo corría desde la universidad hasta que quedaba en la primera.
+[SPEAKER_03]  Hasta la próxima.
+[SPEAKER_03]  hasta la décima
+[SPEAKER_03]  corriendo para trabajar unas horas, poder volver a la universidad a tomar clases, y ese fue un recorre bien interesante ese semestre, fue como el octavo semestre más o menos a esa época.
+[SPEAKER_01]  Ahí puedes mencionar nombres de profesores.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  ¿Te acuerdas de ese momento?
+[SPEAKER_01]  A ver...
+[SPEAKER_03]  A ver.
+[SPEAKER_01]  Pacho Rufi.
+[SPEAKER_03]  Pacho Rueda, Francisco Rueda, además que...
+[SPEAKER_03]  fue mi asesor durante toda la carrera.
+[SPEAKER_03]  Fue mi profesor de estructuras de información.
+[SPEAKER_03]  de acuerdo de Darío Mesa en programación comercial.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Bueno, Rodrigo López.
+[SPEAKER_01]  Qué bueno.
+[SPEAKER_03]  y
+[SPEAKER_03]  También lo recuerdo que eso fue como en...
+[SPEAKER_03]  llamaba máquinas no recuerdo exactamente
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  máquinas virtuales, una realidad así
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  era interesante también.
+[SPEAKER_03]  Me acuerdo de Monsieur Jorly en álgebra abstracta, que yo no sé qué era más abstracto, si el francés de Monsieur Jorly o la materia misma. Eso era bastante complicado.
+[SPEAKER_05]  o la mano
+[SPEAKER_01]  Pero bueno.
+[SPEAKER_03]  Pero bueno.
+[SPEAKER_01]  Un personaje, sí, es lindo.
+[SPEAKER_03]  Un personaje.
+[SPEAKER_03]  ¿Perdona?
+[SPEAKER_01]  personaje, me decía Jair Lick.
+[SPEAKER_03]  Ah, sí, sí. Bueno, me acuerdo mucho de los profesores de matemáticas. Obviamente estaba el profesor Parra, que uno tenía que pasar por él, quisiera o no quisiera.
+[SPEAKER_03]  Y era más la mala imagen que tenía que...
+[SPEAKER_03]  Era muy buen profesor y...
+[SPEAKER_03]  interesante no era tan tan cruel como lo mencionaban
+[SPEAKER_03] 
+[SPEAKER_03]  con mutación, lo vi con Elena.
+[SPEAKER_03]  No.
+[SPEAKER_03]  Los hermanos son los dueños de Procal. Ellos son los dueños de... eran los dueños de Procal.
+[SPEAKER_01]  Claro, claro, dueño de playa todavía está trabajando, Lenita.
+[SPEAKER_03]  Me imagino que le...
+[SPEAKER_01]  Claro, que si una empresa...
+[SPEAKER_01]  Son los que representan a Esri.
+[SPEAKER_01]  El tema de mapas.
+[SPEAKER_01]  el tema de Argyz y todo eso, claro.
+[SPEAKER_03]  Bien, interesante. Recuérdame el apellido, ¿recuerdas?
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  A ver si nos acordamos ahora más tarde. Aquí yo noto, ¿no? Cuando yo estoy escribiendo, no estoy jugando, estoy anotando.
+[SPEAKER_01]  Ahorita nos acordamos porque ellos fueron muy famosos.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Son, ¿no?
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  sorpresa en el desarrollo de todo esto. Claro que sí.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Bueno, también en esa época estaba Alberto García.
+[SPEAKER_03]  estaba Pepe Abasolo
+[SPEAKER_03]  También, yo fui monitor de PP en estructuras de información.
+[SPEAKER_01]  El pase de datos fue muy bueno él.
+[SPEAKER_03]  Sí, sí, sí.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Sí, claro.
+[SPEAKER_03]  Que más.
+[SPEAKER_01]  Alberto García era profesor de Cobol.
+[SPEAKER_03]  No, el cobol me lo dio a mí Darío Mecha.
+[SPEAKER_03]  Alberto García, tal vez en ese momento estaba dictando algo cercano a bases de datos, si no me falla la memoria.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Sí, Alberto es un paso a Cobo, pero bien, sí. Y Pepe.
+[SPEAKER_01]  En base de datos fue muy famoso también.
+[SPEAKER_03]  Sí.
+[SPEAKER_01]  Esos eran compañeros míos.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Alberto no, era más mayorcito.
+[SPEAKER_03]  Bueno, había dos López, estaba...
+[SPEAKER_03]  Rodrigo López y Julio López también.
+[SPEAKER_03]  También.
+[SPEAKER_01]  también
+[SPEAKER_03]  También me tocó.
+[SPEAKER_03]  Obviamente Margarita de Mesa en el departamento de matemáticas.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Margarita de Mesa, la esposa de Darío. De Darío.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  Bueno.
+[SPEAKER_03]  digamos que es
+[SPEAKER_01]  Es una mejora muy interesante.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Sí, ese fue, digamos, los profesores que más, tal vez recuerde más, pero me parece más interesante que llegué a como a noveno semestre.
+[SPEAKER_03]  Oye, y en nueve semestres no había visto un computador, tocado un computador. Lo más cercano era una calculadora programable, el que tenía un hermano.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03] 
+[SPEAKER_03]  me enteré que había un pequeño departamento, un salón.
+[SPEAKER_03]  de
+[SPEAKER_03]  que no sé cómo llamarlo, microprocesadores, pensaría que puede ser.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  Eran unas pequeñas consolas Texas Instruments, algunas, había otra marca que no recuerdo.
+[SPEAKER_03]  ¿Dónde tú le colocabas un monitor en blanco y negro? ¿Un televisor?
+[SPEAKER_03]  Cualquiera en blanco y negro.
+[SPEAKER_03]  y
+[SPEAKER_03]  una casetera
+[SPEAKER_03]  de esas viejas de cassette.
+[SPEAKER_03]  que uno los conectaba y ahí guardaba los datos o leía datos.
+[SPEAKER_03]  Entonces tenías acceso secuencial, un pequeño teclado y un monitor.
+[SPEAKER_04]  Ajá.
+[SPEAKER_03]  Y ahí fue donde empecé a hacer mis primeros programas. Tenía un lenguaje basic.
+[SPEAKER_03]  muy básico, pero funcionaba y ya no hay programitas. Esa fue mi primera aproximación real con un computador, porque ya tú lo prendías, tú lo cargabas, tú conectabas las cosas, y era bien interesante ver cómo hacías pequeños programas y los podías grabar en el cassette.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  y en el mismo cassette grabar datos y entonces empezaron a jugar cómo acceder eso secuencialmente y poder jugar con esas cosas, pero ya fue una buena aproximación, me pareció muy muy interesante.
+[SPEAKER_03]  Y para sorpresa mía, yo comento con compañeros de esa época, nadie recuerda ese salón de microprocesadores.
+[SPEAKER_03]  Pero ¿qué año es?
+[SPEAKER_01]  ¿Qué año era? Porque los micros... ¡81!
+[SPEAKER_03]  81, a principios del 81, creería yo.
+[SPEAKER_01]  Ya habían llegado los primeros micros.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  No, no eran microcomputadores, eran unas pequeñas consolitas, como te digo, con un monitor en blanco y negro, un teclado, y lo simpático es que conectaba una de esas caseteras de oír música.
+[SPEAKER_04]  Ajá.
+[SPEAKER_03]  que tenían, recuerdo que tenían un micrófono, no sé si recuerdan las caseteras que tenían un control de micrófono donde uno desde el micrófono podía parar o...
+[SPEAKER_03]  o continuar el movimiento del cassette.
+[SPEAKER_03]  Entonces...
+[SPEAKER_03]  el computador controlaba ese arranque y parada del...
+[SPEAKER_03]  y así era como no podía leer datos y almacenarlos los programas y cosas de este estilo en café
+[SPEAKER_03]  Esto fue una experiencia, la verdad, bien interesante.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Bueno, llegamos a finales de la carrera.
+[SPEAKER_03]  y
+[SPEAKER_03]  sobreviviendo.
+[SPEAKER_03]  Porque fue duro. No, ya los... En la mitad de la carrera fue una época fuerte, muy dura académicamente, pero ya los semestres cuando uno entra a las materias que son propias de la...
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  de la carrera realmente uno se apasiona, se interesa y las maneja, las maneje bien y me fue muy bien.
+[SPEAKER_03]  con toda esa parte.
+[SPEAKER_03]  estando en décimo semestre.
+[SPEAKER_03]  y
+[SPEAKER_03]  me contrató una empresa
+[SPEAKER_03]  en una consultoría en la mitad del año, en acuerdo, para...
+[SPEAKER_03]  Mmm.
+[SPEAKER_03]  ayudarles a desarrollar como la planificación.
+[SPEAKER_03]  y adquisición de un computador o de un centro tecnológico para el departamento de sistemas.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  Ya en esa época empezaban, ya había microcomputadores.
+[SPEAKER_03]  existían básicamente dos computadores que eran el RadioShack
+[SPEAKER_03]  y el cómodo.
+[SPEAKER_03]  Apple, existía Apple o estaba empezando Apple, pero aquí no había llegado mucho.
+[SPEAKER_03]  El caso es que...
+[SPEAKER_03]  Pues cuando me emprendí a hacer todo el análisis de requerimientos de la empresa.
+[SPEAKER_03]  Pues no era...
+[SPEAKER_03]  una cantidad de datos exorbitantes o más bien yo diría reducida para pensar en computadores. Y lo que uno conseguía en el mercado y lo que estaba de...
+[SPEAKER_03]  porque tenía algo de...
+[SPEAKER_03]  trascendencia o experiencia en el mercado en los minicomputadores.
+[SPEAKER_03]  me acuerdo que había el Basic 4, estaba el sistema 34 y 36 de IBM.
+[SPEAKER_03]  y a tal vez un prime así como pequeño.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  y tal vez el Basic Force se movía bastante bien, pero eran unos precios bastante elevados.
+[SPEAKER_03]  Para una...
+[SPEAKER_03]  empresa
+[SPEAKER_03]  digamos, la pequeña en cantidad, era una empresa que tenía recursos.
+[SPEAKER_03]  económico vendía muy bien pero no manejaba miles de clientes ni miles de productos ni nada de ese estilo entonces
+[SPEAKER_03]  No.
+[SPEAKER_03]  me acerqué, no sé por qué.
+[SPEAKER_03]  me llegó a la mano la información de Radio Shack.
+[SPEAKER_03]  Y me fui a...
+[SPEAKER_03]  una empresa que tuve que conocer, Manuel, que se llamaba Microtech.
+[SPEAKER_03]  que quedaba en la...
+[SPEAKER_03]  Carrera séptima con Calle 66.
+[SPEAKER_01]  en el almacén grande.
+[SPEAKER_03]  Sí, corte.
+[SPEAKER_03]  Y allá me conseguí toda la información.
+[SPEAKER_03]  Mmm.
+[SPEAKER_03]  iría a la conclusión de que
+[SPEAKER_03]  un microcomputador de esos era suficiente para una pequeña empresa.
+[SPEAKER_01]  Salud.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Obviamente en ese momento el software que existía era...
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  mínimo, poco, prácticamente nada.
+[SPEAKER_03] 
+[SPEAKER_03] 
+[SPEAKER_03]  Presenté la propuesta, pues el estudio a la empresa.
+[SPEAKER_03]  y me tocó defender bastante bien por qué un microcomputador, cuando ni siquiera tenía discos duros, sino eran discos flexibles de 5 1 4.
+[SPEAKER_03]  de pulgada que le cabían 80k de memoria por un lado
+[SPEAKER_03]  Después ya lo sacaron de doble cara a doble densidad, y eran de 360K, de 320K, perdón, porque después pasaron a 160, después a 320K.
+[SPEAKER_03]  convencer a la gerencia de que eso era suficiente.
+[SPEAKER_03]  que porque era costoso, pero no era tan costoso como un minicomputador que de todas maneras iba a requerir una cierta infraestructura.
+[SPEAKER_03]  un ingeniero hasta para aprenderlo porque tenía su sistema operativo propio.
+[SPEAKER_03]  y tenía precios.
+[SPEAKER_03]  Estas características son un poco más complejas que lo que estaba ya empezando a aparecer en el mercado.
+[SPEAKER_03]  y me aprobaron la...
+[SPEAKER_03]  La propuesta.
+[SPEAKER_03]  la propuesta.
+[SPEAKER_03]  Entonces el paso siguiente fue adquirir el computador.
+[SPEAKER_03]  Y el paso más interesante es que me contrataron.
+[SPEAKER_03]  para desarrollar.
+[SPEAKER_03]  el primer software.
+[SPEAKER_03]  para esa empresa.
+[SPEAKER_03]  Entonces empecé con un sistema de cartera.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  de cuentas por cobrar.
+[SPEAKER_03]  para los clientes y empecé a desarrollar este sistema.
+[SPEAKER_03]  en algún momento
+[SPEAKER_03]  en
+[SPEAKER_03]  tu Eke recurrirá.
+[SPEAKER_03]  a microtec.
+[SPEAKER_03]  Y me encontré con Fernando Dávila, pues que lo conocía, tal vez él me había vendido el computador o algo así, y trabajaba, pues, no sé si él, pero me asesoraba.
+[SPEAKER_03]  y trabajamos juntos, se enteró que yo tenía un sistema de cartera.
+[SPEAKER_03]  de inventarios, entonces me propuso que por qué no se lo dejaba ver.
+[SPEAKER_03]  para que Microtech lo comercializara.
+[SPEAKER_03]  Y ahí entonces apareció el señor Manuel Dávila.
+[SPEAKER_03]  y conoció el software, conoció el sistema de carteras.
+[SPEAKER_03]  de inventarios.
+[SPEAKER_03]  me empujó.
+[SPEAKER_03]  sustancialmente, pues profundamente a que siguiera avanzando en el desarrollo.
+[SPEAKER_03]  Mientras tanto, en esa época...
+[SPEAKER_03]  Perdón, ¿qué hablé de ti, Manuel?
+[SPEAKER_05]  estaba desarrollando
+[SPEAKER_03]  Estabas desarrollando un software que te llamaba, lo llamaste el SAS.
+[SPEAKER_03]  Era un software para desarrollar software.
+[SPEAKER_01]  Era un problema.
+[SPEAKER_01]  Era un generador de software.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Sí, correcto. Pero aunque en el... Ya quedó.
+[SPEAKER_01]  Ya que los vendedores decían...
+[SPEAKER_01]  Es muy bueno porque uno le dice qué quiere.
+[SPEAKER_01]  Y él, SAS, escribía el software.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  El nombre del programa fue Sassi.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Después creo que lo cambiaste a Génesis, si no me falla la memoria. Pero bueno, el caso es que me invitaste a participar de ese proyecto. Y ahí fue donde realmente nos conocimos.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Pero bueno.
+[SPEAKER_05]  Y ahí fueron.
+[SPEAKER_03]  Con los sistemas software
+[SPEAKER_03]  y fue donde empecé ya en forma a desarrollar el software de facturación inventario subcartera para esa empresa para la que estaba trabajando.
+[SPEAKER_03]  Entonces, pues como el producto era para ellos,
+[SPEAKER_03]  Mmm.
+[SPEAKER_03]  Hablé con la gerencia de esa empresa y le propuse un negocio.
+[SPEAKER_03]  que yo le seguía desarrollando el software.
+[SPEAKER_03]  lo seguía evolucionando.
+[SPEAKER_03]  que yo seguía desarrollando los módulos que me faltaban, pues, básicamente para facturación de inventarios de carteras y contabilidad.
+[SPEAKER_03]  o alguna otra cosa más, y nómina.
+[SPEAKER_03]  ¡Mmm!
+[SPEAKER_03]  pero que a un costo inferior.
+[SPEAKER_03]  pero que me dejaran a mí comercializar libremente este software.
+[SPEAKER_03]  Llegamos a un acuerdo y fue muy bueno para las dos partes, en especial para mí.
+[SPEAKER_03]  porque ahí fue donde arranqué yo como...
+[SPEAKER_03]  independiente después de dos años de estar trabajando en esta empresa.
+[SPEAKER_03]  independiente.
+[SPEAKER_03]  fue cuando nos conocimos tú y yo, Manuel.
+[SPEAKER_03]  Y empezamos a...
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  hacer esa aventura de
+[SPEAKER_03]  de vender software administrativo.
+[SPEAKER_03]  Bien.
+[SPEAKER_03]  en un país que...
+[SPEAKER_03]  Hay unas penas las calculadoras de escritorio, era la máxima tecnología que tenían.
+[SPEAKER_04]  No, no.
+[SPEAKER_03]  pero fue un proceso muy, muy, muy interesante.
+[SPEAKER_03]  ¿Por qué?
+[SPEAKER_03]  Bueno, voy a hacer el recuento del primer cliente que tuvimos.
+[SPEAKER_03]  fue una estación de servicio de gasolina.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Era increíble.
+[SPEAKER_03]  llegar a esa empresa a instalar el computador.
+[SPEAKER_03]  y la persona que lo iba a manejar era la esposa del dueño.
+[SPEAKER_03]  que pues había salido de...
+[SPEAKER_03]  del salón de belleza
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Sí, sí.
+[SPEAKER_03]  y de vivir su vida bien tranquila a manejar un computador.
+[SPEAKER_03]  Y a eso fue lo que nos empezamos a enfrentar de ahí en adelante. Empezar a...
+[SPEAKER_03]  a introducir a personas
+[SPEAKER_03]  completamente neófitas en la tecnología.
+[SPEAKER_03]  Cero conocimiento de tecnología.
+[SPEAKER_03]  para empezar a manejar.
+[SPEAKER_03]  nuestro software.
+[SPEAKER_03]  Entonces, enseñarles.
+[SPEAKER_03]  a cómo copiar datos, a cómo prender el computador, que no los iba a morder. El pánico era como si se estuvieran enfrentando a un león fuera de la jaula.
+[SPEAKER_03]  Mirá.
+[SPEAKER_03]  le daba pánico.
+[SPEAKER_03]  Y así fue como empezamos. En serio, me pareció bien interesante porque...
+[SPEAKER_03]  Digamos que esas primeras experiencias todas fueron así. No era solo vender el computador ni vender el software.
+[SPEAKER_03]  sino tener la paciencia de enseñarle a estas personas a manejar el computador, además del software.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  y cómo usar una impresora, y cómo comprar papel, y qué disquets comprar, y cómo guardar las copias.
+[SPEAKER_03]  Que me parece...
+[SPEAKER_03]  yo ahora lo pienso y es admirable que una pequeña empresa
+[SPEAKER_03]  tiene que recurrir en los impurridos los costos de un computador de un software que era barato
+[SPEAKER_03]  y se meten en toda esa parafernalia de tecnología para empezar a sacar adelante, me pareció bien interesante.
+[SPEAKER_03]  se repitió muchas veces.
+[SPEAKER_03]  donde llegaba uno
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Mmm.
+[SPEAKER_03]  Obviamente entonces la secretaria o la asistente de gerencia era la que sentaban al frente del computador y teníamos que enseñarle.
+[SPEAKER_03]  Entonces uno se volvió el asesor tecnológico.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  me llamaban para preguntar qué packs compraban.
+[SPEAKER_03]  ¿Qué conmutador telefónico necesitaban? Nada que ver con mi trabajo. Sino que el ingeniero de sistemas en esa época era él.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  ¡Gracias!
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  el saberlo todo, más dicho, teníamos que dominar toda la ciencia de esa época, y era muy interesante, se apoyaban en nosotros para todos los tipos de...
+[SPEAKER_03]  de requerimientos que tenían en cualquier cosa que se pareciera a tecnología.
+[SPEAKER_03]  En mi caso estoy hablando de la pequeña y mediana empresa.
+[SPEAKER_03]  Tuve muy poco contacto con las empresas grandes.
+[SPEAKER_03] 
+[SPEAKER_03]  por no decir que nulo.
+[SPEAKER_03]  me enfoqué en...
+[SPEAKER_03]  Mi negocio fue el del desarrollo de los sistemas administrativos.
+[SPEAKER_03]  Fue todo enfocado a la pequeña y mediana empresa.
+[SPEAKER_03]  y la verdad es que éramos los primeros.
+[SPEAKER_03]  en este negocio.
+[SPEAKER_01]  Y muy unipersonal.
+[SPEAKER_01]  El gerente...
+[SPEAKER_01]  Recuerdo casos, no voy a mencionar nombres, que es una empresa importante.
+[SPEAKER_01]  que ponía de operador al hijo porque era un vago.
+[SPEAKER_01]  Y entonces tenía que hacer algo.
+[SPEAKER_01]  ¿No?
+[SPEAKER_01]  Y era el hijo, y me lo educan, decía, me acuerdo. Y estoy hablando de empresas importantes, pero no gigantes, pero muy notorias en Bogotá.
+[SPEAKER_01]  Y teníamos que enfrentar ese personal, tienes toda la razón.
+[SPEAKER_01]  Aprender de contabilidad, ¿no?
+[SPEAKER_01]  y de la legislación y todo eso.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  De parte y parte, ¿no? Para mí fue un proceso muy interesante porque...
+[SPEAKER_03]  Pues uno si sale de la universidad con conocimientos básicos de contabilidad.
+[SPEAKER_05]  ¡B-!
+[SPEAKER_03]  pero el resto de procesos administrativos y cosas de este estilo en esa época...
+[SPEAKER_05]  ¡Cero!
+[SPEAKER_03]  ¡Quiero!
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Cuando yo llegué a esta empresa a hacer esa asesoría para la adquisición y el montaje.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  de sistemas
+[SPEAKER_03]  Me dijeron que iban a implementar la cartera ahí.
+[SPEAKER_03]  Se imaginan obviamente que era lo que yo estaba pensando.
+[SPEAKER_03]  Mmm.
+[SPEAKER_03]  una cartera y yo quiero hacer una cartera cargada en el hombro.
+[SPEAKER_03]  Empezar uno a familiarizarse con toda esa...
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  todos esos conocimientos administrativos, aprender contabilidad de verdad, porque si uno va a desarrollar un sistema de cartera, tiene que aprender.
+[SPEAKER_03]  de cartera exhaustivamente, y lo mismo los inventarios y lo mismo la facturación. Entonces, tienes que aprender uno a cómo costear inventarios, cuáles son todas las opciones que existen de costeo de inventarios. Lo mismo la contabilidad, cómo va a empezar a manejarse la contabilidad, cuál es la mejor forma.
+[SPEAKER_03]  En esa época la contabilidad era bastante libre de manejar, no existían planes de cuenta ni nada de ese estilo. Cada empresa, mientras cumpliera con unos...
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  unos reportes básicos.
+[SPEAKER_03]  su balance, su P&G, unos libros mayores y una serie de cosas del estilo, pero no importaba cómo lo llevara, no fueran coherentes y ese tipo de cosas, ya después empezó a cambiar un poco más la parte administrativa. Entonces ya...
+[SPEAKER_03]  En ese momento el Ministerio de Hacienda entonces puso...
+[SPEAKER_03]  creó el plan único de cuentas.
+[SPEAKER_03]  Y empezaron a adaptarse a todas las...
+[SPEAKER_03]  legislaciones y esas cosas que fue muy interesante.
+[SPEAKER_03]  Pero en la parte de tecnología fue todavía más interesante porque...
+[SPEAKER_03]  El primer computador con el que se compró para esa empresa, el RadioShack, trabajaba con un sistema propietario que se llamaba TRS-DOS.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  será un sistema de radio chat.
+[SPEAKER_03]  y
+[SPEAKER_03]  manejaba un lenguaje BASIC interpretado.
+[SPEAKER_05]  Interesante.
+[SPEAKER_03]  todos los programas que se hicieron
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  que hice la primera vez fue en un basic interpretado.
+[SPEAKER_03]  Era muy interesante, donde no había recursos absolutamente de nada. Entonces, si uno quería, si iba a manejar archivos medianamente grandes o pues con algo de información, entonces uno tenía que crear los índices, inventarse cómo iba a manejar árboles binarios, que en la universidad todo bien duro le dio a uno haciendo recursividad y ese tipo de cosas, y llega uno a la realidad y se da cuenta lo útil que es todo lo que me enseñaron en la universidad.
+[SPEAKER_03]  Y entonces manejaba índices de árboles binarios, los balanceaba y no sé qué más. Toda esa historia.
+[SPEAKER_03]  Mmm.
+[SPEAKER_03]  desarrollo fue muy interesante después vino un sistema operacional que se llamaba 7 m
+[SPEAKER_03]  que ese era genérico de todos los computadores. Uno ya podía desarrollar en CPM, en un BASIC ya compilado.
+[SPEAKER_03]  Entonces uno podía desarrollar en un RadioShack, pero lo podía pasar muy fácilmente o casi que transparente.
+[SPEAKER_03]  a un lema.
+[SPEAKER_03]  o aún no.
+[SPEAKER_03]  Uy, ¿te acuerdas de esos computadores?
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  que traje, que trajo Carvajal.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Muy bien.
+[SPEAKER_03]  Entonces uno ya...
+[SPEAKER_03]  Entonces uno ya se podía mover libremente entre microcomputadores con ese sistema operacional CPM.
+[SPEAKER_03]  y con un basic compilado.
+[SPEAKER_03]  Entonces, ¿se acuerda?
+[SPEAKER_01]  De acuerdo que para pasar a CPM todo ese software que se tenía en esas máquinas diversas.
+[SPEAKER_01]  Desarrollamos un software que convertía el software.
+[SPEAKER_01]  Es decir, el input del software
+[SPEAKER_01]  que teníamos desde el principio.
+[SPEAKER_01]  ¿Se tenía? Sí.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  y
+[SPEAKER_01]  y el output era un software compatible con CPM.
+[SPEAKER_03]  con el basic de CPM.
+[SPEAKER_03] 
+[SPEAKER_01]  Y el PMX tenía algunas diferencias.
+[SPEAKER_01]  con nuestro colega Mario Charly, que estuvo acá hace ocho días.
+[SPEAKER_01]  Recordamos la historia de Gary Kildall, el desarrollador de CPM.
+[SPEAKER_05]  Correcto.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  que fue en Digital Research. Yo tenía un curso con Gary Keeler para diseñar un BIOS.
+[SPEAKER_01]  multiusuario.
+[SPEAKER_01]  que se llamaba MPM.
+[SPEAKER_01]  Ese no alcanzó a salir mucho.
+[SPEAKER_01]  Y Gary Kildall fue el primero que llamó a Microsoft para que le prohíba el sistema operacional para el PC.
+[SPEAKER_01]  Y Gary Kilda se portó vanidoso con IBM.
+[SPEAKER_01]  Y IBM no lo volvió a llamar.
+[SPEAKER_01]  y llamó a Bill Gates.
+[SPEAKER_01]  Y Gary Kilda, porque yo escribí sobre la historia de él.
+[SPEAKER_01]  Murió en depresión.
+[SPEAKER_01]  Porque él se dio cuenta después.
+[SPEAKER_01]  que eso no era una tarea como artesanal, sino que esto era una cosa que iba a nivel mundial.
+[SPEAKER_01]  Y es una historia muy triste de Kildare.
+[SPEAKER_01]  Y en Colombia...
+[SPEAKER_03]  también me hubiera muerto de depresión en tu caso.
+[SPEAKER_01]  Sí, sí, sí, fue una historia muy triste.
+[SPEAKER_01]  Y era un tipo muy bueno.
+[SPEAKER_01]  Y en Colombia el CPM fue muy famoso en esa época.
+[SPEAKER_01]  ¿no? En realidad.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Correcto. Así fue. Después se fue cuando empezaron a llegar todas las herramientas de apoyo. Me acuerdo que existían antes de las bases de datos como tal para microcomputadores, pero existían unas herramientas.
+[SPEAKER_03]  si no me falla la memoria, era Bit.Rib.
+[SPEAKER_03]  Creo que era de Nobel, una empresa de software y de redes.
+[SPEAKER_03]  No, si todavía existe.
+[SPEAKER_03]  Entonces uno ya se podía apoyar y generar archivos, hacer un manejo más eficiente de archivos con ese tipo de herramientas, porque poco después fue que aparecieron las bases de datos, no sé si recuerdas una muy famosa que se llamaba D-Base.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  y
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  El problema es que para uno poder trabajar con DBA como base de datos tenía que desarrollar en DBA.
+[SPEAKER_03]  Entonces tener uno todo asustado fue el...
+[SPEAKER_03]  y que con su metodología y su tecnología y tenerse que pasar ahí será muy complejo entonces era preferible este tipo de herramientas que empezaron a salir como el PitchTree y algunas otras que lo que hacían era PitchTree también existía un manejo de
+[SPEAKER_03]  de índices básicamente para tus archivos.
+[SPEAKER_03]  Entonces eso ha sido un poquito más eficiente la programación.
+[SPEAKER_03]  Eso fue bastante.
+[SPEAKER_01]  académicamente hablando, como esto lo van a escuchar becanos, estudiantes
+[SPEAKER_01]  Es que no había tecnología, había que construirla.
+[SPEAKER_01]  Si había que hacer un sort de un archivo.
+[SPEAKER_01]  Había que programar.
+[SPEAKER_01]  y tocaba estudiar.
+[SPEAKER_01]  Searching and Sorting, ¿recuerdan los libros?
+[SPEAKER_01]  famosos de...
+[SPEAKER_01]  de algoritmos, ¿no? Sí, sí. Porque para ser eficientes habría que hacer unas cosas muy bien hechas.
+[SPEAKER_01]  Y si no, era imposible.
+[SPEAKER_01]  Tal vez fue interesante que hubo que crear tecnología que hoy en día es de utilities, que están ahí a la mano.
+[SPEAKER_03]  Está ahí.
+[SPEAKER_03]  De acuerdo.
+[SPEAKER_01]  cuenta.
+[SPEAKER_03]  Y después de eso, entonces, ya llegaron a las bases de datos.
+[SPEAKER_03]  pero seguían siendo muy...
+[SPEAKER_03]  aisladas en cierto sentido.
+[SPEAKER_03]  Mmm.
+[SPEAKER_03]  me refiero a porque no eran muy integrables con software externo.
+[SPEAKER_03]  Ya después fue cuando empezaron a llegar las redes.
+[SPEAKER_03]  de computadores y vuelva y juegue entonces otra vez vuelvo a este diseño porque si una cosa es diseñar un manejo de archivos monousuario otra cosa es manejarlo multiusuario entonces empieza otra vez a cambiar todo
+[SPEAKER_03]  la lógica del software que uno tiene para el manejo de archivos.
+[SPEAKER_03]  Nos aparecieron las redes.
+[SPEAKER_03]  tuvimos que estudiar sobre redes como desalmados, porque eso era toda una novedad.
+[SPEAKER_03]  Mmm.
+[SPEAKER_03]  dificultad para instalarlas, para ponerlas a funcionar a punto, no era nada fácil. Sobre todo que no había nada...
+[SPEAKER_03]  estándar en ese sentido. Microsoft ya había empezado incipientemente a manejar algo de redes.
+[SPEAKER_03]  no era fácil en ese sentido le ganaban me parece a mí más en esa época no vendía algunas otras empresas que realmente tenían unas unas redes bastante
+[SPEAKER_03]  sólidas
+[SPEAKER_03] 
+[SPEAKER_03]  Y eso era bien interesante, pero aún así...
+[SPEAKER_03]  estábamos todavía aprendiendo y desarrollando cosas, generando toda esa tecnología que no existía.
+[SPEAKER_03]  Esa parte fue...
+[SPEAKER_03]  muy interesante. Ya cuando uno está estable en redes y ya tiene su software a punto y está manejando todas esas cosas, aparece Windows.
+[SPEAKER_03]  Entonces no lo dejan uno en paz ni siquiera un par de años.
+[SPEAKER_03]  Tiene que estar uno, desaparece Windows.
+[SPEAKER_05]  tiene que
+[SPEAKER_03]  Ni.
+[SPEAKER_03]  con todo un cambio.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  No, en todo sentido, porque es que cuando tú estás trabajando bajo un sistema operacional como DOS, donde tú tienes que hacer todas las instrucciones para manejar el sistema operativo.
+[SPEAKER_03]  Te enfrentas a un sistema donde tú lo que haces es con un ratón digitar sobre un icono.
+[SPEAKER_03]  Tengo que confesar que...
+[SPEAKER_03]  qué dificultad para apropiar esa tecnología.
+[SPEAKER_03]  Algo que es tan simple para cualquier usuario, bueno, relativamente simple en esa época para cualquier usuario.
+[SPEAKER_03]  Para...
+[SPEAKER_03]  Uno que estaba metido dentro del sistema operativo y dentro casi que del microprocesador de la máquina, llegar a una cosa que hace con clic hace todo, uno como que no le cree y como que no sabe por dónde es que tiene que hacer, porque se lo puede hacer por acá o por allá o por el otro lado y es lo mismo, empieza a cambiar toda su tecnología.
+[SPEAKER_03]  Entonces ahí se empieza a imponer la programación por objetos.
+[SPEAKER_01] 
+[SPEAKER_03]  Cambió completamente todo el manejo y la evolución del desarrollo.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Yo cuento mucho de que yo estuve en el lanzamiento del mouse.
+[SPEAKER_01]  en un computador de Apple.
+[SPEAKER_01]  que se llamaba
+[SPEAKER_01]  Elisa, Elisa, Elisa. Elisa.
+[SPEAKER_03]  Elisa o Elisa
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  que
+[SPEAKER_03]  No, es linda.
+[SPEAKER_01]  No, el líder.
+[SPEAKER_01]  Era Elisa, el nombre de la hija.
+[SPEAKER_01]  Que no quería adoptar a Steve Jobs.
+[SPEAKER_01]  cuando la adoptó
+[SPEAKER_01]  ¿Cómo?
+[SPEAKER_02]  Elisa creo que era la hija, ¿no?
+[SPEAKER_01]  Sí, exactamente. Y le dio ese nombre al primer...
+[SPEAKER_01]  antes de Macintosh.
+[SPEAKER_01]  Y lanzaron el mouse en Estados Unidos. Yo estuve en el lanzamiento.
+[SPEAKER_01]  Y me acuerdo que la ergonomía horizontal de la mano, que eso hoy día no se piensa, ¿no?
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  y un cursor que se movía vertical.
+[SPEAKER_01]  y la mano derecha horizontal.
+[SPEAKER_01]  generaba un conflicto ergonómico.
+[SPEAKER_01]  Y entonces uno cogía el mouse con la mano derecha.
+[SPEAKER_01]  y subí el mouse
+[SPEAKER_01]  ¡Gracias!
+[SPEAKER_01]  ¿no? A ver si el cursor se subía.
+[SPEAKER_01]  Eso hoy en día no lo nota nadie.
+[SPEAKER_01]  ya el cuerpo humano está totalmente transformado.
+[SPEAKER_01]  y tiene razón, o sea...
+[SPEAKER_01]  Cambios simples.
+[SPEAKER_01]  Importantísimos.
+[SPEAKER_01]  y que cambiaran hasta este sistema ergonómico de manejar el mouse.
+[SPEAKER_01]  Con, con, con, con...
+[SPEAKER_01]  con Windows, que fue una copia de la idea de...
+[SPEAKER_01]  Steve Jobs.
+[SPEAKER_01]  que Bill Gates le copió a Steve Jobs.
+[SPEAKER_03]  Sí, correcto. Que ahí hubo todo un conflicto y hubo demandas, ¿te acuerdas? Y todo eso dio respecto a Windows.
+[SPEAKER_03]  y el estado operativo de Apple.
+[SPEAKER_03]  que era bien interesante.
+[SPEAKER_03]  Por esas épocas fui profesor universitario, o antes, un poco antes, fui profesor.
+[SPEAKER_03]  en la Universidad Javeriana.
+[SPEAKER_03]  en la Facultad de Ingeniería Civil.
+[SPEAKER_03]  les daba programación a los primíparos, pues a los como de segundos, etc.
+[SPEAKER_03]  Entonces era muy chévere, era muy interesante porque para mí programar es una pasión, entonces enseñar.
+[SPEAKER_03]  enseñar a programar era bien interesante y sobre todo es una maravilla
+[SPEAKER_03]  uno como profesor, ver cómo lograr cambiarle.
+[SPEAKER_03]  la forma de pensar estructuradamente paso a paso a los estudiantes esa parte es bien.
+[SPEAKER_03]  Bien, interesa.
+[SPEAKER_01]  ¿Qué año era en ese momento?
+[SPEAKER_03]  85, creería yo, cuando fui profesor en la Javeriana por primera vez, porque fui profesor de programación y un par de años después, no, sí como dos años.
+[SPEAKER_03]  Me retiré de dos años y después volví al departamento, había, existía ya el departamento, la Facultad de Ingeniería de Sistemas en la Javeriana.
+[SPEAKER_03]  y estuve dictando estructuras de información.
+[SPEAKER_03]  como tres o cuatro semejas
+[SPEAKER_05]  No.
+[SPEAKER_03]  Eso ya fue como en el año...
+[SPEAKER_03]  98, 99.
+[SPEAKER_03]  No, antes, 96, 97. Ah, y teoría de sistemas.
+[SPEAKER_03]  con un colega, un tipo muy serio que me llevó a dictar con él teoría de sistemas.
+[SPEAKER_03]  Camilo Rodríguez, entonces teníamos una clase de teoría de sistemas que nos divertíamos muchísimo.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  con los primíparos porque
+[SPEAKER_03]  La verdad que eso...
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Era una forma muy grata de hacerles.
+[SPEAKER_03]  ver los sistemas, entonces nos fuimos mucho por lo social y ese tipo de cosas, y fue interesante cómo uno puede aprovechar toda la teoría de sistemas para...
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  navegar por esas zonas medio grises.
+[SPEAKER_03]  y alquilas de la sociología y de este tipo de cosas nos divertimos.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Eso fue un par de años bien interesantes.
+[SPEAKER_03]  Pero ahí me llevé la...
+[SPEAKER_03]  no sé cómo llamarlo, la sorpresa más extraña, y es que...
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Perdón, ya dije dónde fue, pero bórrenlo.
+[SPEAKER_03]  no querían programar, los estudiantes no querían programar.
+[SPEAKER_03]  Ninguno.
+[SPEAKER_03]  Todos querían ser...
+[SPEAKER_03]  administradores de sistemas en el mejor de los casos o si no gerentes o cualquier cosa de ese estilo pero
+[SPEAKER_03]  Pero yo no entiendo para qué estudiaban ingeniería de sistemas si no iban a...
+[SPEAKER_03]  hacer nada
+[SPEAKER_03]  Era más una tarea administrativa lo que siempre querían hacer.
+[SPEAKER_03]  Era bien extraño. De hecho, me sorprendía.
+[SPEAKER_03]  terriblemente que llegaran a estructuras de información con unas bases muy, muy, muy pobres de programación.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  poco triste digamos
+[SPEAKER_03]  Y esta es la hora en que sigo pensando, bueno, no, estoy retirado de la parte académica, pero yo no sé ahora.
+[SPEAKER_03]  si la gente aprende o no a programar. Que yo considero que en mi época...
+[SPEAKER_03]  Pues fue determinante, o sea, si uno iba a ser ingeniero de sistemas, en esa época, cuando yo me gradué,
+[SPEAKER_03]  era requisito casi obligatorio.
+[SPEAKER_03]  manejar.
+[SPEAKER_03]  programar de alguna manera.
+[SPEAKER_03]  De hecho...
+[SPEAKER_03]  Tuve un conflicto grande cuando me iba a graduar porque...
+[SPEAKER_03]  casualmente mi tesis.
+[SPEAKER_03]  no tenía absolutamente nada de desarrollo de software.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03] 
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Y el director de departamento de esa época.
+[SPEAKER_03]  No me quería aceptar la tesis después de haberla ya prácticamente terminado porque no tenía programación.
+[SPEAKER_01]  Bienvenida.
+[SPEAKER_03]  Es por ese pil.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  ¡Ah, pues claro!
+[SPEAKER_03]  ¡Hasta luego!
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  No, pero fíjate que fue muy interesante porque en el evento de Uniandinos en Barranquilla...
+[SPEAKER_03]  de ahora
+[SPEAKER_03]  como octubre o noviembre del año pasado, él confesó que fue una posición bastante...
+[SPEAKER_03]  brígea que no tenía por qué ser así, lo cual me congració con él un poco.
+[SPEAKER_01]  Es la vida, ¿no?
+[SPEAKER_01]  Sí.
+[SPEAKER_03]  Sí, sí.
+[SPEAKER_01]  La vida después de los años se arrepiente.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  pero fíjate que mi tesis no tenía nada de...
+[SPEAKER_01]  ¿Qué era la tesis?
+[SPEAKER_03]  Un saludo.
+[SPEAKER_03]  Sí, el impacto social.
+[SPEAKER_03]  de la computación en las empresas.
+[SPEAKER_05]  O sea, de qué manera...
+[SPEAKER_03]  O sea, de qué manera impactaba la...
+[SPEAKER_03]  a las empresas toda la tecnología computacional que estaba llegando.
+[SPEAKER_04]  Ajá.
+[SPEAKER_03]  Sí, lo tenía que ver con programación, pero graciosamente...
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Creo que los compañeros míos de la universidad, soy de los pocos...
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Ok.
+[SPEAKER_03]  hecho desarrollar software por largo tiempo.
+[SPEAKER_01]  Para la vida, claro.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  Sí, la mayoría muy poco o ninguno y después pasaron a cargos ya más administrativos y gerenciales y cosas de ese estilo.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Esa son las...
+[SPEAKER_03]  las gracias de la vida que casi no me puedo no me aceptan mi tesis de grado por no tener desarrollo y meditar desarrollo que el otro tema también me parece interesante la parte organizacional
+[SPEAKER_03]  me llamaba mucho la atención en esta época de la universidad.
+[SPEAKER_03]  Pero bueno.
+[SPEAKER_03]  Di clases entonces en Baja Veriana.
+[SPEAKER_03]  estructural de información.
+[SPEAKER_03]  Me retiré, me tuve que retirar. Parte de las razones del retiro es porque yo no tenía...
+[SPEAKER_03]  ninguno se tuyo
+[SPEAKER_03]  posteriores.
+[SPEAKER_03]  Meee
+[SPEAKER_03]  formales.
+[SPEAKER_05]  Vale.
+[SPEAKER_03]  Todo lo que había tenido que estudiar para mantenerme donde estaba, todo lo que tuve que estudiar de redes, de bases de datos, de...
+[SPEAKER_03]  diseño de software, entonces ese tipo de cosas no era
+[SPEAKER_03]  no era avalado como tal.
+[SPEAKER_03]  ni la experiencia de tantos años entonces no...
+[SPEAKER_03]  Bueno, me ofrecían opciones, pero realmente no las quise tomar en ese momento.
+[SPEAKER_03]  condiciones adicionales. Algo que me salte que creo que es importante en la parte de la tecnología es el
+[SPEAKER_03]  ¡Eso es!
+[SPEAKER_03]  en el año.
+[SPEAKER_03]  ¿Recuerdas Manuel? 87, 88, 89.
+[SPEAKER_03]  nos asociamos varios desarrolladores de software
+[SPEAKER_03]  para crear un DOSOFT.
+[SPEAKER_03]  Bien, gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  La primera asociación de...
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  en esa época
+[SPEAKER_03]  Muy difícil podernos poner de acuerdo a todos los ingresos de sistemas con nuestro carácter bien especial.
+[SPEAKER_03]  pero logramos sobrevivir un poco de tiempo hasta que llegaron las grandes empresas, se dieron cuenta cómo era esto acá.
+[SPEAKER_03]  y
+[SPEAKER_03]  Nos montaron la competencia que creo que ese fue el inicio de FedeSoc.
+[SPEAKER_05]  Bien.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Quiero Microsoft y Oracle.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Eso tiene su historia.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Yo trabajaba con todas las casas de software de micros en esa época desde Lógica, mi empresa.
+[SPEAKER_03]  y claro
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Yo sabía que todos eran muy buenas personas.
+[SPEAKER_01]  Pero entre el grupo eran competidores.
+[SPEAKER_01]  ¿No?
+[SPEAKER_01]  se veían con los ojos de competidores.
+[SPEAKER_01]  Y yo invité a una reunión en lógica sin decirles quién iba.
+[SPEAKER_01]  Y eran todos...
+[SPEAKER_01]  todos los competidores
+[SPEAKER_01]  que resultaron ser amigos de universidad, colegas, se identificaron que les gustaba el software.
+[SPEAKER_01]  Y ahí nació Indusopo, y si tienes toda la razón.
+[SPEAKER_01]  que años después,
+[SPEAKER_01]  se convirtió en fe de santo.
+[SPEAKER_01]  Pero duramos varios años con Windows Soft, ¿no?
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Sí, sí, sí, lo logramos llevar y logramos hacer algo. No, realmente no creo que hayamos sido lo suficientemente...
+[SPEAKER_03]  eficientes o eficaces no sé para lo que queríamos y nos agremiamos y tratamos de
+[SPEAKER_03]  como estandarizar cosas, pero...
+[SPEAKER_03]  Pero, por ejemplo, no logramos llegar a hacer una...
+[SPEAKER_03]  Una voz.
+[SPEAKER_03]  visible.
+[SPEAKER_03]  en el ministerio
+[SPEAKER_03]  de la tecnología.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  ni ante el gobierno ni nada de ese estilo. Fue muy...
+[SPEAKER_03]  muy como fijar como políticas y cosas de ese estilo que sí fueron útiles para muchos de nosotros, pero...
+[SPEAKER_03]  Pero bueno, era el arranque, ¿no?
+[SPEAKER_01]  Sobre todo la piratería.
+[SPEAKER_03]  Sobre todo a pie.
+[SPEAKER_03]  Exacto.
+[SPEAKER_01]  programando compilables todo el mundo copiaba.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Pero bueno, sí, ese fue un inicio, es correcto.
+[SPEAKER_03]  Pero fue interesante y fue una tarea bien, bien, bien, bien, bien grata en esa época. Y yo diría que...
+[SPEAKER_03]  Pues ahí sigue mi historia básicamente en el desarrollo de software. Ya aprendí incorporando todas las nuevas metodologías de desarrollo.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Entrando.
+[SPEAKER_03]  Ya empecé a cambiar ya no trao time basic y me ence más más eh.
+[SPEAKER_03]  Mientse, perdón.
+[SPEAKER_03]  solito
+[SPEAKER_03]  sino ya empecé a trabajar con otro tipo de herramientas.
+[SPEAKER_03]  con una...
+[SPEAKER_03]  en esta época. Ahora se llama Embarcadero, pero antes se llamaba una empresa que desarrollaba un software.
+[SPEAKER_03]  C++ Builder para desarrollo bajo ambiente Windows.
+[SPEAKER_03]  era bien interesante, con lenguajes que podías escoger si los desarrollabas en C++ o en Pascal.
+[SPEAKER_03]  y podías incorporar ya motores de bases de datos y cosas de ese estilo. Entonces tocó coger y todo ese software que venía en DOS y en BASIC y en C.
+[SPEAKER_03]  pasarlo a todas estas nuevas herramientas de programación por objetos.
+[SPEAKER_03]  con bases de datos relacionales.
+[SPEAKER_03]  y todo el agua ambiente ya...
+[SPEAKER_03]  windows con las presentaciones mucho más elegantes porque es que
+[SPEAKER_03]  A ver.
+[SPEAKER_03]  hacer una ventana de presentación en DOS era...
+[SPEAKER_03]  punto por punto, raya por raya, cuadrito por cuadrito, color por color, era bastante complejo. Ya con estas nuevas herramientas uno tenía toda una...
+[SPEAKER_03]  una plataforma de diseño y cosas de ese estilo muchísimo más.
+[SPEAKER_03]  manejable
+[SPEAKER_03]  Y digamos que ahí lo que siguió fue la aventura de...
+[SPEAKER_03]  de seguir desarrollando y comercializando el software para...
+[SPEAKER_03]  para los clientes y traerlos a estas nuevas versiones de Windows.
+[SPEAKER_03]  Y ya en redes...
+[SPEAKER_03]  Y bueno, después de toda esa parte, aparece entonces...
+[SPEAKER_03]  todo el manejo web en el país.
+[SPEAKER_03]  Y ahí el reto ya es muchísimo más grande de cómo vamos a cambiar todo nuestro software.
+[SPEAKER_05]  El rey.
+[SPEAKER_03]  Ah.
+[SPEAKER_03]  a todo el manejo web.
+[SPEAKER_03]  Ya.
+[SPEAKER_03]  yo no pude ni tenía el músculo financiero ni las ganas ni la juventud ni nada de ese estilo para
+[SPEAKER_03]  para seguir en estas líneas.
+[SPEAKER_03]  Desarrollé software web.
+[SPEAKER_03]  y
+[SPEAKER_03]  cosas puntuales para manejo de bases de datos, cosas de ese estilo.
+[SPEAKER_03]  manejo de páginas de empresas.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  No recuerdo algunas cosas. Ah, bueno, un manejo para repuestos de...
+[SPEAKER_03]  llantas de una empresa muy grande.
+[SPEAKER_03]  que lo hacía a nivel nacional, entonces quería manejar todo el inventario desde ahí, más que el inventario, todos los requerimientos de los...
+[SPEAKER_03]  Bien, lo...
+[SPEAKER_03]  distribuidores a nivel nacional, entonces todo eso ya se hacía web.
+[SPEAKER_03]  Y ya empecé a meterme un poco más por ese...
+[SPEAKER_03]  lado del desarrollo web
+[SPEAKER_03]  Hasta que ya por phobia terminé haciendo un juego.
+[SPEAKER_03]  de cartas que se llama King no sé si lo conocen, que es un juego muy
+[SPEAKER_03]  interesante en alguna medida parecido al bridge lo que es más conocido
+[SPEAKER_03]  Y digamos que eso fue lo último esfuerzo que hice para desarrollar eso.
+[SPEAKER_03]  Actualmente...
+[SPEAKER_01]  ¿Cómo se llama el software?
+[SPEAKER_03]  El juego de cartas se llama King.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  GING
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Ok.
+[SPEAKER_01]  ¡Pinx! ¡Rey!
+[SPEAKER_01]  Creo que es francés.
+[SPEAKER_01]  Una anotación importante y tal vez en la observación para Kevin como...
+[SPEAKER_01]  Como un observador joven, tecnología de punta, ¿no?
+[SPEAKER_01]  Porque es que este recuento va desde que no existía nada, existían los mainframes.
+[SPEAKER_01]  Pasaste por los minicomputadores.
+[SPEAKER_01]  Mencionaste los prime, ¿sí?
+[SPEAKER_01]  que entre otras cosas
+[SPEAKER_01]  si eran de Elena, de los Gutiérrez se llamaban ellos. ¡Ay, Gutiérrez!
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Ah, es Gutiérrez.
+[SPEAKER_01]  Señor.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  De acuerdo, la empresa de Elena que lo mencionaste.
+[SPEAKER_01]  Procalculo, que hoy día se llama Procis.
+[SPEAKER_03]  y
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Prime, o sea eran mini computadores
+[SPEAKER_01]  Pasas o pasó la historia de Colombia a los micros.
+[SPEAKER_01]  donde había disquetes, no había discos duros.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  Aparecen varias marcas, ahí aparecen algunos colegas, cómodo lo traje Guillermo Santos del tiempo.
+[SPEAKER_01]  Radio Charlotte, la he yo.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Apple, se me olvidó el nombre del gran amigo que trajo Apple, que ustedes pronto te acuerdas.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Bueno, que también fueron, digamos, los primeros.
+[SPEAKER_01]  y era muy primitivo, o sea, disqué, no había disco duro, después aparece...
+[SPEAKER_01]  el PC aparece Windows
+[SPEAKER_01]  Aparece el mouse, ¿no?
+[SPEAKER_01]  Los discos duros.
+[SPEAKER_01]  Déjame te hago un...
+[SPEAKER_03]  Déjame te hago un...
+[SPEAKER_03]  Una interrupción ahí que...
+[SPEAKER_03]  simpática y es que
+[SPEAKER_03]  Después de los disquets, Radio Shack empezó a traer unos discos duros.
+[SPEAKER_04]  Sí.
+[SPEAKER_03]  Creo que eran de 2 megas o de 1 mega. O algo así. Eran unas cajas muy grandes.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  pero uno tenía una serie de problemas. Tuve dos situaciones muy simpáticas con esos discos duros. Uno era que había que colocarle en Cali.
+[SPEAKER_03]  Unos clientes en Cali tenían que ponerle ventiladores.
+[SPEAKER_03]  encima para mantenerlo refrigerado.
+[SPEAKER_03]  Y el otro es que a un disco duro se le perdía la información cada vez que...
+[SPEAKER_03]  que apagaba
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  Y tocó llevarlo a que allá en Cali lo arreglaran los ingenieros. Y cuando abren el disco duro había un ratón adentro.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Adiós.
+[SPEAKER_03]  Adiós.
+[SPEAKER_01]  Ratón, ratón, de acuerdo, ¿sí?
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  ¿Sí? ¿Está bien?
+[SPEAKER_04]  ¿Te acuerdas?
+[SPEAKER_01]  Yo tengo esa historia, no puedo contar el lenguaje del dueño.
+[SPEAKER_01]  porque no queda como bien acá.
+[SPEAKER_01]  Pero él nos llamó a decir...
+[SPEAKER_01]  los listados me salen vueltos
+[SPEAKER_01]  Y una palabra que comienza por M.
+[SPEAKER_01]  Cuando los ingenieros descubrieron el ratón...
+[SPEAKER_01]  Dijeron, ya entendemos por qué les salieron los delictados, ¿no?
+[SPEAKER_01]  Eso no se consigue hoy en día. El ratón vivía.
+[SPEAKER_01]  en el disco duro
+[SPEAKER_01]  De acuerdo.
+[SPEAKER_01]  Sí, eso tiene razón. Son historias rarísimas, pero así eran en ese momento.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Lo que pasa es que desde la perspectiva de ahora es muy simpático ver como un disco duro que podía medir...
+[SPEAKER_03]  50 centímetros por 50 o 60 o un poco más. Eran unas cajas muy grandes y altas de 25 centímetros o algo así.
+[SPEAKER_03]  para poder almacenar uno o dos megas.
+[SPEAKER_03]  Y coge un celular, el celular que cualquiera de nosotros tenemos ahora es 70.000 veces más potente que el IBM 360 que ocupaba todo el primer piso del...
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  El edificio de ingeniería en Los Ángeles.
+[SPEAKER_01]  Totalmente de acuerdo.
+[SPEAKER_01]  Y una cosita.
+[SPEAKER_03]  Y una...
+[SPEAKER_01]  Los discos duros de los mainframes
+[SPEAKER_01]  Sonaban.
+[SPEAKER_01]  o sonaban las cabezas
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Y la música que generaba al oído.
+[SPEAKER_01]  Le indicaba a uno en qué proceso iba el sistema.
+[SPEAKER_01]  Entonces, remotamente, cuando yo acueducto de energía, yo dirigí eso.
+[SPEAKER_01]  A las 3 de la mañana pedía que le pusieran el teléfono en el disco duro.
+[SPEAKER_01]  Ayer un profesor de los Andes me contó que contaba esa historia en sus clases, que yo se la conté.
+[SPEAKER_01]  Entonces ponían el teléfono.
+[SPEAKER_01]  Yo desde mi casa decía ya.
+[SPEAKER_01]  Está fallando en el merch de la facturación de Bogotá, una vaina gigante.
+[SPEAKER_01]  Pase en tal utility, corre no sé qué.
+[SPEAKER_01]  Entonces, eran épocas que los discos duros sonaban, eran pequeños, pero bueno.
+[SPEAKER_01]  Toda esa historia pasaste, las redes locales, mencionaste a Nobel.
+[SPEAKER_01]  ¿De acuerdo? Tal vez en UNIX si no llegaste a trabajar en UNIX, creo que no.
+[SPEAKER_03]  Trabajé en Unix con otra empresa paralela.
+[SPEAKER_03]  fuimos distribuidores de UNIX, trajimos Informix, los primeros Informix, bueno, no decir que los primeros, pero en la época cuando estaba llegando el Informix al país.
+[SPEAKER_03]  con un socio que tuve
+[SPEAKER_03]  Empezamos a distribuir informes acá.
+[SPEAKER_03]  fuimos por la distribución, se fue este tipo para Estados Unidos por la distribución.
+[SPEAKER_03]  y llegó dos horas tarde a la reunión entonces obviamente la distribución nos la quitaron, nos dejaron seguir vendiendo informix hicimos unos desarrollos en informix me acuerdo para
+[SPEAKER_03]  Cummings de Colombia y para un laboratorio para GEMPAR.
+[SPEAKER_03]  también en Informix, pero te estoy hablando, a ver, eso fue año.
+[SPEAKER_03]  Uy no, 81.
+[SPEAKER_03]  6, 8, perdón, 90.
+[SPEAKER_03]  Más o menos en esa época en que el informix empezó a llegar al país en barra. Igual era una competencia fuerte para ahora con el insomnio.
+[SPEAKER_03]  Y esas fueron las primeras bases de datos que ya se empezaron a manejar, sobre todo para sistemas grandes.
+[SPEAKER_01]  Sí, muy bien, muy interesante. Tú eres, te cuento...
+[SPEAKER_01]  tal vez de los colegas entrevistados.
+[SPEAKER_01]  el que más ha contado de esa trayectoria.
+[SPEAKER_01]  ¿Qué?
+[SPEAKER_01]  de la tecnología.
+[SPEAKER_01]  de lo que nos estás contando.
+[SPEAKER_01]  El titán es el primero.
+[SPEAKER_01]  que logra apuntar la historia, ¿no?
+[SPEAKER_01]  tecnológica.
+[SPEAKER_01]  Porque normalmente los jóvenes entran ya con Google y con toda la...
+[SPEAKER_00]  Porque normal.
+[SPEAKER_01]  para la finalidad actual, ¿no?
+[SPEAKER_01]  Pero esto que tú has hecho, lo que estás haciendo es muy interesante porque ahí va el proceso. ¿Verdad? En el año 90.
+[SPEAKER_01]  Obviamente ya como profesional.
+[SPEAKER_01]  Habla de informes, que pues Oracle, después viene Oracle y todas las bases de datos relacionales, pero no existían, básicamente es lo que...
+[SPEAKER_01]  Debe saberse que eso no existía en una época.
+[SPEAKER_03]  De acuerdo. Sí, sí, pues es que la verdad nos tocó una época, yo diría gloriosa, difícil, porque tiene que acomodar uno la cabeza al cambio.
+[SPEAKER_03]  Es que venimos de...
+[SPEAKER_03]  tarjetas perforadas
+[SPEAKER_03]  a programar en el celular, o sea, hacer apps para los celulares.
+[SPEAKER_03]  No sé si la gente joven alcanza a medir la magnitud de...
+[SPEAKER_03]  de transformación que hemos vivido.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Sí es cierto, te va a dar risa, pero yo a mi hija le tengo que pedir el favor que me cuadre el celular para que haga cosas porque yo ya no puedo. Hay cosas que a mí se me salen de las manos. En cambio, una persona, un joven de...
+[SPEAKER_03]  un niño de 8 años, eso es pan comido, ya vienen con el chip adentro, es perfectamente fácil a nosotros nos tocó toda una transformación, si, como la planteamos desde
+[SPEAKER_03]  A mí me parece relevante haber pasado por esa época a finales del centro de la universidad con esos microprocesadores. Es que eso fue lo primero, la cienilla de lo que vino después de los microcomputadores, Apple, los PCs de IBM.
+[SPEAKER_03]  todo ese proceso fue bien interesante, ver las redes, ver cómo ahora es que estamos conectados, interconectados, todos con todos, eso nos nació de lado, eso no fue...
+[SPEAKER_03]  generación espontánea eso
+[SPEAKER_03]  Tomo.
+[SPEAKER_03]  mucho tiempo.
+[SPEAKER_03]  Y realmente creo que nosotros acá en Colombia de una u otra manera siempre, no voy a decir que estuvimos a la vanguardia, pero sí hemos estado asimilando y consumiendo tecnología, yo diría que rápidamente.
+[SPEAKER_05]  y
+[SPEAKER_03]  No sé si te acuerdas, Manuel, una vez que estábamos en tu oficina y fue un gringo algo.
+[SPEAKER_03]  No sé a qué punto iría.
+[SPEAKER_03]  Y dijo, ah sí, espera un momento, esto fue año 85.
+[SPEAKER_03]  84 86 si esperes un momentico consultó esto en el computador de la empresa y cogió el teléfono y lo conectó a un módem
+[SPEAKER_03]  Sí, la línea telefónica se conectó con el computador OnModem y sacó toda la información de la empresa.
+[SPEAKER_03]  Yo me acuerdo que tú y yo nos quedamos mirando y diciendo, no puede ser, no puede ser.
+[SPEAKER_03]  En esa época, un tipo se está conectando con su computador en...
+[SPEAKER_03]  En California, en alguna parte...
+[SPEAKER_03]  Es que eso no existía, aquí en Colombia eso no existía.
+[SPEAKER_01]  De acuerdo. No había telecomunicaciones. Es correcto.
+[SPEAKER_01]  Por el momento, obviamente.
+[SPEAKER_03]  Gracias a todos.
+[SPEAKER_01]  Bueno.
+[SPEAKER_03]  Bueno...
+[SPEAKER_03]  Y hay otra parte, la tecnología paralela, que es bien interesante. En esa primera empresa que yo trabajé existía un teletipo.
+[SPEAKER_03]  Yo creo que si le preguntas a muchos de los jóvenes de ahora que es un teletipo, no tienen ni idea.
+[SPEAKER_01]  No, no saben qué es eso.
+[SPEAKER_03]  Era un equipo para transmitir información.
+[SPEAKER_03]  No, no era digital, ¿verdad?
+[SPEAKER_03]  Análogo.
+[SPEAKER_03]  para transmitir información, igual, eran unas chicas que se perforaban.
+[SPEAKER_03]  Y eso transmitía los datos de ventas, de cosas de ese estilo que se necesitaban.
+[SPEAKER_03]  Después del teletipo fue que apareció el Pax.
+[SPEAKER_01]  Es fácil, pero es una cosa impresionante.
+[SPEAKER_03]  Una cosa maravillosa.
+[SPEAKER_01]  El primer que nos...
+[SPEAKER_01]  La primera es más tratada por fax.
+[SPEAKER_03]  La primera no fue a Pira.
+[SPEAKER_01]  Perdona, la primera firma.
+[SPEAKER_01]  tala porfa que eso
+[SPEAKER_01]  ¿A Kevin le puede dar risa todo esto?
+[SPEAKER_01]  pero es que cualquier...
+[SPEAKER_01]  La primer firma trasladada por FACS, eso era un... uno iba a verla, cómo es que esto está funcionando así.
+[SPEAKER_03]  Tú mandar una carta por fax, un documento por fax, y que llegara y que lo pudieran leer al otro lado el documento como tal. O peor, una fotografía, que fue lo que nos pasó ya con toda la información periodística a nivel mundial, que tú antes para que una fotografía te llegara a la redacción de un periódico, cuando así se tomaba sus días.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  ¿Cómo es que al otro día, no, a la media hora de haber tomado la fotografía ya llegó al tiempo el redactor por allá de Vietnam mandando las fotos? Eso es absurdo. Y otra cosa interesantísima que se nos olvidó, el módem de los teléfonos.
+[SPEAKER_05]  Yo también.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Que no se me olvidará el ruido cuando se estaba conectando al internet por medio del modem telefónico. ¿Te acuerdas que era un pitido de...?
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01] 
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Para que sepa Kevin, que es un gran espectador de esto.
+[SPEAKER_01]  Se conectaba el computador al módem y por vía telefónica...
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Yo hice la primera transmisión por radio.
+[SPEAKER_01]  de un chat.
+[SPEAKER_01]  en todelar.
+[SPEAKER_01]  Programa de trasnochadores, 4 horas de 12 de la noche a 4 de la mañana.
+[SPEAKER_01]  y vinieron con nosotros para hablar de estas cosas por radio.
+[SPEAKER_01]  Yo llegaba allá, instalábamos un cable de muchos metros a una línea telefónica.
+[SPEAKER_01]  Y al mode.
+[SPEAKER_01]  Y hicimos los primeros chats. Eso era rarísimo.
+[SPEAKER_01]  Y claro, cuando tú llamabas, el modo impitaba.
+[SPEAKER_01]  Hay una anécdota del presidente de...
+[SPEAKER_01]  Floramérica.
+[SPEAKER_01]  Le contemos eso.
+[SPEAKER_01]  que fue socio mío, Tomás Kiles.
+[SPEAKER_01]  Como presidente de Flor America trajo el primer teletipo que tú dices a Flor America, una empresa gigante, era la más grande del mundo en flores.
+[SPEAKER_01]  colombiana.
+[SPEAKER_01]  Instalaron el teletipo.
+[SPEAKER_01]  Y a las 3 de la mañana...
+[SPEAKER_01]  el teletipo comenzó a funcionar solo, es decir, a recibir información.
+[SPEAKER_01]  Y el celador.
+[SPEAKER_01]  lo destruyó con un palo.
+[SPEAKER_01]  porque pensó que era un fantasma.
+[SPEAKER_01]  Esa es una historia de Tomás Hitler que era increíble. O sea, no le avisaron, mire esto, a las tres, no.
+[SPEAKER_01]  Él estaba cuidando y se vuelve durmiendo con su hermanita.
+[SPEAKER_01]  Y comenzó a funcionar ese aparato solo.
+[SPEAKER_01]  eran ese tipo de épocas, que eso pues hoy día no se lo imaginan.
+[SPEAKER_01]  bien sigue que está muy bien toda la historia
+[SPEAKER_03]  Es que vale la pena mencionar eso porque es que las comunicaciones y la computación, pues cuando empezaron a andar, ya cada vez acercarse más.
+[SPEAKER_03]  Antes la comunicación iba por un lado. Lo que eran las comunicaciones en general iban por un lado.
+[SPEAKER_03]  y la computación iba por otro.
+[SPEAKER_03]  Ya cuando apareció el teletipo, ya después el PAS, cuando empezaron a aparecer los modems, ya las comunicaciones y la computación ya...
+[SPEAKER_03]  se volvieron hermanitos.
+[SPEAKER_03]  Y creería que para...
+[SPEAKER_03]  terminar
+[SPEAKER_03]  un poco toda esta conversación es que
+[SPEAKER_03]  Yo me gradué en el año 82.
+[SPEAKER_03]  En el año 85 era...
+[SPEAKER_03]  Éramos, todos los ingenieros de esa época, los sabios de la tecnología.
+[SPEAKER_03]  nos consultaban
+[SPEAKER_03]  Todo, absolutamente todo. Creo que hasta asesores matrimoniales fuimos o cualquier cosa de ese estilo. Todos nos consultaban.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03] 
+[SPEAKER_03]  y llegamos ya a un punto de especialización en que yo sé desarrollar software.
+[SPEAKER_03] 
+[SPEAKER_03]  Pero no sé.
+[SPEAKER_03]  O sea, que es muy poco.
+[SPEAKER_03]  de redes, un poco de comunicaciones, un poco de diseño gráfico, un poco de bases de datos, un poco de muchas cosas, pero ya tener uno el control que tenía sobre la tecnología existente en el momento, ya es imposible.
+[SPEAKER_03]  y es muy difícil abarcar todos los temas.
+[SPEAKER_03]  todas las metodologías, todas las tecnologías, ya a uno se le sale, se le desborda todo el conocimiento que existe actualmente.
+[SPEAKER_03]  Yo creo que ahora...
+[SPEAKER_03]  existen demasiadas especializaciones, demasiadas cosas y uno no puede...
+[SPEAKER_03]  A la entrada.
+[SPEAKER_03]  todos esos ingenieros
+[SPEAKER_03]  transversales, es como los llaman. Pucha, aquí hay que saber demasiado de demasiadas cosas que ya nos pasó nuestro cuarto de hora. Dejémoselo a Kevin y a los que siguen después, porque ya no.
+[SPEAKER_01]  jóvenes, sí, sí, es cierto.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Es otra historia, es otro momento.
+[SPEAKER_03]  y la velocidad.
+[SPEAKER_03]  ¿No?
+[SPEAKER_03]  La velocidad del desarrollo de todo, ya es un ritmo...
+[SPEAKER_03]  Bien.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  un infernario.
+[SPEAKER_03]  Por lo tanto, para no enloquecerme, decidí recluirme en el campo.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  y aquí vivo feliz.
+[SPEAKER_03]  y listo
+[SPEAKER_01]  Bueno, pero ya con buen internet.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Ya, como en internet. Es que había sido muy necio porque como no quería estar muy cerca de la tecnología, no había querido instalar internet.
+[SPEAKER_01]  Ya.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03] 
+[SPEAKER_03]  créanme que sobreviví un año con el internet del celular.
+[SPEAKER_03]  Pero el sitio...
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Como digamos, un poco también cerrando la conversación.
+[SPEAKER_03]  como
+[SPEAKER_01]  Una cosa que hay que agradecerte es que...
+[SPEAKER_01]  Fuiste el primero en tocar esa historia como tan detallada, ¿no?
+[SPEAKER_01]  Casi siempre todos hablan del momento.
+[SPEAKER_01]  ¿No?
+[SPEAKER_01]  Pero esta historia es sumamente valiosa.
+[SPEAKER_01]  en ese conocimiento personal que obviamente tenemos de ti.
+[SPEAKER_01]  Sé que la música ha sido un tema central en ti.
+[SPEAKER_01]  Porque hemos encontrado, por ejemplo, Bernardo Lievano, ingeniero civil y gran amigo, desarrollador de software también.
+[SPEAKER_01]  terminó siendo violinista.
+[SPEAKER_01]  Y tú te acuerdas, ¿no?
+[SPEAKER_01]  tenía un conjunto de cámaras.
+[SPEAKER_01]  Y él siguió siendo ingeniero civil, pero se moría con su violín y fue maravilloso. Él murió.
+[SPEAKER_01]  Sé que en el caso tuyo la música ha sido un tema fundamental y mencionémoslo, son temas que a veces no se conocen. Carlos Mario.
+[SPEAKER_03]  ¿Hasta dónde puedo mencionar?
+[SPEAKER_01]  lo que tú quieras
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  menos
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Lo cagamos los dos.
+[SPEAKER_03]  En alguna época de la vida pensamos más bien dedicarnos a la música y dar serenatas en Cartagena.
+[SPEAKER_03]  en el parque, en la plaza del reloj, o alguna cosa de ese estilo.
+[SPEAKER_03]  Pero no, no, mentira, no.
+[SPEAKER_03]  Pues la verdad.
+[SPEAKER_03]  Más bien empiezo por el final.
+[SPEAKER_03]  Les voy a contar lo más maravilloso que me está pasando ahora.
+[SPEAKER_03]  me metí de lleno a la música.
+[SPEAKER_03]  Vivo en Tengo.
+[SPEAKER_03]  y existe el Instituto de Cultura de Tenco.
+[SPEAKER_03]  donde
+[SPEAKER_03]  tiene unos programas de música bien interesantes
+[SPEAKER_03]  gratuitos
+[SPEAKER_03]  Esto no lo puedo decir muy duro porque dentro de poco empiezan a cobrar.
+[SPEAKER_03]  pero entonces estoy en clases de guitarra.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  de piano.
+[SPEAKER_03]  de técnica vocal
+[SPEAKER_03]  y estoy esperando que me admitan en teoría musical.
+[SPEAKER_03]  Entonces, llevo este otra vez, volví a empezar primer semestre.
+[SPEAKER_03]  Compré un holder, compré hojas de repuesto, compré esfero.
+[SPEAKER_03]  y estoy estudiando
+[SPEAKER_03]  cual primíparo otra vez Universidad Fusios empezando a estudiar música.
+[SPEAKER_03]  ya formalmente
+[SPEAKER_03]  Desde cero, estoy...
+[SPEAKER_03]  que no me cambio forma.
+[SPEAKER_03]  por nadie, lo que debía haber hecho a los ocho años.
+[SPEAKER_03]  que la música siempre me fue ingrata
+[SPEAKER_03]  Y para contarles por qué me fue ingrata, les voy a contar una sola anécdota desde el principio. Yo tenía...
+[SPEAKER_03]  Ocho años estaba en...
+[SPEAKER_03]  primero de primaria en el colegio.
+[SPEAKER_03]  Hubo audiciones para el coro.
+[SPEAKER_03]  Me presenté al coro.
+[SPEAKER_03]  para presentar la audición.
+[SPEAKER_03]  Y me fui.
+[SPEAKER_03]  No entendí qué me dijeron, ni qué pasó, ni qué nada.
+[SPEAKER_03]  A los ocho días un compañero me dice, oiga, lo llamaron a la lista del cobro, ¿por qué no fue? Ah, porque yo no sabía si me habían aceptado o no.
+[SPEAKER_03]  fui a hablar con el profesor del coro.
+[SPEAKER_03]  Y el profesor me dijo, no, ya dejémoslo para el año entrante.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  no puede entrar al corte
+[SPEAKER_03]  a los 11 años.
+[SPEAKER_03]  Yo quería...
+[SPEAKER_03]  una guitarra eléctrica, una guitarra, porque un vecino tenía una guitarra eléctrica y tocábamos Satisfaction.
+[SPEAKER_03]  de los Rolling Stones
+[SPEAKER_03]  y yo quería tocar satisfaction y tener mi guitarra y esas cosas, le pedí al niño dios una guitarra
+[SPEAKER_03]  Y el niño Dios me trajo un triple.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  satisfacción en esa época no creo que era un tipo
+[SPEAKER_04]  No creo que era una...
+[SPEAKER_05]  y y y y y y y y y y y y y
+[SPEAKER_03]  ahora puede que sí entonces la verdad es que toda la vida para mí la música fue pues iba yo nunca entonces me dediqué estudié toque guitarra porque aprendí solo toda la vida
+[SPEAKER_03]  Creo que hemos tenido más de una tertulia.
+[SPEAKER_03]  simpática contigo, con Mari, con otras personas, nos hemos divertido algo alrededor de la música.
+[SPEAKER_03]  Y esa sí ha sido mi pasión, me gusta muchísimo.
+[SPEAKER_03]  me gusta más que la música, soy un también...
+[SPEAKER_03]  Soy algo melómano.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  más por el lado de la música.
+[SPEAKER_03]  popular, me gusta mucho la música clásica, no soy muy conocedor.
+[SPEAKER_03]  pero me encantan todos los cantantes de mi época.
+[SPEAKER_03]  que tú bien sabes que conozco muy bien y me encanta cantar esa música.
+[SPEAKER_03]  En fin, esa es mi historia de la música y espero dentro de poco tiempo estar realmente ya metido. Y entre otras cosas, voy a comparar la programación con el aprendizaje de música.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Es increíble cómo es tan parecido estudiar programación a aprender a leer. Yo leo algo, partitura, pero aprender a leer ya formalmente una partitura.
+[SPEAKER_03]  Requiere...
+[SPEAKER_01]  Muchas veces...
+[SPEAKER_03]  La misma o más disciplina que aprender a programar, porque es que aprender a programar cuando no le han fichado la cabeza al programador, eso es un cambio muy fuerte.
+[SPEAKER_03]  Aquí pasa lo mismo, aprender a leer música.
+[SPEAKER_05]  aprender.
+[SPEAKER_03]  Es tan difícil como aprender. No, es más difícil que aprender a programar.
+[SPEAKER_03]  Pero...
+[SPEAKER_01]  Es un lenguaje curioso porque...
+[SPEAKER_01]  Uno ve un programa como programador y le siente el alma, ¿no? Cuando ve un fuente, ¿no?
+[SPEAKER_01]  Eso no lo hace cualquier persona, sino un programador como uno.
+[SPEAKER_04]  Adiós.
+[SPEAKER_01]  Lo mismo pasa con la partitura, que tú ves la partitura y sientes la música.
+[SPEAKER_01]  Eso es, eso, yo no soy el entrevistado, pero pues yo, tú sabes que yo leo partituras de música clásica y tengo colección de esas cosas, estudié acordeón y eso.
+[SPEAKER_01]  Y por eso el valor de la música y en ti que si eres...
+[SPEAKER_01]  como digo yo en otra vida seré músico en esta no alcanzo a tanto pero
+[SPEAKER_01]  El gusto por la música sí siempre ha existido.
+[SPEAKER_01]  Y sé que lo tuyo era muy importante. Era bueno que nos comentaras esa parte.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Muchas gracias.
+[SPEAKER_01]  La relación entre la música, la partitura, el software, todo eso.
+[SPEAKER_01]  que son
+[SPEAKER_03]  Pero evidentemente es que la música sí es matemática pura, eso sí es lo más bello en ese sentido, es tan exacto.
+[SPEAKER_03]  Pura, pura, pura, pura matemática la música.
+[SPEAKER_01]  Perfecto.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Ahí terminamos esa parte, yo lo menciono mucho cuando hablamos de música.
+[SPEAKER_01]  Descartes.
+[SPEAKER_01]  Escribió un libro sobre por qué la música produce sentimientos.
+[SPEAKER_01]  ¿Hm?
+[SPEAKER_01]  y la escribió a los 22 años.
+[SPEAKER_01]  para hacerle
+[SPEAKER_01]  digamos, mostrarle al profesor que él también sabía de música.
+[SPEAKER_01]  Y en ese sentido es un libro de física y matemáticas.
+[SPEAKER_01]  La física.
+[SPEAKER_01]  física por la vibración del cuerpo y los instrumentos.
+[SPEAKER_01]  Y él dice especialmente lo de cuerdas.
+[SPEAKER_01]  Matemáticas, porque indudablemente es matemática.
+[SPEAKER_01]  Y la relación con el alma, porque él hablaba de que...
+[SPEAKER_01]  de que el cuerpo se une con el alma por la hipótesis.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  La piquitaria la llama él, ¿no?
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Entonces la música, la vibración, el cuerpo.
+[SPEAKER_01]  Y él habla de la música de tono bajo, tono alto, la sensación.
+[SPEAKER_01]  y habla de los sentimientos a través de la música.
+[SPEAKER_01]  Y es un libro de física y matemáticas, que es algo muy interesante.
+[SPEAKER_01]  Increíble, ¿no?
+[SPEAKER_04]  increíble
+[SPEAKER_01]  Esas cosas sí, se sabe.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Carlos Mario, ¿quieres comentar algo?
+[SPEAKER_01]  Sinala con un poquito de cierre.
+[SPEAKER_01]  Y Sandrita, ¿tú estás ahí?
+[SPEAKER_01]  Sí señor, por aquí estoy. Aquí estoy presente. Cuando algunos fantasmas, ¿no? ¿Quién está ahí? Por favor.
+[SPEAKER_04]  Sí señor, por aquí estoy.
+[SPEAKER_00]  Aquí estoy presente.
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  está ahí
+[SPEAKER_00]  ¡Gracias!
+[SPEAKER_00]  Aquí estoy, voy a...
+[SPEAKER_00]  A tratar de prender la luz porque estoy estrenando celular y como tú dices, la tecnología va volando. Entonces, no encuentro aquí dónde.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Sandra es un personaje de la Universidad Nacional importantísimo, y no es porque esté ella presente, ella lo sabe.
+[SPEAKER_01]  También fundadora con nosotros de Redis.
+[SPEAKER_01]  Tú fuiste presidenta de Reyes, ¿no, Sandra?
+[SPEAKER_00]  Sí, señor, estuve de presidente de Redis en el año tal vez 2013, 2014, presidente y vicepresidente, ¿no? Porque ahí el vicepresidente ayuda al nuevo presidente cuando llega a gestionar las actividades de la red. Entonces estuve, creo que más o menos en esa época estuve con...
+[SPEAKER_00]  Fuimos coequiperos con Edgar.
+[SPEAKER_01]  Con Edgar Ruiz, exactamente. Con Edgar Ruiz. Y a Carlos Mario, que es el grupo que estamos trabajando.
+[SPEAKER_00]  Con el Galruiz.
+[SPEAKER_00]  Pues Carlos, muchas gracias por tu presentación. Supremamente esquemática, secuencial, un recuento histórico de muchos de los aspectos tecnológicos que vivimos y que siguen estando vigentes en nosotros. La primera base de datos que yo trabajé justamente fue Informex en los juzgados de Tunja para tratar de consolidar ahí una información importante y relevante. Y luego trabajamos Informex en la Fiscalía cuando entré a trabajar allí a tener una experiencia laboral, alcancé a trabajar con Informex.
+[SPEAKER_00]  Y también comparto el gusto y el amor por la música. Mi hija está estudiando guitarra clásica en la Javeriana y dirección de orquesta. Y efectivamente es un lenguaje donde confluye todas estas ciencias. No está ajena a nosotros, está muy cercana y un gusto escucharte. Soy profesora de la Universidad Nacional desde el año 2000. He transitado desde las diferentes asignaturas, desde las más complejas hasta la más, entre comillas, sencilla. Ahorita estoy con los primíparos. Recibimos en la Nacional 148 estudiantes en primer semestre. Entonces estoy trabajando con ellos. Y he transitado también por las cuestiones administrativas, que también es un deber de los profesores. Y he transitado también por las cuestiones administrativas, que también es un deber de los profesores.
+[SPEAKER_00]  Entonces, pues muchas gracias y qué gusto escucharte.
+[SPEAKER_00]  Preguntas no tengo porque en esa secuencia, en ese relato tan bonito, pues se iba respondiendo todas las inquietudes que uno iba teniendo en ese transitar de esa historia de la ingeniería de sistemas en nuestro país. Muchas gracias.
+[SPEAKER_03]  Bueno, a ustedes muchísimas gracias. Fue una experiencia muy grata.
+[SPEAKER_03]  hora y media echando carretas, yo no sé de dónde salió tanta, pero igual me alegro y fue para mí también muy grato, muy interesante recordar toda la...
+[SPEAKER_03]  la historia o toda mi vida profesional.
+[SPEAKER_03]  Es un ejercicio muy agradable.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00] 
+[SPEAKER_03]  se parece un poco a ese programa que hay en caracol los dados de tu banda sonora o algo así donde uno recuerda toda
+[SPEAKER_03]  su vida a través de anécdotas.
+[SPEAKER_03]  Creo que esto me revivió bastantes épocas de la vida.
+[SPEAKER_03]  que fueron, la verdad, muy gratas. Creo que solo tengo palabras de agradecimiento.
+[SPEAKER_03]  con la ingeniería de sistemas.
+[SPEAKER_03]  del país con la universidad a pesar de lo que pasó y todo eso.
+[SPEAKER_03]  Pero creo que...
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Estoy plenamente satisfecho con todo lo que hice alrededor de esto. Siempre hubiera querido hacer más.
+[SPEAKER_03]  Pero ya es hora de... ya decidí que paraba el motor. No tengo la energía que tiene Manuel de seguir trabajando.
+[SPEAKER_03]  en temas nuevos, no.
+[SPEAKER_03]  Ahora solo quiero mi música.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Muy bien, muy interesante.
+[SPEAKER_01]  Y siempre la conclusión que nos hace Kevin.
+[SPEAKER_01]  Sí, para que sepas, tú sabes que aquí estamos Rafa García, ¿no?
+[SPEAKER_01]  de la famosa maratón de programación. Él no está hoy lo mismo que Edgar.
+[SPEAKER_01]  que somos el grupo, el grupo que estamos conformando este proyecto.
+[SPEAKER_01]  Y Kevin, que nos ha acompañado, obviamente Beatriz Caicedo, que ha sido centro para nosotros de tantas cosas.
+[SPEAKER_01]  que además acaba de recibir un premio nacional importantísimo.
+[SPEAKER_01]  por su actividad en la asociación.
+[SPEAKER_01]  Y Kevin, como estudiante...
+[SPEAKER_04]  ¡Gracias!
+[SPEAKER_01]  Nos hace la conclusión de tu charla, Kevin.
+[SPEAKER_01]  Danos tus opiniones, por favor.
+[SPEAKER_02]  Ok, señor.
+[SPEAKER_02]  Bueno, pues...
+[SPEAKER_02]  Primero que todo.
+[SPEAKER_02]  resaltar otra vez como decía Sandra
+[SPEAKER_02]  como esa línea temporal.
+[SPEAKER_02]  tan perfecta, tan detallada.
+[SPEAKER_02]  con la que hablabas.
+[SPEAKER_02]  no solo de lo que ibas viviendo, sino...
+[SPEAKER_02]  de lo que iba pasando alrededor de la tecnología.
+[SPEAKER_02]  Y...
+[SPEAKER_02]  Siento que
+[SPEAKER_02]  Ok.
+[SPEAKER_02]  que es chévere porque pues por lo menos de mi parte
+[SPEAKER_02]  como que vivir esos cambios tan drásticos en la tecnología.
+[SPEAKER_02]  A veces ni siquiera los vemos ver porque son tan rápidos y a veces ya son muy...
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  como digamos los bueyitos.
+[SPEAKER_02]  Una actualización es, digamos, cambiamos el botón de aquí para acá y ya.
+[SPEAKER_02]  Pero en cambio que te ganas ti.
+[SPEAKER_02]  No, pero te...
+[SPEAKER_02]  Trajimos el computador de bolsillo.
+[SPEAKER_02]  O esas cosas, el mouse, esa anécdota que decía también.
+[SPEAKER_02]  Manuel.
+[SPEAKER_02]  Esas cosas sí...
+[SPEAKER_02]  Pues digamos que...
+[SPEAKER_02]  Por mi lado es difícil de vivirlas hoy.
+[SPEAKER_02]  Pero es chévere escucharla así.
+[SPEAKER_02]  Saber también cómo...
+[SPEAKER_02]  Como...
+[SPEAKER_02]  cómo influía tanto en...
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  en todo el contexto que estábamos viviendo.
+[SPEAKER_02]  Entonces, pues...
+[SPEAKER_02]  Eso me pareció muy muy chévere.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Y ya me quedo con esa forma de relatar también las anécdotas.
+[SPEAKER_02]  TASKET, siento que...
+[SPEAKER_02]  Me parece muy muy muy muy chévere que...
+[SPEAKER_02]  Lo recuerda siempre con algo.
+[SPEAKER_02]  algo muy simpático que haya pasado en esa historia. Entonces, eso también me lo llevo.
+[SPEAKER_02]  Muy bien.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Kevin, muchas gracias, como siempre.
+[SPEAKER_02]  Muchas gracias.
+[SPEAKER_01]  Carlos Mario, pues sí, yo tenía que tocar el tema de la música contigo. Mucha suerte en ese nuevo proceso. Los amigos, tú sabes que te seguimos.
+[SPEAKER_01]  Y bueno, con eso cerramos y...
+[SPEAKER_01]  Y no sé si Beatriz esté...
+[SPEAKER_01]  conectadita o no? Oye, yo sé que ya tenía una actividad.
+[SPEAKER_04]  ¿Y ya?
+[SPEAKER_01] 
+[SPEAKER_01]  Manuel.
+[SPEAKER_04]  ¡Gracias!
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  y
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  No, la voz está entrecortada, yo sé que ella está en una actividad. Hola Beatriz, ahí te vemos.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Sí, la voz está entrecortada.
+[SPEAKER_01]  Pero Beatriz, ella no necesita mucha presentación porque es el centro de todos nosotros. La verdad, con ella nos ayuda en todo lo imaginable.
+[SPEAKER_01]  y agradecemos mucho que es el centro también de este proyecto. Martín, muchas gracias.
+[SPEAKER_01]  La foto, ¿quién toma la foto, Kevin?
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  Sí, señor.
+[SPEAKER_01]  la batalla.
+[SPEAKER_04]  La batalla.
+[SPEAKER_01]  Bueno.
+[SPEAKER_01]  Y ya en su momento le contaremos a Carlos Mario el video, mirar a lo demás, todo esto.
+[SPEAKER_01]  porque nos has contribuido muchísimo, Carlos Mario.
+[SPEAKER_01]  De esa manera...
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  ¿Lista la foto?
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Bueno, muchas gracias a todos. Carlos Mario.
+[SPEAKER_01]  Nos vemos.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Muchísimas gracias a todos. Buenas tardes. Gracias, Manuel, por esta invitación tan grata.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Que estén muy bien.
+[SPEAKER_01]  Ok, gracias. Chao, hasta luego a todos.
+[SPEAKER_03]  Adiós.
+[SPEAKER_01]  Nos vemos. Hasta luego.
