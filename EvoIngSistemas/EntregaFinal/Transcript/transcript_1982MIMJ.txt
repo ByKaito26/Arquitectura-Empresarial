@@ -1,0 +1,1563 @@
+[SPEAKER_07]  Kevin.
+[SPEAKER_07]  Bueno.
+[SPEAKER_07]  Bueno,
+[SPEAKER_04]  Bueno, continuamos entonces con nuestros temas de la evolución de la agilidad de sistemas en Colombia.
+[SPEAKER_04]  y esta vez con la General María Isabel Mejía.
+[SPEAKER_04]  que ha sido una representante sumamente especial como nosotros vamos a ver en la conversación.
+[SPEAKER_04]  Y ella, igual que los otros compañeros y colegas.
+[SPEAKER_04]  Nos va a ir contando...
+[SPEAKER_04]  sus épocas. No presento ya al grupo gestor, que estamos ahí, pues a Edgar, Rafael, Sandra, que ya en otras conversaciones hemos dicho quiénes somos.
+[SPEAKER_04]  pero vamos a participar todos. Yo modero un poco para que haya como una batuta.
+[SPEAKER_04]  pero todos vamos a preguntar y a indagar.
+[SPEAKER_04]  Entonces, Marisabel, vamos a dejarte que nos comentes a contar.
+[SPEAKER_04]  Vuelvo a decirte, ubícate cuando eras estudiante, que día uno de los colegas comenzó a hablar y se graduó a los dos minutos y estaba graduado. Entonces le dijimos, no te nos gradúes todavía.
+[SPEAKER_04]  para contar un poco esa historia y la experiencia.
+[SPEAKER_04]  tanto en general, ¿cierto? Académica, temas, tecnologías, personales, sensaciones, todo eso de la época.
+[SPEAKER_04]  Comencemos entonces por contarles de qué año estás en el colegio y entraste a la universidad y cuéntanos un poquito esa historia, María Isabel.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Bueno, primero quiero agradecerles por haberme invitado a participar de este proyecto.
+[SPEAKER_01]  y pues de verdad me siento honrada que me hayan seleccionado como una de las personas a entrevistar.
+[SPEAKER_01]  Y por otro lado, pues felicitarlos por esta iniciativa que me parece espectacular.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Porque además creo que es una...
+[SPEAKER_01]  Es una profesión que ha ido evolucionando de una forma impresionante.
+[SPEAKER_01]  entonces pues como interesante de pronto leer esa historia
+[SPEAKER_01]  cuando ustedes ya tengan el producto final de este trabajo.
+[SPEAKER_01]  Yo...
+[SPEAKER_01]  Bueno, yo me estaba, digamos, en el sexto bachillerato, en esa época no se llamaba.
+[SPEAKER_01]  11, 12, ¿no? Se llama sexto achillato.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Pues estaba como desde quinto y...
+[SPEAKER_01]  Y desde ahí ya le empiezan a uno a preguntar, bueno, que como que está, que va a estudiar, que quiere estudiar.
+[SPEAKER_01]  Yo había tenido, yo tenía...
+[SPEAKER_01]  Como yo tenía bastante claro que quería estudiar algo que tuviera que ver con matemáticas, me había ido muy bien.
+[SPEAKER_01]  El...
+[SPEAKER_04]  ¿Qué año era, Marisa? ¿Qué año era?
+[SPEAKER_01]  Ah, eso era, eso viene siendo entonces 1975, porque yo entré a la universidad en el 76.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Desde 1975...
+[SPEAKER_01]  Sí, entonces, bueno, yo decía, bueno, yo soy como buena para las matemáticas, pero yo tenía clarísimo, clarísimo, clarísimo que la carrera que quería estudiar era astronomía.
+[SPEAKER_01]  ¡Voy!
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  y en esa época pues obviamente no había internet yo ahora me pongo a pensar
+[SPEAKER_01]  Como hice yo.
+[SPEAKER_01]  para averiguar, pero yo averigüe.
+[SPEAKER_01]  todas las universidades que en Estados Unidos había.
+[SPEAKER_01]  astronomía.
+[SPEAKER_01]  Y ya tenía universidad tal en tal parte, universidad tal en tal parte, bueno, todo, tenía clarísimo lo que quería estudiar, dónde lo quería estudiar, por qué lo quería estudiar, yo inclusive decía yo quiero trabajar en la NASA, todo.
+[SPEAKER_02]  Bueno.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Y entonces, bueno, llega el momento en que le preguntan a uno, ah, bueno, y además en el colegio en esa época hacían.
+[SPEAKER_01]  como unas cosas de vocacional, ¿cómo se llama eso?
+[SPEAKER_01]  No sé qué vocacional.
+[SPEAKER_01]  Bueno.
+[SPEAKER_01]  Unas pruebas que le hacían a uno.
+[SPEAKER_02]  ¡BRE-!
+[SPEAKER_09]  que le hacían a los...
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  ¿Cómo se llama?
+[SPEAKER_09]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_09]  Yo les digo desorientación profesional, pero son de orientación.
+[SPEAKER_01]  Adiós.
+[SPEAKER_01]  Pero era más como vocacional, como para qué servía.
+[SPEAKER_09] 
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Y entonces a mí me salió...
+[SPEAKER_01]  Sí, que efectivamente servía como para ingeniería, sí.
+[SPEAKER_01]  Y hasta arquitectura me salió allí.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Y fue a la única de como 60 niñas que había en mi colegio, que era el Sagrado Corazón de Jesús del Valle de Lili, en Cali.
+[SPEAKER_01]  ¡Ehhh!
+[SPEAKER_01]  a la única que le salió astronomía, entonces yo decía, estoy bien, o sea, yo quiero estudiar astronomía, y en las pruebas esas, pues, me salió astronomía, entonces bien.
+[SPEAKER_01]  Pero entonces llegó el momento en que el papá le pregunta a uno que qué quiere estudiar, uno dice que astronomía, entonces dijo, no, mi hijita, tiene que escoger una carrera acá en Colón.
+[SPEAKER_02]  ¡Bue!
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  acá en Colombia pues obviamente no había astronomía.
+[SPEAKER_01]  Yo en realidad escogí la ingeniería de sistemas por descarte.
+[SPEAKER_01]  Porque yo empecé primero diciendo, medicina, no, derecho, no.
+[SPEAKER_01]  Y así fui descartando, después llegué a ingenierías.
+[SPEAKER_01]  Gente de ingeniería mecánica, ingeniería eléctrica, ingeniería electrónica, tampoco, porque me acuerdo que en la Universidad Javeriana había ingeniería electrónica.
+[SPEAKER_01]  y en el industrial tampoco me llamaba la atención.
+[SPEAKER_01]  Y había ingeniería de sistemas, una carrera bastante nueva que solo había en ese momento en la UIS.
+[SPEAKER_01]  y en la Universidad de los Andes.
+[SPEAKER_01]  Yo pues para Bucaramanga no me iba a ir.
+[SPEAKER_01]  Entonces, yo me quería ir a ir para Bogotá.
+[SPEAKER_01]  No es ya la hora de irme para Bogotá.
+[SPEAKER_01]  Y entonces me presenté a Ingeniería de Sistemas sin tener la menor idea de qué se trataba esa carrera.
+[SPEAKER_01]  Y digo eso porque cuando entré había muchachos, yo era calendario B, Cali era calendario B, yo me encontré con muchos...
+[SPEAKER_01]  compañeros y compañeras de
+[SPEAKER_01]  de Nueva Granada, de todos los colegios bilingües de Bogotá.
+[SPEAKER_01]  Y muchos de ellos habían visto programación, por ejemplo, pero yo sí es que no tenía ni la menor idea de eso de qué se trataba.
+[SPEAKER_01]  Y me presenté también, porque uno no se podía presentar a una sola universidad, me presenté también a arquitectura en la Javeriana.
+[SPEAKER_07]  Gracias.
+[SPEAKER_01]  Bueno.
+[SPEAKER_01]  ¡Ehhh!
+[SPEAKER_01]  O sea...
+[SPEAKER_01]  ¡Oh!
+[SPEAKER_01]  jajaja
+[SPEAKER_01]  Jeje
+[SPEAKER_01]  Un poco confundida, pero bueno.
+[SPEAKER_01]  ¡Ehhh!
+[SPEAKER_01]  Pasé en las dos, o sea, ahí presentaba examen de admisión, presenté los dos examen de admisión, no era todavía el ICFES, y pasé en las dos universidades y después venía como la entrevista.
+[SPEAKER_01]  y en la Javeriana le hacían una entrevista y yo dije yo no me voy a presentar la entrevista porque yo ya, si yo ya sabía que ha pasado en Inería de Sistemas en Los Andes, pues yo ya me quedo en Los Andes y no le voy a quitar como el cupo a otra persona que sí de verdad quiera estudiar arquitectura en la Javeriana. Entonces no, no, ya, la Javeriana ya, para el día listo me voy para Los Andes. Entonces me vine a vivir a Bogotá.
+[SPEAKER_00]  me vine a ver
+[SPEAKER_01]  ¡Feliz! ¡Feliz! ¡Feliz! Yo fui la persona más feliz del mundo de llegar a vivir a Bogotá.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  de llegar a estudiar a la Universidad de los Andes.
+[SPEAKER_01]  ¡Ey!
+[SPEAKER_01]  Eso, por ejemplo, de poder estudiar...
+[SPEAKER_01]  En...
+[SPEAKER_01]  con unos, no era un curso, el curso A, B, C, sino como por créditos y que uno veía unas materias con unos, otras con otros y otras con otros y eso a mí me pareció lo máximo porque podía.
+[SPEAKER_01]  Pues como conocer mucha gente y de otras carreras. Eso también me gustó mucho, el haber podido compartir.
+[SPEAKER_01]  con todo el ciclo básico que se llamaba el ciclo básico de ingeniería con gente de otras ingenierías y también compartir con gente de otras carreras entonces eso me pareció maravilloso
+[SPEAKER_01]  muy duro el primer semestre entonces bueno yo era 76 2 00 81 o sea empecé en el segundo semestre del 76
+[SPEAKER_01]  Y ese primer semestre fue muy, muy, muy difícil porque realmente yo venía de un colegio.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Pues de un colegio muy bueno, pero colegio de monjas y...
+[SPEAKER_01]  Bueno, no tenía, digamos, el nivel académico.
+[SPEAKER_01]  que tenían esos colegios bilingües de Bogotá.
+[SPEAKER_01]  Entonces, uff, esos primeros semestres fueron...
+[SPEAKER_01]  durísimo.
+[SPEAKER_01]  Y yo por allá el tercer semestre como que vine a...
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  ¡Mirá!
+[SPEAKER_01]  Bueno, ya.
+[SPEAKER_01]  como a empatar, ¿no? Porque empecé como en negativo, por venir de la provincia, por...
+[SPEAKER_01]  venir de un colegio que no era bilingüe, entonces como ya por allá el tercer semestre, bueno, ya estamos iguales, ahora sí, y era que había mucha competencia.
+[SPEAKER_01]  O sea, realmente algo que para mí caracteriza a la Universidad de Los Ángeles es el nivel de competencia feroz.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Y mucha gente salía en ese ciclo básico, eso era una coladera tremenda.
+[SPEAKER_01]  Y empezamos muchos y eso iban saliendo, iban saliendo, iban saliendo. Entonces era más duro, me pareció bastante duro. Bueno.
+[SPEAKER_01]  ¿Qué más?
+[SPEAKER_01]  Digamos que ahora se habla mucho de que las mujeres no quieren estudiar estas carreras, no sé qué. En esa época.
+[SPEAKER_01]  éramos mitad hombres y mitad mujeres.
+[SPEAKER_01]  Pienso yo.
+[SPEAKER_01]  viéndolo ahora en retrospectiva, porque en ese momento era normal para mí.
+[SPEAKER_01]  ¡Ehhh!
+[SPEAKER_01]  que era una carrera que como era tan desconocida todavía no la habían etiquetado.
+[SPEAKER_01]  Porque en general lo que sucede en el mundo es que etiquetan las carreras. Esas son para hombres y esas son para mujeres.
+[SPEAKER_01]  Entonces las de mujeres, pues eran de enfermería, comunicación social, ingeniería industrial, ¿no? Y las de hombres, ingeniería mecánica, ingeniería electrónica, eléctrica.
+[SPEAKER_01]  y las etiquetaban y las siguen etiquetando, creo yo.
+[SPEAKER_01]  Y...
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Pero la ingeniería sistema será como neutra.
+[SPEAKER_01]  ¡No hay nadie!
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Era como neutra en ese momento.
+[SPEAKER_01]  Y no sé qué pasó, yo no tengo ni idea la explicación.
+[SPEAKER_01]  Pero después fue que se volvió una carrera más como para hombres y donde entraban muchos hombres y muy poquitas mujeres.
+[SPEAKER_01]  Eso pasó después, eso no existía mientras yo estudié. Había muchas, muchas mujeres. Tengo muchas colegas mujeres de esa época.
+[SPEAKER_01]  Ehm...
+[SPEAKER_01]  Entonces...
+[SPEAKER_01]  Para mí, digamos, eso fue como extraño, cuando después decía que las mujeres no quieren estudiar Ingeniería de Sistemas, y yo, ¿cómo que por qué?
+[SPEAKER_01]  Y por lo tanto nunca me he sentido ni discriminada, ni ha sido como una lucha por posicionarme, por el hecho de ser mujer, nada, o sea, nada, para mí era normal, sí.
+[SPEAKER_01]  No me tocó afortunadamente vivir esto, no me tocó afortunadamente vivir esto y bueno, sí, después ya en la vida profesional, sí, sí es un sector donde hay muchos hombres.
+[SPEAKER_02]  Y después...
+[SPEAKER_01]  pero pues yo estaba muy contenta de estar con muchos hombres y entonces como que eso para mí pues no era problema.
+[SPEAKER_01]  ¿Qué más? No sé, Manuel si me quiere preguntar algo más
+[SPEAKER_04]  Sí, claro. Hablemos entonces un poquito de lo académico, de las masignaturas que estudiaban.
+[SPEAKER_01]  Bueno.
+[SPEAKER_04]  En ese momento, ¿qué computadora había? Más o menos.
+[SPEAKER_01]  Bueno, uno entra en introducción a la ingeniería de sistemas, Joaquín Oramas.
+[SPEAKER_01]  Que lo recuerdo con mucho cariño a Joaquín, pues que hace poco se nos fue.
+[SPEAKER_01]  Bueno, profesores, Francisco Rueda.
+[SPEAKER_01]  bueno, por ahí están Pepe Abasolo, en fin
+[SPEAKER_01]  profesores, tuve unos profesores maravillosos
+[SPEAKER_01]  Pues como que lo que yo recuerdo era ese ciclo básico de ingeniería, todos veíamos lo mismo.
+[SPEAKER_01]  mucha, muchas matemáticas, muchas, muchas, muchas, muchas matemáticas, no, pues yo no sé si quieren que les recuerde las materias, pero pues.
+[SPEAKER_01]  no sé, cálculo uno, cálculo dos, cálculo tres y lógica matemática y no sé qué, todo eso. A mí eso me encantaba.
+[SPEAKER_01]  todas esas y pienso que
+[SPEAKER_01]  que definitivamente las matemáticas.
+[SPEAKER_01]  y combinado con la física.
+[SPEAKER_01]  Física fue, para mí fue dificilísimo, yo después decía, yo como quería estudiar astronomía, si la física me parece tan difícil.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  Física era muy difícil en esa época, eran esas clases magistrales que dictaban.
+[SPEAKER_01]  Como unos alemanes.
+[SPEAKER_00]  los alemanes.
+[SPEAKER_01]  ¿Cómo era que se llamaba? Un alemán.
+[SPEAKER_01]  Allá, clase magistral, era súper difícil.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Y yo me acuerdo, por ejemplo, no sé, física 2, que uno veía óptica.
+[SPEAKER_01]  Y yo saqué cero en el primer parcial, cero en el segundo parcial. Me tuve que retirar con cero en el 40%. Era difícil.
+[SPEAKER_01]  Pero pienso que todas esas matemáticas...
+[SPEAKER_01]  física química una hora dice
+[SPEAKER_01]  ¿Qué?
+[SPEAKER_01]  Pero química, buenísimo.
+[SPEAKER_01]  O sea, yo creo que todo eso me enseñó a pensar.
+[SPEAKER_01]  Me dio como una estructura mental.
+[SPEAKER_01]  Me enseñó algo, pues que uno aprende en la ingeniería que esa...
+[SPEAKER_01]  El...
+[SPEAKER_01]  Tender un problema
+[SPEAKER_01]  y encontrar soluciones para ese problema, que pienso que es como la mayor habilidad.
+[SPEAKER_01]  que da la ingeniería.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  y me ha servido por toda la vida. Entonces, sí, puede que yo no aplique ahora.
+[SPEAKER_01]  Lo que aprendía por allá de...
+[SPEAKER_01]  ecuaciones diferenciales, yo no sé, ¿sí? O lo que aprendí con...
+[SPEAKER_01]  Con Matamala en química, ¿sí? Pero...
+[SPEAKER_01]  excelentes profesores y que nos enseñaron a pensar.
+[SPEAKER_01]  Básicamente nos enseñaban a pensar.
+[SPEAKER_01]  Entonces eso me gustó mucho. Agradezco muchísimo la formación que me dieron.
+[SPEAKER_01]  En ese sentido, porque fue...
+[SPEAKER_01]  Fue enseñar a...
+[SPEAKER_01]  a investigar
+[SPEAKER_01]  a leer
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  ¡Gracias!
+[SPEAKER_01]  La gente ahora no sabe leer, les cuento.
+[SPEAKER_01]  Entonces uno tenía que leer bien si quería entender el problema para poder entrar a solucionarlo. Y con esa lógica de bueno, vamos por pasitos, fases y vamos encontrando de pronto alternativas de solución. Bueno, todo eso para mí fue clave. Otra cosa bien interesante era que también nos obligaban a tomar esas selectivas.
+[SPEAKER_01]  las selectivas de otras carreras.
+[SPEAKER_01]  Y pues creo que eso también fue muy bueno porque también es una educación como más holística, como más integral y que le da a uno también pues como otras habilidades blandas.
+[SPEAKER_01]  no solo las habilidades duras, digamos que da la ingeniería.
+[SPEAKER_00]  ¡Es duro!
+[SPEAKER_00]  ¡Adiós!
+[SPEAKER_01]  entonces bueno no sé a velar no ponen o de la vida es historia de la cultura griega eso era maravilloso y yo me metí por allá que a la idea de la vida en filosofía y
+[SPEAKER_01]  Bueno, eso también era...
+[SPEAKER_01]  era maravilloso poder tener todas esas selectivas. Y gracias a esas selectivas fue que yo...
+[SPEAKER_01]  Digamos que encontrando como mi vocación.
+[SPEAKER_01]  Ya dentro de mi carrera, pero ya encontrando mi vocación, esa vocación al servicio público. Y eso lo encontré.
+[SPEAKER_01]  con una electiva.
+[SPEAKER_01]  o con un par de lectivas.
+[SPEAKER_01]  Una fue...
+[SPEAKER_01]  me metí a una que era... que era diseñó...
+[SPEAKER_01]  ¿Qué? De problemas urbanos, algo así.
+[SPEAKER_01]  Algo de problemas urbanos.
+[SPEAKER_01]  Ya ni me acuerdo cómo se llamaba.
+[SPEAKER_01]  Entonces, tocó entrar a analizar, entonces, me tocó escoger como una problemática urbana, y yo escogí la problemática de los vendedores ambulantes en Bogotá. Y entonces, me dio por hacer unas encuestas a los vendedores ambulantes, y después el análisis de esas encuestas, y entonces ver cómo se podía solucionar el problema de los vendedores ambulantes, y no sé qué. Entonces, ya me empecé como a preocupar por los problemas de la ciudad.
+[SPEAKER_01]  Y después había otra electiva, Jorge Acevedo se llamaba, el profesor que era de civil.
+[SPEAKER_01]  y era sobre sistemas de transporte urbano.
+[SPEAKER_01]  Y eso me pareció espectacular.
+[SPEAKER_01]  Y de ahí salió el tema de mi tesis, inclusive ya de, bueno, proyecto de grado porque no se hacía tesis sino proyecto de grado.
+[SPEAKER_00]  Ahí.
+[SPEAKER_01]  Entonces de ahí salió la idea del proyecto de grado, que fue como un sistema de información.
+[SPEAKER_01]  para la planeación del transporte en Bogotá.
+[SPEAKER_01]  Y la tesis tenía un punto en la mitad. Roberto Pardo por allá se me burlaba de mi tesis que tenía un nombre muy largo porque después del punto entonces decía que...
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  ¿Cómo era? Ya, ya, algo del diseño de no sé qué, las rutas de buses y bueno, en fin, una cosa de transporte y rutas de buses y no sé qué. El caso es que ahora el...
+[SPEAKER_01]  El sistema de transporte en Bogotá está pésimo porque no hicieron caso de mi tesis.
+[SPEAKER_01]  Jeje, eeeeh...
+[SPEAKER_01]  Pero de ahí, digamos, lo importante no fue tanto el proyecto de grado, sino...
+[SPEAKER_01]  A ver...
+[SPEAKER_01]  haberme dado cuenta
+[SPEAKER_01]  Pues que eso me encantaba.
+[SPEAKER_01]  que poder aplicar mis conocimientos en ayudar a resolver.
+[SPEAKER_01]  Problemas del mundo y en particular problemas urbanos.
+[SPEAKER_01]  y que yo podía tener, sí, como...
+[SPEAKER_01]  Podía contribuir en eso desde mi profesión.
+[SPEAKER_01]  contribuir en esa solución de problemáticas públicas, pues ya. Y eso es lo que he hecho el resto de mi vida.
+[SPEAKER_01]  Sí.
+[SPEAKER_04]  Sí, quiero decirte esto. Tú acabas de explicar sin definiciones.
+[SPEAKER_04]  algo que es difícil explicar a los jóvenes de hoy, de por qué estudiar matemáticas y física en la primera parte, ¿no?
+[SPEAKER_04]  Que yo oyendo te decía, pues es aprender.
+[SPEAKER_04]  a comprender lo incomprensible.
+[SPEAKER_04]  El ejercicio mental de entender una ecuación de Maxwell, por ejemplo, es física, ¿no?
+[SPEAKER_04]  Eso es un ejercicio mental impresionante.
+[SPEAKER_04]  Y creo que esa es una superdisciplina.
+[SPEAKER_04]  Y lo otro que acá estás comentando es la salida.
+[SPEAKER_04]  hacia lo urbano, ¿no?
+[SPEAKER_04]  Y te entiendo mucho. Mi tesis se llamó el sistema de transporte de Bogotá en rutas de sentido contrario. Sí, que fue una simulación de los de los troles y de los buses de esa época. Mira que coincide con lo que acabas de decir, pero muy interesante porque estando en la universidad. Oye, hoy en día es muy instrumentalista la formación. Parece que no sea mucho el software y tal y la cosa.
+[SPEAKER_04]  Y esta salida es una gran lección lo que acaba de contarnos.
+[SPEAKER_04]  Entonces, bueno, ahí comienzas a contactarte como con la sociedad, ¿cierto?
+[SPEAKER_01]  ¡Vamos!
+[SPEAKER_01]  Totalmente. Ahí me contactó. Sí, porque...
+[SPEAKER_01]  digamos está esa parte muy técnica esa parte muy técnica de todo el ciclo básico las matemáticas y todo eso bueno la ingeniería de sistemas como tal entonces bueno nada programar en ase en bler fue el ford transforme y bueno en el 2.5 y antes de todo eso o sea eso me fue fantástico
+[SPEAKER_01]  el cobol PL1, después C, bueno yo seguí programando después por allá hasta Visual Basic, que ahora me dan ganas de programar en Python y R y todo eso.
+[SPEAKER_01]  digamos eso era todo lo de la carrera como tal porque es que tenía ese ciclo básico lo de la carrera como tal y estás
+[SPEAKER_01]  y estas selectivas. Entonces son como esas tres, yo lo veo como esas tres cosas.
+[SPEAKER_01]  que se lograban combinar muy bien, porque es que la carrera en esa época era de verdad de sistemas y computación.
+[SPEAKER_01]  Y hubo mucho énfasis en la parte como organizacional, o sea, de sistemas, ¿no? De sistemas como tal.
+[SPEAKER_01]  Y entonces uno veía eso de cibernética y todo eso, y entonces uno entendía las organizaciones, entendía sistemas complejos, aprendía cómo a modelar y entender sistemas complejos más allá de programar. Entonces, todo, tenía todo, era una carrera súper completa porque tenía esa parte básica.
+[SPEAKER_01]  La... lo de la... lo de...
+[SPEAKER_01]  La filosofía y todas las otras cosas, las selectivas esas.
+[SPEAKER_02]  ¡Viva!
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Y la parte...
+[SPEAKER_01]  Y la parte propiamente de la carrera que tenía como las dos alas, la ala de sistemas y el ala de computación.
+[SPEAKER_01]  Muy completa. ¿Qué le faltaba?
+[SPEAKER_01]  ¿Qué me hizo falta a mí, digamos, en...?
+[SPEAKER_01]  ya en el desarrollo profesional.
+[SPEAKER_01]  Como todo el tema gerencial, ¿no? El tema...
+[SPEAKER_01]  Uy, cómo manejar un poco más el tema financiero.
+[SPEAKER_01]  Siempre sentí ese sentido de debilidad en los temas financieros.
+[SPEAKER_01]  Lo gerencial no, no, porque uno sí tenía como esas bases de lo organizacional.
+[SPEAKER_01]  Y eso se desarrolla, pero...
+[SPEAKER_05]  roya
+[SPEAKER_01]  Pero lo financiero, ay, Dios mío, a mí cuando, por ejemplo, me ha tocado que revisar los estados financieros de empresas, que yo he sido representante legal y yo veo su balance y yo digo, Dios mío, ¿qué es esto? Además, siempre la contabilidad me ha parecido...
+[SPEAKER_01]  dificilísima de entender eso, esa parte como financiera, como estudios de factibilidad, como proyecciones, como modelos de negocio, como eso, eso sí estuvo débil, digamos, en lo que yo.
+[SPEAKER_00]  ¡Ahhh!
+[SPEAKER_00]  modelos de negocio.
+[SPEAKER_01]  en lo que yo estudié, entonces no me prepararon, digamos, para ser emprendedora, cero, cero.
+[SPEAKER_00]  ¡Miradora!
+[SPEAKER_01]  O sea, a mí me prepararon para ser empleada. Y fui empleada toda la vida. Y cuando traté de ser emprendedora...
+[SPEAKER_01]  Es duro, duro.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Creo que ahora han fortalecido como esa parte. Pero digamos eso es lo que yo hubiera extrañado un poco más, como entender más como administración de empresa, como la parte financiera.
+[SPEAKER_01]  Y digamos, otra parte que uno de pronto no tenía, pero que se fue desarrollando durante la vida, es como la parte comercial, porque es que de todas maneras...
+[SPEAKER_01]  A nosotros.
+[SPEAKER_01]  Así no trabajemos en ventas.
+[SPEAKER_01]  digamos, si uno tiene un emprendimiento tiene que salir a vender, pero así uno se ha empleado, le toca venderle al jefe siempre, siempre nos toca estar vendiendo los proyectos que hacemos y entonces tenemos que ser unos grandes vendedores de los proyectos que hemos hecho, cuando trabajaba en el sector privado, pues de lo que tocaba hacer en la empresa, en el sector público al ministro de turno, había que venderle que vea que toca hacer esto, que toca hacer aquello, que toca hacer aquello entonces esas habilidades, digamos, blandas de la parte comercial de la parte gerencial
+[SPEAKER_01]  Bueno, se fueron desarrollando poco a poco. A mí en la universidad poco me enseñaron de eso, pero pues uno iba aprendiendo.
+[SPEAKER_01]  Sí.
+[SPEAKER_04]  ¡Gracias por ver el video!
+[SPEAKER_04]  Y tus compañeros, miremos una cosita.
+[SPEAKER_04]  digamos que en el sexto semestre, séptimo semestre.
+[SPEAKER_04]  alcanzaban a visualizar para dónde iban en su vida laboral, en qué iban a trabajar.
+[SPEAKER_04]  o era un tema medio invisible.
+[SPEAKER_04]  ¿Cómo lo pensaron? ¿O no lo pensaron?
+[SPEAKER_01]  No, eso casi dice, mira que yo me salí a trabajar, no me salí, o sea, sí, más o menos. Yo como el sexto semestre me fui de estudiante en práctica, yo estaba ahorrísima ya de estudiar y yo ya me quería ir a trabajar.
+[SPEAKER_04]  No.
+[SPEAKER_01]  porque a mí definitivamente la universidad sí me parecía, me pareció largo, dos o cinco años, y yo ya quería irme a trabajar, pero sobre todo cuando trabajé.
+[SPEAKER_01]  Bueno, digamos que la primera experiencia de trabajo fue, me acuerdo que Darío Mesa.
+[SPEAKER_01]  que nos daba programación comercial se llamaba COBOL
+[SPEAKER_01]  Pero él le ponía a uno que tenía que escoger un proyecto de una empresa, de la vida real. Eso fue...
+[SPEAKER_00]  ¡Gracias!
+[SPEAKER_01]  ¡Adiós!
+[SPEAKER_01]  un proyecto en la vida real, entonces era el primer contacto con la vida real.
+[SPEAKER_01]  Esto acaba de ser un proyecto de una empresa.
+[SPEAKER_01]  Y yo ahí dije, no, esto sí es lo máximo. O sea, yo ya cuando, ya, ya trabajando, yo decía, no, esto es espectacular. Y me metí.
+[SPEAKER_01]  Como estudiante en práctica...
+[SPEAKER_01]  En unas vacaciones...
+[SPEAKER_01]  a Interpol, se llamaba.
+[SPEAKER_01]  International Petroleum Colombia Limited
+[SPEAKER_07]  Muy importante.
+[SPEAKER_01]  Como estudiante práctica.
+[SPEAKER_01]  ¡Eeeem!
+[SPEAKER_01]  y trabajé unas vacaciones y después durante el semestre
+[SPEAKER_01]  Seguí trabajando como de medio tiempo.
+[SPEAKER_01]  Eso fue...
+[SPEAKER_01]  Mala idea, porque quede en prueba académica, o sea, me voy mal en todo lado. En el trabajo no, pero en la universidad sí.
+[SPEAKER_01]  Que a mí generalmente me iba bien, pero trabajar y estudiar, imposible.
+[SPEAKER_01]  Y entonces dije, bueno, listo, ya, me toca graduarme. Entonces ya, pero yo ahí lo que quería era salir a trabajar.
+[SPEAKER_01]  Después de ahí, ¡ay, me cagaba!
+[SPEAKER_01]  Sí.
+[SPEAKER_04]  Sí.
+[SPEAKER_01]  Ya que me...
+[SPEAKER_04]  Ya que mencionaste a Darío Mesa, perdona, te interrumpo.
+[SPEAKER_04]  ¿Tienes el recuerdo de algún profesor que te marcaron de alguna manera? ¿Y por qué te marcaron?
+[SPEAKER_04]  Ya, ya lo mencionaste y muy clara la marca que te dio con el ejemplo. Sí, la marca.
+[SPEAKER_01]  La marca por haberme sacado para la realidad Eso Jorge Acevedo Que era de civil
+[SPEAKER_01]  Gracias.
+[SPEAKER_07]  ¿Puedo recibir?
+[SPEAKER_01]  ¿Puedes escribir?
+[SPEAKER_01]  Por lo de los problemas urbanos y el seminario de transporte, él sí.
+[SPEAKER_07]  Gracias.
+[SPEAKER_01]  Sí, ok.
+[SPEAKER_07]  ¡Bien!
+[SPEAKER_01]  Yo me acuerdo mucho de Pacho Rueda, pero...
+[SPEAKER_01]  No precisamente por lo que me enseñó, sino por cómo era.
+[SPEAKER_07]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Sí, está bien.
+[SPEAKER_07]  Sí, está bien.
+[SPEAKER_01]  como por su rol, yo no sé, yo no sé, era...
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Sí, siempre es...
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_01]  Porque por allá me dio sistemas operacionales.
+[SPEAKER_04]  ¡Vamos!
+[SPEAKER_01]  ¿No?
+[SPEAKER_04]  Sí, ese era su tema y sacó su libro.
+[SPEAKER_04]  Muchos de esos profesores eran mis compañeros de estudio.
+[SPEAKER_01]  Sí.
+[SPEAKER_04]  Pepe Abasolo, mencionaste, ¿no?
+[SPEAKER_01]  Sí, Pepe Abasolo, pero Pepe Abasolo fue ya muy al final, porque él era como más joven.
+[SPEAKER_04]  ¡Me robé el costudo! ¡Solo me lo pegué!
+[SPEAKER_04]  Sí, así es.
+[SPEAKER_01]  Bueno, no sé.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Sí, sí, eso está apenas empezando, eso lo vas a enterar.
+[SPEAKER_04]  Sí, sí, sí.
+[SPEAKER_07]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Y todos esos que después de llegar de Francia, cuando yo estaba estudiando, estaban en Francia. Esos no habían vuelto todavía.
+[SPEAKER_07]  Gracias.
+[SPEAKER_01]  O sea, y por ejemplo ese Jorge Phillips y ese Roberto Pardo, otros que estaban por allá en Estados Unidos, llegaron ya cuando yo me estaba yendo.
+[SPEAKER_01]  O sea, cuando yo estaba estudiando eso, estaba por allá haciendo eso.
+[SPEAKER_01]  eso que iba a nacer allá con esas maestrías o doctorados.
+[SPEAKER_04]  Entonces, ya enrolándote al final de la carrera, ¿sí? Porque ya vamos. Pero, pero, pero.
+[SPEAKER_01]  Pero para responder tu pregunta de mis compañeros...
+[SPEAKER_04]  Sí, sí, que eso.
+[SPEAKER_01]  No era un tema.
+[SPEAKER_01]  No era como un tema de qué vamos a hacer cuando salgamos, pues no.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  No era como usted.
+[SPEAKER_04]  No es...
+[SPEAKER_04]  No, ya te iba.
+[SPEAKER_01]  No, no era usted.
+[SPEAKER_04]  ¿Pero estudiaban juntos, en grupo y eso o poco?
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Pasiembro de pestañas como...
+[SPEAKER_01]  Mira que sí, sí nos ponían a hacer praos en grupo.
+[SPEAKER_01]  Y claro, si estudiábamos en grupo, yo tenía un grupo de más de caleños, pero eso nos reuníamos y a bailar salsa.
+[SPEAKER_06]  Hasta luego.
+[SPEAKER_04]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  O sea, le mezclamos mucha salsa a la carrera. Eso fue maravilloso.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  ¡Ya me me...
+[SPEAKER_05]  ¡Viva la carrera!
+[SPEAKER_05]  Claro, claro.
+[SPEAKER_01]  O sea, la vida universitaria en Bogotá para mí fue espectacular, porque entonces yo le mezclaba ir a bailar salsa los lunes al escondite.
+[SPEAKER_01]  y nos reuníamos, bueno, vamos a estudiar.
+[SPEAKER_01]  y
+[SPEAKER_07]  fin
+[SPEAKER_01]  Acabamos bailando salsa y dejamos todo por ahora.
+[SPEAKER_01]  Bueno, yo estoy con Edgar, vean, Cartagena. ¿Sí o no, Edgar?
+[SPEAKER_07]  Adiós.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  ¿Qué?
+[SPEAKER_04]  ¿Sí?
+[SPEAKER_04]  Y al bailasalza, qué bueno.
+[SPEAKER_01]  de bailarín, lo vieran.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  De las cosas que se entera uno, Edgar. Sí, no sabíamos.
+[SPEAKER_02]  Gracias.
+[SPEAKER_09]  ¿Sabes qué te dirá uno?
+[SPEAKER_02]  Total, súper bailarín.
+[SPEAKER_04]  ¡Suscríbete!
+[SPEAKER_02]  ¡Ah, vea, la otra! Ella también estaba ese día.
+[SPEAKER_04]  ¡Cállate!
+[SPEAKER_04]  ¡Bien!
+[SPEAKER_04]  A mí me pasó lo contrario con Susi Forero, Beatriz A. de la Historia. Me sacó a bailar, porque yo no sé bailar.
+[SPEAKER_04]  Y le dije a Susy, Susy, yo voy a bailar, pero...
+[SPEAKER_04]  Si me hablas, pierdo el paso.
+[SPEAKER_04]  ¿Sí?
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  Con una calera uno cómo no va a bailar, ¿no?
+[SPEAKER_04]  Con una calenona como...
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Sí, sí, sí.
+[SPEAKER_01]  Sí.
+[SPEAKER_00]  Qué buena la historia.
+[SPEAKER_01]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_01]  Entonces, sí, esa vida estudiantil, y sí hacíamos trabajo en grupo.
+[SPEAKER_07]  Gracias.
+[SPEAKER_01]  Mira, pero los trabajos del grupo, yo no sé, y todavía hasta me pasa todavía, como que siempre son...
+[SPEAKER_01]  Dos, uno, que hace todo y los demás no.
+[SPEAKER_01]  Entonces, ¡ah!
+[SPEAKER_01]  Y yo era siempre la que sí.
+[SPEAKER_01]  Lo hacía.
+[SPEAKER_01]  Entonces, por ejemplo, esa es una cosa que he tenido que aprender en la vida y esa...
+[SPEAKER_01]  Trae grupo.
+[SPEAKER_01]  Saber delegar, saber confiar en los demás.
+[SPEAKER_00]  Delega.
+[SPEAKER_01]  gran gran los primeros años de carrera fue muy difícil de trabajo muy difícil porque yo
+[SPEAKER_01]  Sentía pues que...
+[SPEAKER_01]  que me tocaba hacer todo porque más tiempo perdía diciéndole a los otros cómo hacerlo, entonces lo hacía yo.
+[SPEAKER_01]  Pero después descubrí, no, pero si yo lo hago, si yo voy a hacer todo sola, no voy a poder llegar a ningún pereira, entonces me va a tocar.
+[SPEAKER_01]  aprender a trabajar con los otros y entender que son otros talentos, otros ritmos, otros saberes y que toca como armonizar un poco el ritmo y eso fue todo un aprendizaje. O sea, yo duré los primeros años de trabajo.
+[SPEAKER_00]  ¡Eres...!
+[SPEAKER_01]  Mucho, tratando de aprender a trabajar en grupo y después lo logré y tuve unos equipos de trabajo espectaculares, pero ya de 200 personas y 100 personas espectaculares y aprendí pues a trabajar en grandes grupos, pero esa experiencia en la universidad donde a uno le tocaba hacer todo y después el otro no había hecho nada, no, eso no me gustaba.
+[SPEAKER_01]  Eso pasaba, pasaba.
+[SPEAKER_04]  Sí, todo lo que estás diciendo, mira, mira, Isabel.
+[SPEAKER_04]  Va a servir mucho inclusive para el rediseño de la ingeniería, ¿no?
+[SPEAKER_04]  Estos temas que tú hablaste al comienzo, de por qué la química, todo eso, ¿no?
+[SPEAKER_04]  Esto es el trabajo en grupo que casi que es una taxonomía.
+[SPEAKER_00]  Gracias.
+[SPEAKER_06]  ¡Gracias!
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  En la academia hay que trabajar en grupo.
+[SPEAKER_04]  De pronto eso hay que revisarlo muy bien, ¿no? Redefinirlo por lo que tú acabas de decir, por qué sucede. Y sucede con profesionales también, ¿no? Sí.
+[SPEAKER_04]  ¡No!
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  ¡Claro!
+[SPEAKER_04]  Sí, bueno, sí, sí, muy bien. ¿Sí que entonces?
+[SPEAKER_01]  Bueno, entonces, ¿ahora qué quieres que te hable? ¿Ya me puedo ir graduando?
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Sí, ya entonces te va a tocar el grado porque te toca hacer tesis, ¿verdad?
+[SPEAKER_01]  Rafael tiene la mano levantada.
+[SPEAKER_04]  Sí, a Rafa, adelante Rafa.
+[SPEAKER_09]  Yo te quería preguntar, qué chévere oírte esta reunión, ha sido muy rica.
+[SPEAKER_09]  Pero yo te quería preguntar antes de que te gradúes.
+[SPEAKER_02]  Ok.
+[SPEAKER_09]  ¿Por qué?
+[SPEAKER_09]  Porque fíjate que hay un tránsito.
+[SPEAKER_09]  de la astrofísica.
+[SPEAKER_09]  Al...
+[SPEAKER_09]  al servicio público.
+[SPEAKER_09]  Sí.
+[SPEAKER_09]  Estás haciendo un tránsito que va...
+[SPEAKER_09]  desde el espacio exterior.
+[SPEAKER_09]  hasta decir...
+[SPEAKER_09]  Oiga, mi lugar no es allá afuera, mi lugar es acá adentro.
+[SPEAKER_09]  Es muy local. Entonces, muy bonita esa historia.
+[SPEAKER_09]  Pero...
+[SPEAKER_09]  Bueno.
+[SPEAKER_09]  Eh.
+[SPEAKER_09]  Voy a tocar un...
+[SPEAKER_09]  Los libros.
+[SPEAKER_09]  y la vida universitaria que tenías allí.
+[SPEAKER_09]  En esa época, pues me imagino que en los Andes se estudiaba los cálculos con Spivak, con Apóstol, con...
+[SPEAKER_09]  La física con Klebner y Kolenkoff, no con Stewart, que...
+[SPEAKER_09]  que son más para masticadito todo.
+[SPEAKER_09]  digamos que eran libros
+[SPEAKER_09]  Te...
+[SPEAKER_09]  para que los ingenieros aprendieran algo de matemáticas.
+[SPEAKER_09]  pero escritos por matemáticos, pero no para ingenieros. Él ha escrito por matemáticos y para matemáticos.
+[SPEAKER_09]  Muy seguramente la mayoría de tus profesores tampoco eran...
+[SPEAKER_09]  ingenieros de sistemas o eran ingenieros de sistemas recién desempacados.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Así es.
+[SPEAKER_09]  ¿Cómo es esa relación? Primero para aterrizarte.
+[SPEAKER_09]  de la astrofísica a...
+[SPEAKER_09]  a ese mundo real, además con la pasión.
+[SPEAKER_09]  de que te estás gozando todas las...
+[SPEAKER_09]  toda la matemática que querías
+[SPEAKER_09]  de los libros duros, de los textos serios en matemáticas.
+[SPEAKER_09]  mediada además ese tránsito con profesores que muy seguramente no eran ni siquiera ingenieros de sistemas.
+[SPEAKER_09]  Entonces...
+[SPEAKER_09]  ¿Cómo defines la ingeniería de sistemas que se hacía en ese momento? ¿Sí me explico?
+[SPEAKER_09]  Porque estamos haciendo.
+[SPEAKER_09]  Ciencias de la Computación
+[SPEAKER_09]  algo de matemáticas.
+[SPEAKER_09]  Eh...
+[SPEAKER_09]  mucho de física.
+[SPEAKER_09]  Afortunadamente,
+[SPEAKER_09]  Tenías un ciclo básico y unas...
+[SPEAKER_09]  Gracias.
+[SPEAKER_09]  y unos contactos con otras disciplinas.
+[SPEAKER_09]  Entonces, todo venía de otra parte, todo era exógeno.
+[SPEAKER_09]  a la ingeniería de sistemas y estudiaba ingeniería de sistemas.
+[SPEAKER_09]  Entonces, es una gran cuestión.
+[SPEAKER_06]  Gracias.
+[SPEAKER_09]  Y a eso le metemos todo el rollo.
+[SPEAKER_09]  de
+[SPEAKER_09]  de la sociedad misma que no sabe qué estabas haciendo, porque nadie sabía qué era la ingeniería de sistemas.
+[SPEAKER_09]  Y metámosle toda la rumba y todo el...
+[SPEAKER_09]  Todo el ambiente, toda la cultura que había de la vida universitaria.
+[SPEAKER_09]  Y entonces, en últimas, ¿qué era la ingeniería de sistemas? Porque parecía ser la suma de un montón de cosas que no tenían nada que ver con ingeniería de sistemas. O no tenían.
+[SPEAKER_09]  nada que ver concretamente con ingeniería de sistemas.
+[SPEAKER_09]  ¿Qué era lo que estudiabas?
+[SPEAKER_02]  jajaja
+[SPEAKER_02]  Qué buena pregunta.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_09]  ¿Quieres esa vaina?
+[SPEAKER_08]  Bueno
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Esa cosa, esa cosa como ecléctica, sí.
+[SPEAKER_01]  Pero es que yo creo que en parte eso me marcó, porque entonces yo no...
+[SPEAKER_01]  Por eso creo que...
+[SPEAKER_01]  Pude haber hecho lo que he hecho porque no era una sola cosa, sino que eran muchas cosas.
+[SPEAKER_01]  Entonces aprendí a hacer muchas cosas, ser muchas cosas.
+[SPEAKER_01]  No, el tránsito de la astrofísica a los problemas urbanos.
+[SPEAKER_01]  Como que eso no me lo había preguntado, no sé responderte.
+[SPEAKER_01]  pero de todas maneras es como esa, ambos se encuentran.
+[SPEAKER_01]  en que hay que hacer algo por la humanidad, o sea, de todas maneras mi cosa por...
+[SPEAKER_01]  como esa obsesión en mi vida por hacer cosas importantes grandes de impacto
+[SPEAKER_01]  ¿No?
+[SPEAKER_01]  Entonces eso yo lo veía como de mucho impacto y lo que he hecho en toda la carrera también me parece de gran impacto.
+[SPEAKER_01]  Entonces es como, sí, como hacer algo importante por la humanidad.
+[SPEAKER_01]  y la ciencia como tal, la ciencia.
+[SPEAKER_01]  Gracias.
+[SPEAKER_09]  Y nos vacías desde lo utilitario del...
+[SPEAKER_09]  De la...
+[SPEAKER_09]  O sea, de estoy estudiando esto porque sirve para tal cosa, sino más bien esa amalgama de muchas fuentes es lo que te fabrica y te convierte entonces en lo que...
+[SPEAKER_09]  En ley de Nierak.
+[SPEAKER_02]  Sí.
+[SPEAKER_09]  que fuiste en ese momento.
+[SPEAKER_02]  Sí, sí, sí.
+[SPEAKER_02]  Sí.
+[SPEAKER_02]  ¡Gracias!
+[SPEAKER_01]  Sí, o sea, de pronto fue buenísimo eso. Uno se pone a pensar.
+[SPEAKER_02]  Yo no sé.
+[SPEAKER_05]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Yo lo traduzco.
+[SPEAKER_01]  Fue buenísimo eso porque de pronto la cosa después se especializó mucho.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Y ya había mucho ingeniero de sistemas y ya se volvió muy ciencias de la computación y todo eso. No sé.
+[SPEAKER_01]  creo que en Estados Unidos pues era más ciencias de la computación y programa, programa, programa yo me hubiera unido con eso
+[SPEAKER_07]  ¿Por qué?
+[SPEAKER_04]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Muy difíciles tus preguntas, Rafa. Ah, pero muy chévere.
+[SPEAKER_04]  yo los traduzco en en adoptar la vida la vida
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  La vida no es solamente la matemática, lo que nos gusta, ¿sí?
+[SPEAKER_05]  de ahí
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  sino la vida es muy interesante porque puede ser que en la universidad uno se concentre demasiado en lo técnico, ta, ta, ta, ta.
+[SPEAKER_04]  Pero tú seguiste siendo caleña, ¿no? Y la salsa.
+[SPEAKER_04]  Y la sociedad y todo ese relacionamiento que tú tienes además, porque eso es un doble, ¿no?
+[SPEAKER_01]  Es doble, ¿no?
+[SPEAKER_04]  O sea que no olvidaste ser, como dijiste, ser.
+[SPEAKER_01]  Mira, y yo no volví a estudiar nada más. O sea, yo nunca tuve tiempo de volver a estudiar nada más. Entonces, toda... Porque, bueno, mucha gente se fue. Francia, Estados Unidos, no sé qué. Hicieron maestría. Yo no hice maestría.
+[SPEAKER_01]  O sea, aquí donde me ven, yo tengo mi pregraf y hice una...
+[SPEAKER_01]  Me metí a una especialización ahí en los Andes de...
+[SPEAKER_01]  Gerencia Estratégica e Informática
+[SPEAKER_01]  Pésima.
+[SPEAKER_01]  Esa especialización.
+[SPEAKER_01]  mala, como en la primera corte.
+[SPEAKER_01]  Y yo al final no volví, entonces ni siquiera me dieron la certificación ni nada, por ahí me dieron que asistía al 80% de las...
+[SPEAKER_01]  de las clases, pero yo en realidad...
+[SPEAKER_01]  O sea, todo lo que yo aprendí es ese pregrado, o sea, de lo que estamos hablando en este momento.
+[SPEAKER_01]  Yo... y tampoco me dio después por hacer...
+[SPEAKER_01]  esas certificaciones de Microsoft y Oracle y esas cosas, nada de eso, nada, ni una. O por allá algunas que me tocaron, pero...
+[SPEAKER_01]  Pero nada, tampoco, eso me parecía una grosería.
+[SPEAKER_01]  que uno se tenía que certificar que ingeniero de sistemas de Microsoft, y yo no, yo ya soy ingeniera de sistemas de la Universidad de Los Andes, o sea.
+[SPEAKER_01]  ¿Sí? Entonces...
+[SPEAKER_01]  Pues...
+[SPEAKER_01]  Digo con humildad, pero muchas gracias a todo lo que he hecho, habiendo solo una carrera, solo la carrera de pregrado, tuvo que haber sido muy buena.
+[SPEAKER_01]  O sea, tuvo que haber sido muy buena porque en realidad yo creo que yo he hecho muchas cosas muy chéveres, muy importantes, muy buenas para este país y ahora para América Latina y por una carrera.
+[SPEAKER_01]  ¡Cinco años!
+[SPEAKER_01]  Y nada más. ¡Claro!
+[SPEAKER_01]  Con...
+[SPEAKER_01]  He seguido estudiando toda la vida, pero ya yo...
+[SPEAKER_01]  Yo
+[SPEAKER_01]  No.
+[SPEAKER_01]  O sea, el estudio continúa porque además es que esto cambia y cambia y cambia y cambia y aparecen nuevas tecnologías y nuevas cosas y nuevas metodologías y nuevas... Y entonces ya el resto ha sido yo.
+[SPEAKER_01]  estudiando sola.
+[SPEAKER_01]  ¿No?
+[SPEAKER_01]  ¡Ehhh!
+[SPEAKER_01]  que creo que es otra cosa que me enseñaron ahí.
+[SPEAKER_01]  a investigar.
+[SPEAKER_01]  A estudiar, a leer, a estudiar yo sola.
+[SPEAKER_01]  Creo que eso es lo que le tienen que enseñar a uno y en estas épocas me parece que es una de las habilidades más claves.
+[SPEAKER_01]  que le enseñan a ir aprendiendo, o sea, la educación a lo largo de la vida y todo eso. Yo lo hice pues empíricamente toda la vida y...
+[SPEAKER_01]  Y creo que ha sido muy bueno, pero yo no volví a estudiar nada más. Y yo en tele trabajando 240 y yo no sé cuántos años.
+[SPEAKER_01]  41
+[SPEAKER_04]  Sí, increíble.
+[SPEAKER_01]  jajaja
+[SPEAKER_04]  Ya te estás acercando entonces a la tesis de grado y a esa época, ese momento. ¿Cómo era? ¿Qué pasó? ¿Cómo fue? No, clarísimamente.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  pero
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Sí. ¿Cómo es?
+[SPEAKER_01]  No, clarísimamente hice lo del seminario de problemas urbanos, después el de, ¿cómo se llama? El de transporte, hice el proyecto de grado, entonces mi asesor de tesis tenía que ser un ingeniero de sistemas.
+[SPEAKER_00]  ¡Gracias!
+[SPEAKER_01]  que fue Leonardo Ramírez.
+[SPEAKER_01]  ¡Ey!
+[SPEAKER_02]  ¡Gracias!
+[SPEAKER_01]  Y entonces Leonardo Ramírez trabajaba en el SISI.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Y entonces yo entiendo...
+[SPEAKER_01]  Listo.
+[SPEAKER_01]  Él fue mi asesor de tesis.
+[SPEAKER_01]  Y ahí después conocí a todas las personas que trabajaban con él ahí, pues a Japa, Jairo Serrano, Harry Coppel, Julio Serge, Carlos Peña, Roberto Stier, bueno, todo ese combo que trabajamos ahí en el CICE.
+[SPEAKER_01]  Ehm...
+[SPEAKER_01]  Entonces, pero digamos, me gradué, ¿cierto? Ya, listo, me gradué.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Y como yo había hecho, como mi asesor era Leonardo Ramírez, y entonces él ya me había dicho que si me quería vincular al CICE.
+[SPEAKER_01]  Pero los de Intercol...
+[SPEAKER_01]  Se dieron cuenta que yo me había graduado y eso le hacen a uno seguimiento y yo había trabajado allá pues como hacía dos años.
+[SPEAKER_00]  ¡Gracias!
+[SPEAKER_06]  Gracias.
+[SPEAKER_00]  ¡Gracias!
+[SPEAKER_01]  Y, ah, supimos que se graduó. Queríamos saber si se viene a trabajar acá. O sea, uno lo llamaba cuando se graduaba, vea, que venga a trabajar acá. Una maravilla.
+[SPEAKER_01]  Y yo...
+[SPEAKER_01]  ¡Uy!
+[SPEAKER_01]  Yo creo que me pagaban el doble, se los juro, que me pagaban el doble o más de lo que me podía ganar en el CICE. El CICE era...
+[SPEAKER_01]  El Centro Distrital de Sistematización y Servicios Técnicos, Entidad Distrital.
+[SPEAKER_01]  Yo entré como investigador uno.
+[SPEAKER_01]  ¡Gracias por ver el video!
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Y seguramente me pagamos.
+[SPEAKER_01]  poquito
+[SPEAKER_01]  Pero bien.
+[SPEAKER_01]  Yo nunca gané mucho, siempre gané bien.
+[SPEAKER_01]  Ahora es que gano... La primera vez que gano horta plata es ahorita que estoy en la CAF. De resto siempre ha sido...
+[SPEAKER_01]  pero me acuerdo que me ofrecieron irme a trabajar allá a Intercol y me pagaban.
+[SPEAKER_01]  ¡Como el doble!
+[SPEAKER_01]  Y yo, ay no, yo si no me voy a ir a una empresa donde había el manual para hacer el manual.
+[SPEAKER_02]  Todo está...
+[SPEAKER_01]  ¡Chau!
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  hecho, entonces yo si quería ir a
+[SPEAKER_01]  donde yo pudiera aportar, donde hubiera posibilidad de crear.
+[SPEAKER_01]  de aportar, entonces por eso me fui para el CICE.
+[SPEAKER_01]  Pero mira, este fue tomar el seminario de problemas urbanos, el de transporte y no voy al CICE, pues en el CICE hicimos el sistema de información urbano.
+[SPEAKER_01]  Primer premio colombiano informática con JAPA.
+[SPEAKER_01]  Eh... miren y verán.
+[SPEAKER_01]  Jejeje
+[SPEAKER_01]  Eh... que son así, así es.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Y por allá una revista Sistemas, publicaron todo lo que hicimos en el Sistema, lo que hizo Julio Sérgez.
+[SPEAKER_02]  Por allá la...
+[SPEAKER_01]  de sistemas de información geográficos y lo que hicimos con Japón, el sistema de información urbana y todas esas revistas sistemas, yo la tengo si la quieren.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Nosotros...
+[SPEAKER_04]  Nosotros revisamos, para que sepan, revisamos 140 revistas de ASIS.
+[SPEAKER_04]  Este grupo, sí, de todas, desde el año 77.
+[SPEAKER_01]  Hola.
+[SPEAKER_09]  De todas.
+[SPEAKER_07]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_09]  El archivo oficial de la revista Sistemas es Manuel.
+[SPEAKER_04]  para...
+[SPEAKER_09]  Que tiene todos los...
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Por ahí me tienen una, ¿no? Creo, por ahí me tienen una.
+[SPEAKER_09]  Gracias.
+[SPEAKER_00]  Sí, aquí están reservadas, están reservadas.
+[SPEAKER_04]  No sé, guardaditas. Pero es muy interesante porque ya que lo mencionas es un historial que analizamos.
+[SPEAKER_04]  ¿Quiénes eran? ¿Qué escribían?
+[SPEAKER_04]  ¿Cuándo escribieron por primera vez la inteligencia artificial? Etcétera.
+[SPEAKER_05]  ¿No?
+[SPEAKER_04]  ¿No? Entonces sí, tienes razón. Y estaba muy cerca el CICE por ese grupo muy así.
+[SPEAKER_04]  estaba muy cerca de la asociación.
+[SPEAKER_04]  Claro que sí.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  que gira
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  Tengo fotitos donde nos daban el premio colombiano de informática que me parece que se lo ganó el DANE, nosotros quedamos de segundos o empatados en primer lugar o algo así. Me acuerdo que fue una cosa del DANE. Creo que fue el primero, Busquen y Verán.
+[SPEAKER_01]  ¡Ehhh!
+[SPEAKER_01]  Y entonces, bueno, nada, pues ya.
+[SPEAKER_01]  Fue como que digamos el tránsito de la universidad a trabajar fue derechito.
+[SPEAKER_01]  Derechito porque...
+[SPEAKER_01]  Pues porque mi asesor de tesis me dijo, venga acá a trabajar acá.
+[SPEAKER_01]  Y yo seguí más o menos trabajando en lo mismo que estaba en mi proyecto de grado.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Y ahí duré como cuatro años.
+[SPEAKER_02]  Feliz, felicísima.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  jajaja
+[SPEAKER_01]  He sido feliz toda la vida trabajando en el sector.
+[SPEAKER_04]  ¿Tú?
+[SPEAKER_04]  Tú proyectas felicidad, ¿sí? Eso sí lo tenemos clarísimo.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Mucha alegría, mucha alegría.
+[SPEAKER_04]  Sí.
+[SPEAKER_04]  Sí, nada, el ánimo de ella es maravilloso. Una cosita, esos cuatro años fueron en el CICE.
+[SPEAKER_04]  Sí, exclusivamente, ¿cierto? Sí.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Que va muy por lo que viene, porque era el distrito, se hablaba del consejo de Bogotá, hay un poquito de política, tecnología, ¿no?
+[SPEAKER_01]  Eso era.
+[SPEAKER_04]  Eso era.
+[SPEAKER_04]  Bueno.
+[SPEAKER_01]  Sí, eran proyectos muy innovadores en ese momento, o sea, sistemas de información geográfica, yo apenas estaba empezando, bueno, en cuanto a computadores.
+[SPEAKER_00]  ¡Gracias!
+[SPEAKER_01]  Bueno, toda la carrera con el IBM 360, solo ya...
+[SPEAKER_01]  Como en el último semestre fue que llegó el borros.
+[SPEAKER_01]  donde ella, pero yo nunca lo sé, y después llego entonces al CICE.
+[SPEAKER_01]  Y era un IBM 370, ¿no?
+[SPEAKER_01]  Y estando ahí en el CICE en 1982...
+[SPEAKER_01]  Fue que llegaron esos primeros...
+[SPEAKER_01]  Máquitos.
+[SPEAKER_07]  Sí.
+[SPEAKER_01]  Entonces empezaron a llegar los desktop.
+[SPEAKER_01]  Y eso es maravilloso, digamos, haber vivido también desde las tarjetas de la universidad.
+[SPEAKER_01]  e ir a las perforadoras y compilar una vez al día, ¿no?
+[SPEAKER_01]  Uno no se podía equivocar ni en una coma ni en un punto porque le tocaba un día más.
+[SPEAKER_01]  Y bueno, ya uno llega al CICE y ya, terminal de letreritos verdes, la pantalla negra, ¿no?
+[SPEAKER_01]  y entonces uno ya podía compilar
+[SPEAKER_01]  100 veces en un día, ahí uno empieza a bajar la calidad. Porque yo me acuerdo que uno hacía un programa y lo tenía que escribir muy bien, compilarlo para que le funcionara, o si no salía un día más, otro día más, y otro día más, eran días. Entonces aquí, entonces uno cuando ya sabe que puede compilar 10 veces, 20 veces, pues entonces ya se va bajando la calidad. Entonces me acuerdo mucho de eso.
+[SPEAKER_02] 
+[SPEAKER_06]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  ¡Eh!
+[SPEAKER_01]  Y bueno, digamos que esa experiencia de haber vivido de las tarjetas.
+[SPEAKER_01]  Hasta lo que tenemos hoy, pues eso es una...
+[SPEAKER_01]  ¡Qué fortuna uno poder ser como testigo!
+[SPEAKER_01]  de esa evolución.
+[SPEAKER_01]  ¿Oh?
+[SPEAKER_01]  Testigo y como protagonista, porque también, pues...
+[SPEAKER_01]  Hemos sido protagonistas.
+[SPEAKER_01]  Entonces, eso ha sido maravilloso.
+[SPEAKER_01]  Yo...
+[SPEAKER_01]  Yo no sé si eso pasa en todas las carreras, pero en esta carrera es una cosa que es espectacular.
+[SPEAKER_04]  Tienes toda la razón.
+[SPEAKER_04]  Bueno, y después de esos cuatro años, ¿qué pasó? ¿Cuatro años en el CICE?
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Cuatro años en el CISES, después me fui...
+[SPEAKER_04]  Y...
+[SPEAKER_01]  Me fui a...
+[SPEAKER_01]  al Ministerio de Agricultura.
+[SPEAKER_04]  del Ministerio.
+[SPEAKER_01]  maravilloso al Ministerio, o sea, sí, del SISTEM fuimos al Ministerio de Agricultura con Japa, yo trabajaba ahí, con Japa, trabajé en el Ministerio de Agricultura.
+[SPEAKER_01]  Y ahí estuvimos, digamos, el tema en el CICE era sistemas de información urbanos.
+[SPEAKER_01]  georreferenciación, bases de datos urbanas, todo eso.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Y entonces pasamos al Ministerio de Agricultura, donde era ya eso mismo, pero en el sector agropecuario. Entonces fue conocer el sector agropecuario, entender que un cultivo transitorio, que un cultivo permanente, conocer Colombia.
+[SPEAKER_01]  Eso fue espectacular. Me tocó viajar.
+[SPEAKER_01]  por muchas ciudades y muchos actos rurales de Colombia, conocer los cultivos, conocer las especies de ganado.
+[SPEAKER_01]  Porque entonces lo que hacíamos era, lo que hicimos fue montar un sistema de...
+[SPEAKER_01]  Primero un sistema de estadísticas por muestreo que asesorados por la FAO, por la...
+[SPEAKER_01]  Sí, la FAO.
+[SPEAKER_00]  Así la...
+[SPEAKER_01]  que había un experto ecuatoriano que estaba montando el sistema acá, que era un sistema de...
+[SPEAKER_01]  de estadístico de muestreo de áreas.
+[SPEAKER_00]  ¡Te voy a odiar!
+[SPEAKER_01]  Y entonces lo que hacíamos eran unas encuestas agropecuarias que un poco reemplazaban lo que era un censo agropecuario.
+[SPEAKER_01]  porque hacer un censo agropecuario es muy, muy, muy costoso, entonces lo que hicimos fue montar todo ese sistema de estadísticas por muestreo de áreas para reemplazar lo que era un censo.
+[SPEAKER_01]  Entonces hicimos unas encuestas piloto y después ya...
+[SPEAKER_01]  como una primera encuesta nacional agropecuaria.
+[SPEAKER_01]  Y digamos que ahí ya...
+[SPEAKER_01]  Entonces, seguí aprendiendo, bueno, ahí ya, por ejemplo, procesar esa encuesta, entonces me tocaba procesar esa encuesta y el Ministerio de Agricultura tenía un...
+[SPEAKER_01]  ¿Cómo era que se llamaban eso? Se llamaban...
+[SPEAKER_01]  No era mainframe, sino...
+[SPEAKER_01]  ¿Cómo era que se llamaban? Esos que eran como medianos, ¿sí?
+[SPEAKER_04]  de amar a esos que eran como mediados.
+[SPEAKER_04]  Minicomputadores, mini. Pero era mini.
+[SPEAKER_01]  Pero era mini, mini, mini computadores que no eran el texto.
+[SPEAKER_04]  computador
+[SPEAKER_04]  Sí, no era el grande.
+[SPEAKER_07]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  los minicomputadores, eso ahí no corría esa encuesta. Entonces usábamos SAS, bueno, con PL1, SAS.
+[SPEAKER_01]  Y a mí me tocó irme al computador del DANE, porque el del Ministerio de Agricultura no daba para procesar esa encuesta, entonces yo me iba al computador del DANE y yo corría mi programa.
+[SPEAKER_01]  Y se caía el computador del DANU
+[SPEAKER_01]  Entonces, no, usted no puede venir aquí de día, tiene que venir de noche. Entonces, a mí me toca ir de noche.
+[SPEAKER_01]  para que todo el computador del DANE quedara para mí sola.
+[SPEAKER_01]  Y entonces yo corría, procesaba mi encuesta agropecuaria por la noche en el computador del DANE, ahí solo en unas salas que había ahí en el DANE.
+[SPEAKER_01]  Bueno.
+[SPEAKER_01]  y bueno, ahí seguir trabajando en equipo, seguir conociendo el país, seguir tratando de solucionar problemas públicos, en este caso.
+[SPEAKER_01]  Todas estas dificultades en el sector agropecuario, esa mezcla de estar haciendo algo por el país desde la tecnología. Eso es lo que he hecho toda la vida, toda la vida. O sea, eso se los voy a repetir en todos los trabajos.
+[SPEAKER_01]  espectacular, conocer el país, trabajar con un mundo de gente y bueno, y aprende uno de otras cosas, porque pues uno acaba aprendiendo agricultura, ¿no?
+[SPEAKER_01]  Sí.
+[SPEAKER_02]  ¡Gracias!
+[SPEAKER_01]  Después del Ministerio de Agricultura me fui al...
+[SPEAKER_01]  ¡Sí, Fih!
+[SPEAKER_01]  ¡Sí, Fih!
+[SPEAKER_01]  al Centro de Investigaciones de la Facultad de Ingeniería de los Andes, ahí con Orlando Cuevas y entonces...
+[SPEAKER_01]  ¡Ehhh!
+[SPEAKER_01]  Ahí me empecé a meter como en hacer planes estratégicos, se llamaba plan estratégico informático.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Y entonces hicimos uno para Fe de Arroz e hice otro para Caracol Televisión.
+[SPEAKER_01]  Y entonces ahí ya viene mi primer...
+[SPEAKER_01]  experiencia en el sector privado
+[SPEAKER_01]  Entonces me fui de directora, en principio duré, no sé, como...
+[SPEAKER_01]  dos años, no me acuerdo, y me fui a Caracol Televisión porque entonces ya me propusieron ser la directora de sistemas de Caracol Televisión.
+[SPEAKER_01]  Entonces, bueno, directora de sistemas.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Y bueno, ahí me tocó hacer, pues como ir a implementar todo ese plan estratégico de informática que habíamos hecho desde el CIFI, entonces ya implementarlo.
+[SPEAKER_01]  Y bueno, que comprar computadores, que las redes, que no sé qué, que los sistemas, que un sistema y el otro sistema, eso me pareció muy olvidoso.
+[SPEAKER_01]  Digamos que ese sí fue uno de los trabajos que...
+[SPEAKER_01]  ¿No?
+[SPEAKER_01]  No, y yo decía yo que aquí haciendo ritmo Julio Mario Santo Domingo, porque de verdad.
+[SPEAKER_01]  ¡Me pagan bien!
+[SPEAKER_01]  Muy bien, pero...
+[SPEAKER_01]  No, no.
+[SPEAKER_01]  No fui, no estuve aburrida, porque yo nunca me aburro, pero no era como...
+[SPEAKER_01]  ¡Woo!
+[SPEAKER_01]  Es espectacular lo que estoy haciendo acá.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Porque era que el sistema de información para producción, que el de, no sé, que la contabilidad, que es lo mismo. Bueno, eso. Sistemas comerciales, eso me pareció muy aburrido.
+[SPEAKER_01]  Ser directora de sistemas me pareció muy ocurrido. Nunca quise volver a hacer eso.
+[SPEAKER_01]  Y ahora hay mucha gente que le toca hacer eso, ¿no? Ser como el director de tecnología. Eso me parecía horrible.
+[SPEAKER_02]  Bueno.
+[SPEAKER_01]  Y es muy duro, porque es muy duro, porque de verdad es lidiar con todas las áreas de la organización, no se tienen los recursos suficientes, la gente no le cree a uno, son unos trabajos como muy solitarios, ¿sabes? O sea, ser director de sistema de trabajo es un trabajo difícil, mínimo, mínimo, solitario.
+[SPEAKER_09]  Les agradecido.
+[SPEAKER_01]  Desagradecido, pero desagradecidísimo, sí. Sí, esa es la palabra.
+[SPEAKER_09]  ¡Agradecidos!
+[SPEAKER_09]  No te enoja nada.
+[SPEAKER_09] 
+[SPEAKER_04]  la palabra.
+[SPEAKER_01]  ¡Wet!
+[SPEAKER_01]  Eso no me gustó mucho. Entonces, estando ahí...
+[SPEAKER_01]  Estaba, conocen ustedes pues a Ángela Espinosa, sí.
+[SPEAKER_04]  Y ella trabajó conmigo en Microtech. Y ella trabajó conmigo.
+[SPEAKER_01]  compañera mía de la universidad
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Y ella se había ido a Inglaterra a estudiar cibernética organizacional y había acabado de volver. Y entonces la nombraron secretaria informática de la presidencia de la república.
+[SPEAKER_01]  Y entonces un día hablando con ella, porque ella era amiga mía, entonces me dice, ay, necesito un asesor allá en la presidencia. Y yo, yo. Me dice, no, pero yo no te puedo pagar lo que tú te estás ganando. Yo, a mí no me importa. Yo me voy para allá. Y entonces me fui para allá a trabajar con ella por la mitad de la plata que me estaba ganando.
+[SPEAKER_01]  Allá fui feliz. Entonces, por ejemplo, lo que hicimos allá.
+[SPEAKER_01]  En un programa con el Instituto CERN de Investigación. ¿Se acuerdan del Instituto CERN de Investigación? Bueno.
+[SPEAKER_01]  Con ellos hicimos un proyecto que ellos llevaron.
+[SPEAKER_00]  No, no, ya no hay valencia.
+[SPEAKER_01]  ¿Qué es gasto?
+[SPEAKER_00]  con el danay barriera.
+[SPEAKER_01]  Eso, exactamente.
+[SPEAKER_01]  Entonces era un proyecto donde se diseñó el sistema de información para la administración municipal. Ellos lo hicieron y entonces era un sistema que le permitía a los municipios cobrar el impuesto predial. Esto era 1990.
+[SPEAKER_01]  cobrarle el impuesto predial, el impuesto de industria y comercio, cobrar servicios públicos, manejar como su presupuesto.
+[SPEAKER_01]  Y ya.
+[SPEAKER_01]  Era como un mini ERP, digamos, en los términos de ahora, pero también cobrar servicios públicos permitía ingresos para el municipio.
+[SPEAKER_01]  Bueno.
+[SPEAKER_01]  Y esto fue llegar a...
+[SPEAKER_01]  A todos los municipios de menos de 100.000 habitantes. A todos los municipios de menos de 100.000 habitantes, o sea, más de 1.000.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  y montar, mi labor era montar el SIAM, el Sistema de Información para la Administración Municipal, y llegar a municipios donde no había un computador, no había una persona que supiera nada, o sea, eran de ceros, de ceros, espectacular.
+[SPEAKER_01]  proyectas
+[SPEAKER_01]  Y yo creo que fue el primer computador que llegó a muchos municipios. A muchos, muchos, muchos municipios el primer computador que llegó.
+[SPEAKER_05]  ¡Wey!
+[SPEAKER_01]  Ese proyecto fue espectacular, me encantó. Y después trabajamos también como en un sistema como el primer SIGOP, que era como el sistema para seguimiento de metas de gobierno.
+[SPEAKER_07]  ¡Voy!
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Ehhh...
+[SPEAKER_01]  Después entonces otra vez volví al sector privado, me fui a trabajar a Teorema.
+[SPEAKER_01]  Teorema, que era la empresa de Dionisio Ibáñez.
+[SPEAKER_01]  Entonces volví al sector privado otra vez y ahí lo que hicimos fue como un sistema de información gerencial.
+[SPEAKER_01]  para ofrecerlo pues a empresas, era como un sistema de información gerencial como parametrizable, que se podía montar en cualquier empresa, ese Dios de Ciudadanos era un genio, que se le ocurrían cosas maravillosas y bueno, ahí trabajé un buen tiempo.
+[SPEAKER_00]  ¡Gracias!
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Ahí no está Fernando Dávila, en Teorema, creo.
+[SPEAKER_01]  ¡SUSCRIBETE!
+[SPEAKER_04]  Con Dionisio.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Sí.
+[SPEAKER_04]  Ellos desarrollaron un programa de contabilidad llamado Abaco.
+[SPEAKER_04]  En esa época.
+[SPEAKER_04]  Bueno, estaban en esos temas, ¿no?
+[SPEAKER_01]  Bueno, estaba en el...
+[SPEAKER_01]  Me acuerdo de Ignacio Vélez.
+[SPEAKER_04]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_01]  Y yo como que estaba allá. Era el chuzo, ¿cierto?
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  No estoy muy segura, tengo un poco de amnesia.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Bueno.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01] 
+[SPEAKER_02]  y
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Eso.
+[SPEAKER_02]  Teorema.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Ya me...
+[SPEAKER_01]  Que están bien los p grootos
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  después
+[SPEAKER_01]  Mi hoja de vida.
+[SPEAKER_01]  ¡Gracias!
+[SPEAKER_01]  Se me olvidó.
+[SPEAKER_04]  Ya casi llega al ministerio.
+[SPEAKER_01]  No, yo creo que ya, yo creo que ahí ya, ah, no, bueno, después estuve, no, no, sí, de ahí fui a un proyecto muy interesante con el SIDER.
+[SPEAKER_01]  el centro interdisciplinario de estudios regionales de los Andes.
+[SPEAKER_01]  ya no se llama así, pero es la misma sigla, el SIDER.
+[SPEAKER_01]  Y entonces ahí, esto era el gobierno de Samper y Samper había creado la red de solidaridad social. Entonces ahí lo que creamos fue una red de universidades que lideraba la Universidad de los Andes.
+[SPEAKER_01]  para hacer monitoreo a la red de solidaridad social.
+[SPEAKER_01]  o sea, del programa de gobierno para la lucha contra la pobreza.
+[SPEAKER_01]  Y nosotros desde las universidades, entonces ahí fue...
+[SPEAKER_01]  Ya no estaba en el gobierno, sino desde la academia.
+[SPEAKER_00]  Adiós.
+[SPEAKER_01]  Pero no, no, no como académica, sino como...
+[SPEAKER_01]  como evaluando, digamos, un programa del sector público.
+[SPEAKER_01]  ¿No?
+[SPEAKER_01]  Entonces hacíamos evaluación y monitoreo y seguimiento de la red de solidaridad social. Otra vez todo el país, espectacular. Ahí trabajamos con Opción Colombia. No sé si conocieron alguna vez de Opción Colombia, que era estos muchachos que...
+[SPEAKER_01]  que hacían como en su último semestre o antes de graduarse iban a hacer una práctica en un municipio.
+[SPEAKER_01]  se van a vivir al municipio.
+[SPEAKER_01]  Entonces nosotros hicimos una alianza con Opción Colombia y los mandamos a los municipios a hacer unas encuestas con los beneficiarios de los programas de la red de solidaridad social.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  ¡Pues...!
+[SPEAKER_01]  Y yo ahí lo que hacía era...
+[SPEAKER_01]  como el procesamiento de toda la información.
+[SPEAKER_01]  Y empecé a tener... Hasta ahí yo no había sido jefe ni nada jefe. Todo... Hasta ahí yo era...
+[SPEAKER_01]  Ingeniería de sistemas.
+[SPEAKER_01]  Pero ahí empecé como a incursionar, entonces que maneje el presupuesto. Ah, sí, listo, yo me encargo del presupuesto y cosas así.
+[SPEAKER_01]  y listo, ya está. Pero entonces ahí conocí a Fernando Tengo, que Fernando Tengo era...
+[SPEAKER_01]  el director del SIDER.
+[SPEAKER_01]  Y en eso, en el año 1999, había nombrado a Fernando Tejo director de planeación nacional.
+[SPEAKER_01]  Entonces él estaba director de Planación Nacional 1999, el Y2K.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  ¡Ay!
+[SPEAKER_01]  listo
+[SPEAKER_01]  Entonces, el problema del año 2000, yo estaba, me acuerdo que se acabó ese proyecto en el que yo estaba.
+[SPEAKER_01]  Y era, bueno, no, era el 31 de diciembre de 1998, faltaba un año.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Y yo estaba en el centro andino y ese día se me acababa el trabajo.
+[SPEAKER_01]  Yo creo que yo no he durado sino ese día mi vida sin trabajo.
+[SPEAKER_04]  ¡Mierda!
+[SPEAKER_01]  Más o menos, sí.
+[SPEAKER_04]  Oye, en el Y2K, ¿tú te acuerdas que yo te invité a un programa en Codelar?
+[SPEAKER_02]  ¡Sí!
+[SPEAKER_02]  Sí.
+[SPEAKER_04]  Era un programa de madrugadores.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  ¿Cierto? Sí.
+[SPEAKER_02]  Sí.
+[SPEAKER_02]  Sí, me acuerdo.
+[SPEAKER_04]  Y fuimos a hablar del Y2K a la emisora.
+[SPEAKER_02]  Sí.
+[SPEAKER_04]  Que tú explicaras cómo era la cosa. Sí, sí, sí.
+[SPEAKER_01] 
+[SPEAKER_02]  Sí.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  ¡Sí, sí, sí!
+[SPEAKER_01]  Sí.
+[SPEAKER_04]  Entonces, bueno.
+[SPEAKER_01]  Entonces, bueno, Fernando Tengo me dijo, nos citaron del Senado de la República a explicar eso del año 2000 y que teníamos que tomar acciones y el DNP quedó con la labor de coordinarlo del año 2000. Entonces, María Isabel, ¿por qué no se viene para acá? Y me ayuda a liderarlo del año 2000. Y entonces ya mismo me fui para allá y estuve todo 1999.
+[SPEAKER_01]  Pues en eso, que ahí sí fue.
+[SPEAKER_01]  el mayor aprendizaje de mi vida.
+[SPEAKER_01]  digamos, creo que es uno de los proyectos más interesantes que he trabajado toda mi vida, primero porque era...
+[SPEAKER_01]  En un plazo muy corto, era un año, no había más.
+[SPEAKER_01]  Y la fecha no se podía correr, que eso es espectacular porque como todos los proyectos suelen...
+[SPEAKER_01]  ampliar la fecha.
+[SPEAKER_01]  Esa fecha no se podía correr, entonces era el 31 de diciembre del 39 y no había forma de correrla.
+[SPEAKER_07]  Claro.
+[SPEAKER_01]  Tuvimos el apoyo de una consultora que se llama Busalen y Hamilton, eso fue clave para mí.
+[SPEAKER_01]  Me ayudaron a seleccionar como un equipo de gente de trabajo.
+[SPEAKER_01]  que trabajó conmigo como unas 20 personas y fue la primera vez que fui jefe.
+[SPEAKER_01]  Jefe, jefe, jefe como de un equipo, ¿no? Y ya como gerente.
+[SPEAKER_04]  ¿Qué?
+[SPEAKER_02]  ¡Gracias!
+[SPEAKER_04]  Sí, se llama.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Para los muchachos que van a ver esto, perdona la interrupción.
+[SPEAKER_01]  ¡Hasta luego!
+[SPEAKER_04]  El Y2K
+[SPEAKER_04]  consistía en el hecho de que el software se diseñó con COBOL, generalmente, ¿no?
+[SPEAKER_04]  sobre todo.
+[SPEAKER_04]  Y en el año medía,
+[SPEAKER_04]  Se pusieron solo dos dígitos para el H.
+[SPEAKER_04]  Solo dos dígitos.
+[SPEAKER_04]  Entonces era el 99, el 99.
+[SPEAKER_04]  Y resulta que cuando viene a cambiar al año 2000...
+[SPEAKER_04]  todos los programas del mundo iban a abortar.
+[SPEAKER_04]  Ese era un poco el mensajote.
+[SPEAKER_04]  Y habrá que modificar el software para ponerle los cuatro dígitos del año. Tan simple como eso, y eso fue un drama mundial, ¿no? Sí.
+[SPEAKER_01]  acuerdo
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Sí, fue un operativo mundial en el que todos los gobiernos estuvieron involucrados, los organismos internacionales, el PIB, la CAF, mi contrato en esa época lo pagó la CAF.
+[SPEAKER_02]  No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no
+[SPEAKER_04]  Y una.
+[SPEAKER_07]  Gracias.
+[SPEAKER_01]  Y ya, además...
+[SPEAKER_04] 
+[SPEAKER_09]  Además...
+[SPEAKER_04]  Rafa va a decir...
+[SPEAKER_09]  Además, ¿eh?
+[SPEAKER_04] 
+[SPEAKER_09]  Bien.
+[SPEAKER_09]  Digamos que la salida...
+[SPEAKER_09]  al aire la salida de operación de ese trabajo.
+[SPEAKER_09]  Pues era.
+[SPEAKER_09]  el 31 de diciembre a las 12 de la noche de 1999.
+[SPEAKER_09]  No había pruebas previas, o sea...
+[SPEAKER_01]  No había paralelo.
+[SPEAKER_09] 
+[SPEAKER_09]  No había nada paralelo, se apague uno y entra el otro y se acabó la cosa, o funcionó o no funcionó. ¿Cómo fue esa fiesta de Navidad del 31 de diciembre de 1990?
+[SPEAKER_01]  Eso fue buenísimo, allá en el último piso de planeación nacional.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Fue un operativo muy, muy interesante porque pues es que fue un operativo de coordinación de todos los países del mundo. O sea, todos los países del mundo se tuvieron que poner de acuerdo en qué hacer, cómo hacerlo, metodologías, todo. Entonces había metodologías, o sea, se trabajó con una metodología de mitigación de riesgos porque pues no era abolir, eliminar el riesgo, pero sí mitigar el riesgo. Entonces uno tenía que saber...
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  la probabilidad ocurrencia
+[SPEAKER_01]  La probabilidad de ocurrir es una falla.
+[SPEAKER_01]  de cada uno de los sistemas y el impacto en caso de que de verdad fallara.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Y había que trabajar con todos los sectores. Entonces trabajamos sector. Y cada sector tenía un coordinador año 2000. Era un operativo donde había coordinadores países, cada sector un coordinador año 2000. Entonces había el de comunicaciones, el de transporte, el del sector financiero y el sector público y el privado trabajando cada uno por su lado, dele, que dele, que dele, porque todos tenían que modificar esos programas.
+[SPEAKER_01]  Y...
+[SPEAKER_04]  Es que esa obra podía colapsar, el mundo podía colapsar.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Y mira que ahora, ahora...
+[SPEAKER_04]  Y mira que ahora, ahora...
+[SPEAKER_01]  Eso fue una exageración, que no hay pacto. No.
+[SPEAKER_01]  El problema era real, que sí de pronto se aprovechó para vender computadores y para posicionar el tema de la tecnología. Yo no sé, sí habrá unos que habrán, pero tampoco era que se fuera a acabar el mundo. O sea, no era ni lo uno ni lo otro, no era una cosa despreciable, pero tampoco era que se fuera a acabar el mundo. Entonces tocaba como el justo.
+[SPEAKER_01]  Balance entre.
+[SPEAKER_01]  Era un problema real que había que pararle bolas y...
+[SPEAKER_01]  pero tampoco se iba a acabar el mundo entonces porque bueno había equipos médicos que podían fallar en los hospitales, radares o sea había cosas de hardware también
+[SPEAKER_01]  que solo manejaban dos dígitos y tocaba cambiarle pues como el cosito.
+[SPEAKER_01]  el chipsito, el yo no sé, de hardware que manejaba la fecha. Entonces sí fue un operativo muy interesante y después fue como mirar qué falló.
+[SPEAKER_01]  Y sí fallaron algunas cosas, me acuerdo que fallaron unos cajeros.
+[SPEAKER_01]  fallaron unas aplicaciones por allá de pensiones.
+[SPEAKER_01]  y así hicimos como un
+[SPEAKER_01]  como un informe, después hicimos un informe de qué falló y como de lecciones aprendidas y de todo eso.
+[SPEAKER_01]  supremamente interesante pero yo por ejemplo aprendí
+[SPEAKER_01]  Aprendí no solo pues, digamos, de seguir aprendiendo la tecnología, sino ya ser gerente.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  manejar
+[SPEAKER_01]  un proyecto con una fecha límite.
+[SPEAKER_01]  Pero por ejemplo otra cosa que me toca aprender...
+[SPEAKER_01]  que no tenía la menor idea, fue manejar medios de comunicación.
+[SPEAKER_07]  tenía la menor idea
+[SPEAKER_00]  ¡Gracias!
+[SPEAKER_01]  porque entonces me tocaba salir a explicarle a los periodistas que esto sí era verdad y que era lo que estaba haciendo Colombia y los congresistas. Y era una cosa de mucha visibilidad, entonces me tocó como aprender a...
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  a lidiar con la comunicación. Eso no es nada fácil.
+[SPEAKER_01]  Y yo me acuerdo que en esa época hacían unos programas en la televisión.
+[SPEAKER_01]  ¿Cómo se llamaba? ¿Qué?
+[SPEAKER_01]  Bien.
+[SPEAKER_01]  Bueno.
+[SPEAKER_01]  Y entonces en vivo, en la televisión, respondían preguntas del público, ¿no? Eso se usaba.
+[SPEAKER_01]  ¡Ehhh!
+[SPEAKER_01]  Y entonces a mí me iba a tocar una...
+[SPEAKER_01]  Una cosa de esas.
+[SPEAKER_01]  Y yo tenía tanto susto, tanto susto, tanto susto que me dio apendicitis.
+[SPEAKER_01]  y me salvé de ir a esa vaina porque yo decía yo contestar preguntas del público
+[SPEAKER_01]  Me muero el susto. Bueno.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Pero aprendí, ahí fue que me conocí con Susi Forero, con Carolina Slava y ellas fueron las que me empezaron a...
+[SPEAKER_01]  a entrenar para aprender a hablar con los periodistas y todo eso. Y ahí fui aprendiendo, eso fue un gran aprendizaje.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  ¡Hue!
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Y listo. Entonces, después de eso, sí fue que ya empezó.
+[SPEAKER_01]  el tema de Mintic, que en esa época era el Ministerio de Comunicaciones.
+[SPEAKER_01]  Entonces, me acuerdo que Claudia Francisco era la ministra de comunicaciones y entonces me llamó, oye María Isabel, ahora que se acaba lo del año 2000, como marzo del 2000, ¿tú qué vas a hacer? Y yo, no, ni idea.
+[SPEAKER_01]  Entonces me dijo, y en 1999 había ido Andrés Pastrana y Doña Nora, habían ido a Canadá.
+[SPEAKER_06]  y han ido a Canadá.
+[SPEAKER_01]  y ellos trajeron el tema de la agenda de conectividad y de computadores para educar y todas esas ideas de la agenda de conectividad canadiense.
+[SPEAKER_01]  Eso fue como esa transferencia de tecnología de Canadá a Colombia fue espectacular, aprendimos muchísimo de esos canadienses.
+[SPEAKER_01]  y se diseñó la Agenda de Conectividad Colombiana.
+[SPEAKER_01]  y en particular...
+[SPEAKER_01]  ese programa, Computadores para Educar, que yo estando todavía en el DNP y todavía en lo del año 2000, el director del DNP que era Mauricio Cárdenas.
+[SPEAKER_01]  me dijo, oye, hagamos un COMPES para lo de computadores, para ese programa de Computers for Schools, y le pusimos computadores para educar, y ahí fue que involucramos al Ministerio de Comunicaciones, al Ministerio de Educación, al SENA.
+[SPEAKER_01]  Bueno, Presidencia de la República, y ahí nos inventamos el programa.
+[SPEAKER_01]  Pues un programa que lleva 23 años, quiero decirles, todavía vive.
+[SPEAKER_01]  Entonces yo digo, bueno, ese es un hijito mío que tiene 23 años y todavía vive. O sea, él ha ido madurando, creciendo, cambiando y por eso vive, ¿no?
+[SPEAKER_01]  Pero entonces en ese momento dijo, bueno, sí.
+[SPEAKER_01]  Si Canadá hace...
+[SPEAKER_01]  reacondicionamiento de computadores en esa época los computadores
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  ¡Oh!
+[SPEAKER_02]  ¡Gracias!
+[SPEAKER_01]  ¡Hoi!
+[SPEAKER_01]  ¡Karus!
+[SPEAKER_01]  Y entonces dijimos, pues qué maravilla, nos donan computadores.
+[SPEAKER_01]  Las empresas desechaban los computadores a los dos años, tres años, entonces dijimos, cogemos esos computadores que nos pueden donar las empresas.
+[SPEAKER_01]  Los reacondicionamos y los entregamos a las escuelas públicas del país.
+[SPEAKER_01]  Entonces, bueno, eso hicimos.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Entonces la alianza con el SENA, con el SENA montamos los centros de recondicionamiento, uno en Bogotá, otro en Cúcuta, otro en Medellín, otro en Cali, otro en Barranquilla, y empezamos a recondicionar computadores, fuimos a Canadá que nos enseñaran eso todo cómo se hacía.
+[SPEAKER_01]  Y toda la campaña de donación, me acuerdo que nos ayudó mucho Juan José Ailén RCN, que todos los viernes llamaba a los empresarios a que donaran computadores. Y bueno, la gran satisfacción, o sea, ustedes no se imaginan lo que es ir a López de Micay.
+[SPEAKER_01]  un pueblo donde no había ni luz, a entregar los computadores en lancha. Llegamos en lancha a entregar los computadores, la felicidad de los maestros, la felicidad de los niños, y eso no tiene precio, como dice Mastercard, eso es una cosa que no tiene precio.
+[SPEAKER_00]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_00]  en la...
+[SPEAKER_01]  Ahí se justifica todas las dificultades que le han tocado ver la cara de esos niños y de esos papás y de esos maestros. Entonces, funcionaban los computadores con una planta eléctrica que la prendían unas horas al día.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  No, bueno, con muchas, muchas dificultades y bueno, pero mira, fue...
+[SPEAKER_01]  le dimos la posibilidad a niños que en el año, pues hace 23 años.
+[SPEAKER_01]  no hubiera podido tener un computador si no hubiera sido por eso.
+[SPEAKER_01]  no lo hubieran podido comprar, seguro no lo hubieran podido comprar. Entonces se quejaban que era acondicionado, que no hay quien lo importa. O sea, pudieron usar un computador, ¿sí?
+[SPEAKER_01]  fue supremamente satisfactorio y otra vez viajando por toda Colombia entregando computadores muy muy muy satisfactorio
+[SPEAKER_01]  Y ahí duré seis años. Y eso se volvió una empresa muy grande.
+[SPEAKER_01]  Yo ahí tenía mucha gente a cargo.
+[SPEAKER_01]  Y fue buenísimo. Bueno, ahí sigue. Y después entonces fue que me nombraron directora de gobierno en línea.
+[SPEAKER_01]  Entonces ya dirigí toda la estrategia que ahora se llama Gobierno Digital.
+[SPEAKER_01]  Entonces fueron cuatro años en gobierno en línea.
+[SPEAKER_01]  Que bueno, eso ya todos más o menos saben, que los trámites por internet y todo eso.
+[SPEAKER_01]  Entonces hicimos lo del certificado judicial en línea, que me parece que fue como un trámite así como emblemático, después de que a uno le tocaba ir a una...
+[SPEAKER_01]  Toda una mañana al DAS a sacar el certificado judicial, entonces ya se podía sacar en cinco minutos y el pago electrónico y todo, pues se acabó esa mafia. Por ejemplo, acabamos con la mafia que había para sacar el certificado judicial. Pues tanto que dejaron de pedir el certificado judicial porque como ya no era negocio, ya no había mafia, pues acabamos con eso.
+[SPEAKER_01]  ¡Ey!
+[SPEAKER_01]  Ese fue un proyecto así, ¡guau!, que uno dice de mucho impacto. Ahora la OAM ha logrado sacar un certificado judicial.
+[SPEAKER_01]  el internet, pero en ese momento fue de gran impacto.
+[SPEAKER_01]  Bueno, y empezamos todo el tema de...
+[SPEAKER_01]  de la iniciativa de gobierno digital.
+[SPEAKER_01]  Me tocó trabajar, digamos, como en colaboración con muchos otros países de América Latina y, bueno, un trabajo súper interesante, también súper satisfactorio y, pues, que de verdad ayuda a mejorar la vida de los ciudadanos, que es lo que a mí finalmente me interesa, o sea, es lo que a mí me hace feliz.
+[SPEAKER_01]  Entonces, hay cuatro años y...
+[SPEAKER_01]  Llevaba 10 años en el ministerio, porque 6...
+[SPEAKER_01]  en computadores para educar y cuatro
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Y ahí, ¿qué fue? ¿Para dónde me fui? ¡Ah, no! Y ya, estaba como cansada.
+[SPEAKER_01]  Entonces...
+[SPEAKER_01]  Fue cuando me fui a Barranquilla.
+[SPEAKER_01]  que una pareja de amigos míos montaron una marina para embarcaciones de recreo.
+[SPEAKER_01]  en
+[SPEAKER_01]  entre Barranquilla y Cartagena, entonces yo me fui de gerente de ese proyecto.
+[SPEAKER_01]  Entonces fue como un paréntesis en la vida, me fui a vivir a Barranquilla, a montar ese proyecto.
+[SPEAKER_01]  Pero claro, eso era un proyecto de construcción que no tenía nada que ver con tecnología, fue muy chévere y ahí está la Marina, ahí está funcionando.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Bueno, pero estaba ya viendo Marranquilla, muy chévere. Bueno, fue un cambio, fue, sí, con un paréntesis, bien chévere.
+[SPEAKER_00]  ¡Vaya!
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Y fue cuando entonces era ministro Diego Molano, ministro Tilgay, se llamaba Ministerio de Tecnologías de la Información y las Comunicaciones.
+[SPEAKER_01]  Eso ya había sucedido.
+[SPEAKER_01]  Y entonces me dijo, bueno, vamos.
+[SPEAKER_01]  a crear un nuevo viceministerio, porque el Ministerio de Comunicaciones era el Ministerio de las Telecomunicaciones.
+[SPEAKER_01]  y es que existe el sector.
+[SPEAKER_01]  de las tecnologías de información.
+[SPEAKER_01]  O sea, el software que no tenía un interlocutor en él, en el gobierno.
+[SPEAKER_00]  Gobierno.
+[SPEAKER_01]  Se ha estado afe el sol.
+[SPEAKER_01]  y no tenía interlocutor en el gobierno, la industria software, o sea, la industria software como tal era un poco huérfana, ¿sí?
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Y entonces se creó ese otro viceministerio, que era el Viceministerio de Tecnologías y Sistemas de la Información.
+[SPEAKER_01]  adicional al que ya existía, que era como el de infraestructura, como el de las telecomunicaciones, y el sector postal, y la radio, y las telecomunicaciones, y todo eso, la conectividad, y toda esa infraestructura, eso era ya del otro viceministerio, y entonces yo fui...
+[SPEAKER_01]  Ah bueno, ustedes me dicen que yo me volano.
+[SPEAKER_01]  Mira, es que vamos a crear un nuevo viceministerio y ese viceministro va a ser el primer CIO.
+[SPEAKER_01]  Chief Information Officer Nacional.
+[SPEAKER_01]  Pues...
+[SPEAKER_01]  Para que tú te vengas para acá y yo huiré.
+[SPEAKER_01]  Pero déjeme pensarlo como con la guada, porque yo estoy muy contenta aquí en Barranquilla.
+[SPEAKER_01]  Pero yo me acuerdo que yo leí, me mandó el decreto, el borrador del decreto, que creaba ese viceministerio.
+[SPEAKER_01]  Yo empecé a leer ese decreto y yo mismo lo llamé. Sí, sí, yo voy para allá.
+[SPEAKER_01]  Yo decía, esto es lo mío. Y además yo había visto como esa falencia que había en el ministerio de esos temas. Y todo lo que había para hacer.
+[SPEAKER_00]  pues Rafael
+[SPEAKER_01]  Para fortalecimiento de la industria de software, bueno, ahí iba a quedar todo lo de gobierno digital que era lo mío.
+[SPEAKER_01]  entonces pues ya era mi viceministerio, entonces me crearon mi viceministerio para mí y por eso llegué yo a ser viceministra.
+[SPEAKER_01]  que creo que de otra manera nunca hubiera llegado porque ahora sí que se han politizado estos ministerios, y ya un viceministro no puede ser un técnico como yo, tiene que ser un político.
+[SPEAKER_01]  Entonces, muy triste, muy muy triste.
+[SPEAKER_01]  Ahora nombran unos personajes que no hiciste, ¿de dónde salió? Dios mío.
+[SPEAKER_01]  ¿Cierto? Es de llorar.
+[SPEAKER_07]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Bien.
+[SPEAKER_07]  Cierto, cierto.
+[SPEAKER_08]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_01]  ¡Ay!
+[SPEAKER_08]  Gracias.
+[SPEAKER_01]  Y bueno...
+[SPEAKER_08]  Se llora por eso.
+[SPEAKER_01]  ¡Ah!
+[SPEAKER_08]  Gracias.
+[SPEAKER_08]  Estamos de acuerdo todos en que lloramos cada vez que hay un honramiento.
+[SPEAKER_04]  Sí, el nombramiento de ministro.
+[SPEAKER_08]  Gracias.
+[SPEAKER_01]  Sí, sí, sí. Vamos, vamos, vamos. Y ahora el canal va a cambiar, en estos días como que ahora el canal va a cambiar.
+[SPEAKER_04]  Vamos, vamos a...
+[SPEAKER_04]  Vamos a pedirle, por cuestiones, el gran tema del tiempo y todo.
+[SPEAKER_04]  ¿Me gustaría unas preguntitas del grupo, si te parece?
+[SPEAKER_01]  Gracias.
+[SPEAKER_07]  Sí, ya va a acabar.
+[SPEAKER_01]  Claro, claro.
+[SPEAKER_04]  Claro, claro. O sea, sales del ministerio y es donde estás hoy en día. Esto.
+[SPEAKER_01] 
+[SPEAKER_01]  ¡Muy emprendedora! Espera, voy a...
+[SPEAKER_04]  ¡Ahora!
+[SPEAKER_04]  ¿Entendió?
+[SPEAKER_01]  rápido
+[SPEAKER_04]  Sí, resumen esa parte.
+[SPEAKER_01]  del ministerio, entonces cuatro años viceministra, espectacular bueno, muy muy muy muy interesante pues esa experiencia y un cargo alto para coordinar como todas las entidades del Estado su proceso de transformación digital y todo eso súper interesante
+[SPEAKER_01]  Después, entonces, ya pues uno como viceministro, entonces ya me pidieron la renuncia cuatro años, cuatro años, bien.
+[SPEAKER_01]  Sí, sí.
+[SPEAKER_01]  Y entonces ahí viene el tema de la inhabilidad, queda uno inhabilitado.
+[SPEAKER_01]  Dos años.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  para trabajar en lo que uno sabe.
+[SPEAKER_01]  Eso es una cosa que es terrible, esos cargos públicos.
+[SPEAKER_01]  Y entonces ahí fue cuando Luis Javier Parra me ofreció que fuéramos socios en ese emprendimiento que se llama Infoprotox.
+[SPEAKER_01]  Entonces ahí estuve con él y con Hugo Sin y con Jimmy Chum dos años.
+[SPEAKER_01]  ¡N.C.!
+[SPEAKER_01]  En ese emprendimiento difícil, ser emprendedor me parece dificilísimo. Admiro a todos los emprendedores, les hago venias.
+[SPEAKER_00]  ese emprendimiento.
+[SPEAKER_01]  y después entonces ya me resultó esta posibilidad de trabajar acá en el DACAF.
+[SPEAKER_01]  Y pues ya es lo mismo, pero a nivel de toda América Latina.
+[SPEAKER_01]  O sea, ya el impacto es mucho mayor.
+[SPEAKER_01]  Pero sigo pues como haciendo lo mismo, o sea, liderando estrategias de transformación digital del Estado, pero ahora en toda América Latina y muy, muy, muy enfocada en el tema de inteligencia artificial. De pronto por ahí han oído pues que estoy en eso, totalmente realizada, inteligencia artificial es lo máximo.
+[SPEAKER_01]  Y bueno, y promoviendo pues como el uso ético, lo hemos hablado Manuel, de esta...
+[SPEAKER_01]  esta tecnología y el...
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Entonces, ahora sí, ya acabé.
+[SPEAKER_04] 
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Es que son 40.
+[SPEAKER_04]  No, no, no.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Sí, claro, pero muy bien, muy bien. Es que todo esto es una enseñanza.
+[SPEAKER_04]  de lo que es un proyecto de vida, ¿cierto?
+[SPEAKER_04]  Normalmente uno mira el proyecto de vidas para atrás y mira qué pasó.
+[SPEAKER_04]  Pero cuando estaba atrás no sabía.
+[SPEAKER_04]  ¿Para dónde va a llegar?
+[SPEAKER_04]  Y eso se va descubriendo.
+[SPEAKER_04]  Y es muy valioso para los...
+[SPEAKER_04]  muchachos y la gente que va a ver esto, esto se va a publicar después, ¿no?
+[SPEAKER_04]  No va a ser público todavía.
+[SPEAKER_04]  El grupo, si tiene alguna pregunta para Marisabel, para redondear.
+[SPEAKER_04]  Sí, Manuel, aquí tenemos...
+[SPEAKER_03]  Sí, Manuel, aquí tenemos preguntas.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Eso es lo que dice.
+[SPEAKER_04]  ¿Eh?
+[SPEAKER_07]  Gracias, señora.
+[SPEAKER_05]  ¡Gracias!
+[SPEAKER_03]  Yo quisiera pues agradecerle a Marisabel por estar aquí con nosotros compartiendo su trayectoria de vida y su experiencia.
+[SPEAKER_03]  y desearle éxitos en este nuevo proyecto que tiene a nivel de América Latina.
+[SPEAKER_03]  Hay un proyecto que ella también...
+[SPEAKER_03]  Creo este proyecto desde mi tipo cuando era la viceministra y está relacionado con la especialización en gobierno electrónico.
+[SPEAKER_03]  y el sentimiento de las personas que conozco a nivel de las organizaciones y las dependencias que trabajaron allí.
+[SPEAKER_03]  Pues es de gratitud plena.
+[SPEAKER_03]  Y curiosamente lo relaciono con tu experiencia con la maestría o la especialización que hiciste en los Andes.
+[SPEAKER_03]  Yo decía que qué raro porque a veces uno cuando toma sus experiencias de aprendizaje o los modelos, nos toma de las experiencias de vida.
+[SPEAKER_03]  Cuando creas esa especialización de gobierno.
+[SPEAKER_03]  electrónico, ¿en qué estabas pensando?
+[SPEAKER_03]  porque fue un éxito total para la gente que lo tomó, para las organizaciones, para crear sus proyectos.
+[SPEAKER_03]  y digitalizar la información, darle otra dinámica a nivel de las instituciones públicas, pues fue un éxito. Entonces, ¿cómo nace esa idea?
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  la desarrollas.
+[SPEAKER_01]  Es que una de las iniciativas que lideramos ahí desde el viceministerio, pues fue como toda esa estrategia que llamamos Talento TI y que tenía como muchos componentes, porque definitivamente si queríamos lograr la transformación digital del Estado.
+[SPEAKER_01]  Necesitábamos gente dentro del Estado que pudiera hacer eso.
+[SPEAKER_01]  y veíamos que tocaba generar muchas habilidades.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  blandas habilidades duras
+[SPEAKER_01]  para poder liderar esos procesos de transformación en el Estado. Entonces hicimos muchas cosas y una fue esa especialización.
+[SPEAKER_01]  Yo no la hice, pues yo la lideré.
+[SPEAKER_01]  ¡Gracias!
+[SPEAKER_01]  Pero...
+[SPEAKER_01]  Pero digamos era buscando eso, buscando el talento que es el que permite que esas organizaciones se transformen.
+[SPEAKER_01]  y generar esos líderes que necesita el sector público y que todavía sigue necesitando.
+[SPEAKER_01]  para dar esas grandes transformaciones. Entonces, de ahí salió la idea y bueno, qué bueno saber que les gustó.
+[SPEAKER_02] 
+[SPEAKER_02]  y que les sirvió.
+[SPEAKER_03]  Sí, de hecho todavía sigue en pie esas especializaciones en las universidades que...
+[SPEAKER_03]  que decidieron ser aliadas en ese proceso de formación.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Sí.
+[SPEAKER_05]  Sí.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Y tú cómo lo lees ya.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05] 
+[SPEAKER_01]  ¡Vamos a la universidad, la tomaste!
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Yo no tomé la especialización, yo soy profesora de la Universidad Nacional de Colombia.
+[SPEAKER_06] 
+[SPEAKER_01]  No.
+[SPEAKER_06]  Gracias.
+[SPEAKER_03]  Los acompañé en el proceso de revisión de los trabajos finales que presentaron los...
+[SPEAKER_06]  No sé.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  No.
+[SPEAKER_03]  participantes en la especialización y me parecieron pues maravillosos y la forma en que ellos explicaban sus...
+[SPEAKER_03]  sus proyectos y la aprehensión del conocimiento de la tecnología y el liderazgo pues fue notoria en esos.
+[SPEAKER_03]  en estas personas.
+[SPEAKER_01]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_01]  ¡Gracias!
+[SPEAKER_03]  Todavía llaman a la universidad a preguntar que cuándo se abren las puertas de especialización en gobierno electoral.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Imagínate, eso fue hace muchos años ya. Qué bueno.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  De verdad.
+[SPEAKER_04]  Sí, sí, güey.
+[SPEAKER_01]  ¡Muy bien!
+[SPEAKER_04]  Edgar, ¿tienes algún comentario?
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  Vale, vale.
+[SPEAKER_04]  bien
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Yo como...
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  ¡Gracias!
+[SPEAKER_00]  de costumbre me gustaría
+[SPEAKER_00]  Pues bien lo dijo María Isabel Cuento.
+[SPEAKER_00]  porque fuimos colegas en la universidad también.
+[SPEAKER_00]  Ella entró un semestre posterior, pero compartimos varias cosas. Algunos amigos de ella son amigos aún míos.
+[SPEAKER_00]  quería ir razonando el tema de las mujeres, yo me acuerdo mucho que para mí en esa época
+[SPEAKER_00]  Fue muy fuerte el tema de saber que yo venía de un colegio masculino.
+[SPEAKER_00]  y que las compañeras que llegaban, nosotros teníamos una percepción distinta porque uno sí compartía con compañeras de colegios distintos.
+[SPEAKER_00]  Pero digamos, éramos muy homogéneos, pero las compañeras que nos tocaron en los Andes.
+[SPEAKER_00]  eran totalmente sobresalientes, así uno podría decir, espectacularmente sobresalientes. Entonces uno sí avaló el tema de que, oiga, ¿cómo así que la computación era para mujeres y esas?
+[SPEAKER_00]  ellas eran precisamente las que más se destacaban en la carrera cuando estábamos estudiando.
+[SPEAKER_05]  Sí.
+[SPEAKER_00]  Y yo resalto eso porque precisamente hoy en día, claro, dice uno, ¿por qué las mujeres se alejaron efectivamente?
+[SPEAKER_00]  si evidentemente mira las competencias que tú lograste.
+[SPEAKER_00]  quisiera que motivara ese tipo de competencias como
+[SPEAKER_00]  Las mujeres hoy en día seguimos teniendo falencias.
+[SPEAKER_00]  en brecha de talento digital.
+[SPEAKER_00]  tanto hombres como mujeres.
+[SPEAKER_00]  pero ¿qué oportunidades consideras deberían?
+[SPEAKER_00]  o competencias desarrollar.
+[SPEAKER_00]  las chicas para involucrarse en este tipo de proyectos que hoy trabajamos en tecnologías digitales.
+[SPEAKER_01]  Mira, yo creo que hay que hacer...
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Es una labor como de...
+[SPEAKER_01]  de cambio de mentalidad.
+[SPEAKER_01]  más que trabajar con las niñas.
+[SPEAKER_01]  Es que los maestros...
+[SPEAKER_01]  ¿Y los papás?
+[SPEAKER_01]  Crean que las niñas...
+[SPEAKER_01]  Merecen.
+[SPEAKER_01]  Y son capaces de estudiar estas carreras, porque yo creo que son los mismos papás.
+[SPEAKER_01]  Los que les dicen, pero mi hijita usted, en el campo, se lo juro que eso es así todavía, pero mi hijita usted, ¿por qué va a estudiar esa carrera que es usted hombres? Y o en los mismos colegios, los mismos profesores. Seguramente en muchos colegios son los que no motivan a las niñas para ese tipo de carreras. Yo haría una labor.
+[SPEAKER_01]  Con las niñas sí, siempre, pero eso debe ser como igual para niños y niñas, todo lo de las habilidades STEM y todo eso, mira, y ahora todo el pensamiento crítico y con esto de la inteligencia artificial y la desinformación y todo lo que necesitamos es que la gente distinga, que la gente sea crítica en todo lo que le llega.
+[SPEAKER_01]  Entonces, para mí pensamiento crítico es una de las mayores habilidades, pero eso hay que hacerlo hombres y mujeres por parejo en las escuelas y como en toda la sociedad. Pero yo sí haría una cosa.
+[SPEAKER_00]  ¿No? Entonces...
+[SPEAKER_01]  Como general de, vea, deje de etiquetar las carreras.
+[SPEAKER_01]  puede haber enfermeros hombres y mujeres, ingenieros hombres y mujeres, o sea, dejen de etiquetar.
+[SPEAKER_01]  y denle la posibilidad a las niñas de que estudien esas carreras.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Pero para mí es un trabajo más con papás.
+[SPEAKER_01]  y con profesores que con los niños mismos.
+[SPEAKER_01]  Con las niñas sí, se la tienen que creer, pero pues es que las niñas muchas veces hacen lo que los papás les digan y lo que los profesores y profesoras les indicaron y les dijeron y les comentaron y les motivaron. O sea, es que si ahora las niñas no las motivan para eso, pues...
+[SPEAKER_00]  ¡Gracias!
+[SPEAKER_06]  ¡Gracias!
+[SPEAKER_00]  ¡Gracias!
+[SPEAKER_00] 
+[SPEAKER_01]  No.
+[SPEAKER_01]  entonces, sí, una labor más de cultural, para mí es una labor
+[SPEAKER_01]  cultural que toca hacer con padres y profesores de primaria.
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  De acuerdo. Muy bien.
+[SPEAKER_06]  Muy bien
+[SPEAKER_04]  Ayuda mucho eso porque ese tema es permanente en este momento.
+[SPEAKER_04]  Sí. ¿Crafa?
+[SPEAKER_07]  Gracias.
+[SPEAKER_09]  Eh...
+[SPEAKER_09]  Isabel, pues además de agradecerte esta hora y media.
+[SPEAKER_09]  Deliciosa.
+[SPEAKER_02]  Gracias.
+[SPEAKER_07]  Ok.
+[SPEAKER_02]  Gracias.
+[SPEAKER_09]  que nos la hemos gozado.
+[SPEAKER_09]  desde que empezaste hasta ahora.
+[SPEAKER_09]  Bien.
+[SPEAKER_09]  Tú.
+[SPEAKER_09]  tuviste la oportunidad de acompañarnos.
+[SPEAKER_09]  al Mundial de Programación en Phuket.
+[SPEAKER_09]  en 2016.
+[SPEAKER_09]  y
+[SPEAKER_09]  Y pues bueno, además de la experiencia, incluso...
+[SPEAKER_09]  Tú hiciste...
+[SPEAKER_01]  Ese fue el de Tailandia, ¿cierto?
+[SPEAKER_09]  Sí, ese fue en Tailandia.
+[SPEAKER_01]  Gracias.
+[SPEAKER_09]  Y...
+[SPEAKER_09]  Tú me acompañaste a ese mundial.
+[SPEAKER_09]  presentando la propuesta de la candidatura de Colombia para
+[SPEAKER_09]  traer un mundial de programación a Colombia.
+[SPEAKER_09]  Eso fue muy, muy, muy chévere.
+[SPEAKER_09]  Digamos que...
+[SPEAKER_09]  Después no se logró por otras cosas, pero la pregunta no va para allá.
+[SPEAKER_09]  Es...
+[SPEAKER_09]  Es porque...
+[SPEAKER_09]  Traigo este evento pensando en que
+[SPEAKER_09]  viste
+[SPEAKER_09]  a los nuevos ingenieros de sistemas, a los nuevos niños, muchachos.
+[SPEAKER_09]  Fue un inicio.
+[SPEAKER_09]  Sí.
+[SPEAKER_09]  trabajando con, como ven.
+[SPEAKER_09]  la computación como ven, la programación.
+[SPEAKER_09]  Y entonces me pregunto.
+[SPEAKER_09]  ¿Cómo ves?
+[SPEAKER_09]  a estos jóvenes, a estos ingenieros de sistemas, a los nuevos.
+[SPEAKER_09]  ¿Y qué les hace falta?
+[SPEAKER_09]  de aquello
+[SPEAKER_09]  que
+[SPEAKER_09]  que se tenía antes en la formación y hoy no está.
+[SPEAKER_01]  la parte de sistemas.
+[SPEAKER_01]  Son ciencias de la computación.
+[SPEAKER_01]  Creo que les hace parte la parte organizacional.
+[SPEAKER_01]  lo
+[SPEAKER_01]  O sea, ingeniería de sistemas y computación, lo de sistemas.
+[SPEAKER_01]  ¿Les hace falta esa parte?
+[SPEAKER_01]  Como que eso ha ido haciendo cada vez menor, cada vez menor. Creo que lo han ido como minimizando. Tengo entendido, yo no sé. Entonces, me parece que hay que volver allá.
+[SPEAKER_01]  y como la inspiración.
+[SPEAKER_01]  O sea, como falta más inspiración.
+[SPEAKER_01]  tal vez en estas épocas es más difícil inspirarse, yo lo sé, yo me reempluí el otro día un...
+[SPEAKER_01]  un coso de un TED Talk donde digo por ejemplo ahí está publicado como
+[SPEAKER_01]  como de por qué me gusta ser servidor, me gustó ser servidora pública, ya me olvido como se llama el blog, el coso, el TED Talk.
+[SPEAKER_01]  Ya nadie quiere ser servidor público, por ejemplo.
+[SPEAKER_01]  O sea, se ha vuelto...
+[SPEAKER_01]  Como que antes era un honor ser el profesor de la escuela, antes era un honor ser servidor público, ser el alcalde, y ahora todo eso ahora es nulo.
+[SPEAKER_01]  meter en eso yo el servicio público, ¿no? Entonces también como mayor inspiración y esperanza de poder aportar a
+[SPEAKER_01]  ¡Ahhh!
+[SPEAKER_01]  Ah
+[SPEAKER_01]  a contribuir en la solución de los problemas que hay, pero yo creo que eso los jóvenes lo tienen, ¿no?
+[SPEAKER_01]  Como esa concientización sí la tienen los jóvenes, pues ellos vienen haciendo las marchas y todas esas cosas, es como poder encauzar eso.
+[SPEAKER_01]  En causar esa conciencia social, porque yo creo que los jóvenes sí tienen la conciencia social y la conciencia de que hay que...
+[SPEAKER_01]  ayudar a que tengamos un mundo mejor y todo eso yo creo que la tienen, pero con esta carrera...
+[SPEAKER_01]  Hay que poder encauzar eso para aprovechar la tecnología para eso. Y me parece que la carrera de pronto no está logrando encauzar eso.
+[SPEAKER_01]  sino que es hacer programas o programar, pero no hacer soluciones para las problemáticas del mundo.
+[SPEAKER_07]  Gracias.
+[SPEAKER_01]  Es como el enfoque de para qué, del para qué.
+[SPEAKER_08]  Gracias.
+[SPEAKER_09]  ¡Adiós!
+[SPEAKER_09]  Perfecto, perfecto. Además me encanta la respuesta, porque me retorno a eso que dijiste en algún momento.
+[SPEAKER_01]  Eso es para ser entendedores.
+[SPEAKER_09]  Hacer algo por el país. Siempre quise hacer algo por el país, mediado por la tecnología.
+[SPEAKER_09]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Entonces es como el propósito, que el propósito de la carrera no sea programar.
+[SPEAKER_01]  Y que el propósito de la carrera, sí, no sea...
+[SPEAKER_01]  Ser emprendedor, ¿no? Como hacer negocio.
+[SPEAKER_01]  Puede ser, también, sí, sí, puede ser.
+[SPEAKER_01]  pero que haya un mayor propósito, un propósito mayor, y me parece que eso se lograba en la carrera cuando nosotros lo estudiamos, cuando todos nosotros lo estudiamos, sí se lograba más ese propósito.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  No sé, tal vez por las baterías que veíamos, yo no tengo ni idea, pero sí se lograba. Yo conozco mucha gente como yo, mucha, mucha.
+[SPEAKER_01]  ¡Sí!
+[SPEAKER_01]  ¡Hugo Sin!
+[SPEAKER_01]  Ahora que estoy trabajando con Marta Rodríguez, mejor dicho, a la misma Ángela Espinoza, no tengo, pero mil.
+[SPEAKER_01]  ¡Muchas!
+[SPEAKER_02]  Muchas personas.
+[SPEAKER_04]  Bueno, yo creo que con tu charla es una cátedra.
+[SPEAKER_04]  de un proyecto de vida tecnológico pero mirando la sociedad, ¿cierto? Mirando el entorno, mirando la población, la problemática del país.
+[SPEAKER_00]  Sí.
+[SPEAKER_04]  que es una gran enseñanza.
+[SPEAKER_00]  Sí.
+[SPEAKER_04]  Nosotros sabíamos que nos iba a ir muy bien contigo en esta charla.
+[SPEAKER_04]  Además, tú sabes cómo te seguimos todos, ¿no? Siempre te seguimos.
+[SPEAKER_04]  ¿Cómo está Marisabel? ¿Cómo va el ministerio? Muchas veces dijimos, ojalá llegara a ser la ministra, pero ya es ministra política, lo que tú dijiste es correcto.
+[SPEAKER_04]  O sea que nos ha enseñado mucho con ese proyecto de vida.
+[SPEAKER_04]  Y va a ser parte de esta evolución que estamos tratando de construir.
+[SPEAKER_04]  y muy interesante su postura sobre la mujer, también que la habíamos mencionado nosotros antes de comenzar.
+[SPEAKER_01]  Qué bueno que se acuerde que había mujeres espectaculares en esa época y que eran muchas.
+[SPEAKER_04] 
+[SPEAKER_01]  Sí, muchas.
+[SPEAKER_04]  no muchas es que revivir es
+[SPEAKER_04]  Lo que dijo Edgar, o sea, las compañeras eran brillantes.
+[SPEAKER_05]  No, no, no.
+[SPEAKER_04]  Así es.
+[SPEAKER_04]  Y no había la estadística de que en el 50% no había mujeres en la profesión.
+[SPEAKER_01]  ¡Tan!
+[SPEAKER_04]  Bueno.
+[SPEAKER_04]  Marisa.
+[SPEAKER_04]  En nombre de todos, muchas gracias.
+[SPEAKER_04]  Vamos a seguir trabajando. Esto se nos va a hacer un poquito ardo porque vamos que son 50 años.
+[SPEAKER_02]  Tiene que usar inteligencia artificial.
+[SPEAKER_04]  Claro, sí, sí, va a tocar.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Pero más bien porque...
+[SPEAKER_04]  Y aquí vamos a reconectar.
+[SPEAKER_02]  Y aquí vamos a responder.
+[SPEAKER_07]  Gracias.
+[SPEAKER_04]  Aquí vamos a tener que sistematizar todo esto, digamos lo fundamental del pensamiento.
+[SPEAKER_04]  que se está generando de la historia, de las historias.
+[SPEAKER_07]  Ok.
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  Entonces, bueno, a todos, gracias al grupo, al equipo. Muchas gracias, Marisa.
+[SPEAKER_00]  Muchas gracias, Marisa.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Muchas gracias por invitarme, muy muy agradecida de verdad.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  al contrario muchísimas gracias
+[SPEAKER_04]  Muchísimas gracias.
+[SPEAKER_09]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_09]  Gracias.
+[SPEAKER_01]  Ahí quedó la orden, para los que necesiten. Bien, gracias.
+[SPEAKER_00]  ¡Muy bien!
+[SPEAKER_09]  Gracias.
+[SPEAKER_09]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_09] 
+[SPEAKER_04]  Gracias. Te tomamos la palabra.
+[SPEAKER_09]  Gracias.
+[SPEAKER_09] 
+[SPEAKER_01]  ¡Sueño!
+[SPEAKER_04]  gracias oye la foto, quien puede tomar la fotito Beatriz, ¿estás por ahí?
+[SPEAKER_09]  y
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Oye
+[SPEAKER_09] 
+[SPEAKER_09]  No están, pero yo hago acá el screen. Y lo mandas al grupo o algo. Y le envío al grupo. La fotico, sí.
+[SPEAKER_04]  Yo, yo, yo, yo.
+[SPEAKER_04]  Y lo la manda a hacer.
+[SPEAKER_09]  No se me vayan todavía.
+[SPEAKER_02]  jajaja
+[SPEAKER_09]  Aquí estamos.
+[SPEAKER_02]  ¿Listo? Ya.
+[SPEAKER_09]  Gracias.
+[SPEAKER_09]  Listo, creo que sí.
+[SPEAKER_04]  Listo, bueno, muchas gracias Isabel. Chao. Todos nos vemos. Nos vemos.
+[SPEAKER_02]  Gracias.
+[SPEAKER_09]  Muchas gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_09]  Chao. Nos vemos.
+[SPEAKER_04]  Estamos en contacto. Hasta luego.
+[SPEAKER_05]  Gracias.
+[SPEAKER_09]  Gracias.
+[SPEAKER_05]  Gracias.
