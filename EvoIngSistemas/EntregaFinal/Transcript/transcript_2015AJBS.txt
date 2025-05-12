@@ -1,0 +1,1198 @@
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  y
+[SPEAKER_07]  Iniciamos nuestra entrevista de hoy.
+[SPEAKER_07]  Tú, de 13.
+[SPEAKER_07]  Como siempre estamos sobre Edgar Ruiz.
+[SPEAKER_04]  Gracias.
+[SPEAKER_07]  ¿Está bien?
+[SPEAKER_07]  Eh...
+[SPEAKER_07]  Manuel Dávila, yo.
+[SPEAKER_07]  Bien.
+[SPEAKER_07]  de Santa Liliana
+[SPEAKER_07]  debe estar conectándose y Rafael García.
+[SPEAKER_07]  De pronto también, que somos como el grupo promotor.
+[SPEAKER_07]  Pero básicamente, Edgar y yo vamos a estar.
+[SPEAKER_07]  Y estamos con José Bayuelo Sierra.
+[SPEAKER_07]  que nos va a contar su historia bajo el esquema que hemos venido trabajando estas entrevistas.
+[SPEAKER_07]  y vamos a darle la palabra al pedo
+[SPEAKER_07]  Comencemos, Alfredo, por...
+[SPEAKER_07]  El comienzo, colegio, ¿no? Cuando entraste a la universidad.
+[SPEAKER_07]  Entonces cuéntanos un poco dónde estabas y qué año era en ese momento, por favor.
+[SPEAKER_02]  Gracias.
+[SPEAKER_08]  Sí, señor.
+[SPEAKER_08]  Ok, sí. O sea, vamos siguiendo cronológicamente y en el momento que usted me diga, paramos y...
+[SPEAKER_07]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  y dialogamos
+[SPEAKER_08]  un poco sobre la época en la que vamos.
+[SPEAKER_08]  Entonces, iniciando por el bachillerato, yo soy de la promoción del 2002 en una fundación educativa en Barranquilla. O sea, yo no soy de un colegio ni privado ni público específicamente.
+[SPEAKER_08]  sino de una fundación educativa en la ciudad llamada la Fundación Educativa Instituto Experimental del Atlántico José Celestino Mundo.
+[SPEAKER_08]  Es una fundación que creó el profesor Alberto Aza, que es un inmigrante que hizo algunas instituciones educativas en la ciudad.
+[SPEAKER_08]  y en particular para bachillerato hizo esta institución. Entonces es un colegio muy pequeño.
+[SPEAKER_08]  en el que los estudiantes entran en sexto año, en primero de bachillerato, y son los mismos que se mantienen hasta el final. Algunos salen, pero nadie más entra. Entonces es como un proyecto en el cual se va guiando un grupo de personas.
+[SPEAKER_08]  Me gradué en el 2002.
+[SPEAKER_08]  Y yo inicialmente me presenté a la Universidad Nacional a estudiar Ingeniería Electrónica.
+[SPEAKER_08]  en el año 2000.
+[SPEAKER_08]  Yo hice olimpiadas de computación en el colegio, en el bachillerato aprendimos a programar desde tal vez octavo, noveno grado.
+[SPEAKER_08]  Y yo en el año 2000.
+[SPEAKER_08]  En décimo hice Olimpiadas Colombianas de Computación.
+[SPEAKER_08]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_08]  en el año 2000
+[SPEAKER_04]  Gracias.
+[SPEAKER_08]  2001
+[SPEAKER_08]  Perdón, en el año 2001 y en el año 2002, o sea, mi décimo y mi undécimo grado.
+[SPEAKER_08]  y su Olimpiada de Computación.
+[SPEAKER_08]  Y en el año 2002, cuando yo estaba en un décimo grado, en sexto bachillerato.
+[SPEAKER_08]  tenía una base bastante fuerte en programación, había hecho olimpiadas y esas cosas y...
+[SPEAKER_08]  Eh...
+[SPEAKER_08]  Por ese motivo no era para mí tan...
+[SPEAKER_08]  en ese momento tan llamativa.
+[SPEAKER_08]  la ingeniería de sistemas.
+[SPEAKER_08]  En particular tampoco había en la ciudad de ingeniería de ese sistema.
+[SPEAKER_08]  pública
+[SPEAKER_08]  y tampoco ingeniería electrónica. Entonces yo me fui un poco más por el lado de la ingeniería electrónica, me presenté a la universidad.
+[SPEAKER_08]  Mmm...
+[SPEAKER_08]  Fui admitido en el año 2003, en el segundo semestre del 2003.
+[SPEAKER_08]  a ingeniería electrónica.
+[SPEAKER_08]  En ingeniería electrónica, bueno, se me fui a Bogotá con muy pocos recursos. La fundación que comento es una fundación que brinda educación gratis.
+[SPEAKER_08]  para los estratos más necesitados, más bajos, más pobres de la ciudad.
+[SPEAKER_08]  Tratos 0, 1 y 2
+[SPEAKER_08]  En este momento yo era estrato 2.
+[SPEAKER_08] 
+[SPEAKER_08]  Y yo me fui a Bogotá a estudiar Ingeniería Electrónica en la Universidad Nacional con muy pocos recursos.
+[SPEAKER_08]  Eh...
+[SPEAKER_08]  Al cabo de un par de semestres que ya empecé a ver elementos, circuitos uno, circuitos dos, o sea ya...
+[SPEAKER_08]  laboratorios como tal, para mí fue bastante difícil trabajar y estudiar al mismo tiempo.
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  Y por esa razón y por la que ya venía haciendo olimpiadas desde el colegio y también hice olimpiadas en la universidad de ingeniería electrónica.
+[SPEAKER_08]  Eh...
+[SPEAKER_08]  Me cambié a Ingeniería de Sistema. Yo presenté nuevamente el examen.
+[SPEAKER_08]  en el 2008.
+[SPEAKER_08]  Entré como tal al programa de ingeniería.
+[SPEAKER_08]  de sistemas
+[SPEAKER_08]  Volví a presentar examen para presentarme y pasé.
+[SPEAKER_08]  al
+[SPEAKER_08]  Programa de Ingeniería de Sistemas.
+[SPEAKER_08]  Y este programa, dada como la experiencia que ya tenía, incluso había trabajado en algunas cosas de desarrollo, no solamente como algorítmico, sino ya desarrollo a nivel...
+[SPEAKER_08]  a nivel
+[SPEAKER_08]  de aplicaciones empresariales, de aplicaciones web y de aplicaciones embebidas.
+[SPEAKER_08]  Eh...
+[SPEAKER_08]  Me cambié a sistemas con la idea de que era más fácil para mí.
+[SPEAKER_08]  trabajar al tiempo que estudiar, o sea, tomar algunas clases.
+[SPEAKER_08]  estar trabajando y dedicar un poco menos de tiempo
+[SPEAKER_08]  Entonces yo entré en el año 2008.
+[SPEAKER_08]  Y lo que sucedía era que como varias de las asignaturas que ya había visto que son básicas del...
+[SPEAKER_08]  de la ingeniería, o sea, de las líneas básicas de ingeniería, las matemáticas y todas esas cosas.
+[SPEAKER_08]  Ya las había visto.
+[SPEAKER_08]  realmente no hice como...
+[SPEAKER_08]  como tanto contacto con un solo grupo, con una camada o con una promoción, que yo entre con estos estudiantes y me mantuve todo el tiempo con ellos, sino que estaba disperso en varias materias, en varios semestres.
+[SPEAKER_08]  Y tuve como mucho contacto con varias promociones.
+[SPEAKER_08]  En particular, era muy cercano a otros estudiantes que estaban en la misma condición, uno que venía de mecánica, otro que venía de agrícola, que se habían cambiado de carrera.
+[SPEAKER_08]  Y tenía Bella Moose.
+[SPEAKER_08]  la introducción en ingeniería de sistemas con todos los de esa promoción, pero además teníamos matemáticas 4, teníamos...
+[SPEAKER_08]  Física 2, o sea, teníamos otras materias más adelantadas.
+[SPEAKER_08]  Con ellos sí mantuve más contacto el resto y...
+[SPEAKER_08]  ¡Uuuu!
+[SPEAKER_08]  Compañeros cercanos con los que compartí mucho fueron con los que habían entrado unos tres o cuatro semestres antes que yo.
+[SPEAKER_07]  Una pregunta.
+[SPEAKER_08]  Gracias, señor.
+[SPEAKER_07]  las olimpiadas, ahorita se ha hecho un reverso
+[SPEAKER_07]  Sí, todo sobre esto. Las olimpiadas que habías participado, ¿eran con qué institución?
+[SPEAKER_07]  quien las ofrecía, las dirigía.
+[SPEAKER_08]  Pues inicialmente son las Olimpiadas...
+[SPEAKER_08]  colombianas que la...
+[SPEAKER_08]  aún las
+[SPEAKER_08]  La institución que hace esas olimpiadas es la Universidad Antonio Nariño.
+[SPEAKER_08]  Incluso yo fui luego tutor.
+[SPEAKER_08]  Luego fui como jurado, fui...
+[SPEAKER_08]  coach del equipo colombiano en la IROI, en la Olimpiada Internacional.
+[SPEAKER_08]  de vacíos hidratos.
+[SPEAKER_08]  ¿Y qué universidad sí participé en estas Olimpiadas de Redis Axis? O sea, con las que ustedes están, la de ACM.
+[SPEAKER_07]  Ah, ok, ok. En la universidad.
+[SPEAKER_08]  En la universidad.
+[SPEAKER_07]  De acuerdo, muy bien, muy bien.
+[SPEAKER_07]  Sí, señor.
+[SPEAKER_08]  Sí, señor.
+[SPEAKER_08]  Así es, señor.
+[SPEAKER_07]  Gracias.
+[SPEAKER_08]  Y con ACM, sí, hice varios años, ha habido Olimpiadas.
+[SPEAKER_08]  en la universidad.
+[SPEAKER_07]  Ahora, algunas preguntas que se hacen un poco el factor humano.
+[SPEAKER_07]  ¿Cómo se vive? ¿Tú habías venido a Bogotá ya antes de venir a estudiar?
+[SPEAKER_07]  Gracias.
+[SPEAKER_08]  Por Olimpiadas, sí, como yo le comentaba en el 2000.
+[SPEAKER_08]  Uno, y en el 2002, décimo y once, yo fui a Bogotá a Olimpiadas.
+[SPEAKER_05]  Ah, ok.
+[SPEAKER_08]  Pero no conocía Bogotá realmente, solo iba ahí a Antonio Nariño, que queda en Nicolás de Federman, en la parte de atrás, tiene unas casas que son para los...
+[SPEAKER_08]  para alojar a los estudiantes que vienen a Olimpiadas de todo, de matemáticas, de física, de astronomía, de sistemas.
+[SPEAKER_08]  Y yo me quedaba ahí en esas casas y solo conocía más o menos el trayecto del terminal.
+[SPEAKER_08]  a la casa, a la casa Olimpiadas y ese pedacito de Nicolás de Ferman, y de pronto Galería, que nos llevamos
+[SPEAKER_07]  Cuando llegaste a Bogotá, a Córtico, cuando llegaste ya a estudiar a la Nacional.
+[SPEAKER_07]  ¿Cómo la viviste? El clima, las costumbres, las diferencias.
+[SPEAKER_07]  ¿Cómo viviste esa parte?
+[SPEAKER_07] 
+[SPEAKER_08]  Para mí fue realmente...
+[SPEAKER_08]  chocante, las culturas son muy diferentes, sin embargo...
+[SPEAKER_08]  del colegio en el que yo me gradué varios pasamos los años.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_08]  Yo realmente fui en el segundo semestre de 2003.
+[SPEAKER_08]  Y varios de mis compañeros de curso sí se fueron el primer semestre del 2003.
+[SPEAKER_08]  Entonces cuando llegué ya tenía algunos amigos cercanos, o sea, gente con la que viví los últimos seis años. Además, esta institución que yo le decía de bachillerato es de jornada continua. O sea, yo tenía diez horas de clases diarias con esos compañeros desde el sexto año, desde 1997.
+[SPEAKER_08]  Estuvimos todos los días, todo el día juntos en el colegio y somos bastante unidos.
+[SPEAKER_08]  Cuando yo me fui a Bogotá,
+[SPEAKER_08]  Nosotros hicimos como una medio sociedad entre nosotros.
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  A pesar de que no estamos todos en el mismo programa, algunos en química, algunos en matemáticas y así.
+[SPEAKER_08]  Nosotros teníamos como un grupo bastante cerrado de personas que eran egresadas de ese colegio.
+[SPEAKER_08]  Gracias.
+[SPEAKER_07]  No sé.
+[SPEAKER_08]  Lo sé.
+[SPEAKER_07]  tranquila
+[SPEAKER_08]  Sí, todo de aquí de Barranquilla.
+[SPEAKER_07]  Entonces, te cuento que en los Andes, en esa época, mucho más anterior, 70, imagínate.
+[SPEAKER_07]  y nuestros amigos de Barranquilla.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Y la costa que los queríamos mucho y entendíamos las diferencias, ¿no?
+[SPEAKER_07]  ellos jugaban béisbol
+[SPEAKER_07]  Por ejemplo, ¿no?
+[SPEAKER_07]  No fútbol y no béisbol, me acuerdo mucho.
+[SPEAKER_07]  Y ellos hacían su combo, ¿no?
+[SPEAKER_07]  con sus costumbres. Te entiendo eso muy bien.
+[SPEAKER_08]  Sí, señor.
+[SPEAKER_08]  Gracias.
+[SPEAKER_07]  Bueno.
+[SPEAKER_07]  Ok, ok. Entonces ya estás en tu tema. Sí, perdóname.
+[SPEAKER_08]  Yo creo que ya...
+[SPEAKER_08]  Perdóname, decía que fue un poco más llevadero esa parte como del bloque cultural porque éramos muchos.
+[SPEAKER_08]  O sea, una comunidad como de 20, 30 personas.
+[SPEAKER_05] 
+[SPEAKER_08]  que vivíamos en los mismos lugares, en el mismo barrio.
+[SPEAKER_08]  En Palermo, en la parte sobre la 45 más arriba, que hay muchas pensiones.
+[SPEAKER_08]  universitarias, ahí vivíamos nosotros y pues...
+[SPEAKER_08]  También me parece que ese barrio es como una mini ciudad, una mini Colombia dentro de la ciudad, porque hay gente de todas partes que vive como en las cuadras y se ve muy diferente.
+[SPEAKER_08]  Yo tengo familiares en Bogotá.
+[SPEAKER_08]  Realmente la primera vez que yo fui a Bogotá fue en el 97 a visitar a un familiar.
+[SPEAKER_08]  Ya había ido antes más niños.
+[SPEAKER_08]  y conocía un poco más
+[SPEAKER_08]  Y tengo familia en Bogotá, pero yo no viví con ellos nunca porque...
+[SPEAKER_08]  pues era más fácil vivir cerca de la universidad para transportarte y demás.
+[SPEAKER_08]  pero además por la cuestión cultural.
+[SPEAKER_08]  no nos entendíamos tan bien.
+[SPEAKER_07]  Palermo es muy bonito. Yo vivía en Palermo. Yo conozco muy bien calle 45 con 24, por ahí vivía yo.
+[SPEAKER_08]  Tornato Lega.
+[SPEAKER_07]  muy cerca de la nacional
+[SPEAKER_07]  Vamos a ir cerquita.
+[SPEAKER_08]  Parway, sí señor.
+[SPEAKER_07]  Palway, exactamente. Me acuerdo que en esa época cuando hacían huelgas, mis amigos llegaban a mi casa corriendo.
+[SPEAKER_07]  Gracias.
+[SPEAKER_08]  pero hasta allá llegan los gases
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  En épocas anteriores.
+[SPEAKER_08]  Sí, señor.
+[SPEAKER_08]  Hasta las pensiones, hasta allá arriba se sienten locaces, hasta las 17 cuando...
+[SPEAKER_07]  Juan, bye.
+[SPEAKER_08]  cuando hay pedregas en la universidad.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Tenía amigos que llegaban sin zapatos, corriendo a mi casa.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Bueno, muy bien. Todo eso nos sirve mucho saberlo. Está cerca de la universidad, una gran ventaja.
+[SPEAKER_07]  Y un barrio bonito, un barrio...
+[SPEAKER_07]  Muy tradicional, casas de ladrillo.
+[SPEAKER_07]  inglesa
+[SPEAKER_07]  Correcto.
+[SPEAKER_07]  Gracias.
+[SPEAKER_08]  pisos de madera y demás.
+[SPEAKER_07]  A ver, exacto.
+[SPEAKER_07]  Bueno, muy bien.
+[SPEAKER_08]  A veces identifico esas mismas ventanas en películas de los años 60.
+[SPEAKER_08]  50.
+[SPEAKER_08]  las mismas ventanas que uno ve en Palermo.
+[SPEAKER_07]  Sí.
+[SPEAKER_08]  Algo que he notado.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Yo una vez estuve en Oxford.
+[SPEAKER_07]  Y me dejaron hablar de Colombia 15 minutos, ¿no? Donde estaba yo estudiando.
+[SPEAKER_07]  y les mostré cosas de Bogotá.
+[SPEAKER_07]  Y le mostré casas allá en el Parque Nacional, ¿no? Quería saber dónde es.
+[SPEAKER_05]  ¿ya es?
+[SPEAKER_07]  Absolutamente inglés.
+[SPEAKER_05]  Absolutamente.
+[SPEAKER_05]  Sí, señor.
+[SPEAKER_08]  Gracias.
+[SPEAKER_07]  casas de arquitectura inglesa, eso había una influencia.
+[SPEAKER_08]  Yo conocí la casa, ahí en todo el lado del parque, de un señor que era, que era apellido Wild. Alfredo también se llama, Alfredo Wild.
+[SPEAKER_04]  Gracias.
+[SPEAKER_08]  Y él mantenía su casa estilo inglés y el piano en la entrada.
+[SPEAKER_08]  las escaleras de curva de madera y demás.
+[SPEAKER_07]  y el reloj grande.
+[SPEAKER_08]  Sí, bueno.
+[SPEAKER_07]  El péndulo. Bueno, muy bien, muy bien. Esa es una vivencia interesante que nos la estás contando. O sea, hiciste tu grupo.
+[SPEAKER_07]  de gente de tu mismo...
+[SPEAKER_07]  origen, digamos, de...
+[SPEAKER_07]  territorial.
+[SPEAKER_05]  Correcto.
+[SPEAKER_08]  Gracias.
+[SPEAKER_08]  Eh...
+[SPEAKER_08]  Bueno, volviendo por donde estábamos, entonces en 2008 con material de muchos semestres.
+[SPEAKER_08]  Seguí estudiando ingeniería de sistemas.
+[SPEAKER_08]  Y digamos...
+[SPEAKER_08]  Lo que más entendí es que no tenía idea de qué era ingeniería de sistemas, que había muchas más cosas que simplemente el...
+[SPEAKER_08]  la programación, ahí aprendí un poco más de desarrollo.
+[SPEAKER_08]  y de otras cosas de ingeniería.
+[SPEAKER_08]  Eh...
+[SPEAKER_08]  Se me decía que comentara sobre materias, pero no sé específicamente de qué materias podría hablar.
+[SPEAKER_07]  No, sí, seguramente estructura de datos.
+[SPEAKER_07]  ¿Sí? Algoritmia, temas de patrones.
+[SPEAKER_07]  ¿Hablaban de inteligencia artificial o no?
+[SPEAKER_08]  Bueno.
+[SPEAKER_07]  Gracias.
+[SPEAKER_08]  como de la primera parte de patrones, de estructuras de datos y todo eso, todas esas materias yo las evacué muy rápido al principio porque son todos los temas que uno aprende en Olimpiadas.
+[SPEAKER_08]  Entonces, cuando entré a la universidad había una profesora que me dijo, no recuerdo el nombre de ella, ella hacía un examen como de suficiencia de programación, así como había la de suficiencia en inglés.
+[SPEAKER_00]  de
+[SPEAKER_08]  Había un examen de suficiencia en programación.
+[SPEAKER_08]  Y yo hice ese examen y enseguida entré a hacer el curso de estructuras en el primer semestre y yo evacué todas esas materias un poco más rápido, incluso el curso de...
+[SPEAKER_08]  algoritmos
+[SPEAKER_08]  también los aprende uno.
+[SPEAKER_08]  en olimpiadas a ser
+[SPEAKER_08]  exámenes
+[SPEAKER_08]  análisis de completitud y todas estas cosas, uno aprende eso en olimpiadas. Entonces, al momento de entrar a la universidad manejaba ya estos temas.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Maestro.
+[SPEAKER_08]  Más de todo.
+[SPEAKER_05]  Hola.
+[SPEAKER_05]  De la Internet.
+[SPEAKER_08]  Gracias.
+[SPEAKER_08]  Hay más.
+[SPEAKER_08]  Había internet hace un rato. Yo alcancé a conectarme por tutopía y por...
+[SPEAKER_05]  Utopía.
+[SPEAKER_08]  por teléfono, o sea, conectando el módem del teléfono al equipo.
+[SPEAKER_08]  y
+[SPEAKER_08]  Sobre todo para enviarme comunicaciones con Olimpiadas, más que todo, porque antes...
+[SPEAKER_08]  otros buscadores como Yuppie, etc.
+[SPEAKER_08]  alcanzaba a usar, pero no sabía muy bien cómo buscar información. Por ejemplo, ahorita...
+[SPEAKER_08]  En los nuevos estudiantes que uno entrena en Olimpiadas, ya usan unos jueces en línea, ya utilizan otros recursos que antes no los había, entre que comparte los análisis que hace de programa.
+[SPEAKER_08]  Sí, ahorita la información de ese tipo de competencias abunda más y además está más fácil de encontrar y de compartir.
+[SPEAKER_08]  Por ejemplo, en el...
+[SPEAKER_08]  En olimpiadas era muy común uno llegar a fotocopiar el Cormen, no sé si el libro rojo y el libro blanco.
+[SPEAKER_08]  para aprender estos temas.
+[SPEAKER_08]  porque antes uno no encontraba nada de eso en ninguna parte. O sea, era como, pues...
+[SPEAKER_08]  como en la humanidad era tan difícil.
+[SPEAKER_08]  acceder al conocimiento sin los libros, eso se alcanzó a vivir un poco de años más.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Para los que nos van a oír después.
+[SPEAKER_07]  Era la época de los primeros, sí, trabajo en internet y tutopía.
+[SPEAKER_07]  Fue el primer correo electrónico popular que llegó a Colombia en esa época.
+[SPEAKER_07]  Y el modem, la conexión que habla Alfredo.
+[SPEAKER_07]  era a través de un módem, que cuando uno llamaba por el teléfono conectado a través del módem,
+[SPEAKER_07]  Pitaba el módem, ¿no?
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  y se conectaba
+[SPEAKER_07]  Era el comienzo, por decirlo. Ya había un adelanto.
+[SPEAKER_07]  Pero qué buena la mención de Tutopía, que fue muy famosa en esa época, ¿no?
+[SPEAKER_08]  Y ellos proveían la conexión, como la salida. Yo realmente no sabía en ese... No sé ahora todavía.
+[SPEAKER_08]  tocaría revisarlo, que era lo que ellos hacían pero ellos le...
+[SPEAKER_08]  garantizaban un usuario una contraseña no solo para el correo sino para además hacer la navegación, o sea como para conectarse al servicio
+[SPEAKER_08]  Ahorita uno va a enciender el computador y ya está conectado a internet, pero en ese momento uno tenía que primero establecer una conexión.
+[SPEAKER_08]  con un servidor de internet, no sé qué era lo que ellos hacían, si proxy o qué, o eran los que servían el DNS o algo así, pero uno primero se conectaba a través de ellos y luego sí podía hacer la navegación en Internet Explorer.
+[SPEAKER_08]  que era lo que había en ese momento.
+[SPEAKER_07]  Bueno, ok. Te felicito entonces mucho por haber programado.
+[SPEAKER_07]  Sí, señor.
+[SPEAKER_08]  Sí, señor.
+[SPEAKER_07]  natural de cierta forma, que no lo era tan natural en electrónica.
+[SPEAKER_07]  Adiós.
+[SPEAKER_08]  Correcto.
+[SPEAKER_08]  Y...
+[SPEAKER_08]  Pues todo el tiempo que estuve en Bogotá me mantuve haciendo...
+[SPEAKER_08]  sitio web
+[SPEAKER_08]  Como Backend.
+[SPEAKER_08]  programación de embebidos
+[SPEAKER_08]  programación de dispositivos móviles, en ese momento incluso programaba J2EE.
+[SPEAKER_08]  Ya va a parar.
+[SPEAKER_08]  para dispositivos móviles.
+[SPEAKER_08]  en un momento así bastante incipiente de los dispositivos todavía era de tramo.
+[SPEAKER_08]  eran dispositivos de botones y demás.
+[SPEAKER_08]  Bueno, en el año...
+[SPEAKER_08]  Ahí en 2008 entré al programa de ingeniería de sistemas.
+[SPEAKER_08]  Y en el año...
+[SPEAKER_08]  Creo yo que era el 2010.
+[SPEAKER_08]  Yo sufrí de pulmonía en Bogotá. En las casas en las que estaba viviendo ya no tenía como...
+[SPEAKER_08]  Yo pienso que era que no había muy buen refugio del frío en ese momento y ahí sufrí como estar en un lugar al que no estaba acostumbrado y yo tuve...
+[SPEAKER_08]  o sea tuve una neumonía
+[SPEAKER_08]  estando en uno de mis semestres finales, y eso me generó que yo me tuve que regresar a Barranquilla dos años.
+[SPEAKER_06]  ¡Opa! Le estoy terminando.
+[SPEAKER_08]  Sin terminar.
+[SPEAKER_06] 
+[SPEAKER_08]  O sea, yo me devolví a Barranquilla un noviembre, pero no estoy seguro si era 2010 o 2011, creo que era 2011.
+[SPEAKER_08]  me regresé a Barranquilla y...
+[SPEAKER_08]  Ese semestre me tocó cancelarlo y todo el siguiente...
+[SPEAKER_08]  y el siguiente año, o sea, las dos pausas que uno podía hacer, las dos cancelaciones del semestre yo las tomé seguidas.
+[SPEAKER_08]  Y el siguiente año, eso fue 2011, porque yo regresé a Bogotá en el 2012.
+[SPEAKER_08]  Eh...
+[SPEAKER_08]  Y en el 2013, retomé la universidad. El 2012, 2 de septiembre, regresé a Bogotá porque me ofrecieron un empleo en una empresa con la que hoy todavía trabajo.
+[SPEAKER_07]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  ¡Mmm!
+[SPEAKER_07]  de
+[SPEAKER_08]  de
+[SPEAKER_07] 
+[SPEAKER_08]  Gracias.
+[SPEAKER_08]  Es una startup fintech que se llama AlgoCodex y ahí habían unos compañeros míos de promoción.
+[SPEAKER_08]  Por eso hacía el comentario antes, que como yo entré regado en varios semestres, tenía como amigos en diferentes etapas del...
+[SPEAKER_08]  de la carrera.
+[SPEAKER_08]  Y de los que estaban más adelantados que yo conocía, trabajaban en esta empresa y me recomendaron y me dieron un empleo ahí. Regresé en 2012, septiembre.
+[SPEAKER_08]  y en 2013 volví a la universidad.
+[SPEAKER_08]  La retomé donde había dejado a terminar materias y esas cosas.
+[SPEAKER_08]  Yo no hice tesis de pregrado porque...
+[SPEAKER_08]  Pues desde que yo estaba en el colegio yo tenía como una...
+[SPEAKER_08]  un derrotero ya bien definido que era la academia de CES, aprendiendo cosas de asistir a maestría, etc. Entonces yo tomé esta opción de materias de maestría.
+[SPEAKER_08]  por lo que no hice trabajo de grado.
+[SPEAKER_08]  Si no, tome materia de maestría.
+[SPEAKER_07]  Te pido, Matías, que vives en esa clase.
+[SPEAKER_08]  En esa fase tomé dos, tomé la de patrones de diseño y tomé la de algoritmo avanzado.
+[SPEAKER_08]  que era
+[SPEAKER_08]  como las cosas que más me interesaban.
+[SPEAKER_08] 
+[SPEAKER_08]  Gracias.
+[SPEAKER_06] 
+[SPEAKER_08]  Una pausa en la grabación.
+[SPEAKER_06]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_06]  Devin.
+[SPEAKER_03]  Voy a aprovechar que se haya, ya comenzó la grabación. Un saludo, Alfredo, Manuel, buenas tardes, qué pena que estuve aquí.
+[SPEAKER_03]  Un problema de conexión.
+[SPEAKER_03]  a internet, o sea, no había nada que hacer, sino respirar y esperar a que regresara el internet.
+[SPEAKER_03]  Entonces ya estoy aquí conectada para que lo necesiten.
+[SPEAKER_03]  y escuchando muy atentamente tu historia.
+[SPEAKER_03]  de formación al test.
+[SPEAKER_08]  Gracias.
+[SPEAKER_08]  Bueno, entonces decía que en 2012 ahí regresé a la ciudad.
+[SPEAKER_08]  En 2013, uno...
+[SPEAKER_08]  Retomé la universidad y ahí hice mis materias de maestría.
+[SPEAKER_08]  Como.
+[SPEAKER_08]  ...de grado...
+[SPEAKER_08]  En parte de diseño y algoritmo avanzado.
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  Comentaba que estaba ya en los grupos de investigación y tenía ya un interés por los sistemas inteligentes de los cursos que había visto con el profesor Luis Fernando Niño.
+[SPEAKER_08]  con el que seguir trabajando más adelante.
+[SPEAKER_08]  Y...
+[SPEAKER_08]  En el año 2014 terminé materias y en 2015 me gradué y me presenté una vez a la maestría.
+[SPEAKER_08]  Ajá.
+[SPEAKER_08]  En ese punto dejé de trabajar.
+[SPEAKER_08]  En la empresa que mencionaba, hice la maestría, hacia el doctorado y después.
+[SPEAKER_08]  Terminando el doctorado fue que volví a la misma empresa. Ellos como que me esperaron a que hiciera mi maestría y doctorado y después...
+[SPEAKER_08]  me recontrataron.
+[SPEAKER_07]  La maestría y el doctorado en la nacional.
+[SPEAKER_08]  Sí, señor. Yo entré al programa de maestría.
+[SPEAKER_08]  Y por cuestiones de la beca de conciencias, yo me pasé al doctorado antes de terminar la maestría.
+[SPEAKER_05]  Ajá.
+[SPEAKER_08]  Entonces había como un... en 2016...
+[SPEAKER_08]  Dos, había una ventana para uno acceder a la beca de doctorados nacionales en coerciencia.
+[SPEAKER_08]  Y yo me presenté a esa...
+[SPEAKER_08]  convocatoria, entonces me pasé al doctorado de una vez.
+[SPEAKER_08]  Y ese sí terminé.
+[SPEAKER_06]  ¿Qué línea seguiste en el doctorado?
+[SPEAKER_08]  Gracias.
+[SPEAKER_08]  Sí señora, a ese punto los sistemas inteligentes eran como el área que a mí más me interesaba, entonces empezamos a aplicar sistemas inteligentes a varias cosas. En la maestría estuve trabajando con...
+[SPEAKER_08]  eh
+[SPEAKER_08]  ¿Algo de biología molecular?
+[SPEAKER_08]  Entonces utilizábamos los sistemas inteligentes para hacer acoplamiento, para hacer predicción de proteínas. Con el propio Luis Fernando Niño hacíamos como aplicación de sistemas inteligentes a diferentes campos. En el grupo de investigación había gente...
+[SPEAKER_08]  de muchas
+[SPEAKER_08]  como de muchas disciplinas y las aplicamos a varios.
+[SPEAKER_08]  Y en mi caso particular empecé haciéndolo.
+[SPEAKER_08]  con
+[SPEAKER_08]  mecánica molecular.
+[SPEAKER_08]  Y estos algoritmos para mecánica molecular son muy parecidos a algoritmos para robótica.
+[SPEAKER_08]  En últimas son lo mismo, como buscar ahí en un espacio de estados.
+[SPEAKER_08]  Eh...
+[SPEAKER_08]  Por lo que cuando me pasé de la maestría al doctorado, conocí a un egresado previo también de la universidad que se llama Jaime Leonardo Bovadilla, que es profesor de FIU, de la Universidad Internacional de la Florida.
+[SPEAKER_08]  y el...
+[SPEAKER_08]  Fue mi codirector en la tesis del doctorado, entonces fue aplicar todos estos conocimientos de sistemas inteligentes a algoritmos de robótica, que fue finalmente a lo que me decidí a hacer.
+[SPEAKER_08]  En eso fue mi tesis del doctorado.
+[SPEAKER_08]  y mi contratación es hacer ese tipo de cosas ahora además de trabajar en esta empresa
+[SPEAKER_08]  algo code que luego se volvió Billy.
+[SPEAKER_08]  Ahorita fui contratado por la Universidad de la Florida para hacer algoritmos de robótica, utilizando sistemas inteligentes.
+[SPEAKER_08]  Gracias.
+[SPEAKER_07]  De cierta manera...
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Te acercaste a la electrónica.
+[SPEAKER_07]  Bien.
+[SPEAKER_04]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_04]  Señor.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Ya era un concepto de no hacer los circuitos, pero sí.
+[SPEAKER_07]  usar el internet de las cosas, tal vez, ¿no?
+[SPEAKER_08]  decir
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_08]  Sí señor, en particular los trabajos que nosotros hacemos son más que todos algorítmicos.
+[SPEAKER_08]  pero mi corto background en...
+[SPEAKER_08]  En electrónica me da un plus para estos algoritmos porque la mayoría de la gente con la que trabajamos casi no entiende cómo...
+[SPEAKER_08]  las cosas ya físicas como de hacer cosas funcionar y ese lado yo tengo ese plus de que si hago cosas
+[SPEAKER_08]  electrónicas aún.
+[SPEAKER_08]  Y me entiendo con electrónicos y hago cosas que sí funcionan en el mundo real.
+[SPEAKER_07]  Y por ejemplo, una mención de algún trabajo de estas épocas o épocas recientes.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  que nos puedes contar.
+[SPEAKER_07]  Trabajo para alguna empresa o trabajos académicos.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  ¡Gracias!
+[SPEAKER_08]  académicamente con el grupo de investigación.
+[SPEAKER_07]  Buen día.
+[SPEAKER_08]  Sí, este en la Universidad de la Florida, Internacional de la Florida.
+[SPEAKER_07]  Gracias.
+[SPEAKER_08]  que sigues conectado con ellos.
+[SPEAKER_08]  Sí, yo, o sea, mi conexión inicial fue durante el doctorado que hice una pasantía.
+[SPEAKER_08]  una pasantía en FIU.
+[SPEAKER_08]  Y yo seguí conectado con ellos trabajando, ayudando a sus estudiantes y ahorita...
+[SPEAKER_08]  si me contrataron con un proyecto que haya.
+[SPEAKER_07]  ¿Y sigues conectado con el profesor Bobadilla?
+[SPEAKER_08]  Sí, sí, sí, señor. Él es el director ahorita del proyecto en el que estamos trabajando en el país.
+[SPEAKER_07]  Lele
+[SPEAKER_07]  ¿Cómo se llama el proyecto que estás en este momento?
+[SPEAKER_08]  Ese proyecto se llama... no tengo el dato preciso.
+[SPEAKER_07]  Gracias.
+[SPEAKER_05]  La definición del proyecto, digamos.
+[SPEAKER_08]  Sí, es un proyecto de...
+[SPEAKER_08]  de unos vehículos superficiales robotizados para hacer monitoreo de las aguas de la bahía de Miami. En Miami hay un proceso que todos los años se da que es como una explosión de algas que genera como una muerte de peces y una contaminación del agua.
+[SPEAKER_08]  Entonces el proyecto en el que estamos trabajando se basa en unas boyas robotizadas, que son vehículos superficiales que toman características del agua en tiempo real. Entonces el proyecto está en dónde ubicar las boyas, transmitir esa información, tenerla disponible, hacer algunas predicciones y así. Hay un montón de artículos que están relacionados a este proyecto.
+[SPEAKER_07]  Muy interesante. Un profesor muy cercano a nosotros, acá de Bogotá.
+[SPEAKER_07]  diseñó un pescadito, ¿no? Y además con un concepto de arte, ¿no?
+[SPEAKER_07]  Hay una universidad...
+[SPEAKER_07]  Estados Unidos que habla de arte e ingeniería.
+[SPEAKER_07]  Y el pescadito lo que hace es eso, la química del agua es trazar con internet los desmontados. Imagina que salgo de ese estilo.
+[SPEAKER_08]  Y es parecido, solo que estos no, bueno, sí, aquí las boyas tienen una sonda que mide la columna.
+[SPEAKER_07]  el álbum.
+[SPEAKER_07]  Ok.
+[SPEAKER_07]  Bueno, muy bien. Es interesante ver...
+[SPEAKER_07]  Te cuento, ¿no? La diferencia del estudiante que entró a la universidad y que se dedicó solo a estudiar.
+[SPEAKER_07]  en una universidad privada y estudió 5 años y no trabajó.
+[SPEAKER_07]  Y salió y se graduó, etc.
+[SPEAKER_07]  No.
+[SPEAKER_07]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  estudiante
+[SPEAKER_07]  que tuvo que trabajar.
+[SPEAKER_07]  ¿Cierto? Son muchos, la mayoría.
+[SPEAKER_07]  y sufrir un poquito ese esfuerzo y el otro del que viene de una ciudad que no es Bogotá
+[SPEAKER_07]  Aguantar el frío, la ducha helada, ¿cierto?
+[SPEAKER_07]  Gracias.
+[SPEAKER_05]  ¡Sí!
+[SPEAKER_07]  Y el ventarrón de la 45.
+[SPEAKER_07]  ¿no? porque este es un túnel
+[SPEAKER_08]  Gracias.
+[SPEAKER_07]  que da neumonía
+[SPEAKER_08]  Sí.
+[SPEAKER_07]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_08]  Vas a ver toda la montaña hasta...
+[SPEAKER_07]  jajaja
+[SPEAKER_07]  Claro, lo mismo que pasa en la 19, con Monserrate y Guadalupe.
+[SPEAKER_07]  Ese es el sitio de mayor viento en Bogotá.
+[SPEAKER_07]  Y obviamente de frío.
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Adiós.
+[SPEAKER_00]  Gracias.
+[SPEAKER_07]  Pero es una experiencia muy interesante el acoplarse con sus colegas de otras regiones.
+[SPEAKER_07]  que tal vez les facilitó el choque cultural, el bogotano más rígido.
+[SPEAKER_05]  El nuevo...
+[SPEAKER_07]  Gracias.
+[SPEAKER_05]  Ajá.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  personalidad
+[SPEAKER_07]  pero bueno, colombianos al fin y al cabo. Es muy interesante.
+[SPEAKER_07]  Yo sé que era un proceso como muy natural, muy natural, muy natural que se esté cuidando. Claro, los dos años que volviste.
+[SPEAKER_07]  pero desde el punto de vista del estudio común.
+[SPEAKER_07]  como que se podía prever lo que te iba a ir pasando.
+[SPEAKER_07]  Por la experiencia de la programación.
+[SPEAKER_08]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_08]  Sí señor, sí, sí, luego de tomar la decisión de pasarme a sistemas sí fue como un fluir más natural y ya me iba mucho mejor en las clases y demás.
+[SPEAKER_07]  Ahora, hoy en día estás viviendo en Bogotá.
+[SPEAKER_08]  En este momento estoy en Barranquilla, pero el otro mes ya viajo.
+[SPEAKER_08]  a Miami.
+[SPEAKER_07]  3, 2, 1, ya
+[SPEAKER_07]  O sea que tú estás sentado en Miami en este momento.
+[SPEAKER_03]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_08] 
+[SPEAKER_03]  Gracias.
+[SPEAKER_07]  Ah, eso no lo tenía claro.
+[SPEAKER_07]  Ok.
+[SPEAKER_03]  Yo por aquí voy a comentar que Alfredo cuando se fue, no realmente se fue porque...
+[SPEAKER_03]  Nosotros lo sentíamos presente, o sea, sentíamos su presencia a pesar de su...
+[SPEAKER_03]  Esa ausencia porque Alfredo también durante su proceso de formación en el pregrado.
+[SPEAKER_03]  Entro yo como profesora auxiliar, nosotros tenemos allí una modalidad.
+[SPEAKER_03]  que es la de profesores auxiliares, que es profesores de las maestrías o estudiantes de las maestrías son profesores de...
+[SPEAKER_03]  los estudiantes de pregrado.
+[SPEAKER_03]  en la modalidad de becas que da la universidad.
+[SPEAKER_03]  como un subsidio también económico.
+[SPEAKER_03]  Alfredo era uno de los pioneros también en el área de programación de esos estudiantes que se les siente el amor y la pasión por la academia y por la enseñanza.
+[SPEAKER_03]  y pues comienza a apoyarnos con los grupos de programación de la universidad, que nosotros pues tenemos un grupo grande porque se dicta la asignatura como servicio.
+[SPEAKER_03]  en la Facultad de Ingeniería a los 8000 estudiantes que tenemos activos en la facultad. Entonces, por semestre son más o menos unos 1000 estudiantes.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Entonces, de programación.
+[SPEAKER_03]  Y Alfredo nos apoyaba en el desarrollo del contenido de la asignatura como tal.
+[SPEAKER_03]  con un enfoque matemático también.
+[SPEAKER_03]  Y también en el desarrollo de los cursos y en la preparación de los parciales a realizarse también como desde el enfoque del estudiante, ¿no?
+[SPEAKER_03]  Para no hacer esas preguntas clásicas formales sobre sintaxis y semántica, que cae uno mucho en eso cuando es profesor, en vez de evaluar o buscar ejercicios que sean de pronto más prácticos.
+[SPEAKER_00]  hacer esas preguntas.
+[SPEAKER_03]  y representativos para el estudiante.
+[SPEAKER_03]  Entonces, Alfredo nos apoyó mucho en eso y le tomaron mucho cariño los estudiantes. Entonces, él como que le estaba pasando esas cosas, pero no había el otro lado y el otro lado era que se hizo profesor, Alfredo.
+[SPEAKER_03]  No, no, no.
+[SPEAKER_03]  ¿Dónde está profesor Bayuelos? Me preguntaban y yo pues realmente no sabía contestarles porque no sabía mucho de tus percances. Yo había entendido que te has ido a estar con tu familia.
+[SPEAKER_03]  pero ya el percance de salud sí no lo tenía tan presente. Entonces, uno decía, bueno, no, no se preocupen que va a volver. O sea, tenía uno la certeza, como yo le preguntaba al profesor Luis Hernando y Alfredo, me decía, no te preocupes que él va a estar en la maestría y de plano está en el doctorado. O sea, eso para el profesor Luis Hernando era algo...
+[SPEAKER_03]  que era así, que iba a pasar.
+[SPEAKER_03]  Entonces nosotros los demás compañeros no lo sentimos.
+[SPEAKER_03]  En esa línea de programación, actualmente Alfredo nos ayudó en una cosa muy importante con Mision TIC 2022.
+[SPEAKER_03]  y 2023.
+[SPEAKER_03]  Y ese es así como un secreto que sale a la luz pública ahorita aquí en la entrevista y es que Alfredo nos ayudó a diseñar.
+[SPEAKER_03]  Las preguntas de valoración.
+[SPEAKER_03]  para clasificación de los niveles de formación de los estudiantes en Colombia que ingresaron a esos procesos de formación.
+[SPEAKER_03]  en Mission TIC 2022.
+[SPEAKER_03]  Su función principal fue la de asesorarnos y revisar puntualmente cada una de las preguntas.
+[SPEAKER_03]  que fueron objeto de aplicación a nivel nacional.
+[SPEAKER_03]  por parte de la universidad y del Ministerio de Ciencias de Tecnología y de Comunicaciones.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Les ayudo a que sepan que yo también me asan.
+[SPEAKER_03]  Y pues siempre ha estado ahí pendiente y presente en el área de...
+[SPEAKER_03]  de Informática con el profe Luis Fernando.
+[SPEAKER_03]  Nos alegra mucho saber que vas a trabajar con Leonardo Bolvavilla, el profe.
+[SPEAKER_03]  Manuel lo tiene ahí en el listado con las hojas de vida de los posibles entrevistados para como tejer ese...
+[SPEAKER_03]  Esa historia de vida que es otra historia que se da y que se presenta mucho en la Universidad Nacional.
+[SPEAKER_03]  y es el esfuerzo tan grande que hacen los estudiantes de las regiones.
+[SPEAKER_03]  cuando se desplazan a Bogotá a formarse como ingenieros. Entonces creo que es un elemento muy importante.
+[SPEAKER_03]  Y por esa razón, cuando consultamos a los profes en la Nacional, ¿quiénes les gustaría que representaran este espacio de Historia de la Ingeniería? Porque son historias...
+[SPEAKER_03]  para resaltar y en las cuales nos sentimos muy orgullosos de esta estuva.
+[SPEAKER_03]  Ustedes siempre están ahí pendientes.
+[SPEAKER_02]  Gracias por...
+[SPEAKER_03]  y en todos nuestros corazones en el departamento.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Entonces le agradezco a Manuel por iniciar la entrevista.
+[SPEAKER_02]  Entonces, le agradezco.
+[SPEAKER_03]  Yo decía mentalmente como la chica de Pepsi tratando de comunicarme, ojalá Manuel ya haya empezado con el credo.
+[SPEAKER_03]  porque es una historia muy representativa de...
+[SPEAKER_03]  de los estudiantes de la Universidad Nacional, que hacen todo ese proceso de formación, de pregrado, maestría y doctorado, con mucho esfuerzo y mucha dedicación.
+[SPEAKER_03]  Brillante Alfredo en esto de la educación, siempre algunos tips que nosotros como profesores...
+[SPEAKER_03]  deberíamos tener en cuenta este proceso de transición de los estudiantes que ya tienen el acceso a la tecnología y nosotros que nos tocó como crear ese y participar en la creación de esa tecnología que son los...
+[SPEAKER_03]  Digamos, yo lo marco así como dos épocas.
+[SPEAKER_03]  y distintas en esos procesos de formación.
+[SPEAKER_03]  Yo tenía una pregunta, Alfredo. ¿Para ti qué fue lo más representativo en tu época de formación como estudiante con tus compañeros en la universidad?
+[SPEAKER_03]  Que digamos disfrutaste y puedes contarnos.
+[SPEAKER_08] 
+[SPEAKER_08]  Y antes de eso, como un poquito de contexto cronológico, es que...
+[SPEAKER_08]  Yo sufrí pulmonía durante el pregrado.
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  Cuando volví a la maestría, que me retiré del trabajo para hacer la maestría.
+[SPEAKER_08]  fue que tuve las becas de auxiliar y asistente docente. O sea, hice la docencia mientras estaba en la maestría y el primer semestre del doctorado.
+[SPEAKER_08]  Porque como me dieron luego la beca desde el segundo semestre del doctorado, ya no podía seguir con la beca de colciencia, ya no podía seguir con la beca de la universidad.
+[SPEAKER_08]  de asistencia docente. Ese fue el motivo por el que no pude seguir haciendo docencia, que es una de las cosas...
+[SPEAKER_08]  que me gustan
+[SPEAKER_08]  A mí muchísimo.
+[SPEAKER_08]  como buscar la forma de mostrarle a otra persona.
+[SPEAKER_08]  cómo funcionan las cosas.
+[SPEAKER_08]  y buscar la mejor forma de transmitir el conocimiento a otras personas.
+[SPEAKER_08]  Entonces de ahí el esmero por ese tipo de...
+[SPEAKER_08]  Por esa búsqueda, por ver...
+[SPEAKER_08]  cómo llega uno mejor.
+[SPEAKER_08]  a otras personas.
+[SPEAKER_08]  para transmitirle una información.
+[SPEAKER_08]  de las cosas significativas.
+[SPEAKER_08]  Eh...
+[SPEAKER_08]  Para mí...
+[SPEAKER_08]  Siempre ha sido como el ejemplo de los profesores, o sea, encontrarme con estas personas que tienen una dedicación por la academia y por...
+[SPEAKER_08]  por dar buen ejemplo, por hacer las cosas bien.
+[SPEAKER_08]  Creo que eso para mí...
+[SPEAKER_08]  fue bastante significativo en la universidad.
+[SPEAKER_08]  Y de pronto por eso tengo tan buenas relaciones con la mayoría de los profesores de mi...
+[SPEAKER_08]  de mi curso por la universidad.
+[SPEAKER_08]  Porque pues...
+[SPEAKER_08]  Uno conoce como gente de muchos lugares.
+[SPEAKER_08]  y
+[SPEAKER_08]  En ellos uno ve cómo transmiten esa pasión por hacer las cosas bien hechas.
+[SPEAKER_08]  por ser buena persona y por dar buen ejemplo.
+[SPEAKER_08]  Eso para mí sí fue muy significativo.
+[SPEAKER_03]  Y ahorita sobre ese tránsito, ¿qué vas a hacer? ¿Salir de Barranquilla a Miami?
+[SPEAKER_03]  Y...
+[SPEAKER_03]  ¿Cómo es ese tránsito y qué sientes y nos puedes contar respecto a ese paso?
+[SPEAKER_03]  Un tuyo.
+[SPEAKER_08]  Pues tengo muchas expectativas. Voy a hacer algo.
+[SPEAKER_08]  de poder hacer algo grande, de poder hacer algo importante, de hacer aportes significativos, sí tengo mucho.
+[SPEAKER_08]  con muchas expectativas al respecto.
+[SPEAKER_08]  Yo estuve en Miami haciendo la pasantía y...
+[SPEAKER_08]  había muchas cosas que para mí eran muy familiares, el clima.
+[SPEAKER_08]  como esta
+[SPEAKER_08]  actividades de playa.
+[SPEAKER_08]  como la navegación, la pesca, la...
+[SPEAKER_08]  el disfrute de la playa misma, ese tipo de cosas fueron como muy familiar para mí.
+[SPEAKER_08]  Y sumado a...
+[SPEAKER_08]  a esta otra experiencia de ciudad grande.
+[SPEAKER_08]  como cosas de ciudad grande, como el paseo que hice a Nueva York.
+[SPEAKER_08]  a Orlando, a Fort Lauderdale, por ahí cerca de la costa este.
+[SPEAKER_08]  Tengo como mucha expectativa alrededor de esas otras ciudades a las que no he ido y que quisiera ir. Y pues del aporte que podamos hacer ahorita más adelante.
+[SPEAKER_08]  con esta nueva...
+[SPEAKER_08]  con este nuevo encargo.
+[SPEAKER_03]  Y si me lo permites preguntar, ¿cómo ha sido la articulación de ese proceso de tu vida académica y laborar con la vida familiar?
+[SPEAKER_03]  Y nos puedes contar de Alfredo Bayuelo familia.
+[SPEAKER_08]  bueno, es bastante difícil porque
+[SPEAKER_08]  por el tiempo.
+[SPEAKER_08]  O sea, quisiera como dedicarle más tiempo a algunas cosas.
+[SPEAKER_08]  Pero cuando uno adquiere ahí esas responsabilidades familiares, entonces...
+[SPEAKER_08]  Ya no se puede incluso.
+[SPEAKER_08]  Yo quería seguir estudiando otras cosas, o sea, como aplicar ingeniería de sistemas, algoritmos y eso a medicina, como a que esas cosas...
+[SPEAKER_08]  investigar qué podemos aplicar sobre el cuerpo, agregarle eso a la biología humana. Pero ya mi esposa me dijo, ya no sé, nuestra familia para cuándo.
+[SPEAKER_08]  en el fluido
+[SPEAKER_03]  Y ahorita estás casado, ¿tienes hijos, Alfredo?
+[SPEAKER_08]  No tenemos hijos aún, pero estamos ahí ya.
+[SPEAKER_03]  Estás aprovechando el recién casado.
+[SPEAKER_08]  Ya tenemos seis años de casado.
+[SPEAKER_03]  ¡Hola bien!
+[SPEAKER_08]  Gracias.
+[SPEAKER_08]  Parte de eso que hablábamos de...
+[SPEAKER_08]  que aprendí de mis profesores de dar buen ejemplo y eso a mí me ha quedado muy marcado y por ejemplo muchas de mis decisiones también las tomaba pensando en el ejemplo que le daba a mis hermanos, a mis primos.
+[SPEAKER_08]  Entonces, en la sociedad en la que yo crecí, en el barrio en el que yo crecí,
+[SPEAKER_08]  El normal transcurrido era que un muchachito embarazaba a la novia y por eso...
+[SPEAKER_08]  era que le obligaban a casarse.
+[SPEAKER_08]  Entonces, a través de mi ejemplo, yo les mostraba a ellos que no era necesario, que yo me podía casar con mi esposa porque era mi decisión.
+[SPEAKER_08]  no era porque teníamos un hijo ahí ya pendiente y nos tocaba y demás.
+[SPEAKER_08]  sino que disfrutamos nuestra...
+[SPEAKER_08]  nuestro tiempo de matrimonio y luego pensamos en los hijos y tomamos unas decisiones bien planeadas.
+[SPEAKER_08]  Y que eso sirviera ahí también como ejemplo a mis hermanos. Creo que algo funcionó porque mi hermano mayor más o menos siguió la misma.
+[SPEAKER_08]  la misma senda de esa responsabilidad.
+[SPEAKER_08]  que me transmitieron a mí mis profesores.
+[SPEAKER_03]  Bueno, muchas gracias, Alfredo, Manuel. Yo te dejo que sigas, que tú ibas muy bien ahí moderando la charla.
+[SPEAKER_07]  No, no, no, vas muy bien. Me gusta mucho, hay varias cosas, creo.
+[SPEAKER_07]  que en los procesos de la vida uno
+[SPEAKER_07]  No alcanza a definir.
+[SPEAKER_07]  lo que está transmitiendo, digamos.
+[SPEAKER_06]  ¿no?
+[SPEAKER_07]  Porque uno cuenta literalmente lo que pasó.
+[SPEAKER_07]  Pero esta es una transmisión de un proyecto de vida muy interesante.
+[SPEAKER_07]  ¿Sí? El tema de que hayas programado desde el colegio.
+[SPEAKER_07]  Todo lo que ya hemos hablado de venir a otra ciudad.
+[SPEAKER_07]  Y también se mide un poco.
+[SPEAKER_07]  llamémoslo la esencia de las universidades, de las almas mater nuestras.
+[SPEAKER_07]  Y hemos encontrado mucho este cariño por la universidad y por los profesores en el caso de la nacional.
+[SPEAKER_07]  es algo que ya lo hemos mencionado en otros casos con otros
+[SPEAKER_07]  y ingenieros jóvenes, todos los que hemos entrevistado.
+[SPEAKER_07]  donde hay un aprecio muy grande.
+[SPEAKER_07]  y la palabra de dar buen ejemplo
+[SPEAKER_07]  y ser buenas personas.
+[SPEAKER_07]  es de pronto más importante que el algoritmo, ¿no?
+[SPEAKER_07]  Gracias.
+[SPEAKER_08]  Gracias, señor.
+[SPEAKER_07]  Es un ejemplo de vida fundamental.
+[SPEAKER_07]  que lo recibimos muy bien porque parte de este tema es también...
+[SPEAKER_07]  llevar esa lección hacia...
+[SPEAKER_07]  Los niños profesores que nos van a oír y la...
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  sobre ese carisma que tienen las universidades.
+[SPEAKER_08]  y la formación de personas antes que ingenieros, físicos, antemano.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  y que se dan con la rigurosidad de la nacional.
+[SPEAKER_07]  que en tu caso, yo lo veo así, como dice un filósofo, mirando desde la luna, ¿no?
+[SPEAKER_07]  ¿Cómo se forma un académico?
+[SPEAKER_07]  internacional.
+[SPEAKER_07]  ¿Sí?
+[SPEAKER_07]  o cómo la nacional forma académica.
+[SPEAKER_07]  Así.
+[SPEAKER_07]  Después trabajen en empresas y todo.
+[SPEAKER_07]  Porque la relación con los colegas de ustedes de la nacional, yo soy andino.
+[SPEAKER_07]  Siempre hemos observado ese amor por la investigación, esa formalidad.
+[SPEAKER_07]  el desarrollo de los proyectos, ¿no?
+[SPEAKER_07]  Y digamos esa formación académica, aparte de lo...
+[SPEAKER_07]  pero propiamente laboral.
+[SPEAKER_07]  Entonces,
+[SPEAKER_07]  en el teléfono, esto pasa en estas reuniones virtuales.
+[SPEAKER_07]  Pero, sí, muy interesante ese aspecto, ¿no? Además de los concreto, digamos, de la ingeniería.
+[SPEAKER_07]  Mmm...
+[SPEAKER_07]  Y bueno, yo creo que ha sido hasta ahora muy interesante.
+[SPEAKER_07]  Si de pronto Edgar nos pegó una ayudita.
+[SPEAKER_07]  con algún cuestionamiento.
+[SPEAKER_00]  Bueno, sí, señor. Yo estoy...
+[SPEAKER_00]  Gratamente sorprendido por la formación de...
+[SPEAKER_00]  de Alfredo.
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  Y está pensando en...
+[SPEAKER_00] 
+[SPEAKER_00]  como es un buen programador
+[SPEAKER_00]  Un programador que programa y cumple con el propósito de vida con determinación y con...
+[SPEAKER_00]  disciplina, proyección y...
+[SPEAKER_00]  que lo ha llevado desde el principio hasta...
+[SPEAKER_00]  poderlo volver ejemplo que hoy en día está demandándose
+[SPEAKER_00]  mucho este tipo de personalidad. Quiero decir que...
+[SPEAKER_00]  nos están insistiendo
+[SPEAKER_00]  no solamente en las habilidades técnicas, sino en las blandas, en las transversales.
+[SPEAKER_00]  Y con Fortuna se ve que tu formación en este sentido es muy...
+[SPEAKER_00]  bien desarrollada
+[SPEAKER_04]  Ya.
+[SPEAKER_00]  tanto que ha sido responsable.
+[SPEAKER_00]  hasta en el manejo y desarrollo de la familia. Entonces me gusta mucho.
+[SPEAKER_00]  El...
+[SPEAKER_00]  La personalidad que se ha armado.
+[SPEAKER_00]  a través de la influencia de la formación en la nacional y en la vida, porque bien lo decía Manuel, toda la experiencia que has tenido.
+[SPEAKER_00]  M
+[SPEAKER_00]  estar luchando por las cosas y valorar cada momento y cada circunstancia, tener que retirarse, volver, o sea, me parece que es un excelente ejemplo de vida a través de la...
+[SPEAKER_00]  que va de la mano.
+[SPEAKER_00]  ya que no es que la computación sea...
+[SPEAKER_00]  solamente herramienta tecnológica, sino también humana. Me gusta mucho eso.
+[SPEAKER_00]  Entonces,
+[SPEAKER_00]  Lo que yo preguntaría es...
+[SPEAKER_00]  hazlo, Grey, porque entiendo que fuiste profesor y entonces...
+[SPEAKER_00]  ¿Cómo te sientes al influenciarte desde ese punto a los que fuiste vacío docente y qué aspiras que sean ellos a través de tus enseñanzas?
+[SPEAKER_08]  Sí, como agregando a esto que usted comentaba, el otro día me descubrí a mí mismo en una situación en la que decía, bueno, ¿cuáles son los objetivos que me voy a plantear? Los específicos, ¿cuál es el general? ¿Cuáles son las metas? Y como una estructuración ahí en el pensamiento para todas las cosas que da esa academia.
+[SPEAKER_08]  que aspiro
+[SPEAKER_08]  Yo identifico en mí como alguien a que el fundador de la institución en la que yo hice mi bachillerato.
+[SPEAKER_08]  Eh...
+[SPEAKER_08]  y logró lo que él quería. O sea, yo identifico que él quería a alguien que retransmitiera esas ideas que él tenía.
+[SPEAKER_08]  como si fuera un virus, como transmitirle el virus para que se transmita. Entonces yo quisiera, lo que yo esperaría es...
+[SPEAKER_08]  lograr ese tipo de cosas. Yo he tenido estudiantes de...
+[SPEAKER_08]  de
+[SPEAKER_08]  O sea, en varios niveles.
+[SPEAKER_08]  en universitario, en técnico, en...
+[SPEAKER_08]  Incluso cuando regresé a Barranquilla, que me casé y me vine a Barranquilla a terminar la tesis del doctorado, yo daba clases en la institución de la que yo salí a niños de sexto, séptimo, octavo, y ahí más o menos también diseñé un programa.
+[SPEAKER_08]  que lo que buscaba era...
+[SPEAKER_08]  no tanto que aprendieran a programar.
+[SPEAKER_08]  Sino que...
+[SPEAKER_08]  aprendieran a identificar el uso de la programación en cualquier cosa que quisieran hacer en adelante.
+[SPEAKER_08] 乾
+[SPEAKER_08]  La experiencia en el grupo de investigación con el profe Luis Fernando fue muy valiosa porque venía gente de toda...
+[SPEAKER_08]  de muchos lugares, de lingüística, de biología, de arquitectura, de muchos lugares, de medicina, y tenía como un conocimiento más o menos amplio de cómo actuar, de cómo...
+[SPEAKER_08]  Eh...
+[SPEAKER_08]  de usos prácticos de la ingeniería de sistemas, en particular de la programación, en varias áreas del conocimiento.
+[SPEAKER_08]  Con estos estudiantes de bachillerato tenía una idea clara de esto te va a servir para, lo puedes usar en estas cosas, en esta otra.
+[SPEAKER_08]  y sobre todo en la forma de razonar, como de definir algoritmos y ese tipo de cosas. Entonces, ¿qué quisiera yo?
+[SPEAKER_08]  hacer eso mismo que hicieron conmigo, que ellos se vuelvan.
+[SPEAKER_08]  como esparzores del virus.
+[SPEAKER_08]  de enseñar a otros y de hacer que otros también enseñen a otros.
+[SPEAKER_08]  Muy bien, muchas gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Yo quisiera que nos contaras un poquito cómo fue esa experiencia, porque dices, fue en tu institución allá en Barranquilla con los chicos.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  que querían aprender a programar.
+[SPEAKER_03]  ¿Cómo fue esa experiencia y qué aprendiste de ellos? ¿Qué tan difícil es que un niño...
+[SPEAKER_00]  ¿Cómo fue?
+[SPEAKER_03]  pueda tomar el cariño por la programación desde esa edad temprana.
+[SPEAKER_08] 
+[SPEAKER_03]  Gracias.
+[SPEAKER_08]  No sé.
+[SPEAKER_03]  Lo sé.
+[SPEAKER_08]  Está bastante difícil, sin embargo.
+[SPEAKER_08]  que no es tan representativo porque la institución, como comenté al principio, es una fundación educativa.
+[SPEAKER_08]  que es como una casa pequeña donde se enseñan a un grupo de gente muy reducida y además muy escogida.
+[SPEAKER_08]  como varios filtros y al final de 250 que se presentan, se comen 40 estudiantes para empezar sexto y ellos mismos llegan hasta un décimo.
+[SPEAKER_08]  Entonces, no está representativa, pero sí representa.
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  varias redes que ellos se lo facilitan a uno.
+[SPEAKER_08]  O sea, soy muy consciente de que eso mismo que intenté en el colegio este.
+[SPEAKER_08]  No lo puedo lograr en una institución pública, de aquí, incluso de la misma ciudad mía en que...
+[SPEAKER_08]  que yo hablo el mismo dialecto de toda la gente de aquí.
+[SPEAKER_08]  Soy bastante dado a comunicar...
+[SPEAKER_08]  compartir con gente que no conozco yo me puedo subir a un bus de transporte público y aquí en
+[SPEAKER_08]  Es muy común que uno se suba a un bus de transporte público y hable con gente que no conoce.
+[SPEAKER_08]  y a hacer conversaciones. Yo tengo eso.
+[SPEAKER_08]  A pesar de que me dedico a la academia y esas cosas, tengo bastante de facilidad para hablar con gente y tramar así conversaciones y seguir hablando.
+[SPEAKER_08]  Y aún así entiendo que la experiencia que tuve con lo que quise armar con ellos.
+[SPEAKER_08]  no es significativo con respecto a otros...
+[SPEAKER_08]  a otros colegios de esta misma ciudad, digamos con barreras culturales incluso más difíciles. Por ejemplo, yo ir a Bogotá a un colegio público a enseñar cosas.
+[SPEAKER_08]  entiendo que hay unas dificultades bastante grandes.
+[SPEAKER_08]  Sin embargo, sí es algo que me gusta mucho, encontrar la forma de que los estudiantes se sorprenden y se apasionen.
+[SPEAKER_08]  ¡Los hees!
+[SPEAKER_08]  Creo que estoy en mora de...
+[SPEAKER_08]  de
+[SPEAKER_08]  Consolidar todas esas cosas que hice allá. Hay muchas cosas de juego, de aprender cómo las consolas funcionaban antes, cómo aprender de pixeles, un montón de cosas que son muy prácticas y que me gustaría en algún momento recopilar todo eso y poner disponible en algún lugar.
+[SPEAKER_08]  para que se use
+[SPEAKER_03]  Alfredo nos colaboró en el año, creo que en el 2020 fue, con un proyecto.
+[SPEAKER_03]  que desarrollaba la Universidad Nacional en conjunto con el Ministerio de Educación.
+[SPEAKER_03]  Y el Consejo Británico y era...
+[SPEAKER_03]  estudiando para niños y niñas en Colombia.
+[SPEAKER_03]  y alcanzamos a llegar a un número, ese sí, bastante representativo.
+[SPEAKER_03]  de formación en los niños.
+[SPEAKER_03]  Hola, ¿cómo estás?
+[SPEAKER_05]  con la información
+[SPEAKER_03]  Con una coffee también trabajamos, ¿cierto?
+[SPEAKER_03]  Interesante porque es lo mismo, la perspectiva que nos daba o nos brindaba Alfredo sobre...
+[SPEAKER_03]  La formulación de esos ejercicios para que sean prácticos y que lleguen a los niños, pues no era una...
+[SPEAKER_03]  fácil para nosotros y sin embargo cuando le decíamos al proveedor, diseñe el problema, formule el problema en el contexto.
+[SPEAKER_03]  para esos niños.
+[SPEAKER_03]  A él se le facilitaba mucho, entonces yo creo que es una parte que valdría la pena que siguiéramos trabajando desde él.
+[SPEAKER_03]  Las universidades para la articulación entre...
+[SPEAKER_03]  entre los diferentes niveles educativos, entre lo que es la básica, la media y la superior.
+[SPEAKER_03]  para poder llevarlos en esa línea de formación. Entonces sí, un aporte muy chévere.
+[SPEAKER_08]  para poder llevarlos en esa...
+[SPEAKER_08]  Eso es un trabajo muy bonito. Y yo seguí trabajando con ellos, incluso ahorita estamos trabajando también con una empresa, con un...
+[SPEAKER_03]  Gracias.
+[SPEAKER_08]  una organización en Canadá, con el mismo profesor Mauricio de Acofi, Mauricio Duque.
+[SPEAKER_08]  pero ahora con una organización en Canadá que se llama PREST, que también hace algunas cosas parecidas para la enseñanza de las matemáticas.
+[SPEAKER_03]  Sí, que es el Polo Regional de Canadá para la enseñanza de las ciencias exactas.
+[SPEAKER_03]  Correcto.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Muchas gracias, ha sido muy chido este trabajo.
+[SPEAKER_07]  Comentarle a Alfredo que, y bien lo sabes, que la profesora Sandra es muy fuerte en STEM.
+[SPEAKER_07]  El tema, bueno, lo de Mauricio, Mauricio Duque, es que fíjense que esto es como una...
+[SPEAKER_07]  Como un club, ¿no?
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  todos nosotros.
+[SPEAKER_07]  En un minuto nosotros llegamos a tener 35.000 niños.
+[SPEAKER_07]  con 300 colegios en robótica.
+[SPEAKER_07]  ¿Sí?
+[SPEAKER_07]  traído, yo lo traje cuando era decano, hace unos siete años, de carne chimelo.
+[SPEAKER_07]  Y eso se ha extendido, ¿no? Solo un minuto, ¿no? El distrito de la alcaldía de Bogotá.
+[SPEAKER_07]  el tema de robótica para niños.
+[SPEAKER_07]  Y en estos medios hemos entrevistado a los niños, conversatorio donde son los niños los que hablan.
+[SPEAKER_07]  Que yo cuento una cosa que siempre me parece curioso cuando hablo de esto.
+[SPEAKER_07]  Un niño de 11 años diciendo...
+[SPEAKER_07]  Es que esta experiencia me cambió la vida.
+[SPEAKER_05]  A los 11 años. A los 10 años. Así es.
+[SPEAKER_07]  Los 10 años de...
+[SPEAKER_07]  Sí, porque ellos no hablan mucho del robot, curiosamente, y es lo que programan, y concursan a nivel internacional.
+[SPEAKER_07]  Habla de la experiencia con sus amigos.
+[SPEAKER_07]  con los mismos competidores.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01] 
+[SPEAKER_07]  Es que me encanta porque los competidores cuando no saben, yo les enseño.
+[SPEAKER_07]  Dicen, por ejemplo, los niños, ¿no?
+[SPEAKER_07]  Entonces hay una formación de principios, no solamente de los efectos.
+[SPEAKER_07]  técnico.
+[SPEAKER_07]  Y hay un movimiento muy grande, bueno, tú lo sabes, claro, Alfredo, de la Provincia de la Santa, de la Provincia de la Santa, además, candidata para que las mujeres estén del año.
+[SPEAKER_07]  de tal manera que hay una gran experiencia y ese origen de Mauricio Duque también.
+[SPEAKER_07]  Pero hay una cosa que se extendía mucho con los niños, ¿no?
+[SPEAKER_07]  Yo siempre lo que hablo de eso es que ellos son los ciudadanos de la quinta revolución industrial.
+[SPEAKER_07]  porque a veces pensamos solo en los grandes profesionales, los actuales, ¿no?
+[SPEAKER_07]  Sí, lo de la maestría y el doctorado, pero es que los niños...
+[SPEAKER_07]  son los ciudadanos de ese futuro que ya está tan cercano.
+[SPEAKER_07]  Entonces es muy interesante esa inquietud tuya sobre los niños.
+[SPEAKER_03]  Sí, la invitación es para que sigas trabajando en eso y que desde la distancia.
+[SPEAKER_03]  Igual que siempre estés allí con nosotros, igual a creo que pensamos un montón.
+[SPEAKER_03]  porque no siempre se generan esas ideas tan fáciles así como Manuel.
+[SPEAKER_03]  generando esas redes de conocimiento y trabajando por ese tipo de formación y esa articulación tan importante.
+[SPEAKER_00]  Así es.
+[SPEAKER_03]  Entre esos niveles educativos no todos trabajan.
+[SPEAKER_03]  o trabajamos.
+[SPEAKER_03]  tan fuerte como quisiéramos en eso y hay personas que nacen con ese don.
+[SPEAKER_03]  de transmitir y entender cómo transmitir esas...
+[SPEAKER_03]  esos ejercicios, esos talleres, esos trabajos.
+[SPEAKER_03]  y esos retos a los niños y a los jóvenes en el área de programación. Entonces, pues agradecerte.
+[SPEAKER_03]  el que haya se está partiendo ese trabajo con nosotros.
+[SPEAKER_03]  Y pues esta es la oportunidad también para dársela a conocer a las personas y cómo podemos trabajar con eso, cómo podemos integrarnos.
+[SPEAKER_03]  Y cómo podemos aprovechar esas oportunidades que de repente la vida nos...
+[SPEAKER_03]  nos brinda para transmitir lo que sabemos.
+[SPEAKER_03]  Bien.
+[SPEAKER_00] 
+[SPEAKER_03]  Eso era lo que iba a decir Manuel.
+[SPEAKER_03]  Los dejo para continuar. Ellos son muy juiciosos. Ahí es donde los tienen una metodología a seguir con las preguntas.
+[SPEAKER_00]  dejo para
+[SPEAKER_03]  Son detallados, entonces, claro, ahí voy yo como a articularme esas preguntas que tengo aquí en mi soplete, aquí miro así.
+[SPEAKER_03]  A ver si nos falta alguna o si ya las cumplimos, Manu.
+[SPEAKER_07]  lo cumplimos, Manu. Un recorrido muy bueno.
+[SPEAKER_07]  que tal vez unas moralejas
+[SPEAKER_07]  Hemos entrevistado...
+[SPEAKER_07]  colegas tuyos también de la nacional que están en Australia, por ejemplo, un colega.
+[SPEAKER_07]  y hay cierta emoción porque encuentran que esta es su casa.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Así nosotros no seamos de la nacional.
+[SPEAKER_07]  Yo le comentaba en el pasado, yo tenía dos grupos de estudio, uno de los Andes, que éramos cinco, de carreras distintas.
+[SPEAKER_07]  ¿No?
+[SPEAKER_07]  bogotanos
+[SPEAKER_07]  Y tenía dos amigos que eran de la nacional.
+[SPEAKER_07]  y nos reuníamos a estudiar.
+[SPEAKER_07]  ¿Sí?
+[SPEAKER_07]  Yo puedo decir, por ejemplo, que en toda mi época de estudio no hubo una guardiente por ahí, ni nada de ese estilo.
+[SPEAKER_07]  No, el estudio y estudio. Y los dos de la Nacional.
+[SPEAKER_07]  Tenían esa...
+[SPEAKER_07]  esa independencia, esa pasión propia dentro de ellos. Y estudiaban porque querían estudiar, no tanto porque le estaban ordenando.
+[SPEAKER_07]  De tal manera que aquí encuentras que te vas, estás en...
+[SPEAKER_07]  la Florida.
+[SPEAKER_07]  Colombia es tu casa y este mundo académico.
+[SPEAKER_07]  Sigue acogiéndote, porque por eso estás invitado por la profesora Sandra.
+[SPEAKER_07]  nosotros que te acabamos de conocer.
+[SPEAKER_07]  Yo creo que si hay alguna conclusión que quieras decir.
+[SPEAKER_07]  de lo que hemos hablado y vamos cerrando la conversación.
+[SPEAKER_08]  Pues, con conclusión, no quisiera ser aún. Apenas voy a empezar mi...
+[SPEAKER_08]  Mi cuarta década.
+[SPEAKER_08]  Yo tengo 38 años.
+[SPEAKER_08]  Voy a empezar mi cuarta década, entonces quiero no hacer conclusiones aún. Muy agradecido por la oportunidad, incluso...
+[SPEAKER_08]  la oportunidad que me dieron a mí mismo de ponerme a pensar en esos tiempos. A veces uno está tan enfocado en que...
+[SPEAKER_08]  Mañana toca esto, esta semana esto, otro.
+[SPEAKER_08]  Y ahorita, con las notificaciones que me hacía el profesor Manuel,
+[SPEAKER_08]  Que recuerda que este viernes tenemos, ya yo tenía como en mente recordar las fechas, así salí del colegio, así quería hacer esto. Entonces esa pausa la agradezco mucho para mirar un poquito atrás, tomar impulso para acceder adelante.
+[SPEAKER_04]  No.
+[SPEAKER_07]  Bueno, ¿y la doctora Beatriz se quiere poner su cámara?
+[SPEAKER_07]  Peinadita.
+[SPEAKER_02]  Desde luego que estoy peinadita y estoy organizada así, claro, no la pongo.
+[SPEAKER_02]  Tengo que cambiar, tal vez tengo mi fondo de Redúcate porque estamos en pleno evento. ¿Cómo están? Un saludito a todos, qué rico verlos.
+[SPEAKER_07] 
+[SPEAKER_07]  Gracias.
+[SPEAKER_05]  bien.
+[SPEAKER_07]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Ya te sabes que es la directora ejecutiva, así reis, la maratón está en eso.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  Ella viaja todos los años al exterior con...
+[SPEAKER_07]  con Rafa y con los demás, el profesor Rodrigo Cardoso.
+[SPEAKER_07]  las naciones siempre ganan, ¿no?
+[SPEAKER_07]  Mmm.
+[SPEAKER_07]  está súper
+[SPEAKER_02]  Normalmente.
+[SPEAKER_07]  Gracias.
+[SPEAKER_02]  No lo dejo en siempre, normalmente.
+[SPEAKER_07]  Normalmente, normalmente. No siempre gano. Últimamente hay competencia dura.
+[SPEAKER_02]  Gracias.
+[SPEAKER_07]  Gracias.
+[SPEAKER_02]  aro
+[SPEAKER_02]  Se luce en las universidades públicas como la tecnológica de Pereira también.
+[SPEAKER_07]  Se luce en la...
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  De acuerdo, de acuerdo.
+[SPEAKER_07]  Y bueno, es una agrupación grande. Edgar, que el profesor Edgar quiere decir algo.
+[SPEAKER_00]  Sí.
+[SPEAKER_00]  Yo quisiera...
+[SPEAKER_00]  preguntarte Alfredo pues tú ya estás ya eres un
+[SPEAKER_00]  trabajador globalizado.
+[SPEAKER_00]  Y obviamente lo haces desde acá o seguramente desde cualquier lugar del mundo y te irás a Miami precisamente.
+[SPEAKER_00]  en trabajos
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  que afectan la globalidad.
+[SPEAKER_00]  ¿Cómo tú consideras que...?
+[SPEAKER_00]  deberíamos también aprovechar este tipo de contraste que tienes con otros profesionales del mundo.
+[SPEAKER_00]  y qué diferencias de formaciones ves que nosotros deberíamos tener en cuenta para formar a nuestros estudiantes. Aparte del bilingüismo, ¿alguna otra cosa que propongas como oportunidad de mejora para que nosotros en nuestros currículos tengamos en cuenta para que sean?
+[SPEAKER_00]  profesionales globales.
+[SPEAKER_08]  Sí, tengo una idea al respecto.
+[SPEAKER_08]  Un segundo, por favor.
+[SPEAKER_08]  que partía de ciertas experiencias que tuve.
+[SPEAKER_08]  A raíz de lo que comentaba, que muchos de mis compañeros de escuela entraron a otras carreras, a física, a química.
+[SPEAKER_08]  Y una cosa que yo veía era que...
+[SPEAKER_08]  Los esfuerzos son muy independientes en todas las facultades. Entonces, mi amigo, por ejemplo, de física.
+[SPEAKER_08]  A veces me pedía ahí el favor, ayúdame con esto, y yo veía que estaban programando una cosa que hubiese sido muy sencilla para un estudiante.
+[SPEAKER_08]  de sistemas, pero hay como un cierto orgullo de ir a pedir favor a la otra facultad para que me haga esto. Y lo mismo pasaba del otro lado. Entonces estábamos en conversaciones y...
+[SPEAKER_00]  Y lo mismo.
+[SPEAKER_08]  Y vamos a ver cómo usamos este algoritmo de palabras para entender en...
+[SPEAKER_08]  en
+[SPEAKER_08]  En biología molecular, cómo hacer estos arreglos. Entonces, nos da pena ir allá a biología a preguntar, a que nos expliquen bien cómo funciona esto, que trabajen con nosotros, que ustedes entiendan. Y queremos hacer como cada quien su esfuerzo independiente. Entonces, eso es una cosa que a mí me parece que hace falta mejorar.
+[SPEAKER_08]  no solo a nosotros en la nacional, sino en otras experiencias que he visto y es...
+[SPEAKER_08]  ¿Cómo?
+[SPEAKER_04]  Gracias.
+[SPEAKER_08]  desde arriba.
+[SPEAKER_08]  dar el ejemplo de mancomunas, de trabajo mancomunado, que uno vea su...
+[SPEAKER_08]  A sus propios decanos, a sus propios profesores, a sus propios...
+[SPEAKER_08]  cómo trabajan conjuntos sin vergüenza, prácticamente parece una cuestión como de orgullo, como decir yo no voy a ir allá a pedirles ellos este favor porque yo lo puedo hacer yo mismo.
+[SPEAKER_08]  sino algo más como...
+[SPEAKER_08]  lo que promueven estas experiencias de...
+[SPEAKER_08]  de robótica, que hay un grupo grande y gente de disciplina. Tú estás en otra cosa y yo arreglo por este lado y luego unimos.
+[SPEAKER_05]  Interdisciplinar.
+[SPEAKER_08]  creo que hace falta un poco más de eso, de dejar un poco el orgullo al lado.
+[SPEAKER_08]  y hacer más trabajo transversal entre facultades. Entre facultades.
+[SPEAKER_08]  Fantástico.
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  Sin desmeritar que sí hay muchos, por ejemplo, el grupo de investigación llega gente de todas partes, pero creo que hace falta más eso, gente haciendo esfuerzos. Por ejemplo, un sistema en el que yo entre y mire, aquí hay alguien trabajando en esto, que finalmente la...
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  las revistas indexadas y estos como...
+[SPEAKER_08]  programas que uno ve
+[SPEAKER_08]  en la red que uno busca que estás quién está trabajando en esto
+[SPEAKER_08]  Y la...
+[SPEAKER_08]  Las publicaciones lo que intentan es como decirle a la comunidad, yo estoy trabajando en esto, si alguien quisiera, contáctenme y trabajamos juntos. Entonces tal vez a nivel universidades también tener, aquí en el grupo estamos trabajando en esto y necesitamos a esta gente o si quieren contáctenos aquí, tenemos disponibilidad para que vengan.
+[SPEAKER_08]  y ese tipo de cosas.
+[SPEAKER_08]  un sistema de esas características.
+[SPEAKER_08]  podría ser muy útil.
+[SPEAKER_08]  Porque, por ejemplo, nosotros tenemos germes.
+[SPEAKER_08]  Pero no veo a Hermes como...
+[SPEAKER_08]  como una cosa en la que la gente va y mire para ver quién está trabajando en algo, sino más bien como algo de burocracia en la que yo voy.
+[SPEAKER_08]  siguiendo unos pasos que me está dando la victoria.
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  O sea, que sea más como estilo Facebook.
+[SPEAKER_05]  Bien, señor Cohen.
+[SPEAKER_08]  a Pepito le gusta la robótica o este grupo está trabajando en aquello y me interesa, háblame más de eso cosas de ese estilo serían súper interesantes
+[SPEAKER_08]  Muchas gracias.
+[SPEAKER_07]  Me da vueltas esa idea de la integración, creo.
+[SPEAKER_05]  Gracias.
+[SPEAKER_07]  las ciencias para la vida, las ciencias y tecnologías para la vida.
+[SPEAKER_07]  que siempre hablamos mucho nosotros de eso, hoy en día interactuamos.
+[SPEAKER_07]  Y yo digo, la tecnología ya no es de nosotros, sino de la sociedad.
+[SPEAKER_07]  y interactuamos con filósofos, filólogos.
+[SPEAKER_07]  psicólogos.
+[SPEAKER_07]  Sí, no se quedan matemáticos, solamente ingenieros.
+[SPEAKER_07]  No sé, abogados. En la CISA hay abogados que son miembros de la asociación, porque tiene seguridad.
+[SPEAKER_07]  Entonces ya la vida está llena de tecnología.
+[SPEAKER_07]  Y ahí es donde está una de las grandes responsabilidades éticas de nosotros.
+[SPEAKER_07]  Hemos sacado con Beatriz una revista sobre ética digital.
+[SPEAKER_07]  Nos reunimos filósofos, ingenieros.
+[SPEAKER_07]  y ya hay una integración de las profesiones. Y ayer que estaba...
+[SPEAKER_07]  En el IGAC, estoy hablando de satélites.
+[SPEAKER_07]  Es un tema de física, matemática e ideología.
+[SPEAKER_07]  Por ejemplo, ¿no?
+[SPEAKER_07]  Física, matemática, biología y mecánica.
+[SPEAKER_07]  No.
+[SPEAKER_07]  y muchos otros ingredientes obviamente.
+[SPEAKER_07]  Mmm.
+[SPEAKER_07]  Entonces hay una integración ya.
+[SPEAKER_07]  Es muy bueno lo que mencionas.
+[SPEAKER_07]  debe impulsarse esa integración de profesiones.
+[SPEAKER_05]  Sí, señor.
+[SPEAKER_07]  Bueno.
+[SPEAKER_03]  Mira que la solución que te propone Alfredo está ahí para todos nosotros en los sistemas de nuestras facultades y nuestra universidad, porque tenemos montado el sistema.
+[SPEAKER_07]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Porque...
+[SPEAKER_00] 
+[SPEAKER_03]  pero es un sistema muy sólido que no permite la interrelación o interconexión entre los investigadores y las personas que adelantan los trabajos.
+[SPEAKER_03]  Ese módulo no está.
+[SPEAKER_03]  Entonces nos queda el trabajo con Edgar, adelantarlo en cada una de nuestras instituciones, saber cómo nos va con el prototipo por lo menos.
+[SPEAKER_05]  Gracias.
+[SPEAKER_08]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Sí, valido.
+[SPEAKER_08]  Incluso eso, que pues eso es una idea, pero si se le pregunta a la gran comunidad, seguramente habrán un montón más de ideas que van aportando y van llenando.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Muchas gracias.
+[SPEAKER_07]  Pues muy bien, bueno, yo creo que, fíjate que por ejemplo con el chat chiquitito, estas cosas.
+[SPEAKER_07]  El trabajo con lenguaje natural, yo trabajo en minería de opiniones y análisis de sentimientos y desarrollo software en ese sentido.
+[SPEAKER_07]  Eso fue el primario, y con eso vamos a comparar con lo que hacen estos gringos tan impresionantes.
+[SPEAKER_07]  Pero a mí ya me toca.
+[SPEAKER_07]  Trabajar en el tema de adjetivos, sustantivos, verbos, conexión, sinonimia.
+[SPEAKER_07]  etcétera
+[SPEAKER_07]  como ingeniero de sistemas.
+[SPEAKER_07]  Entonces la integración, por ejemplo, con el lenguaje natural hoy en día es enorme.
+[SPEAKER_07]  y el tema de la inteligencia artificial en ese sentido.
+[SPEAKER_07]  Bueno, y muchas otras cosas como tú no las has expuesto en tu trabajo.
+[SPEAKER_07]  Eh...
+[SPEAKER_07]  Creo que con eso...
+[SPEAKER_07]  Vamos cerrando, si les parece. Sí, está bien.
+[SPEAKER_07]  Muy interesante oírte, vuelvo a decir que estoy...
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_07]  Colombia es tu casa.
+[SPEAKER_07]  Nosotros barranquillas, ¿no? Bogotá también.
+[SPEAKER_07]  y ahora Miami.
+[SPEAKER_07]  Y no olvidar que Barranquilla es...
+[SPEAKER_07]  La Miami de Colombia.
+[SPEAKER_07]  Y ya me...
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias por ver el video.
+[SPEAKER_04]  Gracias.
+[SPEAKER_07]  Eso es lo que dicen.
+[SPEAKER_07]  Entonces, Beatriz, todo bien, Beatriz, y vamos a ir cerrando. Kevin, pones la cámara para que creas que está en práctica profesional.
+[SPEAKER_07]  con la sisa.
+[SPEAKER_07]  Gracias.
+[SPEAKER_02]  ¿No?
+[SPEAKER_02]  Perfecto, todo muy bien, desde luego. Vamos a ver con la cámara de todos para la foto del recuerdo, porque como dice Manuel...
+[SPEAKER_02]  Vamos a un libro con todas estas entrevistas tan interesantes y toda esta historia que tenemos aquí acumulada.
+[SPEAKER_00]  Eh...
+[SPEAKER_00]  Beatriz, yo aprovechando que Kevin está ahí, que es estudiante mío.
+[SPEAKER_00]  y que esta entrevista creo que le llega muy cercana.
+[SPEAKER_00]  Quisiera escuchar tu opinión alrededor de, después de haber escuchado todas las anteriores que son más históricas, esta es más actualizada y contemporánea para tu generación.
+[SPEAKER_00]  ¿Qué opinas al respecto?
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  términos generales.
+[SPEAKER_01]  Pues...
+[SPEAKER_01]  Se...
+[SPEAKER_01]  Tiempo es ir.
+[SPEAKER_01]  La verdad...
+[SPEAKER_01] 
+[SPEAKER_01]  Últimamente como que lo que me he dado cuenta es como que uno entra a la universidad y piensas como más en lo técnico o práctico.
+[SPEAKER_01]  Como que, bueno, vamos a... Yo me metí a esta carrera pues porque yo quiero ser programador o quiero ser alguien en la vida que...
+[SPEAKER_01]  Díganme, bueno, porque esa es la verdad, todos entramos más pensando en lo económico.
+[SPEAKER_01]  más no en lo personal.
+[SPEAKER_01]  Y a medida que uno va avanzando, como que se da uno cuenta que...
+[SPEAKER_01]  que a medida de lo profesional también puede uno formar un perfil.
+[SPEAKER_01]  O sea, a medida que uno va avanzando en lo profesional, uno puede ir formando un perfil más personal.
+[SPEAKER_01]  y dándose cuenta de también que
+[SPEAKER_01]  ¿Qué es uno? ¿Qué habilidades tiene uno?
+[SPEAKER_01]  Y como...
+[SPEAKER_01]  cómo eso también va formando la vida de uno.
+[SPEAKER_01]  y
+[SPEAKER_01]  Y es lo que decía él, o sea, como que...
+[SPEAKER_01]  Me pareció muy chévere lo que dijo que volviera al colegio.
+[SPEAKER_01]  y darle clases a niños de sexto o séptimo.
+[SPEAKER_01]  Es algo que...
+[SPEAKER_01]  Hace poquito hablé con el rector de mi colegio.
+[SPEAKER_01]  Y él me decía que sería chévere como que fuera a darle la clase y uno decía como, uy.
+[SPEAKER_01]  Claro, sería bacano como eso, pero...
+[SPEAKER_01]  Es como...
+[SPEAKER_01]  como
+[SPEAKER_01]  como que a uno le nace eso de verdad como de...
+[SPEAKER_01]  de querer hacerlo porque ya es como
+[SPEAKER_01]  como que nace la persona de uno, si me hago entender, no es como que si yo ya,
+[SPEAKER_01]  ahí pasa mucho en los profesores
+[SPEAKER_01]  No porque tú sepas de un tema significa que puedes enseñarlo.
+[SPEAKER_01]  Tienes que primero ser muy...
+[SPEAKER_01]  Muy bien.
+[SPEAKER_01]  muy persona, como que tener esa empatía.
+[SPEAKER_01]  para poder entender y para poder enseñar.
+[SPEAKER_01]  Entonces como que eso ya lo he aprendido solo estos últimos semestres.
+[SPEAKER_01]  Ojalá lo hubiera entendido desde el inicio, pero...
+[SPEAKER_01]  Pero eso es lo que me ha llevado de todas estas...
+[SPEAKER_01]  estas entrevistas
+[SPEAKER_01]  Esto te cambió la vida.
+[SPEAKER_01]  Sí, no, sí, para que... Yo le decía a Beto, dice eso, sí.
+[SPEAKER_01]  De pronto el trabajo no es como muy...
+[SPEAKER_01]  Tranquilo porque corremos mucho, pero...
+[SPEAKER_01]  Pero eso es lo que más me ha gustado, me ha enamorado es eso, como que...
+[SPEAKER_01]  darse cuenta de que hay muchas...
+[SPEAKER_01]  Muchas perspectivas porque uno...
+[SPEAKER_01]  digamos que el perfil del taizista es muy cerrado
+[SPEAKER_01]  Sí, eso pasa mucho porque tengo amigos de los Andes o de la Javeriana.
+[SPEAKER_01]  Y como que, pues, al inicio cuando nos conocíamos es como, ¿y tú dónde estudias? Y yo decía, no, en la Tadeo.
+[SPEAKER_01]  Y decían como, ah, de razón.
+[SPEAKER_01]  y uno como que, uy, ¿cómo así? Entonces, claro, uno se va dando cuenta y es que...
+[SPEAKER_01]  Los estadistas tendemos a ser muy cerrados, cada perfil de cada universidad es muy distinta, pero también tendemos a ser muy culturales y muy abiertos.
+[SPEAKER_01]  Entonces, como que esa perspectiva de poder escuchar, no la tienen todos y eso también siento que...
+[SPEAKER_01]  que me siento muy feliz por haber estado en la universidad y también por estas prácticas que me han...
+[SPEAKER_01]  Me han rodeado de gente que uno nunca piensa rodearse o escuchar, porque es como que, uy, es el decano de la universidad de tal parte, o es el profesor de tal parte, o es el director de tal empresa.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Pero como que escucharlo y darse cuenta de que...
+[SPEAKER_01]  está su perfil, su hoja de vida, porque tengo un conflicto con esa palabra.
+[SPEAKER_01]  Porque hoja de vida no...
+[SPEAKER_01]  En las hojas de vida la gente no escribe de verdad de su vida, es como su perfil profesional.
+[SPEAKER_01]  No está subida en sí, pero cuando la escuchas te das cuenta como que huisa.
+[SPEAKER_01]  O sea, como que darte cuenta que hay algo mucho más detrás de él.
+[SPEAKER_01]  de un cartón
+[SPEAKER_01]  Es chévere.
+[SPEAKER_00]  y estarías dispuesto a, porque debes aprovechar que aquí tenemos los contactos, Alfredo José, pues ya.
+[SPEAKER_00]  queda como parte de nuestra red.
+[SPEAKER_00]  podrías tú aprovechar e invitarla a una de nuestras clases, ¿no crees?
+[SPEAKER_01]  Sí, claro, claro que sí. Ya quedó planillado.
+[SPEAKER_00]  Ya quedó planillado. Desde que el periódico tenga tiempo de sábado, San Miguel. Mantén la relación y no saber si...
+[SPEAKER_00]  Tú coordínase ahí con Alfredo para que nos dé una charlita en una clase.
+[SPEAKER_05]  Ok, chisquinha.
+[SPEAKER_00]  No.
+[SPEAKER_00]  Bueno, muchas gracias.
+[SPEAKER_02]  Gracias, Efe.
+[SPEAKER_07]  esta entrevista, de verdad que sí. Muy buena tu intervención, Kevin. Nota 5 sobre 5.
+[SPEAKER_07]  Gracias.
+[SPEAKER_07]  Me gusta mucho oírlos.
+[SPEAKER_04]  Me gusta mucho.
+[SPEAKER_07]  Bueno, pídese a Alfredo todo lo que hace de tu conversación aquí con Kevin.
+[SPEAKER_07]  Está terminando su carrera.
+[SPEAKER_07]  Vamos a cerrar y gracias a todos. Alfredo, mucha suerte. Aquí estamos.
+[SPEAKER_07]  Pues ahora le viene en contacto.
+[SPEAKER_03]  Estaré para lo que necesites, Alfredo, como siempre.
+[SPEAKER_03]  Una llamada a una amiga que se acuerde de mí.
+[SPEAKER_07]  Gracias.
+[SPEAKER_08]  llamada
+[SPEAKER_08]  Igualmente tienen ahí mi contacto y lo que pueda servir, serviré.
+[SPEAKER_08]  Muy querido, Alfredo.
+[SPEAKER_03]  Gracias.
+[SPEAKER_08]  Te seguimos, qué bueno. Gracias. Muy buena tarde a todos.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_08]  ¿Qué es lo que...
+[SPEAKER_05]  Que estén bien, hasta luego todos. Feliz tarde, que estén bien, adiós.
+[SPEAKER_03]  Muy bien, a ser vergonzada.
+[SPEAKER_08]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_08]  a todos, que estén bien, adiós
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Hasta luego.
+[SPEAKER_05]  Cuidado, amigos.
+[SPEAKER_05]  No sé salir.
+[SPEAKER_00]  Se ha osadito.
