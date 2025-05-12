@@ -1,0 +1,1741 @@
+[SPEAKER_03]  ¡Uy!
+[SPEAKER_00] 
+[SPEAKER_03]  Bueno, estamos con Yesenia Silva de la Universidad, gradado en la Universidad Nacional.
+[SPEAKER_03]  y el grupo que siempre hemos acompañado, aquí está en este momento el profesor Edgar Ruiz.
+[SPEAKER_03]  Beatriz Caicedo de Asís, Kevin, como buen máster.
+[SPEAKER_03]  Estamos esperando también a Sandra Liliana Rojas.
+[SPEAKER_03]  Y Rafael García está en la maratón de programación, que es exigentísima, él no puede estar, pero es del grupo.
+[SPEAKER_03]  Entonces,
+[SPEAKER_03]  La entrevistadora debe ser Sandra, pero...
+[SPEAKER_03]  Si llega, seguirá ella de todas maneras.
+[SPEAKER_03]  Lo que queremos es escuchar el proceso de...
+[SPEAKER_03]  de Yesenia.
+[SPEAKER_03]  No sé si Edgar quiere comentar algo como introductorio y arrancamos.
+[SPEAKER_04]  No, Yesenia, pues básicamente...
+[SPEAKER_04]  Nosotros hemos entrevistado personas desde...
+[SPEAKER_04]  el nacimiento de la carrera.
+[SPEAKER_04]  aquí en Colombia y pues hemos tenido distintas visiones.
+[SPEAKER_04]  de acuerdo con su formación, de acuerdo con el currículo que siguieron.
+[SPEAKER_04]  de acuerdo con su relación con la tecnología, en sus diferentes experiencias laborales.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  y de acuerdo también a las experiencias académicas posteriores.
+[SPEAKER_04]  Entonces, pues más o menos lo que queremos es, como en este sentido...
+[SPEAKER_04]  ¿Tú cómo has participado en toda esa evolución? Y bien lo decía Manuel.
+[SPEAKER_04]  Quisiéramos saber desde el interés que te...
+[SPEAKER_04]  Sergio Andes.
+[SPEAKER_04]  Es de ingles, ¿sabes la que es?
+[SPEAKER_03]  Exacto. Mientras tú hablas, yo tomo algunas noticas, pero no creas que es que estoy en...
+[SPEAKER_03]  mandando correos ni nada de ese estilo
+[SPEAKER_03]  Entonces, por si me quieres escribir y todo. Entonces, adelante, Yesenia.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Bueno, pues yo me gradué del colegio en...
+[SPEAKER_01]  el año 2009.
+[SPEAKER_01]  Estudié en un colegio público en Mosquera, Cundinamarca.
+[SPEAKER_01]  Mmm.
+[SPEAKER_01]  Mi interés por estudiar Ingeniería de Sistemas surgió en el colegio, en la clase de...
+[SPEAKER_01]  en el curso de sistemas.
+[SPEAKER_01]  que nos enseñaban cosas como...
+[SPEAKER_01]  principalmente cómo utilizarlo.
+[SPEAKER_01]  las herramientas de Ofimática.
+[SPEAKER_01]  Y ya en el último curso, en 11...
+[SPEAKER_01]  una profesora, la profesora que teníamos.
+[SPEAKER_01]  un poco también con el concepto de algoritmo.
+[SPEAKER_01]  Y entonces ahí me surgió como...
+[SPEAKER_01]  como esa intriga de saber cómo funcionaba el computador que estábamos usando.
+[SPEAKER_01]  porque no lo usábamos para...
+[SPEAKER_01]  cosas como muy avanzadas, más que hacer como presentaciones en PowerPoint.
+[SPEAKER_01]  hace como planas de mecanografía y esas cosas.
+[SPEAKER_01]  Pero sí, o sea, me...
+[SPEAKER_01]  Me inquietaba mucho saber cómo funcionaba, qué estaba pasando ahí en la CPU.
+[SPEAKER_01]  y en los pocos conceptos que nos enseñaron ya como de computación.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Sí, sí me he dado mucha edad.
+[SPEAKER_01]  curiosidad, saber qué pasaba por dentro, por dentro del computador y creo que ahí fue donde nació como...
+[SPEAKER_01]  mi interés por la ingeniería de sistemas y por...
+[SPEAKER_01]  querer estudiar esta carrera.
+[SPEAKER_01]  Entonces, pues en 2009 me gradué.
+[SPEAKER_01]  Inmediatamente entré a estudiar Ingeniería de Sistemas.
+[SPEAKER_01]  y computación en la Universidad Nacional de Colombia.
+[SPEAKER_01]  en el primer semestre de 2010.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Ahí.
+[SPEAKER_01]  Cuando ingresé el primer semestre, pues se me hizo duro.
+[SPEAKER_01]  o difícil
+[SPEAKER_01]  sobre todo la materia de cálculo diferencial, o sea, yo sentía que no estaba preparada para...
+[SPEAKER_01]  para esa materia a pesar de que no me tocó hacer la nivelación de matemáticas.
+[SPEAKER_01]  Y después del primer parcial dije como no y terminé cancelándola y siendo asistente.
+[SPEAKER_01]  de matemáticas básicas en una clase.
+[SPEAKER_01]  Y así estuve todo este semestre hasta que de verdad me nivelé en los conceptos que necesitaba.
+[SPEAKER_01]  Y al siguiente pues ya retomé.
+[SPEAKER_01]  ¿Sabes? Y fue, digamos, dura porque...
+[SPEAKER_01]  Sabía que me iba a atrasar porque ese era el requisito para todas las otras.
+[SPEAKER_01]  materias que...
+[SPEAKER_01]  que siempre eran creo que tres.
+[SPEAKER_01]  Entonces, pues ahí estuve como atrasada todos los siguientes semestres por esa decisión, pero pues...
+[SPEAKER_01]  Fue la mejor decisión porque...
+[SPEAKER_01]  sino creo que no hubiera logrado pasar esa materia con...
+[SPEAKER_01]  los conocimientos que tenía de base.
+[SPEAKER_01]  Después...
+[SPEAKER_01]  ¿Qué materias me gustaron mucho en la carrera? Me gustó mucho la materia de bases de datos, aprendí muchísimo.
+[SPEAKER_01]  tenía un profesor
+[SPEAKER_01]  bastante bueno que transmitía sus conocimientos.
+[SPEAKER_01]  muy dinámicamente.
+[SPEAKER_01]  Y otras materias que también me gustaron mucho fueron ingeniería de software.
+[SPEAKER_01]  y arquitectura de software.
+[SPEAKER_03]  Eh...
+[SPEAKER_03]  Puedes mencionar nombres de los propios cuando quieras, ¿no? Es parte del tema. Y todo lo que puedas.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  El profesor de base de datos, no recuerdo su nombre.
+[SPEAKER_01]  Bien, bien, bien.
+[SPEAKER_00]  Bien.
+[SPEAKER_00]  software
+[SPEAKER_00]  Eh...
+[SPEAKER_00]  y se me escapa el nombre del profe.
+[SPEAKER_03]  No importa, no importa.
+[SPEAKER_00]  No.
+[SPEAKER_03]  ¿De acuerdo?
+[SPEAKER_00]  Sí, listo.
+[SPEAKER_00]  Y...
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Y sí, esas materias me gustaron bastante. En la universidad también.
+[SPEAKER_01]  Cuando iba como en sexto o séptimo semestre tal vez, no, cuando iba como en sexto semestre.
+[SPEAKER_01]  decidí aplicar al programa de mejores promedios.
+[SPEAKER_01]  para aprender
+[SPEAKER_01]  francés y hacer un intercambio académico en Francia.
+[SPEAKER_01]  Entonces en el año...
+[SPEAKER_01]  2013
+[SPEAKER_01]  Para el segundo semestre de 2013 empecé el intercambio académico.
+[SPEAKER_01]  en una universidad.
+[SPEAKER_01]  en Francia que en ese momento la universidad se llamaba
+[SPEAKER_01]  Université Paris.
+[SPEAKER_01]  y me arreglé la oale.
+[SPEAKER_01]  Actualmente la universidad cambió de nombre, se llama...
+[SPEAKER_01]  Universidad Gustavo
+[SPEAKER_01]  Eiffel
+[SPEAKER_01]  Allá estuve un año.
+[SPEAKER_01]  pues viendo materias de...
+[SPEAKER_01]  el máster 1 de informática.
+[SPEAKER_01]  y vi cosas como...
+[SPEAKER_01]  de programación en Python, de criptografía.
+[SPEAKER_01]  Mmm...
+[SPEAKER_01]  materias de...
+[SPEAKER_01]  del lenguaje.
+[SPEAKER_01]  Y pues también...
+[SPEAKER_01]  pero nos hemos avanzado para...
+[SPEAKER_01]  para terminar de...
+[SPEAKER_01]  de complementar el estudio en francés.
+[SPEAKER_01]  Y yo cuando regresé...
+[SPEAKER_03]  ¿En qué ciudad es la universidad?
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Marne la Valé se llamó.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Claro, claro.
+[SPEAKER_00]  ciudad.
+[SPEAKER_01]  Sí, Marni Lavallee.
+[SPEAKER_01]  Ah, se llama...
+[SPEAKER_00]  se llama
+[SPEAKER_01]  Sí, es una ciudad universitaria.
+[SPEAKER_01]  pequeñita que queda en Ile-de-France.
+[SPEAKER_01]  O sea, está París.
+[SPEAKER_01]  que es la zona 1
+[SPEAKER_01]  soy zona 2, 3 y era en la zona 4, o sea, cerquita a París.
+[SPEAKER_01]  y
+[SPEAKER_01]  Y ya luego regresé, pues homologué las materias.
+[SPEAKER_01]  bastantes fueron como por electivas
+[SPEAKER_01]  Y pues continuar.
+[SPEAKER_01]  la formación en la universidad.
+[SPEAKER_01]  y empecé a hacer la práctica profesional en el Banco de la República.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Inicialmente iba a ser los seis.
+[SPEAKER_01]  los seis meses de práctica.
+[SPEAKER_01]  Hice los seis, en el banco me preguntaron si quería continuar y pues dado que me quedaba solo creo que una materia para el último semestre.
+[SPEAKER_01]  Entonces decidí continuar y hice la última batería que me quedaba.
+[SPEAKER_01]  y repetí
+[SPEAKER_01]  Repetí la práctica.
+[SPEAKER_01]  Entonces estuve un año haciendo práctica en el Banco de la República.
+[SPEAKER_01]  en el Departamento de Seguimiento a la Infraestructura Financiera.
+[SPEAKER_01]  y fue muy chévere.
+[SPEAKER_01]  porque estuve trabajando en un proyecto de inteligencia de negocios.
+[SPEAKER_01]  Estaba en la etapa de...
+[SPEAKER_01]  Así era el diseño de la bodega de datos.
+[SPEAKER_01]  para ese proyecto.
+[SPEAKER_01]  Entonces estuve trabajando en eso.
+[SPEAKER_01]  Y ahí ya.
+[SPEAKER_01]  Llega el momento en que me gradué en...
+[SPEAKER_01]  Agosto 2016.
+[SPEAKER_01]  y
+[SPEAKER_01]  Y en el banco me proponen continuar trabajando en ese proyecto, pero como...
+[SPEAKER_01]  no como empleada del banco, sino a través de la temporal.
+[SPEAKER_03]  Como ya te me graduaste, entonces te vamos a encharrucar de regreso en la máquina del tiempo.
+[SPEAKER_01]  Y...
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05] 
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Ya se nos graduó. Yo sabía que...
+[SPEAKER_05] 
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  jajaja
+[SPEAKER_03]  Y de otras cosas, el profesor Edgar trabajó en el Banco de la República. Sí.
+[SPEAKER_04]  Sí, yo lo pregunto.
+[SPEAKER_03]  Y ahora seguramente él comentará porque el banco fue una escuela maravillosa, ha sido, ¿no?
+[SPEAKER_03]  Y lo fue.
+[SPEAKER_04]  Fue...
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  en esas épocas.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  en la universidad un poco, el ambiente.
+[SPEAKER_03]  colegas, amigos, actividades distintas al estudio.
+[SPEAKER_03]  o deportes, o arte, o esto.
+[SPEAKER_03]  ¿Cómo fue esa evidencia?
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Bueno, cuando...
+[SPEAKER_01]  me acuerdo la semana de inducción
+[SPEAKER_01]  Entré ahí, o sea, para mí fue sorprendente ver tantos niños porque...
+[SPEAKER_01]  Creo que fuimos como 87 admitidos a la carrera.
+[SPEAKER_01]  Y solo tres niñas.
+[SPEAKER_04]  Ah, exactamente.
+[SPEAKER_01]  Tres, nos graduamos.
+[SPEAKER_04]  Ya, las tres se estuvieron todo el tiempo.
+[SPEAKER_01]  las tres...
+[SPEAKER_01]  Sí, solamente tres de 87.
+[SPEAKER_01]  Venía yo del colegio femenino.
+[SPEAKER_00] 
+[SPEAKER_01]  Entonces sí.
+[SPEAKER_01]  Pero pues hice muy buenos amigos.
+[SPEAKER_01]  Amiga también de las otras dos niñas.
+[SPEAKER_01]  y también trabajamos en algunos proyectos en diferentes materias.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Hice dos muy buenos amigos que con ellos también viajé al intercambio en Francia.
+[SPEAKER_01]  Aún seguimos siendo amigos.
+[SPEAKER_01]  y pues trabajábamos muy bien en lo académico.
+[SPEAKER_01]  y también en actividades extracurriculares.
+[SPEAKER_03]  y en la tía de la estrofa.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  que más cosas vamos a ver
+[SPEAKER_03]  ¿Cómo sentías eso? Tú sabes que hoy en día el tema del género es todo un tema.
+[SPEAKER_03]  estudiado.
+[SPEAKER_03]  ¿Cómo sentías eso como mujer, casi todos hombres?
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  bien, sin muchas diferencias, o como lo dijiste.
+[SPEAKER_04]  Sí, fue un reto para ti esa adaptación ahí.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  En realidad no se sentía como muchas diferencias.
+[SPEAKER_01]  Lo único de pronto era que en las clases uno resaltaba por ser mujer.
+[SPEAKER_01]  Entonces sí, siempre...
+[SPEAKER_01]  Al que le preguntaban era uno.
+[SPEAKER_01]  como ese tipo de cosas, pero...
+[SPEAKER_01]  Nunca sentí discriminación ni nada de eso.
+[SPEAKER_04]  Y me acosé.
+[SPEAKER_01]  Y me acusé.
+[SPEAKER_04]  ¿Por qué crees que en esa época solo entraste tú? Podían haber entrado muchas más que...
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  restricciones veías como para que
+[SPEAKER_04]  no hubiera motivación o hubo orientación para que estudiaran esa carrera.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  GA کا
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  No sé, por ejemplo, viéndolo como en mis compañeras del colegio.
+[SPEAKER_01]  La mayoría querían cosas como psicología.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Sí, más como hacia las ciencias humanas.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  muy pocas.
+[SPEAKER_01]  que yo sepa, terminaron estudiando ingeniería.
+[SPEAKER_01]  Y creo que de mi salón, yo fui la única que salió ingeniera de sistemas.
+[SPEAKER_03]  Ok, háblanos un poco también de las tecnologías que había en ese momento.
+[SPEAKER_03]  computador, como era la cuestión.
+[SPEAKER_03]  En esa época.
+[SPEAKER_04]  ¿En qué te apoyaste tecnológicamente para el desarrollo?
+[SPEAKER_03]  Ya está.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Adoles.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Sí, sí, sí.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Vuelta en la...
+[SPEAKER_01]  de eso.
+[SPEAKER_01]  Sí, pues ya había en la universidad, había salas de computadores.
+[SPEAKER_01]  también pues uno como estudiante de ingeniería de sistemas también tenía su propio computador portátil
+[SPEAKER_01]  Yo tuve uno que me duró toda la carrera.
+[SPEAKER_01]  Ehm...
+[SPEAKER_01]  ya no sé, en los celulares.
+[SPEAKER_01]  Mmm...
+[SPEAKER_01]  A mí me dieron mi primer celular para entrar a la universidad, a pesar de que en el colegio todo el mundo ya tenía celulares.
+[SPEAKER_01]  A mí no me daban celular, mi primer celular me lo dieron mis hermanos cuando entré a la universidad.
+[SPEAKER_01]  ya era color.
+[SPEAKER_01]  y era táctil.
+[SPEAKER_01]  Pero...
+[SPEAKER_01]  No tenía para Wi-Fi, solo tenía como para datos.
+[SPEAKER_00] 
+[SPEAKER_01]  sí podía entrar como a redes sociales y eso, pero...
+[SPEAKER_01]  pues con datos salía más costoso, entonces en realidad lo utilizaba más que todo como para llamar.
+[SPEAKER_03]  Muy bien.
+[SPEAKER_03]  Y la universidad tenía...
+[SPEAKER_03]  un centro de cómputo, tenía...
+[SPEAKER_03]  ¿El computador sabías eso?
+[SPEAKER_01]  Sí, sí, ya habían salas de computadores.
+[SPEAKER_01]  No hay tan...
+[SPEAKER_01]  No se me sienta bueno eso, o sea, yo siempre, por ejemplo, prefería llevar mi computador personal, o sea, todos los días cargaba mi maleta pesada, harto ese computador, pero bueno.
+[SPEAKER_00]  los días
+[SPEAKER_01]  Prefería llevarlo porque...
+[SPEAKER_00]  quería llevarlo
+[SPEAKER_01]  En los computadores que había, primero no estaba el software instalado que seguramente yo necesitaba.
+[SPEAKER_01]  y también eran pues lentos.
+[SPEAKER_01]  Entonces, sí.
+[SPEAKER_01]  aunque había recurso y servía para hacer de pronto algunas...
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  algunas tareas que fueran.
+[SPEAKER_01]  de pronto en boro o algo así.
+[SPEAKER_01]  o enviar correos, no.
+[SPEAKER_01]  no como tal para hacer el desarrollo de los proyectos.
+[SPEAKER_03]  Ok.
+[SPEAKER_03]  ¿Cómo era el programa de mejores promedios? ¿Cuál era la idea?
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  El programa de mejores promedios para aplicar había que tener...
+[SPEAKER_01]  Creo que más de cuatro de...
+[SPEAKER_01]  promedio académico ponderado, acumulado.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Creo que más del 60% de la carrera. Ya no recuerdo bien.
+[SPEAKER_05]  Ya no...
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  las características.
+[SPEAKER_01]  Pero era eso, ya cuando lo admitían a uno, entonces...
+[SPEAKER_01]  le daban a uno
+[SPEAKER_01]  Un año y...
+[SPEAKER_01]  Formación en el idioma.
+[SPEAKER_01]  y pues le hacían
+[SPEAKER_01]  un seminario como...
+[SPEAKER_01]  a los de francés, pues un seminario enfocado a la cultura francesa.
+[SPEAKER_01]  También lo guiaban a uno a escribir las cartas de motivación para las universidades.
+[SPEAKER_01]  y hacer como todo el proceso para aplicar a las universidades y poderes.
+[SPEAKER_01]  Poder viajar también.
+[SPEAKER_01]  un poco de acompañamiento.
+[SPEAKER_01]  con el ICETEX para quienes teníamos que pedir algún...
+[SPEAKER_01]  crédito yo por ejemplo
+[SPEAKER_01]  Pedí crédito de sostenimiento.
+[SPEAKER_00] 
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Entonces también teníamos el acompañamiento y como...
+[SPEAKER_01]  el aval de la universidad para que nos ayudaran con los trámites.
+[SPEAKER_03]  Y la experiencia llegará en Francia.
+[SPEAKER_03]  ¿Cómo fue? Digamos ya el idioma, en qué nivel estabas, cómo te sentiste.
+[SPEAKER_03]  Mis islámicos franceses, extranjeros.
+[SPEAKER_03]  Todavía sobre el grupo colombiano, ¿cómo fue?
+[SPEAKER_01]  Para poder viajar el requisito era sacar B2 en el DELF, que es el...
+[SPEAKER_01]  el examen internacional de francés.
+[SPEAKER_01]  entonces pues ya iba con buen nivel de francés.
+[SPEAKER_01]  Pero pues cuando no llega ya también es como, uy, ya no entiendo nada.
+[SPEAKER_01]  porque también los acentos son diferentes, sobre todo ahí en esa zona cercana a París, como que se comen más laces que en otras zonas.
+[SPEAKER_01]  Entonces al principio fue difícil entender y acoplarse.
+[SPEAKER_01]  Las clases creo que sí las entendía porque los profesores hablan así, más pausado.
+[SPEAKER_01]  pero hacer como cosas cotidianas.
+[SPEAKER_01]  No sé, no me servía el calentador en la habitación. Ir a decirle esas cosas a la persona que hacía esas cosas se me hacía difícil.
+[SPEAKER_01]  adaptarse a esas situaciones fue difícil, pero...
+[SPEAKER_01]  Pues...
+[SPEAKER_01]  Una experiencia retadora también que...
+[SPEAKER_01]  que es buena para el desarrollo de un...
+[SPEAKER_00]  ¡Adiós!
+[SPEAKER_01]  Allá hice varios amigos, sobre todo como internacionales, porque pues...
+[SPEAKER_01]  Uno llega y lo acogen como todos los internacionales, vengan, les damos semanas de inducción.
+[SPEAKER_01]  les mostramos la universidad, todos entran al curso de francés, entonces...
+[SPEAKER_01]  pues conocí muchos
+[SPEAKER_01]  españoles, colombianos íbamos tres de la universidad.
+[SPEAKER_01]  y otra muchacha de los Andes.
+[SPEAKER_01] 
+[SPEAKER_01]  Habían romanos.
+[SPEAKER_01] 
+[SPEAKER_01]  varios taiwaneses
+[SPEAKER_01]  italianos.
+[SPEAKER_01]  alemanes, daneses.
+[SPEAKER_01]  Entonces, como que...
+[SPEAKER_01]  Más que todo conocí o tuve mucha relación con personas extranjeras.
+[SPEAKER_01]  Con franceses, más bien poco, con algunas de las clases que ya tomaba uno.
+[SPEAKER_01]  o sea, diferentes al curso de francés.
+[SPEAKER_01]  Pero no.
+[SPEAKER_01]  no logré hacer una relación tan cercana con ellos.
+[SPEAKER_01]  Solo con una...
+[SPEAKER_01]  con una francesa
+[SPEAKER_01]  pero era porque ella también estaba interesada en practicar español.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  porque estudiaba lenguaje y...
+[SPEAKER_05]  Porque
+[SPEAKER_01]  Entonces por eso nos hicimos bastante amigas, aún seguimos charlando.
+[SPEAKER_03]  Bien.
+[SPEAKER_03]  Bueno, muy bien. Entonces volviste a la universidad.
+[SPEAKER_03]  Y bueno, seguiste los estudios.
+[SPEAKER_03]  había actividades deportivas o artísticas o algo en la universidad, o muy centrados en el estudio.
+[SPEAKER_04]  Manuel, pero yo quisiera preguntarle si...
+[SPEAKER_03]  Claro, claro.
+[SPEAKER_04]  tuvo diferencias tecnológicas allá en el aprendizaje o notó
+[SPEAKER_04]  de acuerdo con la nacional algunas estructuras o...
+[SPEAKER_04]  Sí, diferencias tecnológicas que hubiera.
+[SPEAKER_04]  Ha aprendido, desarrollado contacto.
+[SPEAKER_04]  Gracias, Tenía.
+[SPEAKER_01]  En experiencias tecnológicas, bueno, uno creo que las salas de computadores de allá funcionaban mejor.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Allá creo que casi nunca tenía que llevar mi computador, siempre trabajan los computadores de allá.
+[SPEAKER_01]  Y otra, no tanto así como...
+[SPEAKER_01]  Joven Cosas de la Universidad Chino.
+[SPEAKER_01]  en temas como por ejemplo de celulares.
+[SPEAKER_01]  Recuerdo en esa época acá casi nadie tenía como plan.
+[SPEAKER_00]  Pero tenés que...
+[SPEAKER_01]  post pago y eso porque era demasiado caro. Allá era como...
+[SPEAKER_01]  no recuerdo el precio, pero era muy barato.
+[SPEAKER_01]  y era como 10 gigas, que acá yo no decía, 10 gigas de navegación.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Ahorita sí, pero...
+[SPEAKER_01]  pero hace diez años que ya fue eso.
+[SPEAKER_01]  O sea, era bastante. Y aparte le daban a unos 5 de roaming para internacional en toda Europa.
+[SPEAKER_01]  Eso se me hacía impresionante, tener toda esa navegación en el celular.
+[SPEAKER_01]  Y otra cosa que también se me hacía impresionante y creo que todavía me impresiona.
+[SPEAKER_01]  la aplicación del clima, porque allá uno siempre veía y está lloviendo y sí estaba lloviendo.
+[SPEAKER_01]  En cambio acá, creo que eso no...
+[SPEAKER_01]  Nunca ha funcionado tan bien.
+[SPEAKER_01]  Pero allá sí, o sea, si le sugerí el celular, oye paraguas, tocaba llevar paraguas porque era cierto.
+[SPEAKER_01]  ¿Es eso?
+[SPEAKER_00]  ¿Es eso?
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Es que aquí llevas abrigo y ya calor es.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Amigo.
+[SPEAKER_01]  Bien.
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Y ya está.
+[SPEAKER_05]  Muy bien.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  Y en cuanto a software, por ejemplo, hay más licencias, se maneja el software libre.
+[SPEAKER_04]  o hay muchos propietarios
+[SPEAKER_04]  ¡Gay, loco!
+[SPEAKER_04]  cómo se maneja ese tema.
+[SPEAKER_01]  No, las configuraciones de los computadores eran como bien parecidas a las de acá.
+[SPEAKER_01]  Sí, y pues enseñaban tecnología similar, no sé.
+[SPEAKER_01]  lenguajes de programación que también estaban en el pensum de acá.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Dike trabajas en lenguajes como C++, Python.
+[SPEAKER_03]  ¿Hm?
+[SPEAKER_03]  Visual Basic, si no estoy mal.
+[SPEAKER_03]  ¿Verdad?
+[SPEAKER_03]  Pero Python en esa época todavía no se movía o ya se movía.
+[SPEAKER_01]  Bye, goodness.
+[SPEAKER_01]  Sí, de hecho en los cursos que tomé allá en Francia...
+[SPEAKER_01]  varios fueron en país.
+[SPEAKER_01]  Allá fue donde aprendí Python.
+[SPEAKER_01]  Ya después cuando volví...
+[SPEAKER_01]  en alguna clase ya nos empezaron a hacer utilizar Python.
+[SPEAKER_03]  Ok.
+[SPEAKER_03]  Muy bien.
+[SPEAKER_03]  Muy bien, sigue entonces.
+[SPEAKER_03]  El proceso, ya estás en la universidad otra vez.
+[SPEAKER_03]  ¿Cierto? ¿Vuelves?
+[SPEAKER_03]  ¿Qué semestre era que estabas en la universidad? Que no lo noté.
+[SPEAKER_03]  en ese momento de Francia que se manifestaba.
+[SPEAKER_01]  sería como el séptimo semestre.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Ya casi para terminar.
+[SPEAKER_01]  2013-2014
+[SPEAKER_03]  ¿Hacían test integrado en esa época en la universidad o se graduaban de otra manera?
+[SPEAKER_01]  Había tres opciones. Hacer tesis.
+[SPEAKER_01]  hacer materias de maestría.
+[SPEAKER_01]  O hacer pasantía.
+[SPEAKER_01]  Yo hice pasantía y me gradué con opción de grado en pasantía.
+[SPEAKER_03]  Gracias, Joe.
+[SPEAKER_03]  Yo hice pasan...
+[SPEAKER_00] 
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  me gradué.
+[SPEAKER_03]  Ah, ok.
+[SPEAKER_03]  tesis, pasantías, y el otro era cuál.
+[SPEAKER_00]  y materiales de maestría.
+[SPEAKER_03]  y materiales de maestría.
+[SPEAKER_03]  Hay maestría.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Muy bien, ¿y yo la hiciste la pacientía?
+[SPEAKER_03]  precisamente en el banco.
+[SPEAKER_03]  Sí, sí, señor.
+[SPEAKER_03]  en el Banco de la República.
+[SPEAKER_03]  Si el banco se acuerda de algún ingeniero.
+[SPEAKER_03]  de sistemas con que trabajaste.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Eh, sí.
+[SPEAKER_01]  Sí, con la persona que más trabajaba era ingeniero de sistemas.
+[SPEAKER_01]  Se llama Carlos Alberto Cadena.
+[SPEAKER_04]  ¿Y tenían alguna relación o eran...?
+[SPEAKER_04]  personal del área en el que trabajaba, sostenía relación con los departamentos de...
+[SPEAKER_04]  sistema sobre eso.
+[SPEAKER_04]  Curioso.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Él trabajaba en el departamento donde yo estaba y la mayoría de actividades las realizaba con él.
+[SPEAKER_04]  de E.
+[SPEAKER_04]  Pues el banco separa ciertas...
+[SPEAKER_04]  ciertas áreas especializadas y tienen personas.
+[SPEAKER_04]  técnico, pero hay ciertas dependencias directas con el departamento de tecnología, con el área técnico.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  tuviste relación con ellos
+[SPEAKER_04]  sobre los...
+[SPEAKER_04]  que se trabajaba allá
+[SPEAKER_04]  tecnológicas destacas en el Banco de la República.
+[SPEAKER_00]  Eh...
+[SPEAKER_01]  Sí, pues yo estaba trabajando como practicante en el proyecto de inteligencia de negocios.
+[SPEAKER_01]  Entonces pues cada proyecto
+[SPEAKER_01]  tiene, o sea, aparte de tener como...
+[SPEAKER_01]  el gerente que es del área del negocio.
+[SPEAKER_01]  Siempre tienen un ingeniero líder que es de tecnología.
+[SPEAKER_01]  Entonces, si te...
+[SPEAKER_00]  Entonces...
+[SPEAKER_01]  tenía relación con...
+[SPEAKER_01]  Para diler como se llama...
+[SPEAKER_01]  Ay, se me escapó el nombre, ¿cierto? No hablo con él.
+[SPEAKER_01]  Pero de apellido ardila...
+[SPEAKER_01]  pero yo creo que leer Ingeniería del Sistema no recuerdo bien.
+[SPEAKER_01]  pero era el ingeniero líder para ese proyecto.
+[SPEAKER_01]  Y ahí pues...
+[SPEAKER_01]  Y de ahí, o sea, por ese lado, digamos, del banco.
+[SPEAKER_01]  pero trabajábamos con contratistas que eran los que iban a desarrollar.
+[SPEAKER_01]  la herramienta, entonces por ese lado había un arquitecto de BI.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  y las personas que trabajaban con él, que eran desarrolladores, también para...
+[SPEAKER_01]  para herramientas de inteligencia de negocios.
+[SPEAKER_01]  Entonces ahí también interactué con varias personas de...
+[SPEAKER_01]  De sentía.
+[SPEAKER_04]  en el proveedor.
+[SPEAKER_01]  y
+[SPEAKER_00]  Y...
+[SPEAKER_00]  Indra.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  ¿En qué época estabas tú?
+[SPEAKER_03]  Edgar.
+[SPEAKER_04]  No, yo estuve mucho antes. Me retiré en el 2002.
+[SPEAKER_04]  2002
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Dos, dos.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Dos, ah claro, no estabas en esa época en el barco.
+[SPEAKER_00]  No, ya.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Bueno, y entonces...
+[SPEAKER_03]  Te gradúas con la pasantía.
+[SPEAKER_03]  Vamos ahí.
+[SPEAKER_03]  Sí, sí, señor.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Y ahí seguí trabajando en ese proyecto ya como profesional junior.
+[SPEAKER_01]  y empleada de la temporal.
+[SPEAKER_01]  que le prestan los servicios al banco.
+[SPEAKER_01]  y en teoría iba a estar un año.
+[SPEAKER_01]  que es como el máximo tiempo que uno puede estar cómodo y temporal.
+[SPEAKER_01]  Pero cuando iba...
+[SPEAKER_01]  como seis meses o un poco menos.
+[SPEAKER_01]  Se dio la oportunidad de entrar a trabajar directamente como empleada del banco, pero en otro departamento.
+[SPEAKER_01]  Y en el banco pues tienen...
+[SPEAKER_01]  Algo chévere que es cuando uno es practicante, su hoja de día queda como en un semillero.
+[SPEAKER_01]  entonces lo pueden contratar más fácil por ya haber sido practicante.
+[SPEAKER_01]  Entonces me llamaron a entrevista.
+[SPEAKER_00]  llamar a un médico.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Y me dijeron que sí, y entonces estuve ahí y al final...
+[SPEAKER_01]  Solamente seis meses en el proyecto.
+[SPEAKER_01]  con acuerdo como de empalme me fui al otro lado ya como empleada del banco
+[SPEAKER_01]  y estuve como un mes haciendo empalme a las personas nuevas que entraron.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  y entré a trabajar al Departamento de Inversiones Internacionales.
+[SPEAKER_01]  Es un departamento financiero.
+[SPEAKER_01]  Pero somos...
+[SPEAKER_01]  cuatro profesionales en ingeniería de sistemas que...
+[SPEAKER_01]  Trabajamos ahí, todavía estoy.
+[SPEAKER_01]  trabajando ahí.
+[SPEAKER_01]  Ya llevo hoy siete años.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Que te ame.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  ¿Qué pensaban tus papás?
+[SPEAKER_03]  En esas épocas de ti, con la expectativa del papá y la mamá,
+[SPEAKER_03]  del desarrollo de su hija.
+[SPEAKER_01]  Y pues digamos, cuando me grabé, muy contentos porque...
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Yo vengo de una familia muy grande, o sea, mis papás tuvieron ocho hijos, muchos.
+[SPEAKER_01]  Yo soy ya de las menores, los mayores no.
+[SPEAKER_01]  No estudiaron porque no con qué recursos.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Entonces...
+[SPEAKER_01]  Mi hermana, que es un poquitico mayor que yo,
+[SPEAKER_01]  Ella vive en España, ella se fue para allá muy joven y de hecho todos mis hermanos mayores se fueron para allá.
+[SPEAKER_01]  Y ella estudió ya medicina y se graduó, entonces fue como la primera profesional de la familia y ya después yo acá la segunda.
+[SPEAKER_01]  Entonces pues...
+[SPEAKER_01]  Muy felices de...
+[SPEAKER_01]  de tener
+[SPEAKER_01]  O sea, de poder ir al grado, de ver todo.
+[SPEAKER_04]  ¿Cuántas mujeres son en tu familia?
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Somos cinco.
+[SPEAKER_04]  Ok, y las dos primeras fueron mujeres, las dos primeras grabadas.
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  Sí, sí, señor.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Ya después mis otros hermanos sí también.
+[SPEAKER_01]  también pudieron estudiar gracias a Dios.
+[SPEAKER_01]  pero sí pues
+[SPEAKER_01]  con la expectativa y muy contentos también de que me pudiera quedar trabajando en el banco.
+[SPEAKER_04]  Claro.
+[SPEAKER_01]  Sí.
+[SPEAKER_04]  Vale la pena.
+[SPEAKER_01]  Sí, la verdad que el banco es muy bueno.
+[SPEAKER_04]  ¿Cómo dijiste que se llamaba el departamento donde está?
+[SPEAKER_01]  Inversiones Internacionales
+[SPEAKER_01]  donde se administran las reservas.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Ah, pero entonces estás en el Departamento de Cambios Internacionales.
+[SPEAKER_01]  No, inversiones.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  ¿Veis?
+[SPEAKER_04]  No, pero es que el departamento también tiene...
+[SPEAKER_04]  Tiene tres áreas, tiene deuda externa, compensación e inversiones, pero entonces si estás en...
+[SPEAKER_04]  ¿En qué piso tienen la sede ellos?
+[SPEAKER_01]  en el cuerpo.
+[SPEAKER_01]  Cambios de ciencia.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Sí, cambio de sesión el segundo.
+[SPEAKER_04]  Ya, es el departamento donde hay transacciones realmente, ¿no?
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  ¿Dónde están los dealers? Sí, ¿dónde están?
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Ah, ok, ok.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Ahí está Camilo Restrepo.
+[SPEAKER_01]  Cádame y lo rastreé pues mi compañero, que él es ingeniero de sistemas también.
+[SPEAKER_04]  Sí, él era mi usuario funcional cuando yo estaba en el banco.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  ¿Sí?
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Bienes.
+[SPEAKER_04]  Y en ese...
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Bastante tiempo en el mundo.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Camilo Restrepo ha sido...
+[SPEAKER_04]  un apoyo fundamental para los practicantes.
+[SPEAKER_04]  ¡Bien!
+[SPEAKER_04]  Y bueno, lo sabe guiar, es un muy buen tutor y yo he tenido varios practicantes allá dirigidos por él. Entre otros me sigue pidiendo cuando se presentan oportunidades.
+[SPEAKER_01]  Sí, nosotros todos los semestres tenemos dos practicantes de Ingeniería de Sistemas.
+[SPEAKER_01]  Y siempre estamos ahí con Camilo y con otro compañero famoso.
+[SPEAKER_01]  Pues el tutor, digamos, legal es nuestro jefe, pero nosotros somos los que estamos ahí acompañándolos todos los días.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Entonces, ¿cuáles eran más o menos las funciones tuyas? O eran y son.
+[SPEAKER_03]  en el departamento.
+[SPEAKER_01]  Bueno, pues cuando entré...
+[SPEAKER_01]  Tenía cargo profesional.
+[SPEAKER_01]  y luego ascendí a profesional especializado, entonces cambiaron un poquito.
+[SPEAKER_01]  pero siguen teniendo mucha relación. Cuando ingresé...
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Bueno, primero me tuvieron que capacitar mucho en temas de finanzas porque de eso sí no sabía.
+[SPEAKER_01]  No sabía nada.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Y...
+[SPEAKER_01]  La principal función, conciliación de información entre los diferentes sistemas.
+[SPEAKER_01]  y
+[SPEAKER_01]  en los que se...
+[SPEAKER_01]  manejan todas las inversiones. Esa es la principal.
+[SPEAKER_01]  responsable de todo el tema de información y de decirle a las personas listo, la información ya está lista en el sistema.
+[SPEAKER_01]  o tenga el reporte ya puede...
+[SPEAKER_01]  usarlo para sus funciones.
+[SPEAKER_01]  y
+[SPEAKER_01]  También, eh...
+[SPEAKER_01]  apoyando la ejecución del plan de continuidad.
+[SPEAKER_01] 
+[SPEAKER_01]  Si inicialmente era sobre todo eso, como hacer que se ejecutaran las pruebas de continuidad del negocio.
+[SPEAKER_01] 
+[SPEAKER_01]  para eso pues hay diferentes estrategias.
+[SPEAKER_01]  no sé, como conectarse remoto.
+[SPEAKER_01]  Eh...
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  ¿Qué hago si este sistema está caído? Pues entonces está la contingencia manual.
+[SPEAKER_01]  ese tipo de cosas. Entonces era como apoyar la ejecución de las estrategias.
+[SPEAKER_01]  Y también...
+[SPEAKER_01]  desarrollo
+[SPEAKER_01]  pero más como un mantenimiento de aplicaciones que...
+[SPEAKER_01]  que habían en Visual Basic for Application.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Básicamente...
+[SPEAKER_01]  Esas eran las funciones. Y ya cuando, bueno, luego para ascender a profesional especializado.
+[SPEAKER_01]  Tuve que hacer una certificación en finanzas.
+[SPEAKER_01]  que es una certificación que da el Instituto CFA.
+[SPEAKER_01]  que se llama Investment Foundations.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Eso más dos años de experiencia siendo profesional.
+[SPEAKER_01]  y pues haber cumplido como mis logros o los proyectos que me asignara mi jefe.
+[SPEAKER_01]  Ya siendo profesional especializado, tengo muchas de esas labores que tenía antes.
+[SPEAKER_01]  pero con un poco más de responsabilidad, entonces ahora más como administradora de los sistemas.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Un poco...
+[SPEAKER_01]  relacionado con continuidad, más como liderando esa continuidad.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  del negocio
+[SPEAKER_01]  revisando y creando nuevas estrategias y participando activamente.
+[SPEAKER_01]  en las reuniones que se dan con diferentes áreas del banco para llevar eso a cabo.
+[SPEAKER_01]  y también gerenciando proyectos.
+[SPEAKER_01]  que van saliendo.
+[SPEAKER_01]  pues dependiendo las necesidades del negocio.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Por ejemplo, últimamente...
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gerenciando del lado del negocio, la implementación de...
+[SPEAKER_01]  bots en tecnología RPA.
+[SPEAKER_01]  y que eso conlleva
+[SPEAKER_01]  contactar varias áreas de
+[SPEAKER_01]  o varios líderes de diferentes áreas del banco para poder que...
+[SPEAKER_01]  y
+[SPEAKER_01]  Que salga.
+[SPEAKER_01]  o que avance el proyecto.
+[SPEAKER_01]  y
+[SPEAKER_01]  Y esas son básicamente las responsabilidades y también siempre tener un practicante y guiarlo durante todo.
+[SPEAKER_01]  todo el semestre.
+[SPEAKER_01]  enseñarle
+[SPEAKER_01]  un poco de finanzas.
+[SPEAKER_01]  de las tecnologías que tenemos, del proceso de inversión.
+[SPEAKER_03]  ¿Cómo fue la experiencia en inteligencia de negocios? Que parece que trabajaste bastante, ¿cierto?
+[SPEAKER_01]  Sí, la trabajé como practicante y luego en el área que estoy...
+[SPEAKER_01]  También...
+[SPEAKER_01]  tuvimos un
+[SPEAKER_01]  Migramos nuestra información a la bodega de datos y actualmente la estamos explotando.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01] 
+[SPEAKER_01]  con tecnologías como OVI de Oracle.
+[SPEAKER_01]  ¿Cómo iría?
+[SPEAKER_01]  Eso es como lo de ahorita.
+[SPEAKER_01]  En el momento en que fui practicante y...
+[SPEAKER_01]  y temporal para el proyecto en la otra área.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Pues aprendí mucho de...
+[SPEAKER_01]  de arquitectura de BI.
+[SPEAKER_01]  porque estuve en el momento cero en que empezó el proyecto.
+[SPEAKER_01]  Entonces vi como...
+[SPEAKER_01]  Salían todas las ideas, todas las necesidades de...
+[SPEAKER_01]  de
+[SPEAKER_01]  organizar la información y...
+[SPEAKER_01]  y qué era lo que querían.
+[SPEAKER_01]  como los altos mandos ver en sus reportes, que al final ese es el objetivo de la inteligencia de negocios.
+[SPEAKER_01]  tengan unos reportes.
+[SPEAKER_00]  Uno repite.
+[SPEAKER_01]  que se actualicen casi que automáticamente y puedan verlos.
+[SPEAKER_01]  Muy rápido y...
+[SPEAKER_01]  poder tomar decisiones.
+[SPEAKER_01]  informar.
+[SPEAKER_01]  Entonces aprendí muchísimo de todos los conceptos de...
+[SPEAKER_01]  De UIAI
+[SPEAKER_01]  de la arquitectura, del diseño.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  también de esa relación con el contratista y de que me entregue.
+[SPEAKER_01]  y yo pruebo. También estuvimos trabajando con fábrica de pruebas, entonces ver qué resultados me entregaba fábrica de pruebas.
+[SPEAKER_01]  Entonces esa...
+[SPEAKER_01]  Esa experiencia fue...
+[SPEAKER_01]  muy enriquecedora porque...
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  No solo aprendí sobre VDI, sino también de cómo funcionaba el mundo con los contratistas que ahora...
+[SPEAKER_01]  pues es como funciona el desarrollo de software.
+[SPEAKER_04]  Y tú...
+[SPEAKER_04]  Bueno, el banco ha establecido y ha mantenido algunas políticas de desarrollo.
+[SPEAKER_04]  ciertas características en este en este tipo de contratos que tienes que rigen por algún marco un framework están trabajando agilismo qué tipo de marcos están siguiendo
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  ¡Bueee!
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Depende del proyecto.
+[SPEAKER_01]  Por ejemplo, nosotros ahorita solo tenemos contratista para mantenimiento de una aplicación.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  pues al ser mantenimiento y...
+[SPEAKER_01]  Solamente, o sea...
+[SPEAKER_01]  Tenemos como...
+[SPEAKER_01]  El contrato con ellos funciona por horas.
+[SPEAKER_01]  y funciona es que
+[SPEAKER_01]  Ellos nos entregan como el análisis del requerimiento.
+[SPEAKER_01]  tenemos yo, o sea, pues soy del departamento.
+[SPEAKER_01]  del área de negocio. Entonces igual tengo mi ingeniera líder que es de tecnología.
+[SPEAKER_01]  Entonces ella acepta que sean tantas horas de desarrollo.
+[SPEAKER_01]  dependiendo también
+[SPEAKER_01]  como de acuerdo a su experiencia.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  por parte del negocio.
+[SPEAKER_01]  Yo estoy pendiente de que el requerimiento sí tenga...
+[SPEAKER_01]  O sea, si cumpla las necesidades que pedimos.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Pero pues digamos que toda esa parte de...
+[SPEAKER_01]  como de la gestión la hace la ingeniera líder.
+[SPEAKER_01]  O sea, la ingeniera que trabaja ya directamente con tecnología porque el contrato es con tecnología.
+[SPEAKER_03]  ¿Y quiénes, si te acuerdas, eran los...
+[SPEAKER_03]  que fueron gerentes del banco en él.
+[SPEAKER_03]  en esas épocas tuyas, ¿te acuerdas? De directivos importantes.
+[SPEAKER_03]  Porque es que los directivos del banco siempre han sido personas.
+[SPEAKER_03]  muy prestantes en el país, ¿no? A nivel de economía, finanzas.
+[SPEAKER_03]  ¿Te acuerdas quiénes dirigían? Algunos dirigentes.
+[SPEAKER_01]  Cuando yo era practicante era Juan José.
+[SPEAKER_01]  No recuerdo el apellido.
+[SPEAKER_04]  Ahora voy a echarle.
+[SPEAKER_03]  Juan José Echeverría.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Muchas gracias.
+[SPEAKER_04]  Vamos.
+[SPEAKER_00]  Muchas gracias.
+[SPEAKER_00]  Y luego fue...
+[SPEAKER_04]  billernos.
+[SPEAKER_00]  Lucho.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  No, este tocó algo confiado.
+[SPEAKER_04]  Leonardo Vigel.
+[SPEAKER_03]  ¿Guillermo Perry no te tocó nada?
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  No.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  No, es de la etapa 184.
+[SPEAKER_03]  Gracias, juez.
+[SPEAKER_03]  Pero Juan José es muy veterano, ¿no?
+[SPEAKER_01]  Sí.
+[SPEAKER_03]  Bien.
+[SPEAKER_01]  Sí, él era bastante querido de Ingrid Van Gogh.
+[SPEAKER_03]  buena persona.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Yo trabajé con él en Fede Desarrollo.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  con Miguel Urrutia. Miguel Urrutia fue en épocas remotas.
+[SPEAKER_03]  Muy importante la junta directiva, creo que hasta presidente fue del banco.
+[SPEAKER_03]  y él fue director de FEDESARROYO.
+[SPEAKER_03]  Y con Guillermo Pérez y con Juan José Echavarría trabajé con SPSS.
+[SPEAKER_03]  haciendo econometría de los proyectos que ellos...
+[SPEAKER_03]  Y era gente muy del banco, ¿no?
+[SPEAKER_03]  No se elcan los bancos de la República.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Sí, sí, señor.
+[SPEAKER_03]  Bueno.
+[SPEAKER_03]  Y hoy estás entonces...
+[SPEAKER_03]  muy bien ubicada en el banco.
+[SPEAKER_03]  Relación con la universidad después de graduada.
+[SPEAKER_03]  ¿Has tenido alguna relación?
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Pues...
+[SPEAKER_01]  no mucho
+[SPEAKER_01]  Mantengo contacto con una de las profesoras que es la ingeniera Jenny Marcela Sánchez.
+[SPEAKER_01]  Ella fue mi tutora en la práctica y en la pasantía.
+[SPEAKER_01]  Y sí.
+[SPEAKER_01]  Regularmente como que nos saludamos.
+[SPEAKER_01]  pero con la universidad.
+[SPEAKER_00]  ya no.
+[SPEAKER_03]  No mucho.
+[SPEAKER_00]  No mucho.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Y con Sandra, porque Sandra Liliana fue la que nos remitió tu nombre.
+[SPEAKER_03]  ¿Alguna sesión con ella?
+[SPEAKER_01] 
+[SPEAKER_01]  No tanto, yo sí la conocí en la universidad, pero entiendo que fue la profesora Jenny Marcela la que le dio mi nombre a la profesora.
+[SPEAKER_03]  Ah, ok, ok. Se va a pedir con la profesora Yen.
+[SPEAKER_03]  ¿Ella es de sistemas o qué? ¿La profesora Jenny o de otra área?
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  de sistemas.
+[SPEAKER_01]  Sí, es de sistemas.
+[SPEAKER_01]  Creo que ahorita está como algo en la dirección ahí en...
+[SPEAKER_01]  ¡Muchas gracias!
+[SPEAKER_03]  Ok.
+[SPEAKER_03]  Bueno, veo que tú fuiste de estos estudiantes y luego profesionales, pero sobre todo cuando llegaste.
+[SPEAKER_03]  que ya había una tecnología.
+[SPEAKER_03]  Ya existían los microcomputadores, existía el celular.
+[SPEAKER_03]  Aquí hemos visto entrevistas cuando no había nada, solamente un gran computador.
+[SPEAKER_03]  central
+[SPEAKER_03]  y luego vienen todas estas
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  tecnologías, o sea, ya había tecnología, ya tenías tú.
+[SPEAKER_03]  Tu PC.
+[SPEAKER_03]  Y obviamente has visto el desarrollo de cómo...
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  amén
+[SPEAKER_03]  avanzado esta tecnología.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Desde ese punto de vista...
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Delito.
+[SPEAKER_03]  alguna visión comparativa.
+[SPEAKER_03]  de cuando tú entraste al banco, como estás ahora,
+[SPEAKER_03]  desde el punto de vista tecnológico, algún comentario en el cambio.
+[SPEAKER_01]  ¡Pim!
+[SPEAKER_01]  Pues sobre todo como en las características de los computadores que han mejorado un montón.
+[SPEAKER_01]  la memoria RAM y ahora pues uno corre todo más rápido.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Sobre todo eso.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Ah, bueno, y también...
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  el acceso remoto que antes, no sé, antes de la pandemia era como no, desde la casa no, porque...
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Es demasiado riesgo. En esa parte pues tienen que haber trabajado mucho en la seguridad para que podamos conectarnos desde fuera de la organización.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00] 
+[SPEAKER_01]  Eso yo creo que es de los avances más grandes.
+[SPEAKER_01]  más grandes que han tenido.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Muy bien.
+[SPEAKER_03]  ¿Y estás ubicada en Bogotá? ¿Estás viajando al exterior o más que todo en Bogotá?
+[SPEAKER_01]  Más que todo aquí, a veces me mandan a cursos en el exterior.
+[SPEAKER_00]  Adiós.
+[SPEAKER_01]  de capacitación.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Por ejemplo.
+[SPEAKER_01]  por la pandemia.
+[SPEAKER_01]  No volvimos a viajar, los hacíamos virtuales, pero ya este año retomamos.
+[SPEAKER_01]  Y ahorita, en el otro mes...
+[SPEAKER_01]  voy a un seminario de...
+[SPEAKER_01]  entrenamiento en...
+[SPEAKER_01]  En finanzas.
+[SPEAKER_01]  en París.
+[SPEAKER_03]  Ah, qué interesante.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  ¡Pim!
+[SPEAKER_00]  Pero pues en general, trabo de sacar.
+[SPEAKER_03]  Ok.
+[SPEAKER_03]  El banco tiene fama de ser un gran patrón, como se dice en el lenguaje.
+[SPEAKER_03]  O sea, que cuida mucho a su gente, que sea formativa.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  que mejore, ¿no?
+[SPEAKER_03]  sus trabajos.
+[SPEAKER_03]  siempre ha sido muy ejemplar, la verdad.
+[SPEAKER_00]  Sí, sí, señor.
+[SPEAKER_03]  Bueno.
+[SPEAKER_03]  ¿Qué más le desea Edgar que quisiéramos indagar?
+[SPEAKER_04]  Eh...
+[SPEAKER_04]  Pues digamos, a mí me gustaría, de acuerdo a tu...
+[SPEAKER_04]  experiencia actual y de acuerdo a las relaciones que has tenido.
+[SPEAKER_04]  y
+[SPEAKER_04]  laborales y ahora pues
+[SPEAKER_04]  Interacción con los usuarios.
+[SPEAKER_04]  ¿Qué recomiendas que deberían tener los currículos académicos?
+[SPEAKER_04]  para fortalecer a los estudiantes, para que se enfrenten a la vida actual.
+[SPEAKER_03]  Y podrías unirlo a la visión que tienes de los practicantes, que son jóvenes, ¿no?
+[SPEAKER_03]  Sí, como un invento.
+[SPEAKER_05]  es
+[SPEAKER_03]  aspectos.
+[SPEAKER_03]  ¿Cómo ves eso?
+[SPEAKER_01]  particularmente en nuestra carrera.
+[SPEAKER_01]  Yo creo que algo que formé como en habilidades blandas.
+[SPEAKER_01]  Porque...
+[SPEAKER_01]  Muchos de los...
+[SPEAKER_01]  Muchos de mis compañeros en la universidad eran como muy tímidos.
+[SPEAKER_01]  A veces se les dificultaba trabajar en grupo y eso que...
+[SPEAKER_01]  Siempre nos requieren muchísimos proyectos en grupo, pero sí sentía que había.
+[SPEAKER_01]  había como que les faltaba...
+[SPEAKER_00]  había como...
+[SPEAKER_01]  desarrollar esa...
+[SPEAKER_01]  esa parte de comunicación.
+[SPEAKER_01]  Entonces creo que eso, incluso ahorita con los practicantes que he tenido durante estos años.
+[SPEAKER_01]  Siento que...
+[SPEAKER_01]  Y sobre todo en los hombres, o sea, cuando tengo niñas.
+[SPEAKER_00]  Sí.
+[SPEAKER_01]  siento que son más abiertas, preguntan, se comunican mejor.
+[SPEAKER_01]  Pero los niños a veces son como muy tímidos y casi que hay que decirles, pero venga, cuénteme, ¿qué le pasa?
+[SPEAKER_01]  Al final, cuando ya cogen más confianza, sí son más abiertos y...
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  O sea, se siente la evolución.
+[SPEAKER_01]  que tienen durante el semestre.
+[SPEAKER_01]  pero no sé si de pronto cuando llegan a trabajar a otro lado vuelven y son así de tímidos. Entonces creo que...
+[SPEAKER_01]  Hace falta algo de eso, de trabajar las habilidades blandas.
+[SPEAKER_01]  Porque...
+[SPEAKER_01]  A veces uno ve y son excelentes en...
+[SPEAKER_01]  Técnicamente.
+[SPEAKER_04]  técnicos.
+[SPEAKER_01]  Pero si no tienen esas habilidades blandas, de pronto llegan a una entrevista y pues ni se hacen notar.
+[SPEAKER_01]  Y ya, hasta ahí quedó, digamos, la oportunidad que...
+[SPEAKER_01]  Y he visto muchos que son muy, muy buenos, o sea, no les duele el trabajo y no...
+[SPEAKER_01]  O sea, si tuviera un poquito más desarrollada esa habilidad de comunicar.
+[SPEAKER_01]  de socializar.
+[SPEAKER_01]  tendría mejores oportunidades.
+[SPEAKER_04]  Y desde ese punto de vista, entonces, porque tú ahora ya estás más metida en temas de negocio, ¿no?
+[SPEAKER_04]  apoyar en tecnología.
+[SPEAKER_04]  ¿Qué recomendación darías al respecto? Porque de hecho las demandas, si bien son...
+[SPEAKER_04]  Bien, son...
+[SPEAKER_04]  gente, técnicos, tecnólogos, programación, etc. y no se ve.
+[SPEAKER_04]  desatender la codificación, la programación, la arquitectura y demás.
+[SPEAKER_04]  La visión hacia el ingeniero de sistemas con visión holística. ¿Qué piensas para eso?
+[SPEAKER_04]  meterte tú en el negocio.
+[SPEAKER_00]  ¿Cómo así me termino el negocio?
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  ¿Cómo? Sí.
+[SPEAKER_04]  Tú ahorita estás más en...
+[SPEAKER_04]  como eres soporte técnico, pero has avanzado en el conocimiento de la funcionalidad en el que estás.
+[SPEAKER_04]  ¿Qué recomiendas para un chico para que tenga esa capacidad de aprendizaje sobre el negocio en el que se va a involucrar?
+[SPEAKER_00]  ¡Bien!
+[SPEAKER_01]  Y...
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Pues no sé, es que nuestra carrera es como tan versátil y puede...
+[SPEAKER_01]  entrar como en cualquier área, que eso es algo que es muy chévere.
+[SPEAKER_01]  que si uno puede trabajar con muchas disciplinas y combinarla y hacer cosas.
+[SPEAKER_01]  muy grandes.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Entonces, no, esa pregunta está muy difícil porque...
+[SPEAKER_01]  Son demasiadas áreas.
+[SPEAKER_01]  Entonces creo que...
+[SPEAKER_01]  No sé, es como más...
+[SPEAKER_01]  Y creo que sí lo aprendí en la universidad, y es a trabajar en diferentes temas, cuando uno ve, por ejemplo, taller de proyectos.
+[SPEAKER_01]  interdisciplinarios, poder trabajar con todos los de ingeniería.
+[SPEAKER_01]  y decir ustedes tienen esta necesidad o este problema.
+[SPEAKER_01]  Creo que ahí se está desarrollando y en ese tipo de materias funciona bien.
+[SPEAKER_01]  Y cuando yo entré, empecé a trabajar en...
+[SPEAKER_01]  en esto de las finanzas, pues no sabía nada, simplemente me dejó guiar, dejó que me enseñen.
+[SPEAKER_01]  Pregunto, todo lo que tenga dudas pregunto porque no soy experta en el tema.
+[SPEAKER_01]  Entonces...
+[SPEAKER_01]  Creo que simplemente tener esa actitud de quiero aprender y...
+[SPEAKER_01]  Y sé que no soy la experta en esto, entonces siempre me tengo que apoyar del experto.
+[SPEAKER_04]  Sí, yo creo que en el Banco de la República es una buena muestra.
+[SPEAKER_04]  Y tú sabes que Francisco Rivas, que es el director de...
+[SPEAKER_04]  el gerente corporativo es ingeniero de sistemas, ¿no?
+[SPEAKER_00]  Sí, sí, sí.
+[SPEAKER_04]  Y bueno, ahí tenemos algunos otros.
+[SPEAKER_04]  el subgerente industrial.
+[SPEAKER_04]  Sí.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  Bueno, hay varios y ha progresado mucho.
+[SPEAKER_04]  precisamente por la visión holística que se tiene y la facilidad de aprender.
+[SPEAKER_04]  de otras áreas.
+[SPEAKER_04]  que no pasa lo mismo a pesar de que...
+[SPEAKER_04]  Se supone que...
+[SPEAKER_04]  Debe ser con carreras como la administración, que entre otras uno entra a competir con ellos.
+[SPEAKER_04]  pero el soporte, el desarrollo de la tecnología, la relación con las personas.
+[SPEAKER_04]  genera ciertas habilidades en los ingenieros de sistemas, como veo que los tienes tú.
+[SPEAKER_04]  Entonces me alegra destacar esto.
+[SPEAKER_03]  Yo voy a entrar un poquito en eso, Yesenia, porque estos son aportes importantes.
+[SPEAKER_03]  Esto lo van a conocer de canos.
+[SPEAKER_03]  en el sistema, como te contamos en universidades, en algún momento esto comienza.
+[SPEAKER_03]  porque ese tema de la personalidad...
+[SPEAKER_03]  del ingeniero de sistemas es muy importante, ¿cierto?
+[SPEAKER_00]  Sí.
+[SPEAKER_03]  Yo hice una pequeña investigación sobre la psicología.
+[SPEAKER_03]  La llamé psicología y filosofía del hacker.
+[SPEAKER_03]  teniendo el hacker como el concepto del programador.
+[SPEAKER_03]  ¿Cierto?
+[SPEAKER_03]  La persona apasionada.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Y dentro de ese tema me encontré mucho con esa personalidad.
+[SPEAKER_03]  solitarias, a veces.
+[SPEAKER_03]  silenciosa. Cuando yo hablo de eso, a veces me critican y me dicen, no, nosotros vamos a discoteca y bailamos y todo eso.
+[SPEAKER_03]  pero sí viene que tú estás hablando de una tendencia al silencio.
+[SPEAKER_03]  una tendencia a no comunicarse verbalmente.
+[SPEAKER_00]  una tendencia.
+[SPEAKER_03]  ¿De acuerdo?
+[SPEAKER_03]  Y dos elementos estudiados, uno fue con Freud, el psicoanalista.
+[SPEAKER_03]  que habla de soledad buscada.
+[SPEAKER_03]  Nos dice la persona que busca la soledad.
+[SPEAKER_03]  Prefiero estar con una máquina sentado, pues no había computador de salida.
+[SPEAKER_03]  Hoy en día en esa época, pero...
+[SPEAKER_03]  la personalidad.
+[SPEAKER_03]  No.
+[SPEAKER_03]  Y el otro que he hecho, Penn Howard, que habla de la insociabilidad del ser, que le da valor.
+[SPEAKER_03]  a la soledad.
+[SPEAKER_03]  del técnico.
+[SPEAKER_03]  ¿No? O del músico.
+[SPEAKER_03]  en el sentido que en esa soledad es que puede...
+[SPEAKER_03]  componer, puede hacer tecnología o cosas de ese estilo.
+[SPEAKER_03]  pero, por ejemplo, en una entidad como el banco.
+[SPEAKER_03]  La personalidad tiene que ser muy abierta.
+[SPEAKER_03]  ¿Cierto? Otra cosa es que entre a una casa de software donde van a estar con Python.
+[SPEAKER_03]  Las ocho horas en The Boring.
+[SPEAKER_03]  Y en ese tipo de cosas, ¿no?
+[SPEAKER_03]  Y yo creo que ese es un mensaje interesante para las universidades.
+[SPEAKER_03]  para nosotros lo que estamos escuchando.
+[SPEAKER_03]  porque según tú dices, captas.
+[SPEAKER_03]  que ahí hay una falencia.
+[SPEAKER_00]  Sí.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  No sé, es más como tener esa actitud al servicio, porque puede que sí. Cuando yo me siento a trabajar, me concentro y estoy aquí solita y hago todo bien.
+[SPEAKER_01]  Pero tener esa...
+[SPEAKER_01]  O sea, esas habilidades de comunicación y...
+[SPEAKER_01]  y como ser muy servicial.
+[SPEAKER_01]  pues hace que también las cosas funcionen mejor, los proyectos avancen más.
+[SPEAKER_01]  A veces, no sé, de pronto alguno que es muy tímido no pregunta y se fue por el camino que no era, hace perder tiempo en el proyecto. También son cosas que...
+[SPEAKER_01]  que se ven impactadas por él.
+[SPEAKER_01]  por ese tipo de...
+[SPEAKER_01]  como es
+[SPEAKER_00]  comportamientos.
+[SPEAKER_04]  Sí, eso es bien importante sobre todo.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  El banco es una muy buena escuela, ¿no? Porque todo el mundo está dispuesto a enseñar, ¿no?
+[SPEAKER_01] 
+[SPEAKER_01]  Sí, la verdad es que ahí, o sea, el ambiente laboral.
+[SPEAKER_01]  hace que uno se sienta muy cómodo.
+[SPEAKER_01]  como en confianza de preguntar de
+[SPEAKER_01]  las personas están dispuestas a enseñarle.
+[SPEAKER_01]  Eso...
+[SPEAKER_01]  Eso también es muy bueno.
+[SPEAKER_04]  ¿Habrá cambiado la cultura? ¿Tú cómo llamas a tus jefes?
+[SPEAKER_04]  Por el nombre, por el título, por el...
+[SPEAKER_04]  Claro, digo.
+[SPEAKER_00]  ¿A mis jefes?
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  ¿Me permite? Por el no.
+[SPEAKER_03]  ¿Me permiten un minuto? Sigan, pero no se me vayan.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Sí, yo pregunto eso. Digamos, la cultura en...
+[SPEAKER_04]  si se mantiene, si se quiere conocer.
+[SPEAKER_04]  ¿Cómo llamas a tus jefes? Si por el nombre, por el título o por el cargo, por ejemplo.
+[SPEAKER_01]  por el nombre y casi que un diminutivo común.
+[SPEAKER_01]  muy cercano.
+[SPEAKER_04]  muy cercano, esa es una cultura que...
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  o te mantiene, ¿no? Inclusive tú le puedes decir
+[SPEAKER_04]  al gerente por su nombre.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  Platera también por tu nombre, ninguno...
+[SPEAKER_04]  por doctor o por jefe, muy rara.
+[SPEAKER_04]  Algunos que otros los usa, pero...
+[SPEAKER_04]  Pero lo común es que la gente se conozca más como persona, ¿no?
+[SPEAKER_01]  Sí, como persona. De pronto los abogados sí son así más formales.
+[SPEAKER_01]  pero el resto de personas sí por su nombre.
+[SPEAKER_04]  Pero aún así, si tú les dices por el nombre, no se van a molestar los abogados.
+[SPEAKER_05]  No, no.
+[SPEAKER_04]  Eso es, eso es muy bien.
+[SPEAKER_04]  Porque...
+[SPEAKER_04]  pues digamos que eso genera una facilidad de interacción.
+[SPEAKER_06]  Acerca.
+[SPEAKER_04]  Sí.
+[SPEAKER_04]  lo acerca, no hay una jerarquía
+[SPEAKER_06]  hacer.
+[SPEAKER_04]  distintiva de que fulano de tal es el tal y entonces el respeto y no sé qué y las...
+[SPEAKER_04]  Las venias y...
+[SPEAKER_04]  20 días, no más bien de...
+[SPEAKER_04]  Se acepta más la autoridad por el conocimiento.
+[SPEAKER_00]  Gracias.
+[SPEAKER_06]  Sí, sí, señores.
+[SPEAKER_06]  Y esa es una cultura más de ahora, ¿no?
+[SPEAKER_06]  de esa cercanía con el jefe antes era...
+[SPEAKER_06]  El doctor y...
+[SPEAKER_04]  Pero en el banco siempre ha sido así.
+[SPEAKER_06]  en el banco
+[SPEAKER_04]  A toda la vida. A toda la vida.
+[SPEAKER_01]  Gracias.
+[SPEAKER_06]  toda la vida.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Si no es una cultura de otros.
+[SPEAKER_01]  Si no es una cultura...
+[SPEAKER_01]  Desde que yo entré en practicantes y de hecho yo cuando entré yo como doctora no sé qué y le dicen a uno y no es que uno...
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  No, dígame así mi nombre.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Sí, es muy bueno.
+[SPEAKER_04]  David.
+[SPEAKER_04]  Muy bueno.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Yo ingresé en 1981, o sea, está desde hace muchos años, no hagas la cuenta.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Y ya llevo pensionado 20 años, entonces, pues bueno.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Mucha historia.
+[SPEAKER_04]  Sí, muchachos.
+[SPEAKER_04]  Sigue, sigue, Manuel.
+[SPEAKER_03]  No, no, no, bien. Me parece que simplemente repitiendo que...
+[SPEAKER_03]  Esa...
+[SPEAKER_03]  comentarios sobre la personalidad.
+[SPEAKER_03]  de los jóvenes es muy importante.
+[SPEAKER_03]  Creo que estamos muy pegados a la máquina.
+[SPEAKER_03]  No.
+[SPEAKER_03]  Todavía.
+[SPEAKER_03]  ¿No?
+[SPEAKER_03]  Y eso no se para de...
+[SPEAKER_03]  la comunicación con las personas.
+[SPEAKER_03]  que sí es algo que hay que trabajar a nivel de la academia.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Sí, que no esperar a que lleguen a las empresas para que les exijan esas competencias, sino que hay que...
+[SPEAKER_04]  acercarlos más desde la academia
+[SPEAKER_03]  Yo me acuerdo cuando en uniminuto graduábamos, había grados.
+[SPEAKER_03]  y a uno le tocaba darle la mano a todos los que se graduaban.
+[SPEAKER_03]  ¿Sí?
+[SPEAKER_03]  Y uno captaba la diferencia de cómo la daba el ingeniero civil.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  como la de sistema.
+[SPEAKER_03]  como la daba a los que trabajaban en temas de...
+[SPEAKER_03]  de comunicación gráfica, los artistas.
+[SPEAKER_03]  ¿No?
+[SPEAKER_03]  Es decir, indudablemente como que la profesión marca una manera de ser en las personas.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Creo que en la ingeniería del sistema sí.
+[SPEAKER_03]  Hay que seguir trabajando estos temas de habilidades blandas que menciona Yesenia.
+[SPEAKER_03]  Es un mensaje.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Yo creo que es bien importante.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Bueno, yo creo que...
+[SPEAKER_03]  ¿Qué dices? ¿Ya vamos cerrando?
+[SPEAKER_04]  Sí.
+[SPEAKER_04]  ¿Qué es esto?
+[SPEAKER_04]  Yesenia, ¿qué quieres contarnos?
+[SPEAKER_04]  ¿Alguna otra cosa?
+[SPEAKER_03]  Una cosita adicional, Yesenia, que quieras como...
+[SPEAKER_01]  ¡Gracias!
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  deja como conclusiones.
+[SPEAKER_01]  Me acordé de algunos nombres de los profesores.
+[SPEAKER_03]  Eso, eso, muy bueno, yo anoto.
+[SPEAKER_01]  Henry Umaña, de Ingeniería de...
+[SPEAKER_01]  Sofía y la arquitectura de Sofía.
+[SPEAKER_01]  Excelente, excelente profesor.
+[SPEAKER_01]  Ehm...
+[SPEAKER_01]  Y también, Cano, miembro de ASIS.
+[SPEAKER_00]  nos vemos
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  ¡Pish!
+[SPEAKER_03]  Qué bueno.
+[SPEAKER_01]  Y olvidé mencionar también otra materia que me gustó mucho en la universidad, pensamiento sistémico.
+[SPEAKER_01]  Y creo que es como...
+[SPEAKER_01]  o sea, la que nos hace ingenieros de sistemas.
+[SPEAKER_01]  que nos enseña ese pensamiento holístico, a analizar los sistemas, a entender las entradas y las salidas.
+[SPEAKER_01]  importantísima.
+[SPEAKER_01]  Sé que muchos salen como pensando, soy programador y ya, pero creo que esa es la que de verdad nos da a nosotros.
+[SPEAKER_01]  las habilidades para poder
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  precisamente lo que hablábamos ahorita, ser multidisciplinar.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Buenas noches.
+[SPEAKER_01]  Me ha costado mucho.
+[SPEAKER_05]  mucho
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Y me la dio la profesora Jenny Marcela Sánchez.
+[SPEAKER_04]  Como la tienes tan presente.
+[SPEAKER_04]  Y yo la dicto en mi universidad.
+[SPEAKER_04]  ¿Qué tal si te invito a una charla sobre ese tema?
+[SPEAKER_01]  Sí, pues...
+[SPEAKER_01]  y echaría una repasadita.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  No importa, es que no tienes que repasar, solamente contar tu experiencia.
+[SPEAKER_04]  cómo aplica ese pensamiento sistémico a la vida.
+[SPEAKER_00]  Sí, sí señor, con mucho gusto.
+[SPEAKER_04]  Bueno, ahí está.
+[SPEAKER_04]  tendremos tus datos porque
+[SPEAKER_04]  Te invitaré para ahora en noviembre.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Vale.
+[SPEAKER_03]  Ese concepto de entrada y salida, ustedes saben que...
+[SPEAKER_03]  Unos grandes programadores son profesionales que estudiaron química.
+[SPEAKER_03]  ¿Sí?
+[SPEAKER_03]  que tiene el concepto de entrada, proceso y salida. Hay muchos regentes de sistemas que...
+[SPEAKER_03]  que tuvieron esa experiencia de química.
+[SPEAKER_03]  y también de física.
+[SPEAKER_03]  entre otras cosas.
+[SPEAKER_03]  El inglés que hizo el HTML era físico. No sé si te acuerdas del nombre, Edgar.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  inventé el HTML.
+[SPEAKER_03]  era la física.
+[SPEAKER_03]  No, que eso.
+[SPEAKER_03]  Es una cosa curiosa.
+[SPEAKER_03]  que es pensamiento sistémico.
+[SPEAKER_03]  Lo que ella acaba de mencionar.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Y otra cosa que...
+[SPEAKER_01]  O sea, yo siento que me hizo falta en la universidad.
+[SPEAKER_01]  salir hablando inglés
+[SPEAKER_00]  y
+[SPEAKER_00]  Ajá.
+[SPEAKER_01]  Eso sí.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Porque no es...
+[SPEAKER_01]  Porque no es...
+[SPEAKER_01]  El currículum tenía sus cuatro niveles de inglés, pero con el examen de admisión uno pasaba algunos.
+[SPEAKER_01]  Al final yo tuve que hacer solo dos, pero...
+[SPEAKER_01]  Pues en realidad era muy vaticón, no iba a salir hablando inglés con...
+[SPEAKER_01]  con esos dos cursitos.
+[SPEAKER_01]  Entonces creo que sí.
+[SPEAKER_01]  Eso hizo muchísima falta. Incluso dentro de la carrera me hizo falta porque cuando me mandaban lecturas en inglés yo era como...
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  No.
+[SPEAKER_01]  Y mientras los otros se leían eso en una hora, pues yo me gastaba ocho horas ahí traduciendo, leyendo y traduciendo.
+[SPEAKER_00]  mientras
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  ¿Tú te acuerdas?
+[SPEAKER_01]  Entonces creo que si hubiera tenido el idioma mucho más fuerte, hubiera sido más fácil llevar algunas asignaturas.
+[SPEAKER_01]  Y también...
+[SPEAKER_01]  Más fácil después porque...
+[SPEAKER_01]  Casi que ya terminando la carrera fue cuando volví de Francia.
+[SPEAKER_01]  Dije, no, tengo que aprender inglés. Y una vez me metí a estudiar inglés.
+[SPEAKER_01]  Y duré como año y medio y ya.
+[SPEAKER_01]  con un buen nivel, pero...
+[SPEAKER_01]  pero sí sentí que me hacía falta de antes.
+[SPEAKER_01]  De pronto, en el momento que me gradué, que...
+[SPEAKER_01]  Bueno, ahí ya sabía, pero si me hubiera graduado sin tener ese nivel de inglés, creo que hubiera estado como en desventaja de él.
+[SPEAKER_01]  las demás universidades que sí salen sabiendo inglés.
+[SPEAKER_04]  No, y ahora con mayor razón porque los trabajos son...
+[SPEAKER_04]  globales, ¿no? O sea, hay muchos que trabajan con empresas multinacionales y ya aquí...
+[SPEAKER_04]  que inclusive les pagan en dólares, pero que tienen relación con India, con...
+[SPEAKER_00]  Bien.
+[SPEAKER_04]  con Inglaterra, con otros países de Asia.
+[SPEAKER_04]  pero manejan en inglés.
+[SPEAKER_03]  Yo creo que es un mal nacional, ¿no? El tema Colombia está mal.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  En el tema del inglés.
+[SPEAKER_03]  nacionales, es un problema grande.
+[SPEAKER_04]  Sí, pero para los desistemas tenemos que...
+[SPEAKER_03]  Pero bueno...
+[SPEAKER_04]  comentar que
+[SPEAKER_04]  que tienen que salir bien.
+[SPEAKER_03]  Y hay unas teorías de que somos muy endógenos en Colombia, ¿no?
+[SPEAKER_03]  muy dentro de nosotros mismos.
+[SPEAKER_05]  No.
+[SPEAKER_03]  Y todavía el extranjero nos parece, wow, mire, ese es extranjero, mire, ese es un francés.
+[SPEAKER_03]  etcétera
+[SPEAKER_03]  y lo que no pasa en otros países en donde hay más
+[SPEAKER_03]  cercanía, digamos, con...
+[SPEAKER_03]  Colombia tiene ese problema y el tema de la inglesa es...
+[SPEAKER_03]  tendrían un problema grande.
+[SPEAKER_00]  Sí.
+[SPEAKER_03]  Desde el colegio, ¿no? Desde el colegio.
+[SPEAKER_03]  porque duran 10 años estudiando inglés y...
+[SPEAKER_03]  No sale nada mal.
+[SPEAKER_00]  No sale nada mal.
+[SPEAKER_00] 
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Sí, sí, sí, sí, sí, good morning.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  el problema
+[SPEAKER_03]  Y la verdad en la vida profesional se sufre mucho, ¿no?
+[SPEAKER_03]  Nosotros los veteranos que tuvimos esa dificultad.
+[SPEAKER_03]  y que nos tocó hablar en inglés, salir al exterior y hacer negocios y hablar por teléfono en inglés.
+[SPEAKER_03]  y llegar a un país, ahí sí, como decía, esto es decir, como...
+[SPEAKER_03]  ¿Cómo arreglo el calentador que no me prende? Como tú bien lo dices, ¿no? Es una experiencia muy dura, ¿no?
+[SPEAKER_03]  Y en cambio, bueno, si hay jóvenes y hay colegios, cuando uno los ve, ¿no?
+[SPEAKER_03]  colegios, por ejemplo, creo que el hijo de Beatriz es alemán, ¿cierto?
+[SPEAKER_03]  En el alemán, sí. Si los dios míos eran en inglés, perfecto.
+[SPEAKER_06]  en el alemán
+[SPEAKER_03]  ¿No?
+[SPEAKER_03]  Pero nosotros los veteranos no, o sea que es un sufrimiento grande.
+[SPEAKER_03]  Un problema.
+[SPEAKER_03]  Que hay que...
+[SPEAKER_06]  Gracias.
+[SPEAKER_03]  en el país
+[SPEAKER_06]  Sí, que desde la academia toca promover fuertemente para que estos chicos mejoren el inglés.
+[SPEAKER_06]  Miren que la experiencia, por ejemplo, en la maratón que organizamos.
+[SPEAKER_06]  Todos los problemas van en inglés para que los muchachos...
+[SPEAKER_06]  se preocupen en que deben mejorarlo, deben entenderlo. Si van a representar al país en cualquier cosa, pues tienen que conocer un poquito más de su idioma, de este idioma.
+[SPEAKER_03]  Beatriz viaja todos los años a la Maratón Mundial, se va para Egipto, después de unos días.
+[SPEAKER_06]  con dos equipos de la Universidad Nacional, los de la Nacional son requetecampeones. ¿Te tocó alguna vez en la universidad oír hablar de la maratón?
+[SPEAKER_06]  Sí, yo tenía varios. De programación con el profesor Fabio González desde la universidad. No sé si él te dio clases, es quien lo ha liderado.
+[SPEAKER_00]  y
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  ¡Gracias por ver el video!
+[SPEAKER_01]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Sí, yo y algoritmos con él.
+[SPEAKER_01]  Y sí, varios compañeros siempre estaban ahí en el tema de la maratón.
+[SPEAKER_06]  Claro.
+[SPEAKER_06]  Claro.
+[SPEAKER_06]  De acuerdo.
+[SPEAKER_06]  ¿Y Jorge Camargo será de tu época? ¿No te suena?
+[SPEAKER_06]  ¿Por Gelía es el Camargo?
+[SPEAKER_06]  Él también es de la nacional y hoy en día es decano de una universidad.
+[SPEAKER_04]  de Lanariño.
+[SPEAKER_06]  De Lanariño, es que él es súper pupilo de Fabio.
+[SPEAKER_06]  No, yo me suena.
+[SPEAKER_03]  Haz buenas personas.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  en la lista de suerte.
+[SPEAKER_06]  Los de la Nacional son buenas personas y buenos estudiantes, además. Tienen muchas cosas a su favor.
+[SPEAKER_03]  El empu...
+[SPEAKER_03]  Aquí les hemos echado muchas flores a los de la Nacional, ¿no Edgar?
+[SPEAKER_03]  ¿Sí?
+[SPEAKER_04]  Sí, no, la verdad sí.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  pero...
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  No, claro, pero y las competencias son...
+[SPEAKER_04]  Pero son muy complementarias cuando trabajamos en conjunto nacional de andinos.
+[SPEAKER_04]  Esto es formidable.
+[SPEAKER_04]  contribuir en esa formación.
+[SPEAKER_04]  O sea, por ejemplo, Sandra que hoy no estuvo, pero...
+[SPEAKER_05]  O sea, por ejemplo,
+[SPEAKER_04]  Pero digamos, trabajar con ella es una cosa bárbara.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  entonces nos entendemos o sea pareceríamos que fueran extremos pero no es así
+[SPEAKER_03]  No, no, no, no, no. Y quieren mucho su universidad. Eso ha salido siempre en estas conversaciones.
+[SPEAKER_03]  y sobre todo los orientan mucho hacia el estudio. Mira la orientación para que ella se fuera al exterior, ¿no?
+[SPEAKER_05]  Sí, pues por supuesto.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Es decir, es un propósito.
+[SPEAKER_03]  Por eso son tan buenos.
+[SPEAKER_03]  Y la universidad es tan buena, indudablemente.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Sí, sí, señor.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Saludos
+[SPEAKER_04]  Te envío un chat con mi celular para ver que me envíes el tuyo.
+[SPEAKER_00]  ¡Bien!
+[SPEAKER_06]  Gracias.
+[SPEAKER_00]  sí
+[SPEAKER_06]  Y vas a decir que también, ¿qué? ¿Te acordaste de otra persona?
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Las actividades extracurriculares en la universidad.
+[SPEAKER_01]  Eh...
+[SPEAKER_00]  ¡Gracias!
+[SPEAKER_00]  Es bonito, es lindo, es emocionante.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Perdón.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  ¿Yo juego baloncesto?
+[SPEAKER_01]  en el colegio yo separe
+[SPEAKER_00]  ¿Ah?
+[SPEAKER_01]  estuve en la selección del colegio. Cuando entré a la universidad lo intenté.
+[SPEAKER_03]  ¿En qué juegas?
+[SPEAKER_01] 
+[SPEAKER_01]  baloncesto.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Ah, va, no es esto.
+[SPEAKER_01]  Cuando entré a la universidad lo intenté porque alguien me vio por ahí jugando en una cancha y me invitó a los entrenamientos de la selección.
+[SPEAKER_01]  pero fui solo un par de veces porque era demasiado tarde.
+[SPEAKER_01]  y pues yo siempre he vivido acá en Mosquera.
+[SPEAKER_01]  Entonces...
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Fui un par de veces como en el segundo semestre, creo.
+[SPEAKER_01]  Y ya no...
+[SPEAKER_01]  No volví, de hecho durante la universidad casi que no practiqué baloncesto.
+[SPEAKER_01]  Luego de que salí, volví y retomé.
+[SPEAKER_01]  Tengo...
+[SPEAKER_01]  Estoy acá en un equipo de mosquera, a veces vamos a torneos y eso.
+[SPEAKER_01]  Pero en la universidad quería mencionar que también había como otras...
+[SPEAKER_01]  Cursos Libres se llama
+[SPEAKER_01]  Entonces también podía uno hacer otras cosas diferentes a las que ve, o sea, diferente a ver sus materias o a ver lecturas de otras carreras.
+[SPEAKER_01]  sino tomar esos cursos libres, entonces podía uno tomar clases de tango.
+[SPEAKER_01]  que tenían así su horario
+[SPEAKER_01]  Tango creo que era una vez a la semana, como los miércoles, por la noche.
+[SPEAKER_01] 
+[SPEAKER_01]  También vi...
+[SPEAKER_01]  Me inscribía a Salsa.
+[SPEAKER_01]  que eso también era dos días a la semana, con el ánimo no solo de aprender salsa, sino de hacer algún ejercicio porque a veces sentía que...
+[SPEAKER_01]  Me levantaba a la universidad, todo el día en la universidad, llegué a la casa a dar a trabajos y no tenía como el espacio para...
+[SPEAKER_01]  para estar activo.
+[SPEAKER_01]  Entonces eso me servía porque salía de clase, iba a la clase de salsa y ya me venía luego a la casa.
+[SPEAKER_01]  Entonces eso también fue chévere, pero...
+[SPEAKER_01]  pues no todo el mundo lo aprovecha.
+[SPEAKER_01]  Pero así como decía, había muchos cursos, cursos de guitarra, de masajes, todo algo así.
+[SPEAKER_01]  de danza árabe.
+[SPEAKER_04]  ¿Y esos cursos tienen créditos o son...?
+[SPEAKER_01]  No, esos son...
+[SPEAKER_04]  No, eso es...
+[SPEAKER_01]  como cursos que da bienestar.
+[SPEAKER_01]  Y uno paga una tarifa muy poquitica para inscribirse.
+[SPEAKER_03]  Eso es muy importante porque lo debiste vivir en Europa.
+[SPEAKER_03]  Mmm...
+[SPEAKER_03]  Espera que estoy escribiendo aquí la última frase.
+[SPEAKER_03]  En Europa...
+[SPEAKER_03]  Conozco muchachos investigadores que han ido a hacer su maestría a Francia.
+[SPEAKER_03]  La Francia, precisamente, París y León.
+[SPEAKER_03]  que se quedaban a trabajar por las noches.
+[SPEAKER_03]  Y los llamaron y les dijeron, no, acá a las 5 usted se va.
+[SPEAKER_03]  Aquí no nos queremos ver por la noche, ni queremos que nos manden correos por la noche.
+[SPEAKER_03]  En Europa.
+[SPEAKER_05] 
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  hacen una vida cultural personal.
+[SPEAKER_03]  Y un grupo de esos, muy intelectuales de sistemas,
+[SPEAKER_03]  estudiaron salsa.
+[SPEAKER_03]  y crearon un grupo de salsa y se presentaron después en teatros como aficionados.
+[SPEAKER_03]  y venían a Colombia a comprar toda la ropa, el sombrero y todas esas cosas.
+[SPEAKER_03]  Y para completar hubo unos que se dedicaron al tango.
+[SPEAKER_03]  Y además de uno es profesor de tango.
+[SPEAKER_03]  ¿Sí?
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Es decir, son historias reales, no van a dar los nombres.
+[SPEAKER_05]  Es decir, Tomás.
+[SPEAKER_03]  De acuerdo, en León.
+[SPEAKER_03]  ¿Sí?
+[SPEAKER_03]  que vi en un folleto de turismo.
+[SPEAKER_03]  El nombre de uno de ellos...
+[SPEAKER_03]  porque los de tango salen a bailar en la calle.
+[SPEAKER_03]  A las milongas, tú sabes las milongas, eso es sagrado, eso es como una iglesia, ¿no?
+[SPEAKER_00]  milongas
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Pero es una historia bonita porque siguen siendo...
+[SPEAKER_03]  programadores, ingenieros de investigaciones complejas y universitarios, digamos como profesores, etc.
+[SPEAKER_03]  pero tuvieron eso un poquito forzados por la cultura europea.
+[SPEAKER_00]  Sí.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  También nos falta.
+[SPEAKER_03]  Creo que aquí estamos muy encerrados en solo trabajar.
+[SPEAKER_00]  Peace.
+[SPEAKER_01]  Sí, eso es cierto. Solo trabajar y estudiar todo el tiempo. Y como que si no estoy como productivo, como que estoy haciendo, no estoy haciendo algo.
+[SPEAKER_01]  Entonces creo que eso sí, también nos falta como aprender a...
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  a disfrutar más la vida y los espacios de recreación.
+[SPEAKER_03]  De acuerdo, esa es una cosa que también las universidades deberían promover más.
+[SPEAKER_03]  Y no hace ese...
+[SPEAKER_03]  sentir culpable porque se fue a cine o a un teatro.
+[SPEAKER_03]  Cosas de esas en lugar de estar trabajando.
+[SPEAKER_03]  Es el tipo de mentalidad.
+[SPEAKER_01]  De nada.
+[SPEAKER_01]  Y eso sí es cierto en la cultura francesa, que eso sí es algo que les sorprende a uno que uno ve a las 5 ya.
+[SPEAKER_01]  Y ellos empiezan a trabajar como a las 10 de la mañana y pues de 10 a 5. De resto no lo atiendo, no nada.
+[SPEAKER_00]  Y yo siempre...
+[SPEAKER_01]  Y es chévere porque entonces uno también se acostumbra a que en estos horarios nadie me interrumpe con cosas que no sean personales.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  ¿Cómo es?
+[SPEAKER_03]  Claro, exacto.
+[SPEAKER_03]  Y además tienen muchas semanas de vacaciones al año.
+[SPEAKER_03]  como dos meses, es una cosa exageradísima.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Vacaciones de verano, vacaciones de otoño.
+[SPEAKER_00]  ocasiones de primavera.
+[SPEAKER_03]  Sí, sí, sí.
+[SPEAKER_03]  Ok.
+[SPEAKER_03]  Bueno, yo creo que estamos como cerrando ya. Sí, está bien.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  Sí.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Sí.
+[SPEAKER_03]  Yesenia, muchas gracias, sé que hiciste un esfuerzo hoy porque tenías algo que me contaste, pero...
+[SPEAKER_03]  lograste salir adelante y nosotros lo agradecemos para no romper tu homenaje.
+[SPEAKER_03]  la secuencia de lo que estamos haciendo.
+[SPEAKER_03]  estás haciendo un gran aporte a este proceso con tu experiencia.
+[SPEAKER_03]  No sé si alguno quiere alguna conclusión.
+[SPEAKER_03]  Y Beatriz nos toma la foto.
+[SPEAKER_06]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_06]  Yo les tomo la foto del cierre y de la sonrisa.
+[SPEAKER_04]  A mí me gusta que...
+[SPEAKER_04]  Que Kevin, que es estudiante y le está, que participe, que haga la última pregunta.
+[SPEAKER_04]  como vio este ejemplo de ingenieros y sistemas actuales.
+[SPEAKER_04]  aprendizajes
+[SPEAKER_04] 
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  No, pero...
+[SPEAKER_05]  No.
+[SPEAKER_00]  Digamos que yo me...
+[SPEAKER_02]  digamos que yo me
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  ¡Hijo de su...
+[SPEAKER_00]  No, no.
+[SPEAKER_02]  Bueno, yo me quedo con...
+[SPEAKER_02]  con lo que ella dice de...
+[SPEAKER_02]  de
+[SPEAKER_02]  Una reflexión.
+[SPEAKER_00]  una rebla
+[SPEAKER_02]  Siempre piensan que los ingenieros somos solo programas.
+[SPEAKER_02]  Adiós.
+[SPEAKER_02]  Y yo siento que no es solo que seamos un programador. Un programador es un programador y un ingeniero de sistemas es un ingeniero de sistemas.
+[SPEAKER_02]  Que sepamos programar es una habilidad de nosotros, más no es nuestra profesión.
+[SPEAKER_02]  Entonces esa es una reflexión que siempre me meto.
+[SPEAKER_02]  Siempre la tengo presente porque...
+[SPEAKER_02]  Siempre dicen, ¿cómo no? Pero eso no sirve para programar. Yo digo, no, eso no es cierto.
+[SPEAKER_02]  Adiós.
+[SPEAKER_02]  Sabemos mucho más.
+[SPEAKER_02]  Y por eso somos tan valiosos, porque cualquiera puede aprender a programar.
+[SPEAKER_02]  Por favor.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  tres, cuatro, cinco meses lo puede hacer.
+[SPEAKER_02]  Por favor.
+[SPEAKER_02]  entre mis amigos que estudian comunicación social y terminan siendo programadores.
+[SPEAKER_02]  pero serían inéditos sistemas como tú lo decías.
+[SPEAKER_02]  Eso es materia de pensamiento sistémico.
+[SPEAKER_02]  de
+[SPEAKER_02]  ahorita con el provee que tenemos arquitectura empresarial.
+[SPEAKER_02]  Son materias que uno se da cuenta que...
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Tenemos una misión y es que tenemos que ver todo el panorama, que es la visión holística.
+[SPEAKER_02]  Ehm...
+[SPEAKER_02]  Y eso es lo que nos hace a nosotros.
+[SPEAKER_02]  distintos a los programables.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Con eso me quedo.
+[SPEAKER_02]  Muy bien.
+[SPEAKER_03]  Muy bien. Le va a ganar un premio en conclusiones, Kevin.
+[SPEAKER_03]  Él hace unas conclusiones buenísimas.
+[SPEAKER_06]  Es que además nuestro candidato Edil se expresa bien y le gusta todos los temas.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_06]  participativas al muchacho.
+[SPEAKER_03]  Y capta la esencia, lo que él acaba de decir como estudiante, es muy importante.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Yesenia.
+[SPEAKER_03]  Moraleja final y cerramos. ¿Quisieras decir algo?
+[SPEAKER_03]  Así.
+[SPEAKER_01]  Sí, relacionado con lo que dijo Kevin, yo siento que ahorita muchas personas están aprendiendo a programar.
+[SPEAKER_01]  porque pues la industria lo pide.
+[SPEAKER_01]  y
+[SPEAKER_01]  Entonces creo que sí.
+[SPEAKER_01]  Tenemos que recalcar eso, que no somos...
+[SPEAKER_01]  solo programadores y no más allá de eso, porque esa va a ser una habilidad.
+[SPEAKER_01]  Así como ahorita a uno le dicen tiene que saber inglés
+[SPEAKER_00] 
+[SPEAKER_00]  desde
+[SPEAKER_01]  Desde ya y en muy pocos años a la gente le van a decir, tiene que saber hacer ciertas cosas de programación.
+[SPEAKER_01]  en Excel o en... así sean cosas muy básicas.
+[SPEAKER_01]  pero que lo tienen que saber hacer entonces.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Eso que...
+[SPEAKER_01]  que nosotros somos más que eso.
+[SPEAKER_01]  y que van a ser una, o sea, esa habilidad la van a tener muchas personas, entonces tenemos que sabresalir por otras cosas.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Buena conclusión, muy interesante.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Creo que con eso vamos a cerrar. Agradecerte Yesenia nuevamente por estar con nosotros.
+[SPEAKER_03]  Sí, y bueno, y todos, ¿no? Nosotros que logramos estar.
+[SPEAKER_03]  Está muy bien.
+[SPEAKER_03]  Con eso cerramos y seguimos adelante.
+[SPEAKER_05]  ¿Eso cerramos?
+[SPEAKER_05]  Adelante.
+[SPEAKER_03]  Esto queda grabado, como saben, diseña, no se entrega.
+[SPEAKER_03]  Hay una reunión que vamos a hacer pronto con Edgar, ¿no?
+[SPEAKER_03]  para los planes de los videos los tenemos.
+[SPEAKER_03]  para lo que sigue. Y pues mucha suerte, Yosin, en tu futuro.
+[SPEAKER_03]  Muchas gracias. Ya sabes que aquí en Así se encuentran unos amigos.
+[SPEAKER_00]  Muchas gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Aunque no seamos de la nacional.
+[SPEAKER_03]  Somos muy cercanos todos.
+[SPEAKER_03]  y Beatriz.
+[SPEAKER_06]  Cuídate siempre de los estudiantes para las prácticas.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  ¡Ah!
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  El banco es una excelente escuela para las prácticas en las diferentes áreas.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Sí.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Como el banco no puede enviarle a cada universidad, como esta es la convocatoria, porque si no tendría que enviársela a todos.
+[SPEAKER_01]  Se saca la convocatoria pública.
+[SPEAKER_01]  y se presentan muy poquitos de ingeniería de sistemas.
+[SPEAKER_01]  Ah, no digas.
+[SPEAKER_01]  No sé, de pronto es porque uno...
+[SPEAKER_01]  está en la universidad y piensa solo Google, IBM, no sé qué.
+[SPEAKER_01]  presenta muy poquito, o sea, el ejemplo para este semestre.
+[SPEAKER_01]  Solo habían cuatro.
+[SPEAKER_01]  cuatro postulados y necesitábamos cinco puestos.
+[SPEAKER_04]  Sí, pero yo le he dicho a Camilo que no es.
+[SPEAKER_04]  que aparte de la publicación que me mande el enlace, yo puedo no solamente en mi universidad, sino mandar las redes y así.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Entonces conviene.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  Gracias.
+[SPEAKER_06]  Y mira que nosotros desde ASIS también podemos ayudarles a hacer esas convocatorias para que...
+[SPEAKER_03]  Y mira.
+[SPEAKER_06]  realmente llegue más gente y aproveche el espacio, ¿no?
+[SPEAKER_04]  Por lo menos que nos manden el enlace de la publicación.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Voy a tenerlo en cuenta porque si a veces...
+[SPEAKER_01]  Nos dicen como, es que no hay suficientes.
+[SPEAKER_01]  Consíganos algo de vida o...
+[SPEAKER_01]  publiquen la convocatoria o eso.
+[SPEAKER_01]  Entonces sí, sí lo tendrán en cuenta porque a veces lo que yo hago es como decirle a los practicantes, los últimos que he tenido, como ayúdenme a compartir.
+[SPEAKER_04]  Ayudar con sus amigos.
+[SPEAKER_01]  ¿Qué les falta hacer la práctica?
+[SPEAKER_04]  No, pero fíjate, esta relación es para eso, que cuentes con ASIS y cuentes con RAID.
+[SPEAKER_04]  Y directamente pues conmigo con la Tadeo también.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Adiós.
+[SPEAKER_06]  Ahí te dejo en el chat mi nombre, mi correo electrónico, el celular. De verdad que para cualquier cosa, con mucho gusto te ayudamos.
+[SPEAKER_03]  Gracias.
+[SPEAKER_06]  Ay, muchas gracias, Beatriz.
+[SPEAKER_06]  Gracias.
+[SPEAKER_03]  Bueno, cerramos entonces, ¿no?
+[SPEAKER_04]  Yesenia, nos alegra mucho haber tenido como invitada. Muchas gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Muchas gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Muchas gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  ¡Gracias!
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  a ustedes por la invitación y que les acabe muy bien
+[SPEAKER_01]  en este proyecto que están haciendo.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Muchas gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  Gracias, José.
+[SPEAKER_03]  Adiós.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Hasta luego.
+[SPEAKER_01]  Buenas tardes.
+[SPEAKER_03] 
+[SPEAKER_03]  Que bien, a ver.
+[SPEAKER_01]  No.
+[SPEAKER_03]  Hasta luego.
+[SPEAKER_03]  Gracias.
