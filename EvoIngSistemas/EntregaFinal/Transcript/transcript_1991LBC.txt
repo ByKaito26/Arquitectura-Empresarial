@@ -1,0 +1,1809 @@
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Ya estamos grabando, como siempre, hago una introducción rápidamente, como siempre estamos en la entrevista a Luis Bernardo Chicaíza en este caso.
+[SPEAKER_04]  como esto
+[SPEAKER_01]  que nos va a contar su historia.
+[SPEAKER_01]  Edgar Ruiz va a ser su entrevistador.
+[SPEAKER_01]  Y vamos para adelante entonces con la grabación.
+[SPEAKER_01]  Listo.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Buenas tardes, Luis Bernardo.
+[SPEAKER_04]  Nos place mucho.
+[SPEAKER_04]  que participes en este proyecto que venimos desarrollando.
+[SPEAKER_04]  Entre ASIS y Redis y...
+[SPEAKER_04]  la academia y los empresarios.
+[SPEAKER_04]  con el propósito de generar...
+[SPEAKER_04]  un documento importante sobre la evolución de la ingeniería de sistemas.
+[SPEAKER_04]  En esta oportunidad, pues, nos corresponde trabajar con...
+[SPEAKER_04]  contigo
+[SPEAKER_04]  Y la idea es poder hacer un recorrido desde...
+[SPEAKER_04]  El inicio es de tu interés por esta profesión hasta nuestros días.
+[SPEAKER_03]  ¿Ok?
+[SPEAKER_04]  Perfecto. Entonces, quisiéramos consultarte.
+[SPEAKER_04]  ¿Cómo fue tu final de bachillerato? ¿Qué pasaba en ese entonces?
+[SPEAKER_04]  ¿Qué hizo que tomaras decisiones sobre...?
+[SPEAKER_04]  estudiar una carrera como esta.
+[SPEAKER_04]  ¿Hubo alguna orientación? ¿Hubo alguna investigación?
+[SPEAKER_04]  motivaciones y demás.
+[SPEAKER_01]  Y no olvidar los años, ¿no? Mencionar los años, ¿no? Sí.
+[SPEAKER_05]  ¡Oh!
+[SPEAKER_04]  ¡Gracias!
+[SPEAKER_05]  ¡Gracias!
+[SPEAKER_01]  año tal, pasó esto, etc.
+[SPEAKER_05]  Todavía me acuerdo.
+[SPEAKER_05]  Pues yo estudié en San Bartolomé.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Yo entré al colegio en el año 81, este es el bachillerato.
+[SPEAKER_05]  y
+[SPEAKER_05]  Y en el colegio, como desde yo calculo que segundo, tercero de bachillerato empezamos a tener clases de computación.
+[SPEAKER_05]  y
+[SPEAKER_05]  y
+[SPEAKER_05]  Y ya por mi parte.
+[SPEAKER_05]  A mí el tema de los computadores me...
+[SPEAKER_05]  me ha llamado mucho la atención y la verdad me apasionaba.
+[SPEAKER_05]  Porque unos años antes...
+[SPEAKER_05]  Tal vez cuando yo todavía estaba en primaria o apenas comenzando el bachillerato.
+[SPEAKER_05]  y
+[SPEAKER_05]  La presidencia abrió un centro de informática, ahí al frente del Palacio Nariño.
+[SPEAKER_05]  Y resulta que mi papá trabajaba del Ministerio de Hacienda, ahí en un edificio San Agustín.
+[SPEAKER_05]  En la carrera séptima con Calle...
+[SPEAKER_05]  Sexta, séptima.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Entonces mi papá le quedaba el Palacio Nariño al frente, él supo del centro de informática que se había abierto allá.
+[SPEAKER_05]  y me llevo a conocer
+[SPEAKER_05]  pues el sitio.
+[SPEAKER_05]  Y ahí conocí los computadores.
+[SPEAKER_05]  y
+[SPEAKER_05]  Y pues digamos que eso fue amor a primera vista. Entonces desde ahí yo quedé como muy entusiasmado con el tema.
+[SPEAKER_05]  Por esas épocas el tiempo sacó una...
+[SPEAKER_05]  Una biblioteca, una enciclopedia esas por pasículos.
+[SPEAKER_05]  que se llama AmiPese.
+[SPEAKER_05]  Entonces yo esperaba ansioso los fascículos todas las semanas para leer.
+[SPEAKER_05]  Pues todo lo que...
+[SPEAKER_05]  todo lo que había, o quizás mi computer, o mi PC, algo así, la verdad no me acuerdo muy bien.
+[SPEAKER_05]  Pero yo los coleccionaba.
+[SPEAKER_05]  Leía todo.
+[SPEAKER_05]  Mi papá me compraba la revista Mecánica Popular, en la cual también salían cosas de computadores.
+[SPEAKER_05]  Y ya como era el año 81 y empezaban a salir...
+[SPEAKER_05]  a salir los primeros PCs.
+[SPEAKER_05]  digamos que...
+[SPEAKER_05]  que ya estaba yo como muy enamorado del tema.
+[SPEAKER_05]  Y cuando en el colegio empezamos a tener clases de computación,
+[SPEAKER_05]  nos empezaron a enseñar a programar.
+[SPEAKER_05]  Pero vamos, cosas muy básicas.
+[SPEAKER_05]  eran unos computadores también muy básicos, unos Texas.
+[SPEAKER_05]  Te digo 29.4A.
+[SPEAKER_05]  y
+[SPEAKER_05]  Y pues hacemos jueguitos.
+[SPEAKER_05]  hacíamos cosas muy muy
+[SPEAKER_05]  Pues muy con las uñas porque la tecnología no va para mucho más.
+[SPEAKER_05]  pero pues yo ya estaba enamorado de la programación y enamorado de los computadores, entonces desde ese momento yo sabía que lo que yo quería estudiar era sistemas.
+[SPEAKER_05]  y
+[SPEAKER_05]  Pues digamos que todavía me acuerdo que...
+[SPEAKER_05]  tocaba almacenar los programas en cassette
+[SPEAKER_05]  Entonces uno tenía su grabadora.
+[SPEAKER_05]  conectar al computador.
+[SPEAKER_05]  y en el cassette entonces llevaba almacenados los programas, pues digamos que eran otros tiempos.
+[SPEAKER_05]  Pero desde ahí nació mi cariño y mi amor por la programación.
+[SPEAKER_04]  fantástico
+[SPEAKER_04]  O sea, fue una iniciativa propia.
+[SPEAKER_05]  Sí, realmente como que me enamoré del tema y desde siempre quise que lo que yo quería era...
+[SPEAKER_05]  Trabajar con computadores y aprender a programar, eso era lo que...
+[SPEAKER_04]  Y en el colegio entonces había esa dinámica de aprendizaje que...
+[SPEAKER_04]  qué cosas veían, qué elementos utilizaban, cómo trabajan en el colegio para que también fuera...
+[SPEAKER_05]  Realmente el colegio programamos en BASIC.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Y lo que hacíamos eran cosas muy básicas. Yo recuerdo haber hecho jueguitos muy simples.
+[SPEAKER_05]  emulando el Pong y ese tipo de cosas.
+[SPEAKER_05]  y
+[SPEAKER_05]  Pero pues digamos que ya era la...
+[SPEAKER_05]  la posibilidad de construir y hacer los programas más que solo usarlos.
+[SPEAKER_05]  Entonces como esa posibilidad de crear cosas.
+[SPEAKER_05]  y de resolver problemas usando el computador y usando la programación.
+[SPEAKER_05]  Pues eso me parecía fascinante.
+[SPEAKER_05]  Y pues desde ahí nació ese cariño por...
+[SPEAKER_05]  por el desarrollo.
+[SPEAKER_04]  Ok. ¿El colegio contaba ya con equipos?
+[SPEAKER_04]  Sí.
+[SPEAKER_05]  Sí.
+[SPEAKER_04]  micros.
+[SPEAKER_05]  Sí, teníamos, como te decía, teníamos esos computadores Texas, Texas Instruments.
+[SPEAKER_04]  Ah, te excesivo.
+[SPEAKER_05]  que pues eran muy básicos y eso se conectaba a un computador.
+[SPEAKER_05]  Por RF
+[SPEAKER_05]  y el almacenamiento era en una grabadora de cassette.
+[SPEAKER_05]  digamos que la tecnología que había en esa época pues era muy básica pero pues eso es lo que teníamos
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Bueno, y empiezas a seleccionarte.
+[SPEAKER_04]  dónde estudiar o simplemente ya estaba decidido dónde estudiar o evaluaste alternativas, evaluaste...
+[SPEAKER_04]  metodologías, qué sé yo, en esa época.
+[SPEAKER_05]  Bueno, ya cuando...
+[SPEAKER_05]  Llegó sexto bachillerato y ya me gradué.
+[SPEAKER_05]  Yo tenía que elegir dónde estudiar.
+[SPEAKER_05]  Y quería estudiar. Digamos que yo tenía claro que quería estudiar sistemas, pero me da susto no pasar a sistemas.
+[SPEAKER_05]  Entonces dije, bueno, si no logro entrar a sistemas, pues tengo la segunda opción de estudiar electrónica.
+[SPEAKER_05]  y
+[SPEAKER_05]  Entonces yo me presenté a Sistemas en los Andes.
+[SPEAKER_05]  Me presenté a sistemas en la nacional.
+[SPEAKER_05]  Y me presenté a Electrónica en la Javeriana.
+[SPEAKER_05]  En esa época en la Javerina no había sistemas.
+[SPEAKER_05]  Y afortunadamente, pues pasé en las tres.
+[SPEAKER_05]  y pues decidí estudiar en los Andes.
+[SPEAKER_04]  muy bueno
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  Y bueno, cuando iniciaste, ¿qué...?
+[SPEAKER_04]  ¿Qué te empezó a llamar la atención? ¿Qué materias tomaste? ¿Con qué profesores?
+[SPEAKER_04]  interesante, ¿qué hizo que continuarás motivado? Porque muchos...
+[SPEAKER_04]  a pesar del amor que tienen al principio.
+[SPEAKER_04]  algunas exigencias o cosas, motivan o desmotivan.
+[SPEAKER_04]  Sí.
+[SPEAKER_05]  Bueno, yo en la universidad, en los primeros semestres...
+[SPEAKER_05]  Pues uno tiene, aparte de las materias de la...
+[SPEAKER_04]  ¿Y qué repites el año en que entraste a la universidad?
+[SPEAKER_05]  Yo entré en el año 87.
+[SPEAKER_05]  Soy Código 87.1
+[SPEAKER_05]  Lo saben, dice.
+[SPEAKER_05]  Entonces me gradué, entré al colegio en el 81, me gradué en el 86 y en el 87 entré a los Andes.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Y desde el comienzo, pues, uno ve materias de programación.
+[SPEAKER_05]  pues muy básicas
+[SPEAKER_05]  Pero pues digamos que eso me encantó.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Además, pues uno veía muchas materias de...
+[SPEAKER_05]  Pues de matemáticas, física.
+[SPEAKER_05]  química
+[SPEAKER_05]  Pero realmente a mí lo que me gustaba en las materias de sistemas, o sea, lo que yo le dedicaba el mayor tiempo posible era las materias de...
+[SPEAKER_05]  de sistemas.
+[SPEAKER_05]  Eh...
+[SPEAKER_05]  Y pues claro que en esa época...
+[SPEAKER_05]  En esa época, pues tuve profesores.
+[SPEAKER_05]  Muy inspiradores, en particular, digamos que el profesor que más me marcó a mí y que...
+[SPEAKER_05]  y que realmente como que me generó ese...
+[SPEAKER_05]  Ese modelo a seguir.
+[SPEAKER_05]  Fue Jorge Villalobos, vemos que fue el profesor más...
+[SPEAKER_05]  más relevante para mí.
+[SPEAKER_05]  para mi formación en esa época.
+[SPEAKER_05]  Y yo empecé a ver con él lenguajes en quinto semestre.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Y ahí quedé enganchado totalmente, digamos, que su estilo y su forma de enseñar.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  y su forma de no solo de transmitir el conocimiento, sino de transmitir como las ganas de aprender.
+[SPEAKER_05]  Más que enseñar una materia.
+[SPEAKER_05]  Yo creo que lo que él nos transmitía era como...
+[SPEAKER_05]  como una forma de enfrentar los problemas y una forma de...
+[SPEAKER_05]  pues básicamente de aprender por sí mismos.
+[SPEAKER_05]  y
+[SPEAKER_05]  Yo quedé, pues digamos que muy impactado por esa forma de...
+[SPEAKER_05]  de estudiar.
+[SPEAKER_05]  y todavía más enamorado de la programación.
+[SPEAKER_05]  De ahí en adelante yo fui monitor.
+[SPEAKER_05]  Pues prácticamente hasta que me gradué.
+[SPEAKER_05]  Fui monitor de Jorge en...
+[SPEAKER_05]  en el curso de lenguajes, de speech and monitor, en muchos otros cursos.
+[SPEAKER_05]  Siempre en cursos de...
+[SPEAKER_05]  de la carrera, un curso de programación básicamente.
+[SPEAKER_05]  y pues digamos que súper enfocado y súper encarretado en la programación. Afortunadamente en los Andes uno tiene la posibilidad de...
+[SPEAKER_05]  Pues de escoger las materias que quiero ver.
+[SPEAKER_05]  Yo siempre metía la mayor cantidad de materias que podía de la carrera.
+[SPEAKER_05]  Metía muchas selectivas, muchas más de las que requería el pensum.
+[SPEAKER_05]  básicamente tratando de explorar cosas que me interesaran.
+[SPEAKER_05]  Al final me interesa mucho el tema de programación editada por objetos.
+[SPEAKER_05]  que en esa época era algo que estaba empezando.
+[SPEAKER_05]  Digamos que era algo que todavía...
+[SPEAKER_05]  No era una tecnología establecida, sino que era un tema que se estaba investigando.
+[SPEAKER_05]  Había muchos lenguajes, había muchas aproximaciones, muchos enfoques distintos desde la investigación.
+[SPEAKER_05]  Y yo me metí por esa línea desde el comienzo y me encantó.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Y digamos que estuve...
+[SPEAKER_05]  muy metido en el tema de...
+[SPEAKER_05]  de programación delitada por objetos. De hecho, fue un monitor de...
+[SPEAKER_05]  del curso de PODO en algún momento.
+[SPEAKER_05]  Y pues digamos que eso me encantó.
+[SPEAKER_04]  Bueno, aparte de...
+[SPEAKER_04]  ¿De la inspiración de Jorge Villalobos hubo algún otro profesor o qué materias así?
+[SPEAKER_04]  Y lenguajes también hubo que te...
+[SPEAKER_04]  utilizaste y te entusiasmaste.
+[SPEAKER_05]  Claro, pues digamos que nosotros aprendimos a programar...
+[SPEAKER_05]  Arrancamos a programar en...
+[SPEAKER_05]  Bueno, comenzamos con Karel.
+[SPEAKER_05]  ¿Carrel Roth?
+[SPEAKER_05]  Y eso pues digamos que me parece un ejercicio súper interesante y de hecho mis hijos aprendieron Karel también cuando chiquitos.
+[SPEAKER_05]  Ehm...
+[SPEAKER_05]  Karel, después Pascal.
+[SPEAKER_05]  Después C y sus familiares.
+[SPEAKER_05]  Pues hacemos más porque todavía no existía C Sharp.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  pero también otro tipo de lenguajes. Yo me acuerdo que, por ejemplo,
+[SPEAKER_05]  y
+[SPEAKER_05]  Aprendimos Prologue, aprendimos Lisp.
+[SPEAKER_05]  y
+[SPEAKER_05]  Yo hice, por ejemplo, un proyecto de hacer...
+[SPEAKER_05]  de hacer un entorno de desarrollo del ISP en C.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  pues como una herramienta para los cursos en los que se enseñaba el ISP.
+[SPEAKER_05]  Algo parecido para Porlock.
+[SPEAKER_05]  y
+[SPEAKER_05]  Por ejemplo, recuerdo que la clase de bases de datos.
+[SPEAKER_05]  Con Pepe Abasolu.
+[SPEAKER_04]  con PPM.
+[SPEAKER_05]  tocaba hacer algunos proyectos en Cobol.
+[SPEAKER_05]  Y yo pedí permiso para ser los sensei. Y los hice en C.
+[SPEAKER_02] 
+[SPEAKER_05]  Nunca aprendí cómo nadar como pereza, entonces...
+[SPEAKER_02]  Ah, ah, ah.
+[SPEAKER_05]  Ese pedacito quedó...
+[SPEAKER_05]  Quedó tachado, ese me lo salté.
+[SPEAKER_05]  y
+[SPEAKER_05]  Pero pues digamos que esos fueron los lenguajes que yo aprendí estando en la universidad.
+[SPEAKER_05]  Después pues digamos que seguimos en la línea C Hoy en día en la compañía trabajamos obviamente en múltiples lenguajes, múltiples plataformas
+[SPEAKER_05]  Pero básicamente trabajamos en JavaScript y C Sharp, que son los lenguajes que más usamos y los que personalmente yo más uso.
+[SPEAKER_04]  Y ahí...
+[SPEAKER_04]  ¿Qué máquinas utilizaban? ¿Cómo es en términos de infraestructura?
+[SPEAKER_04]  te apropiaste o participaste o utilizaste ahí en la universidad los recursos.
+[SPEAKER_05]  Pues en la universidad teníamos...
+[SPEAKER_05]  Cuando comencé la carrera trabajamos en unos computadores Apple.
+[SPEAKER_05]  y
+[SPEAKER_05]  Era como un entorno de redes para poder acercar. Yo no me acuerdo cómo se llamaba eso, pero era súper primitivo.
+[SPEAKER_05]  Después trabajó en los televideos.
+[SPEAKER_05]  que ya eran unos microcomputadores más poderosos.
+[SPEAKER_05]  Los que trabajamos con unidades de disquetes de 5 en 4.
+[SPEAKER_05]  Hoy en día solamente se ven en los museos.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Y ya yo creo que un año después ya estábamos trabajando en PCs.
+[SPEAKER_05]  Me imagino que era en IBM, la verdad no me acuerdo de la marca, pero ya era en PCS.
+[SPEAKER_03] 
+[SPEAKER_04]  que
+[SPEAKER_04]  hubo con...
+[SPEAKER_04]  con respecto a la evolución ahí.
+[SPEAKER_04]  ¿Viviste alguna etapa de transformación, de cambio de generaciones?
+[SPEAKER_04]  de
+[SPEAKER_04]  Bueno, ya dijiste entre Coli y...
+[SPEAKER_04]  Entre los lenguajes de programación sí hubo, pues...
+[SPEAKER_04]  Por el hecho de los objetos y todo eso, pues obviamente había un cambio radical, pero...
+[SPEAKER_03]  Sí.
+[SPEAKER_04]  También pudo haberlo en infraestructura, ¿tuviste alguna influencia distinta?
+[SPEAKER_04]  en el uso de la infraestructura.
+[SPEAKER_05]  Claro, pues ya cuando uno hace memoria...
+[SPEAKER_05]  Pues digamos que uno no entiende cómo era que lograba programar en esas cosas tan básicas, con tan poquita memoria.
+[SPEAKER_05]  Con los procesadores tan lentos.
+[SPEAKER_05]  Pero pues ahí marqué bien se hacían las cosas.
+[SPEAKER_05]  y
+[SPEAKER_05]  Me tocó también conocer el...
+[SPEAKER_05]  el IBM grande y después el Borrocks de la universidad, los mainframes.
+[SPEAKER_05]  en los que básicamente uno tenía que hacer cola para correr sus programas.
+[SPEAKER_05]  Mi tesis que era un tema de elementos finitos.
+[SPEAKER_05]  Corría en el mainframe, entonces me tocaba dejar la...
+[SPEAKER_05]  El programa encolado para que corriera por las noches y al otro día llegar por la mañana a recoger los listados.
+[SPEAKER_05]  Si había errores, pues depure sobre el...
+[SPEAKER_05]  sobre el listado impreso en forma continua.
+[SPEAKER_05]  y suban la otra noche para que lo corran.
+[SPEAKER_05]  Pues digamos que hoy en día, hoy en día...
+[SPEAKER_05] 
+[SPEAKER_05]  no se imagina que tocara trabajar así pero
+[SPEAKER_05]  Pero pues era lo que había.
+[SPEAKER_04]  3, 4, 5, 6
+[SPEAKER_05]  Los resultados eran también listados, impresos.
+[SPEAKER_05]  Entonces uno corría los programas y lo que salía era un mamotreto de papel donde estaban los resultados.
+[SPEAKER_05]  Era interesante.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Una pregunta.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Una pregunta.
+[SPEAKER_02]  Muchas gracias.
+[SPEAKER_01]  Tengo una pregunta. ¿En algún momento comenzaste a trabajar en lenguaje de máquina?
+[SPEAKER_01]  Claro.
+[SPEAKER_05]  Claro.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Claro, es tu historia posterior.
+[SPEAKER_05]  Claro.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  pero cuenta
+[SPEAKER_05]  Sí.
+[SPEAKER_05]  Digamos que cuando empezamos con los PCs,
+[SPEAKER_05]  y
+[SPEAKER_05]  Cuando empezamos con los PCs,
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Una de las cosas que aprendimos a programar en Assembler
+[SPEAKER_02]  Y...
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Y a mí, digamos que ese tema también me encantó.
+[SPEAKER_05]  Me gustaba mucho porque sentía que tenía todo el control. A mí me gustaba programar en sec.
+[SPEAKER_05]  porque sentía que tenía mucho control.
+[SPEAKER_05]  de lo que realmente es el programa.
+[SPEAKER_05]  Pero cuando conocí a Sembler,
+[SPEAKER_05]  Pues dije, no, aquí sí ya es, o sea, ya más control que esto no hay.
+[SPEAKER_05]  y
+[SPEAKER_05]  Y entonces, la verdad, me gustaba mucho programar en Assembler.
+[SPEAKER_05]  Básicamente porque es algo que a mí siempre me gustó.
+[SPEAKER_05]  Y digamos que lo que...
+[SPEAKER_05]  me dediqué mucho tiempo.
+[SPEAKER_05]  era hacer algoritmos muy eficientes.
+[SPEAKER_05]  Entonces, por ejemplo...
+[SPEAKER_05]  Yo cuando programaba en C era muy consciente de lo que hacía el compilador para generar el lenguaje máquina.
+[SPEAKER_05]  Entonces yo programaba siendo consciente de cómo se iba a traducir eso al lenguaje máquina.
+[SPEAKER_05]  pensando en buscar las mayores eficiencias. Cuando el programa va a asembler,
+[SPEAKER_05]  Pues ya podía hacer eso yo mismo.
+[SPEAKER_05]  Entonces siempre trataba de...
+[SPEAKER_05]  o meter bloquecitos en assembler.
+[SPEAKER_05]  para tratar de optimizar el código y conseguir que corriera más rápido.
+[SPEAKER_05]  Entonces cuando descubrí a Sembler pues era la manera de tener ya el control.
+[SPEAKER_05]  completo del recurso y poder hacer los algoritmos como yo quería que funcionaran y pues que fueran.
+[SPEAKER_05]  Lo más rápido. Yo era medio obsesivo por el tema. Siempre quería tener...
+[SPEAKER_05]  algoritmos muy rápidos y muy eficientes.
+[SPEAKER_05]  Y como los recursos eran tan limitados...
+[SPEAKER_00]  Y como lo recuerdo, eran...
+[SPEAKER_05]  pues también nos permitía controlar el uso de memoria, controlaba la pila.
+[SPEAKER_05]  y podía optimizar entre la pila y la ramba, en fin.
+[SPEAKER_05]  Digamos que trataba de...
+[SPEAKER_05]  de tener código muy optimizado.
+[SPEAKER_05]  pues para tratar de aprovechar el recurso al máximo.
+[SPEAKER_01]  ¿Quién era tu profesor de Assemble?
+[SPEAKER_05]  y
+[SPEAKER_05]  hay
+[SPEAKER_05]  Se me fue Gómez.
+[SPEAKER_05]  ¿No me oyes, mamá?
+[SPEAKER_01]  ¿Rafael?
+[SPEAKER_05]  Rafael Cano
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Rafael Gómez.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Yo aprendí asamblea con Rafael Gómez.
+[SPEAKER_01]  Ah, qué bueno, sí.
+[SPEAKER_01]  Ok, sí, claro.
+[SPEAKER_01]  El primer artículo de la revista de Asís.
+[SPEAKER_01]  ¿Las traes?
+[SPEAKER_03] 
+[SPEAKER_01]  Sí, sobre la población estructural y la prohibición del vautú.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Tengo todas las revistas, ahí está.
+[SPEAKER_01]  Ese es el tema.
+[SPEAKER_01]  Bueno, muy interesante porque...
+[SPEAKER_01]  Tú fuiste un hombre en esas épocas de la máquina, digamos, del... Sí.
+[SPEAKER_03]  Sí.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  máquina
+[SPEAKER_01]  Indudablemente fue una orientación que tuviste.
+[SPEAKER_01]  Sí, sí, claro.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01] 
+[SPEAKER_04]  Masasia System.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Existen programas casi. Existen programas.
+[SPEAKER_01]  Me amaba así.
+[SPEAKER_05]  Y pues realmente para mí eso fue un gran descubrimiento. Después de trabajar en lenguajes, sé igual es bastante cercano a la máquina, pero pues...
+[SPEAKER_05]  Un mes ganan más arriba.
+[SPEAKER_05]  Y cuando aprendimos a hacer compiladores, porque tuvimos clase de compiladores,
+[SPEAKER_05]  Y...
+[SPEAKER_05]  pues ya sabíamos cómo se traducía ese lenguaje al lenguaje máquina.
+[SPEAKER_05]  Y cuando ya por fin teníamos acceso al lenguaje de máquina, pues ya era...
+[SPEAKER_05]  Pues ya era la...
+[SPEAKER_05]  la mejor manera de hacer las cosas eficientes.
+[SPEAKER_05]  y
+[SPEAKER_05]  Por ejemplo, en esa época yo decía compiladores.
+[SPEAKER_05]  para poder compilar mi propio código.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Digamos que tenía más tiempo el que tengo ahora y me podía poder hacer esas cosas, pero...
+[SPEAKER_05]  Era muy...
+[SPEAKER_04]  Las comas
+[SPEAKER_04]  Eras como Manuel, que él se construye el software y lo trabaja en sí mismo.
+[SPEAKER_04]  Un sistema operativo.
+[SPEAKER_01]  El sistema operativo.
+[SPEAKER_01]  Yo fui profesor de Assembler.
+[SPEAKER_01]  Sí, sí, sí, claro. Todavía tú no estabas por ahí en esos caminos, ¿no?
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Y también fui hombre de máquina. Me encanta.
+[SPEAKER_01] 
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Sí.
+[SPEAKER_01]  Muy interesante.
+[SPEAKER_04]  Yo fui, fue monitor de...
+[SPEAKER_04]  de esas materias pero con el
+[SPEAKER_04]  con oramas.
+[SPEAKER_01]  Con Joaquín. Ah, con Joaquín.
+[SPEAKER_01]  Fue compañero mío. Es que todos esos eran mis compañeros. Pepe Abasolo.
+[SPEAKER_01]  Coquinoramas.
+[SPEAKER_01]  etc.
+[SPEAKER_01]  Una orientación muy interesante.
+[SPEAKER_01]  Definitivamente era Computer Science.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Sí, claro.
+[SPEAKER_01] 
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Y por ejemplo, yo extraño mucho ese enfoque, pues yo sé que ha cambiado.
+[SPEAKER_05]  Y pues los tiempos también cambian.
+[SPEAKER_05]  Pero me parece que entender esas cosas...
+[SPEAKER_05]  ayudaban mucho a la formación del ingeniero.
+[SPEAKER_02]  ¡Ve!
+[SPEAKER_05]  Y ayuda mucho a que realmente...
+[SPEAKER_05]  pues un ingeniero tenga las herramientas para resolver problemas de una forma más eficiente.
+[SPEAKER_01]  De acuerdo, yo creo que en ese proceso de la evolución, que es como es el tema...
+[SPEAKER_01]  Cada vez me hace estar más alejado de la máquina misma, ¿no?
+[SPEAKER_03]  ¿No?
+[SPEAKER_01]  parece que hay más capas, más capas.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  y más orientados a la productividad.
+[SPEAKER_01]  Que administra, digamos.
+[SPEAKER_01] 
+[SPEAKER_01]  Pero aquí hubo una generación como tú que entraron en ese tema propiamente de la máquina, de la formación.
+[SPEAKER_05]  Y lo que pasa es que como los recursos cada vez son más abundantes, pues se hace...
+[SPEAKER_05]  de pronto es menos crítico.
+[SPEAKER_05]  Construir código.
+[SPEAKER_05]  tan hipereficiente.
+[SPEAKER_05]  Pues porque realmente no importa, o sea, los procesadores son cada vez más rápidos, la memoria es cada vez más abundante.
+[SPEAKER_05]  Entonces, pues como hay esa abundancia, uno no tiene que ser tan...
+[SPEAKER_05]  tan cuidadoso de cada detalle para que las cosas funcionen bien.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Pero a veces, a veces se necesita.
+[SPEAKER_01]  De acuerdo.
+[SPEAKER_01]  En esa época había que hacer un sort y programarlo.
+[SPEAKER_01]  Claro. Claro, programa de...
+[SPEAKER_01]  Entonces, así era un sol mal hecho.
+[SPEAKER_01]  Eran horas y horas de...
+[SPEAKER_02] 
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Y entonces si hay un algoritmo bien hecho, tú ganas tiempo. Entonces estudiaba estructura de datos, por ejemplo, ¿no? Claro.
+[SPEAKER_01]  Son unos cambios en la mentalidad. Bueno, tú dijiste que... Cuéntanos un poquito...
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Sí, iba para el final, sí.
+[SPEAKER_04]  Pues materias al final que te especializaron y desarrollaron.
+[SPEAKER_04]  y la opción de grado que tuviste.
+[SPEAKER_05]  Bueno, yo hice mi tesis, yo hice mi tesis, bueno, yo durante la carrera he tomado el curso de análisis numérico.
+[SPEAKER_05]  y ahí aprendimos el tema de elementos finitos.
+[SPEAKER_05]  Y cuando estaba ya para hacer mi tesis,
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Un tema que me pareció muy interesante y que también estaba como arrancando en ese momento.
+[SPEAKER_05]  era el tema del paralelismo en programación, poder hacer algoritmos que corrieron en paralelo, descomponer problemas en...
+[SPEAKER_05]  en bloques y correrlos simultáneamente y después hacer que los resultados confluyeran.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Pues hoy en día todos los procededores tienen múltiples hilos y pues digamos que eso ya es cosa...
+[SPEAKER_05]  cosa cotidiana
+[SPEAKER_05]  Pero en esa época, pues no, digamos que pensar en que un algoritmo corriera.
+[SPEAKER_05]  ocurriera con varios hilos en paralelo, pues era algo muy novedoso.
+[SPEAKER_05]  Entonces, este tema me parece muy interesante.
+[SPEAKER_05]  y
+[SPEAKER_05]  Y el problema que...
+[SPEAKER_05]  que estaba enfrentando, que estábamos atacando en ese momento.
+[SPEAKER_05]  era cómo hacer el preproceso de elementos finitos.
+[SPEAKER_05]  Es decir, cómo tomar un objeto de 3D
+[SPEAKER_05]  y discretizarlo en un conjunto de tetraedros.
+[SPEAKER_05]  que permitieran hacer un buen análisis de elementos finitos sobre eso.
+[SPEAKER_05]  y que el algoritmo fuera muy rápido, pues para que a partir de un objeto cualquiera, arbitrario,
+[SPEAKER_05]  modelado computacionalmente.
+[SPEAKER_05]  Yo voy a generar una malla de tetraedros.
+[SPEAKER_05]  que lo representara de una forma buena y además que fuera eficiente para poder hacer un buen análisis de elementos finitos más adelante.
+[SPEAKER_05]  Y la idea era hacer eso con técnicas de paralelismo.
+[SPEAKER_05]  Entonces lo que yo hice, pues dirigido por...
+[SPEAKER_05]  Pepe Toro
+[SPEAKER_05]  del área de mecánica.
+[SPEAKER_05]  y por José Tiberio
+[SPEAKER_05]  fue un algoritmo que hacía eso.
+[SPEAKER_04]  Mmm.
+[SPEAKER_04]  O sea, fue más enfocado... ¿Por qué alguien de mecánica te dirigió?
+[SPEAKER_05]  porque él sabía mucho del tema de elementos finitos.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Ah, ok.
+[SPEAKER_05]  Digamos que Tiberio me orientaba en todo el tema computacional.
+[SPEAKER_05]  Pero en el tema ya...
+[SPEAKER_05]  de que realmente eso sirviera para lo que tenía que servir, es decir que...
+[SPEAKER_05]  la discretización fuera buena.
+[SPEAKER_05]  pues esa parte la conocía muy bien muy bien José Rafael Toro
+[SPEAKER_04]  Bueno, entonces yo ahí preguntaría…
+[SPEAKER_04]  porque bien estamos hablando del tema de computación, ¿cierto?
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Tu enfoque fue más computacional que sistémico, digámoslo así. Total.
+[SPEAKER_04]  Y eso te lo dio desde Jorge Villalobos y este tipo de profesores que te enfocaron en el lenguaje de máquina y demás.
+[SPEAKER_05]  Sí, pues en esa época todavía la carrera se llamaba Ingeniería de Sistemas y Computación.
+[SPEAKER_05]  Y a mí la parte que me gustaba era la parte de computación.
+[SPEAKER_04]  Claro, señor.
+[SPEAKER_05]  La parte de sistemas, pues, obviamente un poquito, pero...
+[SPEAKER_05]  Lo que a mí me gustaba era la computación.
+[SPEAKER_05]  Esto es todo el tema de algorítmica, de construir algoritmos eficientes.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  de resolver problemas a punta de algoritmos, eso es lo que a mí me...
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Me gusta.
+[SPEAKER_04]  Sí, claro.
+[SPEAKER_05]  Sí, lo que más me gusta realmente.
+[SPEAKER_04]  Sí, porque estamos hablando con María Isabel.
+[SPEAKER_04]  No, eh...
+[SPEAKER_04]  Manuel.
+[SPEAKER_04]  Bien.
+[SPEAKER_04]  La ministra, la exministra. La viceministra, sí. La viceministra, perdón.
+[SPEAKER_04]  Y nos contaba que ella le había llamado mucho la atención.
+[SPEAKER_04]  el tema de sistemas y ella se enfocó más en ese sentido.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Bien.
+[SPEAKER_04]  y que hoy se ha perdido mucho el tema de sistemas y más estamos enfocados a la computación.
+[SPEAKER_04]  ¿Qué opinas tú alrededor de eso?
+[SPEAKER_05]  No, pues yo creo lo opuesto, que se ha perdido mucho la parte de computación.
+[SPEAKER_01]  Así es.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Claro.
+[SPEAKER_05]  Y por ejemplo, lo que yo siento es que...
+[SPEAKER_05] て
+[SPEAKER_05]  Y se piensa, y digamos que mucha gente en la industria piensa...
+[SPEAKER_05]  que programar es echar código
+[SPEAKER_05]  y que uno pueda aprender a programar.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Pues con todo el respeto, con algunos cursos hechos por internet y que ya con eso, entonces es una seguridad del programador.
+[SPEAKER_05]  y que con un bootcamp de 100 horas entonces ya uno puede programar.
+[SPEAKER_05]  Y pues sí, con eso puede echar código.
+[SPEAKER_05]  Pero realmente resolver problemas complejos a partir de algoritmos pues es mucho más que...
+[SPEAKER_05]  recibir un requerimiento y hacer un programa que lo resuelva.
+[SPEAKER_05]  y
+[SPEAKER_05]  Entonces esa es la parte dura de computación que yo creo que se ha perdido mucho.
+[SPEAKER_05]  y
+[SPEAKER_05]  y que yo creo que hace falta y hacen falta.
+[SPEAKER_05]  ingenieros que tengan esa formación.
+[SPEAKER_05]  Pues porque hay problemas fundamentales y problemas duros.
+[SPEAKER_05]  que se resuelven no echando código.
+[SPEAKER_05]  sino realmente sentándose a pensar en cómo resuelvo yo esos problemas que muchas veces son mucho más difíciles que simplemente...
+[SPEAKER_05]  construir un requerimiento.
+[SPEAKER_01]  Y ya en ese proceso saliendo, digamos, en los últimos semestres.
+[SPEAKER_01]  ¿Cómo está tu mente en cuanto a posibilidades de trabajar en qué?
+[SPEAKER_01]  O no existía todavía, es decir, ¿cómo veías ese mercado laboral?
+[SPEAKER_04]  ¡Gracias!
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  el panorama para trabajar
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Pues a ver, yo realmente...
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Yo desde que entré a la universidad tenía la idea de hacer una empresa.
+[SPEAKER_05]  Chao.
+[SPEAKER_05]  desde el primer semestre.
+[SPEAKER_05]  Eh...
+[SPEAKER_05]  Yo siempre entré, o sea, desde muy rápido yo tenía la idea que yo quería tener una empresa muy rápido.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Y por eso también desde los primeros semestres traté de meter...
+[SPEAKER_05]  muchas materias que me ayudaran con eso.
+[SPEAKER_05]  Entonces yo metí muchas materias de industrial, materias de administración.
+[SPEAKER_05]  Yo aprendí contabilidad financiera, organizaciones.
+[SPEAKER_05]  Bueno, un montón de cosas.
+[SPEAKER_05]  Fuera de la carrera que afortunadamente en la universidad teníamos la posibilidad de meter.
+[SPEAKER_05]  Muchas materias.
+[SPEAKER_05]  Entonces yo aprendí muchas cosas de ese mundo.
+[SPEAKER_05]  empresarial.
+[SPEAKER_05]  tratando de prepararme para que cuando me graduara
+[SPEAKER_05]  Pues poder hacer una empresa.
+[SPEAKER_05]  Me sembra como el plan.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Pero ya en los últimos semestres...
+[SPEAKER_05]  Y pues vimos que en la universidad ahí, pues creo que pasa lo mismo.
+[SPEAKER_05]  Es muy fácil que no les lleguen ofertas.
+[SPEAKER_05]  y le propongan cosas.
+[SPEAKER_02]  Sí.
+[SPEAKER_05]  Entonces yo me acuerdo que...
+[SPEAKER_05]  Yo solo tuve un trabajo realmente.
+[SPEAKER_05] 
+[SPEAKER_05]  que lo tuve yo creo que justo antes de graduarme, o en el semestre que me gradué.
+[SPEAKER_05]  en el que me contrataron.
+[SPEAKER_05]  para hacer una migración de...
+[SPEAKER_05]  Una migración de unos programas escritos...
+[SPEAKER_05]  básicamente eran unos programas que trabajaban sobre no hacer datos sobre
+[SPEAKER_05]  y tocaba migrar de una versión del lenguaje a una versión más reciente. Era un trabajo tremendamente aburrido.
+[SPEAKER_03]  y
+[SPEAKER_05]  Me pagaban bien, pero pues...
+[SPEAKER_05]  Básicamente la productividad era cuántas líneas de código migraba por día.
+[SPEAKER_03]  Claro.
+[SPEAKER_05]  Entonces el primer día me senté, hice mi tarea.
+[SPEAKER_05]  Según se diría la misma.
+[SPEAKER_05]  El TDA dije, esto es muy aburrido.
+[SPEAKER_05]  Entonces me senté a escribir un compilador que hiciera ese trabajo automáticamente.
+[SPEAKER_05]  En eso me gasté unos cuantos días más.
+[SPEAKER_05]  Y como una semana después...
+[SPEAKER_05]  Le dije a quien me contrató,
+[SPEAKER_05]  mire yo me voy a ir porque ese trabajo pues no es lo que yo quiero pero no se lo dejar tirado mire aquí le dejo una herramienta que le convierte automáticamente
+[SPEAKER_05]  el código y pues...
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  con eso cumplo con el objetivo, pero yo aquí no sigo.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Ese fue el único trabajo, aparte de mi propia empresa, el único trabajo que yo tuve como empleado.
+[SPEAKER_04]  Bueno, y entonces ahí empezaste ya a crear tu empresa.
+[SPEAKER_05]  Ahí, sin como la idea era crear una empresa desde el comienzo.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  digamos que nos...
+[SPEAKER_04]  Luego prácticas en la universidad, ¿verdad?
+[SPEAKER_05]  No.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  Ok.
+[SPEAKER_05]  nosotros saltamos de estar en la universidad a tener empresa, así como de un día para otro.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Yo estaba haciendo la maestría, o sea, yo me gradué del pregrado y empecé la maestría.
+[SPEAKER_05]  Bueno, de hecho, había empezado la maestría antes porque estaba en programa conjunto.
+[SPEAKER_05]  y
+[SPEAKER_05]  Pero ya terminando la universidad, pues estábamos dedicados básicamente a la empresa, pues como bien le dijo Manuel.
+[SPEAKER_05]  Estaba el tema de Compusilina, que fue un proyecto que hicimos con un gran amigo que era Jorge David Herrera.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Y finalizando la carrera.
+[SPEAKER_05]  Ya como que el tema de los virus se está volviendo cada vez más.
+[SPEAKER_05]  más importante, más relevante, un problema cada vez más grande.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Y con pusilina pues era...
+[SPEAKER_05]  Tenía un enfoque muy interesante y muy diferente a lo tradicional.
+[SPEAKER_05]  Y eso pues...
+[SPEAKER_05]  tenía unos elementos muy...
+[SPEAKER_05]  muy interesantes para el mercado.
+[SPEAKER_05]  Entonces, terminada la universidad, pues ya estábamos, ya llevábamos.
+[SPEAKER_05]  trabajando con el proyecto.
+[SPEAKER_05]  Y pues ya terminaba el pregrado, pues como que había un poquito más de tiempo, y entonces nos dedicamos a...
+[SPEAKER_05]  Pues a hacer empresas alrededor de ese producto.
+[SPEAKER_05]  a buscar clientes.
+[SPEAKER_05]  Y pues...
+[SPEAKER_00]  y pues
+[SPEAKER_05]  siendo emprendedores en esa época pues básicamente
+[SPEAKER_05]  Uno hacía desde la gerencia general.
+[SPEAKER_05]  la programación, la mensajería los títulos
+[SPEAKER_04]  La comercialización.
+[SPEAKER_05]  La comercialización.
+[SPEAKER_05]  la cobranza hemos dicho, absolutamente todo
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05] 
+[SPEAKER_05]  Y así empezamos.
+[SPEAKER_05]  Y pues digamos que fue un proyecto muy interesante, muy exitoso.
+[SPEAKER_05]  con el cual pudimos...
+[SPEAKER_05]  conocer muchas cosas, vender en muchos clientes, abrir oficinas en otros países. Digamos que fue un proyecto muy interesante, del cual aprendimos mucho.
+[SPEAKER_04]  Y eso funcionaba en todos los equipos.
+[SPEAKER_04]  O solo micros.
+[SPEAKER_04]  Bueno.
+[SPEAKER_05]  Eso estaba hecho para PCs.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Ajá.
+[SPEAKER_04]  Ajá.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Como ya en esa época, ya estamos hablando del año 90.
+[SPEAKER_05]  Y ya los PCs se habían vuelto cada vez más masivos. Ya las empresas tenían muchos computadores, muchos PCs.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  computadores de escritorio,
+[SPEAKER_05]  por cientos.
+[SPEAKER_05]  y también los virus, aprovechando ese boom, pues ya había virus.
+[SPEAKER_05]  básicamente por todas partes y si eran un problema serio.
+[SPEAKER_05]  Entonces nosotros teníamos una solución para ese problema.
+[SPEAKER_05]  el mercado estaba ávido de soluciones y en esa época pues
+[SPEAKER_05]  había otras soluciones incipientes como la nuestra que estaban comenzando.
+[SPEAKER_05]  en otras partes.
+[SPEAKER_05]  Pero pues era básicamente un mercado muy abierto.
+[SPEAKER_05]  Así es.
+[SPEAKER_05]  estábamos nosotros, estaba McAfee, estaba Norton, y pues sistemas que hoy en día todavía existen, de pronto ya con otros productos.
+[SPEAKER_05]  Pero en esa época todos estábamos comenzando.
+[SPEAKER_05]  Y la nuestra no solución, pues muy diferente y muy interesante.
+[SPEAKER_02]  Y ya está.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  porque tenía la ventaja
+[SPEAKER_05]  de que no dependía de estar actualizándola todo el tiempo.
+[SPEAKER_02]  de incorporar
+[SPEAKER_05]  incorporándole nuevos virus.
+[SPEAKER_05]  sino que podía proteger contra cualquier virus durante...
+[SPEAKER_05]  pues básicamente cualquier momento.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  todo el tiempo. Entonces, pues, le daba a los clientes más seguridad porque no dependían de que
+[SPEAKER_05]  Cuando llegara un virus nuevo nosotros saliéramos corriendo
+[SPEAKER_05]  con la contra.
+[SPEAKER_05]  sino que automáticamente la herramienta
+[SPEAKER_05]  detectaba el intento del virus y lo sacaba.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Y bueno, desarrollando este software y ya ejerciendo tu...
+[SPEAKER_04]  tu carrera como emprendedor, claro, tuviste relación como clientes, como Manuel y otras empresas, supongo.
+[SPEAKER_04]  Ahí sacaste provecho del conocimiento de llegar a otras empresas.
+[SPEAKER_05]  Claro, digamos que eso es todo un aprendizaje.
+[SPEAKER_05]  y
+[SPEAKER_05]  Por más que yo...
+[SPEAKER_05]  Había tratado de aprender en la universidad muchas cosas de...
+[SPEAKER_05]  como de la dinámica de una empresa.
+[SPEAKER_05]  pues ya cuando uno llega a la vida real pues es otra cosa.
+[SPEAKER_05]  Entonces se da cuenta de cómo es que...
+[SPEAKER_05]  Realmente funciona en...
+[SPEAKER_05]  pues la dinámica de una compañía, y ahí pues aprendo un montón.
+[SPEAKER_05]  y pues es una aprendizaje que nunca acaba, afortunadamente.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Y pues digamos que ahí tuvimos la oportunidad de trabajar con...
+[SPEAKER_05]  con clientes.
+[SPEAKER_05]  del sector público, del sector privado.
+[SPEAKER_05]  y
+[SPEAKER_05]  pero también tener aliados.
+[SPEAKER_05]  como la compañía que tenía Madura en esa época, que era Lógica.
+[SPEAKER_05]  y pues realmente nos abrieron los ojos de cómo era que se hacían muchas cosas.
+[SPEAKER_05]  Y cómo es que realmente, por ejemplo, uno salía a buscar a un cliente, cómo ha sido un evento.
+[SPEAKER_05]  como convocaba para...
+[SPEAKER_05]  para que la gente fuera a un evento masivo y fuera a ver una conferencia o lo que sea.
+[SPEAKER_05]  Entonces muchas de esas cosas que...
+[SPEAKER_05]  Porque si nunca las ha hecho.
+[SPEAKER_05]  llegar a hacerlas de la nada pues es muy difícil.
+[SPEAKER_05]  Y pues ahí las fuimos aprendiendo.
+[SPEAKER_01]  Yo tengo una anécdota ahí, el algoritmo de composilina era único.
+[SPEAKER_05]  ¿Hm?
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  La verdad era que era mejor que McAfee que todos.
+[SPEAKER_01]  ¿no? realmente
+[SPEAKER_01]  porque aseguraba realmente la...
+[SPEAKER_01]  Entonces un día, yo estaba apenas comenzando la distribución de ellos.
+[SPEAKER_01]  Cuando una vecina me contó que estaba mal con los virus,
+[SPEAKER_01]  Yo le dije, nosotros estamos comenzando a ofrecer un virus con pusilina.
+[SPEAKER_01]  La empresa
+[SPEAKER_01]  ¿Tú, Bernardo?
+[SPEAKER_01]  Y le regalé, pues no le cobré el virus a la vecina, pues una licencia.
+[SPEAKER_02]  Una.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  La vecina era de la Junta de Telecom.
+[SPEAKER_01]  y abrieron la licitación.
+[SPEAKER_01]  Y nos ganamos la licitación para 500.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  y había que entregarlas todas una por una empaquetadas.
+[SPEAKER_01]  Y el concepto de las cajitas todavía no existía en las distribuciones nuestras.
+[SPEAKER_01]  Pero esa fue una experiencia maravillosa porque sí, vendimos a Telecom, ¿te acuerdas, Bernardo?
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Claro.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Fue el primer cliente corporativo, grande.
+[SPEAKER_05] 
+[SPEAKER_05]  Sí, eso fue algo muy interesante.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Porque...
+[SPEAKER_05]  Pues lo que dice Manuel, la producción era totalmente artesanal.
+[SPEAKER_05]  Cada copia se entregaba físicamente en disquets.
+[SPEAKER_05]  Cada copia tenía físicamente su manual.
+[SPEAKER_00]  ¡Adiós!
+[SPEAKER_05]  Era un folder.
+[SPEAKER_05]  Con las hojitas impresas.
+[SPEAKER_05]  de las instrucciones.
+[SPEAKER_05]  Entonces pues tocaba producir 500 folders con 500 follets, con 500 manuales.
+[SPEAKER_03]  Entonces...
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Sí, sí.
+[SPEAKER_05]  Sí, sí.
+[SPEAKER_05]  Los 500, bueno los 1000 disquets porque eran 12, te acuerdas Manuel que había el disco llave
+[SPEAKER_05]  Sí.
+[SPEAKER_05]  Y el disco propiamente con el software, el disco ya era para evitar la piratería.
+[SPEAKER_02]  evitarla.
+[SPEAKER_05]  Y...
+[SPEAKER_02]  ¡Adiós!
+[SPEAKER_05]  Entonces, pues eso fue una tarea bastante interesante.
+[SPEAKER_04]  Claro, complejo la tarea.
+[SPEAKER_01]  porque hubo un momento posterior en que todos los ministerios usaban compulsilina.
+[SPEAKER_01]  ¿No?
+[SPEAKER_01]  Y la forma era de vender cambio porque cuando nos llamaban estas cosas corporativas, que eran 100, 500.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  en lugar de hacer demostraciones, ¿no?, que se acostumbraba.
+[SPEAKER_01]  Le decíamos al cliente, ¿sabe qué?
+[SPEAKER_01]  Instale 5 antivirus en las máquinas durante un mes o dos.
+[SPEAKER_01]  incluyendo el de compucilina.
+[SPEAKER_01]  Y a los dos meses, el que no tenga virus, pues ese es su antivirus.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Era un ganador.
+[SPEAKER_01]  Sí, claro.
+[SPEAKER_01]  Era un ganador.
+[SPEAKER_01]  Otra anécdota fue que fuimos a Cuba.
+[SPEAKER_01]  Aún he venido...
+[SPEAKER_01]  a un evento internacional de antivirus. ¿Se acuerda?
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Claro.
+[SPEAKER_01]  Presentamos la conferencia, me acuerdo mucho que estuvo también David, José José David.
+[SPEAKER_01]  y Luis Bernardo que me retaron a jugar ping pong y pues les gané una partida.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Bueno, ellos pensaban que yo no sabía jugar FIFA.
+[SPEAKER_04]  O sea que juegas mejor ping pong que bailar.
+[SPEAKER_01]  O sea que...
+[SPEAKER_01]  No, ya no sé, ya no tengo ni idea.
+[SPEAKER_01]  Pero mira, esas son las anécdotas bobitas.
+[SPEAKER_01]  ¿Qué fue lo importante?
+[SPEAKER_01]  que varios participantes después se acercaron a mí a regañarme.
+[SPEAKER_01]  a regañarnos, es decir, no es posible.
+[SPEAKER_01]  que el antivirus actúe sin conocer los virus existentes.
+[SPEAKER_04]  Acá en el...
+[SPEAKER_01]  Porque normalmente lo que hacen estos tiburones es ver la marca que dejaban los virus.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Trabajaban y con Pucina no le importaba.
+[SPEAKER_01]  porque se metía en el sistema.
+[SPEAKER_01]  Anécdotas, pero fue muy exitoso de la Luis Bernardo.
+[SPEAKER_01]  fue un pionero fuerte en este tema, indudablemente.
+[SPEAKER_04]  ¿Y cómo decidieron...?
+[SPEAKER_04]  Bueno, ya se dejó atrás con pusilina, pasó mucho tiempo.
+[SPEAKER_04]  tiempo pudo pasar, qué volumen de empresas lograron.
+[SPEAKER_04]  ¿Cómo llegó a su pico y bajó? ¿Qué pasó?
+[SPEAKER_05]  Pues digamos que fue un proyecto muy exitoso.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Después de lo que dice Manuel, después de empezar con las uñas, llegamos a un punto en donde básicamente...
+[SPEAKER_05]  y
+[SPEAKER_05]  Como lo dice Manuel Casi, que en todos los ministerios había compusilina, en muchas empresas privadas había compusilina.
+[SPEAKER_05]  Se vendía con pusilín en la Panamericana, en el Éxito, tenía codificado con código de barras, o sea, ya se volvió una cosa bastante masiva.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Empezamos a vender en otros países.
+[SPEAKER_05]  y
+[SPEAKER_05]  Digamos que a través de aliados, oficinas propias en algunos casos.
+[SPEAKER_05]  que también fue una experiencia de aprendizaje.
+[SPEAKER_05]  Fue increíble.
+[SPEAKER_05]  porque
+[SPEAKER_05]  Pues básicamente nosotros llegamos a otro país.
+[SPEAKER_05]  Por ejemplo, llegamos a México.
+[SPEAKER_05]  Diciendo.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Pues esto nos va bien en Colombia, pues hagamos lo mismo en México.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Muy ingenuamente.
+[SPEAKER_05] 
+[SPEAKER_04]  Sí.
+[SPEAKER_05]  Entonces, en Colombia tenemos oficina, acá también tenemos oficina.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Montamos la oficina con los puestos de trabajo, los computadores, acá tenemos empleados, acá contratemos empleados.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Listo, ¿y ahora qué hacemos?
+[SPEAKER_02]  De verdad que sí.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  ¡Gracias!
+[SPEAKER_05]  Eso fue un aterrizaje con la realidad bastante duro.
+[SPEAKER_05]  Pues porque la gente no llega a comprar, como si llegaran a comprar acá.
+[SPEAKER_02]  Mmm-hmm.
+[SPEAKER_05]  Entonces empezar a aprender que un mercado distinto pues exige un trabajo distinto y que hay que conocerlo, hay que estudiarlo, hay que investigar y hay que buscar aliados, bueno, en fin, muchas cosas.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  que no sabíamos, pues las aprendimos a la mala, pero pues también fue una experiencia muy enriquecedora.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Y no sabes...
+[SPEAKER_04] 
+[SPEAKER_04]  pero logró desarrollarse en México algo.
+[SPEAKER_05]  Sí, sí, sí. Y realmente, pues digamos que...
+[SPEAKER_05]  Después de...
+[SPEAKER_05]  de superar esa curva de aprendizaje, que fue muy dura.
+[SPEAKER_05]  pues ya empezamos a lograr buenos resultados también en otros países.
+[SPEAKER_04]  Ok.
+[SPEAKER_04]  Bueno, pero dejan con pusilín en algún momento y ese era el producto principal, después desarrollaron otros.
+[SPEAKER_05]  Sí.
+[SPEAKER_04]  ¡Gracias por ver el video! ¡Suscríbete al canal!
+[SPEAKER_05]  Pues digamos que con Pusilina, pues ganamos el premio colombiano de informática en el año 94, que eso pues fue algo también muy...
+[SPEAKER_04]  Muy bien.
+[SPEAKER_05]  Muy bueno, de lo cual nos sentimos muy felices.
+[SPEAKER_04]  Muy relevante.
+[SPEAKER_05]  muy relevante, uno se siente muy orgulloso de eso.
+[SPEAKER_05]  también es un impulso muy grande porque pues...
+[SPEAKER_05]  tiene mucha difusión, entonces pues ya mucha gente, más gente nos conoció, digamos que eso fue algo muy positivo.
+[SPEAKER_05]  Ehm...
+[SPEAKER_05]  Pero pues digamos que más o menos finalizando el milenio...
+[SPEAKER_05]  poco antes del año 1000.
+[SPEAKER_05]  Y pues terminamos la sociedad que teníamos con mi amigo.
+[SPEAKER_05]  y pues básicamente cada uno tomó su camino.
+[SPEAKER_05]  y el producto pues hasta ahí.
+[SPEAKER_05]  Llegó hasta ahí, básicamente.
+[SPEAKER_04]  Mmm...
+[SPEAKER_04]  Y ahí inician otro camino.
+[SPEAKER_05]  Después de eso yo fundé otras compañías.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  En esa época fundé una compañía que hoy en día todavía existe que se llama Aranda Software.
+[SPEAKER_05]  Y ahí estuve también.
+[SPEAKER_05]  Un tiempo.
+[SPEAKER_05]  No mucho.
+[SPEAKER_05]  y
+[SPEAKER_05]  Tal vez unos tres años.
+[SPEAKER_05]  y después fundé Dexon.
+[SPEAKER_05]  Es la que tengo yo actualmente.
+[SPEAKER_04]  y en Aranda que producían.
+[SPEAKER_05]  En Aranda hicimos un sistema de mesa de ayuda.
+[SPEAKER_05]  una herramienta de mesa de servicios.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Entonces, básicamente era una herramienta para...
+[SPEAKER_05]  para... ¿mayar tickets? soporte, sí soporte y ese tipo de cosas
+[SPEAKER_04]  Mm-hmm.
+[SPEAKER_04]  Y es sobre los tres años, dice.
+[SPEAKER_05]  Sí, pues la empresa todavía existe y el producto todavía existe y todavía lo venden.
+[SPEAKER_04]  Ah, en el inicio.
+[SPEAKER_05]  Pero pues yo ya no estoy ahí.
+[SPEAKER_04]  jajaja
+[SPEAKER_04]  Y bueno, y esta empresa que tienes...
+[SPEAKER_04]  cuéntanos la historia en general de sus inicios hasta la fecha
+[SPEAKER_05]  Bueno, en Dexon lo que hacemos y digamos que el enfoque inicial...
+[SPEAKER_05]  Era...
+[SPEAKER_05]  era hacer
+[SPEAKER_05]  Todo el tema de automatización de procesos, no solamente de tecnología, sino procesos en general.
+[SPEAKER_05]  Entonces, en esa época todavía el concepto de EPM no estaba muy...
+[SPEAKER_05]  tan fuerte como lo está hoy en día.
+[SPEAKER_05]  Pero pues nosotros sí queríamos tener una herramienta que le permitiera a las empresas
+[SPEAKER_05]  hacer que sus procesos funcionaran de una forma...
+[SPEAKER_05]  Pues automática.
+[SPEAKER_05]  Así como, por ejemplo, uno podía poner un ticket para reportar un soporte en el computador.
+[SPEAKER_05]  que también pudiera utilizar una herramienta similar para otro tipo de procesos de negocio, no solamente procesos de caída.
+[SPEAKER_05]  Esa era como la visión original.
+[SPEAKER_05] 
+[SPEAKER_05]  Y pues es a lo que nos hemos dedicado y pues hoy en día básicamente...
+[SPEAKER_05]  El foco nuestro es optimización de procesos complejos.
+[SPEAKER_05]  en grandes clientes, porque digamos que hemos descubierto que donde generamos más valor es en cosas complicadas.
+[SPEAKER_05]  no en procesos sencillos.
+[SPEAKER_05]  sino en procesos complicados de clientes grandes que exigen
+[SPEAKER_05]  Muchos temas de alta disponibilidad, de seguridad, que manejan...
+[SPEAKER_05]  volúmenes gigantescos de información
+[SPEAKER_05] 
+[SPEAKER_05]  tienen requisitos de reglas de negocio muy complejas, entonces es el tipo de proyectos que hacemos.
+[SPEAKER_04]  cómo han evolucionado las versiones de lo que hacen.
+[SPEAKER_04]  como tienes distintos clientes de distintas máquinas, distintas tecnologías.
+[SPEAKER_04]  para contarle a quienes van a ser público en general.
+[SPEAKER_04]  de esta entrevista.
+[SPEAKER_04]  ¿Qué contarías alrededor de esos temas?
+[SPEAKER_05]  Pues digamos que es un cambio fuerte.
+[SPEAKER_05]  que
+[SPEAKER_05]  Y recuerdo...
+[SPEAKER_05]  Es que nosotros comenzamos vendiendo licencias
+[SPEAKER_05]  del modo tradicional.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Pues básicamente como vendríamos con pusilina.
+[SPEAKER_05]  Si un cliente me compra la licencia, pues yo le entrego su licencia, le instalo en sus computadores.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  y la licencia es de él para toda la vida.
+[SPEAKER_05]  Y si me quiere comprar soporte, viene. Si no me lo compra, pues...
+[SPEAKER_05]  básicamente
+[SPEAKER_05]  mal para mí y pues bien para el cliente porque no me necesita
+[SPEAKER_05]  Y así estuvimos durante mucho tiempo.
+[SPEAKER_05]  Cuando comenzó la... como el...
+[SPEAKER_05]  El concepto de software como servicio
+[SPEAKER_05]  Nosotros vimos que por ahí era la cosa y que el futuro iba a ser por ahí. Pues eso ya fue hace varios años.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Entonces...
+[SPEAKER_05]  Entonces dijimos, vamos a cambiar nuestra modalidad y nos vamos a pasar a software como servicio.
+[SPEAKER_05]  y
+[SPEAKER_05]  y software como servicio de la nube.
+[SPEAKER_05]  Digamos que ese fue el concepto que tuvimos.
+[SPEAKER_05]  Obviamente el producto tocó cambiarlo.
+[SPEAKER_05]  pues radicalmente.
+[SPEAKER_05]  Porque la idea ya no era correr la infraestructura del cliente, sino correr nuestra infraestructura.
+[SPEAKER_03]  Porque la...
+[SPEAKER_05]  Y no cobrar por la licencia, sino cobrar por el servicio que incluye a todos. El luz. Incluye la plataforma.
+[SPEAKER_05]  incluye el soporte, incluye el software, bueno, todo.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Y en el momento del cambio, pues fue complejo porque primero muchos clientes no estaban...
+[SPEAKER_05]  habituados a la idea.
+[SPEAKER_05]  En esa época todavía había muchas dudas de...
+[SPEAKER_05]  de si...
+[SPEAKER_05]  Pues valía la pena o era bueno que yo tuviera mi sistema corriendo de una plataforma que no fuera mía.
+[SPEAKER_04]  De acuerdo.
+[SPEAKER_04]  Confianza.
+[SPEAKER_05]  Todos los clientes están acostumbrados a tener sus computadores, su centro de datos.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Y abrían la puerta y veían ahí el servidor.
+[SPEAKER_05]  y se sentían seguros sabiendo que el servidor estaba ahí en ese cuarto refrigerado.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  general
+[SPEAKER_05]  Entonces, decirles que ahora su servidor no iba a estar ahí, sino en alguna parte que ni idea de dónde era, que ellos no sabían.
+[SPEAKER_05]  que no iban a poder abrir una puerta y verlo.
+[SPEAKER_05]  y que eso era más seguro, que les daba más disponibilidad, que les daba...
+[SPEAKER_05]  muchas mejores prestaciones que tener la máquina ahí físicamente.
+[SPEAKER_05]  eso no fue fácil de vender, no era una idea fácil de...
+[SPEAKER_05]  de que los clientes...
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Del aracán.
+[SPEAKER_05]  La optaron.
+[SPEAKER_05]  Hoy en día ya todo el mundo lo da por hecho, pero...
+[SPEAKER_05]  En esa época tocaba evangelizar al cliente y explicarle
+[SPEAKER_05]  que eso era mejor, que era más seguro, que era más confiable.
+[SPEAKER_05]  iba a tener mejor disponibilidad, que podíamos comprometernos a una disponibilidad que no le podíamos ofrecer en su centro de datos.
+[SPEAKER_05]  Entonces,
+[SPEAKER_05]  Ese tema fue de...
+[SPEAKER_05]  Difícil de vender.
+[SPEAKER_05]  Pero además también un...
+[SPEAKER_05]  Fue impactante, impactante financieramente.
+[SPEAKER_05]  porque nosotros estamos acostumbrados a vender proyectos grandes.
+[SPEAKER_00]  Porque nosotros estamos...
+[SPEAKER_05]  donde uno entregaba un montón de licencias y pues recibía...
+[SPEAKER_05]  un ingreso importante por esas licencias.
+[SPEAKER_03]  A ver.
+[SPEAKER_05]  A pasar a un modelo donde lo que recibo es una mensualidad.
+[SPEAKER_05]  Una anualidad.
+[SPEAKER_05]  pero que probablemente es menor.
+[SPEAKER_05]  El...
+[SPEAKER_05]  El cheque único por todas las licencias.
+[SPEAKER_03]  El cheque único por...
+[SPEAKER_05]  Entonces también fue un tema interno de cómo adaptarnos.
+[SPEAKER_05]  a unos flujos de caja que eran bien distintos a lo que solíamos tener antes.
+[SPEAKER_04]  pero las demandas se han incrementado, por lo que ya...
+[SPEAKER_04]  Todo el mundo tiene esa tendencia, ¿no?
+[SPEAKER_05]  Claro, hoy en día la cosa es mucho más...
+[SPEAKER_05]  Ya todo el mundo entiende que el software como servicio pues...
+[SPEAKER_05]  Funciona, que es seguro, que tiene una cantidad de beneficios.
+[SPEAKER_05]  Y pues digamos que eso ya se ha estabilizado y ya la gente lo entiende y lo acepta.
+[SPEAKER_05]  y lo prefieren.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Y...
+[SPEAKER_05]  Esto fue complicado.
+[SPEAKER_04]  Y son distintas versiones de...
+[SPEAKER_04]  del software que desarrollas.
+[SPEAKER_05]  Claro, digamos que la característica nuestra es que es un producto único.
+[SPEAKER_05]  que se adapta a los diferentes entornos.
+[SPEAKER_05]  Entonces, en cada cliente podemos implementar soluciones.
+[SPEAKER_05]  que son a la medida realmente.
+[SPEAKER_05]  pero sin desarrollo de software.
+[SPEAKER_05]  y
+[SPEAKER_05]  Y también hoy en día pues todo el mundo habla de low code, no code.
+[SPEAKER_05]  Y pues ya eso es muy normal.
+[SPEAKER_05]  Cuando nosotros lo empezamos a hacer, el concepto todavía no tenía nombre.
+[SPEAKER_02] 
+[SPEAKER_05]  Era difícil explicarlo porque le decíamos al cliente, mire, usted en la herramienta hace un modelo, construye unas reglas de negocio de una manera gráfica.
+[SPEAKER_02]  y los
+[SPEAKER_05]  Y lo que hace el sistema es que a partir de ese modelo que usted dibuja...
+[SPEAKER_05]  le construye su herramienta.
+[SPEAKER_02]  y
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Entonces pues tocaba explicarlo, explicarlo como casi que con plastilina para que la gente lo entendiera.
+[SPEAKER_02]  No lo entendí.
+[SPEAKER_05]  Y se dieron cuenta que eso se podía, que eso realmente era posible.
+[SPEAKER_05]  Porque era como magia, o sea, como que la gente dice, pero ¿cómo así?
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Yo no programo.
+[SPEAKER_05]  Y dicen, pues no, no programa, dibujan.
+[SPEAKER_05]  Pinta sus flujos de datos, pinta sus flujos de procesos.
+[SPEAKER_05]  Especifica sus reglas de negocio.
+[SPEAKER_05]  pues de una manera intuitiva, o sea que cualquier ser humano, normal, no técnico.
+[SPEAKER_00]  de una manera
+[SPEAKER_05]  que tenga conocimiento del negocio, es capaz de hacerlo.
+[SPEAKER_05]  Y pues la herramienta tiene un diseñador gráfico donde va a armar todo eso.
+[SPEAKER_05]  Pero explicar el concepto no era fácil, entonces...
+[SPEAKER_05]  Y
+[SPEAKER_05]  Con la herramienta podemos generar esas soluciones que son...
+[SPEAKER_05]  muy propios de cada cliente.
+[SPEAKER_05]  Con una única plataforma de software.
+[SPEAKER_05]  Nosotros tenemos y tenemos unos casos de uso que son...
+[SPEAKER_05]  totalmente distintos unos de otros.
+[SPEAKER_05]  En un caso hacemos, por ejemplo, consolidación de datos y en otro caso tenemos plataformas de atención al ciudadano.
+[SPEAKER_05]  En otro tenemos sistemas de atención de gestión de proveedores.
+[SPEAKER_05]  en otros tenemos temas legales, en otros tenemos temas de contratación, bueno, cosas totalmente distintas.
+[SPEAKER_02]  Exactamente.
+[SPEAKER_05]  Exactamente con el mismo software.
+[SPEAKER_02]  Ah, bueno.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Entonces, la misma herramienta que usa un cliente para...
+[SPEAKER_05]  hacer todo su gestión de recursos humanos, la utiliza otro para hacer...
+[SPEAKER_05] 
+[SPEAKER_05]  cruce de datos de cientos de millones de registros.
+[SPEAKER_04]  Ok.
+[SPEAKER_04]  Ahora.
+[SPEAKER_04]  Entonces viene, ¿y tú tienes nube o usas nube?
+[SPEAKER_04]  Quiero decir, tú también eres cliente.
+[SPEAKER_04]  de servicios de infraestructura y de...
+[SPEAKER_04]  de nube.
+[SPEAKER_04]  De almacenamiento, cosas así. Sí.
+[SPEAKER_05]  Nosotros usamos los servicios de Microsoft.
+[SPEAKER_05]  principalmente
+[SPEAKER_05]  pero no solo de Microsoft, que trabajamos y podemos trabajar con otras plataformas de nube.
+[SPEAKER_05]  Pero la mayoría de los clientes los trabajamos sobre el enojo de Microsoft.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Yo creo que hay una característica en este tema de la evolución.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Obviamente muy particular, ¿no?
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Porque lo que yo conocí es Luis Bernardo súper técnico, trabajando.
+[SPEAKER_01]  en la Asamblea.
+[SPEAKER_01]  creando plataformas nuevas, propias.
+[SPEAKER_01]  y con éxito comercial.
+[SPEAKER_01]  Independiente de lo de México, pues toda experiencia sirve.
+[SPEAKER_03]  Pero es que...
+[SPEAKER_01]  pero en general mucho éxito comercial con temas propios.
+[SPEAKER_03]  Bien.
+[SPEAKER_01]  que no es tan común en Colombia, que yo creo que aquí lo que nos falta es que haya ese desarrollo.
+[SPEAKER_01]  de sistemas, ¿no?
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Lo que estás contando es sumamente innovador.
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  y sin dejar a un lado el tema comercial. Creo que es un perfil importante, ¿no, Luis Bernardo?
+[SPEAKER_01]  Muy técnico.
+[SPEAKER_01]  pero con una mentalidad comercial muy definida también.
+[SPEAKER_05]  Sí, y digamos que lo que yo siempre he buscado es crear productos.
+[SPEAKER_05]  pero pues digamos que va a ser el producto.
+[SPEAKER_05]  y productos que el mercado los necesite, que el mercado los demanda y que se puedan vender.
+[SPEAKER_05]  Por ejemplo, ahora con el tema de inteligencia artificial, yo veo que...
+[SPEAKER_05]  tenemos muchos usuarios de inteligencia artificial
+[SPEAKER_05]  utilizan las tecnologías y los algoritmos pues que
+[SPEAKER_05]  que dan los grandes proveedores.
+[SPEAKER_03]  Y ahí
+[SPEAKER_05]  Y ahí es donde más se está trabajando.
+[SPEAKER_05]  Pero a mí me parece que es importante también trabajar en el desarrollo.
+[SPEAKER_05]  de los motores de inteligencia artificial.
+[SPEAKER_05]  de los algoritmos que están por detrás de eso.
+[SPEAKER_05]  y
+[SPEAKER_05]  Pues porque ahí es donde uno realmente puede tener cosas.
+[SPEAKER_05]  que le permitan ser diferente a nosotros.
+[SPEAKER_05]  y ser competitivo con relación a los otros.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Entonces nosotros trabajamos en temas de esos.
+[SPEAKER_05]  Y por eso es que les digo que uno necesita...
+[SPEAKER_05]  Y digamos que como compañía necesitamos ingenieros que tengan la capacidad de construir esas cosas.
+[SPEAKER_05]  No solamente que sean capaces de usar, no sé, chatGTP o los algoritmos de Amazon o los de Google.
+[SPEAKER_04]  ¡Gracias!
+[SPEAKER_04]  Nos vemos.
+[SPEAKER_05]  Que igual está muy bien.
+[SPEAKER_05]  Pero a veces uno necesita poder tener su propia tecnología para poder competir.
+[SPEAKER_05]  con el que está montado sobre Amazon o con el que está montado sobre Google.
+[SPEAKER_02]  y ahí
+[SPEAKER_05]  Y hay oportunidades y clientes que hemos ganado por tener nuestra propia tecnología.
+[SPEAKER_05]  porque no dependemos de un tercero, no tenemos que pagarle.
+[SPEAKER_05]  pagar servicios de un tercero.
+[SPEAKER_05]  sino que podemos hacerlo con nuestra propia herramienta y usando nuestra propia tecnología.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  ¿Están solo en Colombia actualmente o por fuera también?
+[SPEAKER_05]  principalmente estamos en Colombia, México y Chile.
+[SPEAKER_05]  Es donde está la base de clientes.
+[SPEAKER_01]  Muy bien, Colosio de Chile, es muy importante. Sí, está buenísimo.
+[SPEAKER_01]  Sí, sí.
+[SPEAKER_04]  Bueno, y en términos, tú estás diciendo, sí, y está de moda el uso más de...
+[SPEAKER_04]  estas herramientas de inteligencia artificial.
+[SPEAKER_04]  en la formación del ingeniero de sistemas actual.
+[SPEAKER_04]  ¿Qué ruta consideras deberían seguir los estudiantes?
+[SPEAKER_04]  para que fuera oportuno la entrega para empresas como la tuya.
+[SPEAKER_04]  No, no.
+[SPEAKER_04]  Pues hemos tenido discusiones y ahora el tema de las...
+[SPEAKER_04]  lo que acabas de decir tú mismo de los bootcamps y todas estas horas de programación y virtualidad.
+[SPEAKER_04]  y
+[SPEAKER_04]  ¿Cómo visualizas en la actualidad la formación de...?
+[SPEAKER_04]  en la ingeniería del sistema.
+[SPEAKER_05]  Pues digamos que nosotros buscamos gente que tenga buena formación.
+[SPEAKER_05]  de base, por ejemplo que tenga muy buena formación en matemáticas
+[SPEAKER_02]  Mm-hmm.
+[SPEAKER_05]  que sean capaces de
+[SPEAKER_05]  de entender
+[SPEAKER_05]  no sé, los conceptos de estadística.
+[SPEAKER_05]  Pues porque eso es lo que necesitamos que entiendan bien para poder programar las cosas que nosotros hacemos.
+[SPEAKER_05]  Entonces, en el caso nuestro, encontrar gente para desarrollo no es fácil.
+[SPEAKER_05]  porque buscamos un perfil muy especializado.
+[SPEAKER_05]  y que tienen que tener un conocimiento de ciencias básicas muy fuerte.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Pues porque lo que nosotros creamos son este tipo de herramientas.
+[SPEAKER_05]  que es el software nuestro.
+[SPEAKER_05]  implementar un proyecto con Dexon
+[SPEAKER_05]  es básicamente construir un sistema
+[SPEAKER_05]  no requiere programación, entonces...
+[SPEAKER_05]  Para implementaciones no necesitamos desarrolladores, pero para construir el producto...
+[SPEAKER_05]  Si necesitamos gente que tenga...
+[SPEAKER_05]  pues esa capacidad de
+[SPEAKER_05]  de inventarse cosas
+[SPEAKER_05]  de proponer soluciones a problemas, de ser muy creativo, de tener la capacidad de proponer experimentos, de ensayar, de fallar.
+[SPEAKER_05]  porque así es que avanza el conocimiento y así es que podemos crear las soluciones y los sistemas que nosotros desarrollamos.
+[SPEAKER_04]  Muy bueno.
+[SPEAKER_04]  Eh...
+[SPEAKER_04]  en
+[SPEAKER_04]  Bueno, digamos que...
+[SPEAKER_04] 
+[SPEAKER_04]  Un énfasis que se está dando en la formación es...
+[SPEAKER_04]  Lo estamos viendo y lo están exigiendo las empresas es mayor formación en user experience.
+[SPEAKER_04]  y más siempre un N, o sea, que no solamente se...
+[SPEAKER_04]  con el tema de, bueno, en términos generales, ¿no?
+[SPEAKER_04]  Sí.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  ¿Consideras que esos dos elementos son...
+[SPEAKER_04]  vitales para trabajos como en tu empresa.
+[SPEAKER_05]  Sí, definitivamente. Y yo creo que eso es una gran debilidad.
+[SPEAKER_05]  que tenemos nosotros y que yo creo que tienen muchas compañías.
+[SPEAKER_05]  Y es que...
+[SPEAKER_05]  No tenemos las suficientes competencias.
+[SPEAKER_05]  en buenos desarrolladores de front-end.
+[SPEAKER_05]  que sean capaces de crear experiencias de usuario que realmente sean agradables, que sean sencillas, que sean intuitivas. Eso es algo que es muy difícil.
+[SPEAKER_05]  de hacer bien.
+[SPEAKER_05]  y yo creo que ahí tenemos un déficit grande, o sea que no hay suficiente gente con esa formación.
+[SPEAKER_05]  O sea, que sean capaces de entender cómo un usuario interactúa con las plataformas.
+[SPEAKER_05]  para construir soluciones que realmente se adecúen a lo que ese usuario necesita.
+[SPEAKER_05]  y le funcionen, y sean fáciles, y sean intuitivas.
+[SPEAKER_05]  Están bonitas.
+[SPEAKER_04]  Sí, sí.
+[SPEAKER_05]  Ahí tenemos, ahí nos falta mucho.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Ahí tenemos...
+[SPEAKER_04]  Sí.
+[SPEAKER_04]  o sea, la integralidad de las soluciones.
+[SPEAKER_05]  Correcto. Sí, porque por dentro el motor puede ser una maravilla.
+[SPEAKER_05]  Pero si eso no tiene una capa que le permita...
+[SPEAKER_05]  al usuario pues realmente
+[SPEAKER_05]  aprovecharlo pues
+[SPEAKER_05]  De nada me sirve todo lo que tengo por allá adentro.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Muy estúpido.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Seguimos.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Me alejo del usuario, sí.
+[SPEAKER_01]  O sea, tú con esa experiencia tan especial que tienes y muestras.
+[SPEAKER_01]  ¿Qué le dirías a un recién egresado?
+[SPEAKER_01]  que quiere hacer empresa.
+[SPEAKER_01]  en esta época, en este momento.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Sí, sí.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  y
+[SPEAKER_05]  Pues yo le diría que busque un problema.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  No hay problema.
+[SPEAKER_03]  Muy bien, muy bien. Me gusta.
+[SPEAKER_05]  Es que realmente los ingenieros a veces tenemos la tendencia a enamorarnos del producto.
+[SPEAKER_05]  Nos enamoramos de la solución.
+[SPEAKER_05]  y hacemos lo posible porque esa solución encaje con la vida real.
+[SPEAKER_05]  Alguien decía que si uno tiene un martillo le da cara de puntilla a todo lo que se encuentra.
+[SPEAKER_05]  Entonces...
+[SPEAKER_05]  Entonces yo creo que uno tiende...
+[SPEAKER_05]  tiende a eso
+[SPEAKER_05]  pero si realmente uno quiere obtener
+[SPEAKER_05]  Pues algo que sirva y que sea exitoso y que el mercado lo busque.
+[SPEAKER_05]  Pues eso.
+[SPEAKER_05]  Busca un problema y a ese problema...
+[SPEAKER_05]  Trabajen en una solución, inventen una solución, que sea diferente, que sea novedosa, que sea mejor que lo que hay en este momento.
+[SPEAKER_05]  Eso es lo que le dice.
+[SPEAKER_05]  Y eso es lo que le enseñan a uno cuando estudia ingeniería, cómo resolver problemas, tocarse con talos.
+[SPEAKER_01]  Que uno mismo cree, uno mismo es su propio laboratorio.
+[SPEAKER_01]  Yo me siento mucho a los estudiantes. En su casa uno, ¿qué es lo que tiene? Un laboratorio.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Por supuesto. Si tiene dos o tres es un super laboratorio.
+[SPEAKER_01]  Porque conectarse y inventar un problema me parece muy interesante, un consejo.
+[SPEAKER_04]  Ok.
+[SPEAKER_01]  y resuelva lo que ya en la vida real se encontrará muchos problemas para resolver.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Sí.
+[SPEAKER_01]  Sí.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01] 
+[SPEAKER_04]  Sí, y bueno, y...
+[SPEAKER_04]  Y choquen.
+[SPEAKER_04]  Pues el cambio de herramientas y el cambio de tecnologías y el cambio...
+[SPEAKER_04]  pues evoluciona más rápido que los problemas. Entonces, enfocarse más en el problema y luego...
+[SPEAKER_04]  ir aprendiendo más de las tecnologías para usarlas.
+[SPEAKER_04]  Porque siempre es...
+[SPEAKER_04]  Mejor dicho, las personas hoy en día piensan que llenarse de...
+[SPEAKER_04]  de títulos y certificaciones les da valor agregado, pero nunca han buscado un problema.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Eso es muy cierto.
+[SPEAKER_05]  Y lo que tú dices tiene mucha sabiduría. La tecnología cada vez cambia más rápido. Entonces, si no se concentra la tecnología...
+[SPEAKER_05]  pues el nivel de obsolescencia te va a llegar también muy pronto.
+[SPEAKER_04]  Sí.
+[SPEAKER_05]  En esta época toca estar estudiando todo el tiempo.
+[SPEAKER_05]  porque no
+[SPEAKER_04]  Sí, permanente.
+[SPEAKER_05]  aprendizaje continuo. Antes uno se volvió obsoleto en unos cuantos años, ahora se vuelve obsoleto en unos cuantos meses.
+[SPEAKER_04]  Dios.
+[SPEAKER_04]  jajaja
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Porque las generaciones además tienen el conocimiento, entonces...
+[SPEAKER_04]  y uno no la va a poder ahora sí tener todo.
+[SPEAKER_03]  Mmm.
+[SPEAKER_04]  Hay muchos espacios.
+[SPEAKER_04]  Eso es muy cierto.
+[SPEAKER_04]  Bueno, y la otra es...
+[SPEAKER_04]  el tema interdisciplinar porque pues
+[SPEAKER_04]  Tú mismo dices.
+[SPEAKER_04]  que tu solución sirve para muchos.
+[SPEAKER_04]  llamemos los sistemas.
+[SPEAKER_04]  Eh...
+[SPEAKER_04]  Sí, o...
+[SPEAKER_04]  Sí, áreas del conocimiento, digamos, salud.
+[SPEAKER_04]  que podrían ser financieros, podrían ser jurídicos, podrían... tú dices que se puede adaptar a todo eso.
+[SPEAKER_04]  ¿Cómo ha sido para ti el trabajo interdisciplinar? ¿Es lo mismo?
+[SPEAKER_04]  Trabajar para un abogado, para un economista, para una empresa.
+[SPEAKER_04]  de distintos sectores para lograr una solución como esa que tú planteaste.
+[SPEAKER_05]  No, realmente cada proyecto es un mundo nuevo, es un aprendizaje nuevo.
+[SPEAKER_05]  hemos trabajado por ejemplo muchos proyectos con el sector salud.
+[SPEAKER_05]  Pero el primero fue un reto enorme porque...
+[SPEAKER_05]  Todo es distinto, el lenguaje es distinto.
+[SPEAKER_05]  A uno le hablan de cosas que uno no tiene ni idea.
+[SPEAKER_05]  Pues que sean los términos de los médicos.
+[SPEAKER_02] 
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Y pues uno llega a tratar de resolverles un problema de información.
+[SPEAKER_05]  y
+[SPEAKER_05]  Lo primero es entender qué le están diciendo.
+[SPEAKER_05]  Y eso no es fácil.
+[SPEAKER_05]  Igual, cuando uno empieza a hablar con la gente de...
+[SPEAKER_05]  del área legal de una compañía.
+[SPEAKER_05]  empiezan a hablar de sus términos legales, de las tutelas, de las demandas, pero en términos muy técnicos.
+[SPEAKER_05]  Y pues toca entenderlo porque eso es lo que va a quedar involucrado en la herramienta.
+[SPEAKER_05]  Entonces, en la medida en que empiezan a haber más y más proyectos, pues ya como que uno empieza a tener una visión un poquito más amplia.
+[SPEAKER_05]  Entonces, si hoy en día nos llegan con un proyecto de salud, pues ya decimos listo, ya me puedo sentar con ellos y les entiendo.
+[SPEAKER_02]  Sí.
+[SPEAKER_05]  Y así con muchos tipos de negocios.
+[SPEAKER_05]  Pero cada uno es un mundo nuevo y afortunadamente, y yo creo que eso es parte de lo emocionante de...
+[SPEAKER_05]  de hacer este tipo de trabajos.
+[SPEAKER_05]  es que todo el tiempo uno está aprendiendo cosas nuevas y aprendiendo de negocios nuevos.
+[SPEAKER_03]  Mm-hmm.
+[SPEAKER_05]  Y ahora, por ejemplo, estamos haciendo una implementación.
+[SPEAKER_05]  de unos temas de estrategia.
+[SPEAKER_05]  en una entidad del estado gigantesca
+[SPEAKER_05]  Ya lo habíamos hecho antes en unas privadas más pequeñas.
+[SPEAKER_05]  Pero entrar en ese mundo de la estrategia, de la planeación.
+[SPEAKER_05]  del diseño organizacional.
+[SPEAKER_05]  es realmente apasionante.
+[SPEAKER_05]  Y es otro mundo nuevo que estamos conociendo y seguramente esperamos también aprender mucho.
+[SPEAKER_04] 
+[SPEAKER_04]  Decía Jorge Villalobos, a quien entrevistamos.
+[SPEAKER_04]  Hace poco que está...
+[SPEAKER_04]  obsesionado por la arquitectura empresarial.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Sí.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  ¿Cómo te ha afectado a ti ese tema? ¿Has tenido que...?
+[SPEAKER_04]  forzar el desarrollo.
+[SPEAKER_04]  apoyar la madurez de alguna empresa para utilizar tu herramienta.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  en términos de arquitectura empresarial.
+[SPEAKER_05]  Sí, de hecho, de hecho...
+[SPEAKER_05]  las lecturas y los artículos que publica Jorge y su grupo.
+[SPEAKER_05]  Son de lectura obligatoria para nosotros.
+[SPEAKER_05]  Y...
+[SPEAKER_02]  Sí. Ajá.
+[SPEAKER_05]  porque realmente lo que nosotros intervenimos es el negocio.
+[SPEAKER_05]  Entonces cuando llegamos a una empresa...
+[SPEAKER_05]  Más allá de automatizar sus procesos, lo que tratamos es de optimizar el negocio.
+[SPEAKER_05]  Entonces, toca entender muy bien la arquitectura de la organización.
+[SPEAKER_05]  para que el sistema de información que produzcamos realmente le sirva a su organización.
+[SPEAKER_05]  Y muchas veces eso es un trabajo que se retroalimenta.
+[SPEAKER_05]  Entonces, en la medida en que vamos estudiando e entendiendo...
+[SPEAKER_05]  el problema.
+[SPEAKER_05]  También podemos sugerirle a la organización cómo cambiar.
+[SPEAKER_05]  Muchas veces son cambios de estructura, muchas veces son cambios en sus procesos.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Muchas veces son cambios.
+[SPEAKER_05]  Es mi estrategia.
+[SPEAKER_05]  Pero es un tema que se retroalimenta.
+[SPEAKER_05]  Y lo que hemos visto es que es una dinámica que nunca para.
+[SPEAKER_05]  Entonces, en la medida en que la organización va avanzando,
+[SPEAKER_05]  Y la plataforma va avanzando.
+[SPEAKER_05]  pues hay que ir ajustándolas ambas.
+[SPEAKER_05]  A veces eso implica cambios en la estructura.
+[SPEAKER_05]  a veces implica cambios en los procesos.
+[SPEAKER_05]  Y obviamente cada vez que hay un cambio en eso, la plataforma tiene que adaptarse a esos cambios que van ocurriendo.
+[SPEAKER_05]  Pero es algo muy interesante porque...
+[SPEAKER_05]  Realmente lo que hemos visto es que...
+[SPEAKER_05]  el tema nuestro más que ser un tema técnico.
+[SPEAKER_02]  Que es un...
+[SPEAKER_05]  Es un tema de entender el negocio.
+[SPEAKER_05]  y de ayudarle al cliente a que su negocio funcione mejor, obviamente basado en la tecnología.
+[SPEAKER_04]  Claro, o sea, es un tema más de consultoría inicialmente para luego...
+[SPEAKER_04]  aplicar la tecnología, porque muchas empresas solo venden la tecnología y la adaptan a como esté la empresa, no.
+[SPEAKER_04]  no trabajan como lo estás planteando, reorganizar la...
+[SPEAKER_04]  la empresa pues para poder apoyarla en tecnología.
+[SPEAKER_05]  Exactamente.
+[SPEAKER_05]  nosotros le decimos al cliente, mire,
+[SPEAKER_05]  Esto no simplemente se trata de que yo le ponga la herramienta y usted agarre y monte sus procesos y los automatice, porque lo que va a hacer seguramente es automatizar la ineficiencia que ya tiene.
+[SPEAKER_04] 
+[SPEAKER_04]  La inexistencia, claro.
+[SPEAKER_05]  Yo estoy seguro, le decimos que acá hay procesos que no son necesarios, otros que se pueden hacer mejor, otros que se están haciendo a mano y se pueden automatizar.
+[SPEAKER_05]  Hay muchas cosas.
+[SPEAKER_05]  Y vamos a ver.
+[SPEAKER_05]  que se pueden hacer mejor y que hay que cambiar.
+[SPEAKER_05]  Y ese proceso, una vez usted lo arranque, no va a parar.
+[SPEAKER_05]  porque todo el tiempo se va a dar cuenta de cosas que se pueden cambiar.
+[SPEAKER_05]  o su mismo negocio cambia
+[SPEAKER_05]  Hay nuevos requisitos del negocio.
+[SPEAKER_05]  o se meten en otra unidad de negocio.
+[SPEAKER_05]  Y seguramente todas esas cosas van a tener que reflejarse de alguna manera en la tecnología.
+[SPEAKER_05]  Pero arrancan de acá arriba.
+[SPEAKER_05]  Y hay que entender muy bien eso para poder bajarlo a que realmente la herramienta y el software apalanquen y apoyen eso que se está haciendo.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Ok, muy bien.
+[SPEAKER_01]  Para, para.
+[SPEAKER_01]  Por martes, Sandra Liliana ya se nos conectó.
+[SPEAKER_01]  de la Nacional, que es del grupo...
+[SPEAKER_01]  gestor de este proyecto, ¿no? Ahí está Sandra Rojas.
+[SPEAKER_01]  colectada.
+[SPEAKER_01]  Porque ella tendrá alguna pregunta más adelante.
+[SPEAKER_01]  O ahora, no sé si ahora. ¿Ahora?
+[SPEAKER_04]  Ahora, ¿no? De una vez, Sandrita, buenas tardes. ¿Cómo estás? Bienvenida aquí a esta charla.
+[SPEAKER_00]  Buenas tardes.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Aquí juiciosamente escuchando con atención.
+[SPEAKER_00]  toda esa parte documental de la historia que nos...
+[SPEAKER_00]  que vivimos y que hace parte hoy en día de nuestro quehacer como ingenieros de sistemas. Sí, tenía una pregunta y está relacionada a cuáles son...
+[SPEAKER_00]  y
+[SPEAKER_00]  Me alejo un poquito de la historia, pero ¿cuáles son esos retos?
+[SPEAKER_00]  que estás afrontando ahorita que de pronto son similares a esos retos que...
+[SPEAKER_00]  que enfrentaste cuando comenzaste con las empresas.
+[SPEAKER_00]  Ya me acuerdo un...
+[SPEAKER_00]  con esos emprendimientos que tenías.
+[SPEAKER_05]  Pues el reto más importante que uno tiene...
+[SPEAKER_05]  Pues yo creo que es vender.
+[SPEAKER_05]  Eso es muy difícil.
+[SPEAKER_05]  y
+[SPEAKER_05]  Sobre todo porque nosotros estamos más enfocados.
+[SPEAKER_05]  más enfocados en
+[SPEAKER_05]  en crear las soluciones que en ponerlas en la calle.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Eso siempre ha sido muy complicado.
+[SPEAKER_05]  Por ejemplo, y hemos tratado siempre de resolverlo a través de aliados.
+[SPEAKER_05]  En la época de Compusilina, nuestro aliado era Manuel.
+[SPEAKER_05]  Entonces nosotros podíamos dedicar al tema técnico y sabíamos que...
+[SPEAKER_02]  ¿no?
+[SPEAKER_05]  Había un as en el tema comercial que nos podía...
+[SPEAKER_05]  que nos podía complementar y llenar ese espacio.
+[SPEAKER_05]  Siempre hemos tratado de trabajar con aliados.
+[SPEAKER_05]  con aliados que ya estén en el mercado.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  que ya conozcan los clientes, que ya sepan cómo...
+[SPEAKER_05]  cómo salir a la calle.
+[SPEAKER_05]  Porque esa es una competencia que...
+[SPEAKER_05]  que es complicado de adquirir, y para nosotros siempre ha sido eso muy complicado.
+[SPEAKER_01]  Sí, ese es un tema vital, indudablemente, ¿no?
+[SPEAKER_01]  Sin embargo lo han manejado porque vuelvo a decir
+[SPEAKER_01]  Muy técnico, si es que yo me acuerdo con Pucelina, un desarrollo súper tecnológico.
+[SPEAKER_01]  y con una mente comercial muy importante. Quiero echar un reversito a una cosa, Luis Bernardo.
+[SPEAKER_01]  Hablaste de la inteligencia artificial hace un ratito. Sí.
+[SPEAKER_01]  Yo tengo muchas dudas de que de verdad se esté usando inteligencia artificial.
+[SPEAKER_01]  Me preocupa de que sea una palabra de cóctel.
+[SPEAKER_03]  Sí, no, total.
+[SPEAKER_01]  Sí, no.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Todo el mundo habla de inteligencia artificial y realmente...
+[SPEAKER_01]  En tu experiencia con las empresas que dicen estar trabajando...
+[SPEAKER_01]  si lo están haciendo o creen
+[SPEAKER_01]  Que ella tuvo una metáfora que me está sirviendo para pensar en eso.
+[SPEAKER_01]  El hecho de que yo use Word no me hace escritor.
+[SPEAKER_02]  Muy claro.
+[SPEAKER_01]  ¿De acuerdo? Esa bobadita de pensamiento me llevó hace dos días, ¿no?
+[SPEAKER_01]  Porque tantas cosas que nos consultan sobre el tema. Me parece que en Internet Artificial dijiste, usan herramientas, ¿no?
+[SPEAKER_02]  Me parece que...
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Pero se está usando inteligencia artificial de verdad en lo que tú has conocido.
+[SPEAKER_05]  Pues...
+[SPEAKER_05]  Yo estoy de acuerdo contigo, Manuel. La palabra se ha vuelto muy comercial.
+[SPEAKER_05]  Yo vendría todo el mundo una búsqueda.
+[SPEAKER_05]  Entonces...
+[SPEAKER_05]  Todos los productos tienen interés artificial.
+[SPEAKER_05]  pero realmente lo que nosotros vemos y lo que yo veo en la práctica
+[SPEAKER_05]  es que
+[SPEAKER_05]  pues que como que hay algunos usos de algunos temas asociados con inteligencia artificial.
+[SPEAKER_05]  pero que no son realmente inteligencia artificial.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Y te lo digo, nosotros por ejemplo en la herramienta tenemos algoritmos que hacen...
+[SPEAKER_05]  análisis de textos
+[SPEAKER_05]  A ver si semánticos.
+[SPEAKER_05]  el que no es capaz es de entender los textos
+[SPEAKER_03]  Chao.
+[SPEAKER_05]  interpretarlos.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Y funcionan.
+[SPEAKER_02]  ¿No es cierto?
+[SPEAKER_05]  Y pues digamos que uno puede decir que eso es inteligencia artificial, pero...
+[SPEAKER_05]  Yo no soy tan atrevido.
+[SPEAKER_02]  Sí.
+[SPEAKER_05]  Entonces, en las presentaciones yo trato de no...
+[SPEAKER_05]  De no mencionarlo porque la verdad como que me da un poco de pudor.
+[SPEAKER_05]  Bien.
+[SPEAKER_02]  Bien.
+[SPEAKER_05]  Pues mucha gente diría que eso es interés artificial, pero digamos que yo no me atrevo tanto.
+[SPEAKER_01]  Me identifico 100%. Muy bien.
+[SPEAKER_02]  Muy bien.
+[SPEAKER_01]  Yo estoy trabajando en minería de opiniones.
+[SPEAKER_01]  Y análisis de sentimiento con desarrollo propio también.
+[SPEAKER_01]  Y no soy capaz de decir que sea inteligencia artificial.
+[SPEAKER_01]  He hecho algunos proyectos de 5.000 profesores encuestados sobre ética con lenguaje natural.
+[SPEAKER_01]  Y he aprendido, pero no me atrevo a decir que es inteligencia artificial.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Mientras
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Mientras tanto, y hay algo más grave, quiero comentarlo acá en las emisoras.
+[SPEAKER_01]  Aparece ya.
+[SPEAKER_01]  Le hemos preguntado a la inteligencia que se ha comprado ese carro.
+[SPEAKER_02]  Ah, sí, ¿no?
+[SPEAKER_01]  Ustedes los medios están llevando el tema a un nivel bajísimo. Y el ministro acaba de decir que para que estudien en una universidad...
+[SPEAKER_01]  que se tome un curso de Java y de Inteligencia Artificial.
+[SPEAKER_01]  Hace tres días, ¿no, Edgar?
+[SPEAKER_01]  Entonces digamos que es un tema delicado que creo que las universidades debemos tener algún control sobre eso.
+[SPEAKER_03]  동안.
+[SPEAKER_01]  Pero bueno, estoy de acuerdo con Luis Bernardo que...
+[SPEAKER_01]  Se dice que se trabaja en la intensidad oficial, pero falta mucho.
+[SPEAKER_05]  Y por ejemplo, los modelos del lenguaje como ChatGTP.
+[SPEAKER_05]  Pues es un juguete muy bonito.
+[SPEAKER_03]  ¿Tú ves?
+[SPEAKER_05]  Sí, sí.
+[SPEAKER_05]  Pero pues hay que entender que lo que eso produce
+[SPEAKER_05]  pues sale de los contenidos que ya tiene. O sea, ahí realmente no se está produciendo nada de novedoso.
+[SPEAKER_04]  No, no es bueno, claro.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Pero pues hoy en día todo el mundo lo usa como si, mejor dicho, eso fuera...
+[SPEAKER_05]  ¿Por el oráculo?
+[SPEAKER_05]  Le preguntamos a la inteligencia artificial quién va a ser el campeón del próximo mundial.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Ya.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  En un comité...
+[SPEAKER_04]  Sí, no, la volvieron esotérica la inteligencia tiraniana.
+[SPEAKER_01]  Sí, sí.
+[SPEAKER_01]  En un comité mío técnico, por ahí, por ahí, lo digo, lo iban a nombrar miembro del comité HGPT.
+[SPEAKER_01]  ¿Qué?
+[SPEAKER_01]  Así que le vamos a ofrecer tinto, ¿no?
+[SPEAKER_01]  Entonces hay una problemática allí.
+[SPEAKER_01]  Pero me parece muy bien que el corazón del tema es de los algoritmos que plantea Luis Bernardo.
+[SPEAKER_01]  Es que son cosas no visibles, ¿no?
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  ¿Cierto?
+[SPEAKER_01]  de los Estados colombianos.
+[SPEAKER_01]  Salta.
+[SPEAKER_04]  Pero si es bueno...
+[SPEAKER_04]  Fíjate que hemos hecho entrevistas y esto sobre la ética y la inteligencia artificial y eso.
+[SPEAKER_04]  Lo hemos trabajado ya un par de veces, ¿no Manuel?
+[SPEAKER_04]  en los paneles que hemos desarrollado, pero yo sí creo que hay que...
+[SPEAKER_04]  y concientizar a la gente así como lo veníamos haciendo con la ciberseguridad.
+[SPEAKER_04]  donde se confundían los términos como el hacker y el clacker y todas estas cosas que se vuelven términos de cóctel y nadie, todo el mundo hace creer saber que conoce.
+[SPEAKER_04]  Y aplica, pero sí seguir divulgando apropiadamente estos temas me parece importante.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Sí, sí.
+[SPEAKER_01]  Hay que seguir hablando eso.
+[SPEAKER_01]  Pero fíjate que los expertos, como Leonardo Zorn,
+[SPEAKER_01]  tímidos para decir que están usando inteligencia de asiento.
+[SPEAKER_02] 
+[SPEAKER_01]  Pero el comercial...
+[SPEAKER_01]  Y los medios.
+[SPEAKER_01]  ¿No?
+[SPEAKER_01]  ya todos hablan con una propiedad enorme que es la inteligencia artificial
+[SPEAKER_01]  Bueno, ese es un tema que...
+[SPEAKER_05]  Y lo que pasa es que llega un punto donde los algoritmos hacen cosas que parecen magia.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Entonces, para un usuario no técnico...
+[SPEAKER_05]  Pues eso es como magia, o sea...
+[SPEAKER_05]  fácilmente uno dice que sos inteligente.
+[SPEAKER_05]  Claro.
+[SPEAKER_01]  ¡Gracias!
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  No es que por detrás no es tanto, pero...
+[SPEAKER_02] 
+[SPEAKER_05]  Pero digamos que funciona y produce resultados que pueden ser muy sorprendentes, pero...
+[SPEAKER_05]  pero pues hay que ser como más pudrosos con eso.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Luis Bernardo, en términos de...
+[SPEAKER_04]  de tiempo para educar a un profesional.
+[SPEAKER_04]  Se está insistiendo que se baje el número de...
+[SPEAKER_04]  de semestres, en los periodos.
+[SPEAKER_04]  Y entonces estamos pensando, fíjate que conversamos en dos cosas.
+[SPEAKER_04]  que nos volvimos especialistas, pero también debemos ser generalistas.
+[SPEAKER_04]  Pero si reducimos los tiempos, entonces para las dos cosas no alcanzamos.
+[SPEAKER_03]  Hmm.
+[SPEAKER_04] 
+[SPEAKER_04]  ¿Cómo pones en un balance este tipo de temáticas?
+[SPEAKER_05]  Pues yo pienso que el ingeniero tiene que tener una base muy sólida en ciencias básicas.
+[SPEAKER_02]  Sí, sí.
+[SPEAKER_05]  Tienen muy buena matemática, muy buena física, muy buena estadística.
+[SPEAKER_05]  y un dominio también muy fuerte.
+[SPEAKER_05]  de los temas básicos de computación.
+[SPEAKER_05]  más allá de las tecnologías.
+[SPEAKER_05]  Obviamente tendría que aprender tecnologías.
+[SPEAKER_05]  Pero es que las tecnologías que envían tan rápido...
+[SPEAKER_05]  Y se aprenden tan fácil.
+[SPEAKER_05]  los lenguajes, las diferentes herramientas.
+[SPEAKER_05]  En la medida en que hay una base muy sólida.
+[SPEAKER_05]  Pues esas tecnologías se pueden adoptar de una manera muy sencilla.
+[SPEAKER_05]  Y pues es, digamos que en guardadas proporciones, pues es lo que nosotros vivíamos. Nosotros aprendimos a programar con los lenguajes y cuando empezaron a salir otros...
+[SPEAKER_05]  aprenderlo es muy fácil
+[SPEAKER_05]  pues porque ya uno tenía toda una base que le permitía agarrar una cosa de esas y aprenderla.
+[SPEAKER_05]  Muy rápido.
+[SPEAKER_05]  Y yo pienso que hay que mantener ese enfoque.
+[SPEAKER_05]  Una muy buena base.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  en ciencias básicas y ahí, de ahí para adelante, pues ya es la capacidad de resolver problemas.
+[SPEAKER_04]  Ni más técnicos ni más profesionales.
+[SPEAKER_04]  o tecnólogos, pues.
+[SPEAKER_05]  Pues es que yo, de pronto yo estoy muy sesgado, pero yo sí prefiero profesionales con sus mínimo cuatro años.
+[SPEAKER_05]  bien estudiados
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Ok, muy bien.
+[SPEAKER_01]  Formación integral, ¿no?
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Sí.
+[SPEAKER_04]  ¿Qué opinas, Sandrita?
+[SPEAKER_01]  Sí, adelante, Edgar.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  No, Sandrita, para que opine sobre el tema pedagógico.
+[SPEAKER_01] 
+[SPEAKER_00]  Pues, Edgar, yo creo que lo más importante, como siempre, es el conocimiento de disciplinar, ¿no?
+[SPEAKER_00]  en nuestro caso no hubiesen llegado a tener, digamos, esos...
+[SPEAKER_00]  Ese impacto que tiene ahorita.
+[SPEAKER_00]  todas estas tecnologías emergentes para tratar de analizar la información con un poco más de rapidez.
+[SPEAKER_00]  y realmente todo ese soporte técnico que está por debajo de...
+[SPEAKER_00]  de eso que le llega al usuario final, ¿no?
+[SPEAKER_00]  Y tiene que ser con una rigurosidad muy grande, porque si no, la toma de las decisiones que van a...
+[SPEAKER_00]  hacer las personas que utilicen esta tecnología.
+[SPEAKER_00]  pues sería infundada.
+[SPEAKER_00]  o no estaría basada realmente en experiencias válidas o en...
+[SPEAKER_00]  variables propias de cada problemática. Entonces, eso sí.
+[SPEAKER_00]  Creo que estoy de acuerdo con ustedes en el conocimiento disciplinar.
+[SPEAKER_00]  en nuestro caso de las matemáticas, de poder realizar modelos.
+[SPEAKER_00]  de construirlos y llegar al detalle.
+[SPEAKER_00]  pues es fundamental, ¿no? Entonces, siempre abogaremos por la formación fuerte a nivel disciplinar en las matemáticas.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Y en la...
+[SPEAKER_00]  Y en las ciencias en general, sí.
+[SPEAKER_04]  Y bueno, pero fíjate que...
+[SPEAKER_04]  Los 100.000 programadores, Platzi, todas estas cosas.
+[SPEAKER_04]  inclusive el ministro estaba hablando
+[SPEAKER_04]  generar más tecnólogos rápidos.
+[SPEAKER_04]  promueve eso de lo que está hablando.
+[SPEAKER_04]  Luis Bernardo de los bootcamps que se formen para las empresas.
+[SPEAKER_04]  Y ahí en esos espacios no hay matemáticas.
+[SPEAKER_00]  Yo creo que ahí es un poco complejo, yo creo que esa parte técnica, el hacer de pronto, el tener la habilidad de utilizar esas herramientas ya como usuario.
+[SPEAKER_00]  es un conocimiento aparte, ¿no? Y está el conocimiento...
+[SPEAKER_00]  profundo que debe tener la persona que realiza o elabora esas herramientas, que construye esas herramientas para que otros las utilicen.
+[SPEAKER_00]  Entonces, depende de lo que requiera también.
+[SPEAKER_00]  la problemática a solucionar. Si nosotros necesitamos personas que sean...
+[SPEAKER_00]  que estén en capacidad de realizar una tarea muy puntual y muy específica a través del uso de una herramienta.
+[SPEAKER_00]  conociendo ese uso de la herramienta para determinada labor.
+[SPEAKER_00]  pues es factible que se pueda capacitar y formar a esa persona en ese conocimiento.
+[SPEAKER_00]  Pero sin lugar a dudas, conocimiento profesional.
+[SPEAKER_01]  Pero...
+[SPEAKER_00]  pues es el que hace que se marque la diferencia, que se puedan construir realmente herramientas que sean útiles.
+[SPEAKER_00]  y que estén hechas realmente bajo el riguro.
+[SPEAKER_00]  el rigor o la rigurosidad.
+[SPEAKER_00]  que se requiere para que sean herramientas de calidad.
+[SPEAKER_00]  Y eso no se consigue con un curso rápido a corto tiempo.
+[SPEAKER_00]  Ese aprendizaje es un aprendizaje a largo tiempo.
+[SPEAKER_00]  Entonces creo que ahí hay que buscar ese equilibrio, ¿no? Buscar ese equilibrio entre...
+[SPEAKER_00]  entre esos dos modos de operar o de educar.
+[SPEAKER_00]  también con un propósito específico.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Sí, yo creo que...
+[SPEAKER_03]  Gracias, Bernardo.
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  pero
+[SPEAKER_05]  que son conocimientos diferentes.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Y pues digamos que en contextos distintos son varios ambos.
+[SPEAKER_05]  Y...
+[SPEAKER_05]  Se necesitan técnicos para muchas cosas y pues de pronto se necesitan muchos técnicos.
+[SPEAKER_05]  Pero también se necesitan ingenieros con unas capacidades diferentes. O sea, yo no voy a poner un ingeniero a hacer el trabajo de un técnico.
+[SPEAKER_05]  Pero hay trabajos que definitivamente solamente va a poder hacer un ingeniero.
+[SPEAKER_02]  Y
+[SPEAKER_05]  Es la construcción de nuevas tecnologías, el diseño, la invención de nuevos sistemas, de nuevas cosas que requieren una formación diferente.
+[SPEAKER_05]  siendo más valiosos.
+[SPEAKER_05]  Pero yo pienso que si uno busca...
+[SPEAKER_03]  Pero yo vi...
+[SPEAKER_05]  como mover la frontera del conocimiento y hacer que se creen cosas nuevas.
+[SPEAKER_05]  pues se necesitan unas capacidades y unos conocimientos de base pues mucho más.
+[SPEAKER_05]  Solidez.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Pues que otros.
+[SPEAKER_05]  Y yo pienso que a nivel de la política y de la estrategia como país.
+[SPEAKER_05]  pues hay que balancear las dos cosas. Uno puede decir, de ahora en adelante no quiero más ingenieros porque entonces ¿quién va a crear las tecnologías?
+[SPEAKER_05]  Eh...
+[SPEAKER_05]  Y si queremos que realmente haya un desarrollo.
+[SPEAKER_05]  en investigación, en ciencia y tecnología, pues se requieren profesionales. Yo creo que...
+[SPEAKER_05]  que se cae en su cuerpo
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Yo creo que una moraleja interesante es que se necesitan ingenieros que sepan.
+[SPEAKER_01]  Claro. Ingenieros que quieran ser gerentes y administrativos, yo creo que ese no es el tema.
+[SPEAKER_03]  La labor de...
+[SPEAKER_01]  La labor del ingeniero es solucionar problemas, tener el conocimiento. Puede ser que ponga un equipo a trabajar, pero porque tiene el conocimiento el ingeniero.
+[SPEAKER_01]  Aquella famosa frase del colega Kiyaki Gerente.
+[SPEAKER_01]  Y que a una hora de la programación dice, esa etapa ya la superé.
+[SPEAKER_01]  ¿De acuerdo? Que mencionamos mucho eso. Eso es gravísimo.
+[SPEAKER_01]  Es decir, necesitamos ingenieros que tengan conocimiento o ingenieros que quieren ser gerentes.
+[SPEAKER_01]  Hay un tema porque las jerarquías
+[SPEAKER_01]  se mueven es en el tema de la gerencia, ¿no?
+[SPEAKER_01]  no en el tema de lo técnico, el tema es que hay que rescatar.
+[SPEAKER_01]  ese gran valor y
+[SPEAKER_01]  Una cosa que dijo
+[SPEAKER_01]  que dijo Luis Bernardo, muy importante, buscar el problema.
+[SPEAKER_01]  Hay que ir a ver un curso de buscar problemas uno y buscar problemas dos. ¿Sí? Busquen problemas.
+[SPEAKER_01]  La experiencia, yo ahora estoy trabajando en el tema satelital, ¿no? Y claro, manejo algoritmos y las plataformas. Solo cuando me di cuenta de lo complejo que era.
+[SPEAKER_01]  que vi cuál era el problema, pude pensar en desarrollar un software.
+[SPEAKER_02]  Mmm-hmm.
+[SPEAKER_01]  Contado el problema...
+[SPEAKER_01]  viene la producción.
+[SPEAKER_02]  Sí, sí.
+[SPEAKER_01]  Eso, la mentalidad del ingeniero es muy importante.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Pues Bernardo, y hacia el futuro, ¿qué piensas de tu empresa? ¿Tienes otras expectativas, otras diversificaciones?
+[SPEAKER_04]  en qué estás enfocado hacia el futuro.
+[SPEAKER_05]  Pues digamos que el...
+[SPEAKER_05]  Nosotros siempre seguimos desarrollando y evolucionando el producto.
+[SPEAKER_05]  Cada vez yendo a niveles más estratégicos dentro de nuestros clientes y buscando siempre...
+[SPEAKER_05]  Digamos que...
+[SPEAKER_05]  darle un enfoque más holístico a la solución.
+[SPEAKER_05]  Nosotros arrancamos atendiendo cosas muy puntuales de problemas y de procesos muy puntuales dentro de las empresas.
+[SPEAKER_05]  Pero poco a poco nos fuimos dando cuenta que realmente el problema estaba más arriba.
+[SPEAKER_05]  Y esa es la dirección que hemos venido trabajando.
+[SPEAKER_05]  por ejemplo, poder construir modelos.
+[SPEAKER_05]  Modelos de arquitectura de la organización completos dentro de la herramienta.
+[SPEAKER_05]  y que esos modelos se traduzcan automáticamente en sistemas de información.
+[SPEAKER_05]  Entonces cada vez como que vamos subiendo un poco más de...
+[SPEAKER_05]  de nivel de abstracción dentro de esos modelos.
+[SPEAKER_05]  Y ahora, por ejemplo, estamos trabajando mucho en la etapa estratégica de largo plazo.
+[SPEAKER_05]  ¿Cómo modelo yo esa estrategia de largo plazo de una organización? Y eso cómo empieza a permear y a traducirse en cosas más concretas hasta que finalmente eso aterriza en un sistema de información.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  Pero siempre arrancando, pues digamos que lo que hemos venido haciendo es construyendo capa tras capa.
+[SPEAKER_05]  para llegar a esos niveles más altos de atracción de las organizaciones.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  ¡Mmm!
+[SPEAKER_04]  Bueno, yo creo que ahí estaría bien la entrevista. Muchas gracias Luis Bernardo. No sé si tú quieras decir algo adicional Manuel y Sandrita.
+[SPEAKER_01]  Pues agradecerle a Luis Bernardo, además los que nos vean después van a entender que es que conocemos a Luis Bernardo.
+[SPEAKER_01]  Admiramos toda esa evolución técnica, administrativa, comercial, internacional, etc.
+[SPEAKER_01]  Y sí, está haciendo un aporte.
+[SPEAKER_01]  No solamente en los estudios con el plazo, sino en la mentalidad.
+[SPEAKER_01]  no de lo que es un ingeniero de sistemas.
+[SPEAKER_01]  Eso diría yo y de verdad agradecerle el rato.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Sí, muy bien, gracias.
+[SPEAKER_05]  María.
+[SPEAKER_05]  Muchas gracias, también me divertí mucho y la admiración es mutua.
+[SPEAKER_05]  Entonces, pues digamos que fue muy, muy...
+[SPEAKER_05]  Muy grato de estar acá.
+[SPEAKER_04]  Bueno Luis Bernardo, seguimos trabajando juntos, muy amable.
+[SPEAKER_04]  Bien.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01] 
+[SPEAKER_04]  Bueno.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Buenas noches para todos. Un abrazo, que estén muy bien. Nos vemos entonces, Kevin. Ah, pero espera.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  abrazo que estén muy bien
+[SPEAKER_04]  Ah, pero espera, creo que Beatriz, yo tomo una foto.
+[SPEAKER_01]  Sí, tomemos una foto, sí.
+[SPEAKER_04]  Hmm.
+[SPEAKER_04]  Tandrita, ponla ahí.
+[SPEAKER_04]  Kevin, tienes que salir.
+[SPEAKER_01]  ¡Ey!
+[SPEAKER_01]  Kevin, peínese y sales.
+[SPEAKER_04]  Muy bien.
+[SPEAKER_04]  Bueno, entonces ya la tomo yo, Kevin.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Un segundo, ya la tengo.
+[SPEAKER_03]  Sí, profesor. Ahí quieto, quieto ahí.
+[SPEAKER_04]  Ahí, quieto ahí, Kevin.
+[SPEAKER_03]  Sin parpadear. Ahí, ahí.
+[SPEAKER_04] 
+[SPEAKER_04]  Ahí, ahí, sin parpadear.
+[SPEAKER_04]  Ya, muchas gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Bueno, gracias. Nos vemos entonces. Hasta luego.
+[SPEAKER_04]  gracias
+[SPEAKER_04]  Bueno, felicidades. Hasta luego.
+[SPEAKER_01]  ¡Gracias!
+[SPEAKER_01]  Me voy a parar la grabación.
