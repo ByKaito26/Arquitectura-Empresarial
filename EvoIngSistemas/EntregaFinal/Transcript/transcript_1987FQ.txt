@@ -1,0 +1,1212 @@
+[SPEAKER_01]  Y apenas diga que está acabando, ahí dice.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Bueno.
+[SPEAKER_01]  Bueno.
+[SPEAKER_01]  Buenas tardes.
+[SPEAKER_01]  seguimos con nuestro proyecto de la evolución de la ingeniería de sistemas.
+[SPEAKER_01]  con el ingeniero Francisco Quintana, que ya está presente con nosotros.
+[SPEAKER_01]  Él nos va a contar su experiencia.
+[SPEAKER_01]  Nosotros lo tenemos registrado como grabado en 1987, si no estoy mal.
+[SPEAKER_01]  pero él va a comenzar contándonos desde el momento en que entró a la universidad.
+[SPEAKER_01]  Él es un ejecutivo, o alto ejecutivo, expresidente de Asís.
+[SPEAKER_01]  Pero va a ser el esfuerzo de...
+[SPEAKER_01]  retornar
+[SPEAKER_01]  a los primeros años de entrada a la universidad para que nos cuente un poco esa trayectoria. Y de esa manera vamos a dialogar.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Entonces, Francisco, bienvenido, muchas gracias.
+[SPEAKER_01]  Esto después lo van a escuchar los colegas. Entonces, adelante a ver qué más nos quieres contar desde el comienzo.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  A ver, yo salí del colegio en el 81.
+[SPEAKER_02]  Y para ponerlo en el contexto de lo que ocurría en ese momento, pues los PCs acababan de salir al mercado. Era un buen ensayo de IBM y tal vez si recuerdas estaba RadioShack que tenía unas máquinas. En el mío. Exacto. Y había algunos ensayos de computadores personales, pero nada estándar. Realmente eran muy, muy dedicados a la marca. Microsoft pues era una compañía chiquititica que le prohíbe el DOS en IBM. Cosas más sofisticadas como Internet ni hablar.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Y todo lo que realmente todo se referenciaba a Mainframes. Yo tenía la fortuna de escuchar a mi papá hablar de todo lo que se estaba haciendo en un ambiente tecnológico en el país, pero siempre eran Mainframes. Y me acuerdo de alguna visita que comentó yendo a Brasil a visitar al Banco Itaú, donde era un edificio completo.
+[SPEAKER_01]  Amén.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  el centro de cómputo, el piso de los discos
+[SPEAKER_03]  ¿Verdad que la imagen se bloqueó?
+[SPEAKER_02]  Y a pesar de tener ese contacto con la tecnología, yo empecé a estudiar ingeniería civil.
+[SPEAKER_02]  y entre Ingeniería Civil en la Escuela Colombiana de Ingeniería.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Y veníamos con el ritmo de las básicas.
+[SPEAKER_02]  Teníamos las materias iguales en todas las carreras. La escuela todavía no tenía ingeniería de sistemas. Ahí el universo se me atravesó porque la única estudiante de ingeniería de sistemas era María del Rosario, que terminó siendo mi esposa.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  De pronto, ahí el destino jugó a mi favor, afortunadamente.
+[SPEAKER_02]  Y a medida que empezamos a ver las materias más centradas en ingeniería civil y empezamos a ver estructuras y cálculo estructural, empecé a sentir como que esto tenía mucha aplicación desde el punto de vista de los computadores. Mi papá había comprado un PC y hacíamos las tareas de estructuras utilizando hojas de cálculo y una programación muy elemental en BASIC.
+[SPEAKER_00]  Vamos a ver.
+[SPEAKER_02]  Y fue como metiéndose en el gusanito hasta que el...
+[SPEAKER_02]  Estar en sexto semestre de civil.
+[SPEAKER_02]  Decidí hacer el cambio.
+[SPEAKER_02] 
+[SPEAKER_02]  Perdí un par de años ahí en ese proceso de cambio.
+[SPEAKER_02]  pero encontré mi pasión.
+[SPEAKER_02]  Terminamos en el 87, como dices.
+[SPEAKER_02]  Pero las materias que nosotros veíamos hoy, hoy suenan como...
+[SPEAKER_02]  Cavernícolas, lo más cercano a los pica piedra en términos de capacidades, en términos de capacidad de potencia, de almacenamiento, el tipo de cosas que se veían era completamente distinto. Me acuerdo viendo.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  como un tema que era muy importante.
+[SPEAKER_02]  En todo el tema bancario, porque todo estaba hecho en COBOL y lo que no estuviera hecho en COBOL no tenía ningún sentido. Vimos una materia que era revolucionaria, bases de datos relacionales. Y se llamaba Jairo, era profesor de los Andes también y trabajaba en el Banco Central Hipotecario.
+[SPEAKER_02]  y
+[SPEAKER_02]  espectacular, porque nos contaba algo que era...
+[SPEAKER_02]  pues el futuro, ¿no? Sentencias SQL que eran imposibles de pensar.
+[SPEAKER_02]  en ese momento, el mundo práctico.
+[SPEAKER_02]  Jairo Gómez, tal vez.
+[SPEAKER_02]  Airo Gómez, sí señora.
+[SPEAKER_02]  Sí.
+[SPEAKER_02]  Y...
+[SPEAKER_02]  Y tuvimos algún otro profesor que nos decía, mire, yo quiero contarles.
+[SPEAKER_02]  Esto.
+[SPEAKER_02]  Si algún día llegase a ocurrir, pues lo vemos imposible.
+[SPEAKER_02]  cómo el almacenamiento podría llegar a gigas.
+[SPEAKER_02]  Y llevaba la extensión a un futuro realmente imposible de petas. Pues eso es lo que tenemos hoy.
+[SPEAKER_02]  Era una ingeniería de sistemas muy incipiente, muy cercana todavía al hardware en muchas cosas, digamos lenguaje de máquina.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Y...
+[SPEAKER_02]  En algunas vacaciones ya empecé a trabajar, hice mi primer trabajo alrededor de ingeniería de sistemas, trabajando con Jorge Eduardo Estrada y Guillermo Caro, que tenían un Borrox 1700 en la escuela, era el data center de la escuela, era un mainframe, un mainframe pequeño, pero era un mainframe que tenía la asombrosa capacidad de 16K de memoria.
+[SPEAKER_02]  Y ahí corrían un montón de procesos. Y en vacaciones había un turno libre de operador.
+[SPEAKER_02]  y me contrataron para hacer el turno de operador durante las vacaciones, que era básicamente procesar temas de cartera, todos lo trabajábamos en tarjetas perforadas en ese momento, entonces los datos entraban en tarjetas perforadas, se producían unos listados gigantescos que se distribuían en los clientes, porque eran donde se llevaban los saldos al día, porque no había ningún procesamiento en línea de nada.
+[SPEAKER_02]  Y ahí me quedé, me quedé programando, haciendo cositas por horas. Y en el año...
+[SPEAKER_02]  Sería este por ahí, 84, 85.
+[SPEAKER_02]  La verdad es que el gerente general de NCR era Guillermo Ángel, que era primo de Jorge Eduardo Estrada precisamente.
+[SPEAKER_02]  Y NSR trajo las primeras máquinas Unix al país.
+[SPEAKER_02]  y le doy un saludo
+[SPEAKER_01]  Ahí hago un paréntesis chiquito.
+[SPEAKER_01]  un poco el lado humano de estas cosas, acabas de mencionar tres personas.
+[SPEAKER_01]  que fue el que entrevisté yo en mi bio, en la historia de los pioneros de la computación colombiana, que fueron...
+[SPEAKER_01]  Ricardo Quintana, tu papá.
+[SPEAKER_01]  Número uno.
+[SPEAKER_01]  Ajá. Jorge Eduardo Estrada.
+[SPEAKER_01]  Y Guillermo, además, los tres fundadores de la Escuela de Ingeniería.
+[SPEAKER_01]  que es un hito, o sea, tú eres hijo de los fundadores de la escuela de ingeniería.
+[SPEAKER_01]  que es muy fuerte
+[SPEAKER_02]  El monoclip popular de la escuela, pero no se piden los primeros profesores.
+[SPEAKER_01]  De los primeros profesores y después muy experto en lenguaje C.
+[SPEAKER_01]  Y una historia que ahí me conecta es que...
+[SPEAKER_01]  Cuando yo me independicé por primera vez por allá en el año 76 o 78,
+[SPEAKER_01]  El primero que me dio un proyecto, a mi emprendedecita chiquita, fue Ricardo Quintana.
+[SPEAKER_01]  en el Banco Central Hipotecario.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Y cada vez que me encuentro con tu papá, le digo, Ricardo, a mí no se me olvida que fue el primero que nos dio un proyecto.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Y obviamente simplemente tiene sangre de sistemas porque Jorge Eduardo Estrada, Guillermo Ulides, tu papá que fue hasta rector de la universidad.
+[SPEAKER_03]  Yo ya vi...
+[SPEAKER_01]  Entonces quería comentar ese tema porque es un origen muy interesante.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Las historias están todas entremezcladas. Yo me acuerdo justo...
+[SPEAKER_01]  Sigue con el tema del voto.
+[SPEAKER_02]  Guillermo Ángel, ONSR, le donan esta máquina Unix a la escuela.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Y Jorge Eduardo simultáneamente lo convence.
+[SPEAKER_02]  Ángel de que entré al mundo de UNIX. Y empezamos a hacer cositas con C, cuando C era un lenguaje todavía muy...
+[SPEAKER_02]  muy poco divulgado, donde tal vez en la Universidad de los Andes hablaban de Pascal como el lenguaje ya estructurado y con una serie de temas mucho más poderosos que contra Cobol, que era un lenguaje mucho más simple.
+[SPEAKER_02]  Y empezamos a trabajar en sede en ese momento.
+[SPEAKER_02]  Y el primer cliente de Ionix que tuvimos.
+[SPEAKER_02]  teníamos que hacer la evaluación de un sistema para llevar pólizas de seguros, algo más orientado al negocio y ahí te conocí yo.
+[SPEAKER_02]  Porque en esa época...
+[SPEAKER_02]  Te pedimos una cotización del sistema y eso fue en el año 85, tal vez.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  con sabas en lógica tal vez
+[SPEAKER_01]  ¿Estabas en lógica?
+[SPEAKER_01]  Estaba en lógica software ya, sí, ya habíamos cerrado Microtech, que era Radio Chac, cerraron las importaciones, ya estaba en lógica, tienes razón, y yo, sí, estaba trabajando en seguros, tienes razón.
+[SPEAKER_02]  ¿Qué es lo que se llama?
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Entonces...
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Y ahí me quedé hasta finalizar la universidad.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Antes de finalizar la universidad...
+[SPEAKER_02]  Un día me comentó mi papá que se había encontrado en alguna reunión con Alberto Pradilla.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Que Alberto Pradilla tenía la representación de Texas Instruments.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  y que estaba buscando gente que pudiera hablar con él.
+[SPEAKER_02]  Durante un par de meses tuvimos muchísimas charlas con Alberto.
+[SPEAKER_02]  hasta que me ofreció puesto, me dijo una vez salga de la universidad.
+[SPEAKER_02]  venga y empieza a trabajar con nosotros
+[SPEAKER_02]  Sacamos la universidad e hicimos un paseo de fin de carrera.
+[SPEAKER_02]  Y empecé a trabajar con Alberto.
+[SPEAKER_02]  Y...
+[SPEAKER_02]  Me acuerdo que me dijo, tengo una posición en ventas.
+[SPEAKER_02]  Y le dije, mira Alberto, perdón, pero yo estoy en ingeniería.
+[SPEAKER_02]  Yo no me quiero prostituir. Y le dije así.
+[SPEAKER_02]  Porque la visión de la parte comercial que nos han dado...
+[SPEAKER_02]  Pues no existían, ¿no? Las ventas eran...
+[SPEAKER_02]  el vendedor casi que lo me lo imaginaba yo como el vendedor de enciclopedias yendo de puerta en puerta
+[SPEAKER_02]  Y empecé a trabajar en soporte técnico, haciendo cosas en C, aprendiendo un tema revolucionario que Texas Instruments traía que era multiprocesamiento.
+[SPEAKER_02]  todo con Unix
+[SPEAKER_02]  Y en ese momento Informix era como el líder global de bases de datos. Oracle estaba apenas empezando y tal vez en el 80 y...
+[SPEAKER_02]  9.
+[SPEAKER_00]  9.
+[SPEAKER_02]  En el 89 Oracle lanzó una versión que corría en las máquinas Texas Instruments y era la versión 7, si no recuerdo mal.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  En esa época en Texins.
+[SPEAKER_02]  Todo lo trabajábamos y era el momento de vender todas las máquinas UNIX. Y me acuerdo muchísimas veces yo trabajaba en preventa, vendiendo y haciendo las demostraciones de que UNIX realmente era un tema viable.
+[SPEAKER_02]  y que iba a haber un futuro por ese lado.
+[SPEAKER_02]  Y todo otra vez, ¿verdad?
+[SPEAKER_02]  muy centrado en las capacidades del hardware.
+[SPEAKER_02]  Porque el software era muy básico, eran realmente lenguajes de programación.
+[SPEAKER_02]  las... las...
+[SPEAKER_02]  las soluciones que existían.
+[SPEAKER_02]  más o menos empaquetadas y que se distribuían eran muy poquitas eran más para mainframes me acuerdo de los sistemas bancarios que había
+[SPEAKER_02]  de los que tenía el banco cafetero en mis primeros recuerdos.
+[SPEAKER_02]  Pero eran sistemas gigantescos desarrollados en Cobol que se entregaban ahí. Ahí había otro personaje que históricamente también debe recordar que era Johan Heinsohn.
+[SPEAKER_02]  Y claro. Que Johan fue de los primeros ingenieros civiles que salieron de la escuela, de la primera promoción. Y hoy en día, pues, Henson sigue siendo una compañía.
+[SPEAKER_01]  Claro.
+[SPEAKER_02]  de renombre en Colombia.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Y eso... Johan era costarricense.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Sí, era muy joven, yo fui amigo de él.
+[SPEAKER_01]  Y tiene razón, hoy día Heysson puede tener 400 o más ingenieros contratados.
+[SPEAKER_01]  Así es. Es una gente grande. Y una cosita.
+[SPEAKER_01]  Te tocó la época de los modems porque Texina fue líder en las primeras telecomunicaciones.
+[SPEAKER_03]  Ah, por supuesto.
+[SPEAKER_02]  Claro, una de las compañías hermanas de Texin era Coldatos. Coldatos. Pues redes no existían realmente. Yo me acuerdo en las primeras máquinas que teníamos, la conectividad entre las máquinas era muy cercana con unos cables coaxiales gruesotes porque los temas eléctricos y electrónicos de transmisión estaban muy primarios. Y Coldatos tenía la representación de unos modems sincrónicos marca Rackal que daban la espectacular velocidad de 56K. Y con esa...
+[SPEAKER_01]  ¡Bétero!
+[SPEAKER_01]  Una de las compañías en la que
+[SPEAKER_02]  se conectaban las usales a transmitir los movimientos del día a los centros de cómputo de consolidación de los bancos.
+[SPEAKER_02]  Nosotros tenemos de cliente al Banco de Bogotá.
+[SPEAKER_02]  y
+[SPEAKER_02]  Y el Banco de Bogotá todas las noches transmitía desde unos minis que tenían en las oficinas a sus oficinas centrales los movimientos para poder hacer el procedimiento de los canjes. Y dos o tres días después entonces estaban al día los saldos de todas las personas.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  y
+[SPEAKER_02]  En el año 90, tal vez, o 91.
+[SPEAKER_03]  Noven...
+[SPEAKER_02]  Texins participó en un proyecto revolucionario que tuvo Ecopetrol.
+[SPEAKER_02]  que fue hacer la Red Nacional de Datos de Ecopetrol.
+[SPEAKER_02]  Y esa red nacional de datos de Ecopetrol implicaba traer tecnologías que en ese momento eran muy poco...
+[SPEAKER_02]  muy poco usadas en el país en ambientes comerciales, porque como dices, todo era a través de modems, y pensar en redes locales o en redes amplias era todo un reto.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02] 
+[SPEAKER_02]  TechScience participó, se hizo un consorcio con Tricom, que en ese momento estaba sacando sus primeras líneas de switches y de routers a internet.
+[SPEAKER_02]  participamos con Nobel, que tenía su sistema de almacenamiento de archivos Network.
+[SPEAKER_02]  y
+[SPEAKER_02]  En ese momento...
+[SPEAKER_02]  Texins tenía la distribución de EISE como PCS y se hizo un consorcio.
+[SPEAKER_02]  y ganamos un proyecto que era de unas monstruosidades absurdas para ese momento.
+[SPEAKER_02]  para que hubiera...
+[SPEAKER_01]  Ahí ya estaba.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01] 
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Ya era.
+[SPEAKER_02]  Sí, ya, esto era en el 91.
+[SPEAKER_01] 
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Yo me gradué en el año 2000.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  87, 87, 88, 89, 90.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Echemos un reversito
+[SPEAKER_01]  ¿No? ¿De veridica seguimos? Sí.
+[SPEAKER_01]  estando en la universidad.
+[SPEAKER_01]  La población de compañeros.
+[SPEAKER_01]  Eran más hombres, había mujeres.
+[SPEAKER_01]  ¿Cómo debe ser relacionado?
+[SPEAKER_02]  La primera promoción de ingeniería de sistemas de la escuela fuimos...
+[SPEAKER_02]  8.
+[SPEAKER_02]  Cuatro hombres y cuatro mujeres.
+[SPEAKER_02]  B.
+[SPEAKER_02]  Ahí estaba, de las mujeres estaba Marcela Chávez, quien falleció hace un par de años.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Estaba María del Rosario Montejo, mi esposa.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  bien
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Estaba Sandra Valderrama, que vive en Estados Unidos desde hace 40, sí, 30 y pico años. Diana Navarrete, que también vive en Estados Unidos. Orlando Hernández, que también vive en Estados Unidos. Juan Carlos Álvarez.
+[SPEAKER_02]  Y yo, éramos siete, perdón.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Cuatro, tres, nueve.
+[SPEAKER_03]  Y bueno, pues traigo cuatro minutos y tres minutos.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  y
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Y todos hemos seguido involucrados en temas de tecnología desde diferentes...
+[SPEAKER_01]  Desde diferentes...
+[SPEAKER_01]  Y tu tesis de grado.
+[SPEAKER_01]  ¿Qué fue? Antes de ir a la chica seguimos con la historia, o no hiciste.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  No.
+[SPEAKER_02]  No teníamos...
+[SPEAKER_01]  tesis.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Ah, ya, ya.
+[SPEAKER_02]  Afortunadamente, porque no sé de qué la habría hecho, pero...
+[SPEAKER_02]  No, no, sí.
+[SPEAKER_02]  Sí. Lo llamamos tesis.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Ok, ok.
+[SPEAKER_03]  Bueno.
+[SPEAKER_01]  Muy bien.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Bueno...
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Una anécdota de...
+[SPEAKER_01]  de Alberto Pradilla.
+[SPEAKER_01]  porque es otro líder, otro de los pioneros de mi virus, también el que entrevisté fue Alberto, gran amigo.
+[SPEAKER_01]  Él tenía un hobby que eran las lanchas.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Sí. Él cruzó el Magdalena.
+[SPEAKER_02] 
+[SPEAKER_01]  casi 20 veces.
+[SPEAKER_01]  como deporte.
+[SPEAKER_01]  ¿Te acuerdas? Él cruzaba en unos eventos que hacían.
+[SPEAKER_03]  ¿De acuerdo?
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Hay que cruzar todo el montalén.
+[SPEAKER_02] 
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  y en las carreras con el magdalena y eso fue a principios de los 90 también y él siempre tuvo el hobby de los deportes de mar y él tiene en su finca y en el cisga y ha tenido es toda la vida ya quiso hacerlo comercialmente pero si es una persona con una afición muy dura por eso y por los
+[SPEAKER_04]  Ya después.
+[SPEAKER_01]  Sí, también. Ah, sí, sí, sí, le vi llevar caballos puras a los colegios, los nogales.
+[SPEAKER_02]  Sí, sí.
+[SPEAKER_01]  La mascota del niño era un caballo pura sangre.
+[SPEAKER_03]  caballo
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Bueno, es una anécdota de la persona que también es un pionero, ¿no? Sí, a ver.
+[SPEAKER_02]  y tenía que...
+[SPEAKER_02]  Sí, Alberto tenía tres compañías que eran líderes. Estaba Coldatos en todos los temas de comunicaciones avanzadísimas. Estaba STA, que era el representante de Digital Equipment.
+[SPEAKER_02]  Y esta va a Texins.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Correcto. Los jóvenes que van a ver esto...
+[SPEAKER_03]  ¿Cómo es?
+[SPEAKER_01]  estas charlas
+[SPEAKER_01]  No se imaginan algunos.
+[SPEAKER_01]  Como después, cuando en Internet comenzamos a trabajar por modem.
+[SPEAKER_01]  ¿No?
+[SPEAKER_01]  era así por modem y cuando uno se conectaba el modem silbaba y todo eso, ¿no? Sí, sí, nada.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Sí, está uno de buenas y no se caía. O sea que estás hablando de una época de pioneros en el tema de las telecomunicaciones.
+[SPEAKER_02]  Es una oportunidad, es una transición absoluta. Hemos vivido de la desconexión total a la conectividad total.
+[SPEAKER_02]  Correcto.
+[SPEAKER_01]  Ok, ok, muy bien, sigue tranquilo, ahí vamos.
+[SPEAKER_02]  Y yo creo que Ecopetrol fue un gran impulsor de esa conectividad a nivel nacional.
+[SPEAKER_02]  Consorcio Nacional de Datos.
+[SPEAKER_02]  Y ahí me pasó un tema muy simpático, estábamos en todo el proceso de implementación, salió el tema.
+[SPEAKER_02]  Y un día...
+[SPEAKER_02]  Jaime Lozada, que era el gerente comercial de Texins todavía.
+[SPEAKER_02]  Me invitó a almorzar con el que era el director regional de Nobel.
+[SPEAKER_02]  Y en el almuerzo salió el tema que con el negocio de la red nacional de Ecopetrol.
+[SPEAKER_02]  Pues habíamos comprado más Nobel en una transacción de todo lo que ellos vendían en el país, que por qué no nos convertíamos en distribuidor de ellos.
+[SPEAKER_02]  Y más o menos, de ahora en día usted se va a hacer cargo de esa vaina.
+[SPEAKER_00] 
+[SPEAKER_02]  Yo no había vendido nada en mi vida. Como te dije, había más o menos pensado que iba a acabar mi vida en la universidad de ingeniería.
+[SPEAKER_03]  Sí.
+[SPEAKER_02]  Y ahí empecé una carrera comercial, empecé mi carrera comercial más forzado.
+[SPEAKER_02]  que nada.
+[SPEAKER_02]  Y afortunadamente, porque han sido 30 años de muchísimas satisfacciones alrededor del tema, donde entendí que la agregación de valor para el usuario final, que es lo que finalmente importa.
+[SPEAKER_02]  requiere una labor comercial muy importante y no solamente la técnica, se requieren los productos.
+[SPEAKER_02]  de la mejor calidad y se requiere quien los ofrezca para que tengan sentido y permanencia en el tiempo.
+[SPEAKER_02]  y
+[SPEAKER_01]  ¡Gracias!
+[SPEAKER_01]  Pero un vendedor conocedor de la tecnología ya no es la postura que tú pensabas de orden ciclopedia. Es muy importante eso.
+[SPEAKER_03]  Ya no...
+[SPEAKER_01]  que sí podía asesorar y también, de nuevo, para los jóvenes que ven esto.
+[SPEAKER_01]  no veneran redes locales.
+[SPEAKER_01]  Totalmente.
+[SPEAKER_03]  Totalmente.
+[SPEAKER_01]  Reds, los networks, lo que se llamaba, ya lo mencionaste.
+[SPEAKER_03] 
+[SPEAKER_03]  ¿Vale?
+[SPEAKER_01]  Eran redes locales, todavía no estaba internet, ¿no?
+[SPEAKER_01]  Pero ya podías asesorar a una empresa porque sabías, habías visto al lenguaje de máquina, que probablemente uno decía, ¿para qué servirá? Pero era el conocimiento de lo que era.
+[SPEAKER_03]  Pero yo...
+[SPEAKER_01]  La computación.
+[SPEAKER_02]  Y la formación de ingeniero lleva a eso.
+[SPEAKER_02]  La formación es el entendimiento de una necesidad para poderla plasmar en una solución.
+[SPEAKER_02]  Y eso sí ha permanecido a lo largo de todos los años, porque no importa la tecnología subyacente, siguen teniendo lo mismo. Necesitas entender el dolor del cliente, el dolor del usuario final para ofrecer la solución realmente válida. Y esa formación estructurada sigue siendo necesaria.
+[SPEAKER_01]  Concepto de servicio.
+[SPEAKER_01]  Porque trabajamos para las necesidades de los demás, digámoslo así, a nivel de las empresas.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Así tal cual.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  en ese momento otra vez
+[SPEAKER_02]  el software
+[SPEAKER_02]  Será...
+[SPEAKER_02]  muy hecha la medida todavía.
+[SPEAKER_02]  No, el enemigo.
+[SPEAKER_02]  Sí, todavía la venta era muy cercana a la máquina y a cómo aprovechar mucho los recursos de máquina.
+[SPEAKER_00]  más.
+[SPEAKER_02]  Hasta que llegó internet.
+[SPEAKER_02]  y empezó a cambiarnos todo.
+[SPEAKER_02]  Sí.
+[SPEAKER_02]  En...
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias por ver el video.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  ¿En qué año viste internet por primera vez?
+[SPEAKER_02]  Y por primera vez tal vez en el 91.
+[SPEAKER_02]  91, 92, en operación ya real, cuando Netscape sacó su browser.
+[SPEAKER_01]  Sí, claro.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Venga, eh.
+[SPEAKER_02]  Y...
+[SPEAKER_02]  Y Windows, ¿te acuerdas que uno arrancaba Windows 3.1 como una aplicación sobre DOS? No era un sistema operativo, realmente era una interfase de ventanas.
+[SPEAKER_02] 沒有
+[SPEAKER_02]  y
+[SPEAKER_02]  y
+[SPEAKER_02]  el browser que uno utilizaba era Netscape.
+[SPEAKER_02]  Así es. En esa época Microsoft estaba trabajando con IBM.
+[SPEAKER_02]  en el proyecto de OS2.
+[SPEAKER_02]  No.
+[SPEAKER_01]  ¡Mmm, qué!
+[SPEAKER_02]  Y recuerdo una frase de Bill Gates que decía, OS2 es el futuro, Windows no es más que un experimento. ¿Sí? Ajá, sí. Y bueno, la historia cambió.
+[SPEAKER_01]  Yo tengo una visión de pronto equivocada.
+[SPEAKER_02]  ¿Qué más?
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Yo estaba con Radio Shack en el 80, el IBM PC llegó a Colombia como en el 81, 82.
+[SPEAKER_01]  IBM al sacar el PC, ¿no lo sacó con OS 2 que ya existía?
+[SPEAKER_01]  sino que buscó un tercero, que fue Bill Gates en este caso, con DOS.
+[SPEAKER_01]  Como pensando, pongámosle algo a esas máquinas, ¿no? Sí, algo así es para tú, muy chiquito.
+[SPEAKER_00] 
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Sí, algo más.
+[SPEAKER_01]  Ajá.
+[SPEAKER_01]  Sí, había una cierta vanidad y como saquemos el PC porque nos están compitiendo por ahí.
+[SPEAKER_01]  Pero OS2 fue un sistema operacional que hubiera podido ser de los micros, pero la historia es que existía el OS2.
+[SPEAKER_01]  que era ese sistema operacional de la IBM.
+[SPEAKER_01]  Ok, entonces Michael, si quieres...
+[SPEAKER_01]  Trabajaron juntos, obviamente.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Y en esa época...
+[SPEAKER_02]  Texas Instruments.
+[SPEAKER_02]  Un grupo de ingenieros de Texas Instruments.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Dijeron, no, pues ya Ibero sacó su máquina, pero es una máquina muy básica, nosotros podemos hacer desde el punto de vista de ingeniería algo mejor.
+[SPEAKER_02]  y presentaron internamente
+[SPEAKER_02]  un proyecto con un PC que tenía muchas capacidades similares al de IBM, pero tenía mejores gráficas y era color desde el principio, porque el color no ha existido siempre. Y un grupo interno de ingenieros estaban en contra del proyecto porque decían esto tiene que ser una máquina compatible con IBM, ellos en la fuerza de mercado.
+[SPEAKER_02]  cuando se escogió el proyecto de...
+[SPEAKER_02]  de hacer la máquina de Texas Instruments que no era compatible 100% con IBM.
+[SPEAKER_02]  Estos se salieron, se fueron furiosos.
+[SPEAKER_02]  Y en un restaurante invitaron a un inversionista.
+[SPEAKER_02]  Y le contaron una idea que tenían de hacer una máquina de alguna forma o el primer computador portátil.
+[SPEAKER_02]  Y ahí nació Compact.
+[SPEAKER_04]  Mmm.
+[SPEAKER_02]  Ya.
+[SPEAKER_02]  Compact, la idea de Compact nace en una servilleta en un restaurante donde están contando estos ingenieros al inversionista que pueden hacer una máquina portátil y esa máquina portátil pues era realmente transportable. Porque si recuerdas incluso tenía pantalla con tubo de rayos, el teclado era la tapa, eso debía pesar no sé 20 kilos, una cosa ridícula, pero fue el inicio de Compact.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00] 
+[SPEAKER_02]  que durante todos los 90s y buena parte, o sea, hasta finales del siglo XX, fue líder en la venta de PCs a nivel global. Pues ahí nacen varios monstruos. Nace Microsoft, con Compact, con un crecimiento impresionante en los 90s.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  y
+[SPEAKER_02]  Texas Instruments tenía su sede principal de UNIX en Austin, Texas, y viajábamos con bastante frecuencia a Austin.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Y de pronto empezaron a robarse ingenieros de Texas Instruments, una compañía nueva, de un muchacho que había empezado armando PCs para sus compañeros de universidad que se llamaba Michael Dell.
+[SPEAKER_02]  Ah, de hecho.
+[SPEAKER_02]  y ahí nace del computer
+[SPEAKER_02]  como uno, otro...
+[SPEAKER_02]  otro
+[SPEAKER_02]  Otro de los grandes...
+[SPEAKER_02]  monstruos en la época de los peces.
+[SPEAKER_02]  Y los PCs y los servidores departamentales iban ahí. Internet seguía creciendo, pero las aplicaciones comerciales sobre Internet todavía eran muy básicas. Era más para temas, lo utilizaban mucho para temas de correo.
+[SPEAKER_02]  No había comercio electrónico realmente, para nada.
+[SPEAKER_02]  y
+[SPEAKER_02]  Tal vez la primera tienda de comercio electrónico que yo conocí
+[SPEAKER_02]  fue Amazon, pero Amazon vendiendo libros. Porque Amazon empezó haciéndole la competencia a las librerías en Estados Unidos. Y no vendían sino libros.
+[SPEAKER_01]  niños.
+[SPEAKER_02]  Y eso fue a principios de los 90 también.
+[SPEAKER_03]  Sí.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Amén.
+[SPEAKER_01]  Una anécdota de la servilleta.
+[SPEAKER_01]  El primer protocolo de correo electrónico.
+[SPEAKER_01]  No, yo no lo sé.
+[SPEAKER_01]  gestores en una servilleta.
+[SPEAKER_01]  Y esa servilleta, yo tuve las fotos de la servilleta y que la perdí.
+[SPEAKER_01]  Porque está por ahí, seguramente está en internet.
+[SPEAKER_01]  Pero es una lectura interesante.
+[SPEAKER_01]  ¿Sabes? Y damos.
+[SPEAKER_01]  Se reunían en una servilleta, dirijaban el protocolo.
+[SPEAKER_01]  ¿No?
+[SPEAKER_01]  lo mismo que acá
+[SPEAKER_02]  Ya después que tenemos servilletas.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Claro, sí, sí, sí, el restaurante, ¿no?
+[SPEAKER_01]  Ok, ok. Entonces vamos en que el Internet era muy básico.
+[SPEAKER_02]  Ok.
+[SPEAKER_02]  era súper básico, era correo electrónico, ya se utilizaba correo electrónico, Unix había...
+[SPEAKER_02]  Iniciado...
+[SPEAKER_02]  la posibilidad de hacer transferencia entre máquinas utilizando diferentes medios con un protocolo que se llamaba UCP.
+[SPEAKER_03]  UCP. Así es.
+[SPEAKER_02]  Pero era todo para hacer eso, transferencias de archivos, FTPs, navegación muy muy lenta. Cuando Netscape sacó su browser se convirtió en una vaina realmente revolucionaria.
+[SPEAKER_02]  Después vino la guerra en esa época de Microsoft contra Netscape.
+[SPEAKER_02] 
+[SPEAKER_02]  para subir su browser porque
+[SPEAKER_02]  quería obligar a los fabricantes a que pusieran Explorer en sus máquinas en vez de que fueran preinstaladas con Netscape. Así es.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Netscape era gratis además. Hay una serie en Netflix, que no me acuerdo ahorita cómo se llama, donde narran toda la historia de lo que pasó con Netscape, las luchas, hasta que Bill Gates es llevado al juicio por todos los manejos.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Bueno.
+[SPEAKER_02]  de presión sobre las compañías de PCs.
+[SPEAKER_02]  Ahí es cuando Bill Gates sale de ser el CEO de Microsoft, que lo obligaron a salir o partían la compañía, ¿me recuerdas? Sí. Eso fue a fines de los 90.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Y eran muy agresivos. Me acuerdo que cuando la otra guerra que fue contra...
+[SPEAKER_01]  Nobel
+[SPEAKER_01]  Sacaban un dibujo de unos zapatos viejos.
+[SPEAKER_01]  Sí, era nobel.
+[SPEAKER_01]  Y al lado unos zapatos nuevos.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Eso fue cuando salió Windows NT.
+[SPEAKER_01]  No fue cuando salió.
+[SPEAKER_01]  Windows NT
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Ah.
+[SPEAKER_02]  Ajá.
+[SPEAKER_02]  Y eso sí, eso fue.
+[SPEAKER_02]  Eso fue durante los 90.
+[SPEAKER_02]  Compact pierde el liderazgo de los PCs contra Dell en el 99.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  ¡Horra!
+[SPEAKER_02]  temas estructurales muy complejos dentro de Compact y luchas de poderes.
+[SPEAKER_02]  y de él sale con su modelo Just-In-Time y se convierte en el número uno en PCs. En ese tiempo...
+[SPEAKER_02]  Compact había comprado a Digital Equipment, a DEC.
+[SPEAKER_02]  y había comprado a Tandem, era la que hacía estas máquinas full tolerance con todos los elementos de hardware intercambiables en vivo, actualización de sistemas en vivo con disponibilidad del 100%.
+[SPEAKER_02]  Compact adquiere esas máquinas y le da un respiro en algunas cosas.
+[SPEAKER_02]  pero estaba muy herido.
+[SPEAKER_02]  por el...
+[SPEAKER_02]  por el modelo de Dell súper concentrado, siendo súper eficiente en las compras.
+[SPEAKER_02]  Y...
+[SPEAKER_02]  El...
+[SPEAKER_02]  El ataque a las torres fue el 11 de septiembre del 2001, ¿cierto?
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Una semana antes exactamente, el 4 de septiembre del 2001.
+[SPEAKER_02]  Hewlett Packard anuncia la compra de Compaq.
+[SPEAKER_02]  Bien.
+[SPEAKER_02]  Y se arma una de las grandes batallas jurídicas alrededor del tema. Y si recuerdas, estaba Carly Fiorina.
+[SPEAKER_02]  La que fue precandidata a la presidencia de Estados Unidos era la presidente de HP.
+[SPEAKER_02]  Y se enfrenta a Walter Hewlett, que era el heredero de...
+[SPEAKER_02]  del fundador de Hewlett Packard por la compra de Compact y hacerla o no hacerla.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  estamos hablando ya de principios de los 2000 que más recuerdo del 90
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  de la época de los noventas
+[SPEAKER_02]  Sí, los fierros eran importantísimos. Y ha sido muy importante el concepto del data center.
+[SPEAKER_02]  dentro del cliente la construcción de los data centers era era un tema de altísima ingeniería que se recuerda serán cuartos cerrados donde no puede entrar el polvo de acondicionado sistemas de purificación de aire nada que ver con lo que los jóvenes se pueden imaginar hoy que era
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Cuando hablaste de...
+[SPEAKER_01]  Yo me acuerdo que él tenía circuitos en oro.
+[SPEAKER_01]  Era una máquina de una fila. Eso lo mencionaste hace un ratito.
+[SPEAKER_03]  Bien.
+[SPEAKER_01]  De que era una cosa finísima, yo me acuerdo, casi que uno decía imposible. Y creo que de...
+[SPEAKER_01]  En esa máquina se promedió mucho la mejora de UNIX.
+[SPEAKER_01]  No estoy mal. Yo señor.
+[SPEAKER_02]  Ellos tenían dos familias de máquinas, tenían la familia de los PDP.
+[SPEAKER_02]  Ah, los TDP, perfecto, sí. Y tenían los Vaxes, la familia Vax.
+[SPEAKER_02]  La primera...
+[SPEAKER_02]  El...
+[SPEAKER_02]  Tal vez...
+[SPEAKER_02]  Dios mío, a finales de los 90 se hizo el primer descifrado del genoma humano.
+[SPEAKER_02]  Y eso creo que fue en una máquina PDP o en una VAX, pero fue en una máquina digital que duró procesando yo no sé cuánto tiempo para poder...
+[SPEAKER_02]  para poder hacer esta...
+[SPEAKER_02]  el descifrado del genoma humano, cosa que hoy se hace en instantes.
+[SPEAKER_01]  Y PDP controlaba muchos hardware externo. Yo me acuerdo cuando yo dirigí el Centro de Computación de Producto de Energía.
+[SPEAKER_01]  Y acueducto tenía PDP.
+[SPEAKER_03]  Mm-hmm.
+[SPEAKER_01]  para controlar los procesos del agua en sus instalaciones, allá en la parte técnica.
+[SPEAKER_01]  O sea, esa fue una época muy importante porque tal vez el mensaje es como de esa época nacieron tecnologías.
+[SPEAKER_01]  que generaron lo que hoy en día es muchas cosas.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  yo creo
+[SPEAKER_02]  Claro, yo creo, fíjate que el invento...
+[SPEAKER_02]  realmente de cero a algo no existe, sino son continuas evoluciones.
+[SPEAKER_03] 
+[SPEAKER_02]  ¿Cierto? Y cada vez se van evolucionando y se va construyendo sobre lo construido. Así como en la Fórmula 1, lo que hace la Fórmula 1 tarde o temprano termina siendo tecnología incorporada en los automóviles de la calle. Así lo hemos visto nosotros, de los supercomputadores, de los laboratorios, las máquinas súper sofisticadas, cómo eso se ha llevado a los teléfonos móviles hoy en día.
+[SPEAKER_02]  Así es.
+[SPEAKER_02]  Es una progresión. Y ahí viene el tema de la ley de Moore, ¿no? Que se ha cumplido.
+[SPEAKER_01]  A cabalera. De acuerdo.
+[SPEAKER_02]  De acuerdo.
+[SPEAKER_01]  Que a la gente hay que enseñarle y no es que vayamos a brincar tantos años.
+[SPEAKER_01]  que el chat GPT no nació antes de ayer.
+[SPEAKER_01]  ¿De acuerdo?
+[SPEAKER_01]  Uy, se inventaron la semana pasada unas cosas llamadas... No, no, no, no.
+[SPEAKER_01]  Eso es un historial tremendo de hacia atrás. Es muy bueno lo que tú acabas de decir.
+[SPEAKER_01]  porque es una construcción del mundo, en unos procesos.
+[SPEAKER_01]  que llegan a estas cosas más grandes. Y obviamente en esa época estabas hablando mucho del PSE.
+[SPEAKER_01]  ya el servidor, porque Yunis era para servidores.
+[SPEAKER_02]  Y empezaba a ser algo mucho más departamental, ya no solamente eran los grandes data centers en los que se hacían los procesos mayores, sino ya el tema de la concepción.
+[SPEAKER_02]  Del PC en el escritorio, yo creo que desde el año...
+[SPEAKER_02]  94, 95 ya era algo más o menos estándar.
+[SPEAKER_02]  ¿Cierto?
+[SPEAKER_02]  Y la concepción de servidores departamentales, primero para tener redes y sistemas de almacenamiento de archivos.
+[SPEAKER_02]  Y cuando salió NT tenía un concepto radical que era de ser un servidor de aplicaciones.
+[SPEAKER_02]  Porque Nobel era un servidor de archivos realmente.
+[SPEAKER_02]  Tú no procesabas, tú procesabas localmente, pero tú no procesabas a fin.
+[SPEAKER_02]  Eh...
+[SPEAKER_01]  Los nodos de Novel eran PCs.
+[SPEAKER_01]  Los nodos de UNIX eran terminales no inteligentes. Yo me gusta decir terminales brutos, como lo mencionaban.
+[SPEAKER_02]  Sí.
+[SPEAKER_02]  No entiendo.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02] 
+[SPEAKER_01]  Pero eran no inteligentes. No, no, eran terminados.
+[SPEAKER_03]  pero eran no inteligentes.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  y así
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Sí, ok.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Es un paso grande.
+[SPEAKER_02]  Es un paso grande y ahí viene el tema también de cómo se conectaban las terminales a las máquinas.
+[SPEAKER_02]  porque UNIX trajo el concepto de una conexión simple con interfaces RS-232 al principio.
+[SPEAKER_02]  Mientras que las terminales que utilizaban los mainframes requerían unos cableados especiales y eran unas terminales súper complejas, si te acuerdas las que se conectaban a los mainframes de IBM.
+[SPEAKER_02]  Y ahí aparece otra persona importantísima.
+[SPEAKER_02]  que
+[SPEAKER_02]  ¡Ay!
+[SPEAKER_02]  Cuando llegó Nazco, el dueño de Nazco, que se me olvidó el nombre en este momento.
+[SPEAKER_02]  que fue de los primeros ingenieros de sistemas de los Andes.
+[SPEAKER_02]  y
+[SPEAKER_01]  Sí, sí.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  ¿Cómo se llama?
+[SPEAKER_01]  Beatriz, estás ahí, nazco. Estás gran amiga.
+[SPEAKER_02]  Bien, pues, Comar.
+[SPEAKER_01]  Diego, Diego Escobar. Diego Escobar.
+[SPEAKER_01]  Diego Escobar, claro.
+[SPEAKER_02]  Concha, Diego Escobar Concha.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Guillermo Escobar traía estas máquinas NAS japonesas que le hacían la competencia a los mainframes de IBM, siendo totalmente incompatibles, corriendo los mismos sistemas operacionales, pero era de ese tamaño.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Uy, me empiezan a llegar un montón de personajes que trabajaban. Ahí estaba Joaquín Oramas, que trabajó con Diego Escobar también muchos años, que fue profesor nuestro en la escuela, decano en la escuela y trabajó mucho tiempo con Diego también.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  y
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Amigo mío era de mi grupo de estudio cuando éramos estudiantes. Joaquín siempre fue muy amigo mío.
+[SPEAKER_01]  Así es.
+[SPEAKER_01]  Y ese grupo de NASCO fue un grupo muy importante. Tal vez mencionar una cosita, Francisco. En esa época, los data centers, los dueños eran IBM o Burroughs, eran multinacionales. Pero es más que parece.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  ¿Quiércun que pareciera?
+[SPEAKER_01]  Diego Escobar haciéndole competencia a estos monstruos.
+[SPEAKER_01]  Aquí es localmente.
+[SPEAKER_01]  que fue lo admirable.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  trabajo que Diego sigue muy vigente también.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Sí, y mencionas a Borrocks, que fue una compañía que en Colombia tuvo un éxito único a nivel global.
+[SPEAKER_02]  Sí.
+[SPEAKER_03] 
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  porque Borros en el resto de países no tenía el posicionamiento importante que tenía acá.
+[SPEAKER_02]  Y...
+[SPEAKER_02]  Tenía una instalación enorme que era la de mostrar en todo el mundo de borros, que era la de empresas públicas de Medellín, que tenía unas máquinas gigantescas de borros antes de que se fusionara con Sperry y crearan la marca de Ionisis.
+[SPEAKER_00] 
+[SPEAKER_01]  Así es, pero de UNIVAC, sí.
+[SPEAKER_02]  Entonces, todo eso, estamos todavía en los 90, yo no creo que hayamos llegado todavía al 2000 cuando todo esto ocurrió, entonces era una revolución de muchas cosas.
+[SPEAKER_02]  Las redes iban tomando importancia y borros.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  tenía
+[SPEAKER_02]  una unidad de software que era...
+[SPEAKER_02]  muy importante en el procesamiento de software en las oficinas bancarias, en el procesamiento de transacciones en las oficinas bancarias. Y tenía las máquinas, el software, y ya lo vendía como una solución.
+[SPEAKER_02]  esto venía, fue parte yo no me acuerdo si venía de Sperry o no pero era lo que la serie que hoy llaman las B20 o B25 con B que era el montaje de una oficina bancaria en una caja
+[SPEAKER_00]  donde
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Sí.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Y era otra vez revolucionario y yo creo que son de los pioneros en empezar a llevar el concepto de una solución más allá de solamente el hardware y empezar a ver la solución del software también como un tema fundamental para crear valor.
+[SPEAKER_02]  y no como una espada de desarrollo, ¿no?
+[SPEAKER_01]  un desarrollo, ¿no?
+[SPEAKER_01]  de su sistema operacional del MSP, Eren Albol, si no estoy mal.
+[SPEAKER_01]  Lenguaje de alto nivel, ¿cierto? Era el gol.
+[SPEAKER_02]  Era escrito en un lenguaje propio que se llamaba UPL.
+[SPEAKER_02]  Era muy parecido a Pascal, también era... A Pascal, sí. El mismo estilo, pero un lenguaje sobre el cual habían escrito el MSP.
+[SPEAKER_01]  muy bien
+[SPEAKER_01]  Pero un histórico. Estamos hablando de los 90, un poco más adelante.
+[SPEAKER_01]  Pero cuando tú trabajaste con Guillermo Carlos en los primeros y con Jorge Eduardo,
+[SPEAKER_01]  Su service que tenía un equipo de perros pequeños era borros.
+[SPEAKER_02]  Sí, era Borros, claro, todavía.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  y eso fue en los 80
+[SPEAKER_01]  En los 80, exactamente. Había una historia.
+[SPEAKER_02]  No te mientas.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Sí, sí, sí.
+[SPEAKER_02]  Entonces viene Borros con ese concepto, empiezan las comunicaciones a ser mucho más universales, Internet empieza a ser totalmente ubico y empezamos realmente al siguiente cambio y es la hiperconectividad física de las máquinas.
+[SPEAKER_02]  el
+[SPEAKER_02]  también a finales de los 90.
+[SPEAKER_02]  Aparece.
+[SPEAKER_03]  Un...
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  una compañía.
+[SPEAKER_02]  que saca un producto que es un buscador.
+[SPEAKER_02]  para correr sobre los navegadores. Y sale Google con su buscador. Lo que tenía era solamente buscador.
+[SPEAKER_02]  Y había sido la tesis de Page y de este otro loco.
+[SPEAKER_02]  en cómo buscar cosas e indexar cosas en internet
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01] 
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  es
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Nacen en Stanford, ¿no?
+[SPEAKER_01]  ¡CREO!
+[SPEAKER_02]  Creo que ya me están fuertes.
+[SPEAKER_02]  Y eso es finales de los 90 todavía.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Sale Google.
+[SPEAKER_02]  Internet ya es un hecho, todavía las conexiones eran muy lentas.
+[SPEAKER_02]  y las redes locales eran redes de 10 megas. Empieza a aparecer Cisco con unos routers mucho más poderosos en el momento de los 90, y a generar realmente interconexión para poder hacer internet.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  sin ese sistema de enrutamiento que se tenía no habría existido internet. ¿Te acuerdas en qué año fue que salió Coldapark?
+[SPEAKER_02]  que era la primera red nacional de datos.
+[SPEAKER_02]  Me acuerdo de Coltacaz, pero no es...
+[SPEAKER_01] 
+[SPEAKER_01] 
+[SPEAKER_02]  X-20. Tienes razón. No, su diversión a principios de los 90 también.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Ajá.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Primera Red Nacional era, ¿cierto?
+[SPEAKER_02]  que fue la primera red nacional de...
+[SPEAKER_01]  la primera reina
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Y así aprendí a hacer el knowing.
+[SPEAKER_02]  que ofrecía él la conectividad.
+[SPEAKER_03]  básicamente.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  muy bien.
+[SPEAKER_03]  Eso.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Y creo que hay como un salto muy grande cuando Internet empieza a ser la comunicación de facto.
+[SPEAKER_02]  Pero sigue siendo para conectar data centers, para conectar.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  la localidad.
+[SPEAKER_02]  Y a mediados, principios de los 2000, que empiezan a salir las granjas, el concepto de granjas de servidores.
+[SPEAKER_03]  y
+[SPEAKER_02]  ¿Sí?
+[SPEAKER_02]  puede ser finales de los 90, principios de los 2000.
+[SPEAKER_02]  es cuando se empieza a dar la viabilidad de lo que hoy conocemos y es...
+[SPEAKER_02]  ¿Cómo podemos tener granjas de miles de servidores?
+[SPEAKER_02]  sistemas de máquinas virtuales y procesamiento virtual.
+[SPEAKER_02]  Y yo creo que ese es el principio.
+[SPEAKER_02]  de lo que hoy conocemos como la nube, porque si no se hubieran dado...
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  los sistemas de la formación de las granjas y poder armar máquinas virtuales, y ahí vienen compañías como VMware, que empiezan a desarrollar esos...
+[SPEAKER_02]  estos conceptos.
+[SPEAKER_02]  Hoy no tendríamos la posibilidad de lo que tenemos.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Y ahí se ha dado la vuelta.
+[SPEAKER_02]  Se dio la vuelta el panqueque, avanzando 20 años en un instante.
+[SPEAKER_01]  En un instante, sí.
+[SPEAKER_02]  Hoy a nadie le interesa tener un data center.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Sí, está la nube.
+[SPEAKER_02]  Sí, está la nube.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Todo es en la nube. Alguien provee el hardware, alguien provee, se encarga de garantizar que tenga suficiente potencia y suficiente capacidad para lo que yo quiero hacer.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Y...
+[SPEAKER_02]  y el concepto de solución evoluciona a la misma velocidad.
+[SPEAKER_02]  Y ahí empiezan, pues hay muchas compañías que empiezan a salir con soluciones específicas, tal vez la más relevante a nivel global en temas de lo que ahora se llama el ERP y que tengamos los servicios de contabilidad de los 80.
+[SPEAKER_02]  a tenerlo empaquetado y que sea capaz de ser configurado para las diferentes opciones. Finalmente SAP nace en mainframe y después es llevado a servidores departamentales.
+[SPEAKER_03]  ¿Hm?
+[SPEAKER_02]  Y hoy yo creo que muy poquita gente piensa diferente de la solución.
+[SPEAKER_02]  Y cree que todavía desarrollar como desarrollábamos hace 30 años es el camino de tener empresas ágiles agregando valor a sus clientes y transformándose.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  empiezan a ser unas detrás de otras esta Oracle que indudablemente dio un impulso importantísimo al tema de bases de datos.
+[SPEAKER_02]  Sí.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Oracle, un proyecto de...
+[SPEAKER_02]  de crear una base de datos relacional para una entidad de defensa en Estados Unidos. Y Larry tuvo la visión de decir, ok, para hacer un mejor presidio me quedo con los derechos intelectuales y creó Oracle.
+[SPEAKER_02]  Hoy en día...
+[SPEAKER_02]  Otro jugador súper relevante.
+[SPEAKER_01]  ¿Cuál fue? ¿Cuál?
+[SPEAKER_02]  Ese fue el nombre de la entidad que lo contrató.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Pero...
+[SPEAKER_01]  Adiós.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Pero el proyecto se llamaba Oracle, ¿no?
+[SPEAKER_01]  Sí, sí.
+[SPEAKER_01]  Oráculo, oráculo.
+[SPEAKER_01]  Ahora con lo molestábamos mucho porque era costoso.
+[SPEAKER_01]  Y Oracle al revés, las letras de Oracle, se lee el caro.
+[SPEAKER_01]  El caro, sí.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Sí, lo es.
+[SPEAKER_02]  Bueno, yo tuve la oportunidad de trabajar en Oracle muchos años.
+[SPEAKER_02]  Y muchas enseñanzas me quedaron también.
+[SPEAKER_01]  Y Juan Manuel Willis.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Juan Manuel, gerente de ORAC.
+[SPEAKER_02]  el gerente general de Oracle
+[SPEAKER_01]  Hasta en Bogotá.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Él fue el primero. Y Juan Manuel Willis.
+[SPEAKER_02]  Con él nos hemos cruzado dos veces en la vida, en temas laborales, porque Juan Manuel Wills era el presidente de EDS. ¿Te acuerdas de otro personaje importantísimo a nivel global que era Ross Perot? Ross Perot se inventó el concepto del outsourcing en grandes escalas de data centers. Y Juan Manuel era el presidente de EDS en Colombia.
+[SPEAKER_04]  Bueno, no.
+[SPEAKER_02]  Cuando...
+[SPEAKER_02]  es comprar EBS por HP
+[SPEAKER_02]  en el año...
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Ocho, tal vez.
+[SPEAKER_03]  Sí.
+[SPEAKER_03] 
+[SPEAKER_02]  Y ahí estuvieron codirigiendo HP con Eduardo Rueda durante un año o algo de ese estilo.
+[SPEAKER_03] 
+[SPEAKER_02]  y
+[SPEAKER_02]  Ahí hay años que se me empiezan a cruzar ya en...
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Es posible.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Pues sí, pero va muy bien.
+[SPEAKER_02]  de memoria
+[SPEAKER_01]  día
+[SPEAKER_02]  Que más de principio de los 2000 que sea súper relevante.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Yo me acuerdo que en el 99...
+[SPEAKER_01]  A ver si no estoy mal, salió el primer coro electrónico que se llamaba Tustopía.
+[SPEAKER_01]  No el primer correo, en Colombia apareció un servicio de correo llamado Tutopía.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Tal vez de los primeros.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Así que salieron al público.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Sí, exacto.
+[SPEAKER_01]  Eso marca el 99.
+[SPEAKER_01]  No existía, ya existía el correo, claro, en el mundo, pero Colombia se lo comenzó a crear.
+[SPEAKER_02]  Sí, existía la definición de correo, pero no existían los servidores de correo. Los servidores.
+[SPEAKER_01]  Los servidores, los servicios.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Después, el primero que salió así como con fuerza.
+[SPEAKER_01]  después...
+[SPEAKER_02]  fue hotmail que microsoft sacó su primera vez de servidor de internet
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  del servidor de correo electrónico.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Sí, sí, sí, claro.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Es cierto, el joven, que sigue siendo muy importante, obviamente.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Y es esa misma época, es finales de los 90, principios, no, tal vez antes de finales de los 90.
+[SPEAKER_02]  porque...
+[SPEAKER_02]  A ver...
+[SPEAKER_03]  A ver. Sí, fue policía.
+[SPEAKER_02]  Nosotros montamos la primera tienda.
+[SPEAKER_03]  ¿Qué?
+[SPEAKER_02]  sobre internet con Alberto y el equipo de Texins en el año 94, tal vez. Todavía no podíamos hacer transacciones porque el tema del pago era muy complejo. Complejísimo. Teníamos catálogos montados y se armaban los carritos de compras y el procesamiento se hacía manual después.
+[SPEAKER_02]  Pero ya en el 94, 95 estábamos montando la primera tienda.
+[SPEAKER_02]  y la utilizamos para nuestros clientes en una unidad de negocios de mayoreo de distribución, que fue la que terminé yo manejando después de esa invitación de Jaime Lozada a manejar Network.
+[SPEAKER_02]  y
+[SPEAKER_02]  Y ahí montamos la primera tienda de atención a subdistribuidores, barriceles.
+[SPEAKER_02]  y
+[SPEAKER_02]  que yo conocí, que conocimos acá. En ese momento, sí, a finales de los 90.
+[SPEAKER_02]  Porque yo entré a trabajar con Compaq en el 90 y...
+[SPEAKER_02]  7.98
+[SPEAKER_02]  Yo trabajé con Alberto desde el 87 hasta el 98.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  en todas sus aventuras realmente un pionero en muchísimas cosas alberto tenía iba a 10 años adelante de lo que las atrás
+[SPEAKER_01]  Ok, impresionante.
+[SPEAKER_02]  ¿Te acuerdas que él tenía en unicentro?
+[SPEAKER_02]  La tienda de los computadores.
+[SPEAKER_03]  Sí, sí, claro.
+[SPEAKER_02]  Habían cursos de PCs y una... Era algo que no existía todavía en las universidades.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Así es.
+[SPEAKER_01]  Yo tuve mucho colegaje con él porque nosotros teníamos las tiendas de Radio Shack.
+[SPEAKER_01]  Ajá. En los centros comerciales.
+[SPEAKER_01]  Y estábamos los primeros cursos de PC, era una locura porque estábamos en los...
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  el año 2000
+[SPEAKER_01]  cursos de Basic a gerentes.
+[SPEAKER_01]  Sí, sí. Era lo que había.
+[SPEAKER_02]  Pero Radio Shack sí es anterior a lo que Alberto hacía, ¿o no?
+[SPEAKER_02]  Sí, sí, sí.
+[SPEAKER_01]  Sí, sí, sí. Radio Chabla fundamos en el 80.
+[SPEAKER_01]  con casa de software pegadita, que eran dos empresas, una de hardware y otra de software.
+[SPEAKER_01]  porque el éxito fue que desarrollamos todo el software para micros, los primeros, ¿no?
+[SPEAKER_01]  ¿No? Y te existen esa época.
+[SPEAKER_03] 
+[SPEAKER_01]  Lo que acabas de contar, ¿no? Ese crecimiento tan grande.
+[SPEAKER_03]  Sí.
+[SPEAKER_01]  en sus temas también.
+[SPEAKER_01]  Así es.
+[SPEAKER_02]  Oye, se nos acabó la hora.
+[SPEAKER_01]  Bueno, pero falta un poquito, ¿no?
+[SPEAKER_02] 
+[SPEAKER_02]  Sí, pero es que tengo otra reunión ahora, entonces, ¿cómo hacemos?
+[SPEAKER_01]  Bueno.
+[SPEAKER_01]  Bueno, no, ahí vamos, vamos, todo este material, digamos, resumamos un poquito la última parte de tu actividad, ¿cierto? Visayi y antes, bueno, lo que quieras contarnos.
+[SPEAKER_01]  Es decir, entonces esta trayectoria es muy interesante.
+[SPEAKER_01]  En la morada del software y de la programación
+[SPEAKER_01]  ¿Sí? Rechazando lo comercial porque no quería ser vendedor de enciclopedias. Y tienes una vida profesional en las soluciones informáticas a través de mucho hardware, software, tecnología.
+[SPEAKER_01]  ¿No?
+[SPEAKER_02]  y se ha ido moviendo ha ido evolucionando del hardware la combinación de hardware y cosas específicas desarrollos específicos muy muy adaptados y a lo que estamos haciendo hoy en día que es soluciones low cold donde donde la donde el programar
+[SPEAKER_02]  No es que no sea válido, pero se deja listo para que con muy poco código tenga soluciones impactando las organizaciones.
+[SPEAKER_02]  ¿Cómo?
+[SPEAKER_01]  Comenta qué haces en misa allí.
+[SPEAKER_02]  Mira, yo llevo para Visayi todo el tema comercial de América Latina y España. Visayi es una empresa de origen colombiano, de tres, fundada por unos ingenieros de la Universidad de los Andes, que son Gustavo Gómez, Mario Mejía, Marcel Mancer, y creo que hay otro que es Jean-Claude.
+[SPEAKER_02]  Y ellos hace unos 15 años para el Banco Cafetero desarrollaron una primera versión, 15 o 18 años, una primera versión de algo para hacer flujos de procesos.
+[SPEAKER_02]  Hoy en día Visaggi es líder mundial en este tema, reconocido por los grandes analistas, por Gartner, por Forrester, por IDC. Tenemos presencia de clientes en 57 países del mundo.
+[SPEAKER_02]  de Nordic hemos llevado lo que es la automatización de procesos a otro nivel donde no es automatizar un proceso sino que realmente exista una transformación digital en las organizaciones de forma ágil basada en una gerencia por procesos donde tenemos grandes clientes a nivel global tenemos DHL que tiene 320 mil usuarios de Visagia a nivel global o el Mutual que hace 14 millones de transacciones diarias aquí el Banco de Colombia tiene 24 mil usuarios nuestros haciendo más de 4 mil procesos diferentes realmente hemos Visagia ha transformado la industria del Business Process Management a nivel global
+[SPEAKER_03]  No hay.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  No.
+[SPEAKER_02]  No, perfecto.
+[SPEAKER_01]  Pues muy bien. ¿Y la relación académica la tuviste de alguna manera o no te acercaste?
+[SPEAKER_02]  manera o no?
+[SPEAKER_02]  Yo dicté clases en la escuela precisamente hasta el año 2000, cuando empecé a tener posiciones regionales que ya me impedían dictar clase por la viajadera.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Y me gustaría volver a dictar, pero materias diferentes. Yo dictaba sistemas operacionales de arquitectura.
+[SPEAKER_01]  Sí.
+[SPEAKER_02]  Creo que hay materias que es importante que los ingenieros conozcan para poder ser mejores empresarios. Me encantaría directivitar cosas como contabilidad, matemáticas financieras, que me he dado cuenta que son muy importantes y no han sido adecuadamente valoradas.
+[SPEAKER_01] 
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Muy bien, muy bien. Esta charla se...
+[SPEAKER_01]  Francisco, también se pueden definir como...
+[SPEAKER_01]  como modelo de vida, digamos, proceso de vida de las personas.
+[SPEAKER_01]  Esa trayectoria que en la universidad no se sabe para dónde va uno.
+[SPEAKER_01]  estudiantes
+[SPEAKER_01]  Y esa historia que cuentas va generando una trayectoria.
+[SPEAKER_01]  Y al final estos mensajes...
+[SPEAKER_01]  las caídas glicanéticas son sumamente valiosas.
+[SPEAKER_01]  ¿No?
+[SPEAKER_01]  O sea, un descuido en la parte de formación empresarial, seguramente en el sistema.
+[SPEAKER_01]  Aunque hoy los muchachos hacen...
+[SPEAKER_01]  otro tipo de negocios, ¿no? A través de...
+[SPEAKER_02]  Sí, sí.
+[SPEAKER_01]  sistemas.
+[SPEAKER_02]  Sí, sin embargo, yo estoy viendo con mis...
+[SPEAKER_02]  coetáneos que no todo el mundo tuvo los mismos cuidados financieros durante toda la vida. Nosotros estamos llegando a la edad de pensión.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04] 
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Hay muchos que se descuidaron.
+[SPEAKER_02]  Sí.
+[SPEAKER_03]  Sí.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Dijeron que iban a tener fuerza toda la vida.
+[SPEAKER_03]  ¿Taron?
+[SPEAKER_02]  que iban a tener
+[SPEAKER_02]  Siempre mil oportunidades.
+[SPEAKER_02]  Y los años nos enseñan cosas diferentes.
+[SPEAKER_02]  Sí.
+[SPEAKER_01]  Así es.
+[SPEAKER_01]  Bueno.
+[SPEAKER_01]  Así es, te lo puedo decir yo con más razones.
+[SPEAKER_01]  Porque mis canas son de verdad.
+[SPEAKER_04]  ¿Ya está bien?
+[SPEAKER_01]  bien
+[SPEAKER_01]  De lo que sea.
+[SPEAKER_04]  ¿Qué es?
+[SPEAKER_01]  Lo que quiera.
+[SPEAKER_01]  Bueno, yo sé que tienes el compromiso, pero ¿alcanzamos a cubrir toda esta etapa?
+[SPEAKER_01]  Y es muy interesante porque cada uno enfoca el tema.
+[SPEAKER_01]  sobre tu vida, ¿no?
+[SPEAKER_01]  Claro, como lo dijiste. Tú te fuiste por el lado de lo que nos has explicado.
+[SPEAKER_03]  Claro, como lo grito.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  ejecutivo en los temas de soluciones.
+[SPEAKER_01]  pero con un gran conocimiento de la historia.
+[SPEAKER_01]  Y te felicito por la memoria.
+[SPEAKER_01]  Fuiste capaz de darle un nombre de todos tus compañeros.
+[SPEAKER_01]  De los siete.
+[SPEAKER_01]  ¿A ti?
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Sí, sin fallar ninguno, eso es admirable.
+[SPEAKER_02]  Todavía.
+[SPEAKER_01]  Todavía, pero es que la letra antes me acuerdo.
+[SPEAKER_01]  Sí, no.
+[SPEAKER_01]  Y obviamente desde ASIS, que estamos transmitiendo desde ASIS.
+[SPEAKER_01]  porque fuiste presidente, conoces muy bien lo que es la asociación.
+[SPEAKER_02]  y la asociación
+[SPEAKER_02]  Están ayudando. Para poner esos capítulos de muchísimas horas de trabajo con Beatriz. Sí, sí.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Muchísimas satisfacciones.
+[SPEAKER_01]  Sí, sí, son épocas así, es muy especial y así es muy especial.
+[SPEAKER_01]  Yo le admiro mucho que ella no usa bases de datos relacionales, pero usa unas hojas en blanco.
+[SPEAKER_01]  Cuando uno pide un dato, le gana uno ella y uno consultando.
+[SPEAKER_02]  Tiene tu mejor...
+[SPEAKER_02]  Las mejores tablas de hashing.
+[SPEAKER_01]  No, es impresionante.
+[SPEAKER_01]  Pues mira, Francisco, gracias, gran amigo, gran colega de la ingeniería de sistemas.
+[SPEAKER_01]  A ver detenido acá.
+[SPEAKER_01]  Y ya te estaremos contando, ¿no? Este proceso de la demasidad.
+[SPEAKER_02]  Chau.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Y ojalá que otro rato, porque hay cosas que se nos quedan y que seguramente van apareciendo.
+[SPEAKER_01]  Yo jala el perón.
+[SPEAKER_02]  Yo creo que...
+[SPEAKER_01]  Yo creo, Edgar, que de pronto si tienes alguna preguntita, que estás como, no estás con la cámara.
+[SPEAKER_00]  Bueno, no, a mí me llamó mucho la atención.
+[SPEAKER_00]  el hecho de esa parte comercial que lo rechazaste y hoy de alguna manera la estás ejerciendo, pero producto de toda la experiencia.
+[SPEAKER_00]  Y yo...
+[SPEAKER_00]  Y dijiste algo al inicio cuando hablabas de los computadores.
+[SPEAKER_00]  de la importancia de conocer al cliente.
+[SPEAKER_00]  de ser uno como integrar hacia los servicios de la persona a la que uno...
+[SPEAKER_00]  está brindando el trabajo de ingeniería.
+[SPEAKER_00]  Entonces, mi pregunta va enfocada básicamente a tu opinión.
+[SPEAKER_00]  porque hoy la tendencia y la exigencia y la demanda y la brecha...
+[SPEAKER_00]  hace que la gente tienda a formarse de manera simple y únicamente o sobre todo.
+[SPEAKER_00]  más en técnicas, en ingeniería, en tecnologías.
+[SPEAKER_00]  pero muy poco, y bueno, pues se quedan cortos en el tema de la formación integral.
+[SPEAKER_00]  la recomendación que tú harías hacia estas formaciones.
+[SPEAKER_00]  y que debemos tener para...
+[SPEAKER_00]  satisfacer esa brecha.
+[SPEAKER_00]  de talento humano que se requiere en el país.
+[SPEAKER_02]  Yo creo que
+[SPEAKER_02]  Es imposible que empaquetemos todas las necesidades en una sola carrera.
+[SPEAKER_02]  cuando mencionaba mi conversación con jorge villalobos en el paseo de sí era precisamente eso
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  y lo veíamos con Beatriz en algunas de las charlas que teníamos en Asís.
+[SPEAKER_02]  nosotros, hay necesidad, por supuesto, de ingenieros.
+[SPEAKER_02]  Pero si todo el mundo es ingeniero y quiere ser gerente...
+[SPEAKER_02]  o quiere ser vendedor, pues no vamos a lograr tener las múltiples disciplinas que...
+[SPEAKER_02]  que un proceso, iba a llamar el proceso de soluciones, que es tan complejo requiere.
+[SPEAKER_02]  y
+[SPEAKER_02]  Yo sí creo que necesitamos promocionar las carreras tecnológicas de buena calidad en el país. Y esas carreras tecnológicas que nos lleven a tener programadores profesionales.
+[SPEAKER_02]  que creo que nos hacen falta porque tenemos ingenieros que programan, pero no muchos quieren quedarse programando toda la vida.
+[SPEAKER_02]  Y esa es una de las fortalezas que tiene.
+[SPEAKER_02]  La India. En la India...
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  India.
+[SPEAKER_02]  Tenemos programadores expertos que llevan 10, 15, 20 años programando y son unas hachas. Aquí es muy difícil encontrar personas que quieran seguir una carrera de programación de 20 años.
+[SPEAKER_02]  Sí.
+[SPEAKER_02]  ¿Por qué? Porque es que la formación es para ser ingenieros grandes que digan en el revisto estas cosas.
+[SPEAKER_00]  más.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Necesitamos hacer una formación tecnológica más profesional alrededor de los...
+[SPEAKER_02]  de las máquinas en sí mismas, porque tenemos una brecha muy grande. Existe el ingeniero.
+[SPEAKER_00]  miedo
+[SPEAKER_02]  Y el otro es un técnico formado en instituciones sin ningún tipo de calidad, casi que de garaje.
+[SPEAKER_02]  y no con el profesionalismo que se requiere.
+[SPEAKER_02]  ¿Sí?
+[SPEAKER_02]  Y hay carreras que nos enseñan que esos diferentes perfiles...
+[SPEAKER_02]  requieren diferentes formaciones y se complementan unos con otros y no los reemplazan.
+[SPEAKER_02]  Y puedes ver, por ejemplo, las profesionales de la salud. En los profesionales de la salud tienes los médicos, tienes los médicos especialistas, pero tienes enfermeras jefe, enfermeras anestesiólogas, tienes los auxiliares de enfermería y todos conforman una cadena de valor que se complementa.
+[SPEAKER_02]  donde cada uno tiene un rol especial. Eso sería imposible si todos estudiaran medicina y uno estudiara medicina para dedicarse a ser auxiliar de enfermería.
+[SPEAKER_02]  ¿Cierto?
+[SPEAKER_02]  Pero el auxiliar de enfermería es una carrera profesional.
+[SPEAKER_02]  Es una carrera técnica, perdón.
+[SPEAKER_02]  de tres años, pero con un nivel de formación y certificación importante.
+[SPEAKER_02]  Los que estudian para ser jefes de enfermería son cinco años de formación alrededor del tema.
+[SPEAKER_04] 
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  ¿Sí?
+[SPEAKER_02]  Yo creo que la educación en general, nosotros tenemos que evolucionarla hacia allá. Entonces es cierto, hay una cantidad de tecnologías, hay gente que tiene que ser un programador especializado en algunas cosas.
+[SPEAKER_02]  pero no podemos sacar ese programador especializado en algo.
+[SPEAKER_02]  pensando que va a estar cinco años en la universidad.
+[SPEAKER_02]  y lo sacamos sin la certificación de lo que él quiere hacer.
+[SPEAKER_02]  Sí.
+[SPEAKER_02]  Entonces, hay las certificaciones, micro certificaciones en muchos casos en temas especializados son necesarios para esas tareas especializadas. Así como ese no va a poder ser un ingeniero que diseña un sistema complejo y entienda mis necesidades, tampoco podemos pensar que tiene que ser ingeniero para hacer esas actividades. Sí, porque eso es lo que ha llevado a que haya instituciones educativas de baja calidad, porque lo que buscan es dar un título de ingeniero para que hagan labores bien, bien tecnológicas.
+[SPEAKER_01]  Vale.
+[SPEAKER_02]  ¿Sí?
+[SPEAKER_01]  Yo creo que hay una estigmatización del oficio.
+[SPEAKER_01]  Colombia es muy bien original.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Ya cada uno nacimos de esa tendencia virreinal.
+[SPEAKER_01]  donde hay que ser geren.
+[SPEAKER_01]  ¿no?
+[SPEAKER_01]  Sí, hay que ser...
+[SPEAKER_01]  en el...
+[SPEAKER_01]  Eso, y yo creo, es un mensaje.
+[SPEAKER_01]  Fíjate que lo importante, todo esto es un mensaje que vamos a oír en las universidades, ¿no, Edgar? Es un mensaje de una persona con la calidad de Francisco.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  que nos ayuda a...
+[SPEAKER_01]  El tema de las biologías muy profesionales.
+[SPEAKER_03]  No sé.
+[SPEAKER_01]  Y no necesariamente la idea de que el objetivo es el gerente y el dueño y el capitán. Ahí fue donde ahorra el diálogo.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  No, no es, no es.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Ahí fue donde Jorge se lo botó por la ventana, cuando le dije que yo creería que si la Universidad de los Andes tuviera una carrera tecnológica y sacara los tecnólogos con la calidad que da la Universidad de los Andes, pero sin que tuvieran que llegar a ser ingenieros, sería una maravilla para el país. Y no con los propedéuticos de decir, haga tres años de tecnología y con dos más es ingeniero, porque creo que las formaciones son muy distintas.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  pero sí necesitamos...
+[SPEAKER_02]  tecnólogos.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Y de pronto el tema de las funciones, lo que aclaras de los títulos, de las profesiones.
+[SPEAKER_00]  Ayudaría también mucho el hecho de tener enfermera y no tecnólogo en enfermería.
+[SPEAKER_00]  pues establece una identidad diferente
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  es un rol diferente
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  ¿Tú te acuerdas algún día que analizamos en Asís alguien que estaba pidiendo ingeniero recién graduado con cinco proyectos, ocho años de existencia para pagarle el salario?
+[SPEAKER_02]  Sí, sí, sí, así es. Esto es un contrasentido de lo que se busca, de lo que se necesita y de lo que estamos produciendo en las universidades.
+[SPEAKER_01]  también hay que formar al empresario.
+[SPEAKER_02]  ¿No? También. Que lo que espera.
+[SPEAKER_01]  que es lo que espera de los profesionales.
+[SPEAKER_02]  ¿Qué es esto?
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Sí, todo eso es un...
+[SPEAKER_02]  Es el uno o el otro, se complementan totalmente.
+[SPEAKER_01]  Exacto.
+[SPEAKER_01]  ¿Hm?
+[SPEAKER_01]  Yo tengo tecnólogos nuestros de Uniminuto.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  tengo que...
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  que ganan mucho más que un ingeniero de sistemas, contratado por multinacionales que están en Colombia, por ejemplo.
+[SPEAKER_02]  ¿Aló?
+[SPEAKER_01]  y que no quieren ser ingenieros.
+[SPEAKER_01]  Claro, y son muy apasionados por la programación.
+[SPEAKER_02]  Claro, y son muy bien.
+[SPEAKER_02]  Exacto, y son muy bien formados en eso.
+[SPEAKER_02]  con un ciclo académico que los profesionaliza en eso.
+[SPEAKER_02]  y no necesitas el título de ingeniero.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Y una formación integral de ética, de esencia, de todo esto, que no solamente es lo técnico, justamente.
+[SPEAKER_01]  Bueno, Francisco, yo creo que vamos a ir cerrando buenísima la conversación, además volverte a ver.
+[SPEAKER_03]  Bueno.
+[SPEAKER_01]  y te estaremos contando de este proceso fabuloso
+[SPEAKER_03]  ¿A vosotros?
+[SPEAKER_01]  Encantado de estar con ustedes.
+[SPEAKER_03]  Encantado de estar con ustedes.
+[SPEAKER_01]  Muy bueno, para mí. Muchas gracias. Porque esto va a ser bastante publicitado en su momento.
+[SPEAKER_03]  Muchas gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Nos faltan muchos años, son 50 años que estamos cubriendo, pero ahí vamos, ahí vamos.
+[SPEAKER_01]  Entonces, Beatriz, Edgar también que trabajaba en el grupo.
+[SPEAKER_04]  Bueno, entonces...
+[SPEAKER_01]  Vamos a cerrar. Esto queda grabado, pero no publicado todavía. Nosotros, el grupo académico, veremos esto, hacia dónde y qué momento liberamos estas conversaciones.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Más información www.albertosanagustin.com
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Bueno.
+[SPEAKER_02]  Muy bien, la foto de la despedida rápidamente, el registro.
+[SPEAKER_01]  ¿Y Kevin? ¿Kevin está peinado o no?
+[SPEAKER_02]  Don Rios
+[SPEAKER_03]  ¿Kevin está peinado o no?
+[SPEAKER_02]  Eso, la botella.
+[SPEAKER_01]  Está muy bien.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Así es.
+[SPEAKER_02]  Muy bien, listo. Kevin, tú también toma una.
+[SPEAKER_01] 
+[SPEAKER_01]  Kevin, tú también tomas uno.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Muy bien.
+[SPEAKER_01]  Muy bien.
+[SPEAKER_02]  Fin.
+[SPEAKER_02]  Bueno, muy bien. Listo, muchas gracias.
+[SPEAKER_03]  ¡Adiós!
+[SPEAKER_02]  ¡Qué rico!
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Chao. Gracias. Saludos, Daniel Rosario. Gracias, que muy bien.
+[SPEAKER_03]  Saludos, Mariel Rosario.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias, chao.
+[SPEAKER_01]  Chao.
+[SPEAKER_03]  ¡Gracias!
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Nos vemos.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Nos vemos.
+[SPEAKER_01]  Nos vemos.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Hasta luego.
+[SPEAKER_03]  Gracias.
