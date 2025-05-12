@@ -1,0 +1,810 @@
+[SPEAKER_03]  con la grabación.
+[SPEAKER_01]  Te hago un saludo nada más.
+[SPEAKER_01]  Bueno, grabando.
+[SPEAKER_01]  Bueno, un saludo a nuestro colega Jorge Villalobos.
+[SPEAKER_01]  Personas sumamente influyentes en la ingeniería de sistemas, que eso no hay que decirlo, todos lo saben.
+[SPEAKER_01]  Y él va hoy a hablarnos de esa historia, de su época, de su desarrollo también profesional, que es un poco el proyecto de vida de cada uno.
+[SPEAKER_01]  Y va a estar en manos de Edgar Ruiz.
+[SPEAKER_01]  Va a encargarse.
+[SPEAKER_01]  Dirigirla.
+[SPEAKER_01]  La entrevista, claro, yo participaré de alguna manera, pero más bien silencioso.
+[SPEAKER_01]  De tal manera que entonces Edgar...
+[SPEAKER_01]  Comienzas.
+[SPEAKER_01]  el trabajo de...
+[SPEAKER_01]  de coordinar
+[SPEAKER_01]  Adelante, Edgar.
+[SPEAKER_02]  Bueno.
+[SPEAKER_02]  Buenas tardes, Jorge. Entonces...
+[SPEAKER_02]  Pues bienvenido a este programa que estamos desarrollando sobre la evolución de la ingeniería en Colombia.
+[SPEAKER_02]  Queremos desarrollar un...
+[SPEAKER_02]  trabajo académico pedagógico.
+[SPEAKER_02]  hacia los estudiantes y los profesionales de las carreras de tecnología de teleinformación.
+[SPEAKER_02]  y de alguna manera contribuir a eso que llamamos universidad de empresa.
+[SPEAKER_02]  Estado y sociedad.
+[SPEAKER_02]  Entonces, pues.
+[SPEAKER_02]  Quisiéramos conocer...
+[SPEAKER_02]  desde el principio la historia personal en la que te relacionaste, pensaste.
+[SPEAKER_02]  ¿Te imaginaste que ibas a estudiar una carrera como...?
+[SPEAKER_02]  la ingeniería de sistemas,
+[SPEAKER_02]  cuándo, cómo tomaste la decisión.
+[SPEAKER_02]  ¡Suscríbete al canal!
+[SPEAKER_02]  cómo te orientaron desde el bachillerato.
+[SPEAKER_02]  y empecemos a trabajar pues aspectos ya de la carrera y demás.
+[SPEAKER_02]  Ahí la hay.
+[SPEAKER_00]  Listo, bueno, entonces...
+[SPEAKER_00]  Ahorita estaba tratando cuando vi a Manuel de empezar otra vez a traer a memoria principal toda esa época, porque no lo tenía tan presente.
+[SPEAKER_00]  A ver, y primero un poquito de contexto. Yo me gradué del colegio San Bartolomé La Merced.
+[SPEAKER_00]  jesuitas durante 12 años, o sea, desde kinder hasta en ese momento sexto bachillerato. Y un poco el camino de las personas que se graduaron del colegio era pasar a la javeriana, eso era como lo normal. Ese era el camino de todo el mundo, todas las personas con las que yo me gradué, todos los de mi grupo de estudio, de trabajo, en el colegio, los amigos, todos acabaron en la javeriana.
+[SPEAKER_00]  ¿Por qué estudié sistemas? Yo después me lo pregunté mucho y en realidad yo no lo tengo tan claro. O sea, yo en realidad no tomé una decisión consciente de qué era la ingeniería de sistemas, de por qué iba a estudiar, de si eso me gustaba o no.
+[SPEAKER_00]  Básicamente la lección fue en la universidad.
+[SPEAKER_00]  Cuando ya estaba, yo me inscribía a Industrial en la Javeriana.
+[SPEAKER_00]  iba con todos mis amigos
+[SPEAKER_00]  Y en una charla con un tío le dije pues que había sistemas en los Andes y me dijo, independiente de la carrera, yo te recomiendo más los Andes que las Averianas. Esa fue la discusión.
+[SPEAKER_00]  Yo me fui a los Andes a estudiar sistemas.
+[SPEAKER_00]  pero yo creo que no era consciente de qué era lo que yo iba a estudiar. Entonces todos mis amigos se fueron a la Javeriana, yo me encontré en los Andes como con los nerds del colegio, o sea, eran los pilos del colegio los que entraban a los Andes, y ese inicio era como un poquito extraño en la universidad, como que me hubieran cambiado de grupo en el colegio, como si hubiera salido de todos mis amigos porque ellos siguieron todos en la Javeriana, y arranqué a descubrir otro mundo completamente distinto, que era como trabajar con el lado de los pilos, yo en el colegio pues nunca me fue mal.
+[SPEAKER_00]  pero nunca fue mi obsesión.
+[SPEAKER_00]  digamos que me fuera bien en los cursos, esa curiosidad académica y científica surgió en la universidad desde el primer semestre, pues porque me rodeé con las personas del colegio que venían hacia la universidad, casi todos iban a estudiar ingeniería civil.
+[SPEAKER_00]  La única persona con la que entramos a sistemas de los Andes era Rafael Gómez.
+[SPEAKER_00]  que yo lo califico como el nerd, el paradigma del nerd en el mundo, la memoria total de todos los datos que uno pueda querer con él. Y yo creo que de eso, durante los cinco años de la carrera, me fui contaminando.
+[SPEAKER_00]  Y cuando terminé la carrera ya era un nero, o sea, ya era un ñoño, como le dicen ahora.
+[SPEAKER_00]  leyendo, trabajando.
+[SPEAKER_00]  trabajando muy duro durante la universidad, pero yo creo que fue como ese modelo.
+[SPEAKER_00]  Y en realidad la carrera a mí me sorprendió un poco. O sea, en realidad...
+[SPEAKER_00]  Estamos hablando yo entre 1978, primer semestre del 78, a la universidad.
+[SPEAKER_00]  Acá cumplí 16 o 17 años, realmente no sabía qué era lo que quería estudiar, pero pues como les conté, ya llegué a la universidad.
+[SPEAKER_00]  Y me un recuerdo una carrera
+[SPEAKER_00]  en transformación.
+[SPEAKER_00]  Al comienzo, que me acuerde el primer día de clases, algo que me marcó mucho, me recibió Francisco Rueda, Pacho Rueda, primer día de clases.
+[SPEAKER_00]  Pacho Rueda, éramos 100 estudiantes, éramos una cohorte grande.
+[SPEAKER_00]  Y la otra es...
+[SPEAKER_03] 
+[SPEAKER_01] 
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01] 
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  En el 78.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  de noche.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  En el año 78 entramos.
+[SPEAKER_00]  a la inducción, se llamaba el primer día, W101.
+[SPEAKER_00]  Un salón enorme, horrible, o sea, todo plano.
+[SPEAKER_00]  ¿Feo?
+[SPEAKER_00]  sentados ahí al frente oyendo a Pacho que nos estaba recibiendo.
+[SPEAKER_00]  Y lo primero que nos dijo Pacho, algo que no se me va a olvidar.
+[SPEAKER_00]  Nos dijo, miren a cada uno de los lados en los que ustedes están.
+[SPEAKER_00]  De ustedes tres, solo uno se va a graduar de esta universidad.
+[SPEAKER_00]  Cuando lo reciben así, lo primero que pasa es que uno ya odia a los dos vecinos. No, si solo uno de los dos. Los dos vecinos ya le cayeron a uno mal.
+[SPEAKER_03]  ¡Gracias!
+[SPEAKER_00]  Pero esa fue la recepción, esta es una universidad de élite, realmente solo graduamos a un porcentaje bajo de los que están aquí sentados, necesitan esforzarse mucho, nunca se me olvida ese mensaje de Pacho en la recepción, con respecto a que iba a ser un trabajo muy duro y que el filtrado hacia arriba de la universidad iba a ser muy exigente, que de verdad graduarse de la universidad iba a ser algo complicado.
+[SPEAKER_00]  Y efectivamente se cumplió. Nos graduamos por lo menos en el tiempo, más o menos la tercera parte en la que entramos.
+[SPEAKER_00]  Mi obsesión se volvió pues...
+[SPEAKER_00]  salir adelante.
+[SPEAKER_00]  Hubo cursos que me costó mucho trabajo la carrera.
+[SPEAKER_00]  Se estaba transformando, como les digo.
+[SPEAKER_00]  Y en los primeros...
+[SPEAKER_02]  Y en los primeros semestres que...
+[SPEAKER_02]  ¿Qué tomaste? ¿Qué te ilusionó? ¿Qué te encargo?
+[SPEAKER_00]  El primer semestre uno ni siquiera veía el tema de programación, el primer semestre era precálculo, el primer semestre era comunicación gráfica, se llamaba en el W101, cómo hacía la ingeniería, cómo hacía uno planos, antes de clase, a toda carrera, todo el mundo copiando los planos, me acuerdo, contra una ventana, uno aprende muchas cosas que no son necesariamente expresión gráfica, pero sí muy interesante el curso, matemáticas, vimos química.
+[SPEAKER_00]  Ahí me encontré con otros colegas. En química conocí a Mario Otero, con el que después trabajé mucho tiempo. De llegada me encontré con María Angélica García también, todavía amiga cercana.
+[SPEAKER_00]  Y empezamos un recorrido. Yo creo que durante la mayor parte de la carrera, el grupo de trabajo éramos nosotros tres, María Angélica García, Rafael Gómez y yo.
+[SPEAKER_00]  y con ellos fuimos nosotros avanzando.
+[SPEAKER_00]  Primer curso de programación, yo creo que fue tercer semestre, o sea, la tarde que no arrancaba la programación.
+[SPEAKER_00]  Fortran.
+[SPEAKER_00]  tarjetas el equipo en el que programamos ni siquiera había llegado al borde
+[SPEAKER_00]  Yo no sé si era el IBM o en cuál programamos con tarjetas.
+[SPEAKER_00]  Pero las tarjetas me acompañaron prácticamente toda la carrera, desde el primer curso de programación, ahora reconstruyendo hasta el último, que fue como sistemas de información, una cosa así, la vi con Darío Mesa.
+[SPEAKER_01]  ¡Gracias!
+[SPEAKER_00]  que también aprecia muchísimo.
+[SPEAKER_00]  Darío Mesa.
+[SPEAKER_00]  Las tarjetas pues era otro mundo, ¿no?
+[SPEAKER_00]  la carrera se concentraba sobre todo en aprender a programar. Eso era básicamente... ¿Qué lenguaje?
+[SPEAKER_02]  ¿Qué lenguajes recuerdas que se vieron en ese entonces?
+[SPEAKER_00]  En ese entonces estaba de moda muchos lenguajes.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Entre más lenguajes uno supiera, mejor ingeniero era uno. Pasamos por PL1.
+[SPEAKER_00]  El curso de estructura de datos fue en PL1. Vimos a Igol también. Pasamos por Pascal. En algún momento hicimos Pascal.
+[SPEAKER_00]  Cobol, el curso de Darío Méser en Cobol.
+[SPEAKER_00]  Y en realidad...
+[SPEAKER_00]  era muy concentrado en almacenar, acumular lenguajes de programación, porque eso era lo que en realidad uno lo diferenciaba.
+[SPEAKER_00]  ¿Cómo era uno un programador?
+[SPEAKER_00]  con una formación profunda, porque en realidad en ese momento no había una visión distinta del ingeniería de sistemas de la programación.
+[SPEAKER_00]  Entonces, más lenguajes de programación, pues más posibilidades de éxito profesional, mejor ingeniero de sistemas. Entonces, recorremos muchos lenguajes. Yo todavía tengo ahí en mis libros viejos lenguajes PL1. Yo creo que eso me marcó muchísimo.
+[SPEAKER_00]  Y me gustó mucho el área de lenguajes de programación.
+[SPEAKER_00]  ¿Qué más vi? En ese momento la transformación que les digo de la carrera, arrancaron por primera vez a dictar unos cursos que estaban de moda en el mundo, pero fue que no era software.
+[SPEAKER_00]  Ingeniería de software me lo dictó Julio López. Julio López me dictó ingeniería de software. La primera vez que se dictaba en Colombia un curso de ingeniería de software, por supuesto, siento, viéndolo desde hoy, desde la óptica, hoy pues no fue muy exitoso. Yo me acuerdo de un curso bastante aburrido de ingeniería de software. Aprecio muchísimo a Julio, pero era la primera vez que alguien dictaba algo de eso. No resultaba tan atractivo.
+[SPEAKER_00]  Con Olga Lucia Giraldo, Vigil, Datos 1.
+[SPEAKER_00]  Me acuerdo que estaba esperando a Nicolás, entonces me acuerdo de ella dictándome la clase embarazada, caminando en el tablero y nosotros sufriendo porque yo pensaba que ya era casi el momento del parto, o sea, la veía muy gorda, entonces sufría por ella dictando la clase. También digamos que fue muy interesante la clase con ella.
+[SPEAKER_00]  Vimos la primera clase de redes.
+[SPEAKER_00]  También estaban estrenando el curso de redes.
+[SPEAKER_00]  Y un curso que a mí me sirvió mucho con Arnold Schumann.
+[SPEAKER_00]  Estructura del computador. Estructura del computador, yo a Arnold, todavía lo tengo ahí de contacto, lo admiro muchísimo. La disciplina total, yo después fui monitor de ese curso, me encantaba el estilo de docencia de él.
+[SPEAKER_00]  Un estilo de docencia.
+[SPEAKER_00]  y
+[SPEAKER_00]  como decirlo, muy...
+[SPEAKER_00]  como de mucho liderazgo, muy estricto.
+[SPEAKER_00]  uno entraba a clase y sentía un poquito de susto, porque eso ya es como exagerar, pero uno no estaba como nunca en clase.
+[SPEAKER_00]  Él lo mantenía uno ahí y en cualquier momento le decía, no sé quién exponga, no sé quién haga, mañana rifo quién me explica ese tema.
+[SPEAKER_00]  y durante todo el semestre yo recuerdo haber preparado esa clase como ninguna otra clase, por la presión que le ponía a uno a Arma. Y todavía yo pienso que esa es una buena metodología, yo creo que de mis clases, esa disciplina, ese tener a los estudiantes en un ambiente de reto permanente, fue fundamental en mi formación, yo lo aprecio mucho. Vi clases con Roberto Pardo, con Jorge Phillips, acaban de llegar otra de sus doctorados, Jorge Phillips llegó a la dirección del departamento, con Víctor Toro no vi clase, pero él andaba ya por ahí, Pepe Tope, Pepe Toro, Pepe Abásolo.
+[SPEAKER_00]  con Tiberio tampoco vi clases, pero ya todos ellos estaban en el departamento. Fue como la...
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Como...
+[SPEAKER_02]  pues digamos para diferenciar un poco las clases en temas de sistemas y temas de computación.
+[SPEAKER_02]  ¿Cómo diferenciabas eso? Porque hoy...
+[SPEAKER_02]  de alguna manera, pues nuestra carrera se ha llamado Ingeniería de Sistemas y Computación, ¿no?
+[SPEAKER_02]  Entonces, ¿cómo se diferenció esa carrera en tu formación?
+[SPEAKER_00]  La carrera desde el comienzo fue una suma como de tres carreras.
+[SPEAKER_00]  Por una venía toda la parte de abajo, de electrónica digital, que lo tomamos con los de eléctrica en ese momento. Vimos cursos ahí de temas de electrónica, me acuerdo de cursos en esa línea de sistemas dinámicos, cosas muy en la línea hacia la infraestructura.
+[SPEAKER_00]  Oramas, que no se me olvide, Eduardo, la clase se llamaba, veamos ensambladores, pero tenía otro nombre, no me acuerdo cómo se llamaba el curso, pero el curso era pura programación en ensamblador y era como la parte de más bajo nivel, era una de las líneas de la carrera, el bajo nivel sistema operativo, lo voy con Pacho.
+[SPEAKER_00]  Y era como esa línea que marcaba.
+[SPEAKER_00]  La segunda línea marcada y grande era programación.
+[SPEAKER_00]  Entonces hay bases de datos, sistemas de información, ingeniería de software. Esa era como la línea que también resultaba importante dentro de la carrera.
+[SPEAKER_00]  La tercera línea que apareció en ese momento
+[SPEAKER_00]  Era como la parte de computación, que fue la que a mí me gustó. Realmente yo vengo de la parte más formal de la carrera.
+[SPEAKER_00]  cursos en semántica de lenguajes con Camilo Rueda, quien aprecio muchísimo.
+[SPEAKER_00]  Rodrigo López, me hizo el curso de compiladores, me hizo el curso de lenguajes. La tesis, el proyecto de grado lo hice con Rodrigo López. Hicimos un compilador, todavía les puedo decir, de lenguaje llamado BSPL. Hicimos un compilador con Rafael Gómez. Nos encantaba toda esa parte de conectar el mundo de la teoría a lenguajes. Los lenguajes y los sistemas operativos éramos muy buenos en eso. La parte formal y matemática muy fuertes.
+[SPEAKER_00]  Y una área que no era ni...
+[SPEAKER_00]  no era fuerte, pero yo creo que fue la que le dio la nombre a Carrera. Tomamos un solo curso como en teoría de sistemas. En realidad era un curso en teoría de sistemas. Yo lo di, o sea, eso no es lo mío. O sea, yo cuando tomé ese curso...
+[SPEAKER_00]  Yo supe que eso no era lo que yo quería hacer en la vida. No me acuerdo si llamaba... Era como teoría de sistemas.
+[SPEAKER_00]  Pero eso no era lo mío. Yo prefería la parte formada, la parte matemática, y no estar trabajando en las abstracciones por allá de la teoría de sistemas, porque en realidad yo nunca acababa de entender qué era lo que decía. Yo me sentaba en clase, yo le decía a mis compañeros, yo entiendo el español, entiendo cada palabra de lo que están diciendo, pero yo no tengo ni idea de qué quiere decir esa mezcla de palabras, qué quiere decirnos.
+[SPEAKER_00]  y no lo entendía, y es un área en la que en ese momento la formalidad era tan baja, que era mucho el discurso, hablar, y eso a mí nunca me ha gustado mucho. Entonces ese pedacito de la carrera, yo no lo aprecié, no me lo disfruté, pasé los cursos, pero pues no me lo disfruté, yo me dediqué a la tercera, me movía muy bien el tema de programación, pero sobre todo la parte formal, la parte de teoría de lenguaje, la parte de compiladores, y eso igual, eso ha marcado mi carrera por completo. Hoy todavía las tesis que asesoro a nivel de doctorado, tienen un componente fuertísimo en lenguajes, porque yo soy muy convencido que eso fue lo que me dio mi formación, digamos la formación diferencial con respecto a otros profesionales, y ahí pues agradecerle sobre todo a Rodrigo López, que era mi modelo en ese caso, Rodrigo López pues no...
+[SPEAKER_00]  Era mi modelo, no era tan expresivo en clase, pues a duras penas si uno se sonreía, porque él ni se sonreía en clase. Pero también me gustaba ese estilo, ese modelo. Es menos, digamos, menos empático.
+[SPEAKER_00]  pero mucho más formal y mucho más profundo.
+[SPEAKER_00]  en la formación. Yo me acuerdo de la primera reunión de tesis con Rodrigo López, entramos a la oficina y él ni siquiera nos dijo siéntense. La reunión fue parados. O sea, yo le digo, ¿cómo uno recibe a un estudiante y no le dice, mire, siéntese que vamos a hablar media hora? Nos recibió Rafael Gómez y yo parados al frente del escritorio y él nos habló ahí. Y cuando se acabó la reunión, pues, no nos paramos, pues, que ya estamos parados y nos fuimos. Y esa cosa también me marcó muchísimo. Yo decía, pues,
+[SPEAKER_01]  Vamos a hablar media hora.
+[SPEAKER_00]  No me importó esa falta de, no es empatía porque suena muy fuerte, pero ese nivel, yo lo veía como un tipo de otro nivel a él, a Shiman. Yo creo que ellos fueron las personas que yo intenté copiar después dentro de mi modelo más profesional y en la universidad.
+[SPEAKER_00]  Y yo sí desde el comienzo tenía claro que mi modelo de formación, la imagen que yo quería proyectar hacia mis estudiantes, era más parecida a la de ellos que a la de otros profesores.
+[SPEAKER_00]  Eso es como mi resumen global.
+[SPEAKER_02]  Pero bueno, y hoy que...
+[SPEAKER_02]  que se demanda tanta competencia transversal.
+[SPEAKER_02]  Los Andes de alguna manera marcaba esa diferencia que tú estableces
+[SPEAKER_02]  no era conveniente que existiera, tú piensas que...
+[SPEAKER_02]  que ese diferencial logra posicionar a las personas desde ese...
+[SPEAKER_02]  Entonces, ese modelo que tú planteas...
+[SPEAKER_00]  Yo creo que hay gente que lo aprecia y hay gente que no lo aprecia.
+[SPEAKER_02]  que no lo han creado.
+[SPEAKER_00]  O sea, hay gente que ese tipo de modelos en donde uno preparaba la clase, el modelo clásico de la universidad de que el estudiante prepara la clase y acá resuelvo dudas, el modelo de la autonomía, el modelo de que uno no es un niño consentido que va a la universidad. O sea, en realidad era distinto, era otra cosa y los trabajos eran enormes y pues nadie se quejaba. Eso marca, eso genera un estilo, digamos, de trabajo, de abordar los problemas.
+[SPEAKER_00]  Yo cuando estaba en la universidad
+[SPEAKER_00]  Algo que aprecio muchísimo es aprender a que nada me quedaba grande. O sea, nada es nada.
+[SPEAKER_00]  El cálculo espíuac.
+[SPEAKER_00]  la física eran las cosas eran las masacres eran los temas dificilísimos hacia el abstracto la vi con margarita todavía margarita margarita mesa
+[SPEAKER_00]  Todavía me encuentro con ella de vez en cuando.
+[SPEAKER_00]  Todos ellos, Margarita también.
+[SPEAKER_00]  Me encantaba la clase con ella. No había nadie tan estricto como ella.
+[SPEAKER_00]  en mi cabeza.
+[SPEAKER_03]  Bien.
+[SPEAKER_00] аны por ahí ahorita.
+[SPEAKER_00]  Y en el modelo...
+[SPEAKER_00]  Sí, eso es. Y en mi modelo, si alguien me pregunta, ese sello es nada me queda grande, nada me asusta. Nos organizamos y hacemos lo que tengo que hacer.
+[SPEAKER_00]  Y eso yo creo.
+[SPEAKER_02]  Todos los profesores exigían.
+[SPEAKER_02]  del modelo de la excelencia, ¿no?
+[SPEAKER_00]  Pero no todos, o sea, hay de todo. O sea, es que hay cursos...
+[SPEAKER_00]  que se prestan menos para eso y personalidad, que se prestan menos para eso. Entonces hay profesores que eran mucho más...
+[SPEAKER_00]  enviamos el discurso, mucho más.
+[SPEAKER_00]  digamos, comprensivos con las necesidades.
+[SPEAKER_00]  los que aplazan siempre entonces uno sabe el profesor quién es
+[SPEAKER_00]  ¿Quién es el que aplaza todo? Pues uno ya sabe quién es el que aplaza, entonces si no hagamos el trabajo a tiempo, ¿por qué lo va a aplazar?
+[SPEAKER_00]  Ese tipo de nuevas de personalidades, pues los estudiantes lo leen a uno inmediatamente. Un estudiante sabe hasta qué punto va.
+[SPEAKER_00]  Entonces, tuve profesores de ese estilo, profesores a los que los estudiantes, no es que los tomaran del pelo, pero sí los estudiantes que no se los tomaban tan en serio en sus reglas de juego. Si decían mañana, pues no, mañana no, eso con seguridad nos aplaza. Si decían hagan estos cinco puntos, no, con seguridad nos deja tres puntos. Este examen, con seguridad nos da más tiempo.
+[SPEAKER_00]  Y el otro extremo, incluido también Camilo Rueda, otro de mis modelos, era el mundo es así, punto, cinco de la tarde, cinco de la tarde, o sea, no hay nada que hacer. Y hay que hacer esto, hay que hacer eso. Y ahí en esa escuela están yo creo recapitulando los cinco profesores que me marcaron más en la universidad, que son los que mencioné, Arnold Schimann, Rodrigo López, Camilo Rueda, Margarita, en la parte de matemáticas. Yo creo que tal vez ellos fueron como los que yo recuerdo, como que uno los veía como modelo. Y es que eso sí ha cambiado mucho hoy en día en las universidades.
+[SPEAKER_00]  los estudiantes.
+[SPEAKER_00]  de esa época querían ser como el profesor.
+[SPEAKER_00]  Entonces antes de que yo me grabara yo ya quería ser profesor, quería ser doctorado, quería comerme el mundo, pero con esa visión...
+[SPEAKER_00]  de esos profesores que yo los veía tan exitosos.
+[SPEAKER_00]  tan estrictos, tan...
+[SPEAKER_00]  como con una claridad conceptual, la manera como habla Rodrigo López y cuenta cualquier tema de compiladores, yo digo, ojalá yo pudiera en algún momento hablar con esa claridad y esa precisión, y eso sí que me marcó. Entonces, sí, yo lo agradezco muchísimo, esa disciplina me sirvió para toda la vida, más que Fortran o PL1 o COOL, yo a todos mis estudiantes les digo eso, les digo, mire, el éxito profesional no va a estar en la cantidad de lenguas que sepan ni en las terminales que manejen, hay otras cosas que las universidades tienen que formar y que yo siento que a medida que ha pasado el tiempo, se ha perdido, o sea, yo sí siento que se ha perdido un poco, pero debe ser generacional, cuando ya pasan los años y uno comienza a ver que las siguientes generaciones no son lo mismo que uno era, y a veces los critica, con o sin razón.
+[SPEAKER_02]  Una vez estabas terminando la carrera.
+[SPEAKER_02]  había unos créditos para prácticas, esos los usaste como prácticas, ¿dónde estuviste, qué hiciste?
+[SPEAKER_00]  el camino clásico de lo que yo llamaría los pilos de la universidad, que es el Instituto CERN, Roberto Pardo.
+[SPEAKER_00]  Entonces, cuando llega a octavo o noveno semestre...
+[SPEAKER_00]  todos los que de alguna manera se autoclasificaban.
+[SPEAKER_00]  como los pilos de la carrera, hacían práctica con Roberto Pardo en el Instituto CERN. Trabajamos allá, allá conocí a Luis Javier Parra, trabajaba también allá, María Jailamos, María Isabel, no me acuerdo.
+[SPEAKER_00]  Bueno, ella, con ella me acuerdo muy bien que trabajábamos, iba al aguado, eran de una generación anterior. Ana María Lamos, Ana María Lamos. Ah, Ana María Lamos. Me acuerdo de ellos.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias, señor.
+[SPEAKER_02]  De acuerdo a eso.
+[SPEAKER_00]  Estábamos en un proyecto antes de graduarnos en el Instituto CERN, me acuerdo que el edificio era ahí en el...
+[SPEAKER_00]  donde queda hoy el edificio con el subsidio.
+[SPEAKER_00]  Trasnochamos.
+[SPEAKER_00]  porque el computador en el que trabajábamos de día soportaba la operación de yo no sé qué empresa, entonces nos tocaba compilar, uno no podía compilar de día, o si no nos mataban, nosotros llegábamos a las 6 de la tarde a trabajar en la jornada de la noche.
+[SPEAKER_00]  Y eso generó un ambiente distintísimo, ¿no? Pues porque trabajar de noche, uno no está acostumbrado a trabajar de noche, pero el edificio era nuestro. Yo me acuerdo que el edificio construido quedaba desocupado y a esa hora salíamos a buscar, a tomar un café o lo que fuera. Ahí conocí a los de la generación anterior, el aguado.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Luis Javier, con quien mantengo una buena relación.
+[SPEAKER_00]  y sobre todo ese proyecto con Roberto Pardo, con quien también mantengo una muy buena relación, también me sirvió muchísimo. Yo de ahí salí ya listo para trabajar, ya había hecho la parte de teoría, los modelos, la parte práctica, digamos que eso también me marcó mucho y ya con eso terminaba yo como mi pregrado.
+[SPEAKER_00]  y estaba ya listo para arrancar mi vida profesional.
+[SPEAKER_02]  Manuel, ¿quieres preguntar algo sobre la parte académica?
+[SPEAKER_01]  Es que yo yendo a Jorge y también conociéndolo.
+[SPEAKER_01]  me viene a la cabeza una cuestión de relación entre la personalidad
+[SPEAKER_01]  Y lo que encontró.
+[SPEAKER_01]  Es decir, esa selección que fue haciendo.
+[SPEAKER_01]  Y tenía que ver con una personalidad que él traía de organización y de disciplina también, ¿no? Porque si no, no hubiera aceptado esa disciplina de los profesores que no permiten que la cosa no funcione.
+[SPEAKER_00]  No lo hubiera podido hacer.
+[SPEAKER_00]  que la
+[SPEAKER_01]  Es decir, hay una sincronía entre esos dos aspectos, si me parece, Jorge.
+[SPEAKER_00]  por completo, y esos son los jesuitas.
+[SPEAKER_00]  Si alguien le toca...
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  12 años de jesuitas.
+[SPEAKER_00]  me marcaron, pues esa es la base, yo creo que entre la familia.
+[SPEAKER_00]  Ver a mis papás, ambos profesionales, ambos odontólogos. En la época mi mamá yo creo que fue de las primeras personas que entró a la universidad a estudiar una carrera como esa.
+[SPEAKER_00]  Entonces, cuando uno ve a sus papás profesionales trabajando, porque trabajaron toda la vida, trabajaron muy duro, una disciplina hacia sus hijos, después los jesuitas.
+[SPEAKER_00]  Yo hoy vuelto a mirar, yo no voy a pensar en eso, si no es porque ustedes dos me preguntan y yo comienzo a hacer esta reflexión de dónde saqué mi personalidad, pues porque cada uno tiene su personalidad y yo sí tengo una personalidad muy en esa línea, es esa mezcla.
+[SPEAKER_00]  Esa mezcla de los jesuitas, de mi casa.
+[SPEAKER_00]  y de esos profesores que me marcaron durante la carrera. Eso como que, y tiene razón Manuel, uno como lo que hace es buscar modelos de lo que uno quiere encontrar, no es que alguien llegue completamente distinto a uno y uno copie ese modelo, no, uno ya venía así, y lo que uno hace en la universidad es como reforzar esos modelos y decir, dado que yo ya soy así, eso se parece más a lo que yo quiero hacer.
+[SPEAKER_01]  Quieren contar.
+[SPEAKER_00]  Y en el cerebro a esa edad uno lo refuerza y dice, entonces, si es correcto, entonces, si es por ahí que hay que hacerlo. Y pues esa es la mezcla, hoy viéndolo, digamos, a posteriori de mi personalidad, de todo el desarrollo profesional, pues ahí está, ahí marcado.
+[SPEAKER_01]  Es muy interesante.
+[SPEAKER_01]  ese respeto y recuerdo permanente de ciertos profesores.
+[SPEAKER_01]  ¿Qué te marcaron?
+[SPEAKER_01]  y que se marcaron para toda la vida, como un modelo a seguir, como algo admirable.
+[SPEAKER_01]  Eso es muy interesante en la academia.
+[SPEAKER_00]  Eso yo creo y yo insisto en los modelos de formación.
+[SPEAKER_00]  en que los profesores en ese momento eran los modelos de los estudiantes y era más fácil el proceso de formación.
+[SPEAKER_00]  Hoy en día es mucho más complicado. Uno lo ven como profesor y uno no es el modelo de los estudiantes de hoy. Los estudiantes de hoy quieren ser emprendedores. Los estudiantes de hoy quieren ganar mucha plata muy rápidamente. Los estudiantes de hoy son otro mundo, completamente distinto. Esa disciplina, ese trabajar duro.
+[SPEAKER_00] 
+[SPEAKER_00]  pues uno se los puede inculcar, pero el modelo no es el propio. O sea, el modelo a uno no lo ven como el modelo.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Y eso nos dificulta los procesos de hoy de formación.
+[SPEAKER_00]  porque el modelo es otro.
+[SPEAKER_02]  Sí, estamos en un...
+[SPEAKER_01]  Pero, Clive...
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Fue grata la experiencia, como lo estás contando.
+[SPEAKER_01]  Digamos, un poco filtrando, filtrando, filtrando, pero muy grata en la universidad, por lo que vemos, ¿no?
+[SPEAKER_00]  No.
+[SPEAKER_00]  Sí, la universidad para mí fue un momento, digamos, de...
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Yo me lo disfruté. Un momento de claridad.
+[SPEAKER_00]  Me encantaba.
+[SPEAKER_00]  como la definición matemática del mundo, o sea, la explicación.
+[SPEAKER_03]  ¿No?
+[SPEAKER_00]  En eso me acuerdo de álgebra abstracta, yo veía a Margarita y le decía, ya sí le entiendo lo que me está diciendo. Yo veía lo que ella planteaba, las álgebras, las operaciones, veía la teoría con puntos, veía la lógica, veía los compiladores y decía, el mundo es así. Mientras que hoy al de teoría de sistemas, yo le decía, no sé de qué me está hablando este señor. Entonces, inmediatamente, eso lo que hace es reforzar las estructuras que uno tiene.
+[SPEAKER_00]  De hecho, sí le entiendo a ella, Margarita, en mi formación ella no tiene ni idea, pero ese curso me lo disfruté muchísimo. Yo vi el mundo pintado en las matemáticas, en las estructuras matemáticas abstractas. Empecé a hablar de temas que antes no tenía tan claros. Vi que el mundo se podía modelar. Eso para mí fue una maravilla. Y modelarlo fuerte. Al final la programación es un modelo de algo que hay en la realidad. Entonces comencé a conectar los mundos, menos ese mundo. Ese mundo, si me preguntas que si me disfruté la clase de teoría de sistemas, la respuesta es no. Yo sufrí en esa clase porque no entendía de qué me estaban hablando. O sea, interesantísimo, muy bonito todo. Leía y leía y repetía las palabras que tenía que repetir, pero yo creo que nunca propié, yo creo que nunca lo conecté realmente con el resto de los temas.
+[SPEAKER_02]  ¿Y tú qué has incluido en los currículos de los Andes en los últimos años?
+[SPEAKER_02]  tiempos.
+[SPEAKER_02]  y
+[SPEAKER_02]  ¿Has valorado ese conocimiento de antes? ¿Has sostenido algunas?
+[SPEAKER_02]  asignaturas
+[SPEAKER_02]  ¿Qué enfoque tú has manejado para que se mantengan?
+[SPEAKER_02]  dentro de los pensum, planes de estudio que se vienen trabajando.
+[SPEAKER_00]  El tema de los cambios curriculares en los Andes siempre han sido complicados. Tocar el currículo en la universidad ha sido un tema complicado. Yo creo que el departamento ha tenido en su historia cuatro currículos, no más.
+[SPEAKER_00]  Y uno, pues con ajustes, todo evoluciona.
+[SPEAKER_01]  No.
+[SPEAKER_00]  El cambio más... bueno, el cuadro.
+[SPEAKER_00]  El primero con el que arrancamos en el 80.
+[SPEAKER_00]  Jorge Phillips lideró otro cambio curricular que se volvió mucho más computación.
+[SPEAKER_00]  Entonces el foco de los ochentas que yo lo alcancé a vivir es computación. Los que estaban de moda eran Jorge Phillips, Roberto Pardo, Rodrigo López, los de la parte computación dura.
+[SPEAKER_00]  El siguiente cambio curricular se dio en el 98, 18 años después, yo ya estaba en la dirección del departamento.
+[SPEAKER_00]  Yo lideré el primero de los cambios y nos movimos hacia la ingeniería de software, sobre todo. Yo era un convencido en ese momento de que la ingeniería de sistemas debería abandonar un poco algunas de las bases, sobre todo la parte más de electrónica, la parte más de abajo, debería moverse mucho más hacia el desarrollo y la ingeniería de software.
+[SPEAKER_00]  El cambio curricular del 98, 1998, fue en esa dirección. Mucha más ingeniería de software.
+[SPEAKER_00]  En el 2010 yo estaba otra vez en la dirección del departamento.
+[SPEAKER_00]  A mi regreso, estuve en Francia, hice el doctorado, regresé. Y en el cambio curricular del 2010 nos movimos más hacia un equilibrio en donde lográramos nosotros mantener, digamos, tres grandes líneas, que era como el foco, que era la parte, digamos, más de sistemas de información, las organizaciones, pero desde el punto de vista más técnico, o sea, menos teoría de sistemas. Yo, si no lo entendía en pregrado, menos iba a defenderlo yo en el cambio curricular. No entendí de qué se trataba el curso y yo tampoco sabría cómo haber hecho ese cambio.
+[SPEAKER_00]  El programación, o sea, en general es súper fuerte y subirle la parte de infraestructura, o sea, movernos más hacia redes, movernos más hacia los temas, digamos, no vean nube todavía, pero sí a los temas más cercanos a lo nuestro y abandonamos parte de nuestras raíces en ese segundo cambio curricular. Y en el 2010 no hemos hecho cambios curriculares, hemos hecho ajustes. Yo soy el protagonista en los dos cambios curriculares recientes del departamento porque es muy difícil cambiar un currículo en la Universidad de Los Ángeles de la Universidad.
+[SPEAKER_02]  Bueno, y una vez, Manuel, podemos...
+[SPEAKER_02]  Preguntamos si ya inicia la vida laboral.
+[SPEAKER_01]  Sí, quiero echarle un reversito a la máquina del tiempo porque se me fue para el futuro, ¿cierto? Como conocemos a Jorge, sabemos quién es perfectamente Jorge. Bueno, perfectamente no lo sabemos.
+[SPEAKER_02]  Sí, quiero echarle un...
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  conocemos
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  además todo lo bueno que es.
+[SPEAKER_01]  Pero muchos que te van a escuchar no, no conocían a Jorge.
+[SPEAKER_01]  Entonces hay un pedacito nada más para seguir adelante.
+[SPEAKER_01]  Es el final de la carrera. Échese reverso un momentico, Jorge. Final de la carrera.
+[SPEAKER_01]  Mundo modelado
+[SPEAKER_01]  emocionado porque se puede modelar el mundo.
+[SPEAKER_01]  La pregunta es cómo comienzan a modelar lo que podría sucederte cuando te gradúes.
+[SPEAKER_01]  ¿Qué pensás en las posibilidades de trabajo?
+[SPEAKER_01]  ¿Cuál fue tu primer trabajo?
+[SPEAKER_01]  Y obviamente, ¿cómo fue ese rumbo hacia la academia tan fuerte en los Andes para que te conozcan un poquito más en ese proceso? Porque es que el factor humano es clave en esto. Dale.
+[SPEAKER_00] 
+[SPEAKER_03]  Gracias.
+[SPEAKER_00] 
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Sí, salir del Instituto Seren.
+[SPEAKER_02] 
+[SPEAKER_02]  Empezaste a buscar empleo, qué te entusiasmó.
+[SPEAKER_00]  ...de...
+[SPEAKER_00]  Cuando tan pronto me gradué, toda esa la institución sería, estaba empezando a mirar a ver qué era lo que iba a hacer más adelante. Eso. Yo arranqué a trabajar en la Fundación Mariano Espina Pérez.
+[SPEAKER_00]  Ese fue mi primer cargo, Fundación Mariano Espina Pérez, tema tecnología, proyectos en la dirección de lo que se llama informática jurídica.
+[SPEAKER_00]  Entonces ellos...
+[SPEAKER_00]  Me acuerdo, ganaba 17 mil pesos mensuales. Y una vez les digo mi salario, por medio tiempo...
+[SPEAKER_02]  Yo te invito a...
+[SPEAKER_02]  ¿Estaba Alfredo Hernández ahí?
+[SPEAKER_00]  No, Alfredo, no. Estaba...
+[SPEAKER_00]  quien fue después gerente general del tiempo, pero es que se me olvidó el nombre de él.
+[SPEAKER_00]  ahora que se me olvidó el nombre, bueno, no me acuerdo el nombre de él, pero él después estuvo hasta no hace mucho, era el gerente del tiempo, él fue el que me contrató, él me dio la universidad, me dijo, no le interesaría, me fui para la Mariano Espina Pérez, allá arrancó rarísimo, ¿no? Porque yo era el de sistemas, en los proyectos, porque la Fundación Mariano Espina Pérez tenía unos sueños enormes en tecnología, quería montar la base de datos legislativa del país, pero 20 años antes de que tecnológicamente se pudiera, y arrancamos.
+[SPEAKER_00]  Ahí tuve mi primer contacto con abogados.
+[SPEAKER_00]  y
+[SPEAKER_00]  Comenzamos el trabajo, comenzamos a contratar gente, comenzamos a contratar porque cuando fuimos creciendo empezamos a buscar financiación. Comencé y allá contraté a muchísima gente de la universidad, o sea, todo mi equipo eran egresados.
+[SPEAKER_00]  Muchos estudiantes que se hacen práctica allá. Yo quería, igual que en el Instituto Sergio, llevarme a los mejores estudiantes para poder generar allá escuela.
+[SPEAKER_00]  Yo trabajé allá del 82 finales hasta el 85, que me fue a hacer la maestría, tres años, dictaba cátedra en los Andes, o sea, yo salí, ni siquiera me había graduado de la universidad, que eso era una irresponsabilidad, pienso yo. Eso tenía yo acá, cumplir 21 años.
+[SPEAKER_00]  No había recibido mi diploma y ya estaba al frente de un grupo de estudiantes.
+[SPEAKER_00]  Bien.
+[SPEAKER_00]  En enero de este año, hace 40 años, me paré al frente del primer curso a dictar clases.
+[SPEAKER_00]  Ahí están mis primeros estudiantes recién egresados. Salgo del Instituto de Cerebro y me encuentro con Olga Mariño, por ejemplo. Fue mi estudiante en el primer semestre. La primera vez que yo dicté. Y yo hace poquito le contaba a la rectora una anécdota. Yo en ese momento parecía muy joven, recién egresado.
+[SPEAKER_00]  Yo llegué al salón y mi susto era que no entraran los estudiantes a la clase. Yo llegué al salón, me paré y no había nadie adentro. Entonces salí y le dije, este es el curso de dictada programación, algo en programación.
+[SPEAKER_00]  Me dijeron sí, pero el cucho no ha llegado. Yo no sé si yo soy el cucho o frustrarme o lo que fuera, pero el cucho era yo y esa primera sensación de que ahora yo era el cucho.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  me marcó también la parte de docencia.
+[SPEAKER_00]  Entraban los estudiantes, me disfruté la cátedra durante esos tres años, a la par trabajaba en unos retos enormes, yo creo que históricamente uno lo mira y la tecnología no estaba lista para hacer esos proyectos.
+[SPEAKER_00]  Arrancamos a trabajar en...
+[SPEAKER_00]  en proyectos muy grandes de informática jurídica.
+[SPEAKER_00]  a implementar, a desarrollar, todo desarrollo de la medida en Santa Novia Productos.
+[SPEAKER_00]  Y fue muy interesante, pues, porque la familia Ospina en ese momento, pues, en el país todavía tenía, digamos, un peso grande.
+[SPEAKER_00]  conocí senadores, conocí los presidentes, conocía ministros, conocía de todo el mundo, y eso también me marcó en esa línea inicial. Fueron tres años de trabajo con la Fundación María Nostina Pérez, cátedra en la Universidad de los Andes, trabajaba también, dictaba clase también en mi colegio, donde me ha graduado, en el San Martolo, hacía de todo, o sea, yo desde esa época, yo me voy, digo, yo arranqué a trabajar y no he parado desde hace 40 años.
+[SPEAKER_00] 
+[SPEAKER_02]  en qué máquinas trabajaban y qué lenguajes usaban.
+[SPEAKER_02]  Ahí en la fundación.
+[SPEAKER_00] 
+[SPEAKER_00]  En la fundación...
+[SPEAKER_02]  como el trabajo técnico.
+[SPEAKER_00]  Sí, sí.
+[SPEAKER_00]  Era muy gracioso porque tenemos un disco duro del tamaño de una mesa de noche y era un disco duro de 400 megas, que era lo más grande que había en ese momento. Y eso vibraba, quedaba a gusto, era una belleza. Es una mesa de noche con 400 megas y teníamos máquinas, máquinas Hewlett Packard, todo era Hewlett Packard.
+[SPEAKER_00]  La programación de eso yo no recuerdo en ese momento en que lo hacíamos, pero todo era desarrollo a la medida.
+[SPEAKER_00]  cero productos, no existía.
+[SPEAKER_00]  Todo había que desarrollarlo.
+[SPEAKER_00]  conseguíamos los el diario oficial que era no había las leyes no estaban digitalizadas contratamos digitadores con el diario oficial nos trajimos toda la historia legislativa y empezamos a teclearla yo cuando pienso eso hoy en día digo pero qué locura a quién se le ocurrió hacer eso pero no había opción no o sea no había un web service que uno dijera datos abiertos no va a conseguir una nos teclean la legislación teníamos equipos de visitadores
+[SPEAKER_00]  Desarrollamos software de corrección, de evaluación, una cantidad de estrategias que en ese momento no había opción, necesitábamos nosotros montar porque uno no se puede equivocar en la legislación.
+[SPEAKER_00]  construimos una cantidad de cosas que para su época yo pienso que...
+[SPEAKER_00]  que era medio locura, o sea, yo creo que en ese momento no estábamos preparados ni tecnológicamente para hacer eso, pero me lo disfruté, tres años trabajando en eso, en ese momento cierro mi ciclo en la Mariano Espina Pérez, me voy para Francia a arrancar mi maestría, eso...
+[SPEAKER_00]  Eso fue como mi plan.
+[SPEAKER_00]  En ese momento vendí todo lo que tenía, trabajé tres años para financiarme la maestría. No tuve becas, no tuve ayudas, no tuve nada, mis papás un poquito. Pero yo lo que hice fue, pues vendí mi carro, vendí todo, ahorré. Mi foco era seguir el modelo de volverse uno el profesor.
+[SPEAKER_00]  crecer, formarse en Francia, todo el mundo venía de Francia, o sea, todos venían de Francia luego, lo natural era ir más para Francia, como no tenía plata, ni becas, ni nada, pues vendí todo lo que tenía, y me fui a contar los centavos, yo me acuerdo en esa experiencia en Francia, contando, o sea, si yo no podía salir, no podía hacer nada, pues porque ya no me alcanzaba, yo viajaba con la plata en el bolsillo, es que en ese momento ni siquiera cuentas bancarias, en donde uno le hiciera una transferencia, no, eso nada, eso existía, ni tarjetas, ni nada, la plata entre el bolsillo, para un año de trabajo, aprendí la disciplina de que la plata importa, de que no sobra, de que hay que contarla.
+[SPEAKER_01]  ¡Gracias!
+[SPEAKER_00]  y me lo disfruté también muchísimo, mi formación allá en Francia.
+[SPEAKER_00]  Conocí personas muy, muy...
+[SPEAKER_00]  interesantes.
+[SPEAKER_00]  Viajé en ese momento con la corte, con Germán Bravo, con Claudia Jiménez, con Mario Otero y con Rafael Gómez. Éramos los cinco que viajamos nosotros más o menos en esa época y los cinco nos reincorporamos. Yo creo que después viéndolo fuimos la corte de la universidad que le generó más profesores, yo creo que en la historia. O sea, nunca han llegado cinco profesores de la misma corte y amigos al mismo punto. Entonces, porque había otros conocidos, por supuesto, pero no de la misma corte.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  In...
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Y nada, ya esa fue mi maestría.
+[SPEAKER_00]  y
+[SPEAKER_02]  Pero cuéntanos sobre la maestría.
+[SPEAKER_02]  los temas, la formación, los estilos, la pedagogía.
+[SPEAKER_02]  cómo te reforzó.
+[SPEAKER_02]  Los conocimientos.
+[SPEAKER_00]  los conocimientos
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Otro modelo de formación completamente distinto.
+[SPEAKER_00]  O sea, comparado con la formación francesa, la formación colombiana es tan paternalista.
+[SPEAKER_00]  que yo llegué allá y ese fue el primer choque.
+[SPEAKER_00]  Entonces allá uno tiene un curso de un año y allá no hay proyectos, ni tareas, ni nada, ni acompañamientos, ni monitorías. Uno toma la clase y después de un año lo sientan a uno cuatro horas en un salón a un examen, que lo vigilan como diez personas.
+[SPEAKER_00]  Y uno se juega la nota en un examen.
+[SPEAKER_00]  Entonces, no hay nada.
+[SPEAKER_00]  La autonomía total, pero pues es responsable, nos dejan lecturas, pero nadie revisa nada, nunca hay un juicio, nunca hay nada, ni siquiera una exposición, que uno diga me entreno. Entonces el nivel de estrés de la parte final de la maestría, pues el nivel de estrés es altísimo.
+[SPEAKER_00]  Porque no se juega absolutamente todo en un examen.
+[SPEAKER_00]  Entonces, en ese examen, yo me acuerdo, uno llega, le dan una mesa.
+[SPEAKER_00]  Yo sacaba mi diccionario, el Becherel, que es el de las conjugaciones en francés, lo ponía todo ahí a ver qué me podía servir, porque en un año el francés no es el mejor del mundo tampoco.
+[SPEAKER_00]  Entonces, a luchar. Y allá uno tiene derecho a perder un examen.
+[SPEAKER_00]  a volverlo a presentar y se acabó. Y hay un promedio. Si uno pierde un curso, pierde la maestría. O sea, no es como acá que no repiten el curso, que los otros maestros no... Eso no existe nada.
+[SPEAKER_00]  Eso es lo más, yo pienso, lo más duro del mundo.
+[SPEAKER_00]  El proyecto completo tiene una sustentación de 45 minutos, punto. Si uno los convenció, pasó, si no, perdió. Y se lo dicen así, con una sonrisa, no pelean ni regañan ni nada. Por ejemplo, estamos acostumbrados a regañar a nuestros estudiantes y tomar esa formación como personal. El que no va a clases, casi que un tema personal con el profesor, el que no hace las tareas, no, ya, sálvese el que pueda.
+[SPEAKER_00]  super
+[SPEAKER_00]  distinto.
+[SPEAKER_00]  del método.
+[SPEAKER_00]  Y eso sí que me marcó.
+[SPEAKER_00]  Empecé a ver cursos de la formación de la maestría.
+[SPEAKER_00]  Hay perfiles, yo tomé el perfil, imagínense en esa época, 1985.
+[SPEAKER_00]  El perfil de la inteligencia artificial.
+[SPEAKER_00]  Entonces, era el perfil de inteligencia artificial.
+[SPEAKER_00]  tomé un curso en Machine Learning, eso suena hasta chistoso, todo el mundo piensa que el Machine Learning es más reciente, pero quería decir otra cosa, no es el tema que se denomina Machine Learning, es mucho más estadístico, en ese momento era más aprendizaje de verdad, el tema de esquemas conceptuales.
+[SPEAKER_00]  como una evolución de los sistemas expertos de ese momento.
+[SPEAKER_00]  Vi cursos en matemáticas duras, muchos cursos en matemáticas duras, muchos cursos en inteligencia artificial.
+[SPEAKER_00]  Y yo creo que fue bien, bien técnica mi formación allá, bien técnica y era un poquito confirmando el perfil que yo quería tener allá, pues que quería tener el perfil profesional que quería tener y eso fue lo que me formé yo allá.
+[SPEAKER_01]  ¿Te tocaron los profesores franceses en los Andes cuando llegaron?
+[SPEAKER_03]  No.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  No, no, no.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  cariño.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Los problemas francés...
+[SPEAKER_00]  Yo llegué, los profesores ya eran todos colombianos. O sea, ya estamos en la generación de los profesores que habían tomado clase con los franceses, que se habían formado en Francia y que estaban replicando ya esa formación.
+[SPEAKER_01]  Ok, ok. Encuentro una cosa.
+[SPEAKER_01]  Sí, ya no estaba, pero a mí me llamó Mariano Espina, yo creo que fue como en el 90 o algo así.
+[SPEAKER_01]  Quería que le manejáramos los eventos que hacía políticos con algo de tecnología.
+[SPEAKER_01]  Y también tuve la experiencia de conocerlo a él.
+[SPEAKER_01]  Y claro, los conferencistas eran Guillermo Perry, el presidente Carlos Lleras Restrepo, que lo mataron.
+[SPEAKER_01]  un día de un evento con Mariano Espina.
+[SPEAKER_01]  Esa fue toda una historia. Es decir, lo menciono por lo que...
+[SPEAKER_01]  Fui familiar después con la Casa Espina.
+[SPEAKER_01]  en un aspecto, con ellos y con Mariano mucha...
+[SPEAKER_01]  muchas charlas con él y todo. Me pareció curioso eso, no sabía.
+[SPEAKER_01]  que tenías esa relación previa con él.
+[SPEAKER_00]  Y yo miro mis fotos.
+[SPEAKER_00]  fotos con el presidente, con Belisario, esos tres años que estuve con ellos.
+[SPEAKER_00]  Yo me siento en ese momento pues era muy joven.
+[SPEAKER_00]  Pero tengo fotos con todo el mundo, en blanco y negro, muchas de esas.
+[SPEAKER_00]  con todos los políticos de la época. Y yo me muero de la risa, ¿no? Porque yo en ese momento en realidad ni los conocía ni me importaba. En ese momento uno es muy respetuoso con el mundo entero. Que tenga el apellido que tenga a mí, eso no me impactaba. Conocí a Doña Berta, conocí a Fernando Zena, conocí ministros, conocí de todo. Y pues no me... Presidente del Senado no me decía absolutamente nada. Si yo los conociera, sería distinto, ¿no? En ese momento yo creo que con la arrogancia de un recién ingresado, esa vaina no me importó. Ni los vi. Veo las fotos hoy en día y digo, oiga, ¿cuándo me tomaron esa foto? Cuando estaba yo al lado del presidente explicándole cosas. Y ahorita pues es muy gracioso eso. Porque de verdad es una sorpresa que hubiera pasado por esos tres años y que no hubiera aprovechado nada de eso. Ni me hubiera marcado. O sea, la parte política cero por ninguna...
+[SPEAKER_03]  No hay...
+[SPEAKER_01] 
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Bueno, llegas entonces del...
+[SPEAKER_02]  de la maestría.
+[SPEAKER_02]  y
+[SPEAKER_02]  entras directamente a los Andes o tú
+[SPEAKER_02]  Estabas vinculado, pero me dio tiempo, tiempo completo, porque si estabas en la...
+[SPEAKER_02]  la fundación, qué tipo de contratación tenías y cómo llegas nuevamente a los Andes.
+[SPEAKER_00]  Cuando yo me fui tenía cátedra, o sea, yo era tiempo completo con la María Nosfina Pérez, entonces era solo una cátedra y por eso no me financiaron. Lo gracioso es que todos tenían beca, o sea, Rafael Gómez tenía beca, Claudia Jiménez beca, Germán, todo el mundo se fue con beca menos yo, pero yo no me iba a quedar. Entonces yo dije, pues no, pues yo también me voy, me lo pago, pero era de raro, ellos tenían la beca y todos los meses les llegaba nueva plata, no, mi plata era la que yo me iba y eso era distinto, o sea, y viajemos, sí, pero con el presupuesto limitado. Entonces tengo mis historias de mis viajes de verdad mochileando, de verdad contando hasta el último centavo y me recorrí Europa entera.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  sin plan, entonces pues con un presupuesto muy, muy, muy bajo y esta me sirvió, me sirvió mucho.
+[SPEAKER_00]  Termino yo mi maestría allá, hice mi proyecto, ya regresaba y contacté a la universidad.
+[SPEAKER_00]  Quería incorporarme, inmediatamente me abrieron las puertas, contrato de tiempo completo con la universidad.
+[SPEAKER_00]  Y arranqué, llegué yo a dictar...
+[SPEAKER_00]  cursos
+[SPEAKER_00]  sobre todo en el tema de programación.
+[SPEAKER_00]  Pero hay una coyuntura ahí y es que cuando yo llegaba, solo había una plaza en un área que no era la que a mí me gustaba. O sea, era tómela o déjela y era trabajar con José Tiberio Hernández.
+[SPEAKER_00]  Con José Piero tenemos una relación rarísima, porque somos agua y aceite. Eso sí, somos dos mundos completamente diferentes.
+[SPEAKER_00]  Desde el comienzo yo trabajaba para él, pero pues él habla.
+[SPEAKER_00]  en otro idioma, o sea, en realidad nosotros todos nos entendemos, nos entendemos como personas, somos buenos amigos, pero profesionalmente, eso, mi llegada al departamento, yo como que no sabía realmente qué era lo que querían que hiciera, porque él trabaja en el área de computación gráfica, trabaja en la parte más de...
+[SPEAKER_00]  geometría computacional y eso pues sí pero eso no es lo mismo lo mío no era eso
+[SPEAKER_00]  Llegué a trabajar con Tiberio, Tiberio fue un muy buen maestro allá, lo recuerdo desde el comienzo, compartí oficina con él.
+[SPEAKER_00]  Él ya se imaginara, la mitad de la oficina era el despelote total, o sea, como si hubiera caído una bomba, y la otra mitad era absolutamente impecable, porque yo no tengo nunca sobre mi escritorio absolutamente nada, porque eso me distrae. Entonces él llegaba y cuando atendía a gente, pasaba el desorden a mi escritorio para poder atender a las personas, y eso sí era motivo de disgusto contiverio. Entonces yo llegué a la oficina y todo el desorden de él lo corría descaradamente, movía su desorden a mi escritorio para poder trabajar, y todavía lo tengo en mi cabeza clarísimo. Con él trabajé, poco a poco me fui moviendo hacia el área de software.
+[SPEAKER_00]  hacia el área de software, empecé a asumir cargos administrativos, fui coordinador de pregrado.
+[SPEAKER_00]  El...
+[SPEAKER_00]  trabajé dictando cursos, escribí mi primer libro en 1990, el primer libro de estructuras de datos. También, dentro de esa idea de que a uno no le queda grande nada, yo no sé, hoy en día nadie escribe un libro, porque hoy en día yo veo a mis colegas y yo no veo a nadie escribiendo libros. Escribir un libro...
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Se volvió como de...
+[SPEAKER_00]  como en otra época, yo no sé, nadie escribe un libro hoy en día.
+[SPEAKER_00]  Escribió el primer libro en estructuras de datos, se utilizó muchísimo en la universidad.
+[SPEAKER_00]  Y en el momento me fui, hice un año en España, haciendo una pasantía de investigación.
+[SPEAKER_00]  Estuve trabajando en el Instituto de Cibernética de la Politécnica de Cataluña un año entero formándome en temas de investigación.
+[SPEAKER_00]  ¡Gracias!
+[SPEAKER_00]  Me lo disfruté, me regresé.
+[SPEAKER_00]  Y seguí trabajando. Lo mío era, básicamente fui como direccionando mi trabajo hacia lo que me gustaba. Ya cuando regresé de España ya tenía claro cuál era mi área de trabajo.
+[SPEAKER_00]  Entré a trabajar en temas de objetos, entré a trabajar ya en temas de programación y empecé a tocar temas de arquitectura, de estructura.
+[SPEAKER_00]  Eso fue como lo que me llamó a mí la atención.
+[SPEAKER_02]  ¿Cómo cambió la tecnología en el tiempo en que te graduaste y de ahí?
+[SPEAKER_02]  por los 90.
+[SPEAKER_02]  10 años, 11 años después.
+[SPEAKER_00]  En realidad la tecnología cambió por completo. Cuando yo me gradué, llegaron los primeros portales, los primeros micrófonos.
+[SPEAKER_02]  la tecnología
+[SPEAKER_00]  Eran los Macintosh.
+[SPEAKER_00]  unos Macintosh arriba de una sala en el W, nos llegaron 20 Macintosh y un disco duro compartido que era un Corvus.
+[SPEAKER_00]  en red el 64 cada memoria tenían los computadores porque la universales a comprar la extensión de memoria no lo original 32 k todos estaban potenciados a 64 k y todos dichosos de entrar
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  En ese momento es cuando me gradué, el último semestre, la tesis mía la hice en esos equipos, en esos computadores, en esos microcomputadores.
+[SPEAKER_03]  ¡Gracias!
+[SPEAKER_00]  Y ahí de ahí en adelante el cambio fue rápido.
+[SPEAKER_00]  Cuando yo empecé a dictar clase, pasamos al borros.
+[SPEAKER_00]  O, digamos, en los micros comenzaron a llegar micros IBM, pequeños, todos pequeños, entre comillas, ¿no? Pequeños, comparado con el Borax, pero en ese momento, pues eran unas pantallas enormes. Mi clase era, digamos, los cursos de programación eran para programar en esos microcomputadores.
+[SPEAKER_00]  Yo dicté Pascal, sobre todo mis cursos eran de Pascal, de programación en Pascal.
+[SPEAKER_00]  Cuando ya regresé de Francia, ya el mundo había cambiado por completo.
+[SPEAKER_00]  de Francia y de España.
+[SPEAKER_03]  Cuando...
+[SPEAKER_00]  Cuando me fui para España no existía el correo electrónico.
+[SPEAKER_00]  cuando el primer correo electrónico lo recibía estando en España.
+[SPEAKER_00]  en BitNet
+[SPEAKER_00]  mi correo, por error le llegó al, yo no sé si no se lo habían acabado de inventar, pero le llegó al director de tecnología y él me imprimió y me llevó el primer correo impreso, me dijo esto es para usted, le acaba de llegar un correo y me pareció lo más gracioso del mundo que tuviera que imprimirlo y llevármelo para mostrarle el correo que me había llegado, o sea, el corresponsal a quien me lo había mandado mal o lo que fuera, pero le llegó, llegó, fue allá, pero que a uno se lo impriman y se lo lleven, eso es una maravilla, y además estaba lleno de bobadas, era un colega que se llama Alejandro Quintero, que está ahora en Canadá.
+[SPEAKER_00]  escribió todas las bodas del mundo que puede escribir para estrenar el correo. Por supuesto, lo imprimieron, lo leyeron todos, y pues no voy a usar las cosas que decía el correo.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Pero muy gracioso que el primer correo le llegue en un papel. Eso me imprime y me lo llevo.
+[SPEAKER_01]  ¿Qué año era? 90.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  1990.
+[SPEAKER_01] 
+[SPEAKER_00]  1990, yo me fui en el 89 para España, Barcelona, y estuve allá. En ese año llegó ese correo, con toda seguridad porque todo lo tengo en mi mente, cuando llegaron a entregarme.
+[SPEAKER_00]  Yo regresé y los cambios tecnológicos grandes, ya el mundo era otro. O sea, el mundo en esos cinco años o diez años desde el...
+[SPEAKER_00]  83 hasta el 91 que me gradué era otro en tecnología, otro mundo.
+[SPEAKER_00]  Impresionantes los cambios que sucedieron.
+[SPEAKER_00]  Y ahí lo que tocaba era adaptarse, adaptarse muy rápidamente a todo lo que iba apareciendo, ese era el secreto.
+[SPEAKER_00]  En la formación, pues como nos formaron en ese modelo de autonomía, pues eso a nosotros no nos costó ningún trabajo, todos nos movimos hacia las cosas nuevas. El libro, publicamos el primer libro, el libro lo hace Ediciones Unidades, funciona relativamente bien el libro.
+[SPEAKER_00]  En 1996 publico mi segundo libro, ya es un tema de estructuras de datos en C, y aunque no lo crean todavía se usa mucho.
+[SPEAKER_00]  El libro estructural de datos de ENSEL se usa en un curso de la Universidad de Los Andes en algunos temas. Árboles, árboles ABL, árboles B balanceados, la algorítmica.
+[SPEAKER_00]  Yo ese libro lo publiqué con Magrao Gil.
+[SPEAKER_00]  Ese libro lo dejé de acceso libre desde hace más de 10 años y yo creo que ese libro sigue habiendo mensualmente un par de centenares de descargas en toda Latinoamérica. Es decir, que sigue siendo vigente el libro y eso me encanta, porque todos me preguntan, el libro, y una vez me preguntaba, venía con un disquete, decía, en el disquete vaya y busque el ejercicio tal. Y hoy en día nadie sabe que es un disquete, no, y menos como si tuvieran el disquete no sabrían qué hacer con el disquete.
+[SPEAKER_01]  mire
+[SPEAKER_00]  Entonces me dicen, no me preguntan nada como que es un disquete, porque me imagino que busca, pero ¿dónde puedo conseguir el disquete? ¿Cómo lo leo? Digital, sí.
+[SPEAKER_02]  Y como lo leo.
+[SPEAKER_00]  entonces me toca a cada uno que me escribe me toca mandarle el disquete
+[SPEAKER_00]  Entonces, todas se utilizan.
+[SPEAKER_00]  En ese momento, en el 96, se asumió por primera vez la dirección del departamento.
+[SPEAKER_00]  Disculpa un poquito.
+[SPEAKER_00]  Para el departamento fue un pequeño choque porque...
+[SPEAKER_00]  En la universidad estamos acostumbrados a que, como en el ejército, no hay una línea de mando y esa línea va tomando el control del departamento por edad. ¿Quién se guía? Ya sabemos quién se guía.
+[SPEAKER_00]  Y por una razón que yo no acabo de entender, se saltaron una línea completa, un grupo completo de profesores.
+[SPEAKER_00]  Y en ese momento el decano era Alberto Sarri, me puso a mí al frente del departamento.
+[SPEAKER_00]  En ese momento tenía yo 33 años por ahí. Era en ese momento considerado todavía demasiado joven para ser el director de departamento, pero ahí estaba. Durante tres años, cuatro años, estuve al frente de la dirección del departamento. Todas las reformas que tocó hacer las hice. Todo eso tiene, digamos, ha marcado la historia del rumbo del departamento, pero todo eso tiene un costo. Eso uno no transforma sin incomodar personas.
+[SPEAKER_00]  Sí, sí, sí.
+[SPEAKER_00]  Logramos hacer el cambio curricular, logramos transformar una cantidad de cosas dentro del departamento, gobernos hacia investigación.
+[SPEAKER_00]  A la salida de la edición del departamento resolví irme a hacer el doctorado.
+[SPEAKER_00]  Ya viejo, ya había sido director de departamento.
+[SPEAKER_00]  En 1999 me voy a arrancar el doctorado hasta el 2004.
+[SPEAKER_00]  Me voy para Francia, no tenía tampoco beca, pero esta vez sí que conseguí allá que me financiaran, me financió Jackie Estublier, alguien a quien aprecio y recuerdo muchísimo.
+[SPEAKER_00]  Sin él no habría logrado terminar ese doctorado.
+[SPEAKER_00]  En mi doctorado era un tema, no se llamaba arquitectura, pero era un tema de arquitectura. Eran problemas de unas magnitudes enormes. Nosotros trabajamos con una empresa en donde el software, para compilarlo, se puede demorar entre tres y cuatro días, la compilación de todo.
+[SPEAKER_00]  ¿Puedo?
+[SPEAKER_00]  La solución arquitectura, eso toca partirlo, toca desacoplarlo, toca diseñarlo por partes, toca después volverlo a ensamblar, toca, y toda la investigación mía, todo mi doctorado, fue en esa obsesión de lograr encontrar, diferenciar las estructuras, las formas, que finalmente lo que después se llamó la arquitectura de software, o la base de la arquitectura de software, pero a gran escala, ¿no? O sea, no era el software de patrones de software, que uno se acostumbraba a que el patrón es el patrón MBS, no, estamos hablando de mil ingenieros desarrollando sobre el mismo producto.
+[SPEAKER_00]  y necesitar hacer o proponer técnicas para poder descomponer esa arquitectura para que pueda manejarla.
+[SPEAKER_02]  Bueno, uno de los libros que también ha sido bien utilizado es el de Cupidos, ¿no?
+[SPEAKER_00]  Eso es 2006, entonces yo regreso al doctorado.
+[SPEAKER_00]  Entonces, regreso del doctorado a la universidad.
+[SPEAKER_00]  Cuando yo receté el doctorado, el director del departamento era Rodrigo Cardoso.
+[SPEAKER_00]  Entonces yo le escribí a Rodrigo y le dije, Rodrigo, ya voy a regresar. Y él me dijo, no, no, no estoy seguro si hay cupo. Esa fue mi primera sorpresa. Yo como que yo lo da por descontado que yo volví a la Universidad de Los Andes. Nunca planeé nada distinto.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Entonces cuando él me dice yo no estoy seguro si hay cupo, yo ¿qué? ¿Cómo así? Si yo hice todo esto para ser profesor de la Universidad de los Andes.
+[SPEAKER_00]  Entonces, se demoró un poquito, después me contestó, me dijo, sí, sí, pero le toca encargarse de un proyecto de resolver problemas de programación. En ese momento, la mortalidad del curso de programación era enorme. O sea, pasar el curso de programación, el vicerrector, en ese momento yo me reuní con ellos, cuando yo llegué y me dijo, mire, es uno de los tres cursos problema de la universidad.
+[SPEAKER_00]  El nivel de insatisfacción de los estudiantes es tan alto.
+[SPEAKER_00]  La mortalidad es tan alta.
+[SPEAKER_00]  que se volvió un problema. Era al lado de una física y una matemática por allá que los tenían entre ojos porque no podía ser que la universidad tuviera esas evaluaciones y esos resultados.
+[SPEAKER_00]  Entonces, en ese momento arrancamos Cupidos.
+[SPEAKER_00]  Y fue, pues todo el mundo pregunta de dónde salió la palabra Cupidos, porque todo el mundo pensaba que era Cupidos del dios que los enamoraba con la programación y en realidad no, a Rodrigo Cardoso, que fue el que puso el nombre, no se le hubiera ocurrido algo tan romántico, tan bonito. Era, se llamaba Cupidos.
+[SPEAKER_00]  que era Currículo de Pregrado, Curso de Programación.
+[SPEAKER_00]  Entonces, ¿qué se llama? El Braille, el Braille se llama CUP.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Entonces le puse un 2 al final. Cup 2.
+[SPEAKER_00]  Y cuando ya se decía, decía, todos le puso una I y decía, ah, Cupidos, y cuadró. Pero todo el mundo se imagina que eso era un proyecto con una esencia, digamos, con un nombre así de bonito, y no, la gente no me cree que fuera Cup Cup, la versión original.
+[SPEAKER_00]  Y nos metimos a transformar por completo con Rubica Sayas, el curso de programación, los libros, el modelo.
+[SPEAKER_00]  por completo, y por completo quiere decir los resultados de eso los publicamos y los resultados de eso son impresionantes o sea, de ser el curso problema de la universidad se convirtió en el curso modelo de la universidad
+[SPEAKER_00]  los promedios.
+[SPEAKER_00]  La mortalidad baja, el alcance aumenta, las evaluaciones de los profesores aumentan, el promedio de los profesores sobre 5 de esos cursos comienza a estar alrededor de 4, 5 y 4, 6. Eso quiere decir son...
+[SPEAKER_00]  A todos les va bien, impresionante el cambio de copias. Ahí arrancan entonces esos libros, ya no se usan tanto, ya igual los dejé de hacer público abierto.
+[SPEAKER_00]  Y comencé yo a moverme hacia otros temas.
+[SPEAKER_00]  ¿Por qué hice Cupidos? Porque Rodríguez dijo que si no hacía Cupidos no me contrataban. O sea, que la única plaza era para hacer eso. Y yo dije, bueno, me lo tengo que ganarle, que cuatro años a eso.
+[SPEAKER_00]  Y esto es un memo y solo al tema de arquitectura.
+[SPEAKER_00]  En ese momento ya definí que lo mío era arquitectura.
+[SPEAKER_00]  Comencé a formarme, a formalizar los temas de arquitectura, a moverme a arquitectura de aplicaciones, arquitectura en todas las dimensiones.
+[SPEAKER_00]  y a lograr estructurar
+[SPEAKER_00]  En la dirección del departamento estructuré, diseñé toda la escuela de posgrados de hoy en día. La escuela de posgrados de hoy en día, las 7, 8 maestrías que tenemos ahorita, pues se nacen en la segunda dirección del departamento mía. Hago el nuevo cambio curricular de pregrado, cambiamos de nuevo el currículo de pregrado. Vamos mucho más hacia, de alguna manera, la visión que yo tenía de que la estructura es importante en todo.
+[SPEAKER_02]  De alguna manera.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Coordino la maestría en arquitectura de TI, ya lleva 13 años esa maestría, ahorita la coordino, y lo mío se volvió la arquitectura.
+[SPEAKER_00]  solo arquitectura la programación me parece muy interesante y muy bonita pero es que uno no tiene tiempo hacer de todo en la vida les abandonó los temas de programación cuando los temas formales ya no voy a estar justo en lenguaje en compiladores ni en semántica todos viste todos los cursos
+[SPEAKER_01]  abandono
+[SPEAKER_00]  Y me concentré solo en la arquitectura, pues para poder profundizar.
+[SPEAKER_00]  Y mi tema ahorita, pues es ese.
+[SPEAKER_00]  Hoy salgo a la dirección del departamento.
+[SPEAKER_00]  Comienza ya a aplicarme un poquito más el sector externo.
+[SPEAKER_00]  Los ángulos de la dirección de departamento eran muy académicos y la arquitectura, desafortunadamente, en el mundo académico no hay manera de hacer investigación, de construirla.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  uno necesita un problema grande para hacer la arquitectura. O sea, si el problema es, dígame si esto es un palindrome de voltear las cosas, las matrices y todo, pura programación, incluso cosas de sistemas, clientes, servidores, eso tiene arquitectura importante. La arquitectura está donde el problema está muy, o el problema es muy grande. Entonces ahí me pica, me voy hacia afuera y arranca la última de mis etapas ya en las profesionales.
+[SPEAKER_00]  que es el sector externo.
+[SPEAKER_00]  Me enamoro.
+[SPEAKER_00]  de las empresas.
+[SPEAKER_00]  Si algo es complejo, hoy en día...
+[SPEAKER_00]  que son las organizaciones.
+[SPEAKER_00]  Pero no la visión organizacional de la teoría de sistemas, sino la visión organizacional de la formalidad.
+[SPEAKER_00]  Por eso yo cada vez que hago un proyecto de arquitectura, yo tengo un curso en arquitectura de negocios, es lo mío ahora.
+[SPEAKER_00]  Les estoy dando ese curso, ese curso se lo dictó a todo el mundo, porque no hay quien dictó un curso en arquitectura de negocio, porque es una mezcla.
+[SPEAKER_00]  de la empresa, el negocio, y Rodrigo López. O sea, así lo describo, o sea, es la teoría, los lenguajes, las estructuras, la formalidad, la formalidad, porque mientras no logremos nosotros formalizar los conceptos, observar, diagramar el negocio, no vamos a poder hacer tecnología. Y ahora tengo un discurso muy crítico con respecto, después de haber llegado a ese punto, muy crítico con respecto a la manera como formamos a nuestros ingenieros de sistemas.
+[SPEAKER_00]  Es que ahora nos acostumbramos, yo creo que es un error.
+[SPEAKER_00]  Hoy, no hay que atesinar.
+[SPEAKER_00]  a que ellos, los señores, arrancamos desde los requerimientos.
+[SPEAKER_00]  Nosotros siempre estamos esperando que nosotros nos imaginamos y les vendemos a nuestros estudiantes que alguien del negocio nos va a decir que quiere y nosotros le decimos que tuvimos.
+[SPEAKER_00]  Y eso, hoy en día, es el fracaso tecnológico de las organizaciones. Entonces, arquitecturas fragmentadas, yo en toda la charla les digo, no podemos seguir haciendo caso, no podemos construir la tecnología por pedazos, nos tienen que explicar el todo para poder construir las partes, no las partes de a pedacitos. Hoy los departamentos de tecnología, con arquitecturas muy fragmentadas, muy reactivos, muy atrasados, las organizaciones aburridas de la tecnología, la tecnología no cumple, no satisface los requerimientos en el mundo entero, no es un tema de Colombia.
+[SPEAKER_03]  No las disfrutamos.
+[SPEAKER_00]  Y uno voltea a mirar y dice, es que así formamos los ingenieros de sistemas. Entonces mi pelea ahoritica, o mi pelea no, porque no he peleado con nadie, mi foco ahoritica es tratar de meter mucho más arquitectura, arquitectura a los programas.
+[SPEAKER_01]  No.
+[SPEAKER_00]  Por supuesto, eso no es fácil.
+[SPEAKER_00]  Pero yo sí siento que eso es un paso fundamental en lo que debería ser esa visión de la carrera. Necesitamos ir más arriba, necesitamos entender el negocio, no que nos lo planteen en términos de requerimientos. Mientras no entendamos el negocio, no vamos a hacer un buen trabajo de tecnología, eso lo tengo clarísimo.
+[SPEAKER_00]  Entonces, en ese recorrido empecé a entrar en juntas directivas.
+[SPEAKER_00]  Estoy en este momento en 5 o 6 juntas directivas, acompañando procesos grandes de empresas en transformación, asesor juntas directivas.
+[SPEAKER_00]  Y hace ocho años el salto grande, por eso es mi última etapa dentro de la universidad, empresa.
+[SPEAKER_00]  Montamos una empresa de consultoría que no ha hecho sino crecer. Es una cosa, en este momento, es una locura lo que hemos logrado hacer solo haciendo arquitectura.
+[SPEAKER_00]  Estamos a punto de abrir ya operación en varios países de Latinoamérica.
+[SPEAKER_00]  Tenemos proyectos, no se imaginan, en todos los sectores, de todos los tamaños, todos arquitectos, solo hacemos arquitectura, respiramos arquitectura todos y eso volvió mi obsesión.
+[SPEAKER_00]  Entonces ya yo en mi etapa final de la universidad, yo pues sigo en la universidad, hago investigación en arquitectura, dicto cursos en arquitectura, coordino la maestría en arquitectura y solo hablo de arquitectura. O sea, me vuelvo aburridísimo en ese tema porque para mí solo existe la arquitectura. Ese es como el foco.
+[SPEAKER_00]  Mi empresa.
+[SPEAKER_00]  solo egresados, gente que conozca, gente que hable del mismo vocabulario, la misma formación, yo los miro y digo, tienen que estructurar en la mente como yo estructuro, a la velocidad que yo estructuro, los formo así.
+[SPEAKER_00]  Y ha sido como una obsesión tener arquitectos que este data mezcla. O sea, yo en mí, cada vez que arranco un proyecto de arquitectura en proyectos súper complejos, estamos en los bancos, en grupos empresariales, en varios países, yo siento dentro de mí a Rodrigo López, a Camilo Rueda, a Arnold Schimann, la formalidad, la matemática, a Margarita, cada vez que Margarita me hablaba de estructuras, yo veo todas esas cosas dentro de los negocios, las empresas.
+[SPEAKER_00]  Y toda la arquitectura, que son mis nuevas publicaciones, mis nuevos libros, están orientadas a esa mezcla de esos dos mundos. A mezclar el mundo de mi formación con el mundo de las empresas para poder hacer una buena tecnología. Porque el objetivo mío es que si logramos tener los planos del negocio, podemos hacer buena tecnología. Si no tenemos los planos del negocio, no toca creer lo que otro no nos diga. Ese es todo mi argumento grande hoy en día, en mi visión de lo que debería ser la carrera.
+[SPEAKER_02]  Pues excelente, pues porque estamos viendo.
+[SPEAKER_02]  Las necesidades actuales y la tendencia es a formar más programadores técnicos, tecnológicos, pero bien lo dices, sin una visión.
+[SPEAKER_02]  general, holística, un pensamiento sistémico que permita...
+[SPEAKER_02]  entender qué es lo que están haciendo y para qué lo están haciendo.
+[SPEAKER_02]  Tú estás formalizando esta idea.
+[SPEAKER_02]  Y entonces, ¿cómo deberíamos...?
+[SPEAKER_02]  orientar a estos estudiantes nuevos.
+[SPEAKER_02]  cuando es el sector el que nos pide.
+[SPEAKER_02]  más tecnología, más tecnólogos, pero...
+[SPEAKER_02]  Y después cuando llegan...
+[SPEAKER_02]  están acostumbrados a los requerimientos y no al pensamiento organizacional.
+[SPEAKER_00]  Yo a eso no le tengo respuesta.
+[SPEAKER_00]  O sea, de verdad, ahora que me consultan para el nuevo cambio curricular, yo les digo, mire, ya yo hice dos cambios, yo lideré, no hice porque no hice nada, sino lo lideré, ya déjenme descansar, o sea, ya yo no soy el llamado a decir por dónde. Déjenme poner mis dudas, déjenme plantear cosas, pero yo no lo tengo claro. Y no lo tengo claro porque el mercado está esperando personas que reciban requerimientos, porque así se venden los ingenieros. El problema no es de las fábricas ni de los internet, es de la empresa final. Entonces, entramos en una empresa y está acostumbrada a contratar así, fábrica ese orden y le pongo requerimientos.
+[SPEAKER_03]  No, no.
+[SPEAKER_00]  ¿Cómo romper eso? No lo tengo claro. O sea, yo pienso que la formación de arquitectura, a lo mejor podría ser pregrado, no sé.
+[SPEAKER_00]  En este momento es posgrado.
+[SPEAKER_00]  y al honor es complementaria.
+[SPEAKER_00]  pero no veo cómo hacer ese salto sin perder la esencia de lo que es un ingeniero de sistemas de unión de ING, que es sobre todo la parte técnica, la parte de desarrollo, y cómo complementarlo sin perder.
+[SPEAKER_00]  ¿Cómo hacer más en cuatro años? Porque ahora son solo cuatro años.
+[SPEAKER_02]  Ahora son cuatro años.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Entonces, si en cinco años nosotros no alcanzábamos a ver todo.
+[SPEAKER_00]  En cuatro años.
+[SPEAKER_00]  Menos, entonces...
+[SPEAKER_00]  Mi punto de vista es, no, yo creo que las empresas tienen que entender que van a necesitar otros perfiles, a lo mejor los perfiles que vienen de posgrado, pero no renunciar a lo que somos nosotros como ingenieros de sistemas uniandinos, que es muy el desarrollo, muy la ingeniería, muy la construcción y el uso de las tecnologías para resolver requerimientos de otros.
+[SPEAKER_00]  Por lo menos no perdamos eso.
+[SPEAKER_00]  Y que si los reglamentos de otro me los construye alguien...
+[SPEAKER_00]  y están bien construidos, conectamos bien. El problema es que en esa mitad no hay nada. Los modelos de las empresas de gestión de requerimientos son prehistóricos. O sea, lo máximo que se han inventado es que haya alguien de tecnología en cada unidad de negocio y que les pregunten qué es lo que quieren. No, eso ya nos va a dar una arquitectura hiper fragmentada. No hay una visión consolidada de los datos. No hay una visión de eficiencia, de proceso. No hay una visión de nada de lo que hay por dentro. Entonces, no funciona. Pero tampoco funciona cambiar el pregrado. Para meter esos conocimientos no hay espacio.
+[SPEAKER_00]  Entonces ese es como mi dilema, por eso estoy en la maestría, por eso no suelto la continuación de la maestría.
+[SPEAKER_03]  Gracias a todos.
+[SPEAKER_00]  y estamos detrás de formarnos.
+[SPEAKER_00]  Y es que hay, por ejemplo, hay empresas que ya han entendido la importancia de la arquitectura. Es que me reunía con los, estoy en este momento intentando hacer un curso de los arquitectos de Abancolombia.
+[SPEAKER_00]  170 arquitectos tienen, y uno los mira y dice, ¿cuándo se tienen 170 arquitectos que ya se han dado cuenta que la arquitectura es un tema crítico?
+[SPEAKER_00]  dentro de la organización.
+[SPEAKER_00]  Yo no sabía que alguien tuviera tantos arquitectos, ni siquiera tantos desarrolladores debería haber en una organización.
+[SPEAKER_00]  Y me pongo a trabajar porque tengo mucha cercanía con muchos bancos y los equipos de arquitectura de la mayoría de empresas grandes son enormes. Entonces, ya se dieron cuenta las organizaciones. Los que no se han dado cuenta son los intermediarios, que son los que construyen las soluciones.
+[SPEAKER_00]  Pero, pues, paciencia, ya nos llegará el momento de introducir los dados, a lo mejor es otra carrera.
+[SPEAKER_00]  A lo mejor no sé cómo pegar las cosas, pero no hay espacio. O sea, yo sí ya me resigné.
+[SPEAKER_00]  a que se fuera tema del pregrado, nos toca seguir formando ingenieros de sistemas clásicos y esperar que alguien desde otro perfil, que puede ser de maestría, conecte esos dos mundos y que utilice a los ingenieros de sistemas para hacer pedacitos, pero que tengan sentido como un todo.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Manuel.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  ¿Quieres preguntar?
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  No, sí, no, ya digamos una de las conclusiones de este que habla es que...
+[SPEAKER_01]  sigue siendo profesor porque es una enseñanza.
+[SPEAKER_01]  Como yo digo, mirando desde la luna...
+[SPEAKER_01]  el proyecto de vida.
+[SPEAKER_01]  No sabías qué ibas a estudiar.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  No.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  porque por donde comienzo, entro, no sé qué es lo que voy a estudiar, qué es esto donde estoy yo.
+[SPEAKER_01]  Y comienza ese proceso, primero de relacionamiento con personas valiosas.
+[SPEAKER_01]  una observación enorme sin crítica en el buen sentido.
+[SPEAKER_01]  de lo que son y de lo que hacen.
+[SPEAKER_01]  que tú quisieras ser, que esa es una expresión muy importante.
+[SPEAKER_01]  clasificas tus cinco profesores
+[SPEAKER_01]  modelo, creo que son cinco.
+[SPEAKER_01]  Es muy interesante eso.
+[SPEAKER_01]  Y finalmente...
+[SPEAKER_01]  mirando retrospectivamente porque uno dice
+[SPEAKER_01]  cómo una persona como Jorge llegó a donde está.
+[SPEAKER_01]  de una manera tan valiosa.
+[SPEAKER_01]  Y eso es lo que estas charlas...
+[SPEAKER_01]  serán una gran enseñanza a quienes...
+[SPEAKER_01]  Después vamos a mostrar estas entrevistas, ¿no?
+[SPEAKER_01]  Además, porque después hemos reconocido.
+[SPEAKER_01]  Muy interesante y además muy...
+[SPEAKER_01]  Muy...
+[SPEAKER_01]  No sé qué palabra usar, chusco, que ha llegado al tema empresarial.
+[SPEAKER_01]  que lo estés viviendo, porque seguramente en alguna época como académico no lo mirabas.
+[SPEAKER_03]  Y el usted...
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  pero en tu hoja de vida se ve como, por ejemplo, el tema de la arquitectura.
+[SPEAKER_01]  te fue apasionando muchísimo, ¿no?
+[SPEAKER_03]  Porque...
+[SPEAKER_01]  que tomaste todas las arquitecturas que había.
+[SPEAKER_01]  en cierto momento,
+[SPEAKER_01]  y lo está demostrando ahora en este momento.
+[SPEAKER_01]  La arquitectura empresarial que estoy leyendo.
+[SPEAKER_01]  arquitectura de negocios y estrategia empresarial, arquitectura de procesos de negocios.
+[SPEAKER_01]  Arquitectura e integración orientada a servicios y microservicios.
+[SPEAKER_01]  y arquitectura de referencia de soluciones y de software.
+[SPEAKER_01]  que está en tu hoja de vida.
+[SPEAKER_01]  De tal manera que es muy consistente con esa obsesión.
+[SPEAKER_00]  manera que es
+[SPEAKER_01]  sobre el tema y sobre todo que lo estás platicando desde la empresaria que es muy interesante, es un gran mensaje Sí, claro
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  El académico puede volver.
+[SPEAKER_03]  El médico puede...
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Bueno, yo creo que...
+[SPEAKER_02]  Bueno, yo creo que...
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Espera, yo digo, tú también has asesorado al gobierno, por ejemplo, asesoraste el tema de los 100.000 programadores.
+[SPEAKER_03]  Dale.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02] 
+[SPEAKER_02]  Y bueno, que...
+[SPEAKER_02]  ¿Qué satisfacción te generó ese tipo de trabajo? ¿Cómo has estado relacionado con eso?
+[SPEAKER_02]  las entidades del Estado.
+[SPEAKER_02]  ¿Cómo has visto la proyección de tecnología de los planes estratégicos?
+[SPEAKER_02]  y las arquitecturas gubernamentales.
+[SPEAKER_00]  Yo he apoyado muchísimo a entidades del Estado. O sea, lo primero fue el marco de referencia, arquitectura empresarial, en su primera versión, en su segunda versión, yo los acompañé. Eso me deja, digamos, una...
+[SPEAKER_00]  como una alegría de haber logrado hacer esas cosas, de haber impactado. Pero yo me acuerdo mucho...
+[SPEAKER_00]  Y eso fue, y lo conecto con la razón de crear la empresa, María Isabel Mejía, a quien aprecio muchísimo, era la viceministra.
+[SPEAKER_00]  Diseñamos el tema del marco, los apoyé.
+[SPEAKER_00]  Ella me decía, pero ¿quién va a hacer esto? ¿Dónde están las consultoras que lo hacen?
+[SPEAKER_00]  Yo le dije a las constructoras, apareciera por el camino.
+[SPEAKER_00]  Y para sorpresa mía, no aparecieron.
+[SPEAKER_00]  Las empresas que esperábamos que hicieran ese marco y que lo aplicaran, nunca parecieron y empezaron los fracasos de los proyectos de arquitectura.
+[SPEAKER_00]  Se hizo una segunda versión para tratarlo de ajustar.
+[SPEAKER_00]  Pero en ese momento, ahí fue donde tomamos la decisión de que mejor hagamos una empresa para hacer eso. Bien hecho.
+[SPEAKER_00]  Nosotros que sabemos cómo se hace, hagámoslo.
+[SPEAKER_00]  Y el sello nuestro ha sido ese.
+[SPEAKER_00]  Es solo que no lo tenemos.
+[SPEAKER_00]  Fuerza comercial, no tenemos nada, nosotros solo vendemos en el voz a voz. Eso es impresionante, cómo puede uno lograr solo con hacer las cosas bien hechas.
+[SPEAKER_00]  Después lo de 100 mil programadores.
+[SPEAKER_00]  Y muchas otras, yo los apoyé en el Carpeta Ciudadana, los apoyé en el Marco de Interoperabilidad, yo los apoyaba a todos, a MinTIC y a muchas instituciones.
+[SPEAKER_00]  Pero ahí solo me queda frustración.
+[SPEAKER_00]  O sea, los ciclos políticos.
+[SPEAKER_00]  son un tema que no nos van a dejar salir adelante como país.
+[SPEAKER_00]  Los ciclos políticos, la falta de una visión consolidada del futuro, de disciplina de construir, evita que algo funcione. Yo veo carpetas ciudadanas, yo hice los primeros diseños de la arquitectura, el marco de interoperabilidad, lo mismo, eso en las primeras cosas. He pasado por acompañar al Estado en muchas decisiones, casi todas han sido un fracaso.
+[SPEAKER_00]  Casi todas, el tema se hace el diseño, se hace la tecnología, el problema no es ni tecnológico, ni de diseño, ni nada político. Entonces llega el siguiente viceministro y dice, ah, no, pero ¿quién hizo esto? Yo voy de para allá. Y cambian de rumbo.
+[SPEAKER_00]  Lo de los 100.000 programadores.
+[SPEAKER_00]  sencillamente pues todos saben, era la ministra Karen Audín en la que lo lideraba, como el nombre de ella quedó tan mal.
+[SPEAKER_00]  a nivel público, le echaron tierra encima al proyecto para que no se viera. Entonces se ejecutó, pero con tierrita por encima, sin ninguno de ellos.
+[SPEAKER_00]  Están los resultados, nadie los ha hecho analítica.
+[SPEAKER_00]  Están los resultados, nadie ha cogido los resultados para aprender de allá y decirle al país cómo debería aprender. Se hizo un análisis de cómo aprendían, de las estrategias, de las metodologías, para 100 mil personas. Yo le digo, eso es una fuente de información para poder, como país, aprender a hacer cosas. Cero. Todo guardado, engavetado, nada, a todo le quieren echar tierrita y se desaprovechó una oportunidad y un aprendizaje. Formamos los programadores, pero nadie sabe dónde están, ni qué hicieron, ni si fue exitoso. Entonces, eso es una frustración enorme.
+[SPEAKER_00]  Entonces el Estado, eso duele, o sea, formar al Estado, ayudar al Estado es una cosa un poquito complicada.
+[SPEAKER_02]  No lo comprendo.
+[SPEAKER_02]  Bueno, muchas gracias por eso.
+[SPEAKER_02]  Listo, Manuel, dirás.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  No, fíjate que de proyecto inteligente en el año 2000, ¿te acuerdas Jorge?
+[SPEAKER_01]  De acuerdo que fue un fracaso, ¿no?
+[SPEAKER_01]  Cuando llegó el de los 100.000 programadores, la única esperanza de nosotros desde redes era que estabas tú. Te lo digo sinceramente.
+[SPEAKER_01]  Sí, pero volvemos a revivir esto del político que era índice de gestión para decir...
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  pero...
+[SPEAKER_01]  porque el presidente terminó diciendo que iban a ganar 4 mil dólares mensuales después de unos cursitos.
+[SPEAKER_01]  El mismo presidente, bueno.
+[SPEAKER_01]  Pero de todas maneras, la esperanza que nos diste, además estuvimos trabajando contigo, ¿te acuerdas que te llamamos de Reyes?
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  poco con mi madre la cosa.
+[SPEAKER_01]  Fue un gran esfuerzo de todas maneras. Yo creo que con el Estado...
+[SPEAKER_01]  se hacen esfuerzos, no importa que haya un poquito de frustración en el proceso.
+[SPEAKER_01]  y
+[SPEAKER_01]  Bueno, yo creo que estamos al final ya de la charla.
+[SPEAKER_01]  Muy buena. Mira que varios de los que has mencionado han pasado ya por acá, Jorge.
+[SPEAKER_01]  Y después vas a ver cómo va resultando esta cadena, ¿no?
+[SPEAKER_01]  de los años...
+[SPEAKER_03]  años
+[SPEAKER_01]  con eso
+[SPEAKER_01]  Pero ese proyecto de vida es sumamente valioso escucharlo.
+[SPEAKER_01]  Y pues desearte éxitos en lo que sigue, que estás trabajando, no has parado.
+[SPEAKER_01]  que está muy bien.
+[SPEAKER_01]  De tal manera que te agradecemos y nos seguimos.
+[SPEAKER_00]  Y que me quedan 20 años de vida profesional. Yo me prometí que voy a trabajar mientras pueda caminar.
+[SPEAKER_01]  que me cambia
+[SPEAKER_00]  entonces, el proyecto trabaja hasta los 80 años hasta donde lo logre y me aguante entonces por aquí seguiré luchando por la informática en el país, muchas gracias Edgar, Manuel, Beatriz un gusto verlos de verdad, esto debemos charlarlo con un whisky y no grabando y no podemos hablar de las cosas incorrectas políticamente incorrectas porque también hay cosas que no se pueden decir
+[SPEAKER_03]  jajaja
+[SPEAKER_03]  Bueno, sí.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  ¡Viva!
+[SPEAKER_02]  Un gusto.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Con seguridad vamos a tener la reunión.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  seguramente sí
+[SPEAKER_00]  seguro
+[SPEAKER_02]  No hay problema.
+[SPEAKER_01]  Pero, pero, si la, si la...
+[SPEAKER_00]  Pero es que...
+[SPEAKER_01]  esencial de un grupo.
+[SPEAKER_01]  podemos hacerlo, porque estamos en los 80, son 50 años, no sé a qué vamos en.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  en el camino.
+[SPEAKER_01]  Muchas gracias Jorge, bueno que ustedes...
+[SPEAKER_02]  Gracias, Iván.
+[SPEAKER_02]  Nosotros hemos intentado...
+[SPEAKER_02]  conectar a Marcela y a...
+[SPEAKER_02]  y a Rubi.
+[SPEAKER_02]  Pero no hemos logrado respuesta. Entonces, a ver si tú puedes...
+[SPEAKER_02]  hablar con ellas.
+[SPEAKER_02]  y
+[SPEAKER_02]  Pues ya que hiciste el procedimiento, pues sabes de qué se trata.
+[SPEAKER_02]  Y pues que alguna de las dos nos pueda responder, pues sería fantástico.
+[SPEAKER_00]  Yo hablo con ellas ya mismo, ellas me oyen. Esta mañana hablé con Rubi, con Marcela, solo decirles que no es un tema complicadísimo. Cualquiera puede sacar una hora, hora y media.
+[SPEAKER_02]  Sí
+[SPEAKER_00]  Yo estoy convencido que ambas van a contestar.
+[SPEAKER_02]  Bueno, muy querido, muchas gracias. Bueno, ok. Entonces, felicidades. Muy bien. Muy bien. Feliz tarde para todos.
+[SPEAKER_00]  Bueno, ok. Entonces, felicidades.
+[SPEAKER_01]  listas de para todos.
+[SPEAKER_01]  Gracias, cerramos la sesión. Yo tomé la foto, ay se me fue pero alcancé a tomar la foto.
+[SPEAKER_00]  Yo tomé la foto.
+[SPEAKER_01]  Ah, bueno, bueno, bueno, si quiera, está bien. Muy interesante, siempre es un gusto este espacio.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  muy queridos
+[SPEAKER_01]  Sí.
