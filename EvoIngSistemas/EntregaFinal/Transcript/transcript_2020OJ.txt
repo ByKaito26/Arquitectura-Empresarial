@@ -1,0 +1,2147 @@
+[SPEAKER_01]  ¡CAM!
+[SPEAKER_00]  Bien, muy buenas tardes nuevamente para todos.
+[SPEAKER_00]  Hoy estamos, además del equipo ya tradicional en estas entrevistas, Manuel Dávila, Edgar Ruiz, Ben Luis Caicedo, Sandra Rojas, Kevin Gerdón, nos acompaña Osman Jiménez. Osman es un ingeniero de sistemas.
+[SPEAKER_00]  que ya nos contará.
+[SPEAKER_00]  Todos los detalles.
+[SPEAKER_00]  No me quiero extender o quedarme yo en presentaciones.
+[SPEAKER_00]  sino más bien abordar directamente
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  los temas con Oswald, no sin antes hacer algo que es bien importante.
+[SPEAKER_00]  Gracias, Osman, por atender este llamado, por aceptar la invitación.
+[SPEAKER_00]  y por tener presente que este tipo de...
+[SPEAKER_00]  de experimentos y de proyectos que estamos adelantando.
+[SPEAKER_00]  con la participación de cada uno.
+[SPEAKER_00]  de nuestros entrevistados, pues resultará afectando positivamente
+[SPEAKER_00]  lo que pasa con las vidas.
+[SPEAKER_00]  de las nuevas generaciones que vienen alrededor de la ingeniería de sistemas. Entonces, muchas gracias Oswald por...
+[SPEAKER_00]  por aceptar la invitación.
+[SPEAKER_02]  No, gracias a ustedes por la invitación. Estoy muy feliz de estar acá.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  y
+[SPEAKER_02]  vamos a
+[SPEAKER_00]  a darle
+[SPEAKER_00]  Vale, vamos a pasar una tarde chévere.
+[SPEAKER_00]  Entonces, Osman, sin mucho preámbulo.
+[SPEAKER_00]  La idea es que hablemos de tu historia del trasegar en la ingeniería de sistemas.
+[SPEAKER_00]  Mmm
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  Entonces, la primera pregunta es, o más bien la solicitud, es que nos describas un poco.
+[SPEAKER_00]  Eh...
+[SPEAKER_00]  Que te vayas unos cuantos años atrás
+[SPEAKER_00]  No va a pasar como con nosotros que serían muchos, contigo va a ser menos.
+[SPEAKER_00]  Pero...
+[SPEAKER_00]  Vete unos cuantos años atrás.
+[SPEAKER_00]  cuando estás en el colegio.
+[SPEAKER_00]  cómo es la familia.
+[SPEAKER_00]  ¿De dónde vienen estas inclinaciones hacia estas disciplinas o cómo se generó?
+[SPEAKER_00]  qué pasaba en la vida de ese niño.
+[SPEAKER_00]  Quiero.
+[SPEAKER_00]  le tuvieron que pasar cosas, incluso antes, un poco, de tomar la decisión de acercarse a la ingeniería de sistemas.
+[SPEAKER_00]  Entonces, háblanos por favor de...
+[SPEAKER_00]  de cómo fue todo ese proceso, cómo fue esa primera parte.
+[SPEAKER_00]  de la
+[SPEAKER_00]  de la historia de Osma Jiménez.
+[SPEAKER_01]  No olviden mencionar años, Osman, ¿no?
+[SPEAKER_01]  Cuando pueda, año tal, año tal.
+[SPEAKER_00]  Buenas tardes.
+[SPEAKER_01]  Seguir adelante.
+[SPEAKER_01]  Ahí la...
+[SPEAKER_03]  Listo. Bueno, pues, a ver, para darles contexto un poco, bueno, ahorita yo tengo 28 años, entonces ahí se me escapan las fechas un poquito, pues, bueno.
+[SPEAKER_03]  Yo...
+[SPEAKER_03]  Estudié en...
+[SPEAKER_03]  en el colegio.
+[SPEAKER_03]  en el colegio que se llama el Instituto Técnico Central de la Salle.
+[SPEAKER_03]  Es un colegio público.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  que queda ubicado en el centro.
+[SPEAKER_02]  vota
+[SPEAKER_02]  como por la 13. Y digamos que es bastante...
+[SPEAKER_02]  Amor.
+[SPEAKER_03]  en la Universidad Nacional, que fue donde estudié. Ya pasaremos allá.
+[SPEAKER_03]  porque digamos que es un colegio un poquito estricto, entonces incluso para entrar al colegio...
+[SPEAKER_03]  hay que hacer un examen de admisión.
+[SPEAKER_03]  Digamos que...
+[SPEAKER_03]  Bueno, eso fue todo un tema de preparación para entrar.
+[SPEAKER_03]  Nos pusieron para ahí como un profesor. Mis hermanos ya habían estudiado ahí. De hecho, mi hermano mayor que me lleva como...
+[SPEAKER_03]  El señor Itaco.
+[SPEAKER_03]  39 años, ya como 11 años. Él estudió allá, luego mi hermano, que me lleva 4 años, estudió allá. Entonces cuando yo entré a ese colegio, mi hermano...
+[SPEAKER_03]  También estudiaba conmigo, él estaba en noveno.
+[SPEAKER_03]  el noveno décimo, ah no perdón, él estaba en once cuando yo entré
+[SPEAKER_03]  Entonces fue como un proceso chévere porque yo estaba ahí con mi hermano, él como que me guiaba y me decía...
+[SPEAKER_03]  Bueno, hay que hacer esto, estos profesores son así, que no sé qué.
+[SPEAKER_03]  en este colegio.
+[SPEAKER_03]  nosotros tenemos como
+[SPEAKER_03]  una materia que se llama taller o especialidad.
+[SPEAKER_03]  Entonces es un día a la semana en el que uno puede...
+[SPEAKER_03]  probar diferentes talleres. Entonces, había cosas como, por ejemplo,
+[SPEAKER_03]  Aprender a fundir cosas, aprender a hacer cosas en madera.
+[SPEAKER_03]  temas de metalistería.
+[SPEAKER_03]  Y había el tema de electricidad.
+[SPEAKER_03]  Amén.
+[SPEAKER_03]  y había unos que eran temas de sistemas.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  Entonces era como, en esa época, era como usar Karen.
+[SPEAKER_03] 
+[SPEAKER_03]  que es como este robotcito que no le dan las instrucciones y que no le dice cómo muevas de la derecha a la izquierda y no sé qué
+[SPEAKER_03]  Y pues a mí me llamaba mucho la atención, digamos, porque pues era como algo muy lógico, ¿no? Entonces, ¿qué avance, avance tanto?
+[SPEAKER_03]  de...
+[SPEAKER_03]  vuelta a la derecha, avance cinco pasos y así, y había como que...
+[SPEAKER_03]  La idea de algunos programas era como que él estaba encerrado en un laberinto y había que encontrar la salida. Entonces uno tenía que escribir un código a punta de esos comandos de avance, avance, gire, avance, avance, no sé qué.
+[SPEAKER_03]  para salir del laberinto.
+[SPEAKER_03]  Entonces esas fueron como las primeras aproximaciones, en séptimo, cuando yo estaba en séptimo grado.
+[SPEAKER_03]  pues digamos que yo pasé por esa especialidad de sistemas.
+[SPEAKER_03]  Y no duraba como tres meses, uno pasaba por varias.
+[SPEAKER_03]  Y cuando ya uno pasaba a octavo, tenía que escoger.
+[SPEAKER_03]  Cuál era...
+[SPEAKER_03]  pues la especialidad en la que se va a quedar de ahí hasta 11.
+[SPEAKER_03]  Entonces, pues obviamente yo ahí dije como pues a mí no me gusta mucho como tanto como...
+[SPEAKER_02]  trabajo físico y eso era como
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  tocaba como en las otras especialidades ir a echar pala y un montón de cosas.
+[SPEAKER_03]  En las otras...
+[SPEAKER_03]  un montón de cosas así
+[SPEAKER_03]  Entonces, pues era como, siendo un niño, pues no me parecía muy pesado.
+[SPEAKER_03]  Entonces, mi hermano también estaba en la especialidad de sistemas, había estado ahí.
+[SPEAKER_03]  Y pues el medio pues es bien, es fácil.
+[SPEAKER_03]  Entonces yo dije, bueno, pues, votámonos a esa. Y además, pues, que a mí me iba más o menos bien en las matemáticas y en la clase de informática.
+[SPEAKER_03]  La clase de informática querían hacer otros trabajos como de...
+[SPEAKER_03]  También de programación, pero...
+[SPEAKER_03]  Bueno, no tanto en programación, sino era como...
+[SPEAKER_03]  hacer figuras con un robotcito que se llamaba...
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  ¿El logo tal vez? Sí, el logo.
+[SPEAKER_00]  ¿Y luego tal vez?
+[SPEAKER_00]  ¡Gracias!
+[SPEAKER_00] 
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  como que no hacían unas figuras y habían varios retos esto me parecía chévere porque era como como hago esto y yo era pues de las pocas personas que llegaba con la tarea hecha a veces bien
+[SPEAKER_02]  mano también obviamente me ayudaba.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Pero pues como que me gustaba. Entonces digamos que ahí ya empecé como a meterme por ese campo.
+[SPEAKER_03]  Y cuando llegué a octavo...
+[SPEAKER_03]  Pues...
+[SPEAKER_03]  Uno pensaría que todo iba a ser maravilloso, pero no, porque de hecho el profesor que nos tocó...
+[SPEAKER_03]  Se nos tocó como el peor profesor posible que existía en la historia de programación.
+[SPEAKER_03]  o de sistemas, porque el profesor nos metía mucho miedo. Entonces, él nos explicaba cosas como los diagramas de flujo, y que era un algoritmo, y que no sé qué.
+[SPEAKER_03]  Nos mandaba como de un miércoles al miércoles de la siguiente semana.
+[SPEAKER_03]  Nos mandaba como 100 ejercicios, que era hacer 100 diagramas de flujo y todo.
+[SPEAKER_00]  tiene...
+[SPEAKER_03]  pero uno no entendía que era lo que estaba haciendo. Entonces fue muy traumático porque me acuerdo que todos en el curso...
+[SPEAKER_03]  Nadie entendía nada. Solo había como una persona que medio entendía las cosas. Entonces lo que hacíamos era...
+[SPEAKER_03]  Pues nos copiamos de él.
+[SPEAKER_03]  nos copiamos y todos teníamos lo mismo y en la final nadie sabía qué estaba haciendo
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Entonces era como medio año así, en puro papel.
+[SPEAKER_03]  Y luego los que más o menos sabían...
+[SPEAKER_03]  o lograban como completar las tareas.
+[SPEAKER_03]  pasaban como a la sala de sistemas.
+[SPEAKER_03]  y pues uno en esa época lo que quería era simplemente pasarlas al sistema de saberse a la gente.
+[SPEAKER_02]  jugar
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  ¿Por qué no?
+[SPEAKER_00]  Más o menos en qué año estamos hablando.
+[SPEAKER_02]  Estamos hablando como en 2000, a ver, yo entré en 2013, como en 2008 más o menos, 2008-2009.
+[SPEAKER_02]  Sí.
+[SPEAKER_02]  Ahí es lo que uno quería.
+[SPEAKER_03]  era irse a jugar
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Y digamos que uno era como muy...
+[SPEAKER_03]  como que buscaba cómo hacer que no lo pillaran que no estaba jugando. Entonces uno era de esos que se descargaba los programas para cambiar rápido la pantalla o para tener como un fondo ahí que pareciera que no estuviera trabajando, pero no.
+[SPEAKER_03]  Entonces, digamos que hay uno...
+[SPEAKER_03]  Como que se daba cuenta que le gustaba, le gustaba como cacharrearle, como...
+[SPEAKER_03]  como las cosas tecnológicas.
+[SPEAKER_03]  Eh... y...
+[SPEAKER_03]  bueno, entonces cada año
+[SPEAKER_03]  teníamos como un profesor diferente supuestamente, pero nos tocó con ese profesor.
+[SPEAKER_03]  dos años, entonces cuando yo estaba en noveno
+[SPEAKER_03]  o del 2009.
+[SPEAKER_03]  no, 2010 ahí ya
+[SPEAKER_03]  Y pues ahí nos tocó como hacer una gestión para, pues para, o sea nos quejamos todo el curso y al final el profesor pues lo terminaron echando. Y ahí empezaron a traer pues ya como profesores más especializados, por así decirlo. Entonces ahí...
+[SPEAKER_03]  Me acuerdo mucho que...
+[SPEAKER_03]  empezamos a ver
+[SPEAKER_03]  y bueno
+[SPEAKER_03]  En ese entonces, nosotros veíamos, cuando estaba el octavo, o sea, el año anterior, veíamos C++.
+[SPEAKER_03]  Pues claramente es súper difícil, entonces nadie entendía nada.
+[SPEAKER_03]  Ya después empezamos a ver cosas como en Excel, trabajar con Visual Basic, pues era un poquito más gráfico.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  también empezamos a trabajar con...
+[SPEAKER_03]  y
+[SPEAKER_03]  como hacer con PHP para hacer como páginas web y cosas así con HTML.
+[SPEAKER_03]  Tenemos como unos libros guía.
+[SPEAKER_03]  Pero pues esos libros guías eran como páginas de internet que alguien había sacado y había copiado y pegado.
+[SPEAKER_03]  Entonces uno va ahí medios, iba haciendo lo que podía.
+[SPEAKER_03]  Pero pues digamos que esos profesores sí sabían un poquito más.
+[SPEAKER_03]  de que estaban hablando, entonces como que más o menos lo guiaban a uno.
+[SPEAKER_03]  Igual me acuerdo que a mí me daba bastante duro, o sea, yo no era de los mejores en el curso, era como...
+[SPEAKER_03]  como promedio, como que entendía cositas, pero eran cosas que, súper perdido.
+[SPEAKER_03]  Entonces, pues ahí solía recurrir a mi hermano, que más o menos sabía más cosas.
+[SPEAKER_03]  y pues se le da el clima, ¿y cómo se va?
+[SPEAKER_03]  Y bueno, así fue, en décimo...
+[SPEAKER_03]  también, como que ahí ya empezamos a ver algunas de las bases de datos
+[SPEAKER_03]  Y...
+[SPEAKER_03]  Bueno, hubo algo y es que en décimo...
+[SPEAKER_03]  salió la oportunidad para presentarse a estas competencias de programación, pero de colegio.
+[SPEAKER_03]  Entonces...
+[SPEAKER_03]  Yo me presenté.
+[SPEAKER_03]  porque nos obligan a todos a presentarnos.
+[SPEAKER_03]  Yo me presenté, pero no pasaba. O sea, yo no pasé.
+[SPEAKER_03]  En ese entonces yo no sabía bien ni cómo funcionaba un ciclo for. Me acuerdo que sabía a la perfección cómo funcionaba el if.
+[SPEAKER_03]  Pero de resto era como...
+[SPEAKER_03]  como que me perdía mucho. Entonces yo lo intenté dos veces y no pasé. Pero mis amigos, dos amigos de mi curso, sí pasaron. Entonces ellos pues ya fueron allá a entrenar y pues obviamente ya era un nivel súper alto.
+[SPEAKER_03]  y fueron como progresando mucho. Entonces ellos ya avanzaron.
+[SPEAKER_03]  Muchísimo. Y eran los que nos ayudaban después a nosotros.
+[SPEAKER_03]  en las cosas que no entendíamos en las diferentes materias.
+[SPEAKER_03]  Pero también, digamos que a mí en ese entonces, como que se me daba bien, entre comillas, lo que eran las páginas web y HTML.
+[SPEAKER_03]  salió una competencia.
+[SPEAKER_03]  que era en la Conrad Lorenz.
+[SPEAKER_03]  Era para...
+[SPEAKER_03]  para ir a competir para hacer el reconocimiento de HTML.
+[SPEAKER_03]  Me acuerdo que...
+[SPEAKER_03]  Era como, la competencia era un poco diferente a lo que uno se imaginaba porque era de conceptos, entonces decían como...
+[SPEAKER_03]  mostrar una imagen y decir como bueno si tenemos esta tabla de acá
+[SPEAKER_03]  o este texto de acá, qué etiqueta tenemos que usar para que el texto se vea de tal forma.
+[SPEAKER_03]  Me acuerdo mucho que era como, o sea, había unos botones.
+[SPEAKER_03]  y uno tenía que presionar, el primero que presionaba era el primero que respondía.
+[SPEAKER_03]  Yo no sé cómo es, ¿eh?
+[SPEAKER_03]  Pero al final terminé ganando esa vaina, o sea, fue como...
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  ¿Preguntaron algo?
+[SPEAKER_02]  que yo ese día había leído
+[SPEAKER_02]  En el libro este que les digo donde habían...
+[SPEAKER_02]  cosas acá en internet.
+[SPEAKER_02]  Esto fue como...
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Es esta vaina.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Y bueno, yo me acuerdo que gané.
+[SPEAKER_03]  Y fue chido porque ahí me dieron un computador chiquito, como un portátil, pero chiquito. En ese entonces era muy difícil uno...
+[SPEAKER_03]  para tener como un computador. De hecho, nosotros...
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Sí teníamos uno, pero era uno muy viejo y pues muy lento.
+[SPEAKER_03]  Entonces eso fue como una motivación muy chévere, nos dieron un trofeo que...
+[SPEAKER_03]  Lo tengo por ahí guardado.
+[SPEAKER_03]  Entonces fue como, che, como, ay, vea, pues, o sea, como que son las competencias esta...
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  ¡Gracias!
+[SPEAKER_00]  Entonces ya es el próximo.
+[SPEAKER_02]  Entonces ya es el próximo.
+[SPEAKER_00]  Algo que ocurre no solamente estando...
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Vale anotar para quienes no lo conozcan, el ambiente del técnico central pues también tiene...
+[SPEAKER_00]  tiene su toque cercano a...
+[SPEAKER_00]  a la educación superior, ¿no?
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  de
+[SPEAKER_00]  de Educación Media, pues están en contacto.
+[SPEAKER_00]  en los mismos espacios con estudiantes de educación superior.
+[SPEAKER_00]  Y eso es un experimento bien interesante.
+[SPEAKER_00]  Y además, en este caso particular,
+[SPEAKER_00]  Mmm.
+[SPEAKER_00]  Sin saber que era un foro.
+[SPEAKER_00]  Ya le has cogido más de tiro al poco.
+[SPEAKER_02]  No, ahorita sí.
+[SPEAKER_02]  Ahorita sí, pero...
+[SPEAKER_00]  Pero sin saber que era un Foddy manejando un IFA.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Bien.
+[SPEAKER_00]  Decían por allí pues...
+[SPEAKER_00]  Soy súbdito del azar, siempre se ha dicho.
+[SPEAKER_00]  Entonces, el azar jugó su juego, ¿no?
+[SPEAKER_00]  Qué interesante porque...
+[SPEAKER_01]  No, no, no.
+[SPEAKER_00]  Porque por azar resultaron preguntando algo que habías...
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  que habías estudiado o leído casualmente en esos días, tal vez incluso el mismo día.
+[SPEAKER_00]  Y dije, oiga, esto de las competencias es como chévere.
+[SPEAKER_00]  Y ya veremos en qué termina esto de las competencias, que es como chévere porque...
+[SPEAKER_00]  Porque me preguntaron, y la causa primera resulta en que me preguntaron una cosa que había leído ese día y...
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  No sé ni cómo oprimí el botón más rápido que los demás.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  jajaja
+[SPEAKER_00]  Interesante eso.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  haciendo referencia al Instituto Técnico Central.
+[SPEAKER_01]  Los hermanos cristianos.
+[SPEAKER_01]  que vinieron de Francia
+[SPEAKER_01]  El día del maestro es el día de San Juan Bautista de la Salle.
+[SPEAKER_01]  No es el día de los jesuitas. Yo por esto en la Javeriana, yo tengo una maestría de la Javeriana en filosofía.
+[SPEAKER_01]  Y para molestarlos, a los ciencitas les digo...
+[SPEAKER_01]  que el día del maestro de San Juan Bautista de la Salle.
+[SPEAKER_01]  y realmente han sido un modelo como maestros.
+[SPEAKER_01]  ¿No?
+[SPEAKER_01]  Y el Instituto Técnico Central, yo no sé si siga todavía ya como rector.
+[SPEAKER_01]  Arias Tuardila.
+[SPEAKER_01]  creo que es hermano cristiano, fue un rector importante.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Y personalmente, pues yo soy la sallista, ¿no? Del instituto, que era...
+[SPEAKER_01]  que era el otro, ¿no?
+[SPEAKER_01]  Y únicamente por pura anécdota.
+[SPEAKER_01]  El himno del colegio, a ver si se acuerda, Osvaldo, no sé si es el mismo.
+[SPEAKER_01]  comenzaba diciendo
+[SPEAKER_01]  diciendo
+[SPEAKER_01]  colegio de la Salle tan querido, no sé si sea el mismo.
+[SPEAKER_01]  Y decía, aquí nos tienes hoy vibrantes de emoción.
+[SPEAKER_01]  Y el corazón de gratitud enchido y cada labio modulando una canción. Esa es la primera. Y la segunda, no voy a mencionar ninguna más.
+[SPEAKER_01]  Decía, ciencia y virtud es nuestro lema.
+[SPEAKER_01]  Eso es muy importante, ¿cierto?
+[SPEAKER_01]  que ostentamos con honor y que defienden las aristas.
+[SPEAKER_01]  Con ardor.
+[SPEAKER_01]  El tema del asalle tiene la característica de una formación integral.
+[SPEAKER_01]  A uno le enseñaban, por lo menos en el instituto, física, matemática, filosofía, literatura.
+[SPEAKER_01]  Es decir, una integralidad.
+[SPEAKER_05]  ¡Gracias!
+[SPEAKER_01]  donde todo era importante. Eso es muy bueno. Lástima que haya tenido ese profesor.
+[SPEAKER_01]  que contaste pero bueno la vida es también
+[SPEAKER_00]  da las vueltas necesarias
+[SPEAKER_00]  Pero además también...
+[SPEAKER_00]  Sí.
+[SPEAKER_00]  Esa es otra cosa que se refiere, que tiene que ver con el...
+[SPEAKER_00]  con el instinto de supervivencia.
+[SPEAKER_00]  Y es, teníamos un mal profesor.
+[SPEAKER_00]  Y como nadie entendía nada, al final todos nos copiábamos del que medio entendía.
+[SPEAKER_01]  Pero el camino que dijo Oswald.
+[SPEAKER_00]  Sí.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Ok, sigue Osvaldo, por favor.
+[SPEAKER_01]  Sí, sí.
+[SPEAKER_01]  Un homenaje al colegio. Adelante, Orma.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  ¡Eeeeh! Bueno, tú te salís, pa' allá.
+[SPEAKER_02]  Bueno, tú estás ahí.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Yo empecé como a...
+[SPEAKER_02]  A meter min más.
+[SPEAKER_03]  de estas competencias en general. Entonces, digamos que...
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Ahí salió un tema.
+[SPEAKER_03]  en el año 2012, que ya estaban 11.
+[SPEAKER_03]  Salió algo que se llama Sopérate, Sopérate con el Saber.
+[SPEAKER_03]  y que eran fases de preguntas también. Entonces, está como un cuestionario.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  un puntaje
+[SPEAKER_04]  después ahí pasaba, pasaba como la siguiente ronda y así.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  y eventualmente pues he llegado como a la final, que era un evento presencial y todo.
+[SPEAKER_05]  Gracias.
+[SPEAKER_04]  Entonces, yo me metí ahí.
+[SPEAKER_04]  me iba bien en 11 matemáticas
+[SPEAKER_04]  Nosotros no sabíamos si teníamos cosas avanzadas o derivadas.
+[SPEAKER_02]  No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Se hace
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Era bastante avanzado y llegué a la final.
+[SPEAKER_03]  De acuerdo que había un profesor que la verdad me ayudó bastante. Como persona era...
+[SPEAKER_03]  Era increíble, como esas personas muy...
+[SPEAKER_02]  Sabías que ella se me apresionó hace mucho, pero seguía trabajando por amor, porque le gustaba.
+[SPEAKER_02]  Entonces, de verdad, fue como esa inspiración, como, wow, increíble que exista este tipo de personas tan comprometidas.
+[SPEAKER_02] 
+[SPEAKER_04]  me parece un gran traje eso es lo que viene a la fin de un tiempo
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  ¿Cómo se dice? ¿Se puede salir de la palabra?
+[SPEAKER_04]  ¡Gracias!
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  ¿Se está yendo el sonido a mí me parece o solamente a mí?
+[SPEAKER_05]  Ahí está.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Estaba pensando, justamente estaba haciendo un test en mi computador para saber si era yo el del problema.
+[SPEAKER_05]  Justamente...
+[SPEAKER_02]  Ok, no, espérenme porque es que yo creo que se me va a descargar el... Espérenme, conecto desde el celular y ya les sigo contando. Dale, dale, no hay problema.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Vale, vale, no hay problema.
+[SPEAKER_01]  instituto estén reyes
+[SPEAKER_00]  Yo estaba haciendo acá un montón de pruebas para testear. Todos los indicadores de red me decían que la red estaba bien.
+[SPEAKER_00]  Entonces me está empezando a preocupar.
+[SPEAKER_01] 
+[SPEAKER_01]  Uno cree que es uno que está... Sí, sí.
+[SPEAKER_00]  Sí.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Ahí está.
+[SPEAKER_01]  micrófono
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Sí.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Listo.
+[SPEAKER_03]  Entonces,
+[SPEAKER_03]  No, lo que les estaba contando era que...
+[SPEAKER_03]  Ah bueno, que tuvo un profesor.
+[SPEAKER_03]  que me ayudó bastante en el proceso porque, pues, como les decía, él estaba ya pensionado, pero igual seguía dando clases.
+[SPEAKER_03]  y pues era muy sabio, entonces era como esas personas que lo inspiran mucho
+[SPEAKER_03]  A uno y creo que esa fue como de las primeras.
+[SPEAKER_03]  Personas que me inspiró a la vida, como en...
+[SPEAKER_00]  Cuando quieras hacer algún tipo de homenaje, se vale dar nombres, ¿no?
+[SPEAKER_03]  Ayudar a los miembros.
+[SPEAKER_00]  Ah, bueno, sí.
+[SPEAKER_03]  se pulpea
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Profesor.
+[SPEAKER_03]  Es muy conocido por todos los estudiantes del colegio.
+[SPEAKER_03]  y bueno, entonces cuando yo ya estaba ahí
+[SPEAKER_03]  Yo ya estaba muy cercano a graduarme.
+[SPEAKER_03]  Y pues yo no sabía que iba a estudiar, pero...
+[SPEAKER_03]  yo más o menos tenía unas pistas. Entonces, por ejemplo...
+[SPEAKER_03]  Yo sabía que me iban bien las matemáticas, entonces yo decía, como puede ser algo relacionado con las matemáticas.
+[SPEAKER_03]  Pero yo sabía que no era, no...
+[SPEAKER_03]  O sea, puede hacer una ingeniería, pero no cualquier ingeniería. Entonces, por ejemplo, ingeniería química o cosas así, cero, porque en química me iba a remar.
+[SPEAKER_03]  Me tiraba esas materias.
+[SPEAKER_03]  Entonces yo decía, y física, pues era interesante, pero había cosas que no entendía bien, era pura fórmula.
+[SPEAKER_03]  Y pues háganle.
+[SPEAKER_03]  Entonces yo decía como, no, no puede ser sistemas porque...
+[SPEAKER_03]  Pues más o menos me va bien en informática.
+[SPEAKER_03] 
+[SPEAKER_03]  y
+[SPEAKER_03]  ¿Y la matemática?
+[SPEAKER_03]  pero pues matemáticas puras, y yo decía como, pues no sé.
+[SPEAKER_03]  Mi hermano en ese entonces estaba dentro de la Universidad Nacional.
+[SPEAKER_03]  Él se presentó a sistemas y nos pasó.
+[SPEAKER_03]  Entonces...
+[SPEAKER_03]  Eh...
+[SPEAKER_03]  pues pasó a otra carrera que fue estadística. Entonces yo dije, ah, pues a él le está estudiando eso, tal vez...
+[SPEAKER_03]  Como siguiendo los mismos pasos de seguir el paso de mi hermano.
+[SPEAKER_03]  Yo dije, bueno, otra opción puede ser estadística.
+[SPEAKER_03]  Entonces ahí yo decía como, no sé.
+[SPEAKER_03]  Y había algo que cuando uno se presentaba a la Universidad Nacional.
+[SPEAKER_03]  uno tenía que poner el orden de las materias en el que quería.
+[SPEAKER_03]  Perdón, ¿el orden de las carreras?
+[SPEAKER_00]  Perdón.
+[SPEAKER_03]  como por opciones, entonces yo tenía que definir el orden ahí de esas tres que tenía.
+[SPEAKER_03]  A la final...
+[SPEAKER_03]  Le terminé pidiendo consejo a un profesor, al profesor de informática, le dije, profe, ¿usted de verdad cree que yo...?
+[SPEAKER_03]  ¿Puedo estudiar esto?
+[SPEAKER_03]  Y me dijo, sí, claro, hágale una sin miedo. Y yo, bueno...
+[SPEAKER_03]  Pues le hago caso al profe porque él sabe más que yo.
+[SPEAKER_03]  Entonces, eh...
+[SPEAKER_03]  Pues nada, así fue.
+[SPEAKER_03]  Pues ahí me fui a presentar el...
+[SPEAKER_03]  El examen.
+[SPEAKER_03]  El examen de la universidad.
+[SPEAKER_03]  Y pues nada, pues obviamente cuando lo presenté me pareció súper difícil.
+[SPEAKER_03]  De hecho estaría asustado.
+[SPEAKER_03]  porque yo dije, oh, sí, lo toqué.
+[SPEAKER_03]  o sea, me fue mal.
+[SPEAKER_03]  Y no, resulta que me fue bien. De hecho, lo que mejor me fue fue en matemáticas.
+[SPEAKER_03]  En las otras me fue regular, pero matemáticas tuvo un puntaje tan alto que...
+[SPEAKER_03]  como que subía a las demás.
+[SPEAKER_03]  Entonces ahí pude pasar a sistemas.
+[SPEAKER_03]  Y listo, ahí como que comencé mi...
+[SPEAKER_03]  y está payando la universidad.
+[SPEAKER_03]  Entonces...
+[SPEAKER_03]  Y pues ahí ya lo bueno fue que yo entré con varios amigos de mi curso. Entonces había dos amigos, uno que se llama Manuel Vergara.
+[SPEAKER_03]  y Alan Navarro
+[SPEAKER_03]  Y pues ellos son esas dos personas que les dije que habían ido a las competencias de colegio.
+[SPEAKER_03]  Y pues entonces nosotros andábamos para arriba y para abajo todos, todos, todo el tiempo.
+[SPEAKER_03]  Y ahí ya hicimos como otros amigos.
+[SPEAKER_03]  que también
+[SPEAKER_03]  pues digamos que eran muy pilos, entonces desde el primer semestre como que hicimos el combo.
+[SPEAKER_03]  Y andamos.
+[SPEAKER_03]  para arriba y para abajo todos, prácticamente hasta que nos graduamos.
+[SPEAKER_00]  Esto está ocurriendo más o menos en 2015.
+[SPEAKER_03]  No, eso fue en 2013. En 2013 fue que ya entré al primer semestre.
+[SPEAKER_00]  Un saludo.
+[SPEAKER_03]  Y entonces ahí...
+[SPEAKER_03]  Bueno, entonces ahí pues yo como que...
+[SPEAKER_03]  Pues como ya andaba más con mis dos amigos.
+[SPEAKER_03]  Ellos ya sabían que existían este tipo de competencias de programación.
+[SPEAKER_03]  entre esas aviones que se llamaban las C.C.P.L.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  Pues es muy famoso.
+[SPEAKER_03]  Entonces ellos siempre hablaban de que era CSTL y que no sé qué. Esa competencia se hacía los sábados.
+[SPEAKER_03]  Y...
+[SPEAKER_03]  ¿Era como sábados cada, no sé, como cada 20, 15 días más o menos?
+[SPEAKER_03]  en diferentes universidades.
+[SPEAKER_03]  Era muy llamativo.
+[SPEAKER_03]  ¿Alguna vez fui?
+[SPEAKER_03]  Pero no me gustó porque...
+[SPEAKER_03]  los problemas que habían que hacer eran en inglés.
+[SPEAKER_03]  pues mi inglés era pésimo. Entonces yo me acuerdo que literalmente fui.
+[SPEAKER_03]  Y me senté por ahí con mis dos amigos.
+[SPEAKER_03]  Y me quedé, fue viendo al parque, porque había como una ventana al parque, y me quedé ahí mirando.
+[SPEAKER_03]  Y pues no dice nada. Y ellos acaban, resolvían problemas y se emocionaban y yo no entendía nada.
+[SPEAKER_03]  Entonces yo pues obviamente yo era como, pues yo a esto no vuelvo.
+[SPEAKER_03]  Entonces, bye.
+[SPEAKER_03]  Digamos que ahí pasó.
+[SPEAKER_03]  Ellos pues seguieron ahí como preparándose, como que estudiaban por su cuenta para...
+[SPEAKER_03]  para aprender diferentes temas, algoritmos, para poder resolver más problemas en estas competencias.
+[SPEAKER_03]  Y yo sí, pues, nada de nada. Entonces me acuerdo que cuando entré en primer semestre...
+[SPEAKER_03]  Y mi programación uno.
+[SPEAKER_03]  Yo ahí todavía tenía conflictos con el foro.
+[SPEAKER_03]  Entonces me acuerdo que tocaba
+[SPEAKER_03]  en un parciato que va a sacar como, habría que ser un foranidad.
+[SPEAKER_03]  Pues no, eso era terrible. Si un foro era difícil, pues un foro había dado peor.
+[SPEAKER_03]  Me acuerdo que eran ejercicios de sumatorias y...
+[SPEAKER_03]  Buen día, ¿hago como que oa?
+[SPEAKER_03]  Pero en ese entonces era traumático, o sea, de verdad.
+[SPEAKER_03]  Está muy duro.
+[SPEAKER_03]  Ahora si me termine
+[SPEAKER_03]  curiosamente sacando 5 en esa materia, pero yo sabía que...
+[SPEAKER_03]  O sea, que no había aprendido del todo. Porque, pues claro, nos ayudamos un poco con nuestros amigos.
+[SPEAKER_03]  a veces hacían parciales en grupo, entonces pues era como...
+[SPEAKER_03]  Pues ellos me ayudan.
+[SPEAKER_03]  El problema fue cuando llegué.
+[SPEAKER_03]  En segundo semestre.
+[SPEAKER_03]  y empecé a ver una materia que se llama programación orientada a fetos.
+[SPEAKER_03]  y la vi con un profesor en ese entonces que se llama Rafael Mikefa.
+[SPEAKER_03]  que también es muy famoso, muy conocido.
+[SPEAKER_03]  Y en ese entonces, digamos que él tenía un método de enseñanza un poquito fuerte.
+[SPEAKER_03]  Entonces, se le da como muy estricto, como...
+[SPEAKER_03]  Y como a probar las habilidades de las personas. Y si sirve, sirve. Y si no, pues no. Y como mira a ver cómo se las arregla.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Entonces me acuerdo mucho que en las primeras semanas hice un examen escrito en C++.
+[SPEAKER_03]  Y no, eso fue terrible.
+[SPEAKER_03]  Yo me acuerdo que como dos...
+[SPEAKER_03]  como 2,5, algo así, en el parcial.
+[SPEAKER_03]  pues obviamente yo era como, uff, no, re mal, voy a perder esta materia. Y pues uno como...
+[SPEAKER_03]  con ese susto de perder la materia.
+[SPEAKER_03]  Y a todos mis amigos les había ido bien.
+[SPEAKER_03]  Me acuerdo mucho que esa vez íbamos al restaurante.
+[SPEAKER_03]  Y yo me sentía muy triste porque yo decía, no, a mis amigos sí les va bien.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  y
+[SPEAKER_03]  y a mi pues
+[SPEAKER_03]  Yo fui el único que me rajé.
+[SPEAKER_03]  Esto como que no es para mí, yo creo que es como cambiarme de carrera. Me acuerdo que lo pensaba mucho, yo decía como, está muy difícil.
+[SPEAKER_03]  Digamos que ahí lo que me ayudó mucho es como tener esa red de apoyo de mis amigos.
+[SPEAKER_03]  No, venga, estudiemos, vamos a mirar qué hacemos, que no sé qué.
+[SPEAKER_03]  Yo nunca les dije a ellos cómo me sentía, esa red siempre estaba ahí, nos apoyábamos y nos ayudábamos.
+[SPEAKER_03]  Entonces yo empecé a decir, no, tengo que hacer algo para mejorar, necesito entender más. Entonces yo me acuerdo que yo le decía a Manuel...
+[SPEAKER_03]  que es mi amigo en ese entonces.
+[SPEAKER_03]  y que es mi mejor amigo.
+[SPEAKER_03]  Y que lo conocía como desde octavo, yo le decía como, venga, ayúdeme porque hay cosas que de verdad no estoy entendiendo, quiero entenderlas bien.
+[SPEAKER_03]  Entonces, ¿qué hago? Entonces me acuerdo que él se sentaba.
+[SPEAKER_03]  Y me explicaba cosas y yo a veces decía, venga, no estoy entendiendo nada, vuélvame a explicar y así. Entonces, él me ayudó, me ayudó bastante.
+[SPEAKER_03]  Y listo, a la final digamos que terminé pasando esa materia. A la final saqué como 4 o 8.
+[SPEAKER_03]  digamos que porque al final el proyecto final
+[SPEAKER_03]  valía mucho.
+[SPEAKER_03]  pues yo intenté meterle la ficha, como vamos a aprender, estudiar por mi cuenta.
+[SPEAKER_03]  Más o menos aprendí cosas ahí.
+[SPEAKER_03]  Y listo. Digamos que ahí ya más o menos está un poquito reconciliado con la programación. Bueno, se puede usar. Si uno estudia, se puede.
+[SPEAKER_03]  Y llego el tercer semestre.
+[SPEAKER_03]  En tercer semestre vi bases de datos.
+[SPEAKER_03]  Eso sí me encantó, o sea, yo no sé por qué, pero eso sí se me da, era como maravilloso.
+[SPEAKER_03]  las queries que tocaba hacer, como entender cómo funcionaban las tablas. Habían como retos de, bueno, cómo haría una query que saque tal información de tales tablas. Y a mí me gustaba mucho, o sea, le gastaba mucho tiempo y me salían las cosas. Entonces era como...
+[SPEAKER_03]  Como que eso me motivaba mucho.
+[SPEAKER_03]  y
+[SPEAKER_03]  Entonces ahí pues sentí que aprendí mucho.
+[SPEAKER_03]  También es un proyecto chévere que me sirvió muchísimo.
+[SPEAKER_03]  y pues fue genial, entonces hasta ahí
+[SPEAKER_03]  El mundo de las competencias todavía no había aparecido, porque yo lo había dejado de lado.
+[SPEAKER_03]  mis amigos si seguían editándole pero pues ya como no pues a mí eso no me interesa
+[SPEAKER_03]  Cuando llegué al cuarto semestre...
+[SPEAKER_03]  Ahí todo cambió.
+[SPEAKER_03]  porque
+[SPEAKER_03]  Y pues me ching...
+[SPEAKER_03]  una materia que se llama estructura de datos.
+[SPEAKER_03]  me metí con un profe que se llama Joan Pinzón.
+[SPEAKER_03]  Y eso fue...
+[SPEAKER_03]  Yo creo que es la mejor materia que yo he visto y con el mejor profesor que he visto una materia, porque imagínense, era clase de 7 a 9.
+[SPEAKER_03]  Mmm...
+[SPEAKER_03]  Pero era...
+[SPEAKER_03]  a las 7 o 9 de la mañana, pero a uno le daban ganas de ir a esa clase, no le importaba madrugar.
+[SPEAKER_03]  porque el profesor tenía una forma de dar la clase muy chévere y era muy chistoso. O sea, como que lo metía uno en el cuento de...
+[SPEAKER_03]  de la programación de las estructuras.
+[SPEAKER_03]  Y lo explicaba de forma muy sencilla. Entonces me acuerdo mucho que cuando estaba explicando punteros.
+[SPEAKER_03]  dibujaba como unas cajitas y unas flechitas y pues uno era como, lo estoy entendiendo todo, o sea, era increíble porque punteros es como el tema...
+[SPEAKER_03]  Más difícil.
+[SPEAKER_03]  en general, que uno siempre dice, pero...
+[SPEAKER_03]  Que se lo entendi perfecto.
+[SPEAKER_03]  Y yo decía, como no, le estoy entendiendo todo. Y ahí empezamos a ver un par de algoritmos que yo antes había intentado aprender con mis amigos y no había entendido nada.
+[SPEAKER_03]  Y con este profe como que yo dije, uy, eso es fácil, o sea, esto es hacer tales cosas y ya está.
+[SPEAKER_03]  y era así a los parciales escritos, eso me pareció
+[SPEAKER_03]  fue clave porque era
+[SPEAKER_03]  Uno casi no interactuaba con la máquina, sino eran escritos y como entender bien las cosas.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  y
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Entonces ahí yo le perdí mucho el miedo.
+[SPEAKER_03]  a ese tema de los algoritmos, de la programación, de las competencias de programación, porque yo decía, es que eso parece lo que estamos haciendo.
+[SPEAKER_00]  Simple curiosidad, simplemente.
+[SPEAKER_00]  Eh...
+[SPEAKER_00]  ¿Qué algoritmo habías tratado de...?
+[SPEAKER_00]  Ah, bueno.
+[SPEAKER_04]  Bueno.
+[SPEAKER_00]  Que no se ha dado ahí después ahí por...
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  se logró hacerlo con cuidado.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Era el artículo de EPS.
+[SPEAKER_03]  Entonces como...
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  BFS y DFS, pero sobre todo BFS, que es como para explorar una grilla.
+[SPEAKER_03]  En orden.
+[SPEAKER_03]  Y es que él tenía los ejemplos perfectos, o sea, tenía las clases también preparadas que...
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  O sea, si uno no entendía era porque simplemente no estaba poniendo atención. Yo creo eso.
+[SPEAKER_03]  porque era increíble.
+[SPEAKER_03]  Ahí yo dije, bueno, sí, sí puedo, o sea, sí entiendo.
+[SPEAKER_03]  y ahí empecé a volver como a este tema de la...
+[SPEAKER_03]  de ese CPL y de las competencias.
+[SPEAKER_03]  El problema es que...
+[SPEAKER_03]  uno necesitaba un equipo.
+[SPEAKER_03]  Yo no tenía equipo, porque ya los equipos se habían hecho. Mis amigos ya estaban como en un equipo.
+[SPEAKER_03]  y yo estaba pues por ahí solo.
+[SPEAKER_04]  porque la...
+[SPEAKER_03]  Entonces yo empecé a armar un equipo con gente por ahí que apareciera.
+[SPEAKER_03]  Y se equipó como con...
+[SPEAKER_03]  Un amigo del colegio también, pero pues que no nos hablábamos tanto, y pues dije, como hagámosle.
+[SPEAKER_03]  y otra persona de un semestre que iba más adelante.
+[SPEAKER_03]  Entonces, ¿cómo la conseguí? Eso fue como un amigo en amigo.
+[SPEAKER_03]  Mira cómo vea, ella quiere competir.
+[SPEAKER_03]  Hagámosle. Y yo, bueno, listo.
+[SPEAKER_03]  Entonces ahí fue chévere porque...
+[SPEAKER_03]  Todos teníamos como las ganas de aprender. Y como no sabemos nada, pero vamos a aprender.
+[SPEAKER_05]  Nos reúnen.
+[SPEAKER_03]  Nos reuníamos los viernes.
+[SPEAKER_03]  ahí en la universidad, dos horitas, y empezamos a estudiar.
+[SPEAKER_03]  por nuestra cuenta. Entonces, buscamos en internet.
+[SPEAKER_03]  algoritmo de Joint Set Union.
+[SPEAKER_03]  empezamos a leer, ah, esto funciona así, no sé qué.
+[SPEAKER_03]  y entre nosotros nos explicamos.
+[SPEAKER_03]  A veces nos dejábamos tareas.
+[SPEAKER_03]  Y como que ya empezó a ser un trabajo muy autónomo.
+[SPEAKER_03]  pues nadie nos va a enseñar, nadie nos va a ayudar.
+[SPEAKER_03]  tenemos que hacer de nosotros.
+[SPEAKER_03]  Pero ahí, digamos que empezó a salir algo y es que los chicos que ya conocían más.
+[SPEAKER_03]  como de semestres más avanzados de la universidad.
+[SPEAKER_03]  empezaron a dar clases de algoritmos también.
+[SPEAKER_03]  de programación competitiva. Entonces yo dije, bueno, pues chévere, o sea, podemos ir y aprender cositas.
+[SPEAKER_03]  Y eso era un desastre, o sea, era un desastre porque uno iba...
+[SPEAKER_03]  Y pues uno no entendía nada, porque eran temas...
+[SPEAKER_03]  Eran muy avanzados para nosotros en ese entonces.
+[SPEAKER_03]  pues uno con esa pena, como le decía a alguien que no entendía nada, uno iba y pues...
+[SPEAKER_03]  medio cogía cositas, dos horitas y...
+[SPEAKER_03]  y para la casa.
+[SPEAKER_03]  Pero bueno, al menos estaba la gente que uno...
+[SPEAKER_03]  pues como que sentía ahí que había más gente estudiando y más gente dándole.
+[SPEAKER_03]  Y entonces ahí seguimos yendo a Ccpl, a Ccpl, que no sé qué. Y ahí poquito a poco íbamos mejorando. Entonces, me acuerdo que la primera vez que fuimos hicimos un problema. Un problema como de 12 problemas que había.
+[SPEAKER_03]  Después decimos...
+[SPEAKER_03]  Dos problemas.
+[SPEAKER_03]  Y luego tres problemas. Y de ahí no pasábamos. De ahí ya era como, bueno.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Y ahí.
+[SPEAKER_03]  Entonces,
+[SPEAKER_03]  pues uno de los chicos nos abandonó.
+[SPEAKER_03]  del equipo que yo tenía que ir con una amiga.
+[SPEAKER_03]  Y un amigo, el chico se fue.
+[SPEAKER_03]  Entonces yo dije, ¿y ahora qué?
+[SPEAKER_03]  Resulta que él...
+[SPEAKER_03]  Bueno, esta es una historia bastante...
+[SPEAKER_03]  Curiosidad, creo que puedo dar varios detalles.
+[SPEAKER_03]  Entonces voy a, porque es que es una historia un poquito larga y...
+[SPEAKER_03]  Perdón, plaza de chévere.
+[SPEAKER_03]  Entonces ella tenía un novio.
+[SPEAKER_03]  Entonces, ¿qué tan bien eran los sistemas?
+[SPEAKER_03]  y en
+[SPEAKER_03]  También tenía un equipo, pero los integrantes se habían ido a pasantías en Google, por allá.
+[SPEAKER_03]  ellos eran de semestres más avanzados.
+[SPEAKER_03]  Entonces el man se quedó solo. Entonces yo le dije, no, pues hagámonos los tres.
+[SPEAKER_03]  Entonces, listo, arrancamos los tres. Pues claro, él tenía mucho más nivel porque ya era un semestre más avanzado.
+[SPEAKER_03]  Él como que nos empezó a enseñar, a enseñar.
+[SPEAKER_03]  Pues yo como que la entendía y listo, empezamos a mejorar, a mejorar.
+[SPEAKER_03]  Entonces ya íbamos a las SPLs y nos dio un poquito mejor.
+[SPEAKER_03]  Siempre en esa competencia eran mis amigos.
+[SPEAKER_03]  Como ya sabían más mis amigos del colegio,
+[SPEAKER_03]  Entonces ellos quedaban de segundas.
+[SPEAKER_03]  Terceras.
+[SPEAKER_03]  nosotros por idea quinto, cuarto
+[SPEAKER_03]  Entonces era como, no, tenemos que ganarles a ellos como sea, como sea.
+[SPEAKER_03]  Empezamos a entrenar.
+[SPEAKER_03]  resto, nos reuníamos como ya dos veces a la semana.
+[SPEAKER_03]  y le damos
+[SPEAKER_03]  Y bueno.
+[SPEAKER_03]  Resulta que...
+[SPEAKER_03]  descubrimos que había algo que era la Maratón Nacional de Programación.
+[SPEAKER_03]  que entonces la idea era como pues meterse allá y competir por equipos y representar a la universidad.
+[SPEAKER_03]  El problema es que en la Universidad Nacional
+[SPEAKER_03]  había muchos equipos que querían competir en la Maratón Nacional.
+[SPEAKER_03]  entonces era difícil porque era como hay equipos experimentados en realidad últimos semestres
+[SPEAKER_03]  ¿Saben más?
+[SPEAKER_03]  Y lo que hacían era que...
+[SPEAKER_03]  pasaban cuatro equipos. Pues como había tantos equipos en la universidad, hacían como maratones internas.
+[SPEAKER_03]  que todo eso lo organizaba Rafael Niquefa
+[SPEAKER_03]  Y eran como competencias que duraban como dos semanas abiertas. Y era como, bueno, los que más hagan problemas...
+[SPEAKER_03]  pues van sumando puntos.
+[SPEAKER_03]  Entonces, pues, Aymar recordó que nos reuníamos, dábamos acá la mayor cantidad de problemas que podíamos y así. ¡Tarán!
+[SPEAKER_03]  Era bastante interesante, bastante retador.
+[SPEAKER_03]  Y esa vez logramos pasar y quedamos de cuartos de lo último.
+[SPEAKER_03]  logramos pasar a la Maratón Nacional.
+[SPEAKER_03]  Esa fue la primera vez que yo competí ahí.
+[SPEAKER_03]  Y pues bueno, obviamente nos fue...
+[SPEAKER_03]  Nos fue re mal porque los problemas eran más difíciles que lo que veíamos en la CTPL.
+[SPEAKER_03]  Pero pues hicimos como...
+[SPEAKER_03]  dos problemas, algo así.
+[SPEAKER_03]  Y nosotros como, bueno, tristes, pero bueno, al menos fuimos a competir.
+[SPEAKER_03]  Y había equipos de la universidad que eran muy fuertes, los primeros equipos que eran de primera.
+[SPEAKER_03]  Pero nosotros decimos, bueno, pues es un proceso.
+[SPEAKER_04]  ¿Qué es lo que se está haciendo?
+[SPEAKER_03]  Nada que hacer.
+[SPEAKER_03]  Después fuimos a la Marathon regional y pues ahí también nos fue re mal.
+[SPEAKER_03]  Creo que quedamos como de... Bueno, yo digo mal, entre comillas, porque uno está acostumbrado a que la nacional es...
+[SPEAKER_03]  ¿De primeras o, mejor dicho, terrible?
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Porque quedamos de 14, 14 entre...
+[SPEAKER_03]  40 equipos, pues no podemos estar tan mal.
+[SPEAKER_03]  Pero claro, para lo que no estaba acostumbrado era como lo peor.
+[SPEAKER_03]  Y ahí...
+[SPEAKER_03]  Entonces resulta que, bueno, ahí competimos en ese ciclo.
+[SPEAKER_03]  Y pues bueno, no pasó nada.
+[SPEAKER_03]  en el siguiente ciclo, porque eso fue como el siguiente año, ya era como cuarto, quinto, sexto semestre más o menos.
+[SPEAKER_03]  y resulta que
+[SPEAKER_03]  se pelearon, o sea, los dos que eran novios se pelearon.
+[SPEAKER_03]  Entonces yo quedé en una encrucijada porque yo decía, pues, ¿con cuál de los dos me hago?
+[SPEAKER_03]  una chica o con el chico.
+[SPEAKER_03]  Pues en ese tiempo yo me hice mucho más amigo del chico.
+[SPEAKER_03]  Yo dije, pues no. Y pues obviamente yo decía como, pues él sabe.
+[SPEAKER_03]  Pues además...
+[SPEAKER_03]  Está más comprometido.
+[SPEAKER_03]  pues me hago con él.
+[SPEAKER_03]  y
+[SPEAKER_03]  Pues nada, ahí hicimos equipo y empezamos a buscar a otro integrante.
+[SPEAKER_03]  y
+[SPEAKER_03]  Ahí
+[SPEAKER_03]  Buscamos a, bueno, el chico que se había ido a Google, que era un compañero de él.
+[SPEAKER_03]  volvió, entonces nos hicimos con él, nos hicimos los tres y era un chico también súper brillante, o sea...
+[SPEAKER_03]  Impresionante.
+[SPEAKER_03]  Pero digamos que no era tan dedicado para las maratones, pero pues en ingeniería de software está como...
+[SPEAKER_03]  A ver, y...
+[SPEAKER_03]  temas de páginas web, de crear servicios y demás, pues era un test.
+[SPEAKER_03]  Entonces pues nosotros empezamos a ir ya como a...
+[SPEAKER_03]  entrenar los tres de lo que podíamos más que todo con mi amigo como el que me había hecho muy amigo
+[SPEAKER_03]  Empezamos a entrenar más, entrenar más los dos y fuimos mejorando, mejorando, mejorando.
+[SPEAKER_03]  Fuimos al siguiente ciclo.
+[SPEAKER_03]  ya ocupamos con una posición.
+[SPEAKER_03]  como quinto creo que quedamos.
+[SPEAKER_03]  Entonces, como vos, bueno, súper bien, un avance.
+[SPEAKER_03]  Pero en realidad...
+[SPEAKER_00]  Pero en realidad es un problema.
+[SPEAKER_00]  Disculpa, por favor, es que todavía no quiero que quedes campeón nacional en esta, todavía no estás en el campeonato mundial en esto, entonces necesito preguntarte.
+[SPEAKER_03]  Gracias.
+[SPEAKER_05]  entonces necesito preguntarle
+[SPEAKER_05]  ¡Gracias!
+[SPEAKER_00]  Por favor.
+[SPEAKER_00]  Y claro, con la idea es también retomar este mismo hilo.
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  Pero, ¿qué pasaba entre tanto?
+[SPEAKER_00]  Porque ya estás casi en sexto semestre.
+[SPEAKER_00]  ¿Qué estaba pasando entre tanto?
+[SPEAKER_00]  y que otras cosas se estudiaban.
+[SPEAKER_00]  en la universidad en ese momento, porque...
+[SPEAKER_00]  Si ya estás más o menos en sexto semestre...
+[SPEAKER_00]  ¿Qué pasó con...
+[SPEAKER_00]  Con las matemáticas, qué pasó con los cálculos, qué pasó con esa idea original de además estudiar matemáticas, dado que en la nacional se pueden hacer los dos programas.
+[SPEAKER_00]  ¿Qué pasó con...?
+[SPEAKER_00]  con
+[SPEAKER_00]  Todas esas cosas.
+[SPEAKER_00]  que
+[SPEAKER_00]  que van ocurriendo en paralelo.
+[SPEAKER_00]  Aún además también hay un montón de cosas que...
+[SPEAKER_00]  que tiene que tomar, algunos cursos que tiene que tomar.
+[SPEAKER_00]  Y de pronto no son los que más le apasionan.
+[SPEAKER_00]  Pero...
+[SPEAKER_00]  Pero igual hay que hacerlos.
+[SPEAKER_00]  ¿Qué se queda pasando por esa historia, por ese lado?
+[SPEAKER_00]  Para retomar este hilo conductor que has tomado, ¿no?
+[SPEAKER_00]  Pero de todas maneras para enriquecerlo con lo que está pasando alrededor.
+[SPEAKER_03]  Y pues bueno, ahí teníamos que ver varias cosas.
+[SPEAKER_03]  Me acuerdo, bueno, cálculo, cálculo 1, cálculo 2, la integral.
+[SPEAKER_03]  el tercero que dan varias variables
+[SPEAKER_03]  Tenemos que ver álgebra lineal.
+[SPEAKER_03]  Yo metí...
+[SPEAKER_03]  Los cálculos, así como en orden.
+[SPEAKER_03]  excepto el tercero
+[SPEAKER_03]  Porque metí cálculo 1, lo que me exige es meter cálculo 2.
+[SPEAKER_03]  de doble álgebra lineal.
+[SPEAKER_03]  Y pues digamos que...
+[SPEAKER_03]  A mí me pasó algo y es que como yo ya había visto cosas de esas en el colegio.
+[SPEAKER_03]  pues como que nos echa un poco...
+[SPEAKER_03]  como la vagancia, como que uno dice, ah, eso ya me lo sé.
+[SPEAKER_03]  Entonces, en algunos parciales me iba a regular.
+[SPEAKER_03]  Ya se nos pegan las pilas y pues...
+[SPEAKER_03]  me iba bien
+[SPEAKER_03]  Ahí también vimos elementos de computadores, que eran más o menos como...
+[SPEAKER_03]  entender un poquito cómo funcionaban.
+[SPEAKER_03]  por dentro los computadores, pero a nivel muy básico. Entonces me acuerdo que usábamos protoboard.
+[SPEAKER_03]  y tocaba hacer muchos circuitos.
+[SPEAKER_03]  Entonces, pues eso me pareció chévere porque yo nunca la verdad lo había hecho.
+[SPEAKER_03]  Era un poquito cansón porque era como...
+[SPEAKER_03]  Cable por aquí, cable por acá, que este cable...
+[SPEAKER_03]  se dañó y como se dañó ya no sirve el circuito.
+[SPEAKER_03]  Eso era re engorroso, pero bueno, era chévere y me parecía interesante, pero era un poquito cansón.
+[SPEAKER_03]  Eh...
+[SPEAKER_03]  Chicos, eso es lo que empecé a ver después.
+[SPEAKER_03]  Ya empezamos a ver.
+[SPEAKER_03]  Mmm.
+[SPEAKER_03]  Bueno.
+[SPEAKER_03]  Cuando vi cálculo en varias variables, me di cuenta que definitivamente las matemáticas...
+[SPEAKER_03]  tan fuertes, no eran los míos, eran como...
+[SPEAKER_03]  Me gustaba...
+[SPEAKER_03]  Ahí me di cuenta que lo que me gustaba de diferencial e integral.
+[SPEAKER_03]  que había como unos retos de cómo hago para solucionar este problema, o sea, como que tocaba tener mucha imaginación, y eso era lo que a mí me gustaba.
+[SPEAKER_03]  como pensar, pensar, ah, se me ocurre de esta forma y ¡bum! lo solucioné.
+[SPEAKER_03]  Sí, pero más allá de eso...
+[SPEAKER_03]  por detrás qué es lo que significa a mí ya está me encanta que es
+[SPEAKER_03]  No tanto.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Entonces...
+[SPEAKER_03]  Ya después ahí también empecé a ver las primeras materias de ingeniería de software.
+[SPEAKER_03]  que la primera materia la verdad fue un poquito...
+[SPEAKER_03]  O sea, cuando uno le dice en ingeniería de software...
+[SPEAKER_03]  pues uno se imagina que va a trabajar con software.
+[SPEAKER_03]  Pues no, eran...
+[SPEAKER_03]  puros documentos, era como hacer
+[SPEAKER_03]  como hacer muchos documentos para documentación de ciertas cosas.
+[SPEAKER_03]  de cómo trabajar en equipo, de cómo trabajar en el desarrollo, el método Scrum y todas estas cosas.
+[SPEAKER_03]  Que en ese entonces yo medio entendía cosas, pero yo decía, pues, ¿para qué? Uno en ese entonces no entiende para qué necesito saber esto.
+[SPEAKER_03]  Y después se da cuenta que...
+[SPEAKER_03]  Sí, es importante.
+[SPEAKER_03]  Pero ahí era como, ¿por qué perdieron estas materias? O sea, como...
+[SPEAKER_03]  Se procuró exponer cosas, entender que...
+[SPEAKER_03]  que existen estos métodos, escribir, escribir, escribir.
+[SPEAKER_03]  hacer casos de uso y cosas así que era como...
+[SPEAKER_03]  No.
+[SPEAKER_03]  Me acuerdo que era...
+[SPEAKER_03]  Está aburrido.
+[SPEAKER_03]  pero pues ni modo, que a veces, si entonces ves uno de ellos.
+[SPEAKER_03]  Le decía, me acuerdo que yo sí le dejaba muchas cosas para el final.
+[SPEAKER_03]  porque era como esto lo saco el día anterior y en ese tiempo
+[SPEAKER_03]  yo le dedicaba las competencias. Y entonces...
+[SPEAKER_03]  Es que ahí empecé a dejar un poquito de lado la universidad.
+[SPEAKER_03]  Más porque yo decía, necesito aprender más cosas para las competencias, porque mi enfoque empezó a cambiar como, no, es que las competencias me pueden...
+[SPEAKER_03]  por ejemplo, llevar a otro país.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  porque el que ganaba la competencia se iba a representar a Colombia en otro país.
+[SPEAKER_03]  Y pues uno veía a los chicos de la universidad.
+[SPEAKER_03]  tipo ya eran más
+[SPEAKER_03]  que ganaban las competencias y todo y no decía uy severo, yo también quiero algo así
+[SPEAKER_03]  Entonces, pues ese era como el enfoque en ese entonces.
+[SPEAKER_03]  Ahí todavía no había visto Ingeniería de Software 2. Esa la vi como en el siguiente semestre.
+[SPEAKER_03]  ¿Y ahí si ya vimos algo como tal del código?
+[SPEAKER_03]  Empezamos a trabajar con algo que se llama Rubion Rates.
+[SPEAKER_03]  que pues eso también fue como súper novedoso.
+[SPEAKER_03]  e hicimos, me acuerdo, como estábamos tan apasionados por la programación competitiva, hicimos un juez de programación. Entonces era como una página donde uno podía...
+[SPEAKER_03]  Tuve los problemas que se...
+[SPEAKER_03]  califica automáticamente
+[SPEAKER_03]  Bueno.
+[SPEAKER_03]  cosas así.
+[SPEAKER_03]  Y el resto de materia es así.
+[SPEAKER_03]  Me acuerdo de varias, como matemáticas discretas, que esas eran más interesantes porque estaban relacionadas un poquito con las competencias también. Habían temas como de...
+[SPEAKER_03]  y
+[SPEAKER_03]  No sé, en tablas de verdad... En números...
+[SPEAKER_00]  números
+[SPEAKER_03]  Teoría de números.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  ¡Hasta luego!
+[SPEAKER_03]  Bien, ok, so...
+[SPEAKER_03]  Al inicio me costaba mucho.
+[SPEAKER_03]  Pero lo mismo, siempre nos apoyábamos con nuestros amigos. Entonces, bien, teníamos un grupo de estudio bueno.
+[SPEAKER_03]  Eso ayudaba mucho.
+[SPEAKER_00]  A mí me parece muy interesante, Jack Lowe, porque fíjense...
+[SPEAKER_00]  que ha sido
+[SPEAKER_00]  no digo recurrente, pero sí ha aparecido en muchos momentos.
+[SPEAKER_00]  Esa...
+[SPEAKER_00]  Esa red de apoyo, eso que llamaste en algún momento red de apoyo.
+[SPEAKER_00]  que realmente es un grupo de estudio en ese...
+[SPEAKER_00]  En ese sentido,
+[SPEAKER_00]  que casi...
+[SPEAKER_00]  No digo que se haya perdido, pero...
+[SPEAKER_00]  pero en el sentido clásico del grupo de estudio.
+[SPEAKER_00]  de unos gomosos de un tema específico que nos sentamos a echar carretas sobre el asunto y a aprender cada vez más y cuando tengo alguna...
+[SPEAKER_00]  crisis, algún tema que no manejo del todo bien y se le facilita a alguien.
+[SPEAKER_00]  Esa persona va a estar dispuesta a entregarme y a ayudarme.
+[SPEAKER_00]  ese conocimiento. Eso me lleva a pensar en varias cosas.
+[SPEAKER_00]  Uno, en la importancia que...
+[SPEAKER_00]  que tiene en todo esto y en toda tu...
+[SPEAKER_00]  tu vivencia y tu formación.
+[SPEAKER_00]  esa construcción colectiva del conocimiento.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  No es que...
+[SPEAKER_00]  Osman se sentó a estudiar y obtuvo tales resultados y el resto del mundo, qué importa qué pase, sino...
+[SPEAKER_00]  sino la construcción colectiva.
+[SPEAKER_00]  Ese trabajo entre todos me parece algo bien importante.
+[SPEAKER_00]  Emanuel, ¿querías intervenir?
+[SPEAKER_01]  Sí, Osma, vas muy bien.
+[SPEAKER_01]  Hay una serie de cosas que quiero rescatar, algunas un poco del factor humano.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Yo quedé preocupado por tu hermano.
+[SPEAKER_01]  Porque...
+[SPEAKER_01]  Tu hermano fue un modelo.
+[SPEAKER_01]  Y no pasa en la universidad, eso me dejó preocupado.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  ¿Qué pasó con él?
+[SPEAKER_03]  Ah, bueno, pues digamos que él no pasó a la que quería, que eran los temas.
+[SPEAKER_03]  ¿Qué pasa? Es estadística.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Ah, pasó a ser...
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Para eso está épica. A la final...
+[SPEAKER_03]  Igual sigue siendo un modelo, o sea, hoy en día también.
+[SPEAKER_03]  él se dio cuenta
+[SPEAKER_03]  Al inicio para lo futuro, porque como yo estoy aquí, mi plan es cambiarme a sistemas.
+[SPEAKER_03]  pero no le fue tan bien en los primeros semestres, entonces le tocó quedarse.
+[SPEAKER_03]  Pero después empezó a dar cuenta que había cosas muy interesantes ahí.
+[SPEAKER_03]  y empezó a darle a él también era los que estudiaba, él estudiaba muchísimo, el mismo que se reunía con los amigos y...
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Los temas re duros.
+[SPEAKER_03]  Y él a veces me ayudó a mí en las tareas de cosas así de estadística.
+[SPEAKER_03]  Ok.
+[SPEAKER_03]  Entonces ya yo empecé como a verte ya.
+[SPEAKER_03]  Empecé a dominar mucho.
+[SPEAKER_03]  Y cuando yo entré a la universidad, él más o menos iba saliendo también. Siempre se vio ese patrón. De hecho, desde la escuela. Cuando yo estaba entrando a la escuela, él iba saliendo a la escuela.
+[SPEAKER_03]  Cuando yo entré al colegio, él iba saliendo del colegio.
+[SPEAKER_03]  Cuando entré a la universidad, él iba saliendo de la universidad.
+[SPEAKER_03]  Entonces,
+[SPEAKER_03]  Pues al final cuando yo entré ya después empezó a trabajar y todo y pues le empezó a ir bien.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  pues de lo que uno ve en ese entonces, que uno no entiende ni qué es trabajar, ni qué es irle bien, pero...
+[SPEAKER_03]  Pues entra a un banco.
+[SPEAKER_03]  pues ya se baja re bien, lo máximo.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  pues igual siguió siendo ese modelo ahí en ese sentido.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  No.
+[SPEAKER_01]  Ok, es un tema interesante un poco, este factor humano.
+[SPEAKER_01]  Otra cosita solamente para rematar.
+[SPEAKER_01]  Algo peor que un for anidado es un if anidado, ¿no?
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Entonces...
+[SPEAKER_01]  para todo el mundo yo creo que cuando uno entre programación y le dio por él
+[SPEAKER_01]  fuera anidado o el hijo anidado.
+[SPEAKER_01]  Entró en crisis con seguridad.
+[SPEAKER_01]  Me gustó mucho ese concepto.
+[SPEAKER_01]  de uno de tus profesores que...
+[SPEAKER_01]  que no necesariamente trabajan con la máquina.
+[SPEAKER_01]  En la época mía...
+[SPEAKER_01]  de nosotros los veteranos.
+[SPEAKER_01]  hacíamos diagramas de flujo antes de programar.
+[SPEAKER_01]  Hoy trabajaba uno directo con la máquina.
+[SPEAKER_01]  En esa época no se podía porque uno...
+[SPEAKER_01]  Lleva el programa al mainframe.
+[SPEAKER_01]  Tarjeta perforada, los dos días le envían el resultado.
+[SPEAKER_01]  Entonces había que pensar muy bien.
+[SPEAKER_01]  Es un concepto, digamos, pedagógico interesante.
+[SPEAKER_01]  Me gusta mucho esa fuerza del trabajo autónomo.
+[SPEAKER_01]  Eso lo hemos recibido mucho de los...
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  de los jóvenes que han estado hablando acá.
+[SPEAKER_01]  El trabajo autónomo es lo que viene formando, formando y formando, ¿no?
+[SPEAKER_00]  Chao.
+[SPEAKER_01]  Y la otra cosa...
+[SPEAKER_01]  que es un poco el camino que coge la vida de una persona.
+[SPEAKER_01]  tiene mucho que ver con el principio. Eso lo hemos visto en general.
+[SPEAKER_01]  Fíjate que tú comienzas con mucho éxito en las maratones.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  ¿Sí? En la competencia.
+[SPEAKER_01]  Y ese ciclo ya estaba diciendo más o menos lo mío son las competencias.
+[SPEAKER_01]  De tal manera que es como regresar a un tema de inicio.
+[SPEAKER_00] 
+[SPEAKER_01]  y que obviamente ya nos vas a contar los super éxitos que los...
+[SPEAKER_00]  Y un detalle adicional, algo que le pegaría a...
+[SPEAKER_00]  ¿Has visto tu lista?
+[SPEAKER_00]  Fíjense la importancia.
+[SPEAKER_00]  Y también...
+[SPEAKER_00]  No es la primera vez que nos lo refieren.
+[SPEAKER_00]  Nos pasó con...
+[SPEAKER_00]  con Juan Camilo, con Marlon, con varios nos ha pasado.
+[SPEAKER_00]  El tema de...
+[SPEAKER_00]  de los role models
+[SPEAKER_00]  en términos de
+[SPEAKER_00]  No solamente de...
+[SPEAKER_00]  De ese hermano mayor.
+[SPEAKER_00]  de ese modelo.
+[SPEAKER_00]  con un nombre propio.
+[SPEAKER_00]  que puedo seguir.
+[SPEAKER_00]  sino además
+[SPEAKER_00]  de
+[SPEAKER_00]  otras personas que son mis pares en teoría
+[SPEAKER_00]  que logran cosas y a mí me gustaría hacer eso o a mí me gustaría estar allá.
+[SPEAKER_00]  Eso...
+[SPEAKER_00]  Eso resulta siendo importante.
+[SPEAKER_01]  Y tiene una cinta.
+[SPEAKER_01]  Nuestra invitación, ¿no, Rafa?
+[SPEAKER_00]  Muy lo que hablábamos hace un rato de Corena.
+[SPEAKER_00]  ¿Qué es esto?
+[SPEAKER_00]  demostrarle al resto de las personas que se puede para que también se metan en el encuentro.
+[SPEAKER_00]  Es su interés.
+[SPEAKER_01]  Una significación de respeto por la familia.
+[SPEAKER_01]  ¿Me comprendes? Es que mi hermano, yo le seguía los pasos a mi hermano, etc. Eso muestra un origen familiar muy interesante.
+[SPEAKER_00]  que mi hermano
+[SPEAKER_01]  No.
+[SPEAKER_01]  que por eso le hacemos mención de él
+[SPEAKER_01]  Y una familia además.
+[SPEAKER_00]  Y una familia de más cuestionada.
+[SPEAKER_00]  No conozco la familia de Osman, pero tengo referencias personales de Osman.
+[SPEAKER_00]  y
+[SPEAKER_00]  Y Osman es una persona muy espiritual también.
+[SPEAKER_00]  Hay un trabajo, no solamente es tecnología, por decirlo así, sino también hay...
+[SPEAKER_00]  Hay unos asuntos muy espirituales que se... Acuérdense de una de las primeras frases.
+[SPEAKER_00]  que incluso no quedó en esta entrevista.
+[SPEAKER_00]  es
+[SPEAKER_00]  No se le preguntaron dónde es, sino...
+[SPEAKER_00]  Es que es rico estar aquí en Colombia.
+[SPEAKER_00]  eso también tiene que ver con la espiritualidad de Oswald si, por favor, siguen contándonos
+[SPEAKER_01]  Sí, por favor, siguen contándonos. Hay otro plano que hay que tocar.
+[SPEAKER_00]  Hay otro plano que hay que tocar.
+[SPEAKER_01]  Exacto, es una cosa fraternal. Mis amigos, mis colegas, mis compañeros entraron.
+[SPEAKER_01]  No, me enseñaron, me dejé enseñar, aprendí.
+[SPEAKER_01]  Y mi hermano le sigo, etc.
+[SPEAKER_01]  Es un concepto de tipo humano que nos interesa mucho reflejar.
+[SPEAKER_01]  Bueno, adelante, que interrumpí.
+[SPEAKER_03]  Sí, de hecho hay varias cosas porque a veces uno se lo olvida, pero si entran a jugar muchas cosas. Entonces, por ejemplo...
+[SPEAKER_03]  Yo me acuerdo que a mí me gusta mucho jugar fútbol.
+[SPEAKER_03]  y yo era de las personas cuando estaba en el colegio me la pasaba jugando en el parque todo el tiempo
+[SPEAKER_03]  Salía, dejaba las tareas para hacer la escuela por la noche y apenas llegaba al colegio me iba a jugar.
+[SPEAKER_03]  Y así.
+[SPEAKER_03]  Como mi mamá no estaba, porque...
+[SPEAKER_03]  a veces tenía que trabajar, pues no aprovechaba.
+[SPEAKER_03]  Pero, sin embargo, mis papás siempre estuvieron ahí, siempre fueron...
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  estuvieron presentes, digamos que eso también fue una ventaja.
+[SPEAKER_03]  Algo que
+[SPEAKER_03]  Que si fue como que yo...
+[SPEAKER_03]  Como que se pegó mucho de ellos, era como que ellos nos pedían que nos fuera bien en el estudio, porque pues era lo único que teníamos que hacer, o sea, ellos nos daban comida.
+[SPEAKER_03]  y
+[SPEAKER_03]  Todas las vestidas, a todo.
+[SPEAKER_03]  Lo único era que nos fuera bien en el estudio, porque era nuestra única responsabilidad.
+[SPEAKER_03]  Entonces, pues claro, uno siempre intentaba acomodarlo mejor a lo mejor y así.
+[SPEAKER_03]  Algo también que me motivaba mucho en la universidad.
+[SPEAKER_03]  A sacar buenas notas.
+[SPEAKER_03]  Era que mi papá me decía, si usted, cuando tocaba pagar la matrícula, me decía, si usted gana la beca,
+[SPEAKER_03]  Entonces, pues esa plata se la doy a esa persona.
+
+[SPEAKER_05]  usted
+[SPEAKER_05]  Yo sé, haga re bien, porque entonces eso me sirve.
+[SPEAKER_05]  Es para uno hacer sus compritas o sus cosas ahí que uno a veces quería comprar.
+[SPEAKER_05]  Ese tipo de motivaciones también me parece que servían mucho.
+[SPEAKER_05]  y
+[SPEAKER_05]  Y pues también, bueno, entonces ahí quiero mencionar algo y es...
+[SPEAKER_05]  Cuando yo arranqué...
+[SPEAKER_05]  Antes, como en segundo semestre, tercer semestre, que yo empecé como...
+[SPEAKER_05]  acomodarle un poquito más a las competencias.
+[SPEAKER_05]  Yo quería demostrarme a mí mismo.
+[SPEAKER_05]  que yo sí podía. Entonces me acuerdo mucho que...
+[SPEAKER_05]  que yo decía, yo puedo, yo puedo.
+[SPEAKER_05]  y
+[SPEAKER_05]  y quiero llegar tan lejos como se pueda. Entonces me acuerdo que hay como una gráfica de una página en internet donde uno puede practicar.
+[SPEAKER_05]  Y pues yo empecé así a bajar, a bajar, a bajar, a bajar, a bajar.
+[SPEAKER_05]  cuando estaba en la parte más baja,
+[SPEAKER_05]  Ahí fue cuando dije como, oiga, tengo que hacer algo para mejorar y empecé como con esto que les dije de...
+[SPEAKER_05]  empezar a reunirme los viernes y demás.
+[SPEAKER_05]  Y ahorita veremos qué pasó con esa gráfica.
+[SPEAKER_05]  Entonces digamos que una de las motivaciones era como yo sé que yo puedo y yo quiero llegar tan lejos como pueda.
+[SPEAKER_05]  ¿Hasta dónde? No sé.
+[SPEAKER_05]  Pero tan lejos como puedan.
+[SPEAKER_05]  Entonces, bueno, también en todo esto, digamos como uniéndolo como lo que decía antes, la parte espiritual.
+[SPEAKER_05]  justamente me quedé en el país y dije,
+[SPEAKER_05]  digamos en mi casa somos cristianos.
+[SPEAKER_05]  y somos de las personas que van a la iglesia cada ocho días y así.
+[SPEAKER_05]  Cuando yo...
+[SPEAKER_05]  estaba en 11
+[SPEAKER_05]  digamos que empecé a ir ya por voluntad propia a la iglesia.
+[SPEAKER_05]  No porque mis papás me decían, oigas que toca ir, oigas que es el plan de la familia, sino...
+[SPEAKER_05]  porque yo de verdad quería ir.
+[SPEAKER_05]  Y empecé a involucrarme un poquito más. Entonces, digamos que estaba trabajando en diferentes áreas, sin descuidar el área espiritual.
+[SPEAKER_05]  el área académica, el área personal.
+[SPEAKER_05]  Es como que yo sentía que estaba avanzando en...
+[SPEAKER_05]  en varias cosas.
+[SPEAKER_05]  y
+[SPEAKER_05]  Bueno, entonces ya...
+[SPEAKER_05]  volviendo a la época en la que estaba.
+[SPEAKER_05]  Yo
+[SPEAKER_05]  Bueno, como les dije, ya había competido dos veces en estas maratones.
+[SPEAKER_05]  Al final yo competí cinco veces, entonces hay buenas historias.
+[SPEAKER_05]  después de que yo competí la segunda vez
+[SPEAKER_05]  nos volvimos a quedar sin un integrante de equipo.
+[SPEAKER_05]  Entonces, yo seguía con mi amigo que era el novio de la chica.
+[SPEAKER_05]  Le damos los 2.
+[SPEAKER_05]  conectamos a una tercera persona.
+[SPEAKER_05]  Entonces ahí no sabíamos qué hacer.
+[SPEAKER_05]  Y estuvimos buscando, buscando, buscando, hasta que salió por ahí alguien de otro equipo.
+[SPEAKER_05]  que también como que
+[SPEAKER_05]  Como que quedó solo, entonces dijimos, como venga, hagámonos los tres.
+[SPEAKER_05]  Entonces ahí teníamos tres personas, él era matemático.
+[SPEAKER_05]  Bueno, era ingeniero de sistemas en matemático.
+[SPEAKER_05]  y nosotros dos éramos ingenieros de sistemas. Entonces ahí...
+[SPEAKER_05]  Pues pasó algo y es que yo me di cuenta que definitivamente la matemática les hacía el feo mucho.
+[SPEAKER_05]  Y yo a él le delegaba todos los problemas de matemáticas. Era problema matemáticas.
+[SPEAKER_05]  Usted lo hace.
+[SPEAKER_05]  Los demás, nosotros miramos cómo los hacemos. Y así.
+[SPEAKER_05]  Y ahí empezamos a entrenar muchísimo. Entonces, ahí algo importante es...
+[SPEAKER_05]  Pues yo ya estaba como en octavo semestre, más o menos.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  La carrera dura 10 semestres, yo ya estaba muy cerca a graduarme.
+[SPEAKER_05]  y no había ido a nada, ¿sí? A nada entre comillas.
+[SPEAKER_05]  Entonces ahí...
+[SPEAKER_05]  Yo decía como...
+[SPEAKER_05]  No, o sea...
+[SPEAKER_05]  Toca hacer algo.
+[SPEAKER_05]  para que dure más la carrera, porque no se lo puede competir mientras está estudiando.
+[SPEAKER_05]  Entonces ahí yo dije como...
+[SPEAKER_05]  Me tocó hablar con mis papás y decirle cómo...
+[SPEAKER_05]  pues no me voy a graduar en 10 semestres.
+[SPEAKER_05]  Entonces, pues les diré razones de por qué.
+[SPEAKER_05]  Y yo les dije, bueno, por un lado están estas las competencias y que no sé qué.
+[SPEAKER_05]  Y yo les dije, bueno, igual no se preocupen.
+[SPEAKER_05]  porque yo voy a seguirme ganando las becas, y con eso vamos a pagar la matrícula, entonces en realidad yo me voy a pagar la universidad.
+[SPEAKER_05]  Entonces, todo bien.
+[SPEAKER_05]  Sí.
+[SPEAKER_05]  y ellos al inicio como uy pero como así porque ellos son muy de
+[SPEAKER_05]  No, 10 meses o ya.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  no tengan ni idea de qué significa 10 semestres.
+[SPEAKER_05]  Entonces, yo les diría, pues confíen en mí. O sea, yo lo estoy haciendo por una buena razón, no es porque sea un vago, no es porque no sé qué.
+[SPEAKER_05]  Y bueno, pues yo digo, bueno, listo.
+[SPEAKER_05]  Está bien. Entonces, digamos que ya tenía el apoyo de mis papás.
+[SPEAKER_05]  Vamos a demorarnos un poquito. Entonces yo empezaba a meter carga mínima en la universidad.
+[SPEAKER_05]  ¿Para qué? Para tener más espacio para estudiar por mi cuenta este tema de las competencias.
+[SPEAKER_05]  Empezamos a reunirnos tres veces a la semana.
+[SPEAKER_05]  Le dábamos súper parejo, o sea, nos reuníamos como a las 9, de 9 a 2 estudiábamos cosas en la universidad.
+[SPEAKER_05]  y de un... íbamos a almorzar, volvíamos a la una.
+[SPEAKER_05]  Y de una a seis.
+[SPEAKER_05]  hacíamos una competencia.
+[SPEAKER_05]  Una competencia virtual.
+[SPEAKER_05]  porque estas competencias duran 5 horas.
+[SPEAKER_05]  Entonces, así tres días a la semana.
+[SPEAKER_05]  por casi
+[SPEAKER_05]  Siete meses, más o menos.
+[SPEAKER_05]  Y ahí yo empecé a mejorar, que empecé a mejorar mucho.
+[SPEAKER_05]  Empecé a notar que mejoraba mucho y la gráfica que les digo pues empezó a subir, empezó a subir, empezó a subir.
+[SPEAKER_05]  Y ya cuando yo iba a las SPLs, pues ya a veces quedaba de primeras o de segundas y así. Entonces, pues ya era como uno...
+[SPEAKER_05]  Entonces uno empieza a darse cuenta de esos cambios.
+[SPEAKER_05]  que no fue la noche a la mañana.
+[SPEAKER_05]  Lo estoy diciendo a siete meses que...
+[SPEAKER_05]  Siempre es tiempo.
+[SPEAKER_05]  Y yo dije, no, está muy chévere todo. Entonces, ahí.
+[SPEAKER_05]  Yo decía como, bueno...
+[SPEAKER_05]  Hay unos campamentos que se hacen afuera.
+[SPEAKER_05]  del país que son intensivos de programación.
+[SPEAKER_05]  Entonces yo dije, bueno...
+[SPEAKER_05]  Necesito plata para eso, pero pues no hay plata.
+[SPEAKER_05]  Entonces, ¿qué hago?
+[SPEAKER_05]  y empecé a trabajar.
+[SPEAKER_05]  en la universidad.
+[SPEAKER_05]  como tutor.
+[SPEAKER_05]  tutor de programación.
+[SPEAKER_05]  Entonces yo le daba tutoriales a las personas que estaban viendo programación básica, programación orientada a objetos, estructuras.
+[SPEAKER_05]  Y ahí empecé a notar algo y es que me gustaba mucho enseñar.
+[SPEAKER_05]  O se me daba, entonces yo, o sea, como que de verdad lo hacía con amor, o sea, como que me salía, como que la paciencia estaba ahí.
+[SPEAKER_05]  Entonces empecé a...
+[SPEAKER_05]  aprender cosas
+[SPEAKER_05]  que no había aprendido en el curso. ¿Por qué? Porque a veces llegaba alguien y me decía, oiga, es que tengo que hacer esto.
+[SPEAKER_05]  Y yo...
+[SPEAKER_05]  Pero ella tenía más conocimiento en mi mente, o sea...
+[SPEAKER_05]  Ya, ya.
+[SPEAKER_05]  Ya había roto ese...
+[SPEAKER_05]  como esa fortaleza mental de no puedo y esto es muy difícil, sino eso.
+[SPEAKER_05]  Ah bueno, vamos a investigar a ver cómo es. Busquemos en Google, en Google está todo, leamos.
+[SPEAKER_05]  ¿Entendí? Listo, te explico.
+[SPEAKER_05]  Y ahí empecé a aprender muchas cosas.
+[SPEAKER_05]  y a fortalecer como conocimientos o conceptos que antes había visto, pero no había entendido.
+[SPEAKER_05]  Entonces pues eso también fue
+[SPEAKER_05]  Fue bastante chévere.
+[SPEAKER_05]  Y ahí ya tuve el dinero para ir a una competencia.
+[SPEAKER_05]  a un training camp, se llama, un campamento de programación.
+[SPEAKER_05]  Esa vez fuimos también con...
+[SPEAKER_05]  Con el grupo que teníamos de chicos, con mis amigos de...
+[SPEAKER_05]  uno del primer semestre.
+[SPEAKER_05]  Con ellos fuimos allá.
+[SPEAKER_05]  Fuimos a Neuquén en Argentina.
+[SPEAKER_05]  estuvimos dos semanas, pues eso fue toda una experiencia.
+[SPEAKER_05]  Obviamente, pues, íbamos al RAS, entonces el desayuno siempre era como...
+[SPEAKER_05]  yogur con Kellogg's y ya. Y poquito porque se nos acababa.
+[SPEAKER_05]  Y la comida pues era lo que nos daban allá y así.
+[SPEAKER_05]  Pero fue un viaje muy chévere porque aprendimos muchos temas y muchas cosas. Conocimos mucha gente, como que empezamos ya a abrir un poco el...
+[SPEAKER_05]  el territorio ya no sólo colombia sino a existir más gente en otros lados
+[SPEAKER_05]  que también se dedica a lo mismo.
+[SPEAKER_05]  pues le meten la ficha.
+[SPEAKER_05]  Entonces, esa fue la primera experiencia ahí.
+[SPEAKER_05]  y
+[SPEAKER_05]  bueno
+[SPEAKER_05]  Después ya...
+[SPEAKER_05]  Entonces llegó la regional de ese año, me acuerdo mucho que fue 2015.
+[SPEAKER_05]  2015-2016.
+[SPEAKER_05]  No, fue en 2017.
+[SPEAKER_05]  Me acuerdo que nosotros ya hemos...
+[SPEAKER_05]  Mejor dicho, la vamos a romper.
+[SPEAKER_05]  Entrenamos muchísimo tiempo.
+[SPEAKER_05]  Somos los mejores, ¿no es así que?
+[SPEAKER_05]  Nos había ido muy bien en las...
+[SPEAKER_05]  competencias virtuales que habíamos hecho, entonces íbamos con expectativas altas.
+[SPEAKER_05]  El problema...
+[SPEAKER_05]  fue que no entrenamos algo y fueron los nervios.
+[SPEAKER_05]  O sea, el componente mental de...
+[SPEAKER_05]  Como me mantengo tranquilo.
+[SPEAKER_05]  y con
+[SPEAKER_05]  ¿Cómo controlar esas expectativas?
+[SPEAKER_05]  Y esa vez nos fue...
+[SPEAKER_05]  Nos fue re mal, entre comillas, porque quedamos como de cuartos.
+[SPEAKER_05]  Y fue como cuartas de entre 40 y fue como...
+[SPEAKER_05]  No, o sea, todo mal.
+[SPEAKER_05]  Y ahí el problema que mis amigos.
+[SPEAKER_05]  ya se graduaban, o sea, con los que yo tenía el equipo, ellos ya se graduaban y pues ya no tenían más chance de competir.
+[SPEAKER_05]  Ellos finalmente se fueron por allá a Microsoft, les salió su patente y su full time y todo.
+[SPEAKER_05]  Yo me quedé solo ahí, entonces yo dije, pues, pucha, ¿y ahora qué?
+[SPEAKER_05]  Entonces ahí...
+[SPEAKER_05]  Y...
+[SPEAKER_05]  En esa competencia ganaron mis amigos, los amigos del primer semestre.
+[SPEAKER_05]  Entonces ellos fueron esa vez a representar a Colombia.
+[SPEAKER_05]  Y cuando volvieron...
+[SPEAKER_05]  pues uno de ellos dijo como, no, pues yo como que ya fui, ya pues quiero dedicarme a otras cosas.
+[SPEAKER_05]  otras cosas de la carrera.
+[SPEAKER_05]  Entonces ahí se me abrió a mí la posibilidad.
+[SPEAKER_05]  Porque yo dije, ah, pues yo me puedo hacer con ellos dos.
+[SPEAKER_05]  Sí.
+[SPEAKER_05]  Obviamente fue como algo muy consensuado y hablado entre todos.
+[SPEAKER_05]  A lo que decimos es
+[SPEAKER_05]  El que se quería salir quedaba como coach, como entrenador de los demás.
+[SPEAKER_05]  y quedamos los otros tres en el equipo.
+[SPEAKER_01]  y listo, entonces ahí ¿Soy yo o perdimos el audio?
+[SPEAKER_05]  Entonces ahí...
+[SPEAKER_01]  ¿Otra vez?
+[SPEAKER_01]  No, yo lo escucho.
+[SPEAKER_03]  ¿Vale?
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  ¿Oye?
+[SPEAKER_03]  Yo lo escucho bien.
+[SPEAKER_03]  Chao.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Muchas gracias.
+[SPEAKER_03]  Rafa.
+[SPEAKER_03]  Muchas gracias.
+[SPEAKER_04]  Sí, era Rafa.
+[SPEAKER_03]  Sí, la dejamos en la cámara.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Está congelado, quedó congelado.
+[SPEAKER_03]  ¡Ah, desapareció!
+[SPEAKER_04]  Tenemos un minuto de esta reunión.
+[SPEAKER_03]  Un minuto.
+[SPEAKER_04]  Buen apetite.
+[SPEAKER_04]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_00]  Una preguntita mientras llega Rafael.
+[SPEAKER_00]  Osma y es de todas estas experiencias.
+[SPEAKER_00]  que has tenido tanto como estudiante, luego como tutor.
+[SPEAKER_00]  ¿Cuáles han sido esos lenguajes de programación que te han llamado más la atención y por qué?
+[SPEAKER_01]  ¡Adiós!
+[SPEAKER_00]  o de esos lenguajes en los que has trabajado.
+[SPEAKER_00]  qué es lo que más te ha gustado de esos lenguajes.
+[SPEAKER_05]  Ah bueno, pues digamos ya ahí yo trabajé en C++ y en Java.
+[SPEAKER_05]  y
+[SPEAKER_05]  Pues hemos más...
+[SPEAKER_05]  lo trabaja mucho en las competencias. Digamos que era como el que más dominaba.
+[SPEAKER_05]  pero a veces pasa, o sea como que era muy difícil uno hacer cosas como interfaz gráfica y demás.
+[SPEAKER_05]  cuando conocí después Java.
+[SPEAKER_05]  Yara pues hundudo haciendo interpagas gráficas
+[SPEAKER_05]  Pero adelante pues ahí como...
+[SPEAKER_05]  como locales, como programas locales.
+[SPEAKER_05]  y ahí
+[SPEAKER_05]  Ese me gustaba mucho porque...
+[SPEAKER_05]  por esa flexibilidad, porque le ofrecía a uno más cosas. Y como no tan plano como sale la consola negra que a nadie le gusta y eso es nuevo.
+[SPEAKER_05]  Puedo hacer ventanas que salgan.
+[SPEAKER_05]  hacer diferentes menús, interfaz gráfica, etc.
+[SPEAKER_05]  ¿Hay traja con Java?
+[SPEAKER_05]  Ahí trabajé también con Rubion Rails, pero eso sí lo trabajé muy poco, o sea, fue como solo para la materia y ya.
+[SPEAKER_05]  y
+[SPEAKER_05]  Y hasta ahí había trabajado a vosotros.
+[SPEAKER_05]  Había trabajado Python también, porque en algoritmos usamos Python.
+[SPEAKER_05]  pero sabían lo básico como
+[SPEAKER_05]  Los ciclos Ford, diccionarios y así.
+[SPEAKER_05]  pero pues no me parecía tampoco tan llamativo.
+[SPEAKER_05]  Sí tenía fortalezas, pero pues yo decía, pues es que con temas más...
+[SPEAKER_05]  pues lo puedo hacer.
+[SPEAKER_05]  casi que todo.
+[SPEAKER_05] 
+[SPEAKER_05]  Cosas que me gustan, o que uno sabe de los lenguajes, es que, por ejemplo, en C++ las cosas corren muy, muy rápido. El tiempo de ejecución es muy, muy rápido.
+[SPEAKER_05]  Es muy bajo. Entonces, eso era muy llamativo sobre Java. Entonces, por ejemplo, yo para las competencias nunca, casi nunca que usé Java.
+[SPEAKER_05]  porque ya va a ser demorado mucho.
+[SPEAKER_05]  Sí, por favor.
+[SPEAKER_05]  por el proceso de que no es compilado y tiene que hacer varios procesos, entonces era como...
+[SPEAKER_05]  un poquito más difícil. Entonces, dependiendo para qué necesitaba hacer lo que necesitaba hacer, pues usaba o C++ o Java. Hasta ahí, hasta ese punto. Ahí no había aprendido mucho más.
+[SPEAKER_00]  Y otra preguntita de la experiencia que tuviste con el profe Joan, que también, digamos, compartimos algunos de los profesores que fueron mis profesores también.
+[SPEAKER_00]  Con el profe Joan, desde la parte de metodología de enseñanza, ¿qué fue lo que más te llamó la atención?
+[SPEAKER_01] 
+[SPEAKER_00]  y si adoptaste alguno de sus aspectos o elementos.
+[SPEAKER_00]  en la forma en que desarrollabas tus tutorías o tu...
+[SPEAKER_00]  tu compartir ese conocimiento con los demás.
+[SPEAKER_05]  A mí me gustaba que, o sea, él se preocupaba porque no tuviera claros los conceptos. Entonces, como te decía, nosotros...
+[SPEAKER_05]  en la clase
+[SPEAKER_05]  Rara vez usábamos los computadores, solo para el proyecto final.
+[SPEAKER_05]  que le hacían muchos dibujos.
+[SPEAKER_05]  Entonces, él tenía sus diapositivas, su código.
+[SPEAKER_05]  Y tenía el código.
+[SPEAKER_05]  segmentado, entonces él tenía funciones pequeñas pues para que uno no se asustara viendo todo el mamotreto ahí de código
+[SPEAKER_05]  Y él se preocupaba porque no entendiera lo que estaba haciendo cada línea.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  ah, ¿qué está haciendo esta línea? tal cosa y el
+[SPEAKER_05]  Algo que decía era que a veces hacía preguntas trampas.
+[SPEAKER_05]  Y eso era chévere porque...
+[SPEAKER_05]  pues muchas veces caía y él lo corregía como, ah, no, entonces en realidad lo que pasa acá es esto y así.
+[SPEAKER_05]  Entonces me parece que ese esquema era muy importante y se notaba mucho también que él se preocupaba por las personas. Entonces me acuerdo mucho que al final...
+[SPEAKER_05]  No, no, al final, cuando después de cada evaluación, él se reunía con cada uno y le decía, bueno...
+[SPEAKER_05]  ¿Verdad que le fue bien? Pues bueno, re bien, sigue así, no sé qué.
+[SPEAKER_05]  Al que le fue mal es como, bueno, ¿qué pasa?
+[SPEAKER_05]  Tiene problemas como de pronto en la familia.
+[SPEAKER_05]  hay algo que no está quedando claro, como que se preocupa de verdad de por qué a esta persona no le está yendo bien.
+[SPEAKER_05]  Entonces eso me parece también...
+[SPEAKER_05]  Yo pocas veces he visto profesores que se preocupen.
+[SPEAKER_05]  ¡Ay, se me huye!
+[SPEAKER_05]  Entonces eso me parecía maravilloso.
+[SPEAKER_05]  Y pues también creo que él, no sé la forma de ser de él, es como que las claves eran muy chistosas.
+[SPEAKER_05]  Yo digo, es difícil hacer que una clase de programación sea chistosa.
+[SPEAKER_05]  Pero a uno se le pasaba toteado en la risa. Y pues eso hacía, no sé, que a uno se le quedaran mal las cosas, de alguna forma.
+[SPEAKER_05]  entonces diría que eso
+[SPEAKER_05]  Gracias.
+[SPEAKER_00]  Listo, gracias.
+[SPEAKER_00]  Sí.
+[SPEAKER_01]  Claro, fíjense que se rescata...
+[SPEAKER_01]  Aquí esencialmente en estas respuestas.
+[SPEAKER_01]  vuelve a salir
+[SPEAKER_01]  Sí, el efecto está asociado con la tecnología, con la programación, con...
+[SPEAKER_01]  con la disciplina.
+[SPEAKER_01]  si se quiere
+[SPEAKER_01]  pero sale constantemente.
+[SPEAKER_01]  la importancia del humano.
+[SPEAKER_01]  en todos estos procesos.
+[SPEAKER_01]  el
+[SPEAKER_01]  Fíjense que en algún momento dice...
+[SPEAKER_01]  Había que hacer un sacrificio grande para obtener el...
+[SPEAKER_01]  el logro que yo quería. Después, enseñar
+[SPEAKER_01]  enseñarle de alguna manera.
+[SPEAKER_01]  fue un mecanismo
+[SPEAKER_01]  Una ruta para yo mismo mejorar.
+[SPEAKER_01]  Entonces mejoro en la medida que apoyo y que ayudo a otros.
+[SPEAKER_01]  Eh
+[SPEAKER_01]  Destaco sobre todo en las metodologías de interacción con los demás.
+[SPEAKER_01]  Y las metodologías...
+[SPEAKER_01]  en los ejercicios docentes.
+[SPEAKER_01]  Esa preocupación de un humano por otro humano.
+[SPEAKER_01]  Más que...
+[SPEAKER_01]  Que decía, alguien hizo un código bien, me preocupa.
+[SPEAKER_01]  No queda prenda BFS.
+[SPEAKER_01]  No me preocupa de extra.
+[SPEAKER_01]  El tipo va a aprender el dixtra tarde o temprano.
+[SPEAKER_01]  Me preocupa.
+[SPEAKER_01]  que a esa persona
+[SPEAKER_01]  le puede estar pasando algo.
+[SPEAKER_01]  Y yo...
+[SPEAKER_01]  puedo afectar positivamente su proceso de vida.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Y eso es algo que ha salido en esta conversación.
+[SPEAKER_01]  Eh.
+[SPEAKER_01]  con Osman en muchos niveles.
+[SPEAKER_01]  pero siempre...
+[SPEAKER_01]  el humano allí presente.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Estaba viendo y quería buscarlo. Se lo voy a enviar por correo si no lo tienes. Encontré el set de problemas de ESA Nacional 2018.
+[SPEAKER_01]  que tuvo después unos efectos.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Sí, me acuerdo, ahora sí, eso no lo dije, pero...
+[SPEAKER_05]  Al medio duro esa vez, o sea...
+[SPEAKER_05]  Yo me sentía entusasmo.
+[SPEAKER_05]  Literal, llegué ese día.
+[SPEAKER_05]  Empecé a ver series y el domingo, el domingo duré todo el día en la cama.
+[SPEAKER_05]  Más que mis papás habían viajado ese fin de semana.
+[SPEAKER_05]  Era como no muy triste, era impresionantemente triste.
+[SPEAKER_05]  digamos que yo no hasta ese momento no había sentido como algo así porque no había tenido novia
+[SPEAKER_05]  entonces era como, se siente re feo, como un dolor acá en el pecho.
+[SPEAKER_05]  Lo que demostrar es que pues era muy importante para mí. Sí, era como un... ¿Y coach era...?
+[SPEAKER_01]  ¡Cóllate!
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Era Iván Castellano, ¿cierto?
+[SPEAKER_05]  Sí, ahí el coach era Iván Cartellanos. Sí, no sé de quién era Iván Cartellanos.
+[SPEAKER_01]  Sí, no sé.
+[SPEAKER_05]  Sí.
+[SPEAKER_05]  entonces claro eso fue duro pero también me acuerdo mucho
+[SPEAKER_05]  Pues obviamente ya después de que uno...
+[SPEAKER_05]  Padráteste, ¿ves? Como...
+[SPEAKER_05]  Al siguiente día, que era lunes,
+[SPEAKER_05]  me levanté a las 4 de la mañana porque había una competencia virtual.
+[SPEAKER_05]  Y yo dije, pues, nada, toca seguirle dando, o sea.
+[SPEAKER_05]  Ya duré dos días encamado.
+[SPEAKER_05]  Pues toca seguir, me queda tiempo.
+[SPEAKER_05]  Te diste por mis compañeros que pues no...
+[SPEAKER_05]  pues tristes entre comillas, porque al final pues ellos igual consiguieron su pasantía y todo.
+[SPEAKER_05]  Pero es como pues yo tengo que seguir y también dije como voy a seguir por ellos.
+[SPEAKER_05]  Voy a llegar lejos, lo más lejos que pueda.
+[SPEAKER_05]  por ellos, porque cada una de esas personas
+[SPEAKER_05]  como que ha tenido un impacto y me ha ayudado de cierta forma.
+[SPEAKER_05]  Entonces, ya sea por ellos, vamos a darla toda también.
+[SPEAKER_05]  Pues a hacer.
+[SPEAKER_05]  Y otra cosa que quería comentar es que...
+[SPEAKER_05]  hubo momentos.
+[SPEAKER_05]  muy tristes, o sea, tristes entre comillas, porque yo a veces intentaba aprender un algoritmo.
+[SPEAKER_05]  o un problema, intentaba hacerlo y...
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  no me servía.
+[SPEAKER_05]  Y pues eso que uno lo envía y no le sirve y no sabe por qué, pero creo que pasa, pero no sé qué.
+[SPEAKER_05]  Y a veces yo me agarraba a llorar, era como muy triste.
+[SPEAKER_05]  Y yo decía, como no estoy demasiado frustrado,
+[SPEAKER_05]  Y lo que hacía era que me iba al parque a jugar o a despejar la mente o algo así.
+[SPEAKER_05]  Oye, te siento lujoso, pues.
+[SPEAKER_05]  siendo muy espiritual, pues.
+[SPEAKER_05]  que yo oraba y le entregaba eso a Dios y le decía como, no Dios, no puedo, ayúdame.
+[SPEAKER_05]  Y pues eso a mí me ayudó mucho. Hoy en día, pues...
+[SPEAKER_05]  incluso me ha agarrado más de la mano de...
+[SPEAKER_05]  Y siento que fue también como...
+[SPEAKER_05]  como una gran ayuda, porque hay momentos que yo ya...
+[SPEAKER_05]  No puedo, según ahorita lo cuentan como...
+[SPEAKER_00]  puedo
+[SPEAKER_05]  Sí, el proceso fue genial, pero hay un día de verdad muy triste, muy frustrante, muy, muy frustrante.
+[SPEAKER_05]  Pero pues nada, de todo eso pues uno aprende.
+[SPEAKER_05]  Gracias.
+[SPEAKER_03]  Ahí quiero comentarte algo.
+[SPEAKER_03]  Creo que hemos captado mucho esa interioridad de Osman, ¿no?
+[SPEAKER_03]  tan fuerte, tan valiosa.
+[SPEAKER_03]  Mmm...
+[SPEAKER_03]  Yo he venido estudiando desde hace muchos años la psicología del programador.
+[SPEAKER_03]  Yo tengo una maestría en filosofía, aparte de la ingeniería, y obviamente me llevan esos temas con mucha inquietud.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Y hay un tema que se abre en la programación que se llama la egoprogramación.
+[SPEAKER_03]  es el concepto de que el programa es como un hijo.
+[SPEAKER_03]  No.
+[SPEAKER_03]  Y si alguien dice, ¿qué programa tan mal hecho? Eso es un golpe en el alma, ¿no?
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Es muy interesante.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  lo que es.
+[SPEAKER_03]  Cuando una persona sufre...
+[SPEAKER_03]  No porque no tenía plata, no porque lo echó la novia, sino porque no le funcionó el algoritmo. ¿De acuerdo?
+[SPEAKER_03]  Eso es lo que se llama una verdadera entrega al tema, ¿sí? Que es muy importante.
+[SPEAKER_03]  Repaso cositas, lo del fútbol.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  que te gustaba es el trabajo en equipo
+[SPEAKER_03]  ¿No?
+[SPEAKER_03]  Que es un tema muy importante. Yo tengo una anécdota un poco floja, pero...
+[SPEAKER_00]  Amén.
+[SPEAKER_03]  Yo era malísimo para el fútbol de niño.
+[SPEAKER_03]  Y en el parque mis primos eran buenísimos. Ahí está Fernando Dávila Rafa.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Muy buen jugador. Fue arquero, el mejor arquero.
+[SPEAKER_03]  Bueno.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Él no era del Chufo.
+[SPEAKER_03]  Y resulta que es una anécdota que digo que yo aprendí... Ah, no, es...
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Ah, no, era el póngalo.
+[SPEAKER_03]  Sí.
+[SPEAKER_03]  Yo aprendí que era un número par e impar jugando con mis primos en el parque. ¿Por qué?
+[SPEAKER_03]  Porque...
+[SPEAKER_03]  Los capitanes pasaban así los pies para pedir al uno y pedir al otro.
+[SPEAKER_03]  Si el número era par, me pedían de último.
+[SPEAKER_03]  Y si el número era impar, cuidaba la portería.
+[SPEAKER_03]  ¿Sí?
+[SPEAKER_03]  Entonces aprendí que eran números par y par. Muy malo para el fútbol.
+[SPEAKER_03]  Pero esa función, digamos, esa...
+[SPEAKER_03]  gusto por el trabajo en equipo, que es eso que tiene Oswald muy valioso.
+[SPEAKER_03]  Otra cosita, quería más semestres.
+[SPEAKER_03]  No.
+[SPEAKER_03]  Al contrario, no quiero estudiar más.
+[SPEAKER_03]  Muy importante.
+[SPEAKER_04]  No, le convenía permanecer en la universidad para poder seguir compitiendo.
+[SPEAKER_03]  seguir
+[SPEAKER_03]  competiendo.
+[SPEAKER_03]  más
+[SPEAKER_03]  La frase aprendía con...
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  El reto personal no lo había cumplido.
+[SPEAKER_03]  Exacto. Sí, personal de mejorar.
+[SPEAKER_03]  la de morarse en la universidad para seguir aprendiendo más.
+[SPEAKER_04]  demorar.
+[SPEAKER_04]  Claro.
+[SPEAKER_03]  No, no, no.
+[SPEAKER_03]  Otra frase de él, aprender cosas que no sabía por necesidad de enseñar.
+[SPEAKER_06]  ¿Verdad?
+[SPEAKER_03]  Cuando estaba enseñando a los amigos.
+[SPEAKER_03]  Y si ahí estoy yo no lo sé, ¿sí? Tengo que aprender más.
+[SPEAKER_03]  Y otro tema que anoto aquí con interrogante es muy chistoso.
+[SPEAKER_03]  queda de cuarto y dice que le fue mal.
+[SPEAKER_03]  Hmm.
+[SPEAKER_03]  ¿No?
+[SPEAKER_03]  El cuarto entre 40 y me fue muy mal.
+[SPEAKER_03]  Significa obviamente un deseo de ser ganador.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Que tal vez lo fue demostrando después.
+[SPEAKER_03]  Bueno, eran algunos comentarios...
+[SPEAKER_01]  Sobre eso y complementando esa última, nosotros tenemos una anécdota.
+[SPEAKER_01]  con una persona que tal vez conociste, ¿no, Ben? ¿O conoces?
+[SPEAKER_01]  Andrés Mejía, que estuvo en AFIT.
+[SPEAKER_04]  Amén.
+[SPEAKER_01]  Estábamos por iniciar la competencia en Varsovia.
+[SPEAKER_01]  y
+[SPEAKER_01]  Y pues normalmente me los encuentro, entonces los saludo.
+[SPEAKER_01]  en el mundial. Kiu, ¿cómo estás? ¿Qué tal el estrés?
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Yo estoy fresco.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Yo estoy fresco, nosotros estamos estresaditos, pero rico.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Estresado debe ser aquel.
+[SPEAKER_01]  Y señaló.
+[SPEAKER_01]  al equipo de la Universidad de Eripo.
+[SPEAKER_01]  a los rusos.
+[SPEAKER_01]  ¿Listo?
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Si nosotros hacemos dos problemas, tres problemas...
+[SPEAKER_01]  Estamos ganados.
+[SPEAKER_01]  En cambio, si esos tipos no quedan campeones mundiales, son unos fracasados.
+[SPEAKER_01]  Ese tipo de cosas.
+[SPEAKER_01]  se empiezan a manejar en ese ambiente.
+[SPEAKER_01]  Por eso cuando Dios nos dice, esa vez no fue mal, quedamos cuartos.
+[SPEAKER_01]  No.
+[SPEAKER_01]  Hola, ¿qué tal?
+[SPEAKER_01]  ¿Cómo cambia de dimensión la cosa?
+[SPEAKER_01]  dependiendo del punto de vista de quien la está viviendo.
+[SPEAKER_06]  Mmm.
+[SPEAKER_01]  Entonces, nada, sigue por favor, Osvaldo.
+[SPEAKER_01]  Tenemos unos...
+[SPEAKER_01]  Un...
+[SPEAKER_01]  Un rato me gustaría que...
+[SPEAKER_01]  pedirte un favor, y es que
+[SPEAKER_01]  Mmm.
+[SPEAKER_01]  No quiere acelerar el asunto.
+[SPEAKER_01]  Si no,
+[SPEAKER_01]  que no nos vayamos a perder.
+[SPEAKER_01]  Esta parte.
+[SPEAKER_01]  que ocurre y que está ocurriendo y que sigue ocurriendo.
+[SPEAKER_01]  de
+[SPEAKER_01]  De esa dedicación que tiene.
+[SPEAKER_01]  Os voy a...
+[SPEAKER_01]  A entrenar.
+[SPEAKER_01]  Osman ha sido uno de los coaches invitados en los diferentes training camps que hemos estado organizando.
+[SPEAKER_01]  Después, cuando ya no está estudiando o ya no puede seguir participando.
+[SPEAKER_01]  Desde esa época empieza...
+[SPEAKER_01]  a ser coach.
+[SPEAKER_01]  para compartir sus conocimientos no solamente
+[SPEAKER_01]  con
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  los equipos que está entrenando.
+[SPEAKER_01]  sino haciendo coaching, por ejemplo, o compartiendo tus conocimientos como entrenador invitado en un training camp para 80 personas.
+[SPEAKER_01]  Ese pedazo no me gustaría que lo perdiéramos. Entonces, sigamos donde ibas, pero no vas a perder de vista eso último.
+[SPEAKER_05]  Sí, digamos ahí...
+[SPEAKER_05]  Hay una universidad nacional, algo que como les mencionaba
+[SPEAKER_05]  Las clases las daban los que sabían más.
+[SPEAKER_05]  a los nuevitos, a los que quieran meterse en el cuento.
+[SPEAKER_05]  Ahí ya en ese punto pues ya uno empezaba también a editar clases, porque digamos que ya eran, ya uno pasaba los últimos semestres desde los que ya ahora sabe más.
+[SPEAKER_05]  Y era increíble porque yo me daba cuenta.
+[SPEAKER_05]  que había cosas que no sabía bien cómo funcionaba.
+[SPEAKER_05]  hasta que las he explicado. O sea, es muy raro, pero es como...
+[SPEAKER_05]  Y a veces me quedaba pensando, ¿esto por qué funciona así?
+[SPEAKER_05]  Ah, es por esto. Listo, lo he explicado.
+[SPEAKER_01]  Lo más normal. A todos los que estamos aquí hemos sido profesores.
+[SPEAKER_01]  ¿Uno entiende algo?
+[SPEAKER_01]  aparentemente de verdad, por fin termina de entender.
+[SPEAKER_01]  cuando trata de...
+[SPEAKER_01]  de explicárselo o enseñárselo a alguien. Perdón por la interrupción.
+[SPEAKER_05]  Entonces, digamos que...
+[SPEAKER_01]  estemos devolviendo.
+[SPEAKER_05]  Sí, sí, no, es como la pirámide.
+[SPEAKER_05]  el conocimiento y todo, está como la parte más alta de enseñarle a otros.
+[SPEAKER_05]  Entonces, pues nada, ahí como que fui entrenando ese tema de dar clases y demás.
+[SPEAKER_05]  que más adelante...
+[SPEAKER_05]  Como dice Rafa, iba a ser bastante útil.
+[SPEAKER_05]  Ahí pues digamos que ya seguimos entrenando y todo.
+[SPEAKER_05]  y
+[SPEAKER_05]  Hice ese nuevo equipo con mis amigos, los del primer semestre.
+[SPEAKER_05]  Y ahí yo dije, bueno, pues ya no hay competencia. Ya lo que necesitamos, no hay competencia en Colombia, porque ya éramos un equipo muy fuerte.
+[SPEAKER_05]  Entonces...
+[SPEAKER_05]  Yo dije, no, pues lo que nos toca es empezar a apuntar afuera.
+[SPEAKER_05]  vamos a ocupar una posición en Latinoamérica más decente.
+[SPEAKER_05]  Entonces empezamos a entrenar, también nos reuníamos mucho, ta, ta, ta.
+[SPEAKER_05]  llegó la competencia.
+[SPEAKER_05]  la competencia regional de ese año, y algo curioso es que de la nada...
+[SPEAKER_05]  en la universidad, empezaron a aparecer varios equipos fuertes, o sea, no de la nada, sino de esas personas que nosotros les dábamos clases.
+[SPEAKER_05]  Parece que había gente que sí, de verdad, estaba entendiendo.
+[SPEAKER_05]  y llegaron a la competencia nacional.
+[SPEAKER_05]  y de hecho nos ganaron.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Habiendo dos equipos...
+[SPEAKER_05]  con personas bastante buenas.
+[SPEAKER_05]  y uno de ellos nos ganó.
+[SPEAKER_05]  Y nosotros como, como nos van a ganar ellos, y nosotros somos los del último semestre y que no sé qué.
+[SPEAKER_05]  Se fue como una ofensa.
+[SPEAKER_05]  Y ya después en la competencia regional, pues nosotros íbamos con toda. Esa vez estábamos inspirados y todos los problemas que hicimos los sacamos en la primera, en el primer intento.
+[SPEAKER_05]  Y esa vez ganamos, hicimos un 2-3, la Universidad Nacional hizo el 1-2-3 de año.
+[SPEAKER_05]  y pues fue muy chévere porque era como bueno nos fue bien y además hay varios equipos que para el siguiente ciclo pues siguen quedando
+[SPEAKER_05]  Entonces...
+[SPEAKER_05]  Bueno, ahí fuimos a Portugal, entonces nos ganamos el cupo a Portugal, fuimos a Portugal a representar a...
+[SPEAKER_05]  al país.
+[SPEAKER_05]  y fuimos también con un equipo de los Andes, con Juan Camilo, ahí ya éramos amigos de Juan Camilo.
+[SPEAKER_05]  porque ahí como que se empezó a abrir una barrera que había antes y era que...
+[SPEAKER_05]  la Universidad Nacional no interactuaba con los demás, o como que se chocaban.
+[SPEAKER_05]  Pero pues a nosotros nos parecía que era una bobada, entonces nosotros nos ayudamos entre nosotros.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Entonces con Juan Camilo empezamos a hacer más cosas.
+[SPEAKER_05]  a reunirnos con gente de otras universidades y así.
+[SPEAKER_05]  Entonces, estamos como expandiendo ese conocimiento.
+[SPEAKER_05]  Nosotros fuimos a Portugal.
+[SPEAKER_05]  Allá nos fue, digamos que...
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Más o menos, hicimos como tres problemas.
+[SPEAKER_05]  de
+[SPEAKER_05]  12 o de 10, quedamos como
+[SPEAKER_00] 
+[SPEAKER_05]  posición
+[SPEAKER_05]  90 como de 150
+[SPEAKER_05]  Pero fue re duro.
+[SPEAKER_05]  La experiencia fue increíble porque uno sentía una emoción y como estoy como los mejores.
+[SPEAKER_05]  Pero los problemas eran muy difíciles, o sea, era una vaina loquísima.
+[SPEAKER_05]  Nosotros no nos habíamos preparado lo suficiente.
+[SPEAKER_05]  para ese tipo de problemas. Entonces, pues fue frustrante en parte porque a las 4 horas llevamos un problema.
+[SPEAKER_05]  En la última hora alcanzamos a sacar 2.
+[SPEAKER_05]  Yo no salió como tranquilo, como bueno, listo.
+[SPEAKER_05]  No ganamos la mejor posición del mundo, pero nos fue más o menos.
+[SPEAKER_05]  lo que nos podía ir.
+[SPEAKER_05]  Sí, como lo que nos da nuestro límite.
+[SPEAKER_05]  Entonces esa fue una experiencia muy chévere.
+[SPEAKER_05]  mis dos compañeros ahí.
+[SPEAKER_05]  de esa mundial, ya habían ido a dos mundiales y ya no podían ir a la siguiente.
+[SPEAKER_05]  Entonces ahí de nuevo yo me vuelvo a quedar solo.
+[SPEAKER_05]  ¿Y ahora qué?
+[SPEAKER_05]  Entonces yo ahí empecé como a planear.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Yo soy como una persona que siempre va mirando mucho de adelante.
+[SPEAKER_05]  Entonces yo sabía que había un par de personas en la universidad que eran justamente los dos equipos que les dije, el segundo y tercero.
+[SPEAKER_05]  dos personas que eran muy pilas, y yo les dije...
+[SPEAKER_05]  Entonces empecé a hablar por privado, como venga, ¿por qué no hacemos un equipo? ¿Podemos hacer un equipo súper chévere? Que no sé qué.
+[SPEAKER_05]  Ellos me copiaron.
+[SPEAKER_06]  y
+[SPEAKER_05]  Hicimos un equipo, ellos se llaman Roger y Johnny.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Entonces...
+[SPEAKER_05]  y
+[SPEAKER_05]  fue increíble porque
+[SPEAKER_05]  Hasta ese punto yo decía, listo, yo ya logré llegar lo más lejos que podía.
+[SPEAKER_05]  Voy a competir otra vez.
+[SPEAKER_00]  Bueno.
+[SPEAKER_05]  Y por nada.
+[SPEAKER_05]  Pero estos dos manes, que es un matemático re duro, que también estudió en mi colegio y ocupó como casi que el primer puesto en el examen de la Nación, o sea, el man es un duro.
+[SPEAKER_05] 
+[SPEAKER_05]  Y el otro chico que es de sistemas, pero con un pensamiento también muy matemático. Y empezaron a mejorar mucho, mucho, mucho. Hasta tal punto que me sobrepasaron.
+[SPEAKER_00]  que se van a mejorar.
+[SPEAKER_05]  estaban por allá, re lejos.
+[SPEAKER_05]  Y decía, no, pues yo no me puedo dejar. O sea, somos equipo y todo.
+[SPEAKER_05]  Pero yo también tengo que empezar a aportar más en el equipo.
+[SPEAKER_05]  Entonces ahí empezamos a entrenar. Yo les empecé a enseñar muchas cosas a ellos porque yo tenía mucho conocimiento algorítmico.
+[SPEAKER_05]  porque me gustaba mucho leer.
+[SPEAKER_05]  Entonces ahí empezamos a entrenar, a entrenar, a entrenar y nos dimos cuenta que teníamos un equipo muy bueno.
+[SPEAKER_05]  Muy, muy bueno.
+[SPEAKER_05]  Entonces empezamos como a...
+[SPEAKER_05]  Pues nada, a darle, a darle, a darle.
+[SPEAKER_05]  Llegó el siguiente año.
+[SPEAKER_05]  y ahí fue cuando ya era mi última competencia.
+[SPEAKER_05]  Y competimos en la maratón regional, maratón nacional y regional.
+[SPEAKER_05]  Y ahí fue como la cúspide de todo, porque nos fue tan bien que quedamos de segundas.
+[SPEAKER_05]  a nivel Latinoamérica.
+[SPEAKER_05]  que pues eso era una locura para mí, que yo, como les dije, o sea...
+[SPEAKER_05]  el que tenía problemas con el ciclo Ford.
+[SPEAKER_05]  pues está ganando una competencia, o está quedando de segundas a nivel Latinoamérica. O sea, eso ya era como, ¡guau!
+[SPEAKER_05]  Y ninguno de ustedes se lo esperaba, pero fue como...
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Muy bien.
+[SPEAKER_05]  Gracias.
+[SPEAKER_06]  Entonces, ¿sabes?
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  ¿Cómo?
+[SPEAKER_01]  Una cosa.
+[SPEAKER_01]  También...
+[SPEAKER_01]  También pensando un poquito en...
+[SPEAKER_01]  En el tiempo, teníamos programados hasta las 5 y media, más o menos.
+[SPEAKER_01]  Fíjense que en ese momento Porto...
+[SPEAKER_01]  Mundial de Portos en 2019
+[SPEAKER_01]  El siguiente mundial
+[SPEAKER_01]  Va a ser en Moscú en 2020 y nos cae una pandemia.
+[SPEAKER_01]  El CEMundial se resulta siendo a finales de 2021.
+[SPEAKER_01]  Pero...
+[SPEAKER_01]  Pero entonces me imagino que les dio además...
+[SPEAKER_01]  una ventana de tiempo muy interesante para...
+[SPEAKER_01]  para entrenar y dedicarse a...
+[SPEAKER_01]  Ya conocemos por dónde van los tiros en un mundial, porque ya he estado en eso.
+[SPEAKER_01]  pero necesitamos avanzar. Entonces les dio una ventana de tiempo para estudiar.
+[SPEAKER_01]  bien interesante.
+[SPEAKER_01]  Y...
+[SPEAKER_03]  Una cosita, Rafa, y para que quede en el registro.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03] 
+[SPEAKER_03]  Los temas de Osman, que los tengo acá, que tú me los enviaste, Rafa.
+[SPEAKER_03]  Tengo temas como puesto 11 entre 2114 en la...
+[SPEAKER_03]  extreme programming de IEEE
+[SPEAKER_03]  Segundo puesto en 311.
+[SPEAKER_00] 
+[SPEAKER_03]  en la Maratón Nacional Colombia.
+[SPEAKER_03]  Primer puesto.
+[SPEAKER_06] 
+[SPEAKER_03]  en la...
+[SPEAKER_03]  también en la Nacional de Colombia. Primer puesto en el Frente 119.
+[SPEAKER_03]  Primer puesto entre 87.
+[SPEAKER_03]  en Sudamérica.
+[SPEAKER_03]  Segundo puesto entre 454 en el 2019.
+[SPEAKER_03]  en el Latinoamerican Programming Regional Contest.
+[SPEAKER_03]  De los 16 PCs que tengo aquí, 4.
+[SPEAKER_03]  Como COS estamos Q2022, finalista 2021.
+[SPEAKER_03]  también finalista, este fue en Bangladesh.
+[SPEAKER_03]  Rusia 2020 y Portugal 2019.
+[SPEAKER_03]  Yo quería que quedara esto como registro de Orfan, ¿no? Como algo muy definido con respecto...
+[SPEAKER_03]  a estos éxitos en sus maratones.
+[SPEAKER_03]  ¿Ves?
+[SPEAKER_03]  Sigamos, Rafa, adelante. Pero quería que eso quedara como registro en esta grabación.
+[SPEAKER_01]  Gracias Manuel, muy buena información.
+[SPEAKER_01]  Y nótense que si bien él dice, y en este momento fue mi máximo.
+[SPEAKER_01]  en
+[SPEAKER_01]  Pareciera.
+[SPEAKER_01]  Siempre, de hecho, en algún momento...
+[SPEAKER_01]  Dice como si se hubiera sorprendido. Quedamos de segundos, nadie se lo esperaba.
+[SPEAKER_01]  Bueno.
+[SPEAKER_01]  Algo así como, ese día me preguntaron una cosa que...
+[SPEAKER_01]  Había estudiado.
+[SPEAKER_01]  Como aquella vez...
+[SPEAKER_01]  en esa competencia en la Conrad.
+[SPEAKER_01]  y me preguntaron una cosa que había estudiado.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  No está tan mediado por el azar todo eso.
+[SPEAKER_01]  Osmond lo presenta siempre como mediado por algún caso olvidado, por algo de azar
+[SPEAKER_01]  Pero...
+[SPEAKER_01]  Yo digo no está mediado por el azar porque solamente...
+[SPEAKER_01]  Si fuera solamente el azar,
+[SPEAKER_01]  Entonces...
+[SPEAKER_01]  Se habían logrado.
+[SPEAKER_01]  pues cualquiera podría hacer ciertas cosas.
+[SPEAKER_01]  Realmente...
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Lo que pasa es que hay mucha preparación.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  cuando hay mucha preparación.
+[SPEAKER_00]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Pues a uno le preguntan algo, hasta por azar.
+[SPEAKER_01]  pero justamente encuentra las respuestas y las soluciones porque se ha preparado.
+[SPEAKER_01]  Entonces, eso es...
+[SPEAKER_01]  No hay tanto azar como lo hace.
+[SPEAKER_01]  Como lo has contado.
+[SPEAKER_01]  Peor.
+[SPEAKER_01]  Osvaldo, quisiera...
+[SPEAKER_01]  Preguntar un poquito por esa...
+[SPEAKER_01]  para cerrar si quieres
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Bueno.
+[SPEAKER_01]  Por favor, redondemos.
+[SPEAKER_01]  Mmm.
+[SPEAKER_01]  Lo que pasa además de competencias.
+[SPEAKER_01]  Una vez te gradúas,
+[SPEAKER_01]  Y...
+[SPEAKER_01]  ¿Y a qué te estás dedicando?
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  ¿Y cómo sigue toda esta película?
+[SPEAKER_01]  ¿En qué seguimos?
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Listo, pues ahí.
+[SPEAKER_05]  Listo, pues ahí.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Antes de la pandemia, pues yo ya no estaba tan en graduarme, entonces no estaba tan en la pasantía.
+[SPEAKER_05]  A mí no me salieron pasantías afuera, afuera como en Microsoft, Google, a pesar de que yo me presenté bastante.
+[SPEAKER_05]  Hoy en día sé que es porque mi propósito de vida, como soy muy espiritual, no estaba afuera, estaba acá.
+[SPEAKER_05]  Entonces empecé a presentarme en una startup que salió por ahí, donde había unos amigos.
+[SPEAKER_05]  Y ahí empecé a trabajar.
+[SPEAKER_05]  Esa es mi pasantía en una empresa que se llama Instalip.
+[SPEAKER_05]  De hecho aquí tengo el logo.
+[SPEAKER_05]  Eso fue hace cuatro años, en 2019.
+[SPEAKER_05]  en septiembre.
+[SPEAKER_05]  Ahí empecé a trabajar y yo no tenía idea de nada. Decían, oiga, hay que trabajar en JavaScript. Yo les dije...
+[SPEAKER_05]  Pues yo no sé.
+[SPEAKER_05]  pero pues yo puedo aprender.
+[SPEAKER_05]  Y me da una oportunidad.
+[SPEAKER_05]  Pues le hacemos.
+[SPEAKER_05]  Y pues tal cual, entonces ahí empezamos, pues me metí, empecé a aprender.
+[SPEAKER_05]  No fue un mundo diferente, porque uno viene de...
+[SPEAKER_05]  Todo está bien especificado, haga este algoritmo, ta, ta, ta, listo. Aquí es no.
+[SPEAKER_05]  Hay que pensar qué se quiere hacer.
+[SPEAKER_05]  por qué se quiere hacer, cómo se va a hacer.
+[SPEAKER_05]  ¿Cómo hacer para que sea escalable? Y empecé a...
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  adquirir unas variabilidades.
+[SPEAKER_05]  Ya, a ver, ya, blan
+[SPEAKER_05]  Luego cae la pandemia.
+[SPEAKER_05]  Y ahí fue un poco raro porque, por un lado, dejamos de entrenar un poco.
+[SPEAKER_05]  Pues porque...
+[SPEAKER_05]  por la pandemia.
+[SPEAKER_05]  y pero ahí empezaron a salir otras cosas entonces por ejemplo salió la oportunidad de hacer un training camp virtual
+[SPEAKER_05]  Entonces...
+[SPEAKER_05]  Yo di...
+[SPEAKER_05]  O sea, como hay una cosa en mi casa, un tablero ahí.
+[SPEAKER_05]  improvisado y empecé a dar clases virtuales como por dos semanas
+[SPEAKER_05]  a gente de toda Latinoamérica que quería unirse y aprender.
+[SPEAKER_05]  también empezaron ya después de la pandemia, pues entonces yo sigo trabajando ahí.
+[SPEAKER_05]  y
+[SPEAKER_05]  Obviamente...
+[SPEAKER_05]  siento que no tienen muchas habilidades como muy diferentes a las de una persona que quizá no haya pasado por este ciclo de competencia.
+[SPEAKER_05]  para mí era todo muy más sencillo de agarrarlo y empecé a avanzar mucho entonces fui avanzando bastante como en el seniority de los diferentes cargos
+[SPEAKER_05]  Hoy en día, desde el año pasado, soy tech lead de un equipo. Entonces, básicamente los dirijo, les ayudo a crecer, a enseñarles cositas.
+[SPEAKER_05]  Y estoy como muy feliz porque estoy también con mucho sentido de pertenencia a la empresa.
+[SPEAKER_05]  Porque cuando yo entré en la empresa, la empresa llevaba como 6 meses.
+[SPEAKER_05]  Y pues ya después saberla crecer como que de cero clientes a 40 clientes que tiene hoy en día y así.
+[SPEAKER_05]  Es como, wow, o sea, súper chévere, como...
+[SPEAKER_05]  con esas ganas de seguir construyendo y seguir haciendo cosas chéveres.
+[SPEAKER_05]  Aparte de eso, pues...
+[SPEAKER_05]  también como ya no podía competir.
+[SPEAKER_05]  pero me gusta enseñar, entonces empecé a dar clases en varios lados. Entonces, a los chicos de Olimpiadas de colegio,
+[SPEAKER_05]  siempre te da plazas.
+[SPEAKER_05]  Tres clases ahí en la universidad.
+[SPEAKER_05]  y
+[SPEAKER_05]  como que trabajé un par de meses ahí de profe.
+[SPEAKER_05]  Como profe, profe ya como tal de la universidad, también a cargo del semillero de la universidad.
+[SPEAKER_05]  como forjando la siguiente generación.
+[SPEAKER_05]  Y pues de ahí han salido gente.
+[SPEAKER_05]  Totalmente impresionante que me supera en conocimiento.
+[SPEAKER_05]  De aquí a la luna.
+[SPEAKER_05]  pero es muy grato ver
+[SPEAKER_05]  Porque también hay gente que ha seguido ese proceso.
+[SPEAKER_05]  Pues hoy en día estoy como en eso, como...
+[SPEAKER_05]  como dedicado un poquito al trabajo, un poquito a la universidad.
+[SPEAKER_05]  poquito a otras cosas de proyectos de la iglesia y así entonces como un poquito para las cosas
+[SPEAKER_05]  También como...
+[SPEAKER_05]  Como ya no puedo competir tanto, esa competencia la he trasladado a otra cosa. Entonces, por ejemplo, ahorita estoy...
+[SPEAKER_05]  yendo a clases de tenis de mesa.
+[SPEAKER_05]  Y me siento así como súper motivado también por la competencia.
+[SPEAKER_05]  Más o menos eso es lo que...
+[SPEAKER_05]  a lo que se ha trasladado hoy en día.
+[SPEAKER_05]  Y pues la verdad me siento pues muy feliz, o sea, obviamente con muchas ganas de, bueno, ¿y ahora qué más viene para mi vida?
+[SPEAKER_05]  pero también con muchas ganas de ayudar, de poder.
+[SPEAKER_05]  De verdad...
+[SPEAKER_05]  impactar en la vida de las personas.
+[SPEAKER_05]  y decirles como que hay una esperanza.
+[SPEAKER_05]  ¿Sí?
+[SPEAKER_05]  Entonces, pues...
+[SPEAKER_05]  Pues nada, esto es como un poco ahí redondeando.
+[SPEAKER_03]  Muy interesante. Hay una cosa que me dio vueltas.
+[SPEAKER_03]  Y es que a él le angustió mucho la ingeniería de software.
+[SPEAKER_03]  porque no había programación.
+[SPEAKER_03]  sino muchos documentos.
+[SPEAKER_03]  ¿No?
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Cuadro.
+[SPEAKER_03]  Yo anoté aquí en mis anotaciones.
+[SPEAKER_03]  Mmm...
+[SPEAKER_03]  que era un curso de metodologías, ingeniería de software en metodologías.
+[SPEAKER_03]  Entonces, la parte irónica es...
+[SPEAKER_00]  Entonces...
+[SPEAKER_03]  ¡Ay, qué pereza la metodología!
+[SPEAKER_03]  Pero él trabaja con su pirámide en la mano.
+[SPEAKER_03]  ¿De acuerdo?
+[SPEAKER_00]  Bueno.
+[SPEAKER_03]  No, la pirámide es el conocimiento.
+[SPEAKER_03]  Y resulta que eso es metodología, en este caso, para la vida, ¿no?
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Es muy interesante que una persona tan joven...
+[SPEAKER_03]  tenga un proceso de proyecto personal.
+[SPEAKER_03]  autocrítico, estoy en la base, no estoy arriba.
+[SPEAKER_03]  Tengo que subir.
+[SPEAKER_03]  Hay una gran enseñanza en todo esto, Osman.
+[SPEAKER_03]  para que sepas
+[SPEAKER_03]  La otra cosa es que...
+[SPEAKER_03]  Si bien la UNACIONAL, que ha sido un gran ejemplo acá, y eso lo sabe Sandra, los egresados de la UNACIONAL que adoran su universidad y cuando cuentan la historia se ve cómo es una universidad que empuja.
+[SPEAKER_03]  a sus estudiantes.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Si bien trabajaban solos.
+[SPEAKER_03]  Y miraban de medio lado a las otras universidades y tú mismo dices, eso no está bien.
+[SPEAKER_03]  Este proyecto nace de redes.
+[SPEAKER_03]  Reyes es la red de programas de Ingeniería Estadounidense de Colombia y somos 100 universidades.
+[SPEAKER_03]  Y hoy en día...
+[SPEAKER_03]  Ya no hay esa cosita de vanidades entre las universidades. Puede que quede algo en algunas, pasa.
+[SPEAKER_03]  pero realmente es un respeto por el otro universidad, es un gusto de trabajar con el otro colega.
+[SPEAKER_00]  Realmente...
+[SPEAKER_03]  Y la nacional ha sido siempre un gran ejemplo acá en esta red, ¿no?
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  No sé si Edgar quiere comentar y además no olvidar al pupilo, ¿no Edgar? A su pupilo. Ya le preguntamos.
+[SPEAKER_00]  No sé.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  ¿Cómo me salgo?
+[SPEAKER_01]  Nuestro especialista en hacer grandes cierres, que es Kein, nos hará también la intervención. Edgar, por favor, entonces, si quieren, hacemos un cerrado.
+[SPEAKER_04]  Muy corto.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  pues o sea a mí
+[SPEAKER_04]  me causa mucha curiosidad pues que
+[SPEAKER_04]  Pues has querido programar la vida y no has perdido a pesar.
+[SPEAKER_04]  A pesar de haberte retrasado, no has perdido tu impulso y tu propósito. Y creo que eso es lo que te está llevando lejos.
+[SPEAKER_04]  ¿Cómo has logrado transmitir eso tanto en aquellos...
+[SPEAKER_04]  compañeros en los que les enseña tanto en la academia como en la empresa.
+[SPEAKER_04]  qué de ti sale para que ellos sean sus modelos en ese sentido.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Pues yo creo que es que uno en...
+[SPEAKER_05]  A lo largo de la vida, en todo este proceso, uno a veces tiene muchas dudas existenciales.
+[SPEAKER_05]  Y creo que no está muy acostumbrado como al...
+[SPEAKER_05]  Ah, ah.
+[SPEAKER_05]  Como lo que les decía ahorita de, ah, es que se tiene que graduar en 10 semestres o lo está haciendo mal.
+[SPEAKER_05]  ¿O es que usted tiene que estar haciendo tales cosas a tal edad o si no lo está haciendo mal?
+[SPEAKER_05]  Entonces creo que eso es un poco a lo que yo...
+[SPEAKER_05]  a las personas con las que he podido hablar y compartirles.
+[SPEAKER_05]  Sálgase de eso.
+[SPEAKER_05]  Y eso es algo que...
+[SPEAKER_05]  De pronto la sociedad misma le mete a uno en la cabeza.
+[SPEAKER_05]  Pero no es así. O sea, realmente es como...
+[SPEAKER_05]  no vivir por vivir la vida, sino...
+[SPEAKER_05]  vivirla, feliz o sea vivirla.
+[SPEAKER_05]  como sabiendo que estoy haciendo algo significativo y algo que sé que me gusta y que también
+[SPEAKER_05]  Más que me gusta es que también es un...
+[SPEAKER_05]  Es un bien en general.
+[SPEAKER_05]  Algo que no les comenté, pero les quiero comentar rápidamente, y es algo que yo siempre cuento.
+[SPEAKER_05]  Yo antes era...
+[SPEAKER_05]  Yo me la pasaba jugando mucho en el computador. Mucho, mucho, mucho, mucho.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Duración hasta la mañana.
+[SPEAKER_05]  Superman.
+[SPEAKER_05]  Cuando conocí la programación competitiva,
+[SPEAKER_05]  fue como que cambié un vicio por otro vicio.
+[SPEAKER_05]  ¿Cuál es la diferencia?
+[SPEAKER_05]  que este vicio me iba a...
+[SPEAKER_05]  ayudar a largo plazo.
+[SPEAKER_05]  Entonces,
+[SPEAKER_05]  Eso es como algo que yo siempre les cuento a las personas.
+[SPEAKER_05]  Y es como animarlas a realmente qué es lo que usted quiere, realmente qué es lo que lo apasiona, qué es lo que...
+[SPEAKER_05]  doyena, que es lo que cuando usted se va a levantar cada día, usted dice, oiga, qué chévere ir a hacer esto.
+[SPEAKER_05]  A mí el trabajo no me parece una jartera y es que toca trabajar, es que toca ir a programar, es que toca ir a definir cosas nuevas.
+[SPEAKER_05]  vamos a hacer esto y estamos motivados.
+[SPEAKER_05]  Vamos a sacar cosas chéveres que le van a servir a la gente.
+[SPEAKER_00]  Gracias.
+[SPEAKER_06]  a la gente.
+[SPEAKER_05]  Entonces es como...
+[SPEAKER_05]  Ese es como el tipo de pensamiento que yo trato de...
+[SPEAKER_05]  Que la gente cambie y que no vean las cosas negativas, sino...
+[SPEAKER_05]  Bueno, ¿qué puedo hacer con lo que tengo?
+[SPEAKER_05]  pues más adelante las cosas van a ir mejorando.
+[SPEAKER_01]  Sí, es ver.
+[SPEAKER_01]  en un...
+[SPEAKER_01]  Muy rápidamente.
+[SPEAKER_01]  Cuando hablamos con Marisabel Mejía, cuando hablamos con...
+[SPEAKER_01]  con Marlon cuando hablamos con
+[SPEAKER_01]  con Camilo Bajes, etcétera. Un buzz app con todos.
+[SPEAKER_01]  tarde o temprano en algún momento
+[SPEAKER_01]  Está pasando...
+[SPEAKER_01]  Esto.
+[SPEAKER_01]  Es que yo sí puedo.
+[SPEAKER_01]  darle sentido a mi vida ayudando al resto de la gente el de lo que hago tengo propósito para vivir más allá de
+[SPEAKER_01]  de
+[SPEAKER_01]  Pues de esa parte se le quiere...
+[SPEAKER_01]  meramente profesional.
+[SPEAKER_01]  ¿Cómo superaste el primer acercamiento a las competencias?
+[SPEAKER_01]  Fue...
+[SPEAKER_01]  Qué jartera esta vaina está en inglés.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Y en este momento eres bilingüe.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  ¿Eso qué? ¿Ese pedacito?
+[SPEAKER_01]  que es importante en el país.
+[SPEAKER_05]  por su anterior...
+[SPEAKER_05]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Eso fue...
+[SPEAKER_05]  estudiar, básicamente se llama.
+[SPEAKER_05]  Darle, o sea, quitarle el miedo. Al inicio, obviamente, usaba el traductor. Después dije, no, pues me meto al curso de inglés, que es gratis en la universidad.
+[SPEAKER_05]  Y ahí empecé a hacerle y me ponía a propósito. Entonces, el ver...
+[SPEAKER_05]  En el semestre...
+[SPEAKER_05]  Decía, cuando termine este semestre, tengo que tener la capacidad de leer un statement, un problema.
+[SPEAKER_05]  en usar un traductor.
+[SPEAKER_05]  Pues así fue, o sea, no fue la noche o la mañana, pero fue dándole, dándole, dándole.
+[SPEAKER_05]  y
+[SPEAKER_05]  Y ya, pues, con el pasar del tiempo, como que uno se va dando cuenta, pero a medida que va estudiando y dándole...
+[SPEAKER_05]  va mejorando, es que una vez iniciada cuenta.
+[SPEAKER_05]  cuando mira hacia atrás, que nos dice, ¡Ush!
+[SPEAKER_05]  Yo antes no podía hacer esto y ahora sí.
+[SPEAKER_05]  Pero fue así, yo estudié como un año inglés ahí en la universidad, pero juicioso, o sea.
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Yo antes había hecho cursos también, pero eso que no he obligado y que no le importa aprender, no, es como...
+[SPEAKER_05]  y ganito aprender.
+[SPEAKER_05]  Eso es porque funciona así.
+[SPEAKER_05]  Esa fue como la cuestión.
+[SPEAKER_04]  Y las necesidades te han hecho...
+[SPEAKER_04]  por aquí.
+[SPEAKER_04]  Es el reto. A todos los puestos como reto.
+[SPEAKER_06]  Gracias.
+[SPEAKER_04]  Reto.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Kevin, cuéntanos.
+[SPEAKER_04]  Kevin, Kevin.
+[SPEAKER_04]  Bueno, tu percepción... Estamos esperando tu intervención.
+[SPEAKER_06]  Estamos esperando tu intervención.
+[SPEAKER_03]  de nuestro máster en conclusiones ¿no? Kevin, adelante
+[SPEAKER_02]  Sí.
+[SPEAKER_02]  ¡Adiós!
+[SPEAKER_03]  Que se estudian.
+[SPEAKER_02]  Bueno, pues yo cogí varias cositas.
+[SPEAKER_03]  Sí, que sí.
+[SPEAKER_02]  Ok.
+[SPEAKER_02]  Sí.
+[SPEAKER_02]  Yo cogí varias cositas de las manos.
+[SPEAKER_02]  ¿Qué parece, Chudi?
+[SPEAKER_02]  Primero...
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Le puse mucha atención cuando dijo que era la sanista también.
+[SPEAKER_02]  porque también soy lazayista.
+[SPEAKER_02]  y compartía, o sea, como que compartimos muchos de esos valores con, que lo hablamos también con Manuel.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Algo que también tomé es...
+[SPEAKER_02]  que lo hiciste hace poquito feo y qué puedo hacer con lo que tengo.
+[SPEAKER_02]  que es lo que me gusta hacer.
+[SPEAKER_02]  Y yo creo que eso es lo que...
+[SPEAKER_02]  Prácticamente lo que...
+[SPEAKER_02]  lo que uno tiene que de verdad buscar.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  A uno le pasa aquí también, escucha amigos como bueno, y se vuelve que estoy generisísima por la plata.
+[SPEAKER_02]  Pues es así, uno sabe que ahorita muchos estudian es por solo eso.
+[SPEAKER_02]  pero de verdad no se da cuenta que no les motiva programar.
+[SPEAKER_02]  O de pronto sí, como que no le meten las ganas y no es como que solo buscan ese sobre...
+[SPEAKER_02]  Entonces,
+[SPEAKER_02]  también me llevo eso, sí como que buscar, o sea, a veces uno dice como si me gusta programar y a veces uno odia el por qué.
+[SPEAKER_02]  Sí.
+[SPEAKER_02]  Entonces, por ejemplo, ahorita me doy cuenta...
+[SPEAKER_02]  que me hizo recordar el colegio. O sea, yo decidí mi carrera fue por una cosa.
+[SPEAKER_02]  que pasó en el colegio también.
+[SPEAKER_02]  Pues no lo voy a contar acá, pero...
+[SPEAKER_02]  O sea, me hizo recordar y...
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Sí, eso me quedó ahí.
+[SPEAKER_02]  entonces es eso, me llevo eso el por qué hacerlo y por qué levantarse otra vez con lo que no le gusta hacer
+[SPEAKER_04]  Ser feliz es lo que planteamos.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Muy bien, que eso.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Sí, sí, y ayudar a los demás, ¿no?
+[SPEAKER_04]  Ayudad a los demás, es muy...
+[SPEAKER_04]  Es muy colaborativo, sí.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  colaborativo y de pensar en el...
+[SPEAKER_04]  pertenece al conocimiento.
+[SPEAKER_03]  Yo a veces pienso que cuando a uno le dan vueltas...
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  ¡Chao!
+[SPEAKER_03]  y cuenta la plata que le dan.
+[SPEAKER_03]  Yo me pregunto, ¿por qué la cuento? A ver si me tumbaron o a ver si el otro me dio más de lo que era.
+[SPEAKER_03]  ¿Me comprendes?
+[SPEAKER_03]  que es un concepto de pensar en el otro.
+[SPEAKER_03]  Hay que pensarles en el otro.
+[SPEAKER_03]  Y yo creo que este ejemplo de Osman con sus pupilos...
+[SPEAKER_03]  Fíjense que al principio se preocupaba de que los pupilos les ganaban.
+[SPEAKER_03]  ¿Cierto?
+[SPEAKER_03]  Y ahora le encanta que los pupilos ganen.
+[SPEAKER_03]  Y yo creo que ese es el perfil de nosotros como profesores.
+[SPEAKER_04]  Yo creo que...
+[SPEAKER_03]  Para Edgar es un orgullo ir a Kevin.
+[SPEAKER_03]  Para Rafa es un orgullo ir a Osman, para Sandra es un orgullo irlo.
+[SPEAKER_03]  Y creo que es el espíritu del profesor, ¿no?
+[SPEAKER_03]  Y Beatriz, encantada de oír las conclusiones de Kevin.
+[SPEAKER_03]  No.
+[SPEAKER_03]  Total, sí.
+[SPEAKER_03]  Bueno, Rafa, sigue parado.
+[SPEAKER_01]  Bueno.
+[SPEAKER_01]  Vale.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  muchísimas gracias Osman, muchísimas gracias a todos por estar en esta tarde, nos extendimos un poquito pero creo que
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  que
+[SPEAKER_01]  Al menos yo me he estado divirtiendo y si no es porque tenemos esa cuota de tiempo...
+[SPEAKER_01]  estamos terminando a las 8 de la noche en el mejor de los casos entonces pues como siempre un placer hablar contigo
+[SPEAKER_01]  Y como siempre también, pues las puertas no solamente...
+[SPEAKER_01]  en
+[SPEAKER_01]  en la universidad que cada uno de nosotros pueda o no estar representando.
+[SPEAKER_01]  Más bien...
+[SPEAKER_01]  en todos los espacios de ASIS, en los espacios de Redis.
+[SPEAKER_01]  en CCPL que a partir de este año retoma
+[SPEAKER_01]  esas competencias presenciales cada tres semanas.
+[SPEAKER_01]  Van a ser retomadas este año, ya no tenemos la excusa pandémica.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Mmm.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Siempre eres bienvenido.
+[SPEAKER_01]  Esto no es una construcción de cada uno de nosotros, ni tiene dueños. Esto es una construcción de todos.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Y afortunadamente los testigos...
+[SPEAKER_01]  que se vienen entregando, tienen buenas manos para recibirlos como las tuyas.
+[SPEAKER_01]  Muchísimas gracias por estar acá. Nos hace falta una fotografía de rigor.
+[SPEAKER_01]  que hacemos.
+[SPEAKER_03]  Ya he tomado varias, Beatriz, pero Sandra no está por ahí, su foto.
+[SPEAKER_03]  Eso, mire la foto, la foto con Sandra que apareció.
+[SPEAKER_03]  Sí, ya había enviado varias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  esta última.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Entonces, nada, muchísimas gracias. Muchas, muchas, muchas gracias, Osman. Y muchas gracias a todos. Gracias a todos.
+[SPEAKER_03]  Muchas gracias a todos. Gracias. Nos espera en algún momento una reunión global de todo este grupo que hemos venido conformando.
+[SPEAKER_03]  De tal manera que seguro nos volveremos a ver.
+[SPEAKER_03]  Gracias Rafa, gracias a todos.
+[SPEAKER_01]  Le está saliendo un grupo muy interesante que...
+[SPEAKER_01]  Si los revolvemos a todos en el mismo espacio, va a ser un coctelito riquísimo.
+[SPEAKER_01]  Sí.
+[SPEAKER_03]  Gracias, muy interesante.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Vale, vale, vale.
+[SPEAKER_03]  Bueno, muchas gracias. Y Beatriz, gracias por toda la ayuda. Gracias.
+[SPEAKER_03]  Que sin ellos, ¿cómo no? Muchas gracias.
+[SPEAKER_03]  Nos vemos. Mil gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Mil gracias a todos.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  ¡Gracias!
+[SPEAKER_01]  Felicidades para todos.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Chao.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Ya te envío el set de problemas de 2018.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  listo
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_04]  Gracias.
+

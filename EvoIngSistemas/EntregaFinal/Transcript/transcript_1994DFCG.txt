@@ -1,0 +1,1298 @@
+[SPEAKER_01]  Adelante.
+[SPEAKER_02]  Bueno, buenas tardes, Daniel.
+[SPEAKER_02]  Fernando Cortés González, ¿cómo has estado?
+[SPEAKER_02]  Nos alegra tenerte aquí.
+[SPEAKER_01]  Muy buenas tardes.
+[SPEAKER_02]  alegre de tenerte aquí en esta conversación.
+[SPEAKER_02]  eh
+[SPEAKER_02]  Vamos a tratar...
+[SPEAKER_02]  el tema de la evolución de la ingeniería de sistemas.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  realizándolo
+[SPEAKER_02]  y
+[SPEAKER_02]  con varios...
+[SPEAKER_02]  participantes por distintas décadas.
+[SPEAKER_02]  correspondiste en la década en la que me fue asignada a mí como entrevistador.
+[SPEAKER_02]  Y lo que quisiéramos es que nos contaras desde el principio de tu interés en bachillerato.
+[SPEAKER_02]  por temas, llamémoslo base.
+[SPEAKER_02]  de la selección de la carrera.
+[SPEAKER_02]  en qué te destacabas, cómo eras, quinto, sexto, en los últimos años.
+[SPEAKER_02]  y qué orientación tuviste para...
+[SPEAKER_02]  guiarte
+[SPEAKER_02]  y orientarte hacia la
+[SPEAKER_02]  este tipo de carreras.
+[SPEAKER_02]  ¿Tuviste alguna preferencia?
+[SPEAKER_00]  Ok.
+[SPEAKER_00]  Listo. Bueno, muy buenas tardes a todos, pues muchas gracias por la invitación a este espacio, a esta remembranza de mi época, desde la época del colegio. Pues ya como dijo Edgar, pues mi nombre es Daniel Fernando Cortés, tengo cincuenta y tres años, soy graduado en Ingeniería de Sistemas, obviamente, de la Universidad Nacional. Actualmente tengo tres hijos, una esposa, dos gatas y una perrita, digamos que como por contexto en general.
+[SPEAKER_00]  ¿Por qué ingeniería de sistemas y cómo es el contexto desde el colegio? Bueno, yo soy graduado.
+[SPEAKER_00]  Sí, señor. Yo soy graduado del colegio, me gradué del colegio cooperativo.
+[SPEAKER_00]  en el sector de Carvajal por el lado de Kennedy, me gradué en 1986, en ese colegio hice todo mi bachillerato, lo que antes se conocía como el de primero hasta sexto bachillerato, que ahora se conoce como el de sexto a...
+[SPEAKER_00]  Aún sí.
+[SPEAKER_00]  yo siempre, pues digamos que a nivel del colegio.
+[SPEAKER_00]  me destacaba en lo que tenía que ver con materias relacionadas con las matemáticas, con física, con...
+[SPEAKER_00]  con química o...
+[SPEAKER_00]  También con temas de historia, pero realmente digamos que me iba a...
+[SPEAKER_00]  viene la mayoría de materias, la única materia que no...
+[SPEAKER_00]  que no me iba bien fue el dibujo técnico.
+[SPEAKER_00]  en todo el bachillerato yo solamente perdí una vez una materia.
+[SPEAKER_00]  que fue dibujo tecnológico, que fue el cuarto bachillerato, lo que hoy se conoce como, bueno, en todo lo que tenía que ver con matemáticas y todas las realidades matemáticas, siempre me fue muy bien. Ahora, después de viejo, resulté diagnosticado con un trastorno que se llama Asperger.
+[SPEAKER_00]  que está relacionado con el espectro autista. En ese entonces, estamos hablando de hace 40 años, eso no se...
+[SPEAKER_00]  no se diagnosticaba y ese fue uno de los elementos importantes e implícitos en mi decisión de carrera.
+[SPEAKER_00]  Cuando decidí por qué estudiar Ingeniería de Sistemas, yo decidí que quería estudiar Ingeniería de Sistemas porque yo quería estudiar una carrera en donde no tuviera que interactuar con gente.
+[SPEAKER_00]  en donde en lo mínimo posible tuviera que interactuar con gente, y pues digamos que en ese entonces, y teniendo en cuenta mi...
+[SPEAKER_00]  Pues mi facilidad con las matemáticas, pues la carrera de ingeniería de sistemas fue la que salió, pues digamos, de primera. En mi época, estamos hablando del año 85, 86, no hay como los colegios actualmente unos temas de orientación vocacional. Eso era básicamente...
+[SPEAKER_00]  Aún más de por sí en el colegio, que hayamos entrado de los como 30 que nos graduamos en el 86, que hayan entrado a la universidad, no fueron más de 10 personas, realmente. Estábamos hablando, pues entonces acceder a una universidad era muy difícil, era difícil acceder a una universidad pública y a una universidad privada, pues era...
+[SPEAKER_00]  Era mucho más difícil. También entonces, pues, el ICFES, en la época que yo lo tomé, era cuando demoraba dos días, que era sábado y domingo.
+[SPEAKER_00]  Ahora es como medio día nomás.
+[SPEAKER_00]  tu puntajelife
+[SPEAKER_00]  está por encima del percentil superior, en ese entonces era como 340, creo que era el máximo, era 400, pero digamos que por encima de 300 ya era un valor muy alto.
+[SPEAKER_00]  ¿Cómo fue el tema? Yo solamente apliqué a la Universidad Nacional.
+[SPEAKER_00]  Yo me gradué joven de 16 años, me gradué de 16 años y un mes, dos meses más o menos. Era el más joven de todo el salón, de lejos. Mis amigos del colegio oscilaban cuando se graduaron entre 18, 19, 20 años. Entonces digamos que mis relaciones de amistad en el colegio eran con gente mucho mayor que yo.
+[SPEAKER_00]  Normalmente me llevo cuatro o cinco años.
+[SPEAKER_00]  O sea...
+[SPEAKER_00]  Cuando ellos se graduaron yo ya era el mayor de edad, yo ni siquiera había sido...
+[SPEAKER_00]  Quien haya tenido la...
+[SPEAKER_00]  la CEDM.
+[SPEAKER_00]  Yo me presenté a la Nacional, fue la única universidad que me presenté realmente.
+[SPEAKER_00]  Mi papá es graduado de la nacional.
+[SPEAKER_00]  Él se graduó de químico farmacéutico.
+[SPEAKER_00]  No sé qué año, como en el 54, o algo así.
+[SPEAKER_00]  No estoy realmente seguro. Mi papá, pues cuando me tuvo, ya era un papá mayor, me tuvo de 44 años.
+[SPEAKER_00]  pues se le subió a la universidad y pues digamos porque
+[SPEAKER_00]  Por ese tema de haber sido graduado del de la Nacional, pues yo también me incliné por la universidad.
+[SPEAKER_00]  También cuando yo me presenté, yo no tuve turno.
+[SPEAKER_00]  como ahora hacen la mayoría de universidades que hacen tour para los colegios donde lo muestra la universidad. No, a mí en ese entonces era la referencia que había, uno compraba el periódico, compraba el formulario, presentaba el examen que demoraba creo que era un día o día y medio también, y después como a los ocho días salía el domingo en el tiempo, salía el listado de los que habían logrado pasar y uno se buscaba.
+[SPEAKER_00]  Y ahí hice el contrabando.
+[SPEAKER_00]  Y pues finalmente yo... No nos encontramos.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  o nos encontraba, que eran los... Afortunadamente yo pasé de...
+[SPEAKER_00]  de primera opción y pasear la carrera de primera opción
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Entonces, pues digamos que no tuve ese momento. Mi hermano también se graduó de Ingeniería Química en la Nacional. Él sí se presentó como tres o cuatro veces.
+[SPEAKER_00]  Entonces, es menor que...
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  ¿Eres menor?
+[SPEAKER_00]  Sí, yo soy el mayor de tres hermanos, mi papá ya falleció hace 25 años, más o menos, 24, 25 años falleció. Soy el mayor de tres hermanos, dos hombres y una mujer. Mi hermano estudia ingeniería química y se graduó de ingeniería química de la Nacional. Mi hermana decidió no estudiar nada formalmente. Ella tiene muchos fundamentos comerciales y trabaja en el área comercial y en el área de...
+[SPEAKER_00]  de marketing. Yo soy el mayor y pues digamos que de la familia cercana, tanto por papá como por mamá, fue el primero, se encontró mi papá, que entró a la Nacional. Y pues obviamente fue el primero que estudió ingeniería de sistemas. En el colegio donde yo estuve no había muchos computadores. Creo que no había computadores, hasta me acuerdo. Porque en ese entonces pues los PCs, los IBM, que eran los originales, pues eran muy pocos los que llegaban a Colombia y el costo era bastante alto. Entonces, lo que sí había y que era también una razón por la cual quise estudiar ingeniería de sistemas, era Atari, el Atari 2600, los Nintendos, las consolas de videojuegos, pues así se comercializaban.
+[SPEAKER_00]  mucho más.
+[SPEAKER_00]  y había un amigo
+[SPEAKER_00]  que tenía una Atari y después tuvo un Nintendo.
+[SPEAKER_00]  Eso era el mes, 1931, insisto.
+[SPEAKER_00]  con el que jugábamos y pues digamos que ahí le cogí también mucho gusto a la ingeniería de sistemas porque además de lo que mencionaba de que lo que quería estudiar era un trabajo que no me implicara contacto con gente, yo quería construir videojuegos realmente. Pues obviamente no se dio en los primeros años, bueno, ni en los últimos años de carrera solamente, entonces como de...
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  20 años de graduado, fue que pude hacer algo de videojuegos, pero pues digamos que era una de las motivaciones.
+[SPEAKER_00]  Entonces, bueno, entré a la Universidad Nacional.
+[SPEAKER_00]  Recuerdo todavía que yo iba acompañado antes de entrar como estudiante a las fases iniciales de matrícula y todo tipo de cosas. Iba acompañado por mi mamá.
+[SPEAKER_00]  pues cuando yo tenía 16 años, era todo chiquito, bajito.
+[SPEAKER_00]  bastante miedoso, con decirles que yo empecé a coger bus y buseta en ese entonces, cuando empecé la universidad, yo antes no cogía bus y buseta.
+[SPEAKER_00]  en la época
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Sí, yo estudiaba como a cinco cuadraditos.
+[SPEAKER_00]  de la casa, entonces no era necesario coger bus ni bicicleta
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Entonces yo aprendí a coger buceta y la primera buceta que cogí solo fue la que me llevaba de la casa a la universidad. Eso se ve en el primer semestre del 87. Recuerdo mucho que la ruta era de una empresa de buses, pues ya, pues, con el CITEP ya no existen, se llama Rápido Pensilvania.
+[SPEAKER_00]  Y el número de ruta era la 98.
+[SPEAKER_00]  que salía por Timisa, cogía las Américas.
+[SPEAKER_00]  cogía por la 50 y llegaba a la universidad, por la entrada de la... pasaba cerquita la 26, pero yo me bajaba en la entrada de la 45.
+[SPEAKER_00]  Cuando yo empecé a estudiar,
+[SPEAKER_00]  Todavía no había puente, por ejemplo, el puente es el curvo que...
+[SPEAKER_00]  que viene la 45 para correr a 30, ese contenido no existía.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  el
+[SPEAKER_00]  Sí, gracias, señor.
+[SPEAKER_01]  Una preguntita, vas muy bien, está muy interesante el tema.
+[SPEAKER_01]  Oye, el Asperger es de enfermedad presidencial, ¿no, Daniel Fernando?
+[SPEAKER_03] 
+[SPEAKER_01]  ¡Ja, ja, ja!
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  No sé, eso dice que tiene el presidente, pero...
+[SPEAKER_00]  dicen que la tienen muchas personas, dicen que Messi la tiene, que el Olmos la tiene, pero...
+[SPEAKER_00]  realmente en el tema de Asperger el trastorno, pues digamos, no se considera una enfermedad porque no es algo
+[SPEAKER_00]  que tenga cura.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Todo lo que tiene... Esto está dentro de una cosa que se llama el trastorno del aspecto autista. Se llama TEO.
+[SPEAKER_01]  Todo lo que...
+[SPEAKER_00]  ¡Ey, te amo!
+[SPEAKER_01]  Es que me tuve la miedo.
+[SPEAKER_00]  el de la sigla
+[SPEAKER_01]  Me suena mucho el no querer interactuar con gente.
+[SPEAKER_01]  Porque yo hice un estudio sobre la psicología del programador.
+[SPEAKER_01]  Y mis dos referentes fueron Freud y Schopenhauer.
+[SPEAKER_00]  y
+[SPEAKER_01]  Freud habla de la hora del programador, habla de la persona de la soledad.
+[SPEAKER_00]  Adiós.
+[SPEAKER_01]  Buscar.
+[SPEAKER_01]  ¿No?
+[SPEAKER_01]  Que es muy dado por intelectuales, por músicos, por...
+[SPEAKER_01]  Gratos.
+[SPEAKER_01]  en el caso nuestro de programadores.
+[SPEAKER_01]  y la califica como una...
+[SPEAKER_01]  poquito de...
+[SPEAKER_01]  de diferenciación de lo social, pero Schopenhauer...
+[SPEAKER_01]  Habla de la...
+[SPEAKER_01]  De la soledad del ser.
+[SPEAKER_01]  No me acuerdo el nombre exacto.
+[SPEAKER_01]  que le da y le da un homenaje
+[SPEAKER_01]  a los que se aíslan.
+[SPEAKER_01]  para trabajar solo.
+[SPEAKER_01]  Y dice, creen en sus ideas, no necesitan, por decirlo en una palabra moderna, no necesitan combo.
+[SPEAKER_01]  ¿De acuerdo?
+[SPEAKER_01]  De tal manera que es una característica.
+[SPEAKER_00]  manera
+[SPEAKER_01]  que habla mucho de la psicología del programador, que es el tema del cual yo estaba trabajando.
+[SPEAKER_00]  Sí.
+[SPEAKER_00]  Sí, y digamos que en lo que he podido, pues en el recorrido profesional.
+[SPEAKER_00]  He visto que, bueno, no tengo indicadores, pero hay muchas personas con un trastorno similar al mío.
+[SPEAKER_00]  que escogen esta carrera.
+[SPEAKER_00]  Porque, por lo mismo, porque interactúan principalmente con máquinas y no tienen que interactuar con personas. Porque una de las características principales del TEAM, y en el caso específico de Asperger, es la dificultad para interactuar socialmente. No es tanto que no se quiera o se quiera, sino que es muy difícil interactuar socialmente. Por ejemplo, una de mis características ya como personas que yo tiendo a ser bastante literal, se me dificulta entender el sarcasmo, por ejemplo, y la ironía. Y pues todo lo que eso lleva en un tema de comunicación. Por ejemplo, en temas de negociación, yo era muy malo, ahora soy malo, ya he mejorado.
+[SPEAKER_00]  porque todos esos temas de que se tienen en cuenta de los detalles de la cara, de los tonos, se me dificulta entenderlos inicialmente y después de mucho trabajo personal es que he logrado mejorar. Por ejemplo, si ustedes se dan cuenta, yo me muevo un poco cuando estoy hablando.
+[SPEAKER_00]  Esa fue una parte de las estrategias que vine aprendiendo para poder concentrarme y para poder bajar un poco la ansiedad que me... la ansiedad ligada. Pero digamos que son tres topes, que son maneras que uno aprende con...
+[SPEAKER_00]  con el tiempo. Pero bueno, siguiendo con el tema y digamos que dentro del tema ahora pues que me diagnosticaron viejo, porque realmente me diagnosticaron como a los cuarenta y siete, cuarenta y ocho años, me diagnosticaron el tema, fue que entendí muchas acciones o maneras o comportamientos que tuve tanto en la universidad como posteriormente en la universidad. Bueno, entonces eso fue entre septiembre y octubre, fue la etapa inicial de la universidad.
+[SPEAKER_00]  donde uno empezó a ir a la universidad a hacer los procesos de registro, de matrícula, estamos hablando de noviembre del...
+[SPEAKER_00]  del 86, hubo una sesión como de dos días donde nos citaron a todos los que habíamos pasado a que nos conociéramos. Entonces, ahí fue donde conocí a varios de las personas con las cuales aún trabajo. Por ejemplo, mi socio en la empresa, ya hablaremos más tarde de la empresa, mi socio en la empresa, él entró el mismo semestre que yo a la universidad, él entró en el primero del 87. No entró en mi mismo grupo porque en la universidad cuando organizaban, los códigos los asignaban por orden alfabético.
+[SPEAKER_00]  Mi código era el 253430, y ese es un código que no me acuerdo, y yo estaba entre los que estaban entre la letra A y la letra como...
+[SPEAKER_00]  Y será como la letra.
+[SPEAKER_00]  ¡Apagad el video!
+[SPEAKER_00]  Más o menos.
+[SPEAKER_00]  que este abuelo es el primer grupo. Creo que Beatriz, señora Manuel Lealtad.
+[SPEAKER_00]  Pues no, no.
+[SPEAKER_00]  Es que mi madre se ve como una mano levantada. Ya lo vi que me confundía. Entonces, el primer semestre de la universidad, pues digamos que fue un golpe.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  que mi mamá...
+[SPEAKER_00]  y lo llevó a golpe.
+[SPEAKER_00]  Fue un golpe duro porque yo estoy acostumbrado a un...
+[SPEAKER_00]  a un tipo de manejo, a un tipo de...
+[SPEAKER_00]  actuar dentro del colegio, pues el colegio era un colegio pequeño, cuando yo me gradué solamente había un once, un sexto, no éramos más de 25 o 30 personas.
+[SPEAKER_00]  Ahora entre la universidad, en primer semestre de Ingeniería de Sistemas, había más o menos 100 personas, divididas en tres grupos, más o menos de 30 a 35 cada uno, donde nadie se conocía con nadie, nadie vivía cerca de nadie. Había gente de mi edad, había gente de mi edad. En esa época se veía mucho.
+[SPEAKER_00]  los que habían aplazado por servicio militar.
+[SPEAKER_00]  Entonces, que les atrasaban un año, entonces realmente no eran del semestre en el que nosotros entramos, sino habían pasado el semestre un año antes.
+[SPEAKER_00]  Esos eran los códigos 25-32. También conocí varios que habían estado en el ejército, que habían estado en el ejército, o sea, no exactamente en combate, pero sí cerca del combate.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Entonces era verdad que ya tenían un recorrido a nivel de vida.
+[SPEAKER_00]  pues mucho mayor que yo, un chinito flaquito, en el entonces era delgado, flaquito, chiquito, bajito, bonito, que no había conocido nada, y una cantidad de personas que ya habían pasado por mucho, habían varios que me habían cambiado de carrera.
+[SPEAKER_00]  Por ejemplo, en esa época, creo que todavía se mantiene.
+[SPEAKER_00]  la cantidad de mujeres que entraron a estudiar ingeniería de sistemas era muy bajo. Recuerdo que en mi semestre de los 100, eran como 5 o 6 mujeres que habían entrado a estudiar ingeniería de sistemas.
+[SPEAKER_00]  todas muy pilas y creo que casi todas acabaron tenían mucho más disciplina que
+[SPEAKER_00]  de los hombres. Quiero que hoy el número ha subido, pero pues todavía no está cerca de ser la mitad.
+[SPEAKER_00]  Bueno, y entonces empezamos ese primer semestre con todos esos miedos, pues yo solamente sabía coger una ruta de bus, pues lo que me llevaba a la universidad, tenía clases todos los días a las siete de la mañana.
+[SPEAKER_00]  el primer semestre.
+[SPEAKER_00]  no vi nada que tuviera que ver con la carrera.
+[SPEAKER_00]  nada, ninguna materia que tuviera que ver con la carrera.
+[SPEAKER_00]  era como estaba organizado en ese entonces el pensum.
+[SPEAKER_00]  había muchas materias que dictaban a todas las ingenierías. En ese entonces había seis ingenierías, si me acuerdo. Estaba ingeniería civil, que es la primera de la universidad, estaba ingeniería mecánica, estaba ingeniería eléctrica, estaba ingeniería agronómica, agronoma, estaba ingeniería de sistemas.
+[SPEAKER_00]  Y me falta una, y no recuerdo cuál. ¡Ey, no era aquí!
+[SPEAKER_00]  Esas eran las seis ingenierías que había. Entonces, creo que en la universidad ya hay más ingenierías porque sé que hay electrónica, sé que hay industrial y sé que hay otras dos o tres así nuevas. Pero entonces, el énfasis de los primeros cuatro semestres en ingenierías, el énfasis fuerte era matemática. Entonces, yo veía cálculo uno, física uno, veía álgebra lineal.
+[SPEAKER_00]  veía una, creo que en primer semestre antes de haber una, electivas, una de las cosas de la universidad que siempre me gustó y que creo que todavía mantiene, es que uno puede ver carreras, materias de otras carreras. Yo, por ejemplo, vi Historia del Arte 1 y 2.
+[SPEAKER_00]  y vi novela latinoamericana.
+[SPEAKER_00]  en las primeras electivas.
+[SPEAKER_00]  Y por tema de la tesis, sé que me estoy pasando, pero por tema de la tesis, vi tres materias de psicología, porque mi tesis tuvo que ver con psicología. Un poquito más tarde les cuento qué es. Bueno, ahí en el primer semestre empecé a formar un grupo, empecé a conocer los primeros amigos de la universidad con los que empecé a hacer tareas. Bueno, una parte importante de diferencia del colegio de la universidad es que en el colegio uno era alguien, uno era Fernando Cortés, por ejemplo.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Y la Universidad 1 no era nada.
+[SPEAKER_00]  ¡Gracias!
+[SPEAKER_00]  Era un número, 3534, un número, 3534, 30, y para factores de profesores y de relación, pues era uno más.
+[SPEAKER_00]  Creo que en ese momento en ingeniería hay como...
+[SPEAKER_00]  5.000, 7.000 personas en total, pues uno más. En el colegio a uno lo conocía el rector, a uno lo conocía el profesor, uno tenía un director de grupo. En la universidad uno tenía un profesor asistente que sirviera para mucho, por lo menos al principio. Entonces, digamos que ese tipo de maduración fuerte, pues...
+[SPEAKER_00]  pues impactó.
+[SPEAKER_00]  Eh, eh...
+[SPEAKER_00]  Va a ser el primer semestre.
+[SPEAKER_00]  Fue un primer semestre y no fue fácil.
+[SPEAKER_00]  y
+[SPEAKER_00]  pierdes la materia, pierdes la física.
+[SPEAKER_00]  El...
+[SPEAKER_00]  No me acuerdo por qué, ¿perdí física?
+[SPEAKER_00]  Pero pues digamos que los primeros dos o tres meses fueron mucho de tema de adaptación, de poder adaptarme. También perdí en... creo que perdí cálculo uno, mentiras.
+[SPEAKER_00]  y en 19 se perdió física 2.
+[SPEAKER_00]  Entonces uno empezaba a ver, por ejemplo, en el colegio.
+[SPEAKER_00]  uno veía que uno le podía ir muy mal en un parcial, en un examen, cosa que a mí no me iba.
+[SPEAKER_00]  porque me admiro a alguien.
+[SPEAKER_00]  pero a mis compañeros les ponían cuando le iba mal, les ponían dos.
+[SPEAKER_00]  Yo tuve en segundo o tercer semestre un primer parcial de microprocesadores.
+[SPEAKER_00]  Es aquí, 05.
+[SPEAKER_00]  y da lo que le pasa
+[SPEAKER_00]  La logré pasar con tres, no. Yo me acuerdo que cuando estaba estudiando en el colegio, eso era como en...
+[SPEAKER_00]  fue como en cuarto, quinto bachillerato, estamos hablando de 84, 85.
+[SPEAKER_00]  Eh...
+[SPEAKER_00]  Una vez me saqué en una previa, me llamaron entonces una previa.
+[SPEAKER_00]  Me saqué una prioridad de español, me saqué como 6, 6, 6, en el colegio era sobre 10.
+[SPEAKER_00]  Y recuerdo que el día que me enteraron del 66, me puse a llorar de la tristeza porque había sacado 66.
+[SPEAKER_00]  Entre la universidad...
+[SPEAKER_00]  y sacar el equivalente que era 3, 2, 3, 3.
+[SPEAKER_00]  Era un premio.
+[SPEAKER_00]  O sea, es ese tipo de cambios que uno...
+[SPEAKER_00]  que uno experimentaba respecto a todo.
+[SPEAKER_01]  respetar
+[SPEAKER_01]  En la reunión de los...
+[SPEAKER_00]  Elio.
+[SPEAKER_01]  como esto proviene de redes, de la red de programas de sistemas que tú sabes son 100 universidades.
+[SPEAKER_01]  Acabamos de hacer la reunión anual, creo que había unos 45.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Una de ellas nos contaba que tenía un alumno que solo sacaba 5.
+[SPEAKER_01]  Solo sacaba 5.
+[SPEAKER_01]  Y los profesores se preocuparon.
+[SPEAKER_01]  y comenzaron a ver cómo se rajaba en una materia.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Porque parte de la pedagogía estaba en saber manejar la frustración de una rajada.
+[SPEAKER_00]  parte
+[SPEAKER_00]  y
+[SPEAKER_01]  Y lograron un día que sacara un 2-8.
+[SPEAKER_00]  un día que...
+[SPEAKER_01]  Y entró en depresión.
+[SPEAKER_01]  Pero fue una historia muy bonita porque era formativa, ¿no? Es que tiene que ver con lo que acabas de contar.
+[SPEAKER_00]  es una historia muy...
+[SPEAKER_00]  Y una de las cosas que se ve en el tema de la universidad, y creo que se veía mucho más en mi época, es que uno podía ver compañeros de varios estratos sociales estudiando la carrera. Entonces, no solamente, y ahorita digamos que se tiene la concepción o la idea de que el que entra a la universidad pública es porque no tiene plata para pagar una ciudad privada, básicamente. Pero en ese entonces no existía ese estereotipo.
+[SPEAKER_00]  Y yo tuve la oportunidad de tener conmigo compañeros que eran gente de... Gente de plata, o sea, gente que tenía plata. Básicamente, ¿cómo sabía eso? Habían los valores de las matrículas.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Cuando yo entré y hasta que yo salí, porque digamos que eso se mantuvo para mucho tiempo, estaban los que pagaban 325 pesos.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Esas eran las personas que, de acuerdo al estudio que hacían cuando entraban, eran los que menos capacidad tenían, menos capacidad de pago tenían.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  ¿Cómo te llamas?
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  o provenían de alguna comunidad con alguna limitación, pues básicamente era eso.
+[SPEAKER_00]  que eso era
+[SPEAKER_00]  En mi percepción, eran básicamente el 90-95% de los estudiantes.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Yo, después estaban los que pagaban más de 325. Yo, por ejemplo, pagaba 3.000.
+[SPEAKER_00]  25, cualquiera que pagaba.
+[SPEAKER_00]  que eran los que pagaban más. ¿Y era por declaración de renta ahí?
+[SPEAKER_02] 
+[SPEAKER_00]  Yo no me acuerdo si es... Creo que sí.
+[SPEAKER_00]  Pero creo que eso entró después de que se...
+[SPEAKER_00]  se logró ser más objetivo cuando fue la alcaldía de Antanas.
+[SPEAKER_00]  porque él introdujo varios cambios en el tema de la entrada. Entonces, hasta donde recuerdo, mi papá no declaró, no están de acuerdo, mi papá no hacía declaración de renta y mi mamá no...
+[SPEAKER_00]  mi mamá no trabajaba, además de por fin mi mamá no había estudiado nada porque ella apenas había graduado de quinto primaria.
+[SPEAKER_00]  Mi mamá venía de Boyacá y pues ella sabía leer y escribir, era muy inteligente, pero pues provenía de una familia bastante...
+[SPEAKER_00]  de un entorno bastante complicado.
+[SPEAKER_00]  Entonces, era un entorno bastante explicado.
+[SPEAKER_00]  Entonces, pues mi abuela llegó hasta quinto primaria, pero ella sí vivió de viva sangre, por ejemplo, todos los temas de discriminación por ser mujer.
+[SPEAKER_00]  y la discriminación por venir de Boyacá.
+[SPEAKER_00]  entonces ella no tuvo la oportunidad ni de graduarse de bachillerato.
+[SPEAKER_00]  ni de estudiar en la universidad, pero era muy inteligente y era muy buena para las...
+[SPEAKER_00]  para las matemáticas.
+[SPEAKER_00]  Entonces yo tuve la oportunidad de hablar del tema de la matrícula y estaban los que ganaban.
+[SPEAKER_00]  varios de mis compañeros que han pagado 33.325.
+[SPEAKER_00]  que era el máximo valor de matrícula en la digital en ese entonces.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  300, 3.000 y 33.000.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Exactamente.
+[SPEAKER_00]  Entre los 300 y los 3.000, había algunos que pagaban 1.000 o 2.000, pero digamos que esos eran los rangos. Había otros que eran los que pagaban como 10.000 pesos. Pero yo estuve, básicamente, no sabía que los que pagaban 325 eran personas, porque normalmente venían de afuera, o sea, venían a estudiar de Boyacá, venían a estudiar de Tolima, venían a estudiar del Meta.
+[SPEAKER_00]  Estaban los que pagábamos 3.000, que éramos locales, pero pues no tenían mucho ingreso. Ya después estaban los que estaban 10.000, ya eran los que los papás tenían una casa, un carro, otro tipo de cosas. Y ya los de 3.000, que pues ya eran los...
+[SPEAKER_00]  Pues que tenían plata, que a veces llegaban en carro propio. Estaba hablando del 87, que no era normal que un muchacho tuviera carro propio, ¿no? No es como ahorita, que pues... Bueno, yo aprendí a manejar hasta los 30 años que compré mi primer carro y no lo sabía manejar.
+[SPEAKER_00]  Yo tengo un hijo que tiene en este momento 20 años y él ya maneja a los 18 años y él ya coge el carro y es como si fuera él. Esos son los cambios generacionales. Yo tuve la oportunidad de conocer compañeros y compañeras de muy buenos colegios que sabían mucho. Yo creo que el curso de manual hablaba de un estudiante que sacaba solamente 5.
+[SPEAKER_00]  Recuerda un compañero, Pablo Figueroa, todavía...
+[SPEAKER_00]  Todavía con él me encuentro. Él se graduó de la Nacional, pero ahorita está muy metido con los Andes.
+[SPEAKER_00]  él siempre sacaba 4, 5, 4, 6, 4, 7 ciudadanos.
+[SPEAKER_00]  Yo nunca le di que sacara menos de él. Era realmente muy...
+[SPEAKER_00]  Muy bueno. Y otros como el grupito de él, que él se casó con una...
+[SPEAKER_00]  una mujer, Claudia Díaz, que era mi compañera en primer semestre, era mi grupo en primer semestre, ella también era muy buena, cuatro, cinco, cuatro, seis, cuatro, siete, digamos que era un grupo de los que eran muy buenos. Pablo, el secretario de la universidad, el secretario de la universidad a los cinco años.
+[SPEAKER_00]  Yo me gradué como a los 7 años.
+[SPEAKER_00]  No solamente porque haya perdido materias, esa fue una motivación. Por las huelgas. No, realmente, digamos que se tiene, voy a hablar de las huelgas, se tiene la percepción de que uno perdía mucho semestre en la universidad, por eso. Pero realmente por las protestas y por las huelgas no perdí ningún semestre.
+[SPEAKER_00]  A mí me tocó después de que una de las grandes razones por las cuales se protestaba la universidad era por residencias, llamarle a las residencias y por el restaurante.
+[SPEAKER_00]  que eran unos beneficios que habían ganado los estudiantes hasta el 84 más o menos.
+[SPEAKER_00]  Entonces, hasta el 84, en la universidad, dentro de la universidad, había edificios de residencias donde vivían estudiantes y había una cafetería y un restaurante administrado por la universidad, donde los estudiantes pagaban muy poco y comían.
+[SPEAKER_00]  debido a unas protestas muy fuertes que hubo entre 84 y 85, donde hubo inclusive estudiantes muertos.
+[SPEAKER_00]  Y bueno, obviamente también está el tema de que esas residencias se volvieron focos, no tanto de delito, pero sí de guerrilla, porque la universidad está ligada históricamente con temas de guerrilla. Entonces, sí era cierto que en residencias había temas de guerrilla. Decir que no, eso es una falsedad. Entonces, a raíz de eso, entonces la universidad, más que la universidad, el gobierno y la universidad decidieron cerrar las residencias y decidieron cerrar el restaurante.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Entonces, muchas de las materias que yo tomé eran edificios que originalmente eran de residencias, pero que ya no fungían como residencias. Eran salones que eran adecuados pequeñitos, o sea, con no más de 10 personas, donde habían vivido personas.
+[SPEAKER_00]  Y el restaurante, en el que conocí la universidad, en el centro de la Plaza Che, a un lado quedaba lo que era el restaurante, que era una edificación grande. Eso lo cerraron, se le dio una cafetería pequeña, le decían el Wimpy.
+[SPEAKER_00]  Y el resto lo volvieron temas de deportes. O sea, construyeron un polideportivo, hicieron las oficinas de cada uno de los diferentes deportes que la universidad brindaba. Y con eso lo que hicieron es que la cantidad de protestas bajó muchísimo.
+[SPEAKER_00]  Bajó mucho, mucho, bajó muchísimo. Entonces ya no eran protestas que demoraban seis meses, siete meses, ¿no? Ahora la protesta demoraba un día y lo máximo que yo recuerdo que duró cerrar a la universidad fue una protesta, fue como dos semanas en el tiempo que yo estudié.
+[SPEAKER_00]  Estamos hablando del 87 que entré al 97 que me gradué. Bueno, aunque realmente el último año y medio no tuve materias. Pero pues lo considero como estudiado porque fue hasta que me...
+[SPEAKER_00]  mi graduation.
+[SPEAKER_00]  que me ató un poco de agua porque estuve en la noche.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  O sea, el cierre de la...
+[SPEAKER_02]  Residencias cambió el perfil de los estudiantes.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  lo cambió dramáticamente, pero dramáticamente.
+[SPEAKER_00]  ¿Qué hizo la universidad?
+[SPEAKER_00]  y que muchos de mis compañeros tuvieron.
+[SPEAKER_00]  para reemplazar ese tema de darle directamente la...
+[SPEAKER_00]  la vivienda y la comida.
+[SPEAKER_00]  se inventó lo que llamaron préstamo beca.
+[SPEAKER_00]  El préstamo beca era un estipendio mensual.
+[SPEAKER_00]  que daba la universidad.
+[SPEAKER_00]  Era el equivalente más o menos.
+[SPEAKER_00]  como a un 50, 70% de un salario mínimo.
+[SPEAKER_00]  Yo no apliqué porque no consideraba que me gustaba, pero muchos de mis compañeros sueltos que venían de afuera aplicaban el préstamo beca.
+[SPEAKER_00]  Entonces, la universidad les daba un rubro para manutención mensual. Ellos veían si se lo gastaban en vivienda, en comida.
+[SPEAKER_00]  ¿Qué hacían? Obviamente tenían que demostrar que eran unicadas, ¿no?
+[SPEAKER_00]  Bueno.
+[SPEAKER_00]  Eso no era así, no era así porque sí. Y pues cerró residencia, cerró restaurante y daba préstamos becas.
+[SPEAKER_00]  En ese préstamo, ECA era un...
+[SPEAKER_00]  ¿Por qué se llamaba préstamo de huelga? Porque nacía como préstamo.
+[SPEAKER_00]  Pero si el estudiante al final de cada semestre lograba estar en un porcentaje de las notas más altas,
+[SPEAKER_00]  le hacían un porcentaje de controlación.
+[SPEAKER_00]  le daban un porcentaje con donación. Entonces podía hacer una condonación hasta el 100% cuando estaba, creo que era el 5% de las notas más altas, hasta como el 50% cuando estaba entre el 20, 30%, algo así.
+[SPEAKER_00]  Entonces, las personas aplicaban, condonaban, aplicaban, condonaban, y el que no le iba bien, pues le quedaba la deuda.
+[SPEAKER_00]  para que lo que eran como dos años después de que se graduara.
+[SPEAKER_00]  tenía que empezar la época de la universidad.
+[SPEAKER_00]  firmar un cuadro.
+[SPEAKER_02]  Por Excré willingly.
+[SPEAKER_00]  Sí, pero no lo pagaré. Entonces, con eso era que se mantenía un porcentaje alto de los estudiantes, sobre todo los que entraron conmigo en la universidad.
+[SPEAKER_00]  con el préstamo, con el préstamo ECA. Pues ahí estaban los que necesitaban préstamo ECA. Pues digamos que, bueno, finalmente...
+[SPEAKER_00]  en el tema del estudio en la universidad.
+[SPEAKER_00]  Pues los años pasaron, las materias pasaron, yo empecé a ver programación en el...
+[SPEAKER_00]  Eso fue como en el 88, creo que viví la primera materia, como tercer semestre, que era como fundamento de programación, tenía algo así de nombre. En ese entonces la universidad no tenía redes de PCs, o eran muy restringidos. Nosotros trabajamos en sistemas de programación en dos sistemas, en un IBM 360.
+[SPEAKER_00]  Yo alcancé a trabajar en los primeros meses, como en los segundos meses, alcancé a conocer las tarjetas perforadas, las que uno metía ahí dentro del extracto de tarjetas perforadas, en la Universidad de Tenerife, y después trabajamos con un sistema que se llamaba Vax, V-A-X.
+[SPEAKER_00]  ¡Quédate!
+[SPEAKER_00]  No me acuerdo casi, pero en ese programa de Pascal, por ejemplo. Yo, yo parte de lo que, de lo que aprendí en la universidad, fue aprender a programar en Pascal.
+[SPEAKER_00]  y a mí me iba bien programando en Pascal. Obviamente también programé en Fortran, programé en Assembler, programé en C, que eran los lenguajes, digamos que en ese entonces no había tanta cantidad de lenguajes como Ayolita, eran mucho más contados.
+[SPEAKER_00]  alcance a programar en RP
+[SPEAKER_00]  ¿No retiene? ¿Estás echando a programar?
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Pues porque estaba pegado al sistema 360 Porque el sistema 360 Dicen una...
+[SPEAKER_00]  En co-ac, claro, Paul.
+[SPEAKER_00]  5, creo que era como 3 semestres.
+[SPEAKER_01]  Venga.
+[SPEAKER_00]  de programar en COBOL y aún más, después de graduarnos
+[SPEAKER_00]  y ya con la empresa montada.
+[SPEAKER_00]  eso que aprendimos a trabajar en Cobol no sirvió porque nuestra empresa trabajaba mucho con el sector financiero.
+[SPEAKER_00]  mucho de las plataformas de registro financiero, pues sale en pol.
+[SPEAKER_02]  Pero bueno.
+[SPEAKER_00]  Bueno, pues bueno.
+[SPEAKER_00]  Y siguen, exactamente. Pero bueno, la interacción con la universidad, pues, bueno. Que ese mes es un semestre importante.
+[SPEAKER_00]  Estamos hablando del 90, eso era cuando ya estaba con 25 y 16 semestres.
+[SPEAKER_00]  Ahí fue donde ya me relacioné más con el que es mi socio actualmente. Se llama John Sousa, obviamente también graduó de la universidad.
+[SPEAKER_00]  Eh...
+[SPEAKER_00]  Ahí empezamos a trabajar. Ya nos habíamos cruzado en un par de materias antes.
+[SPEAKER_00]  pero digamos que ahí empezamos a trabajar ya juntos.
+[SPEAKER_00]  Él siempre ha sido muy inquieto. Él hizo teatro, por ejemplo. Yo hice karate.
+[SPEAKER_00]  de la universidad.
+[SPEAKER_00]  Y nos encontramos en un tema académico y creamos un grupo de estudio. La universidad, a través de la Vicedecantura de Bienestar Social, promovía que los estudiantes crearan grupos de estudio.
+[SPEAKER_00]  Entonces nosotros creamos un grupo de estudios que se llamaba Sistemas Estudio y Trabajo, etc.
+[SPEAKER_00]  Y nosotros dentro de ese grupo de estudio hicimos varios eventos a lo largo como de más o menos dos años que duramos nosotros dándole fuerte a ese tema, ligados con computación gráfica, ligados con procesamiento distribuido, hablamos también algo de inteligencia artificial, donde hacíamos algunos eventos de capacitación, conseguíamos algún experto que nos ayudaba a la universidad a conseguirlo para dar algún curso no formal acerca de algunos temas. Y como parte del grupo de estudio de FED.
+[SPEAKER_00]  estuvimos en dos encuentros de ingeniería de estudiantes de Ingeniería de Sistemas.
+[SPEAKER_00]  Recuerdo mucho uno en el 90-91.
+[SPEAKER_00]  en Manizales, fuimos a Manizales.
+[SPEAKER_00]  creo que era el segundo o tercer encuentro.
+[SPEAKER_00]  de estudiar T.I. de sistemas. Entonces ahí nos encontramos, no sé, salían, eso fue como a mitad de año.
+[SPEAKER_00]  Nos encontramos, no sé, éramos como unos, yo creo que unos mil o mil quinientos estudiantes de ingeniería de sistemas de todos lados. Éramos la única delegación de la Nacional de Sistemas, obviamente, y pues ahí interactuamos con otros estudiantes. Ahí conocimos gente de los Andes, gente de la Javeriana.
+[SPEAKER_00]  No me acuerdo qué más teníamos entonces.
+[SPEAKER_00]  ingeniería de sistemas.
+[SPEAKER_00]  No eran muchas realmente las carreras que tuvieron ingenieros de sistemas.
+[SPEAKER_00]  Y entonces, pues, digamos que eso permitió también empezar a conocer más gentes. Señor.
+[SPEAKER_02]  No, eh...
+[SPEAKER_02]  He hablado de universidades.
+[SPEAKER_02]  Sí, la universidad es...
+[SPEAKER_00]  serían? Sí, no eran muchas las universidades. No eran muchas, realmente no eran muchas porque además no eran la carrera.
+[SPEAKER_00]  En ese entonces...
+[SPEAKER_00]  Y creo que solamente está así como 10 años.
+[SPEAKER_00]  era una carrera muy poco sexy. O sea, todo el que entraba a estudiar esa carrera era porque estaba, y a mí me lo dijeron literalmente familia, estaba medio loco.
+[SPEAKER_00]  ¿Verdad que no leíste?
+[SPEAKER_00]  que uno quiere hacer esa carrera que lo norma de estudiar o derecho.
+[SPEAKER_00]  o medicina, o contaduría, pero que esa cara de ingeniería, que esas máquinas del demonio.
+[SPEAKER_00]  Entonces eso siempre existía y pues digamos que eso existió durante mucho tiempo. Yo recuerdo un profesor como, él fue decano de la facultad, Isaías Peña.
+[SPEAKER_00]  que él hablaba que todos los ingenieros éramos unos locos, que andábamos con un poco de libros debajo de los brazos en inglés.
+[SPEAKER_00]  que no le hablábamos a nadie y a todo el mundo mirábamos él.
+[SPEAKER_00]  Y uno iba a ver en ese entonces y si era así.
+[SPEAKER_00]  Toda se tiene la visión de que el ingeniero de sistemas es la persona que lo mira a uno feo, le habla en inglés, le habla en siglas.
+[SPEAKER_00]  y no le interesa y no lo entiende.
+[SPEAKER_00]  y eso todavía se ve mucho solamente hasta ahora es que cuando ya he entrado en los temas de experiencia del cliente del manejo de las emociones es que ha empezado a cambiar
+[SPEAKER_00]  a cambiar el tiempo. Pero bueno, es que ya me estoy adelantando.
+[SPEAKER_00]  Entonces estamos hablando del 90-91.
+[SPEAKER_00]  Entonces, en ese año fue el apogeo del grupo de...
+[SPEAKER_00]  del sistema de estudio de trabajo, trabajamos muy de la mano con la universidad. La universidad no tenía muchos recursos, pero nos ayudaba con recursos básicos por parte del viaje a Manizales, que fue en bus.
+[SPEAKER_00]  Lo hicimos con plata en la universidad. La universidad nos puso el bus para llevarnos. Ayudó a pagar la inscripción. Nos ayudaba a conseguir los expertos que daban las charlas. Nosotros empezamos a estudiar por nuestra parte también en esos temas de computación distribuida, de computación gráfica y de inteligencia artificial. Que son los que me acuerdo. Ah, y programación orientada por objetos. Me acuerdo que en ese entonces empezó a llegar fuerte el tema de la PO. La programación orientada por objetos. Y de eso hicimos dos seminarios. Donde en el segundo alcanzó a venir gente de afuera de la universidad. No solamente interno de la universidad, sino gente afuera de la universidad. Y pues la universidad nos ayudaba mucho en eso. Y la universidad a ese tipo de grupos le permitía que fueran a presentarse a los nuevos estudiantes que llegaban. Entonces en esas sesiones que yo les decía que antes de que uno estuviera en la universidad lo llevaban como dos días para presentarse en la universidad. A nosotros nos dieron la oportunidad de presentarnos como grupo de estudiantes. Y at envie nosotros al artículo 5U.
+[SPEAKER_00]  ante los primíparos que llegaban, pues para ver si alguno se quería vincular.
+[SPEAKER_00]  Eso lo hicimos 90, 91, 92, 93.
+[SPEAKER_00]  y especialmente el 92 es importante.
+[SPEAKER_00]  Porque en el 92 encontramos un grupo.
+[SPEAKER_00]  que fue muy afín a nosotros.
+[SPEAKER_00]  Y yo les puedo decir que en este momento yo tengo mucho más contacto.
+[SPEAKER_00]  con los ingenieros, y además con los no ingenieros.
+[SPEAKER_00]  que estuvieron en ese grupo del primero del 92.
+[SPEAKER_00]  y con la gente de mi carrera.
+[SPEAKER_00]  con los que fían conmigo.
+[SPEAKER_00]  Entonces, ellos son 20, mi código era 25, 34, 30, como les dije al principio. Entonces, yo tengo muchos más amigos con los cuales mantengo la amistad. Con los 25, 42, que eran los del primero del 92, que con los 25, 34, que fueron los míos. Hubo un feeling muy, muy, muy fuerte.
+[SPEAKER_00]  Y ellos, de ese grupo, entraron varios, muchos, varios. O sea, entraron más o menos unos 15 al grupo de estudio.
+[SPEAKER_00]  Y en ese 91 y 92 alcanzamos no solamente a hacer eventos de ingeniería de sistemas, sino a hacer eventos con ingeniería química.
+[SPEAKER_00]  porque resulta que la universidad asignaba unos cuarticos parecidos a los que les decía de los cuartos de los que había estudiado, de los que habían sido residencias, nos asignó una oficina, que era un cuartico de esos. Pues la oficina era dos mesas, no, dos mesas y como diez sillas.
+[SPEAKER_00]  pero ahí uno se podía encontrar, era administrado por uno, se podía encontrar a planear actividades.
+[SPEAKER_00]  Y ahí sí quiero ser muy claro.
+[SPEAKER_02]  de ese hielo
+[SPEAKER_00]  Sí.
+[SPEAKER_00]  Eso formaba parte de eso. Nosotros nunca tuvimos ninguna perspectiva política.
+[SPEAKER_00]  O sea, nada que tuviera que ver con izquierda, con derecha, con arriba, con abajo, con guerrilla, con nada de eso. No, nosotros éramos totalmente aglósticos en el esquema político.
+[SPEAKER_00]  éramos 100% académicos. Sí había varios compañeros nuestros.
+[SPEAKER_00]  que sí tenían su...
+[SPEAKER_00]  su perspectiva política clara.
+[SPEAKER_00]  y que eran activistas fuertes, pero pues nosotros como grupo no. Y gracias a ese tema del viaje a Manizales, de los eventos, fuimos los primeros que participamos por parte de la universidad en un programa que nació primero en los Andes que se llamaba Opción Colombia. No sé si han escuchado Opción Colombia. Opción Colombia fue un programa que nació en los Andes.
+[SPEAKER_00]  el cual buscaba que personas que estaban estudiando varias carreras, en el caso de la autoingeniería de sistemas,
+[SPEAKER_00]  y de la mano de algunas instituciones del Estado, como el DRI, como el IDEA, varias que se dan, fueran y ayudaran en temas de tecnología en sitios apartados.
+[SPEAKER_00]  Entonces, por ejemplo, en la que yo hice, yo estuve con el Fondo DRI, que era el Fondo de Desarrollo Rural Integrado, era un fondo dependiente del Ministerio de Agricultura, que tenía sedes en las principales capitales del país. Entonces, yo fui con el Fondo DRI, yo estuve tres meses en Bucaramanga y tres meses en Barranquilla.
+[SPEAKER_00]  Entonces, a nosotros nos entrenaban en algo que necesitaba cada una de las regionales. En el caso nuestro era instalar unos servidores SSUNIX. Ahí es cuando yo aprendí a UNIX fuertemente. Teníamos que instalar unos servidores de SSUNIX con disquets. Estamos hablando, obviamente, entonces eran los disquetsitos y el UNIX tenía como 30 disquets.
+[SPEAKER_00]  que uno tenía que empezar a meter saquimita, saquimita, saquimita, saquimita.
+[SPEAKER_00]  y que pues si alguna cosa se dañaba un disquete
+[SPEAKER_00]  Estado de la Mara.
+[SPEAKER_00]  porque o tenía que buscar cómo lo recuperaba o tenía que ir a pedir a que alguien le prestara mi todo el disque 35 del Unix.
+[SPEAKER_00]  A veces amigos se la mandaban. Yo estuve en Barranquilla y estuve en Bucaramanga. Eso fue el primero del 91, si no me equivoco.
+[SPEAKER_00]  Yo inicialmente iba a estar en vacaciones.
+[SPEAKER_00]  No mentira, fue el segundo del 91. Y inicialmente iba a estar en vacaciones.
+[SPEAKER_00]  Pero finalmente me quedé seis meses, tres y tres. Por quedarme allá, a mí me echaron de la universidad. O sea, me sacaron porque como no me matriculé, nada.
+[SPEAKER_00]  sino que gracias al contacto que teníamos con Bienestar Universitario y al trabajo que habíamos hecho con la...
+[SPEAKER_00]  con la rapidez, con la...
+[SPEAKER_00]  la carrera y el tema del encuentro de estudiantes, me recibieron, me reintegraron como a las 15 días.
+[SPEAKER_00]  Yo le dije chau y me reintegraron. Pero pues ahí fue el primer contacto profesional y ahí en esos municipios, sobre todo en Bucaramanga, tuve la oportunidad de conocer dos cosas. Primero, acompañé a varias de las personas que trabajaban en el DRI.
+[SPEAKER_00]  Apuebemos.
+[SPEAKER_00]  porque era un fondo de desarrollo rural, entonces lo que tenía que hacer...
+[SPEAKER_00]  era ir a los pueblos a mirar cómo desde una perspectiva rural se implementaban programas de apoyo en dinero, en Sevilla, en cosas de cultivo. Entonces, varias veces, sobre todo en Bucaramanga, acompañaba a los pueblos a ver eso. Y eso primero me permitió conocer cómo trabajaban en los pueblos esos fondos y el tema político.
+[SPEAKER_00]  Porque ahí sí se veía el tema de la política.
+[SPEAKER_00]  Entonces, ¿qué es que tal persona la colocó tal político? Entonces, esta persona no importaba que no hiciera nada, pero pues no se podía decir nada porque era colocado por un político.
+[SPEAKER_00]  Ahí aprendí a comenzar. Y a nivel técnico, aprendí también muchísimas cosas.
+[SPEAKER_00]  La mayor parte de lo que aprendí de UNIX que apliqué en los primeros años de la carrera.
+[SPEAKER_00]  lo apliqué, fue ahí.
+[SPEAKER_00]  lo aprendí ahí y el método del ingeniero echando a perder.
+[SPEAKER_00]  Prueba y error.
+[SPEAKER_00]  Entonces, instalé no sé cuántas veces el SSUNIX. Ese UNIX venía con tres cositas de ofimática. Una se llamaba LIDIX, que era un procesador de texto.
+[SPEAKER_00]  Obviamente, estamos hablando del 90-91, que era un redactor de texto.
+[SPEAKER_00]  nada comparado con ver, era más difícil de manejar con WordStar
+[SPEAKER_00]  Desde entonces.
+[SPEAKER_00]  Había una hoja de cálculo, no me acuerdo el nombre, y había una base de datos. Entonces, yo en ese entonces tenía que enseñarles al personal del DRI a que aprendieran a manejar lyrics y las otras herramientas. Yo construí manuales, hice manuales de... porque los manuales de eso venían en inglés, ¿no? Y pues yo aprendía a usar inglés.
+[SPEAKER_00]  Entonces aprendí, yo ahí fueron mis primeros contactos con el inglés, porque en la universidad entonces el inglés no era obligatorio, no había que darlo. Entonces ahí fueron mis primeros temas con el inglés. Les hice manuales, y manuales muy detallados. Yo cuando escribo tiendo a ser un poco detallado.
+[SPEAKER_00]  para que ellos aprendieran y ellos aprendieran a manejar líneas, aprendieran a manejar los cálculos.
+[SPEAKER_00]  Y otro tema de anécdota, nosotros hablamos de eso en un servidor, es Olivetti.
+[SPEAKER_00]  Olivetti era conocido por sus máquinas de escribir.
+[SPEAKER_00]  Y el gobierno colombiano, a través de la Fundadri, había hecho un contrato grande donde había comprado como 40 servidores Olivetti, donde a nosotros cuando nos mandaban a cada sucursal, a cada regional, nos mandaban con los medios de los Olivetti para instalarlos y yo ya había mandado por correo las máquinas, nosotros llegábamos, estaba la máquina ahí en la caja y nosotros las destapábamos, instale, en ese entonces, por ejemplo, era muy difícil montar las tarjetas multipuertos.
+[SPEAKER_00]  No es como ahorita que tú crees, como TCP, no. Eran tarjetas multiportes que había que configurarlas internamente. Entonces nos tocaba hacerlo a nosotros. Y ahí empezó a ser el germen.
+[SPEAKER_00]  de la parte de la empresa.
+[SPEAKER_00]  Nosotros la empresa la creamos en el 92.
+[SPEAKER_00]  más o menos un año después de que estuvimos en el fondo.
+[SPEAKER_00]  en el Fondo Adri.
+[SPEAKER_00]  donde ya cuando creamos la empresa, ya el grupo de estudio lo habíamos dejado en manos de la siguiente generación.
+[SPEAKER_00]  de la que digo que fue muy amiga mi primera novia, que también fue mi primera esposa fue una mujer de ese grupo del grupo del primero del 92 fue de ahí entonces ahí, y pues después de los siete años volvió mi esposa, entonces en el 92 entonces nosotros empezamos a, ya yo ya había acabado materias o me quedaba una materia digamos que había desarrollado normalmente todo mi tema académico perdí en total en la carrera son como unas 50 materias más o menos llegué a perder como unas 4 o 5 yo me, mi área de profundización fue el control numérico
+[SPEAKER_00]  En YouTube yo vi tres imágenes de control numérico con un profesor muy bueno que se llamaba Francisco Meluc.
+[SPEAKER_00]  con él, recuerdo los parciales eran de cuatro horas entonces uno sabe que cuando tenía que hacer un parcial con él
+[SPEAKER_00]  Lo citaba a las dos, pero no tenía que tener libre hasta las cinco y media, seis, porque eran parciales larguísimos, complejos, pero esa materia, por ejemplo, me fue muy bien. Fue de las notas que más altas tuve en toda la universidad. Todo lo que tenía que ver con sistemas de programación lineal, no lineal, estructuras numéricas, me acuerdo que investigación operacional estocástica, procesos estocásticos, teoría de la decisión, todo eso fueron materias que a mí me fluyeron y me iban bien. Las temas de programación, estaban las materias de programación que también las vi.
+[SPEAKER_00]  ya no me acuerdo bien los nombres vi gestión de proyectos también vi contabilidad y administración, digamos pero digamos que las materias fuertes no se tenían que ver con programación finalmente pues nosotros programamos mucho en el VLAX, pero ya hablando del 91, 90-91
+[SPEAKER_00]  pues ya había varios compañeros que tenían PCs. Los PCs habían empezado a llegar fuertemente al mercado en 88, 89, y en 90, 91 ya eran mucho más populares.
+[SPEAKER_00]  eran los peces grandes, los que tenían el disquet de 5 ¼ y de 3 ½, porque uno podía tener cosas y nada más cosas. Los de 5 ¼ se venían dañando, porque como tenían la parte que se tocaba, pues...
+[SPEAKER_00]  Pero bueno, y ahí uno empezó a programar en Pascal, en C, uno hacía trabajos con amigos, entonces había grupos, tenía que hacer un programa que era X cosa, se reunía, uno diseñaba, construía, tiraba código y...
+[SPEAKER_00]  y lo entregaba.
+[SPEAKER_00]  Ya en la última parte de la carrera.
+[SPEAKER_02]  Señor.
+[SPEAKER_00]  señor
+[SPEAKER_02] 
+[SPEAKER_02]  Pues generalmente hablamos que en las universidades se enseñan unas tecnologías, unos lenguajes.
+[SPEAKER_02]  y que cuando salen los estudiantes...
+[SPEAKER_02]  se enfrentan a otras tecnologías.
+[SPEAKER_02]  ¿Cómo ves eso, esta crítica, digamos, de alguna manera? Esa es mi pregunta. Más por los estudiantes, ¿no?
+[SPEAKER_00]  Sí, esa es una pregunta y digamos que de mi perfil profesional asociativo, yo, pues, como Edgar sabe, yo pertenezco al clúster de software, además también pertenecemos a FedeSoft y realmente con la cámara estamos en dos clústeres, estamos en el de software y estamos en el de servicio financiero. Y cuando el clúster de software se creó en 2012.
+[SPEAKER_00]  Yo fui uno de los fundadores del clúster de Solvar, con otras como 10, 15 empresas. Uno de los principales problemas que teníamos era lo que se llama divorcio academia-universidad.
+[SPEAKER_00]  La academia forma...
+[SPEAKER_00]  forma formaba estudiantes en las habilidades que la empresa.
+[SPEAKER_00]  no necesitaba y en lo que necesitaba, pues no salían sirviendo. Entonces, por ejemplo, y que aún lo vivimos.
+[SPEAKER_00]  el tema de base de datos.
+[SPEAKER_00]  en temas de estructura de datos, yo alcancé a ver como unos dos o tres semestres de...
+[SPEAKER_00]  de base de datos, un niño pues veía cómo armar la base de datos, las sentencias de base de datos y empezaba a partir de ahí a escalar y hacer bases de datos más complejas. Hoy hemos visto profesionales de universidades chiquitas, unidades grandes.
+[SPEAKER_00]  y
+[SPEAKER_00]  tienen muy poco conocimiento de base de datos. Por ejemplo, uno les dará la tercera forma normal.
+[SPEAKER_00]  y no entienden de qué les hablan. Pero la tercera forma normal es base para cuando uno está construyendo software corporativo.
+[SPEAKER_00]  Y eso también tiene que ver con el tema de programación. Creemos que ahorita se ve mucho lo que tiene que ver con Java.net. Bueno, no ahora, sino desde hace como unos 15 años, Java.net y ese tipo de herramientas. Entonces, uno les ponía una prueba para que hicieran un algoritmo sencillo.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  alguna vez, incluyendo la búsqueda binaria, que es el primer algoritmo que uno le enseñan a programar.
+[SPEAKER_00]  y se notaba que no sabían programar.
+[SPEAKER_00]  No había experiencia.
+[SPEAKER_00]  un año programando en tal cosa. Entonces, un algoritmo sencillo.
+[SPEAKER_00]  y no veía que no
+[SPEAKER_00]  No tenían la semántica, no tenían la sintaxis y no tenían el...
+[SPEAKER_00]  el sentido común de programación. Entonces, sí había un improviso de todo el tema profesional en la empresa. Sí hay una diferencia clara. Hay muchos temas teóricos, muchísimos temas teóricos que le meten a las universidades.
+[SPEAKER_00]  que no se ve en la aplicación práctica. Y uno veía, y eso sí también ha ido mejorando en las universidades.
+[SPEAKER_00]  que había mucho profesor.
+[SPEAKER_00]  que no tenía experiencia profesional.
+[SPEAKER_00]  Y personalmente, la mayoría de los productores que a mí me dieron clase.
+[SPEAKER_00]  no tenían experiencia profesional.
+[SPEAKER_00]  eran netamente académicos.
+[SPEAKER_00]  Entonces, eso hacía que...
+[SPEAKER_00]  Que...
+[SPEAKER_00]  que lo que enseñara a veces no tenía una...
+[SPEAKER_00]  un símil o una comparación en el mundo profesional.
+[SPEAKER_00]  la ventaja o la diferencia con nosotros es que nosotros creamos, yo digo nosotros, soy yo y mis socios, creamos la empresa estando estudiando.
+[SPEAKER_00]  cuando nosotros creamos la empresa en el 92 nosotros no nos habíamos graduado nosotros nos graduamos en el 94
+[SPEAKER_00]  Entonces, lo que nosotros, a nosotros nos tocó aprender, estando estudiando, pues para poder montar la empresa.
+[SPEAKER_00]  y las habilidades y las herramientas que aprendimos a usar, nosotros, por ejemplo, los primeros cinco años de la empresa, trabajamos con Informix 4GL.
+[SPEAKER_00]  Y a nivel de base de datos, trabajamos con Informix.
+[SPEAKER_00]  ese y un like que es el más grande
+[SPEAKER_00]  Y eso nos tocó aprenderlo por nosotros mismos. Y eso está...
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Y eso lo aprendimos.
+[SPEAKER_00]  Porque en el DRI, ¿se acuerdan? Que es el fondo DRI. La aplicación que ellos trabajaron para las regionales estaba hecha en Informix SE y estaba hecha en Informix 4L. Nosotros no es que hayamos dado mantenimiento, pero nosotros las instalamos.
+[SPEAKER_00]  Entonces ahí empezamos a conocer el Informix y pues como éramos medio inquietos, aprendimos a jugar con el Informix, a hacer sentencias. Y como vimos que era una herramienta buena, fue la que decidimos utilizar cuando empezamos a crear la empresa. Entonces nuestro primer aplicativo, nuestro primer producto que lanzamos está hecho para Informix y está hecho en Informix 4G L, bajo sistemas operativos SSO Unix.
+[SPEAKER_00]  que eran el Santa Cruz Operations, que eran los que...
+
+[SPEAKER_02]  trabajamos. Entonces, digamos que ese tema nosotros nos lo unimos tan fuertemente porque como nosotros nos dimos trabajo a nosotros mismos, pues nos tocó aprender lo que necesitábamos saber.
+[SPEAKER_02]  Yo realmente como empleado.
+[SPEAKER_02]  como empleado sin ser dueño, he estado en muy pocos, en muy, muy, muy pocos días.
+[SPEAKER_02]  Entonces, cuando todavía estábamos estudiando, teníamos dos frentes principales. Estábamos con la empresa en el 92 y ya habíamos presentado la tesis, ya habíamos presentado el tema de la tesis.
+[SPEAKER_02]  Nosotros, por ser demasiado creativos, por ejemplo, de alguna manera.
+[SPEAKER_02]  planteamos una tesis un poco compleja, que fue la que le dije en nuestro producto material de psicología.
+[SPEAKER_02]  Nosotros planteamos de tesis un sistema.
+[SPEAKER_02]  ¿Cómo se llama? Análisis y diseño de un sistema basado en sistemas expertos, redes neuronales y lógica difusa para la evaluación psicométrica de personal basados en la prueba 16PF.
+[SPEAKER_02]  Entonces, básicamente era construir un sistema basado en citar expertos con redes neuronales, que es lo que hoy se llama Machine Learning, y lógica difusa para automatizar y volver inteligente una prueba psicométrica que se llama 16PF, los 16 factores de personalidad.
+[SPEAKER_02]  Nosotros trabajamos en Prolog y trabajamos en Montor.
+[SPEAKER_02]  Y fue una de las pocas tesis que yo conocí, realmente no conocí ninguna, que tenía dos directores de tesis. Tenía un director de tesis de sistemas, que es un profesor que se llama Alfonso Pérez Gama. No sé si de pronto lo van a escuchar. Sí, sí, sí.
+[SPEAKER_06]  Sí, sí, sí.
+[SPEAKER_02]  Gracias.
+[SPEAKER_06]  Sí, sí.
+[SPEAKER_02]  Gracias a Pindarazis.
+[SPEAKER_06]  Muchas gracias.
+[SPEAKER_02]  Él ha sido muy activo, salió de la universidad, se pensionó hace muchos años y después salió a otra facultad, en otra universidad, después en otra, él ha sido muy activo y también teníamos de co-director de tesis.
+[SPEAKER_02]  una persona, un profesor de psicología.
+[SPEAKER_02]  Y resultó que el codirector de psicología es el psicólogo más grande que ha dado a Colombia.
+[SPEAKER_02]  que se llama Rubén Ardila.
+[SPEAKER_00]  vida
+[SPEAKER_02]  él fue el fundador de la Facultad de Psicología en la Universidad Nacional.
+[SPEAKER_02]  Y él es un profesor. No sé si está vivo, creo que está vivo.
+[SPEAKER_02]  le perdí la pista, él fue un profesor reconocido a nivel mundial y él fue nuestro codirector de tesis.
+[SPEAKER_02]  Entonces, nosotros realmente, la tesis de la universidad está planteada para que no se demore máximo tres semestres.
+[SPEAKER_02]  Nosotros nos demoramos dos años y medio. No porque, pues, trabajamos la tesis, pero es que tenemos al mismo tiempo, estamos trabajando en la empresa.
+[SPEAKER_02]  porque estamos desarrollando la empresa y como les digo, la empresa se creó en el 92 y nosotros nos graduamos en el 94. Nuestro primer sistema lo pusimos en producción en diciembre del 92.
+[SPEAKER_02]  Y el tiempo estábamos trabajando en la tesis. Entonces, nosotros trabajábamos. En la empresa trabajábamos de...
+[SPEAKER_02]  9 y media, 10.
+[SPEAKER_02]  a 7 de la noche. En la tesis trabajaba de 7 a 11 de la noche.
+[SPEAKER_02]  Y pues como la empresa todavía no ha dado suficientes ingresos, nos conseguimos un trabajo de profesores.
+[SPEAKER_02]  Con la Dian, enseñando Word.
+[SPEAKER_02]  Constable Word Baron
+[SPEAKER_02]  y lotus
+[SPEAKER_00]  de la UFRO.
+[SPEAKER_02]  Nosotros éramos profesores de 7 a 9 de la mañana. Nosotros dábamos clases en la sede de la DIAN de la 34 con séptima, 35 con séptima.
+[SPEAKER_02]  que yo creo que eso era aduanas antes. Entonces, ahí dábamos clase como cuatro días a la semana, dos horas, ahí nos pagaban por hora, y con eso nos llegaba para mantenernos, para seguir trabajando en la empresa y pues para terminar la tesis. Entonces, digamos que esos fueron años interesantes.
+[SPEAKER_06]  empresa
+[SPEAKER_06]  Y no era muy tiempo yo...
+[SPEAKER_02]  Si no era muy tiempo, yo...
+[SPEAKER_06]  Muy difícil.
+[SPEAKER_06]  la tesis en relación con lo que hacías de trabajo.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Sí, ya basta. Nosotros, yo, personalmente, qué pena que volvamos a quitarlo.
+[SPEAKER_06]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Yo realmente tengo...
+[SPEAKER_02]  Una vena.
+[SPEAKER_02]  más investigativa.
+[SPEAKER_02]  que otra cosa, a mi siempre me gusta mucho investigar
+[SPEAKER_02]  Entonces,
+[SPEAKER_02]  Quien planteó la tesis fui yo, porque a mí siempre me ha gustado mucho la inteligencia artificial.
+[SPEAKER_02]  Y pues como uno planteaba...
+[SPEAKER_02]  El Unión.
+[SPEAKER_02]  lo que iba a hacer
+[SPEAKER_02]  Y se lo ha probado, ¿no?
+[SPEAKER_02]  Entonces, pues resulta que no la aprobaron ya cuando empezamos a trabajar en el tema de la empresa, porque primero planteamos el tema de la tesis.
+[SPEAKER_02]  Y después empezamos a desarrollar el esquema del software que íbamos a hacer.
+[SPEAKER_02]  nos dimos cuenta que estaban bien diferentes, que debía trabajar cosas totalmente diferentes. Yo me acuerdo de una palabra que se utilizaba en ese entonces en Unix, que era el context switch. El context switch que nos tocaba hacer de cambiar de un contexto al otro era...
+[SPEAKER_02]  Y pues eso también hizo que nos demorábamos más en el tema de la tesis, que nos demorábamos de año y medio, nos demorábamos dos años.
+[SPEAKER_02]  Y pues eso también implicó que nos tocó pedir permiso de toda la universidad para que nos autorizaran ese año de más.
+[SPEAKER_02]  Finalmente...
+[SPEAKER_06]  ¿Ya ven?
+[SPEAKER_06]  Tenían credibilidad y para que pudieran autorizarles.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Sí, claro. Y finalmente, cuando nosotros entregamos la tesis, eso fue como en el 94, en marzo del 94 entregamos la tesis.
+[SPEAKER_02]  para la evaluación.
+[SPEAKER_02]  Primero tenía que estar firmada, obviamente, por los dos directores. Y para que la firmara el profesor Pérez Gama, pues teníamos que hacer... Bueno, nosotros trabajábamos con... Entonces había unas cositas que se llaman Sentinel, que eran unos hardware que permitía que uno utilizara el Smalltalk que tenía disponible en la universidad. Entonces eso uno tenía que tener turnos para hacer eso.
+[SPEAKER_02]  porque no era que eso estuviera ahí que uno pudiera utilizarlo como quisiera, no, había que tener turnos, y eso pues también nos demoraba el tema de programación, porque los turnos eran durante el día.
+[SPEAKER_02]  Entonces, si no tocábamos la tesis de noche, pues nos tocaba mover del trabajo que estábamos haciendo con la empresa, pues para poder hacer los temas de la tesis. Entonces, tocaba hacerle toda la presentación al profesor Pérez Gama, desde el punto de vista de tecnología, y al profesor Ardila, desde el punto de vista de psicología, para que ambos nos firmaran la tesis. Y finalmente presentamos la tesis, nos fue bien, y entre los jurados, no, ese día no sé por qué, creo que fue el profesor Pérez Gama quien invitó a alguien de conciencias.
+[SPEAKER_02]  el día de la sustentación de la tesis. Y él vio la sustentación de la tesis y nos dijo, mire...
+[SPEAKER_02]  Desde Conciencias.
+[SPEAKER_02]  tenemos una comunaria, un programa.
+[SPEAKER_02]  para que ustedes puedan seguir investigando en su tesis.
+[SPEAKER_02]  Y de momento, señor.
+[SPEAKER_02]  ¿O seguíamos con la tesis?
+[SPEAKER_02]  o la empresa, pero lo que nos dice es, miren, si ustedes entran dentro del programa que tengan conciencias, pues no, pues, es exclusivo.
+[SPEAKER_02]  Entonces nos tocó, tenemos que decir, empresa, te existen, empresa te existen, y pues finalmente ganó la empresa. Aquí estamos.
+[SPEAKER_02]  Y nos tocó la tesis. El documento que está ligado con la tesis fue un documento de 540 páginas.
+[SPEAKER_02]  Yo me acuerdo que cuando se los mostraba a los demás compañeros, bueno, nuestros compañeros de universidad que graduaron en el 92, 93, la mayoría, cuando les mostrábamos nuestros paquetes decían, ¿qué vaca loca se metieron? ¿Para qué se metieron a hacer de mediáticos tan complicados?
+[SPEAKER_02]  del web.
+[SPEAKER_02]  Entonces, pues finalmente en el 94 me gradué de la universidad.
+[SPEAKER_02]  Un minuto.
+[SPEAKER_06]  Voy a reducir el alcance.
+[SPEAKER_02]  Eso era muy complicado en ese entonces en la universidad. O sea, digamos que, por ejemplo, ahora que un muchacho se estudia puede o presentar tesis, o hacer práctica, o hacer un diplomado, creo que es que en mi época era o tesis o tesis.
+[SPEAKER_02]  Y tenía que tener una tesis de investigación, no una cosita así. Porque yo tenía la oportunidad de ver algunas...
+[SPEAKER_02]  tesis o de algunos proyectos que se presentan y pues digamos son proyectos muy
+[SPEAKER_02]  planos en mi opinión y además de que ahora casi ningún muchacho o ningún estudiante
+[SPEAKER_02]  Quiere hacer tesis, ¿no? Todos quieren o practican.
+[SPEAKER_02]  o
+[SPEAKER_02]  o un diplomado. Nada que decir, hay que trabajar mucho.
+[SPEAKER_03]  Pregunta.
+[SPEAKER_02]  entonces pues no
+[SPEAKER_03]  Tengo unas preguntitas.
+[SPEAKER_02]  Señor.
+[SPEAKER_03]  No, muy interesante todo. Yo soy mucho más veterano que tú, obviamente.
+[SPEAKER_03]  pero viví la época de LCC o UNIX.
+[SPEAKER_03]  De hecho, había un grupo que viajábamos a Santa Cruz, a Estados Unidos, cada año.
+[SPEAKER_03]  Un mes, ¿sí?
+[SPEAKER_03]  Y era una fiebre enorme el trabajo de Yunis, que fue increíblemente interesante para los que nos gustan esos...
+[SPEAKER_00]  Y era una...
+[SPEAKER_03]  esos temas.
+[SPEAKER_03]  me hace recordar esa...
+[SPEAKER_03]  Esa época, ¿no?
+[SPEAKER_03]  que necesitaba gente muy metida.
+[SPEAKER_03]  autónoma, digamos, para trabajar.
+[SPEAKER_03]  y para investigar.
+[SPEAKER_03]  Importante.
+[SPEAKER_03]  ¿Te tocó la venida de Stallman?
+[SPEAKER_03]  de Richard Stallman, después con Linus en la Nacional.
+[SPEAKER_02]  No estuve, así me tocó, pero no estuve por temas de trabajo. Lo que pasa es que...
+[SPEAKER_02]  Tiene una empresa.
+[SPEAKER_02]  de ese tipo que va después de todos estos años.
+[SPEAKER_02]  Nos dimos cuenta que cuando uno tiene una empresa que construye productos...
+[SPEAKER_02]  la que tiene el producto, es excesivamente demandante.
+[SPEAKER_02]  Yo quería ir a cuando vino Starman, pero pues finalmente no pude, el tiempo no me dio.
+[SPEAKER_02]  pero hubiera sido una oportunidad. Porque, nada, por ejemplo, en el tema de Unix y en el tema de Informis, yo y otro de mis compañeros, no John, porque John era más de la parte comercial, nos volvimos unos expertos fuertes. O sea, hubo un par de ocasiones que la principal de Informis de Colombia, no me acuerdo si se llamaba Soft o se llamaba CompuSoft o algo así, la que trabajó Informis, nos llamaron porque habían tenido unos problemas y pues nosotros entramos a revisarlo. Yo me acuerdo que una vez un usuario...
+[SPEAKER_02]  una vez le dio RM-R en la raíz
+[SPEAKER_02]  Y borrachón disco.
+[SPEAKER_02]  Y fuera...
+[SPEAKER_02]  Y entonces...
+[SPEAKER_02]  Yo a mí fue uno de los que llamaron para intentar reconstruir y logramos reconstruir como el...
+[SPEAKER_02]  80% más o menos de la información.
+[SPEAKER_02]  Lo mismo en Informix, también nos volvimos muy fuertes en Informix Online, Informix SE. A mí, como motor de base de datos, hasta el 2004, 2005, siempre me gustó más Informix que Oracle o cualquier otro. Porque Informix era muchísimo más estable. Pero nosotros teníamos clientes que tenían Informix Online y entonces se iba a la luz. Y pues ahí sí, era como ahora que es mucho más estable.
+[SPEAKER_02]  y nos hubiera servido
+[SPEAKER_02]  y el infobis bubía.
+[SPEAKER_02]  sin problema.
+[SPEAKER_02]  Fue a hacer oráculos.
+[SPEAKER_02]  Perfecto. Se llevaba la luz y iba a sobreverar con eso. Eso era una...
+[SPEAKER_02]  Mejor dicho, un caos. Y sin cual fiarme, pues, peor. Y nosotros también alcanzamos a interactuar con Cybers, por ejemplo. O con DB2, en el trabajo con la empresa. Entonces, digamos que tuvimos la oportunidad de conocer varias, y a mí siempre me gustó más Informis hasta el 2005. Ya lo que pasa es que después de Informis la compró, por esos años, la compró IBM.
+[SPEAKER_02]  Y pues me cogió y la...
+[SPEAKER_02]  Hasta luego.
+[SPEAKER_02]  Y pues ahorita creo que todavía existe algo de informes, pero ya...
+[SPEAKER_02]  no es la sombra de lo que era antes.
+[SPEAKER_02]  Y el tema es que entonces, administrar sistemas operativos como UNIX implicaba un conocimiento bien fuerte. Porque, por ejemplo, lo que era configurar, entonces eran terminales brutales. Ustedes recordarán las terminales WISE.
+[SPEAKER_02]  las que eran verde y negro o ámbar y negro.
+[SPEAKER_02]  Entonces ellas se comunicaban por una tarjeta multipuerto.
+[SPEAKER_02]  que uno le tocaba ponchar directamente cada cablecito porque de la...
+[SPEAKER_02]  de la tableta que se conectaba detrás de la terminal, acá no tenía pincitos, y cada cablecito tenía aquí un pin especial, y el pin especial dependía de la tarjeta multipuerto.
+[SPEAKER_02]  Entonces nosotros nos tocó, dependiendo de la tarjeta de multipuerto, ya no me acuerdo de las marcas, uno empezara a soldar un cautín.
+[SPEAKER_02]  Es de dar cada cablecito.
+[SPEAKER_02]  Cerrarlo, conectarlo y empezar a mirar que hubiera quedado bien.
+[SPEAKER_02]  Digamos que ese era mucho trabajo manual. Obviamente en ese entonces, y sigo hablando hasta el 2004, 2005, esos sistemas centralizados no tenían ambiente gráfico.
+[SPEAKER_02]  O sea, todo era comandos, comandos, comandos, comandos, comandos, comandos. Todo era en comandos. Ya fue como con la entrada fuerte ya de Windows, como el de Windows 98 fue que empezó a entrar fuerte, empezó a reemplazarse las terminales brutas. Y uno de los problemas que tuvo Informix, que ese sí fue uno que nos terminó afectando fuertemente, es que Informix 4GL...
+[SPEAKER_06]  Exacto.
+[SPEAKER_02]  no fue lo suficientemente dirigente para generar una plataforma que generara interfaz gráfica.
+[SPEAKER_02]  ellos sacaron algo que llamaron Infarmix Dynamics, creo que se llamaba.
+[SPEAKER_02]  Pero era una porquería.
+[SPEAKER_02]  Era muy mal, muy, muy, muy mal. Nosotros estuvimos la...
+[SPEAKER_02]  el error de montarlo y hacer la migración de lo que teníamos en 4GL a ese Informix Dynamics y ofrecerlo a los clientes y perdimos una buena cantidad de clientes porque eso fue muy malo y además le cortaron el soporte a los pocos tiempos. Entonces nos vimos en un momento y creo que en el punto empresarial fuimos las grandes indultivas. Veníamos de estar trabajando fuertemente en Unix, Informix Online e Informix 4GL.
+[SPEAKER_02]  Pasó a otro informe, es 4GL, entonces ya nos tocó pasarnos a motores gráficos, que ahí estaba ahora con el SQL Server, en la mente del Windows Server.
+[SPEAKER_02]  y con Windows 98, Windows Vista, Windows XP, todo ese tipo de cosas.
+[SPEAKER_02]  Entonces, ahí nos tocó cambiar de herramienta.
+[SPEAKER_02]  Y ahí pasamos a...
+[SPEAKER_02]  En ese entonces había una compañía de software grande que se llamaba Soft, X-O-F-T.
+[SPEAKER_02]  con los cuales habíamos hecho algunos proyectos chiquitos, y nos dijo que había una herramienta que se llamaba Gupta. No sé si ustedes lo han escuchado.
+[SPEAKER_00]  No.
+[SPEAKER_02]  Creo que se llamaba un 4G.
+[SPEAKER_02]  de cual se le denominará RDI.
+[SPEAKER_02]  Rapid Development Environment.
+[SPEAKER_02]  Era un R.E.
+[SPEAKER_02]  creado en ese entonces por una persona que había trabajado en Oracle de apellido Guttal.
+[SPEAKER_02]  y que no tengo un ambiente de programación.
+[SPEAKER_02]  un lenguaje de programación muy bueno, realmente muy bueno, que permitía, por ejemplo, hacer agnóstico de base de datos. Tenía varios ODBCs para conectarse con varias bases de datos.
+[SPEAKER_02]  y entonces íbamos a meternos por Gupta e hicimos la versión esa fue la versión de nuestro sistema fue la versión como
+[SPEAKER_02]  como 8 o 9
+[SPEAKER_02]  que la hicimos ya pasamos de las primeras seis versiones, las primeras cinco versiones habían sido modo texto en sistemas centralizados en Informix. La seis fue la que hicimos en Informix Dynamics, que no sirvió para nada. Y la siete fue una intermedia que hicimos. La ocho ya fue la que hicimos sobre Gupta.
+[SPEAKER_02]  Y ya fue en el gráfico.
+[SPEAKER_02]  en el sentido de ser cliente-servidor.
+[SPEAKER_02]  Se conectaba con varias bases de datos y ahí fue donde empezamos a cambiar de informes a...
+[SPEAKER_02]  pero resulta que es herramienta oculta.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  a una oita
+[SPEAKER_02]  He tenido muchos cambios de sueño.
+[SPEAKER_02]  Entonces, Agupta tuvo un crecimiento muy alto, se metió en la subida.
+[SPEAKER_02]  pero a veces cuando sube muy rápido también cae muy fuerte.
+[SPEAKER_02]  Entonces, quebraron.
+[SPEAKER_02]  Y los termino comparando una...
+[SPEAKER_02]  una compañía aquí llamada Centura.
+[SPEAKER_02]  que era un fondo de inversión.
+[SPEAKER_02]  que lo que ocupará es el pedazo de piedra, a ver qué haría con ellas.
+[SPEAKER_02]  Entonces, no hizo mucho con ella realmente.
+[SPEAKER_02]  y finalmente se la vendió a una empresa de tecnología un poco más conocida.
+[SPEAKER_02]  que se llama UNISIS.
+[SPEAKER_03]  Ah, sí.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Entonces, yo soy representante en Colombia mucho tiempo, pero...
+[SPEAKER_02]  ¿Pero qué? Pero pues le fue mal. Yuris Colombia tuvo una pelea muy fuerte con Yuris Estados Unidos.
+[SPEAKER_02]  entonces la empresa de herramientas Unix es Colombia.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  El virus en Estados Unidos.
+[SPEAKER_02]  Y nos vemos en Estados Unidos.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Conocí mucho a Yunis, si me permites.
+[SPEAKER_03]  Sí, claro. Yo creí en esa época una empresa llamada Conocer.
+[SPEAKER_02]  Sí.
+[SPEAKER_03]  y le manejamos toda la capacitación a UNISIS.
+[SPEAKER_03]  que ellos se las hacían con sus ingenieros de soporte.
+[SPEAKER_03]  Y por razones de conocimiento.
+[SPEAKER_03]  El que dirija eso, que fue Javier Caro, que es un profesor nuestro de los Andes.
+[SPEAKER_03]  nos llamó y nos dijo, manéjenme la capacitación.
+[SPEAKER_03]  y creamos con Guillermo Santos Calderón, entre otras cosas, en el tiempo.
+[SPEAKER_03]  una empresa llamada Conocer Limitada.
+[SPEAKER_03]  y manejamos sobre todo Oracle.
+[SPEAKER_03]  que era lo que más funcionaba en los sistemas que eran UNIX.
+[SPEAKER_03]  de Iónisis en esa época.
+[SPEAKER_03]  O sea que sí tuvimos mucho que ver. Eso debió ser por allá.
+[SPEAKER_03]  En el año...
+[SPEAKER_03]  98 yo creo, ¿no?
+[SPEAKER_04]  Sí.
+[SPEAKER_06]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Sí.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  algo así
+[SPEAKER_02]  que era algo así.
+[SPEAKER_04]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  A ver a Borros primero, se volvió Juni.
+[SPEAKER_02]  Sí, sí, lo vio en exceso.
+[SPEAKER_03]  Ok.
+[SPEAKER_02]  eso es tiempo de nosotros
+[SPEAKER_02]  Entonces, pues, Unisys tuvo, no recuerdo cómo se llamaba la empresa, Uniscol, Unisoft, alguna cosa de Colombia, que le fue mal. Entonces, bueno, finalmente sobre el 2000...
+[SPEAKER_02]  5.006
+[SPEAKER_02]  Yo ni siquiera...
+[SPEAKER_02]  compró cintura.
+[SPEAKER_02]  que es centura, era la que había comprado Gupta.
+[SPEAKER_02]  Y...
+[SPEAKER_02]  Yo ni siquiera tenía pensado en tecnología, entonces ya...
+[SPEAKER_02]  ya era diferente, ya le metió la herramienta, la creció y entonces nosotros estuvimos en 2000.
+[SPEAKER_02]  siete en Sacramento. La sede de Yunesis era en Sacramento.
+[SPEAKER_00]  aclamando.
+[SPEAKER_02]  Nosotros fuimos una delegación como de la empresa, como de seis personas de la empresa, fuimos a Sacramento a hablar con UNISIS porque queríamos ver qué era el futuro de la herramienta, porque en ese entonces teníamos la UTI. Nosotros habíamos seguido trabajando desde el...
+[SPEAKER_02]  como en el 99, 2000, 2001, yo estaba trabajando con Gupta y veníamos trabajando con Gupta y trabajaba bien Gupta, pero digamos que desde hace como tres años antes se había dejado de actualizar por los temas que venía de cambio de empresa.
+[SPEAKER_02]  Entonces, cuando llegamos allá queríamos saber...
+[SPEAKER_02]  ¿Cuál era la perspectiva de UNISIS frente a la herramienta de Gupta?
+[SPEAKER_02]  el nombre es Team Developer. En estos era primero era Team Developer, después se llamó Centura Team Developer y ahora se llamaba Team Developer.
+[SPEAKER_02]  Entonces, queremos saber de Ionisis cuál era la perspectiva.
+[SPEAKER_02]  Entonces, ellos habían organizado un...
+[SPEAKER_02]  un developers conference, lo que era fuera de Pessimas, que era un día. Entonces nos fuimos a Sacramento, estuvimos allá en el día de los siete que íbamos.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  hablaban inglés.
+[SPEAKER_02]  100% ninguno.
+[SPEAKER_02]  yo me defiendo en inglés o más o menos hablo inglés entonces yo era el que podía hacer entonces pues fuimos habíamos conocido una persona que era un peruano canadiense americano que era como representante de Latinoamérica de UNISIS con él fue que hicimos un contacto llegamos al sacramento y lo que nos presentaron es que la perspectiva de la herramienta era meterle inversión para crecer
+[SPEAKER_02]  Entonces eso nos gustó.
+[SPEAKER_02]  nos gustó mucho, decidimos seguir con la herramienta y decidimos plantearle a UNISIS que nosotros nos volvíamos una especie de representantes de ellos en Colombia. Y les planteamos que íbamos a organizar la primera Colombia Developers Conference, porque más o menos entre el 99 y el 2004, ellos habían vendido varias empresas en Colombia.
+[SPEAKER_02]  Que te diga, gupta.
+[SPEAKER_02]  Recuerdo que Aviatur tenía gupta.
+[SPEAKER_02]  Recuerdo que había una palmera grande.
+[SPEAKER_02]  un hombre que tenía gusta.
+[SPEAKER_02]  Ella parece que ha comprado gupte.
+[SPEAKER_02]  Entonces, la idea era hacer organización de la Developers Conference en Bogotá.
+[SPEAKER_02]  pues para volver a reunir la comunidad.
+[SPEAKER_02]  se organizó durante dos años
+[SPEAKER_02]  en ambos años, estoy hablando más o menos de 2008-2009.
+[SPEAKER_02]  se hizo en el hotel La Fontana, en el 1927 con...
+[SPEAKER_02]  Con 15, ahí se hizo. En el primero fueron como 15 personas, en el segundo fueron como 30 personas.
+[SPEAKER_02]  ellos actualizaron la versión de Gusta, de Timbre del Opera, a la versión 5.6, que no había tenido actualización hace como cuatro años antes.
+[SPEAKER_02]  Y pues finalmente...
+[SPEAKER_02]  ¿Qué pasó?
+[SPEAKER_02]  A ellos.
+[SPEAKER_02]  nos compró una casa de software canadiense, aquí la más grande de Canadá, que se llama OpenText.
+[SPEAKER_02]  Entonces, OpenTest compró Unisys.
+[SPEAKER_02]  Ah, no, mentiras. Antes a Eunice la compró una que se llamaba Daegis.
+[SPEAKER_02]  que era grande, que era más grande que Unisys.
+[SPEAKER_02]  Pero como...
+[SPEAKER_06]  Pero con...
+[SPEAKER_06]  Gracias.
+[SPEAKER_02]  ¿Vale?
+[SPEAKER_02]  como si compro toda la compañía.
+[SPEAKER_04]  No.
+[SPEAKER_06]  Gracias.
+[SPEAKER_02]  Entonces, y no es que Unicef se hubiera quebrado ni nada, sino comparando toda la compañía.
+[SPEAKER_02]  Comencemos.
+[SPEAKER_02]  como nosotros lo acompañamos, compraron un pedazo de la compañía, el pedazo de las herramientas de desarrollo.
+[SPEAKER_02]  Entonces,
+[SPEAKER_02]  Entonces, da X con por S de pedazo.
+[SPEAKER_02]  Y...
+[SPEAKER_02]  entonces entonces la parte de desarrollo de la herramienta de desarrollo que no estaba el team developer y la y ellos tienen un motor de base se llama 5 al mes la empresa la compra otra la compra open text que es muchísimo más grande
+[SPEAKER_02]  Entonces, actualmente ellos siguen trabajando con Tinder y Loper. Nosotros seguimos trabajando con Tinder y Loper, pero digamos que es una...
+[SPEAKER_02]  parte minúscula
+[SPEAKER_02]  Llama a colores. No es unisis, es unify.
+[SPEAKER_02]  Ah, ya.
+[SPEAKER_02]  qué pena, Unify fue la que compró, no Unisys, porque yo decía, no Unisys es muy grande, no, Unify fue la que compró a Gupta, Taexis compra a Unify y OpenTex compra a Taexis.
+[SPEAKER_02]  Y actualmente es parte de OpenText.
+[SPEAKER_02]  Y pues digamos que ha seguido mejorando la herramienta, pero nosotros hemos ido cambiando, no cambiando, sino incursionando con nuevas herramientas. También trabajamos actualmente con Ionic, trabajamos con Angular, trabajamos con Java, trabajamos con .NET, trabajamos con React, con Node.js.
+[SPEAKER_02]  nuestro cuerpo
+[SPEAKER_02]  nosotros tenemos un core financiero, un core bancario, que es básicamente, pues para lo que es un core, toda la parte de atrás, ese sigue estando en Team Development, en la última versión.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Y a eso lo que hemos construido es alrededor una cantidad de, nosotros llamamos canales digitales o productos digitales.
+[SPEAKER_02]  que están hechos en todo lo que tiene que ver con cuentas.
+[SPEAKER_02]  Y pues digamos que actualmente... Como los complementos, ¿no?
+[SPEAKER_06]  actualmente
+[SPEAKER_02]  Sí.
+[SPEAKER_02]  Entonces, actualmente...
+[SPEAKER_02]  Nuestra herramienta, el core se llama Cygnus.
+[SPEAKER_02]  Y bueno, es que hay un tema que tiene que ver también con la historia. Nosotros, a lo largo de los 31 años que tenemos de existencia en la empresa, nos ha gustado ponerle nombres relacionados con la mitología griega o romana a la mayor parte de los productos de la empresa. La empresa original y la grande se llama Ethos, que es la raíz de Ethos, la manera de hacer las cosas. El sistema grande se llama Cygnus, que es cisne en griego.
+[SPEAKER_02]  que se llama Signus, por la fábula del patito feo. Entonces, cuando nosotros hicimos el cambio de la versión 11 a la versión 12,
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  la 12 de la CINUS, hicimos un trabajo de reingeniería gráfica también muy fuerte.
+[SPEAKER_02]  Entonces pasamos del patito feo, que se llamaba Asimco, que era la versión 11, a Asignus, que era el sismo.
+[SPEAKER_02]  uno de sus productos se llama por ejemplo limen
+[SPEAKER_02]  Límenes es el dios romano que protege los hogares, es un producto dirigido a plataformas de riesgos. Nuestra línea de negocios de desarrollo a la medida y desarrollo web y aplicaciones móviles se llama Hermes, que es el dios de los inventos.
+[SPEAKER_02]  Digamos que a nosotros nos ha gustado mucho utilizar, y a mí personalmente me ha gustado mucho utilizar ese tipo de nombres.
+[SPEAKER_06]  Mitología griega.
+[SPEAKER_03]  Como es.
+[SPEAKER_02]  Entonces...
+[SPEAKER_03]  Entonces, tenemos que ver con un minuto ustedes, Daniel.
+[SPEAKER_06]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_02]  con las cooperativas.
+[SPEAKER_03]  Pero aquí es así.
+[SPEAKER_06]  Gracias.
+[SPEAKER_03]  Sí, yo me acuerdo. Te voy a mostrar una cosa.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Pero que sea buena.
+[SPEAKER_02]  ¡Li-la-la!
+[SPEAKER_02]  Etos.
+[SPEAKER_02]  Ah, exactamente.
+[SPEAKER_02]  ¿Quién se salió de los computadores?
+[SPEAKER_03]  De acuerdo, esta la tengo yo de recuerdo.
+[SPEAKER_02]  De acuerdo.
+[SPEAKER_03]  Porque la cooperativa...
+[SPEAKER_02]  la copia
+[SPEAKER_03]  A mí me tocó actuar y me acuerdo que alguna vez...
+[SPEAKER_03]  Actúe con estos para favorecer.
+[SPEAKER_03]  una situación que se presentó en la cooperativa, que al comienzo era difícil sistematizarla.
+[SPEAKER_03]  No sé si...
+[SPEAKER_02]  La cooperativa tuvo, claro, la cooperativa tuvo y hablando de casos ya de éxitos particulares.
+[SPEAKER_02]  La cooperativa Pinuto de Dios.
+[SPEAKER_02]  tuvo un cambio de enfoque.
+[SPEAKER_02]  bastante fuerte.
+[SPEAKER_02]  cuando nosotros empezamos a trabajar con la cooperativa Minuto de Dios.
+[SPEAKER_02]  La idea original era una cooperativa para los empleados de la universidad, profesores y empleados administrativos.
+[SPEAKER_02]  Pues digamos que en ese entonces no eran más de mil.
+[SPEAKER_02]  ¿Puedo decirle alguna cosa?
+[SPEAKER_02]  Después hubo un cambio, además, y recuerdo que el cura rector de la universidad nos pidió que fuera lo más barato posible porque son...
+[SPEAKER_02]  La comunidad.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Después, y digamos que ahí estuvimos trabajando muy de la mano con ellos, hicieron un cambio de enfoque. Como José Manuel sabrá, la cooperativa Minuto de 10 ahorita es una cooperativa muy fuerte en financiación de matrícula de estudiantes.
+[SPEAKER_03]  De acuerdo.
+[SPEAKER_02]  Pasaron de tener como los 700...
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Y el padre Camilo Bernal es ingeniero de sistemas.
+[SPEAKER_03]  Que fue el que te tocó, porque yo estaba... Exactamente.
+[SPEAKER_04]  Exactamente.
+[SPEAKER_03]  Y con ustedes actúen algo, no me acuerdo qué cambio les pedimos.
+[SPEAKER_03]  algo tecnológico, pero tengo un gran recuerdo de...
+[SPEAKER_03]  de esa época. Hoy día es gigante la cooperativa.
+[SPEAKER_02]  Sí, hoy día pasaron de tener sus 700 asociados a tener más o menos 140.000 asociados.
+[SPEAKER_04]  ¡Uff!
+[SPEAKER_02]  De los 140 mil son estudiantes que están financiando la matrícula y que los trajeron a, no solamente es el tema de financiación de la matrícula desde el punto de vista del crédito educativo, desde el punto de vista del cooperativismo, son muchachos que lo están metiendo en el modelo cooperativo, son muchachos que le financian la matrícula.
+[SPEAKER_04] 
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Pero además ellos tienen que aportar mensualmente como mil pesos.
+[SPEAKER_02]  como asociados.
+[SPEAKER_02]  Y es un ahorrito que tienen ahí.
+[SPEAKER_02]  Pero hay el fuerte de la financiación de matrículas y ya no solamente financian para la universidad, sino que ellos financian para varias universidades.
+[SPEAKER_02]  un cambio de enfoque, que también se vio reflejado atrás en el sistema, bastante fuerte.
+[SPEAKER_02]  porque les implicó cambiar el chip.
+[SPEAKER_02]  Entonces, mirar, nosotros también trabajamos con la cooperativa de ingenieros.
+[SPEAKER_02]  que se llamaba Financiar, se llamaba actualmente Financiar, que es la cooperativa de ingenieros en general. Ellos, entre el 90 y el 98, habían desarrollado un sistema propio que lo vendían a otras cooperativas.
+[SPEAKER_02]  Ellos empezaron a trabajar con otros en el 99.
+[SPEAKER_02]  como la Cooperativa de Ingenieros.
+[SPEAKER_02]  pues era la cooperativa colombiana de insumididos, o la cooperativa de insumididad colombiana, algo así. Eran, digamos, 800 asociados.
+[SPEAKER_02]  una buena parte de anígenes, los civiles.
+[SPEAKER_02]  Ellos también hicieron un cambio de enfoque y empezaron a financiar matrículas. Actualmente tienen más o menos unos 20.000 asociados, de los cuales como 19.000 son financiación de matrícula en el modelo cooperativo.
+[SPEAKER_03]  Así es, muy interesante.
+[SPEAKER_02]  Entonces, digamos que, bueno...
+[SPEAKER_02]  Señor.
+[SPEAKER_03]  Sigue, sigue, sigue.
+[SPEAKER_02]  Entonces, digamos que dentro de todo el sistema empresarial en esos 30 años,
+[SPEAKER_02]  hemos pasado
+[SPEAKER_02]  Crear una empresa en el 92 es muy diferente de lo que es crear una empresa ahorita en el 2023. La cantidad de trabas y temas que había que hacer en el 92 eran bastante fuertes. Aunque ahorita también hay bastantes. Pero digamos, nosotros fuimos, además, cuando nosotros creamos la empresa teníamos 22 años. Pues imagínense un muchacho de 22 años ir a sentarse a negociar con un cooperativista. Pues nosotros nacimos en el sector cooperativo inicialmente y nos vendimos productos.
+[SPEAKER_02]  con un cooperativista o con un banco.
+[SPEAKER_02]  que tenía 35, 40 años, pues decía, estos muchachos no saben nada de nada.
+[SPEAKER_02]  nos menospreciaban mucho. Recuerdo una anécdota en 95, 96, nosotros vendimos una cooperativa en Cali y yo fui el que la fui a implementar.
+[SPEAKER_02]  Yo he tenido varias etapas donde tengo el cabello largo y el cabello corto, cabello largo, cabello corto.
+[SPEAKER_02]  actualmente pues tengo el cabello largo, pues el que me ha visto, pues hay que ver que tengo cabello largo.
+[SPEAKER_02]  Entonces, yo llegué a implementar allá a la cooperativa en Cali, entonces pues con mis habilidades sociales que ya les comenté que tengo, entonces yo llegaba, me sentaba en el computador, yo utilizaba, no sé, un Goldman, no existía otra cosa, y me ponía los audífonos, me sentaba y me sentaba a trabajar y hablaba muy poco con nadie.
+[SPEAKER_02]  Un poco más.
+[SPEAKER_02]  Entonces, como al tercer mes, que nosotros hacemos reuniones mensuales de desarrollo, llegó John, que era el gerente de la empresa, a hablar con el gerente de la cooperación.
+[SPEAKER_02]  La gente de la comunidad le dijo, oiga John, yo necesito que me cambie ese mechudo, ese mechudo que está allá.
+[SPEAKER_02]  No habla, no sé qué hace, nunca me dice nada, no me saluda, no nada.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Y yo no sé cómo vamos, nada, nada.
+[SPEAKER_02]  Y después yo entendí que el avance íbamos más que al día.
+[SPEAKER_02]  Y pues una de mis características es que yo no soy creyente.
+[SPEAKER_02]  Entonces él empezó a hablar de mi religión.
+[SPEAKER_02]  Y yo le empecé a responder porque una cosa es no ser creyente, otra cosa es no saber.
+[SPEAKER_02]  De relieve.
+[SPEAKER_02]  Entonces yo empecé a hablar de religión con él, y a plantearle mi posición, y finalmente terminamos de ir de amigos.
+[SPEAKER_02]  a pesar del estigma del cabello largo, de que no hablaba o de no ser creyente, terminamos de amigos. Y así digamos que a lo largo de estos 30 años, por ejemplo, el segundo cliente que tuvimos, que fue en el 93, a hoy, 30 años después, sigue siendo cliente nuestro.
+[SPEAKER_02]  Ha pasado por los 10, 15 cambios de sistema que hemos tenido. Hemos peleado, nos hemos reconciliado, hemos hecho proyectos juntos, pero ahí seguimos. Porque parte de lo que nosotros sabemos como empresa es que un proyecto es como un matrimonio, va a tener sus subidas y sus bajadas.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Y hay una cosa que nosotros tenemos que decir, y la situación es de la fase preventa.
+[SPEAKER_02]  Miren, yo lo único que les aseguro es que ya vas a tener peleas.
+[SPEAKER_02]  Pero también le aseguro que las vamos a resolver.
+[SPEAKER_03]  Que bueno.
+[SPEAKER_02]  poquen
+[SPEAKER_02]  porque también aprendimos mucho.
+[SPEAKER_02]  que en estos proyectos, los proyectos de tecnología, y es algo que venimos aplicando en los últimos...
+[SPEAKER_02]  10 años, los proyectos de tecnología no son de tecnología.
+[SPEAKER_02]  Son de gente.
+[SPEAKER_02]  entonces nosotros todos los peitos los trabajamos en tres aristas.
+[SPEAKER_02]  las personas, entendiendo como usuarios, los dueños, los clientes, los procesos, que es el negocio, y la tecnología.
+[SPEAKER_02]  pero el eje son las personas, porque en la medida que logremos entender a las personas.
+[SPEAKER_02]  logremos entender qué es lo que necesita.
+[SPEAKER_02]  y eso también es una perspectiva de design thinking.
+[SPEAKER_02]  ¿Y lo van a entender aquí lo que quieren todos los que están involucrados?
+[SPEAKER_02]  sabemos qué es la mejor tecnología que se puede montar.
+[SPEAKER_02]  Y así digamos que voy a venir implementando los últimos proyectos. Nosotros, digamos, desde el punto de vista de la profesionalidad, no somos de los que tenemos 10.000 clientes. Nosotros tenemos un número limitado, José Nido, en estos 30 años, más o menos unos 500.
+[SPEAKER_02]  500 clientes que actualmente tenemos activos, unos 120, 130.
+[SPEAKER_02]  clientes donde tenemos más o menos la solución más grande, nosotros que es Signos, que es el Cork, tiene más o menos 80 módulos diferentes, 80 módulos. Nosotros tenemos desde los módulos tradicionales de contabilidad, tesorería, proveedores, hasta módulos raros como reservas vacacionales.
+[SPEAKER_02]  manejo de parqueaderos. ¿Por qué? Pues como tenemos clientes cooperativas, hay cooperativas multiactivas, hay muchas cooperativas que tienen sedes vacacionales.
+[SPEAKER_02]  entonces necesitan un sistema para su sede vacacional. Si esa sede vacacional tiene parqueadero y necesitan que puedan manejar el parqueadero, tenemos el software de parqueadero. Hemos crecido mucho a nivel de producto, eso es bueno.
+[SPEAKER_02]  A veces no es tan bueno porque cuando uno se enfoca mucho en el producto, a veces pierde de vista la necesidad del cliente.
+[SPEAKER_02]  y pues lo vital es la necesidad del cliente.
+[SPEAKER_03]  Ok, muy interesante.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Ya para terminar, digamos que la empresa, actualmente la empresa está en 11 países. Estamos en Colombia, que es nuestra sede principal. Estamos en Perú, en Ecuador, en Panamá, en Costa Rica.
+[SPEAKER_02]  uno que se llama el Triángulo del Norte, que es Salvador, Honduras, Guatemala, México, Estados Unidos y Puerto Rico, bueno, y República Dominicana.
+[SPEAKER_03]  ¿Cómo me llama tu nombre?
+[SPEAKER_02]  Mi socio se llama John Sousa.
+[SPEAKER_03]  Yo, Susan, sí, yo tuve que ver con él.
+[SPEAKER_03]  Yo era decano de la Facultad de Ingeniería de Uniminuto en esas épocas.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02] 
+[SPEAKER_02]  él y yo hemos interactuado con la facultad
+[SPEAKER_03]  y
+[SPEAKER_02]  Yo he dado...
+[SPEAKER_02]  en los últimos como dos años.
+[SPEAKER_02]  Hay un...
+[SPEAKER_02]  como un programa, una charla que se da a los que se van a regresar como empresarios.
+[SPEAKER_02]  Yo he dado varias, sé que yo también he dado algunas varias. Entonces, digamos que, y con la Universidad de Minuto, pues, hemos tenido una buena relación. Nunca hemos llegado a ser profesores, pero sí tenemos muy buena relación y hemos hecho varias cosas. Bueno, ya para terminar, digamos que puedo estar a la historia. En estos 30 años hemos quebrado fácilmente unas ocho veces, nueve veces.
+[SPEAKER_00]  Bueno, es...
+[SPEAKER_02]  Hemos entrado, nos hemos metido en negocios que nada tienen que ver con tecnología.
+[SPEAKER_02]  Una vez compramos vacas.
+[SPEAKER_06]  Gracias.
+[SPEAKER_02]  como compañía, como empresa, compramos vacas.
+[SPEAKER_06]  para diversificar
+[SPEAKER_02]  Por gusto.
+[SPEAKER_02]  Sí, no, por diversificar para meter en negocios diferentes. Compramos un billar y administramos durante dos años un billar.
+[SPEAKER_02]  Y lo ministramos directamente, es que alguien cercano a nosotros era el que lo manejaba y nosotros íbamos a hacer la validación.
+[SPEAKER_02]  tuvimos un parqueadero que lo manejábamos directamente. Llegamos a veces a importar unas cosas de China.
+[SPEAKER_02]  raras, digamos que algunos, el billar, por ejemplo, es un negocio que da plata.
+[SPEAKER_02]  pero el problema es que es muy desgastante.
+[SPEAKER_02]  una de las quebradas fuertes que tuvimos fue cuando el sector cooperativo
+[SPEAKER_02]  se quebró en el 97-98.
+[SPEAKER_02]  96, 97 se quebró ¿por qué se quebró? porque resulta que muchos de los narcotraficantes habían metido dinero en las cooperativas como las cooperativas no tenían un nivel de vigilancia alto, pues eran dinero que podían blanquear fácilmente cuando cogieron a los rodríguez de la escuela que fue en 95, 96 no me acuerdo bien, entonces los cestaferros fueron a retirar el dinero que tenían metido en las cooperativas las cooperativas lo habían invertido en inversiones de largo plazo o inversiones malas
+[SPEAKER_02]  y pues empezaron a quedar ilícitas las cooperativas, a matar a algunos de las cooperativas también. A quebrarse, sí. Sí, entonces fue un tema fuerte. Entonces ahí también nos quebramos porque muchos clientes nuestros se quebraron y se quedaron debiéndonos mucho plata.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_02]  Entonces, así hemos tenido operaciones. Actualmente, pues, el grupo son siete empresas.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Hay dos empresas en Estados Unidos, dos en Colombia, una en Panamá, una en Costa Rica y una en República Dominicana.
+[SPEAKER_02]  Todavía nos falta mucho por aprender.
+[SPEAKER_02]  Permanentemente estamos aprendiendo.
+[SPEAKER_02]  Estamos ahorita, por ejemplo, a pesar de que no trabajamos con inteligencia artificial desde la universidad, nosotros hemos tenido cosas de inteligencia artificial desde hace 10 años, sobre todo en lo que tiene que ver con modelos predictivos en los temas de perfiles de riesgo. Y ahorita estamos empezando a desarrollar nuevos productos ya con el tema de inteligencia artificial generativa.
+[SPEAKER_02]  Estamos empezando a mirar.
+[SPEAKER_02]  Por ejemplo, roboadvisors basados en la información propia de las cooperativas. Pero digamos que ahí vamos dándole, vamos creciendo, pues somos en el punto de esta asociativo, como les decía, estamos en los clústeres, estamos en FEDESOF, procuramos participar en los programas que podemos. Digamos que ahí estamos muy pendientes en los temas de internacionalización. Hemos perdido plata. Por ejemplo, nosotros intentamos vender en Estados Unidos con un programa de la cámara y de PROEX por ahí entonces en 2008, 2009. Estuvimos gastando plata desde 2009 hasta 2012. Gastamos más o menos unos 200 mil dólares y vendimos cero.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Hicimos mala escogencia de producto a vender, hicimos mala escogencia del recurso allá, la embarramos mucho, pero bueno, digamos que todo ha sido un aprendizaje, pero pues digamos que seguimos enamorados del tema del emprendimiento, del tema de la tecnología, del tema de cómo la tecnología puede impactar a las personas y a las empresas. Hace dos años nos inventamos un...
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  una especie de producto o asesoría que llamamos Business Architect en black.
+[SPEAKER_02]  que es dirigida a pymes
+[SPEAKER_02]  que sean exitosos en lo que hacen, por ejemplo, un laboratorio, por ejemplo, un retail, pero que no tengan metido dentro de su estrategia la tecnología. Es decir, mire, usted puede meter la tecnología aquí, aquí, aquí, aprovecharla de esta manera, les estructuramos unos proyectos para que ellos decían por cuál irse y que puedan empezar a desarrollar proyectos, de manera que ellos se sientan seguros con la tecnología. Y pues digamos que en eso es lo que llevamos trabajando los últimos...
+[SPEAKER_02]  31 años y ya casi 32 años.
+[SPEAKER_03]  Bueno.
+[SPEAKER_03]  Es una historia muy interesante.
+[SPEAKER_02]  Sí.
+[SPEAKER_03]  Ya lo hubiéramos preguntado, hiciste el recorrido.
+[SPEAKER_03]  De la Universidad Nacional hemos tenido varios colegas tuyos de la Nacional y Sandra también.
+[SPEAKER_03]  Tienes un grupo.
+[SPEAKER_03]  Y ha sido muy interesante ver la participación del alma mater con ustedes.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Sí.
+[SPEAKER_04]  Sí.
+[SPEAKER_03]  distinta de tal manera
+[SPEAKER_03]  Sin que te lo hubieras preguntado, pasaste el recorrido.
+[SPEAKER_03]  que ha sido muy importante para este proyecto.
+[SPEAKER_03]  que es la relación universidad-profesional.
+[SPEAKER_02]  Hay un tema que me decían aquí en Oro, que es que hay un tema que me decían aquí en Oro,
+[SPEAKER_02]  La universidad.
+[SPEAKER_02]  hasta hace relativamente poco.
+[SPEAKER_02]  no tenía un canal de comunicación muy fluido ni bueno con los egresados.
+[SPEAKER_02]  O sea...
+[SPEAKER_02]  Por ejemplo, la diferencia de los Andes que tiene sus uniandinos.
+[SPEAKER_02]  la universidad.
+[SPEAKER_02]  hasta hace poco está empezando a tejer más fuertemente ese tejido empresarial post-egresado de la universidad. Entonces eso es algo que la universidad se dio cuenta.
+[SPEAKER_02]  y pues ha venido mejorándolo. Todavía me falta mucho para llegar a...
+[SPEAKER_02]  a unos niveles de referencia, pero digamos que ya se siente más el contacto con la...
+[SPEAKER_02]  con la biografía y con
+[SPEAKER_02]  y que la universidad se preocupe, por ejemplo, de lo que han realizado.
+[SPEAKER_02]  Ahorita, por ejemplo, la migracia tiene un programa muy interesante que se llama Mentor.
+[SPEAKER_02]  basada en tecnología, donde está asesorando a pymes en temas de lo que ahora se llama Deep Tech.
+[SPEAKER_02]  Entonces, eso me parece bien interesante.
+[SPEAKER_02]  Pero digamos que la universidad.
+[SPEAKER_02]  tenía series de deficiencias hace años, pero que las ha ido mejorando.
+[SPEAKER_03]  Pues muy bien, le puedo pedir a Sandra, a Beatriz y Kevin prender su cámara.
+[SPEAKER_03]  para que también Daniel los vea.
+[SPEAKER_06]  Participemos en...
+[SPEAKER_03]  y esta
+[SPEAKER_01]  por ahí. No puedo prender la cámara, pero muy agradecida con la presentación.
+[SPEAKER_01]  pues es un referente para todos los jóvenes que están ahorita cursando la carrera, Daniel.
+[SPEAKER_01]  Y muchas gracias por ese detalle en los datos, tanto técnicos como de los periodos de tiempo en que se dio esa formación. Te agradezco mucho.
+[SPEAKER_02]  Ok. Sí, ha sido muy... Le faltó nombrar a algunos profesores, por ejemplo...
+[SPEAKER_02]  El profesor Andrade, que fue el profesor de microprocesadores, que me puso el primer 05. Muy buen profesor, pero no le gustaban las mujeres ingenieras, les tiraba muy duro.
+[SPEAKER_02]  El profesor Ortegón, profesor, fue mi consejero.
+[SPEAKER_02]  no me acuerdo de qué materia daba, pero pues no era tan buen profesor, pero estaba muy bien entre los estudiantes.
+[SPEAKER_02]  Un pueblo que de pronto se conocieron Luis Roberto Ojeda.
+[SPEAKER_02]  un muy buen profesor que se llama Larry K. Fulbright.
+[SPEAKER_02]  Pero pues finalmente, no es estéreo, pero...
+[SPEAKER_02]  los últimos años que supe, pues tenía problemas de demencia.
+[SPEAKER_02]  pero él era un excelente, excelente profesor. El profesor Pérez Gama, que ya les mencioné, el profesor Melú, que también fue muy bueno, Cotajote Hernández, que fue director de la carrera, Ismael Castañeda.
+[SPEAKER_02]  Ismael Peña.
+[SPEAKER_02]  Bueno, profesor, el profesor Soyla Ramos, que fue profesor de telecomunicaciones, y el profesor Flores, no me acuerdo, el apellido de él era Carlos o José Flores, no recuerdo, en la parte de telecomunicaciones también, muy bueno, el profesor Uruguayo, que escribió un buen tiempo, Gabriel Mañana.
+[SPEAKER_02]  en el tema de programación y programación de los objetos.
+[SPEAKER_02]  también bastante bastante bueno y que lo recuerdo con
+[SPEAKER_02]  con mucho cariño. Y así, pues hay varios profesores que ya después de tanto tiempo, me lo recuerdo, pues que son los que han hecho que sea mucho de lo que soy ahora.
+[SPEAKER_03]  Excelente. Me encantan algunos que son amigos nuestros. Yo soy un amigo de Ismael.
+[SPEAKER_02]  Sí, claro.
+[SPEAKER_03]  Hemos trabajado en la ingeniería humanitaria.
+[SPEAKER_06]  En Reyes trabajó.
+[SPEAKER_03]  También, exactamente, muy cercano.
+[SPEAKER_03]  Bueno, yo creo que estamos como cerrando.
+[SPEAKER_03]  Sí, sí, sí.
+[SPEAKER_06]  Sí, sí, sí.
+[SPEAKER_03]  Bien.
+[SPEAKER_06]  Sí, el recorrido estuvo suficiente.
+[SPEAKER_03]  Alimento.
+[SPEAKER_06]  alimentado con todos los datos.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  Bien recorrido.
+[SPEAKER_03]  Sí, y todas esas quiebras, yo tengo un dicho, Daniel, que dice la experiencia es un archivo embarrado y bien organizado.
+[SPEAKER_03]  No, pero...
+[SPEAKER_03]  Y sirve en el futuro, aunque duele mucho cuando se seque, ¿no?
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Eso fue algo que aprendimos cuando empezamos a conocer el ecosistema de Silicon Valley.
+[SPEAKER_02]  Yo he tenido la oportunidad de ir varias veces a... y sobre todo entre el 2009 y el 2013.
+[SPEAKER_02]  Fui varias veces a Silicon Valley a conocer el ecosistema y una de las cosas que aprendí y que logré concientizar es que...
+[SPEAKER_02]  fallar no es malo.
+[SPEAKER_02]  Fallar es aprender.
+[SPEAKER_02]  Y pues lo que dice el bienestar es fallar rápido y fallar barato.
+[SPEAKER_03]  Y en investigación tecnológica que te tocó en Junish, con todas las cosas nuevas.
+[SPEAKER_03]  Yo tengo también unas frases que son...
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Si yo estoy investigando una tecnología...
+[SPEAKER_03]  y estoy de malas, me funciona ahí mismo.
+[SPEAKER_03]  Si estoy de buenas, no me funciona.
+[SPEAKER_03]  porque hacerla funcionar es la que da el conocimiento.
+[SPEAKER_03]  Y eso pasa mucho. Exactamente.
+[SPEAKER_02]  Exactamente.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Trabajamos encima de las máquinas y el software.
+[SPEAKER_02]  Ok
+[SPEAKER_02]  Porque es muchísimo mejor encontrar los errores en pruebas que cuando están en producción.
+[SPEAKER_03]  De acuerdo.
+[SPEAKER_02]  Así es, por cierto.
+[SPEAKER_03]  Bueno, yo creo que para finalizar se nos ha vuelto como un estándar que Kevin...
+[SPEAKER_02]  Por supuesto.
+[SPEAKER_03]  Kevin le ha tocado actuar acá como estudiante, él está haciendo su práctica en ASIS.
+[SPEAKER_03]  No sé si Edgar quiere formular alguna pregunta. Sí, no.
+[SPEAKER_06]  Sí, yo viendo todo este recorrido.
+[SPEAKER_06]  sobre todo de emprendimiento, de empresarismo.
+[SPEAKER_06]  de evolución, de desarrollo y sobre todo de propósito, porque es que tú has narrado la cosa.
+[SPEAKER_06]  Como que la tengo clara desde el principio independiente de todas las...
+[SPEAKER_06]  subidas y bajadas que tenga que pasar.
+[SPEAKER_06]  para donde voy
+[SPEAKER_06]  Eh...
+[SPEAKER_06]  ¿Cómo transmitir esa determinación a estos jóvenes?
+[SPEAKER_06]  que se encuentran ahora en nuestras carreras y que son...
+[SPEAKER_06]  altamente demandados.
+[SPEAKER_06]  Entonces, aquí le... Esa es una pregunta y le daría...
+[SPEAKER_06]  el paso a Kevin para que basado en eso, pues, sugiera alguna otra inquietud.
+[SPEAKER_06]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  que
+[SPEAKER_05]  No sé, estaba pensando ahorita aquí.
+[SPEAKER_05]  Te hablaba Daniel.
+[SPEAKER_05]  Algo muy importante es que ahorita como que los jóvenes pensamos muy bien.
+[SPEAKER_05]  en sacar todo muy rápido.
+[SPEAKER_05]  O sea, queremos tener casa ya, carro ya, una vida hecha ya.
+[SPEAKER_05]  pero pues como que nunca analizamos como que para poder llegar a eso hay que tener un proceso.
+[SPEAKER_05]  Muy fácil.
+[SPEAKER_05]  Entonces...
+[SPEAKER_05]  El hecho de, por ejemplo, hay muchos...
+[SPEAKER_05]  también tengo muchos amigos que siempre han sufrido mucho.
+[SPEAKER_05]  de ansiedad o sobre estrés porque piensa que...
+[SPEAKER_05]  Si su carrera universitaria, su colegio no fue muy perfecto, no nos van a aceptar en un trabajo.
+[SPEAKER_05]  Y eso es algo que no pasa.
+[SPEAKER_05]  O sea, como que estamos tan en el momento en que, bueno, sí, tenemos que avanzar, avanzar, avanzar.
+[SPEAKER_05]  Y ese es un problema que tenemos ahorita en las redes sociales.
+[SPEAKER_05]  tenaz que de verdad es algo para valorar.
+[SPEAKER_05]  De hecho, pues yo por ejemplo ya leí tal...
+[SPEAKER_05]  Estoy en un reto personal.
+[SPEAKER_05]  intentando hacer 60 días sin nada de res.
+[SPEAKER_05]  Por eso mismo, porque me he dado cuenta que incluso...
+[SPEAKER_05]  Eso de estar en scroll, scroll, scroll.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  me ha afectado como bastante.
+[SPEAKER_05]  esa necesidad de estar ahí pegado y...
+[SPEAKER_05]  Como que decir, como que, uy, escucha, mi amigo ya está logrando esto.
+[SPEAKER_05]  Y yo ahorita todavía no he estado en mi universidad, pero pues lo pude haber hecho. O sea, es como que...
+[SPEAKER_05]  Estamos en cuenta que nuestro camino es...
+[SPEAKER_00]  Gracias, Colasto.
+[SPEAKER_05]  Es obviamente en sociedad, pero también es muy personal y para que sea personal hay que hacer las cosas y hacer las cosas nos puede ayudar a ser.
+[SPEAKER_05]  las cosas bien o mal.
+[SPEAKER_05]  Si es bien, creo que es lo que decía Daniel.
+[SPEAKER_05]  Es una fortuna, pero...
+[SPEAKER_05]  Yo creo que hacerlo mal es aún mucho más de admirar.
+[SPEAKER_04]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  No mucho sabe levantarse.
+[SPEAKER_05]  Y eso es, para mí es algo más de admirar.
+[SPEAKER_05]  Entonces, con lo que decía Anil, pues acá yo estaba súper...
+[SPEAKER_05]  pegado porque me pareció muy interesante la
+[SPEAKER_05]  la manera de ver las cosas.
+[SPEAKER_05]  de cómo afrontó todos esos problemas, incluso sin saberlo, porque...
+[SPEAKER_00]  A ver.
+[SPEAKER_05]  Lo que él decía es que hace poquito fue que lo diagnosticaron, entonces...
+[SPEAKER_05]  Fue...
+[SPEAKER_05]  Yo soy así siempre, si me hago entender, hasta darse una cuenta de...
+[SPEAKER_05]  de cómo es Perú.
+[SPEAKER_05]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Eso es muy chévere.
+[SPEAKER_02]  Muchas gracias.
+[SPEAKER_02]  Durante mucho tiempo las personas que tenemos este trastorno...
+[SPEAKER_02]  pensamos que estamos fallando, o sea, que tenemos algo malo.
+[SPEAKER_02]  Ya después que uno se cuenta que no es que no esté malo, sino que es así, que es parte de lo que estaba diciendo Kate. Y una parte importante de lo que tiene que ver con las generaciones nuevas. Yo he tenido la oportunidad...
+[SPEAKER_02]  Espero bien.
+[SPEAKER_02]  de haber podido trabajar con muchas personas jóvenes.
+[SPEAKER_02]  Y vemos que...
+[SPEAKER_02] 
+[SPEAKER_02]  Entiendo mucho que hay una...
+[SPEAKER_02]  en un rompimiento de esquemas.
+[SPEAKER_02]  de, pues, por ejemplo, uno que Edgar o Manuel o yo.
+[SPEAKER_02]  nos enseñaron que era el éxito profesional.
+[SPEAKER_02]  de lo que era lo bueno a cómo es ahora. Por ejemplo, pues, otros seguramente nos dijeron, mire, para usted, la cita profesional es tener casa.
+[SPEAKER_02]  Caro Beca.
+[SPEAKER_02]  que los hará de pensiones y se den un trabajo.
+[SPEAKER_02]  por 30, 40 años.
+[SPEAKER_02]  Ahora entiendo que a una persona joven, y por lo que he tenido de interacción con ellos.
+[SPEAKER_02]  no les interesa tener una casa porque una casa los amarra.
+[SPEAKER_06]  Bien.
+[SPEAKER_02]  a un sitio, no les interesa tener un carro.
+[SPEAKER_02]  o que un carro contamina.
+[SPEAKER_06] 
+[SPEAKER_02]  Entonces les interesa aprender y educar, pero el objetivo de ellos no es quedarse a trabajar en una empresa.
+[SPEAKER_02]  20 años, 10 años, a duras penas 5 años.
+[SPEAKER_02]  El motivo de ellos es...
+[SPEAKER_02]  ¿Entró en la presa?
+[SPEAKER_02]  Aprende.
+[SPEAKER_02]  Ahora...
+[SPEAKER_02]  se van de viaje un año, año sabático, a enseñar a Vietnam, a enseñar a Tailandia, a enseñar a Costa Rica, vuelven, se consiguen un trabajo, repiten el ciclo, muchos no están interesados en tener hijos.
+[SPEAKER_02]  uno de los directivos de fondos de empleados de Colombia hacía hace poquito algo muy simpático.
+[SPEAKER_02]  mi nieto va a ser un perro.
+[SPEAKER_02]  Entonces, así están muchos, no quieren tener hijos. Lo que sí veo es que, y por eso para los jóvenes, las carreras relacionadas con tecnología y realmente con las ciencias de Steam.
+[SPEAKER_02]  son algo que puede generar un muy buen dinero.
+[SPEAKER_02]  Son demandantes, pero pueden generar muy buen dinero. Estos días, creo que ayer, antes de ayer, veía que la estimación de falta de personal técnico, de personal de tecnología, es como de 80.000 personas en Colombia.
+[SPEAKER_02]  Y ni contar en Estados Unidos, en Europa.
+[SPEAKER_02]  Y ahorita con el tema del teletrabajo y...
+[SPEAKER_02]  el offshore y todo ese tipo de cosas, pues más aún.
+[SPEAKER_02]  Las empresas locales como la nuestra, pues tienen una gran amenaza en eso, porque un ingeniero con unas capacidades medias, ni siquiera altas, ni siquiera tiene la edad totalmente inglesa, puede conseguir relativamente fácil un trabajo programando para una empresa en Estados Unidos o en Europa que le paguen 5 mil dólares al mes.
+[SPEAKER_02]  5 mil dólares, estamos hablando de más de 20 millones. Aquí, a los salarios locales es imposible.
+[SPEAKER_02]  pagarle un programa de más de 20 millones. Digamos que ese es uno de los riesgos que fuerte es ahorita a nivel empresarial. Pero pues no.
+[SPEAKER_02]  me alegra que les haya gustado lo que les tenía que decir, que creo que me demoré más de lo que esperaba.
+[SPEAKER_03]  Un poquito peor. No, pero estuvo bien.
+[SPEAKER_06]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_06]  No, pero estuvo bien. Muchas gracias.
+[SPEAKER_03]  El aspecto humano, como iniciaste, maravilloso, tan sincero, tan interesante.
+[SPEAKER_06]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Te lo agradecemos, Daniel, que al fin pudimos completar la cita.
+[SPEAKER_03]  Edgar hace el cierre
+[SPEAKER_04]  Gracias.
+[SPEAKER_06]  ¿Sí?
+[SPEAKER_03]  Gracias.
+[SPEAKER_06]  Interesante.
+[SPEAKER_03]  ¿No?
+[SPEAKER_06]  Pues no, le damos el agradecimiento a Daniel, creo que ya nos hemos empatizado bastante en muchas acciones.
+[SPEAKER_00]  Gracias.
+[SPEAKER_06]  Ya Daniel nos acompañaba en unos paneles aquí también.
+[SPEAKER_06]  de los conversaté, de ahí estaba en la universidad, creo que...
+[SPEAKER_06]  Tenemos una buena cercanía con los estudiantes y con los proyectos de vida.
+[SPEAKER_06]  pues
+[SPEAKER_06]  Queremos seguir contando contigo en todos estos aspectos y esperamos poderlos.
+[SPEAKER_00]  Claro.
+[SPEAKER_06]  llevar, materializar de mayor fuerza.
+[SPEAKER_06]  empezando por este tipo de trabajos que creo que van a ser muy útiles para los enfoques de los estudiantes.
+[SPEAKER_06]  De hecho, Kevin está en una materia conmigo y mañana...
+[SPEAKER_06]  Mañana, siempre los sábados tenemos clave y algo comentar al respecto y creo que...
+[SPEAKER_06]  Va a ser un buen ejemplo.
+[SPEAKER_06]  Para que él pueda contar, no estamos llevando la totalidad, pero sí.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Bueno, te...
+[SPEAKER_06]  él cuenta algo de lo que escuchó. Entonces, pues muchas gracias por el enfoque.
+[SPEAKER_02]  y con mayor gusto cuando empieces.
+[SPEAKER_02]  Como dice, ya hemos tenido varias interacciones con la universidad, con ASIS, y lo mismo con el profesor Manuel, con Uniminuto, donde sea una charla aburridora de un ingeniero viejo, pues me avisan que...
+[SPEAKER_02]  A mí me gusta hablar sobre todo de la perspectiva humana más allá de la perspectiva...
+[SPEAKER_02]  Técnico empresarial.
+[SPEAKER_02]  como les digo
+[SPEAKER_02]  Todos estos proyectos son de personas y entender a las personas es muy importante para lograr que algo tenga futuro.
+[SPEAKER_03]  No diga el viejo porque entro en un shock nervioso.
+[SPEAKER_02]  No digas viejo porque el chulo de...
+[SPEAKER_02]  No, usted es más joven que yo, profe.
+[SPEAKER_03]  Esta cajita la tengo hace 20 años, Daniel.
+[SPEAKER_03]  No le he querido votar, tengo un gran recuerdo.
+[SPEAKER_03]  ¿Sí?
+[SPEAKER_02]  Yo también tengo la mía en mi oficina.
+[SPEAKER_03]  Yo también tengo...
+[SPEAKER_02]  Por ejemplo, a mí, teniendo en cuenta mi persona, el tema del teletrabajo ha sido maravilloso porque ahora yo trabajo desde la casa 100%.
+[SPEAKER_03]  Por ejemplo, a mí...
+[SPEAKER_03]  Yo también.
+[SPEAKER_03]  Yo también trabajo desde la casa. Bueno.
+[SPEAKER_02] 
+[SPEAKER_03]  Bueno, muchas gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_06]  Muchas gracias.
+[SPEAKER_03]  Muchas gracias.
+[SPEAKER_06]  Muchas gracias. Entonces, la foto, Kevin, tómanos una fotito ahí, Beatriz, ¿no sabe? Sí, está por ahí. ¿No alcanza a salir, Sandrita? No alcanza.
+[SPEAKER_00]  Gracias.
+[SPEAKER_06]  El...
+[SPEAKER_00]  No, yo no estoy para fotos, qué pena.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  Ay, pero solo sonríe.
+[SPEAKER_00]  Ya voy aquí en el carro Caminando a mi casa Yo lo sonríe, listo
+[SPEAKER_06]  Saludos
+[SPEAKER_03]  ¡Gracias!
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Ten cuidado, ten cuidado.
+[SPEAKER_03]  Sí, ya está oscuro.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Ahí, ahí, ahí.
+[SPEAKER_06]  Bueno, listo. ¿Sandrita no está?
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Y Beatriz, qué bueno que estás bien.
+[SPEAKER_06]  Qué bien, qué bien Beatriz. Felicitaciones por esa recuperación.
+[SPEAKER_03]  Felicitaciones por hacer...
+[SPEAKER_03]  ¿Nos avisas, Kevin?
+[SPEAKER_03]  Nos vemos.
+[SPEAKER_03]  Ya.
+[SPEAKER_04]  Ya, ok.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias. Muchas gracias. Nos vemos.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Hasta luego.
+[SPEAKER_04]  Gracias.
+[SPEAKER_03]  Todos, hasta luego. Nos hablamos.
+[SPEAKER_03]  Chao.
+[SPEAKER_03]  Gracias.
+
