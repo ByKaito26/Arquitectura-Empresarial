@@ -1,0 +1,321 @@
+[SPEAKER_00]  ahorrar para el semestre.
+[SPEAKER_00]  Y hago mi maestría, me fue también bien, muy bien en la maestría. De la maestría recuerdo cursos como inteligencia artificial, los seminarios de investigación.
+[SPEAKER_00]  los cursos de Machine Learning, empiezo a aprender de Machine Learning.
+[SPEAKER_00]  Y me gusta mucho todo el tema de recuperación de datos, de recuperación de información. Recuerdo con mucha admiración al profesor Jonathan y al profesor Fabio.
+[SPEAKER_00]  Pero como estaba trabajando en desarrollo de software.
+[SPEAKER_00]  Decido que mi área de trabajo va a ser la ingeniería de SOFAR. Entonces busco que el profesor Jairo Aponte sea mi director de tesis, pero integrando lo que hacía la ingeniería de SOFAR con lo que teníamos en términos de recuperación de información, mi tesis de maestría.
+[SPEAKER_00]  Fue el desarrollo de una metodología para poder sacar o extraer información de los repositorios en donde quedaba el código, los book trackers, las conversaciones por chat de un equipo de desarrollo de software, extraer información que es no estructurada per se. Entonces ya venía allí el desafío de minería de datos y de procesamiento de datos no estructurados. En su momento no contábamos con tanta sofisticación alrededor de las herramientas que teníamos y todo era muy académico. Es decir, ya estaba el aprendizaje supervisado, no supervisado, las estrategias de redes neuronales, de inteligencia artificial, los algoritmos genéticos, pero no había herramientas y pues bueno, la nube no existía, no habían herramientas que soportaran eso. Entonces casi que escribíamos código.
+[SPEAKER_00]  para lograr eso que estaba solo en su momento en el papel y en la academia.
+[SPEAKER_00]  y empiezo, pues bueno, termino mi maestría, no sé si les cuento algo más sobre la maestría, trabajaba el tiempo en admisiones, entonces era muy fácil para mí salir de admisiones, ir a tomar los cursos y regresar.
+[SPEAKER_00]  Y con el profesor Jairo Aponte pues empecé a trabajar en el colectivo de investigación en ingeniería de software.
+[SPEAKER_00]  y desarrolló mi tesis y pues todo dentro de lo normal, me gradué en el tiempo que correspondía.
+[SPEAKER_00]  y pues terminé así en los dos años mi maestría, pues ya un poco por los cursos.
+[SPEAKER_00]  Y...
+[SPEAKER_00]  Viene pues el siguiente paso que es tomar el doctorado.
+[SPEAKER_00]  Pero yo he venido ya con una frustración, no a nivel académico, sino a nivel de lo que lograba mis amigos y mis compañeros, y yo no en términos financieros.
+[SPEAKER_00]  Y entonces yo lo que ganaba igual en admisiones, casi que todo se me iba para el semestre.
+[SPEAKER_00]  Y yo empiezo a ver que ellos ya empiezan a tener carro, empiezan a pagar su apartamento, empiezan a tener ciertas cosas que a mí la maestría y el trabajo que tenía no me lo permitía.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Y Manuel te va a hacer una pregunta.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Cuando hablas de profesor Fabio, me imagino que es Fabio González.
+[SPEAKER_00]  Sí, señor.
+[SPEAKER_01]  Bueno, qué gran amigo de Asís, entre otras cosas, ¿no?
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Estamos con él en comités de la revista y otras cosas.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Estamos.
+[SPEAKER_03]  Nos apoyó por mucho tiempo en la maratón de programación por computador. No sé si a ti te tocó esto y si participaste alguna vez, pero él ha hecho parte del grupo y comité de elaboración de los problemas que entregamos en la maratón.
+[SPEAKER_00]  Sí, sí participé en una.
+[SPEAKER_00]  Y sí, efectivamente mi...
+[SPEAKER_00]  Mi aprecio por estos temas asociados a data viene formado por él. Es un profesor muy exigente al que yo reconocer que le tenía miedo. O sea, yo me preparaba mucho para el curso de él. Leía mucho porque temía que me preguntara en clase y no saber. Pero lo recuerdo y lo admiro muchísimo. Y de los profesores de los que hoy puedo... O sea, la clase es tan importante para mí que...
+[SPEAKER_00]  Hoy puedo recordar las clases tal cual ocurrían, cosa que no pasa en otros cursos que por ser muy fáciles o por otro tema.
+[SPEAKER_00]  pues ahora ni siquiera recuerdo incluso cómo era el día a día ni el nombre del curso.
+[SPEAKER_00]  entonces recuerdo mucho el seminario Linux y el profesor Abdon por todo este descubrimiento y recuerdo los cursos del profesor Fabio y del profesor Jonathan porque eran muy difíciles pero
+[SPEAKER_00]  Eran los que sentía que más aprendía, es decir, yo sentía que no me podía perder uno de estos cursos porque si me perdía una clase.
+[SPEAKER_00]  Entonces, si por ejemplo estuviera enfermo, yo tenía que ir a la clase porque eran muy importantes para mí en términos del peso que tenían en mi formación.
+[SPEAKER_01]  Profesor Jonathan, ¿el apellido de él era cuál?
+[SPEAKER_00]  Jonathan Gómez, perdón.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gómez, perdón.
+[SPEAKER_02]  Profe Jonathan durante muchos años dirigió.
+[SPEAKER_02]  los cursos de programación de computadores que son los que te contaba ahorita yo estoy dirigiendo esos grupos pero él desde
+[SPEAKER_02]  Él tiene una historia muy importante, una relación muy directa con la universidad porque hizo su formación.
+[SPEAKER_02]  completa en la universidad.
+[SPEAKER_02]  Entonces, aparte de ese amor que le tiene por la universidad, se entrega, pues busca que siempre sea muy disciplinada y que sea entre las mejores y que tenga un estándar muy alto.
+[SPEAKER_02]  Entonces, tanto para Fabio como Jonathan, Germán, Luis, Fernando, Niño.
+[SPEAKER_02]  Su área de formación está bien relacionada con lo que son los sistemas inteligentes.
+[SPEAKER_02]  Y el área de programación, Fabio dictaba en un comienzo de algoritmo.
+[SPEAKER_02]  Creo que todavía está en esa misma área. Entonces, un curso al que nosotros le teníamos siempre como medidor algoritmo, porque además era, en mi caso, cuando estaba en la universidad y entré a tomar clases con él.
+[SPEAKER_00]  Adiós.
+[SPEAKER_02]  Pues será nuevo.
+[SPEAKER_02]  Y era nuevo para él, porque fue antes de que él hiciera su proceso de formación de doctorado en medios.
+[SPEAKER_02]  Entonces, sí, era...
+[SPEAKER_02]  pues digamos de esos cursos relevantes que tendría la universidad y que aún sigue teniendo tanto a nivel de pregrado como de postgrado.
+[SPEAKER_02]  y luego pues altamente relevantes en lo que son sistemas inteligentes y machine learning junto con el profesor.
+[SPEAKER_02]  Luis Fernando Niño también en esa área.
+[SPEAKER_02]  Son como pioneros.
+[SPEAKER_01]  en lo que tiene que ver con esas temáticas.
+[SPEAKER_02]  en lo que tiene que ver con esas temáticas.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  ¿Qué fue tu tesis?
+[SPEAKER_01]  Y URI.
+[SPEAKER_00]  Mi tesis en pregrado tomé, fue cursos de maestría y mi tesis de maestría del posgrado.
+[SPEAKER_00]  fue el desarrollo de un framework para extraer información de los repositorios de código fuente.
+[SPEAKER_00]  y de los sistemas de book tracking y de las conversaciones de chat de un equipo de desarrollo para medir la productividad de los equipos de desarrollo.
+[SPEAKER_00]  Entonces encontrar cosas como que los lunes los ingenieros generan más errores que los viernes, los viernes son menos activos haciendo commit sobre los repositorios de código fuente.
+[SPEAKER_00]  relacionando que ciertas partes del código generaban más errores.
+[SPEAKER_00]  en los despliegues, ese tipo de cosas, generando conocimiento usando...
+[SPEAKER_00]  técnicas de minería de datos.
+[SPEAKER_02]  El director comentó.
+[SPEAKER_00]  El director comentó.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  que fue eso hay de hernán aponte a hernán aponte de salida y hernán aporten también es es un andino
+[SPEAKER_00]  Adiós.
+[SPEAKER_02]  Manuel, es compañero también de la universidad tuya.
+[SPEAKER_02]  Luego se presenta a la Universidad Nacional y es de los pocos uniandinos que nos acompañan ahorita en la facultad.
+[SPEAKER_02]  Ingeniería.
+[SPEAKER_02]  Es un yandino y es de la nacional porque él hace su doctorado en la Universidad Nacional en el área de...
+[SPEAKER_02]  de sistemas y computación también y es el líder de...
+[SPEAKER_02] 
+[SPEAKER_02]  Tiene un grupo de investigación que se llama Consue.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Tiene un grupo.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Eso es colectivo.
+[SPEAKER_01]  Ese es colectivo de software.
+[SPEAKER_01]  Sí, interesante el tema de la productividad del programador. Yo he trabajado mucho en la psicología del programador.
+[SPEAKER_01]  de porque yo soy un programador, ¿no?
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Y realmente es muy interesante lo que dices, o sea, más errores los lunes.
+[SPEAKER_00]  Sí.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Es un tema muy interesante de mediciones.
+[SPEAKER_01]  la personalidad del programador
+[SPEAKER_00]  Sí, señor.
+[SPEAKER_00]  Así es.
+[SPEAKER_01]  Así es.
+[SPEAKER_01]  Y ese fue tu tesis de grado, más o menos.
+[SPEAKER_00]  Sí señor, esa fue mi tesis de posgrado y fue uniendo el gusto que tenía por lo que enseñaba el profesor Fabio y el profesor Jonathan.
+[SPEAKER_00]  Pero no, y unido a la ingeniería de software, que es lo que yo hacía, pero pues debo reconocer, me daba un poco de miedo tomar la tesis con ellos, precisamente por lo que eran tan exigentes, pero me gustaban mucho sus cursos y los temas que enseñaban, entonces uní eso con...
+[SPEAKER_00]  Algo en lo que me sentía un poco más cómoda, que era la ingeniería de software y el desarrollo de software, porque recordaba también que mis compañeros que estaban bajo su liderazgo, bajo el liderazgo de estos dos profesores, pues comentaban que eran muy exigentes. Entonces, sin que yo esté diciendo que el profesor Jairo no lo era, porque el profesor Jairo era también muy exigente, pero yo trabajaba en mi día a día en desarrollo de software, entonces sentía que tenía allí como más.
+[SPEAKER_00]  Me sentía más cómoda y sentía que podía alcanzar de forma un poco más sencilla los requerimientos del profesor Jairo.
+[SPEAKER_00]  Fue un revisor también muy meticuloso de mi tesis de maestría y un profesor muy juicioso en términos de que sacáramos un producto de calidad.
+[SPEAKER_00]  al profesor Jairo Apunta los recuerdo siempre con mucho cariño y mucha admiración
+[SPEAKER_00]  Pero listo, y entonces pues viene la dicotomía del doctorado y entonces alcanzó a tomar, pues bueno, no, los cursos los tomé, fue luego cuando intenté igual retomarlo.
+[SPEAKER_00]  Yo dejé la academia básicamente porque quería más dinero y es eso, y así de franca debo ser. Yo quería empezar a tener las cosas que mis compañeros tenían y la academia...
+[SPEAKER_00]  Desafortunadamente no.
+[SPEAKER_00]  pues no tenía una remuneración como esa que yo tenía también. Pues como que mis amigos un poco cercanos trabajaban en compañías, trabajaban en IBM, por ejemplo.
+[SPEAKER_00]  y en Oracle, y entonces empiezan a viajar y sus trabajos parecen a ojos míos. Uno siempre ve el andén del otro lado más verde, es que dice el bicho, no lo recuerdo ahora.
+[SPEAKER_00]  Y yo en la universidad seguía como en lo mismo y en lo mismo, y ya llevaba bastante tiempo en admisiones, también eso tuvo un peso importante, y es que en admisiones casi que cada semestre de la historia se repite, es como una monotonía, y porque después lo que hay que hacer es lo mismo, admitir estudiantes, escribirlos, aplicar la prueba, admitir.
+[SPEAKER_00]  Y yo no había salido de la universidad, yo no, por ejemplo, iba muy poco a la 100 y casi todos mis amigos trabajaban allá.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Entonces, dejo...
+[SPEAKER_00]  Dejo el doctorado y empiezo a trabajar en la industria y trabajé en lo que en su momento se llamaba Pagos Online. Logré entrar a Pagos Online, que luego se convirtió en Payulatam. En su momento era una compañía local, era colombiana y el propietario era José Vélez, que luego la vende a esta multinacional, al Payulatam.
+[SPEAKER_00]  Y allí empieza otro desafío tremendo, porque yo ya era muy buena en la academia y muy buena en admisiones, porque ya me sabía el trabajo y la rutina.
+[SPEAKER_00]  Llego a trabajar en temas bancarios y en transaccionalidad y en despliegue y en la operación como tal.
+[SPEAKER_00]  Y no, soy un desastre completamente en ese trabajo.
+[SPEAKER_00]  Pero me tuvieron paciencia y igual tomé el ritmo y aprendí.
+[SPEAKER_00]  y le tomé un aprecio muy grande a todo lo que es sistema bancario, sistema financiero y transaccionalidad. Creo que los desafíos de desempeño de aplicaciones y de manejo de concurrencia, también paso de tener un sistema en el que tenía a lo máximo 100.000 aspirantes a la universidad.
+[SPEAKER_00]  Ahora trabajar bajo una plataforma que tenía millones de usuarios y cuando lo compro Payulatam son millones de usuarios en el mundo. Entonces empezamos a tener segregación por regiones, empiezo a aprender de lo que es latencia, tiempos de respuesta.
+[SPEAKER_00]  patrones de desempeño patrones de arquitectura desarrollo aplicaciones entonces ya la industria
+[SPEAKER_00]  Es otra historia.
+[SPEAKER_00]  y ya no...
+[SPEAKER_00]  Y a veces extrañaba de la academia la rigurosidad en la academia por sacar productos de calidad y acá es todo para allá. Entonces a veces uno no alcanza a hacer pruebas, pues hay que desplegar ya y hay que sacar el producto ya. Y esa presión constante que en la academia es un poco más calmado, pero en la academia hay una exigencia muy fuerte porque las cosas salgan con mucha calidad. O sea, hay mucha meticulosidad en la revisión de las cosas. Allí encuentro un vacío muy fuerte en eso, pero...
+[SPEAKER_00]  Pero me gustó y me gustó después de haber superado varios desastres que hice en el trabajo, hice un despliegue, pues lo cuento acá aprovechando, tenía que construir el paquete y le puse mal el encoding al paquete y entonces todas las personas que iban a pagar.
+[SPEAKER_00]  algo a través de la plataforma, no pudieron hacerlo durante seis minutos, más o menos que duró el boca en producción. Entonces alguien quería pagar un colchón con Tinder.
+[SPEAKER_00]  No podía pagar, entonces PayYou funciona como una pasarela de pagos y nadie podía comprar productos por mi culpa en su momento.
+[SPEAKER_00]  Yo pensé que me iban a despedir y a pesar de tener un gerente de ingeniería muy exigente y muy...
+[SPEAKER_00]  riguroso con muchas cosas.
+[SPEAKER_00]  pues nada, se sienta y nos ayuda a solucionar el problema y es muy empático finalmente. Pero yo me frustro ahí mucho, fue de las primeras fallas que tuve.
+[SPEAKER_00]  y pienso que no lo voy a lograr y casi que quiero volver otra vez a la academia, pero pues decido continuar, yo siempre intento como echarme hacia atrás o cambiarme, pero pasa algo y me levanto y continúo.
+[SPEAKER_00]  Entonces continúa ahí y en su momento...
+[SPEAKER_00]  Un poco...
+[SPEAKER_00]  No sé cómo decirlo, como por...
+[SPEAKER_00]  No era presión, pero mi mamá es docente del distrito y mi papá era servidor público. Había un interés también en mi casa.
+[SPEAKER_00]  porque uno tuviera un trabajo en el que se pensionara y tuviera una pensión segura y bueno.
+[SPEAKER_00]  Ah bueno, a Payulatam entró a ganarme casi tres veces más de lo que ganaba en admisiones, entonces también mi salario pues me tenía muy feliz.
+[SPEAKER_00]  eso pasa allí pero entonces me había presentado había comprado un PIN para entrar como servidor público a carrera administrativa con el Estado
+[SPEAKER_00]  Y lo compré como por si acaso y pues salió la prueba como por si acaso y me gané el concurso.
+[SPEAKER_00]  Entonces le gano a 3.000 personas que se presentan para un cargo de Ingeniería de Sistemas en el Ministerio de Educación.
+[SPEAKER_00]  se han presentado 3 mil personas y yo me lo gané.
+[SPEAKER_00]  Y entonces yo digo, no, pero ¿cómo voy a dejar ir esto? Era menos salario del que ganaba en...
+[SPEAKER_00]  en Peiyú, pero en Peiyú yo veía que despedían la gente cada rato.
+[SPEAKER_00]  y que había como una inestabilidad laboral allí y que era muy... Y me ilusiono con que puedo volver al ministerio.
+[SPEAKER_00]  Fue a desdrabar al ministerio y el ministerio ofrecía algo y era que uno podía tener horas de las que trabajaba en el día a día.
+[SPEAKER_00]  Como docente.
+[SPEAKER_00]  y se las valían a uno, entonces yo tenía que completar ocho horas al día, pero de esas ocho horas, dos podían ser dictando clase. Ese formato está disponible para los servidores públicos en el país, entonces me ilusiono con que puedo volver a la universidad, busco al profesor Jairo Aponte.
+[SPEAKER_00]  Le cuento que mi experiencia la única había sido siendo la monitora del profesor Germán.
+[SPEAKER_00]  Y él decidió apoyarme en que yo pueda dictar clases. Y entonces empiezo a dictar clases.
+[SPEAKER_00]  estando en el Ministerio de Educación, tomo el lavacante, pues me la gané, entonces la tomé.
+[SPEAKER_00]  Y empiezo a dictar clases y a complementar mi ejercicio del ministerio.
+[SPEAKER_00]  que cuando yo empiezo a trabajar en el Ministerio encuentro muy fácil.
+[SPEAKER_00]  Porque PayU era muy difícil, o sea, eran millones de usuarios, eran muchos sistemas, eran los patrones, eran...
+[SPEAKER_00]  unos problemas muy locos en eso y llegó al ministerio a un ambiente muy relajado y en el que me volvió a pasar lo mismo que las misiones la rutina y los sistemas son todos muy viejitos entonces son muy fáciles de manejar lo que yo tengo que hacer es cerrar unos tickets atenderme esas de ayuda y lo que se vuelve desafiante e interesante para mí es la academia
+[SPEAKER_00]  e intento hacer el doctorado, entonces por eso tomé unos cursos del doctorado.
+[SPEAKER_00]  Pero estoy en esas cuando aparece en oportunidad de... Bueno, y entonces empiezo un poco a frustrarme también porque no podía ascender.
+[SPEAKER_00]  En el ministerio ese iba a ser mi cargo, no iba a ser fácil ascender porque los únicos que tenían posiciones de liderazgo en el ministerio eran cargos políticos, esos no eran de planta.
+[SPEAKER_00]  Entonces yo digo no, yo no soy amiga de ningún político, aquí me voy a quedar toda la vida y empieza una frustración y hay un árbol de cerezas al frente del ministerio.
+[SPEAKER_00]  Y yo empiezo a ponerle cuidado. Yo digo, otra vez el cerezo está cayendo.
+[SPEAKER_00]  Y salgo a veces como triste del trabajo cuando veía al cerezo, que se le caían las cerezas en la calle. Entonces yo dije no.
+[SPEAKER_00]  Decido aplicar a una oposición que encuentro en Oracle.
+[SPEAKER_00]  Y me ganó la posición y me ofrecen cinco veces más de lo que me estaba ganando en el ministerio.
+[SPEAKER_00]  Yo lo tomo y dejo el cargo, sin contarle a mis papás, y bueno, con los desafíos allí personales tremendos porque...
+[SPEAKER_00]  En la casa nadie estaba de acuerdo con que yo renunciara, pero cuando conté yo ya había renunciado.
+[SPEAKER_00]  Y me voy para Oracle en preventa.
+[SPEAKER_00]  a trabajar en preventa y al mes me llevan a Estados Unidos al onboarding.
+[SPEAKER_00]  a Austin y yo creo que ya he conquistado el mundo con eso. Era igual muy chiquita porque me gradué de la universidad a 21 años, tenía 24 cuando pasa esto del ministerio, en fin.
+[SPEAKER_00]  Y... Eso perdón.
+[SPEAKER_03]  Eso, perdóname, eso quería yo saber, ¿en qué año pasas ahora con…?
+[SPEAKER_00]  tenía en él
+[SPEAKER_03]  No tu edad, sino en qué año de la época de la vida, en el 2015. En qué año de la época.
+[SPEAKER_00]  20 años de la época.
+[SPEAKER_00]  Sí, fue en el 2014, en el 2014 debió ser.
+[SPEAKER_03]  Su historia está súper emocionante. Está buenísima. Está buenísima.
+[SPEAKER_00]  Está buenísimo, te adoro.
+[SPEAKER_00]  Pues si te contara lo que continúa es que...
+[SPEAKER_00]  En Oracle duro cuatro meses, no duro más.
+[SPEAKER_00]  Porque no...
+[SPEAKER_03]  Me tienes el ojo aguado, yo estoy emocionadísima.
+[SPEAKER_00]  ¡Muy bien!
+[SPEAKER_00]  Sí, te cuento. Entonces dejé mi trabajo en el ministerio.
+[SPEAKER_00]  Por...
+[SPEAKER_00]  por porque por orden o por dinero y el dinero no es algo que parece me haya movido porque también siempre es pero como que aumenta la frustración sobre cierta posición en la que yo estoy y termino dejando el sitio en el que estoy y entonces me voy para ahora con me voy con unos desafíos tremendos porque mi inglés pues me había servido para terminar la universidad pero llegó un trabajo
+[SPEAKER_00]  en el que tenía que saber inglés. Yo no había practicado inglés ni en el ministerio, ni en PAYU, ni en la maestría en las lecturas, pero no en el día a día. Yo llego ahora a tener que tomar todo mi emborrador en inglés, en el que me voy para Austin, a Estados Unidos, también a inglés.
+[SPEAKER_00]  Pero es la primera vez que, por ejemplo, me quedo en un hotel Sheraton. Nunca había conocido eso y eso para mí era...
+[SPEAKER_00]  y aparte el salario y todo.
+[SPEAKER_00]  pero era preventa, entonces a mí siempre me midieron y mi evaluación de desempeño, que igual eso lo conocí fue en PayU porque en las misiones no teníamos eso.
+[SPEAKER_00]  Era por mis resultados, o sea, porque yo sacara el software, no porque yo alcanzara una cuota. Yo llegaba a todos los forcas de Oracle y no había vendido nada. Estaba en la unidad de MySQL y pues en MySQL todo el mundo pensaba que era gratis. Entonces pues nadie lo compraba. Yo decía no, no me compran ni un espero. O sea, eso no funcionó. Y también tengo un compañero de comercial que vive muy inconforme con eso. O sea, no me tuvo la paciencia que de pronto me tuvieron en PayU.
+[SPEAKER_00]  Yo no tenía experiencia en preventa, no era muy, era, pues no me daba miedo hablar en público, pero me entraba súper asustada a las reuniones con cliente y no, mi desempeño no era bueno. Y la persona comercial que me acompañaba, pues encuentra que, pero si la cuota no la estamos alcanzando casi que un poco por mi inexperiencia. Y bueno, y también Oracle tiene algo y es que es muy exigente en términos de la cuota, es decir, allá despedían a las personas y no alcanzaban la cuota y yo sentía que en algún momento me iban a despedir. Lleva cuatro meses.
+[SPEAKER_00]  Y los domingos no quería que fuera lunes. El lunes era el forecast y yo no quería ir a esa reunión. Yo lloraba.
+[SPEAKER_00]  Todo el domingo, y me arrepentía mucho de haber dejado el ministerio, ya no podía recuperar un cargo de planta, o sea, eso ya era imposible.
+[SPEAKER_00]  y la docencia. Entonces, no.
+[SPEAKER_00]  y viernes inconformes con la persona entonces pues un día digo no yo no puedo con este trabajo yo me voy y me dicen si vaya así entonces yo dije bueno si no me despidieron pero si descubren que yo no tengo el talento para eso y bueno pidió ahora con sin tener a donde ya no tenía trabajo
+[SPEAKER_00]  y me quedé 15 días sin trabajo, han sido los 15 días que no tuve trabajo.
+[SPEAKER_00]  Eh...
+[SPEAKER_00]  Y 15 días tremendos, o sea, personal y emocionalmente fueron muy fuertes.
+[SPEAKER_00]  por la frustración que tenía del trabajo que había dejado, por no haber logrado lo que tenía en la venta, también por un poco haber dicho en hora, ok, me voy, y cuando digo me voy es que, oh por Dios, perdí la tarjeta de crédito, perdí el celular, perdí un montón de cosas y de beneficios que tenía la medicina prepagada.
+[SPEAKER_00]  todo eso que beneficios que ahora pero bueno
+[SPEAKER_00]  Y en esos 15 días, pues...
+[SPEAKER_00]  Estoy con una tristeza y con que no tengo trabajo y bueno, me encuentro un amigo de la universidad.
+[SPEAKER_03]  Perdóname, seguramente sin decirle a tus padres.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Sí, señora.
+[SPEAKER_03]  Claro.
+[SPEAKER_00]  Claro.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Claro. Eso ocasionaría el caos familiar, mejor dicho, porque además te fuiste a algo sin decir y después tan rápido. Bueno, sí.
+[SPEAKER_00]  Claro.
+[SPEAKER_00]  Eso es.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  porque además de huir...
+[SPEAKER_02]  Y además, Beatriz, sin saber que lo más difícil...
+[SPEAKER_02]  Y que han comentado todos los entrevistadores anteriormente que han sido empresarios, emprendedores.
+[SPEAKER_02]  Luego han llegado a cargos directivos muy altos.
+[SPEAKER_02]  de lo más difícil es las ventas, ¿no?
+[SPEAKER_02]  Proceso de ventas de un producto
+[SPEAKER_02]  Ponerlo en el mercado y lograr que la gente lo adquiera.
+[SPEAKER_02]  Es el proceso yo creo que más complejo según todos los que nos han...
+[SPEAKER_02]  contado sus historias, entonces eso
+[SPEAKER_02]  sumado al hecho de que haber dejado al ministerio.
+[SPEAKER_02]  Imagino que fueron unos 15 días muy difíciles.
+[SPEAKER_00]  Tal cual, sí señora. Y me encuentro con un amigo y me dice, estamos trabajando en Colpatria.
+[SPEAKER_00]  Y en ese momento acababa de comprar a Colpatria Scotiabank.
+[SPEAKER_00]  Y entonces lo acaban de comprar y Scotiabank trae un modelo de fábrica digital y de transformación digital sobre la banca. Yo tenía la experiencia de PayU, pero hacía tres años que había estado trabajando en un trabajo casi dormida, que era el Ministerio de Educación, hacía mucho no programaba. También eso me generaba mucha frustración en el ministerio, que no podía programar. Y entonces la docencia era como el refugio para mí. O sea, yo dedicaba la mayor parte de mi tiempo en esos tres años a la docencia, con todo y que dictaba un solo curso.
+[SPEAKER_00]  Y le digo yo, no, pero es que hace rato no desarrollo. Me dice, no, pues preséntate a ver qué.
+[SPEAKER_00]  Y entonces llegó el primer día con Patria a la fábrica digital y allá me encuentro a todos mis amigos de PayU, porque la fábrica había absorbido el equipo, gran parte del equipo de desarrollo de PayU Latam. Entonces para mí fue llegar y encontrar de nuevo Pagos Online, PayU Latam, en fin, por lo que...
+[SPEAKER_00]  había dejado ese trabajo que también me gustaba mucho pero que lo había dejado por el ministerio
+[SPEAKER_00]  y los encuentro allá, fue muy muy curioso, pero me va súper mal en las pruebas, porque no...
+[SPEAKER_00]  Pero hay un gerente de ingeniería, el gerente de ingeniería tenía un interés particular por contratar mujeres.
+[SPEAKER_00]  Y ahí es donde...
+[SPEAKER_00]  o sea, lo encuentro como una ventaja, cosa que en Oracle con algunos clientes...
+[SPEAKER_00]  fue una desventaja, es decir, pues no voy a entrar al detalle ni en nombres de clientes ni en esto, pero en una oportunidad, por ser mujer, pasan unos eventos en los que se desconfía un poco de mis capacidades, cosa que no pasa en Colpatria, y ese gerente dice, no, te voy a dar una oportunidad de una semana, a ver cómo te va, pero sí te vamos a contratar, yo dije, o sea, no, me había ido re mal en las pruebas, pero él decide que habían solo dos mujeres y no encontraba mujeres, y él quería tener mujeres en su equipo.
+[SPEAKER_00]  Y sí encontraba, digo, identifico en ti otras cosas, como una capacidad. A partir del discurso que le di, le conté lo que me ha pasado en Oracle, le conté la tristeza que tenía, y él dijo, ven una semana y si no, pues en la semana te despido porque pues no.
+[SPEAKER_00]  Y así fue. Y en esa semana me pongo a estudiar, a tomar cursos de Udemy y a retomar todo lo que no había, apoyada también por mis amigos de PayU, que los encontraba bien. Entonces, el ejercicio del día a día era muy ameno porque los tenía ellos, pero me costaba mucho todo lo que era tecnología. Aquí ya me encuentro con microservicios, me encuentro con AppGateway, con un montón de tecnologías que no conocía. Ya teníamos separados Backend y Frontend.
+[SPEAKER_00]  Yo eso lo aprendo en Colpatria porque lo desconocía y ya de nuevo otra vez la emoción de la operación y del despliegue sobre una plataforma que accede pues un montón de personas y también ya el inglés era muy sencillo para mí a pesar de que en Oracle me costó pues había logrado ya un poquito dominio entonces hablábamos en Scotiabank con las personas en Canadá.
+[SPEAKER_00]  Y el trabajo era maravilloso, era muy, muy chévere. O sea, mi colpatria me levantó de una probable depresión que pude haber tenido por haber dejado todo lo otro.
+[SPEAKER_00]  porque encontré una alegría tremenda en volver a trabajar con la transaccionalidad, en el banco, bueno, en fin, y los sistemas financieros que me gustaban tanto. Entonces, trabajo en Colpatria, estoy trabajando allí casi dos años, ya no recuerdo, eso debió ser como sí, ya 2017 creo, cuando debía estar acabando en Colpatria, y aparece alguien en mi vida a ofrecerme un trabajo con una compañía fuera en Holanda.
+[SPEAKER_00]  para hacer lo mismo que, o sea, para vender una solución.
+[SPEAKER_00]  que estábamos construyendo en Colpatria.
+[SPEAKER_00]  Estamos trabajando en una solución. Ah, bueno, en Colpatria empiezo como desarrolladora backend.
+[SPEAKER_00]  y desde Junior, porque yo no recordaba muchas cosas.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  En el tiempo que estuve allí, logré convertirme en la líder de un equipo de desarrollo y lidero todo el proceso de autenticación y de integración con el Citibank.
+[SPEAKER_00]  que en su momento también lo compra y lo absorbe Scotiabank, o el patria absorbe Citibank para personas. Y a mí me designan como líder del equipo técnico, cosa tremendamente desafiante para mí. Tenemos un deadline, recuerdo era un 17 de septiembre, que si no habíamos migrado todo lo que venía del Citibank, tocaba empezar a pagarle al Citibank por seguir usando sus sistemas.
+[SPEAKER_00]  Pero ese proyecto me permitió administrar tiempos, administrar recursos y aprender muchísimo de mi gerente de ingeniería, al que hoy le debo mucho. Se llama Osvaldo Álvarez, justo con el Ground Podcast ahora.
+[SPEAKER_00]  Es yo, o sea, yo le debo mucho en términos de que me recibió en un trabajo en el que no pasé la entrevista y en donde me dio una oportunidad para crecer y confío en mí muchísimo, tanto al final al delegarme.
+[SPEAKER_00]  pues un proyecto de esta naturaleza.
+[SPEAKER_00]  Pero entonces aparecen estas personas de Holanda. Yuri, una...
+[SPEAKER_02]  Yuri, una pregunta.
+[SPEAKER_02]  Es que ella para esa época, la ingeniería se posiciona.
+[SPEAKER_02]  Se ve ya como el rol del ingeniero.
+[SPEAKER_02]  Ya no es uno solo.
+[SPEAKER_02]  se especifican o se caracterizan los roles específicos por áreas y subáreas. ¿Nos puedes mencionar algunos de esos roles que manejabas en tu equipo de trabajo para tener eso en cuenta para el año que es 2017-2000?
+[SPEAKER_00]  Cuenta.
+[SPEAKER_00]  18.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Sí, señora.
+[SPEAKER_00]  Sí, señora. Sí, claro que sí. Ahí, por ejemplo, empiezo a trabajar con Product Owners, con ingenieros de pruebas, ingenieros de calidad. Entonces, el equipo de desarrollo estaba conformado. Allá trabajamos bajo la metodología de Spotify. Entonces, habían células de desarrollo y cada célula tenía un conjunto de productos del banco. Entonces, estaba la célula de desarrollo que tenía tarjetas de crédito, la célula que tenía cuentas de ahorro, la célula que tenía autenticación, que es la que empiezo yo a liderar. Y cada célula de desarrollo estaba conformada más o menos entre cinco y siete ingenieros, que era un frontend, dos o tres backend. Siempre había más personas en backend y solo un frontend. Ahí ya eran cuatro, el ingeniero de pruebas cinco.
+[SPEAKER_00]  Product Owners que se compartían entre los equipos, seis, y no teníamos personas de operaciones ni ingeniería DevOps, ese era un...
+[SPEAKER_00]  en su momento empezaban a hacer el tema de box justo cuando yo estaba por cerrar mi ciclo en el banco
+[SPEAKER_00]  llega el concepto de DevOps y empiezan a contratar los primeros. Pero en su momento lo que hacíamos era ir con, digo yo, ir con la memoria. Entonces llevábamos el YARcito o el ejecutable y bajábamos los 15 pisos porque el equipo de operaciones estaba en el piso 15, si mal no recuerdo, y nosotros en el 34, en la torre en Colpatria, en el centro.
+[SPEAKER_00]  Y yo iba con mi producto y nos tocaba recoger un montón de chulitos y de aprobaciones en el banco para lograr hacer un despliegue. E íbamos y desplegábamos con un playbook que llevaba las instrucciones. El primer despliegue nos costó 40 días, el primer despliegue que hicimos del producto en el banco.
+[SPEAKER_00]  Porque había que superar un montón de aprobaciones. Con el tiempo nos fuimos volviendo mucho más ágiles.
+[SPEAKER_00]  Y era muy disruptivo el tema, o sea, el equipo y el laboratorio digital llegó un poco a chocar con la cultura que tenía el banco. Yo vivía muy alejada de eso porque yo vivía escribiendo código, pero escuchaba eso mucho de mi gerente de ingeniería. Sé que a él le tocó sufrir mucho en términos en el banco, lograr sponsorship, por ejemplo, para crear y contratar los ingenieros, porque el banco trabajaba bajo otro concepto que era el de la tercerización.
+[SPEAKER_00]  y el de que ya tenían unas soluciones implementadas. Y bueno, lo bueno también era que venía mucho el apoyo de Scotiabank.
+[SPEAKER_00]  y de la cultura que traía Scotiabank. Entonces nos copiábamos mucho.
+[SPEAKER_00]  el modelo que tenían en Canadá, que era este, el de las células de desarrollo y el de manejar las tecnologías así. Entonces, esos eran los roles, las tecnologías eran backends, en Java eran microservicios con Spring Boot, y nos veíamos mucho por el modelo que usaba Netflix, entonces usábamos Zool en tecnología para la API Gateway, usábamos, por ejemplo, implementaciones como el Gistrix para el Circuit Breaker, que se manejaba en arquitecturas distribuidas, en fin. Usábamos mucho esas tecnologías y el modelo Spotify. Y a mí me gustaba, yo, había una reunión que teníamos todos los viernes, que era el comité de los líderes técnicos de los equipos de desarrollo, y yo era la única mujer que lideraba equipos de desarrollo. Era una reunión muy difícil para mí, y bueno, lo traigo ahorita aquí el tema. Me daba mucho miedo hablar, aparte porque todos los otros líderes, pues yo los admiro muchísimo, y eran mis amigos de Peju, pero... Me daba mucho miedo hablar, entonces era una reunión que preparaba mucho, los viernes no podía desayunar porque iba con el estómago rebotado de tener que hablar.
+[SPEAKER_00]  hablarle al comité de arquitectura y definir arquitecturas, pero era muy juiciosa con todo lo que nuestro gerente de tecnología nos pedía un libro, por ejemplo, para leer.
+[SPEAKER_00]  Y yo leía y tomaba notas y como si estuviera en la universidad, era una reunión realmente desafiante para mí. Beatriz te quiere hacer...
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Beatriz, ¿se quiere hacer?
+[SPEAKER_03]  una pregunta. Sí, pero lo del miedo a hablar ya lo superaste hace rato, porque eres súper desenvuelta, expresiva y agradable, ¿No? Ya superador.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Sí.
+[SPEAKER_00]  Sí, pero lo del...
+[SPEAKER_00]  ya superado
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Sí, pero en su momento no tanto y era muy...
+[SPEAKER_00]  Y eso fue lo que me costó un poco la salida en Oracle. Sí, ahorita soy mucho más elocuente y mucho más extrovertida en su momento y recién entro a Colpatria muy, muy introvertida.
+[SPEAKER_00]  Y ahí también viene un desafío interesante porque, y entonces, bueno, estoy en el banco, llega la compañía de Holanda, se llama Bankbase, y me dan la promesa de llevarme a Holanda y yo dejo el trabajo en el banco. De nuevo un poco llevada por la emoción y no llevada por el profesionalismo.
+[SPEAKER_00]  Y me voy un poco sin conocer mucho la compañía. Sabía que un compañero ya del banco se había ido para allá.
+[SPEAKER_00]  Pero, y no le cuento a mis papás. Eso te iba a decir, seguro que es inconsumible.
+[SPEAKER_03]  Eso te iba a decir, seguro que...
+[SPEAKER_03]  darle a los papás.
+[SPEAKER_00]  Sí, que estaban mucho más tranquilos porque yo trabajaba en Colpatria y esa sí era una compañía que ellos conocían. Es que cuando yo me fui a Baracol, por ejemplo, mi papá me decía...
+[SPEAKER_00]  Y es que esa empresa, ¿quién la conoce? Y yo decía, por Dios, es Oracle, pero mi papá no sabía nada de Oracle. Pero entonces, con Patria, pues sí, era más conocido para ellos. Entonces, estaban como muy tranquilos otra vez, como cuando yo estaba en el ministerio.
+[SPEAKER_00]  Pero de nuevo me voy y a mi papá le cuento, me van a llevar al onboarding acá para Amsterdam. Y a mi papá le cuento cuando yo estoy en el aeropuerto, o sea, cuando ya me voy a ir, que me voy, que renuncie y que me voy.
+[SPEAKER_00]  Sí, llevaba por la emoción y por la ilusión de irme del trabajo. Afortunadamente salió bien.
+[SPEAKER_00]  Y me fui, estuve un tiempo en Holanda tomándole un boarding, muy poquito, un mes y otro poquito, y estoy en la compañía y allí lo que hacen es que producen, o sea, ellos ya fabrican el software.
+[SPEAKER_00]  que nosotros estamos construyendo en Colpatria. Entonces yo lo que tenía que hacer era soporte e instalación.
+[SPEAKER_00]  aprendo a dominar el sofá, me va relativamente bien, pero en Holanda sí viví muchas cosas que no me gustaron, yo hoy digo yo no viviría fuera del país, a mí me gusta vivir acá y también descubro algo.
+[SPEAKER_00]  que yo pensaba que iba a pasar y es que afuera la tecnología era mucho mejor. O sea, yo pensaba que allá me iba a encontrar con los super servidores, con que iba a aprender un montón de cosas y no.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Llegó una compañía que...
+[SPEAKER_00]  O sea, hoy comparo con la excelencia técnica que manejaba Colpatria y la fábrica digital y no la había, o sea, así era. Era una compañía y lo mismo que la rigurosidad que encontraba en los despliegues y yo me voy con una ilusión.
+[SPEAKER_00]  Por ejemplo, yo recuerdo que el Jenkins con el que trabajaba el equipo de desarrollo de esa compañía, porque finalmente era un startup que había logrado ya un posicionamiento en Europa.
+[SPEAKER_00]  pues tenían el Jenkins en un computador que si alguien pasaba y le pegaba a la mesa nos quedábamos sin Jenkins y sin herramienta para desplegar, o sea no eran tan sofisticados como yo me los imaginaba y la tecnología era muy parecida a la de acá lo chévere era que hablábamos todo el tiempo en inglés pero yo empiezo a encontrar que estoy profesionalmente creciendo menos que lo que crecía en Colpatria o en PayU
+[SPEAKER_00]  y estando en Backbase me asignan como primer proyecto en México, entonces vengo a México a empezar a trabajar en México en Banamex, a instalar la solución, entonces era un trabajo chévere porque no tenía la presión de la venta, viajaba, tenía un buen salario, y bueno, era a través de un partner, nos contrataban en Backbase.
+[SPEAKER_00]  Pero pues estoy viviendo gran parte del tiempo en México y luego me pasan a trabajar en Pichincha, en Ecuador. Eso era instalar la solución y dar soporte y liderar un equipo que lo hacía. Pero extrañaba mucho estar acá, en Colombia. Y entonces, yo no era muy buena hablando. Ah, bueno, pero recién terminando en Colpatria tengo un desafío.
+[SPEAKER_00]  con unas arquitecturas distribuidas y descubra lo que se llama la ingeniería del caos.
+[SPEAKER_00]  para poder hacer pruebas sobre las aplicaciones y sobre la infraestructura.
+[SPEAKER_00]  Hago, pues usamos lo que es Ingeniería del Caos y bueno, y un amigo me dice, oye, eso que hicieron está muy bueno, ¿por qué no te presentas al ScaleConf? Que es una conferencia que está en Medellín.
+[SPEAKER_00]  Yo le digo, no, yo no hablo en público, yo no.
+[SPEAKER_00]  Pero digo yo, bueno, pues hagámosle caso. Y me presenté y pues aceptan mi conferencia contando la historia del caso de uso que tuve con Ingeniería del Caos.
+[SPEAKER_00]  Y bueno, me aceptan, estoy como en este tema de...
+[SPEAKER_00]  De eso pasan casi un año, yo estuve seis meses solo, no, ocho meses en la compañía esta que les cuento en Holanda.
+[SPEAKER_00]  Y estando allá y todo el tema, viene como todo el proceso de aceptación de la charla y todo eso. Al final...
+[SPEAKER_00]  Yo regreso a Colombia, estando en Ecuador, regreso a Colombia a dar la charla en Medellín y me ve el líder del equipo de OBS, el equipo de infraestructura del laboratorio digital del grupo Aval.
+[SPEAKER_00]  Él asiste a la charla y yo en ese momento venía profesionalmente, ya era un poco desgastada el desarrollo. Yo decía, llevo 10 años echando código y bueno, pues ahora no escribo código, todo es soporte de aplicaciones, pero yo le picaba harto al código de la solución que vendía esta empresa de Holanda.
+[SPEAKER_00]  Amsterdam fue muy difícil para mí también por el clima, entonces también yo me quería regresar, o sea, yo me fui y también ya me quería devolver.
+[SPEAKER_00]  porque me tocó en un enero, nevaba todo el tiempo, entonces yo no podía salir de la residencia que nos pagaban para...
+[SPEAKER_00]  pues mientras tomábamos el onboarding y nos capacitábamos sobre la solución. Y entonces regreso a Medellín a la charla, me ve el líder de DevOps del laboratorio digital y entonces me dice, yo quiero que tú trabajes conmigo. Yo le digo, no, yo no sé nada de infraestructura. Y él me dice, no, estamos empezando a usar AWS, eso ya es 2018, tal vez 2018, no, 2018 es algo de Colpatria, entonces ya debería ser como 2019.
+[SPEAKER_00]  Y presento mi conferencia de Ingeniería del Caos, sino que en Holanda conocí a una project manager a la que yo le conté. Le conté la historia y le conté que en Oracle yo era muy mal y que me había ido mal porque yo no podía hablar en público.
+[SPEAKER_00]  Y yo era muy callada y bueno, entonces ella me da como unas herramientas, me dice, no, mira que acá en la empresa tenemos unos cursos. Y yo empiezo como a mirar cursos para hablar en público y bueno, un poco preparando mi charla.
+[SPEAKER_00]  La preparo, aprendida casi que de memoria, es la primera vez que me paro como en un auditorio ante tanta gente.
+[SPEAKER_00]  Y ahí me veo, yo decido aceptar el desafío, puedo volver a Colombia, ya tengo trabajo, es chévere porque también es un laboratorio.

@@ -1,0 +1,522 @@
+[SPEAKER_01]  digital y yo había vivido toda la fábrica digital y me había encantado y ahora van a hacer lo mismo en el grupo aval con los cuatro bancos es banca
+[SPEAKER_01]  y ya habían varios de mis compañeros de Colpatria se habían pasado al laboratorio, entonces estaban en el laboratorio y yo dije no, yo me devuelvo.
+[SPEAKER_01]  Entonces, pues me devuelvo, me vengo a vivir a, aunque yo realmente no vivía en Ecuador, viajaba temporalmente y vivía acá otras temporadas mientras estuve en esta compañía hablando, entonces me vengo para acá.
+[SPEAKER_01]  Y fue maravilloso. Encontré en la infraestructura, aprendí AWS y ahí empieza todo el tema de nube.
+[SPEAKER_01]  Y entonces empiezo a conocer a AWS y a la nube en el 2019 más o menos.
+[SPEAKER_01]  Y me encantó. O sea, yo me quería cambiar del desarrollo a otra cosa, pero lo encontré también muy desafiante.
+[SPEAKER_01]  Porque yo no sabía nada de redes, yo no sabía cómo funcionaba una VPN, yo no sabía de servidores, no, nada. O sea, yo toda la vida había escrito código. Y me tocó también empezar desde ceros, es decir, como ingeniera de automatización junior.
+[SPEAKER_01]  Hasta que al final de mi historia en el laboratorio, pues soy Technical Program Manager para el equipo de SRL, la Ability Engineering, que es el equipo que garantiza confiabilidad y performance sobre las aplicaciones.
+[SPEAKER_01]  y dos años maravillosos, dos años y medio casi.
+[SPEAKER_01]  Ahí me toma la pandemia, o sea, la pandemia nos toma estando yo en el laboratorio digital.
+[SPEAKER_01]  Y para algunos desafíos particulares, yo estoy en Garagoa en la pandemia.
+[SPEAKER_01]  Y llega a un sitio, un nuevo, ah bueno, pues no sé si les cuento un poco más de lo que hacíamos en el laboratorio, era soportar, o sea, era un equipo DevOps que soportaba los equipos células también de desarrollo, ya también trabajaban con el modelo Spotify, era muy parecido a Colpatria, muy muy parecido, pero ya con equipo DevOps y yo ya no estoy al lado del desarrollo, sino al lado de la operación y al lado de la infraestructura y al lado del despliegue.
+[SPEAKER_01]  Empecé como ingeniera de automatización porque mi líder en ese momento, Carlos Cortés, que fue el que me llevó al laboratorio digital.
+[SPEAKER_01]  Dice que uno...
+[SPEAKER_01]  Promueve mucho en mí el tema de las charlas. Él era muy dado a la comunidad y a los... Y me dice, tú tienes talento para eso.
+[SPEAKER_01]  presentarte esta charla presenta test y un interés particular porque yo participara en conferencias
+[SPEAKER_01]  Y creo que tenía que ver mucho porque él le quería dar visibilidad al laboratorio a nivel regional. Entonces, encontraba ese skill en mí y esa habilidad. Y entonces me empieza a promover mucho. Hoy he hecho más de 100 charlas, 100 conferencias en el mundo.
+[SPEAKER_01]  He ido a conferencias, pues estuve en el Tupón, en Londres, hablando sobre, el tema acaba saliendo, pero casi siempre sobre ingeniería del caos.
+[SPEAKER_01]  Y como me gustan tanto las diapositivas, algo que le gusta mucho a la gente es que yo hago mis diapositivas con una dedicación tremenda, entonces hago dibujos a mano, hago sketch, bueno, yo pongo a los estilos y eso le gusta mucho a los que asisten a mis charlas. Y que les gusta como cuento las historias, entonces muy promovida por Carlos Cortés, empiezo a aplicar y aplicar a charlas y la pandemia no me toma en el laboratorio, nos toma la pandemia y me toma las charlas, entonces también muy buena oportunidad para mí.
+[SPEAKER_01]  trabajamos con eso, yo empiezo a ascender trabajamos con Jenkins, con la nube que era WS
+[SPEAKER_01]  Empiezo a conocer Go, Terraform, aprovisionamiento de infraestructura como código con Terraform.
+[SPEAKER_01]  y ya muy muy muy feliz en el laboratorio, yo decía yo de acá no me voy a ir y mis papás estaban felices porque yo trabajaba en el grupo Aval y yo tenía acceso a unas tecnologías maravillosas y me encantaba mi equipo de desarrollo, una excelencia técnica tremenda, yo era la única mujer en el equipo y el equipo empieza a crecer mucho, pasamos de cuando yo entré al laboratorio por si, éramos 40 personas durante la pandemia, Ana Margarita que es la nieta del dueño del grupo Aval, tiene un interés particular porque esto se expanda hacia las 237 empresas que tiene el grupo Aval, entonces ya empieza a absorber muchos contratos de otras compañías como
+[SPEAKER_01]  Fácil Paz o Teles Estelar. Entonces empezamos a...
+[SPEAKER_01]  escalar el modelo que teníamos para los cuatro bancos hacia esas otras cuatro compañías y a mí particularmente la forma de trabajo de Ana Margarita y su sentido de liderazgo.
+[SPEAKER_01]  me apasionan por ese trabajo, o sea, yo disfrutaba mucho todo lo que era el laboratorio.
+[SPEAKER_01]  y ese interés de ella por lo disruptivo, por generar cambio todo el tiempo.
+[SPEAKER_01]  Pues nada, me tenía muy muy feliz, yo era muy muy feliz allá y no me quería ir.
+[SPEAKER_01]  Pero llegó un sitio nuevo que considera que el equipo de Vox debe tercerizarse.
+[SPEAKER_01]  y yo estaba en garagoa durante la pandemia y que eso debía tercerizarse y que debíamos y empiezan a reducir el número de personas en el equipo
+[SPEAKER_01]  Y en algún momento me dicen que me voy a tener que ir para Corfi Colombiana. Y ya muchos de mis amigos se habían ido. Yo ya no los veía porque pues estábamos en pandemia encerrados.
+[SPEAKER_01]  Y entonces decido aplicar a Google. Yo digo, pues voy a aplicar a él, pero siempre, o sea, yo apliqué a Google, a AWS y a Microsoft.
+[SPEAKER_01]  En cargos de esos que uno encuentra en la página de carreras, yo nunca he tenido un trabajo por recomendación de alguien, siempre he aplicado por la página de la empresa. Entonces como que dentro aplico y voy y presento mi entrevista. Creo que el único sitio en donde sí tuve una ventaja fue en Colpatria que me dieron la oportunidad de estudiar en una semana y de volverme a presentar.
+[SPEAKER_01]  y pues me presenté ahora a cualidad AWS y pase a las dos
+[SPEAKER_01]  pero pues me quedé en google y hoy llevo dos años dos meses trabajando en google en infraestructura muy contenta
+[SPEAKER_01]  con un trabajo maravilloso en una compañía que todos los días me sorprende, todavía me sigo sintiendo mal, muy frustrada a veces porque el nivel técnico acá es altísimo.
+[SPEAKER_01]  Entonces, y ahora, por ejemplo, tengo que aprender portugués.
+[SPEAKER_01]  Porque me van a pasar a unos proyectos en Brasil y entonces estoy tomando cursos de portugués y estoy frustrada porque no logro aprender como esto. Y casi que ahí acabo mi historia. Ah, bueno, lo de las charlas y las conferencias. Pues durante la pandemia hice muchas y ya estando en Google, esto ha sido maravilloso. He encontrado mucho espacio para eso. Estuve en el Chaos Conf en San Francisco. Y algo chévere de las conferencias es que te pagan todos los tiquetes, el hotel, todo. Entonces hoy son más de 100 conferencias que he hecho en Amsterdam, fui a Londres, fui a México, en dos oportunidades a San Francisco, al Chaos Conf.
+[SPEAKER_01]  Y ahorita tengo una obsesión por ir al Sprintario y por ir al de Eucenix, al de Conf.
+[SPEAKER_01]  Sueño todos los días con... Ahorita tengo un paper ahí en... Entonces uno escribe básicamente un artículo, una propuesta, hace un deck sobre un tema de investigación.
+[SPEAKER_01]  Y ya, por ejemplo, para el InfoQ, para el del QCon, el de Londres, que ha sido el más importante en mi vida profesional.
+[SPEAKER_01]  Pues hice un planteamiento alrededor de visualización de...
+[SPEAKER_01]  de visualización de la operación de las aplicaciones usando metáforas. Y entonces de nuevo viene muy lo visual, lo gráfico, que siempre me ha gustado mucho. Entonces, pues unido a eso, a ellos les gusta la propuesta y finalmente pues estoy allá.
+[SPEAKER_01]  Ha sido la conferencia más importante en mi vida, en el que ellos confablen para 1.200 personas y allí al QCon asisten más o menos 2.000 personas a la conferencia cada año.
+[SPEAKER_01]  no me fue tan bien como dice querido
+[SPEAKER_01]  Pero hoy sigue siendo algo de lo que me siento profesionalmente muy orgullosa.
+[SPEAKER_01]  Y ya, y eso es todo. Y tengo, pues siempre he sido temas de mujeres en tecnología, solo en Oracle.
+[SPEAKER_01]  Y sentí un poco la discriminación, pero no del lado de la compañía, sino del lado de un cliente.
+[SPEAKER_01]  Y por lo demás, siempre he encontrado...
+[SPEAKER_01]  un equipo de personas, o sea, siempre hemos sido muy poquitas mujeres, pero los hombres que me he encontrado en los equipos han valorado que yo esté y han propendido porque yo hable, porque no me dé miedo hablar, han valorado mucho lo que yo digo.
+[SPEAKER_01]  han escuchado mucho, entonces lo he encontrado como una ventaja.
+[SPEAKER_01]  pero sí he encontrado muy muy poquitas mujeres en este campo y ahora justo en el equipo de...
+[SPEAKER_01]  De Google hago en mi 20%, porque aquí podemos destinar 20% de nuestro tiempo a la investigación, hago parte de un equipo de seguridad en Google, y justo estamos con una iniciativa muy chévere para enseñar temas de seguridad hacia las mujeres. Y pues eso es. Y trabajo desde la casa, puedo ir cuando quiera a la oficina acá en Colombia, he estado en la oficina de Londres de Google, son maravillosas las oficinas, si algún día quieren ir, pues a las de acá de Colombia están cordialmente invitados.
+[SPEAKER_01]  Y ya eso es. Mira, pero...
+[SPEAKER_02]  Mira la historia.
+[SPEAKER_02]  En Google además hay varios colombianos, ¿verdad?
+[SPEAKER_01]  Sí, sí, señora. Acá en Google, yo fui la primera persona que contrataron, y mujer, sí, y la primera que contrataron en delivery. Ah, bueno, importante eso, yo en Google trabajo.
+[SPEAKER_01]  En el lado del cliente, pero ya no en preventa, sino trabajo en delivery, en instalación e implementación, muy parecido a lo que hacía en Backbase. Entonces, trabajo aprovisionando infraestructura en Google Cloud, trabajo en Google Cloud, no en YouTube, ni en las soluciones de Workspace, ni nada de esto, no en producto, no.
+[SPEAKER_01]  Pero no en preventa. Me han ofrecido ahorita un par de veces pasarme a preventa en Google, pero mi experiencia en Oracle no me lo permite.
+[SPEAKER_02]  Y el inglés ya lo tienes súper bien. Sí, señora.
+[SPEAKER_01]  y no
+[SPEAKER_01]  Muchas gracias señora.
+[SPEAKER_02]  Sí, sí señora. ¡Qué maravilla! Tienes una historia muy bonita, de crecimiento y tan joven, ¡qué maravilla! Me encanta, felicitaciones.
+[SPEAKER_01]  Sí, sí señora.
+[SPEAKER_01]  jajaja
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Muchísimas gracias Beatriz. Sí, en Google, bueno te contaba en Google cuando yo entré a Google éramos muchos menos también. Entré en la pandemia entonces no conozco ni las oficinas y aquí en Colombia solo existía cargos en ventas.
+[SPEAKER_01]  en preventa técnica, pero muy poquitas personas eran...
+[SPEAKER_01]  Tres personas, cuatro, cuatro, perdón, cuatro ingenieros de preventa.
+[SPEAKER_01]  algunos vendedores y personas de comercial y personas de education, no más, creo que no éramos más de 100.
+[SPEAKER_01]  Y el equipo de servicios profesionales, que es el que funciona en delivery, es decir, en implementación, ya después de que pasa la venta.
+[SPEAKER_01]  Yo creo que si en hora coludioso estaba en implementación, pues mi historia habría sido otra menos frustrante.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Pero bueno, volviendo acá al tema de Google, entonces deciden que aparece un proyecto en Colombia con Geralti, con la compañía de salud y Sanitas y bueno.
+[SPEAKER_01]  Y aparecen como algunas oportunidades de delivery de implementación acá. Entonces el equipo que originalmente estaba solo en Brasil.
+[SPEAKER_01]  Decidí expandirse hacia, y tenía un ingeniero en México, hacia Colombia, Perú, Ecuador y ahora en posiciones que son justo las que yo encuentro cuando estoy en el grupo Aval y cuando en el grupo Aval por desafíos y por decisiones de quien llega a liderar el equipo de ingeniería pues van a tercerizar el equipo de Bob. Y yo digo no, yo a Corficolombiana no me quería ir, no porque no quisiera a Corficolombiana sino porque ya tocaba ir a trabajar y yo estaba en la pandemia en la casa y yo decía no, yo no.
+[SPEAKER_01]  Yo no voy a ir a trabajar en sitio. Y entonces por eso empiezo a buscar. No diciendo no voy a ir, sino no quiero y quisiera hacer otra cosa remota.
+[SPEAKER_01]  Entonces, me presento a Google, paso las pruebas, siete pruebas fueron para entrar a Google, pues muy difíciles. Yo siempre quise trabajar en Google. También algo que quisiera mencionar acá, yo nunca he querido emprender, me da mucho miedo ser dueña de una empresa, nunca he querido hacerlo, entonces como que soñaba mucho con estar en una compañía como esta, me presenté varias veces a Google y no pasaba en ingeniería de software y en CRLI. Y aquí entro y soy la primera que contratan en Colombia en delivery.
+[SPEAKER_01]  Y la primera mujer también, pero también la primera ingeniera que existe en delivery en Colombia, soy yo.
+[SPEAKER_01]  Y después de eso el equipo creció tremendamente. También vino un poco de frustración de que yo entró a un equipo en donde mis compañeros están en Brasil, las reuniones son todas en inglés, y yo venía mucho de la cultura de lo colombiano, de lo ameno, de salir a almorzar con la gente, por ejemplo, y de que ya eso no lo tengo en Google.
+[SPEAKER_01]  He encontrado en Google un equipo de trabajo maravilloso, mi manager que está en Brasil es una persona increíble. Y toda la cultura que hay dentro de Google, si yo les voy a contar, yo aquí estoy muy feliz y hoy como cuando dije en el grupo Avalo en Colpatria, yo de acá no me quiero ir, yo quiero trabajar acá eternamente.
+[SPEAKER_01]  Y ya, y estoy en, me promovieron el año pasado, entonces, pues, y ahí voy todos los días con los clientes y en historias muy, muy interesantes, es muy chévere trabajar acá. Estoy justo ahora en un proyecto en México, entonces, eventualmente viajo a México o tendré la oportunidad de viajar a proyectos también en Argentina, en Chile y en Brasil.
+[SPEAKER_01]  Y pues eso hago en el día a día y mis charlas, siempre que se pueda hago conferencias. La última que hice fue en Alemania hace un mes hablando sobre Security Chaos Engineering. Estuve en Múnich hablando sobre eso y un mes antes había estado en Nürnberg también en una conferencia.
+[SPEAKER_03]  Pues ya Beatriz está anotando ahí en su libreta. Mira, atrás tiene el logo de ASIS.
+[SPEAKER_03]  que nos acompaña siempre.
+[SPEAKER_01]  en España
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  En estos quehaceres y en estos retos que Manuel se...
+[SPEAKER_01]  En este...
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Se traza y nos traza a los demás compañeros junto con Edna que se acaba de conectar aquí.
+[SPEAKER_00]  Eh...
+[SPEAKER_03]  Eh...
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  conectado esto hace rato
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  hace rato
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  No, no te habíamos visto. Claro que te vamos a buscar.
+[SPEAKER_02]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Claro que te vamos a buscar por más de una conferencia, en eventos, en actividades, te necesitamos.
+[SPEAKER_03]  Sí, pero de una vez te aviso que aquí no hacemos pagos, aquí es gratis.
+[SPEAKER_03]  Aquí es comunidad.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  conmigo
+[SPEAKER_01]  ¡Gracias!
+[SPEAKER_03]  Ya sabes, los dos planillas.
+[SPEAKER_01]  Sí, sí, sí, y yo no, realmente, pues, a pagar menos me pagan los tiquetes y el hotel, pero sí, lo que hacemos acá en Colombia tampoco, no, no.
+[SPEAKER_03]  aprovechar que estés aquí y te quedas cerquita, vas a ir tras mí y llegas ahí rápido a cerquita la 100, donde estaban todos tus compañeros, ahí quedas y...
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  compañeros. Ahí quedas.
+[SPEAKER_03]  Sí, ya nos vamos a hacer algo.
+[SPEAKER_02]  Y entonces vamos a hacer algo bien bonito, sí, por los lados del parque.
+[SPEAKER_03]  Y ahí se nos esconde.
+[SPEAKER_02]  Sí, lo es.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Para conocer una de esas conferencias, Beatriz, a ver si aprovechamos todas esas conferencias.
+[SPEAKER_02]  Para conocer una...
+[SPEAKER_03]  tan importantes y esa que nos llama la atención.
+[SPEAKER_03]  que adelantó a esa área que es la ingeniería del caos.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Sí, que es la inyección a propósito de fallas en la infraestructura para determinar. Entonces, uno en producción.
+[SPEAKER_01]  Daña un balanceador de carga o daña un servidor o daña una instancia para ver cómo responde toda la arquitectura frente al daño y diseñar una estrategia de resiliencia. Eso es lo que se hace en Ingeniería del Caos. Viene desde Netflix, lo ideó Netflix en el 2010 y lo usé por el desafío que tenía en Colpatria y porque mi amigo me invitó a participar en la conferencia y terminé investigando eso mucho. Es algo que he estudiado solo en mi tiempo libre y he escrito varios artículos sobre eso. Escribí un libro, el libro de Security Cases Engineering, el libro corto para ahorrar y luego tengo toda la oportunidad de escribir un capítulo.
+[SPEAKER_01]  me invitaron a escribir un capítulo de los que ellos Game Days, que son ya como hackatones en donde la gente, los ingenieros dañan los sistemas.
+[SPEAKER_01]  Y ya, ahorita estoy aprendiendo mucho de GNI, de inteligencia artificial, un poco porque en la compañía, pues en Google nos tienen como obligatorio el toma de los cursos, entonces integrando mucho eso.
+[SPEAKER_01]  Y pues en general siguen haciendo lo mismo, eso es lo que hago, como que voy a charlas, midaps cuando me invitan y no, yo no cobro, las de acá de Bogotá, tranquila, si me invitan, de que me den un cafecito, estoy allá. Las de afuera sí las pagan porque nos pagan los tiquetes y los hoteles.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Yuri, una pregunta, perdón, Manuel, es que le está picando la lengua desde hace rato.
+[SPEAKER_01]  Suena bien.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  ¡Gracias!
+[SPEAKER_03]  Y es que ahorita hay un reto muy grande, bueno, lo...
+[SPEAKER_03]  lo lleva a cabo y lo promueve el Andesco.
+[SPEAKER_03]  Desde el 2019, Yes.
+[SPEAKER_03]  Pues obviamente la apropiación.
+[SPEAKER_03]  El uso y la apropiación, el buen uso y la apropiación de las tecnologías en todos los niveles desde la formación.
+[SPEAKER_03]  desde los niños hasta los jóvenes.
+[SPEAKER_03]  Entonces, pues si entramos a mirar competencias digitales, el Ministerio de Educación ha trazado algunas líneas de desarrollo de competencias digitales.
+[SPEAKER_03]  que de todo ese bagaje
+[SPEAKER_03]  que tú tienes allí, le enseñarías a los niños.
+[SPEAKER_03]  porque es algo pues como que me llama la atención y siempre estoy en esa línea.
+[SPEAKER_03]  El desarrollo del pensamiento matemático tiene como cinco pensamientos, el desarrollo del pensamiento computacional, el pensamiento algorítmico en los niños, y es cómo hacemos para que los niños puedan aprender acerca del proceso de apropiación de la tecnología.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Ajá.
+[SPEAKER_03]  ¿Qué nos recomiendas? ¿Cómo hacemos? ¿Qué empezamos?
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Pues mira que dentro de Google hay una iniciativa que parece solo para niñas, se llama Women Code, pero pues niñas, mujeres y...
+[SPEAKER_01]  y hace poco hicimos una para una fundación de las niñas que son hijas de personas que trabajan en el sector de las flores en, ah bueno acá en Colombia yo soy la líder del pilar de Carrier, tenemos un capítulo de Women dentro de
+[SPEAKER_01]  Dentro de todo lo que es iniciativas que tiene Google internamente y yo hago parte del equipo que lidera el pilar de carrera. Entonces, lo he vivido de cerca, pero hay otro pilar que se llama el de comunidad y ellas enseñan, llevan a las niñas que tienen escasos recursos, regalan computadores y les enseñan Scratch, por ejemplo, que es una tecnología que les deja programar. Yo, ¿qué les diría yo per se ya a un sector mucho más deprimido? Algo que valoro mucho del Ministerio de Educación fue el acercamiento a lo social.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Yo una vez tuve la oportunidad de ir a un sitio cercano a Medellín, perdón, no, al Cauca no, sino a Medellín, a entregar unas tabletas.
+[SPEAKER_01]  Y entonces le preguntaba yo alguna vez a una de estas niñas, ¿qué quieres estudiar cuando seas grande? Entonces ella me decía, quiero ser profesora o trabajar en un banco.
+[SPEAKER_01]  Y yo le decía, ¿y por qué eso? Y me decía, pues porque eso es en lo que uno trabaja, ¿no? Y entonces yo le dije, no, ¿sabes qué es una ingeniería de sistemas? Me dijo, no, no sé qué es eso.
+[SPEAKER_01]  ¿Por qué veía ella eso? Ah, o médica.
+[SPEAKER_01]  porque las únicas profesiones que llegan hacia lo alejada que está ella del mundo son las que trabajan en el banco en el pueblo.
+[SPEAKER_01]  la persona de medicina y ya, y tal vez los profesores. Ellas no conocen que esas otras profesiones existen. Entonces creo que desde ahí hay una brecha fuerte. Otra cosa que hay que enseñarle a los niños muy en lo digital es el tema de los idiomas. Entonces, para que puedan acceder a estos contenidos, muchos de estos contenidos están solo en inglés y los niños no saben del inglés. Entonces, es algo que he identificado, por ejemplo, en estos Women at Coat que hemos hecho para las niñas, en las que yo no los lidero, pero me han invitado a apoyarlos. Las niñas no saben inglés y entonces les cuesta entender. Entonces, uno va a ir a Scratch al juego. Entonces, ¿qué dice acá? Me traduces acá y toca hacerlo así porque el juego no está en ese idioma.
+[SPEAKER_01]  y el conocimiento y las herramientas. También le he preguntado a una de las niñas y entonces ellas dicen, no, pero es que el computador solo el que tenemos cuando voy al colegio.
+[SPEAKER_01]  Y también es limitado. Google les regala a ellas los portátiles. Eso es como un premio que le dan casi a un colegio que sale premiado en el año por este beneficio que hay. Entonces, para ellas, pues nada, poder tener computador en la casa. Eso es una, pues una, una. Entonces diría que para promover eso que tú mencionas, pues uno, que los cursos existan. Dos, que tengan el acceso a los idiomas. Tres, que tengan en la casa cómo practicar lo que ven en el colegio. Pero pues eso ya es un tema social y un tema.
+[SPEAKER_01]  Del que de pronto se nos escaparan muchas cosas. Y pues ya.
+[SPEAKER_03]  Muchas gracias.
+[SPEAKER_03]  Manuel, ¿tienes alguna pregunta? Si ya se nos encierre.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  Quiero saludar al profesor Edgar, que está hace rato. Yo sé que está hace rato.
+[SPEAKER_06]  Yo no te había visto.
+[SPEAKER_06]  para la mayoría de los juristas.
+[SPEAKER_03]  jajaja
+[SPEAKER_06]  Edgar es uno de los líderes en el grupo de Redis.
+[SPEAKER_06]  y después de estos grupos de sistemas de ahora.
+[SPEAKER_06]  y de este trabajo que estamos haciendo, por si el gas quiere...
+[SPEAKER_06]  Si le hago un comentario a Yuri.
+[SPEAKER_00]  No, Yuri, yo he estado sorprendido, extasiado y satisfecho de esta entrevista porque es la...
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  Primera, en la que hacemos la menor cantidad de preguntas.
+[SPEAKER_04]  Muchas gracias.
+[SPEAKER_04]  ¡Gracias!
+[SPEAKER_00]  Tú, mejor dicho, nos adivinabas las preguntas y entonces seguías el hilo y pues ya uno estaba...
+[SPEAKER_00]  Eh...
+[SPEAKER_00]  concentrado en tu historia, creo que
+[SPEAKER_00]  Creo que la narrativa que hace es fantástica.
+[SPEAKER_00]  Es una manera de hilar la vida y...
+[SPEAKER_00]  y demostrar las dificultades que me parecen fantásticas. Yo creo que generalmente la...
+[SPEAKER_00]  La gente no cuenta las dificultades que tiene, ¿no? La gente cuenta los éxitos.
+[SPEAKER_00]  y narra cómo se dio, lo que sea, pero las frustraciones.
+[SPEAKER_00]  el hecho de eso que insiste Beatriz de separarte un poco de los papás para poder tomar decisiones
+[SPEAKER_00]  Pues eso es muy satisfactorio por mucha autonomía.
+[SPEAKER_00]  Y decisión. A mí me sorprende mucho la determinación. Creo que es uno de los elementos que...
+[SPEAKER_00]  que hay que resaltar.
+[SPEAKER_00]  y que, pues así como lo has hecho de manera narrativa, nos dejan sin preguntas, yo creo que están resueltas.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Ah, bueno, pues me alegro mucho. Y sí, también una vez que me ha preguntado, ahora hablo mucho de lo que les cuento. Esta no era la Yuri de hace unos años, pero...
+[SPEAKER_00]  Muchas gracias.
+[SPEAKER_01]  Sí, soy yo ahora muy elocuente. Y pues es un estilo de...
+[SPEAKER_00]  Pero...
+[SPEAKER_00]  Pero fíjate que esa es una linda demostración de eso.
+[SPEAKER_00]  Y eso es lo que me llena de satisfacción de ver que...
+[SPEAKER_00]  promover y que tuviste tutores y...
+[SPEAKER_00]  y gente que te apoyó para lanzarte en esos temas y que...
+[SPEAKER_00]  y que tú
+[SPEAKER_00]  tomaste la decisión de apoyarte en ellos, pues es fantástico.
+[SPEAKER_06]  Muchas gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_06]  Me gusta mucho la familia como centro.
+[SPEAKER_06]  Inclusive para no contarle lo que estás haciendo.
+[SPEAKER_06]  Sí.
+[SPEAKER_04]  Sí.
+[SPEAKER_06]  pero con seguridad que lo que no le contabas la tenías acá en tu cabecita.
+[SPEAKER_06]  Porque comienza hablándonos de Caragoa.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  con...
+[SPEAKER_00]  Gracias.
+[SPEAKER_06]  Ese inicio es maravilloso.
+[SPEAKER_01]  es es es es
+[SPEAKER_06]  del pueblo de 10 cuadras, creo que dijiste.
+[SPEAKER_01]  Sí, son 10 calles. Yo vivo en la última calle y es justo la calle 10 y por eso también un poco el acercamiento al río.
+[SPEAKER_06]  Son 10 calles.
+[SPEAKER_06]  Sí, yo...
+[SPEAKER_01]  es porque hay un río cerca y entonces mi niñez era ir a pescar, íbamos con un colador y con mis hermanos y los amigos de ellos a...
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Gracias, tío.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_06]  Gracias, Karen.
+[SPEAKER_06]  que mientras hablaba nos dieron ganas de ir a Caracol.
+[SPEAKER_01]  Salud.
+[SPEAKER_01]  super invitados están cuatro horas de acá
+[SPEAKER_06]  por invitados, están cuatro horas
+[SPEAKER_06]  Ahora, me encantó que comiences hablando de que tu papá es policía.
+[SPEAKER_06]  Nosotros queremos mucho a la policía, hemos trabajado, yo personalmente he trabajado con la policía en bastantes temas de ciudad inteligente.
+[SPEAKER_06]  y hemos desarrollado cosas para los cuadrantes.
+[SPEAKER_06]  Y admiramos mucho la ética de la policía, independiente de las cosas que se hablan y pasan específicas, pero hay una gran admiración.
+[SPEAKER_06]  Me gustó mucho haber recordado que existía el profesor Abraón Sánchez por la historia que...
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Sí.
+[SPEAKER_06]  Que contaste, no sé dónde estará él, era una gran persona. Sí.
+[SPEAKER_04]  Sí.
+[SPEAKER_04]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_06]  Me encantó oírte que juegas billar, como ya te lo expliqué.
+[SPEAKER_04]  Gracias.
+[SPEAKER_06]  está muy aficionado.
+[SPEAKER_06]  Sí. Cuando dijiste hice desastres en el trabajo, cuando estabas de...
+[SPEAKER_04]  ¡Gracias!
+[SPEAKER_01]  En Cucurula.
+[SPEAKER_06]  En dos días.
+[SPEAKER_01]  Ah, bueno, sí, en Oracle hice desastres porque dañé los números durante cuatro meses, pero si los desastres fueron en Payulatam también.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Uno en particular, el despliegue que les cuento, o sea, seis minutos en los que un cliente no puede pagar, o sea, son pérdidas millonarias.
+[SPEAKER_04]  No, no, no, no.
+[SPEAKER_06]  ¡Millones!
+[SPEAKER_01]  millones para la compañía, sí señor
+[SPEAKER_06]  Pero eso me hizo recordar, yo tengo tres páginas de anotaciones para que sepas, ¿no?
+[SPEAKER_06]  de la reunión.
+[SPEAKER_06]  Pero eso me hizo acordar.
+[SPEAKER_06]  Es un dicho que yo tengo y es que la experiencia es un archivo de embarradas bien organizado, ¿no?
+[SPEAKER_06]  Sí, señor.
+[SPEAKER_04]  Gracias.
+[SPEAKER_06]  Toda experiencia mala.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  Sobre todo cuando no lo echan a uno después del desastre, ¿no? Es un aprendizaje increíble.
+[SPEAKER_01]  Sí.
+[SPEAKER_04]  Gracias.
+[SPEAKER_06]  El tema de que con las ventas no era tu tema, pero a mí se me quedó una cosa en el aire.
+[SPEAKER_04]  El tema.
+[SPEAKER_06]  El árbol de cerezo.
+[SPEAKER_06]  Sí.
+[SPEAKER_06]  Un mensaje.
+[SPEAKER_02]  Un mensaje.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  ¿Por qué esa mención del árbol de cerezo y que caían los cerezos?
+[SPEAKER_06]  ¿Cuál era el símbolo? ¡Ah, vaya!
+[SPEAKER_02]  que pasó un año y volvió al año siguiente, ella se quedó estable en el mismo puesto.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_06]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Sí, era eso. En el ministerio yo nunca vi la oportunidad de crecer, de cambiar, de ascender.
+[SPEAKER_01]  Y algo que, y era tan rutinario el trabajo, o sea, era atender los tickets y siempre los tickets sobre el mismo, el sistema de excelencia de la docencia, el sistema de ser pilopaga, o sea, estaban ahí los sistemas, la historia era la misma y entonces mis días eran todos muy iguales, tanto que yo, o sea, venía, era en marzo que caían los cerezos y era el siguiente marzo y yo decía, del marzo anterior a este marzo no he hecho nada, o sea, sigo haciendo lo mismo todos los días. Y es igualito, o sea, yo decía, es como un déjà vu, es como un ciclo.
+[SPEAKER_01]  No había como aventura en mi vida, cosa que extrañaba de Peiyu.
+[SPEAKER_01]  Todos los días era una aventura diferente, era una cosa que se cayó algo, ya no se había comprado peyulatán, hablábamos mucho con otros países, aparecían productos nuevos, aparecían compañías nuevas y eran aventuras en el trabajo, literal. Aquí era todos los días hacer lo mismo.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04] 
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Y lo repetido de todo.
+[SPEAKER_02]  ¡Gracias!
+[SPEAKER_02]  Y yo creo que ella se imaginaba que llegaba el siguiente año y le tocaba ver otra vez caer las cerezas y que no había pasado nada en su vida, siguió igual.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Tal cual, seguía igual, no, y también como no viaja, o sea, por ejemplo, si no había oportunidad de viajar, ahorita pues a mí los viajes pues me, ahorita estoy un poco cansada de viajar, pero los viajes como que me cambian un poco el contexto de todo, entonces no es que yo sea muy, porque soy tal vez miedosa en términos de viajar sola y esto, pero.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Pero como que ver otras cosas, entrar a otros sitios me hace mucha falta. O sea, el ministerio tenía...
+[SPEAKER_01]  Todo era muy igual, también tus compañeros, como eran los de planta y no contrataban más, eran personas que llevan ahí 20 años, yo decía, yo recuerdo que para irme para Oracle yo dije, serán 20 años acá viendo el cerezo, no, no, no.
+[SPEAKER_06]  En eso cae lo mismo.
+[SPEAKER_06]  Pero hay personas...
+[SPEAKER_01]  Pero hay personas por las que eso está bien, o sea, yo no estoy diciendo que eso esté mal, solo que eso no va con mi personalidad.
+[SPEAKER_06]  No, fue tu observación.
+[SPEAKER_06]  Un planteamiento filosófico bastante interesante. Sí, muy bien.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Yo quiero decir una última cosa también. A mí me encantó ir.
+[SPEAKER_06]  Gracias.
+[SPEAKER_02]  Esa niña independiente y libre, pero dependiente en el fondo, 100% de los papás para cualquier paso. No les contaba, pero los papás siempre estaban aquí.
+[SPEAKER_04]  Y estoy segura que...
+[SPEAKER_02]  Y estoy segura que siguen siendo sus papás.
+[SPEAKER_02]  La decisión, así el uno allá, el otro acá, cuando se ven, son las decisiones en conjunto, pero queriendo ser esa mujer.
+[SPEAKER_02]  Independiente, liberada, liberada, pero entre comillas.
+[SPEAKER_01]  Sí, así es, así es, y mucho más con mi papá, porque mi mamá tal vez un poco más de, o sea, mi papá, sí, y ellos dos tienen una...
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  una influencia muy fuerte en mí y son personas que son muy fuertes en las decisiones que tomo
+[SPEAKER_01]  Y un miedo a defraudarlos hace que yo no les cuente ciertas cosas que he hecho en la vida ya por la emoción y cuando yo, o sea, tomo la decisión y me lanzo y luego miro hacia atrás y digo, por Dios, ¿qué hice? Y ahora, ¿cómo les voy a contar? Y ahora, bueno, o sea, por ejemplo, el miedo para...
+[SPEAKER_01]  Para esta empresa en Holanda, yo me miro hacia atrás y digo, yo no sé si yo lo volvería a hacer.
+[SPEAKER_01]  Pero pues como la coyuntura que tiene en la que está uno.
+[SPEAKER_03]  ¡Gracias!
+[SPEAKER_03]  Te interrumpo, aquí está Kevin. Kevin nos está apoyando.
+[SPEAKER_03]  También en esta...
+[SPEAKER_03]  en esta idea que tuvo Manuel.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Keren es un poco...
+[SPEAKER_02]  Kevin es un pupilo de Edgar porque está estudiando y terminando su carrera de ingeniería de sistemas.
+[SPEAKER_02]  en la Universidad Jorge Tadeo Luzano, donde...
+[SPEAKER_02]  Edgar, pues es su profesor.
+[SPEAKER_02]  Entonces nos gusta que él trabaja con ASIS, es nuestro webmaster, es nuestro soporte, es nuestra ayuda, es nuestro estudiante que está haciendo su práctica.
+[SPEAKER_02]  Entonces, siempre hay una pregunta final de aportes a ver.
+[SPEAKER_02]  qué opina, qué ve, todo, todo.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_03]  Que haga una pregunta que aproveche. O que aproveches una pregunta, exacto. Y saques lo máximo de...
+[SPEAKER_02]  Ok, aproveches una...
+[SPEAKER_02] 
+[SPEAKER_03]  pues de las personas que estamos entrevistando.
+[SPEAKER_03]  Entonces, le damos licitación a aquel.
+[SPEAKER_05]  Pero, oye, en...
+[SPEAKER_05]  Eh...
+[SPEAKER_05]  que antes siempre me...
+[SPEAKER_05]  Me hacía la pregunta Edgar ahora todos me hacen.
+[SPEAKER_05]  hablar
+[SPEAKER_05]  ¿Cómo te inspira?
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_00]  ¡Pobre querida!
+[SPEAKER_05]  Hay una cosa que ella decía que...
+[SPEAKER_05]  Y me recuerda mucho porque con el profeta que ya tuvimos un podcast y muchas cosas me dejaron pensando, pero ahorita lo que tú decías.
+[SPEAKER_05]  ¡Era de ti!
+[SPEAKER_05]  ¿Cómo es que aunque somos ingenieros y salimos de una universidad y pensamos que eso nos va a servir para siempre?
+[SPEAKER_05]  pero encontramos un trabajo de donde toca seguir otra vez estudiando prácticamente que es el cero.
+[SPEAKER_05]  y pueda que otra vez uno consiga trabajo y me dice, ya tengo la experiencia, yo no sé qué, pero llegamos a un nuevo trabajo y otra vez toca desde cero porque están usando otra herramienta.
+[SPEAKER_00]  Llegamos a un otro...
+[SPEAKER_05]  Entonces, es chévere. Creo que ya uno se da cuenta que...
+[SPEAKER_05]  que sí sirve en...
+[SPEAKER_05]  ser un ingeniero, porque...
+[SPEAKER_05]  Cualquiera puede ser programador, pero un ingeniero es muy distinto porque eso es lo que nos da a nosotros como la capacidad de...
+[SPEAKER_05]  de solucionar eso, ¿no? Como decir, como bueno.
+[SPEAKER_05]  Feb.
+[SPEAKER_05]  Yo lo puedo solucionar porque creo que a todos nos pasa que...
+[SPEAKER_05]  Conozco muchos amigos que dicen como, uy, no, eso está complicado, pero ellos ponen la máscara y dicen, no, sí, claro, yo lo hago.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Pero sí.
+[SPEAKER_01]  Sí, en eso coincido contigo y ahorita particularmente se va volviendo a como lo que he vivido en términos de ingeniería, o sea, viví el tránsito a la nube, viví el tránsito a DevOps, el tránsito a la automatización y ahora estamos en una coyuntura por la inteligencia artificial y los generadores de inteligencia artificial.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Y de nuevo me toca volver a aprender. O sea, yo, y en mi trabajo...
+[SPEAKER_01]  La semana pasada tenía que terminar unos laboratorios y estaba frustrada porque no...
+[SPEAKER_01]  No, no había sacado 100. Siempre he tenido como el pensamiento de que tengo que ser muy buena y ya, saqué 80. Y para pasarlos porque se pasan con 80 acá.
+[SPEAKER_01]  Pero encontraba yo eso, o sea, todo el tiempo hay que aprender de bases de datos, o sea, hay que ser muy complementarios.
+[SPEAKER_01]  Muy integral en términos de eso. Y creo que algo que mencionas y que ha funcionado y que funciona muy bien de la Universidad Nacional es que sí, uno aprende una tecnología, uno aprende un lenguaje, entonces uno puede aprender un idioma.
+[SPEAKER_01]  Pero la universidad lo que te debería dejar es la capacidad para resolver problemas y para aprender.
+[SPEAKER_01]  para eso, entonces ahora comparan mucho las universidades con estos cursos de Platzi y de Udemy.
+[SPEAKER_01]  y te dicen que no es necesario ya que vayas a la universidad porque tienes estos cursos en los que aprendes, por ejemplo ahora aprendes Terraform en dos semanas y eso es por lo que te van a pagar.
+[SPEAKER_01]  Yo, en mi experiencia, no lo encuentro así y encuentro que lo que la universidad te da es esa capacidad.
+[SPEAKER_01]  para resolver problemas, incluso la capacidad de resiliencia.
+[SPEAKER_01]  que necesita uno en este trabajo se lo da a la universidad cuando uno enfrenta.
+[SPEAKER_01]  cosas en la universidad de las notas y bueno.
+[SPEAKER_01]  Eh...
+[SPEAKER_01]  Entonces ahorita en mi trabajo estoy teniendo que aprender mucho sobre inteligencia artificial, sobre...
+[SPEAKER_01]  sobre aprendizaje en máquina.
+[SPEAKER_01]  porque son los productos que se están vendiendo ahora y sobre lo que estoy teniendo que hacer implementaciones integrado a la nube.
+[SPEAKER_01]  Y pues si no tuviera esa capacidad de aprender que me dejó la universidad.
+[SPEAKER_01]  Eso no se lo enseñan a uno en un curso virtual de OD.
+[SPEAKER_01]  Entonces lo que mencionas coincide con eso completamente.
+[SPEAKER_06]  Un gran mensaje, porque estamos en eso en Redis, en Redis hablaste de Platzi.
+[SPEAKER_06]  más que todo es la filosofía de creer que con un curso de una...
+[SPEAKER_06]  herramienta estás hecho, ¿no? Sí. No la integralidad de la universidad.
+[SPEAKER_01]  Son muy útiles, sí, y uno no los quita de esto, pero yo creo que la universidad le deja a uno unos valores que sí le permiten ser mucho más estable en el éxito que puedes lograr en un trabajo.
+[SPEAKER_06]  Eso es todo.
+[SPEAKER_06]  la mucha más persona para vivir las mismas dificultades de la vida, ¿no?
+[SPEAKER_06]  ¡Sin señal!
+[SPEAKER_01]  ¡Sin diseño!
+[SPEAKER_06]  como tú nos has descrito.
+[SPEAKER_06]  Bueno, ha sido una sesión maravillosa, Yuri. Me alegra mucho que hayamos llegado a esto.
+[SPEAKER_01]  Entonces,
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_06]  Es ver nuestras conversaciones en WhatsApp.
+[SPEAKER_01]  Sí, sí señor. Perdón, a ver si a veces respondo como muy de afán, pero tiene bastantes incendios aquí por acá en el trabajo.
+[SPEAKER_06] 
+[SPEAKER_01]  No alcanzo a responder bien, pero sí señor, ha sido un gusto también conversar contigo.
+[SPEAKER_06]  No, no, no, siempre fue muy bien todo.
+[SPEAKER_00]  Yo hoy...
+[SPEAKER_00]  Quisiera hacer una propuesta porque me parece muy interesante. Yo no quisiera quedarme con las ganas de conocer.
+[SPEAKER_00]  a Yuri y solamente por pantalla.
+[SPEAKER_00]  Entonces le propondré a Beatriz que en algún momento...
+[SPEAKER_01]  Joder.
+[SPEAKER_00]  Siente a algunos de los invitados y entrevistados y hagamos una reunióncita.
+[SPEAKER_00]  así sea para conocernos y estrecharnos la mano, porque quedamos muy agradecidos con tu participación.
+[SPEAKER_01]  Lo haremos, lo haremos.
+[SPEAKER_00]  No, no, es tanto...
+[SPEAKER_01]  Es con todo el gusto, es con todo el gusto lo que necesiten y lo que les contaba, si también alguna oportunidad.
+[SPEAKER_04]  ¡Gracias!
+[SPEAKER_01]  hay espacio para que nos visiten en la oficina de Google, pues están cordialmente invitados.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  La oficina de Google además es ahí en la 94, ¿o no? Sí, señora. ¿No es la dos cuadras?
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Google.
+[SPEAKER_01]  Sí, señora.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Muy cerca de nosotros. Sí, es en el edificio Oxxo y pues Google tiene este formato de las oficinas con...
+[SPEAKER_02]  Muy cerca de nosotros.
+[SPEAKER_01]  O sea, nos dan el desayuno y el almuerzo y de generar ese espacio.
+[SPEAKER_01]  de desayuno y almuerzo para invitar a personas. Fue compartido afuera. Entonces, si en algún momento quieren ir, programamos un almuerzo en Google Eats. Sería chévere poder conocerlos.
+[SPEAKER_00]  Compartido.
+[SPEAKER_00]  Bueno, y otra pregunta, ¿y qué tal, nos permiten hacer una visita con algunos estudiantes?
+[SPEAKER_01]  Ah, nos tocaría ver por qué no, en un día puedo invitar solo hasta cinco. Esa ya sería otra gestión, pero sí se puede hacer.
+[SPEAKER_00]  Bueno, entonces, es que para hacer una tarea...
+[SPEAKER_01]  Bueno, pero...
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Entonces arrancamos.
+[SPEAKER_02]  Vamos para la primera, que somos nosotros.
+[SPEAKER_00]  somos nosotros. Sí, claro, claro, pero es para dejarle aquí una tarea posterior.
+[SPEAKER_00]  Me hace falta pedirle el favor a Kevin de que haga una tarjetita ahí con Giselle.
+[SPEAKER_00]  Con Juli.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Yuri, pues yo no puedo quedarme sin hacer la tarea de enviarte un fuertísimo abrazo del profe Germán.
+[SPEAKER_00] 
+[SPEAKER_03]  El profe Fabio.
+[SPEAKER_04]  Un...
+[SPEAKER_03]  y agradecerte que nos hayas permitido compartir en este espacio, en esta entrevista y esperamos que...
+[SPEAKER_03]  que puedas aportar en este recuento de la historia de la ingeniería de sistemas en Colombia. Muchísimas gracias.
+[SPEAKER_03]  No sé.
+[SPEAKER_01]  Muchas gracias, muchas gracias por este espacio.
+[SPEAKER_06]  Gracias.
+[SPEAKER_06]  Gracias por contándote.
+[SPEAKER_06]  Yo cierro contándote que cuando Vinton Cerf...
+[SPEAKER_06]  que fue el que hizo TCPIP, ¿recuerdas? Entonces...
+[SPEAKER_06]  Muchas gracias.
+[SPEAKER_01]  Sí, sí, señor.
+[SPEAKER_06]  él era vicepresidente de Google.
+[SPEAKER_06]  Y era vicepresidente.
+[SPEAKER_01]  Gracias.
+[SPEAKER_06]  evangelización en Google, eso fue hace varios años.
+[SPEAKER_06]  El grupo lo invitamos con los decanos de Bogotá.
+[SPEAKER_04]  Gracias.
+[SPEAKER_06]  Y estuvo con nosotros en un evento que está grabado en YouTube, entre otras cosas, con él, una gran persona.
+[SPEAKER_06]  Y se volvió amigo nuestro, digamos. Después nos ayudó en un artículo de la revista, ¿te acuerdas? En una entrevista.
+[SPEAKER_06]  Y él estaba...
+[SPEAKER_02]  Sí.
+[SPEAKER_06]  unido a Google en esa época, ¿no? Que era tan importante.
+[SPEAKER_06]  Vamos a cerrar.
+[SPEAKER_02]  Además terminó feliz pidiendo que yo no me puedo ir rápido y no me como una empanada y con una empanada aquí en la mano probando fue buenísimo.
+[SPEAKER_06]  No, no, no.
+[SPEAKER_06]  Cuando a él lo sacaron, el cubo, nos lo llevaron para que estuviera con nosotros media hora.
+[SPEAKER_06]  Se quedó dos horas.
+[SPEAKER_06]  Y a la salida...
+[SPEAKER_06]  que sacaron las empanadas y él se iba, nos dio pena invitarlo a eso.
+[SPEAKER_06]  Se devolvió.
+[SPEAKER_06]  Y es que no me van a invitar a comer eso que están comiendo, ¿cómo se llama? Y se quedó con nosotros.
+[SPEAKER_06]  Una persona muy querida y muy interesante.
+[SPEAKER_06]  Bueno, vamos a cerrar. La foto.
+[SPEAKER_02]  La foto, la foto de la despedida.
+[SPEAKER_06]  Sí, eso es.
+[SPEAKER_02]  Buenos días. Buenos días a todos.
+[SPEAKER_06]  Gracias.
+[SPEAKER_02]  Todos aquí tomamos una foto, a ver, una bien linda. Bueno, eso, sonriente, muy bien.
+[SPEAKER_06]  Bueno.
+[SPEAKER_06]  Excelente.
+[SPEAKER_02]  Excelente, yo ya la tomé.
+[SPEAKER_06]  Entonces nos despedimos, Yuri, gracias, eres ya de esta familia.
+[SPEAKER_06]  Y seguiremos de alguna manera.
+[SPEAKER_06]  Bien contacto.
+[SPEAKER_01]  Claro que sí, si hay oportunidad para ir de una charla para hablar sobre ingeniería de Alcázar en Asís, pues maravilloso. La vamos a hacer.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  La vamos a hacer. Todos los jueves tenemos...
+[SPEAKER_01]  los jueves tenemos ese espacio, lo vamos a hacer. Por supuesto que sí.
+[SPEAKER_04]  Por supuesto que sí.
+[SPEAKER_01]  Vale, entonces tienen mi contacto y mi número a través de Manuel. Cualquier cosa que necesiten es con mucho gusto.
+[SPEAKER_04]  Vale, entonces...
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Perfecto. Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Gracias. Bueno, que tengan feliz fin de semana, que descansen. Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Feliz fin de semana para todos.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  semana.
+[SPEAKER_00]  Hasta luego a todos. Feliz fin de semana.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Chao.
