@@ -6,7 +6,7 @@ import whisper
 import os
 
 # Load full audio
-audio_path = "/content/2021MAEG.mp3"
+audio_path = "/content/2008YYNR.mp3"
 audio, sr = torchaudio.load(audio_path)
 
 # Duration & split into 3 parts
@@ -50,11 +50,11 @@ def process_part(wav_file, output_txt):
             f.write(line + "\n")
 
 # Process part 1
-process_part("part1.wav", "transcript_part1_2021MAEG.txt")
+process_part("part1.wav", "transcript_part1_2008YYNR.txt")
 
 # Download result
 from google.colab import files
-files.download("transcript_part1_2021MAEG.txt")
+files.download("transcript_part1_2008YYNR.txt")
 
 
 import torch
@@ -65,7 +65,7 @@ import whisper
 import os
 
 # Load full audio
-audio_path = "/content/2021MAEG.mp3"
+audio_path = "/content/2008YYNR.mp3"
 audio, sr = torchaudio.load(audio_path)
 
 # Duration & extract part 2
@@ -107,11 +107,11 @@ def process_part(wav_file, output_txt):
             f.write(line + "\n")
 
 # Process part 2
-process_part("part2.wav", "transcript_part2_2021MAEG.txt")
+process_part("part2.wav", "transcript_part2_2008YYNR.txt")
 
 # Download result
 from google.colab import files
-files.download("transcript_part2_2021MAEG.txt")
+files.download("transcript_part2_2008YYNR.txt")
 
 
 import torch
@@ -122,7 +122,7 @@ import whisper
 import os
 
 # Load full audio
-audio_path = "/content/2021MAEG.mp3"
+audio_path = "/content/2008YYNR.mp3"
 audio, sr = torchaudio.load(audio_path)
 
 # Duration & extract part 3
@@ -164,8 +164,8 @@ def process_part(wav_file, output_txt):
             f.write(line + "\n")
 
 # Process part 3
-process_part("part3.wav", "transcript_part3_2021MAEG.txt")
+process_part("part3.wav", "transcript_part3_2008YYNR.txt")
 
 # Download result
 from google.colab import files
-files.download("transcript_part3_2021MAEG.txt")
+files.download("transcript_part3_2008YYNR.txt")
