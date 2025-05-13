@@ -1,0 +1,2111 @@
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Y vamos a pedirle fechas, ¿no?
+[SPEAKER_02]  Es muy importante.
+[SPEAKER_02]  Bueno, estamos con Germán Escorcia.
+[SPEAKER_02]  uno de los pioneros de la
+[SPEAKER_02]  de la computación en Colombia, de la ingeniería de sistemas.
+[SPEAKER_02]  de los primeros ingenieros.
+[SPEAKER_02]  Como vamos a ver, yo no voy a presentarlo porque él mismo va a contarnos su historia.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  que está hoy día en México.
+[SPEAKER_02]  y que ha tenido una trayectoria que ha influido enormemente para la ingeniería de sistemas colombianas, como vamos a ver.
+[SPEAKER_02]  a ir escuchándolo y observando.
+[SPEAKER_02]  No.
+[SPEAKER_02]  Entonces, con Germán nos va a contar, como siempre lo hacemos en estas...
+[SPEAKER_02]  desde su experiencia en el colegio, la universidad, ya estamos hablando con él.
+[SPEAKER_02]  Ese mecanismo.
+[SPEAKER_02]  Y es una charla informal.
+[SPEAKER_02]  pero muy...
+[SPEAKER_02]  Profunda, ¿no?
+[SPEAKER_02]  de la persona y de la ingeniería de sistemas en su visión.
+[SPEAKER_02]  siendo uno de los pioneros y veteranos.
+[SPEAKER_02]  de Colombia en este tema, como vamos a ver.
+[SPEAKER_02]  Entonces...
+[SPEAKER_02]  Hermano, pues ahí estamos con Sandra, con Beatriz, con Edgar, con Rafa, como siempre, para los que ven estos videos después.
+[SPEAKER_02]  Y vamos a comenzar oyendo a Germán sobre esa historia.
+[SPEAKER_02]  agradecerle que...
+[SPEAKER_02]  Que esté con nosotros.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Pues es una gran alegría estar de vuelta.
+[SPEAKER_01]  con los amigos en Colombia.
+[SPEAKER_01] 
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Puedo decir...
+[SPEAKER_01]  La pulga donde picó.
+[SPEAKER_02]  Necesitamos el volumen, está un poquito bajito.
+[SPEAKER_01]  el volumen
+[SPEAKER_02]  el volumen
+[SPEAKER_01]  A ver.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  A veces pasa. Así está mejor.
+[SPEAKER_01]  Mejor.
+[SPEAKER_01]  Mejor. Vale.
+[SPEAKER_01]  y
+[SPEAKER_01]  Estaba comentando que...
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Arrancó temprano.
+[SPEAKER_01]  porque
+[SPEAKER_01]  Un poquito inquieto me había metido en la primaria.
+[SPEAKER_01]  hacer el...
+[SPEAKER_01]  presidente del círculo literario.
+[SPEAKER_01]  Y por esas casualidades yo era el secretario, entonces mi papá me ayudó.
+[SPEAKER_01]  y desde muy pequeñito estaba todavía en la escuela primaria, ya sabía redactar.
+[SPEAKER_01]  actas de reunión, acuerdos y cosas de ese estilo, que me sirvió toda mi vida.
+[SPEAKER_01]  y
+[SPEAKER_01]  y
+[SPEAKER_01]  Por estar en esas...
+[SPEAKER_01]  nos invitaron a una cosa que se llamó Átomos para la Paz.
+[SPEAKER_01]  que fue una exhibición.
+[SPEAKER_01]  que recorría los países de América.
+[SPEAKER_01]  porque pues estuvimos en el tiempo.
+[SPEAKER_01]  de la guerra fría con aquella...
+[SPEAKER_01]  A mi NASA de...
+[SPEAKER_01]  el conflicto en Cuba y todas estas cosas.
+[SPEAKER_01]  y la amenaza nuclear.
+[SPEAKER_01]  Entonces, átomos para la paz.
+[SPEAKER_01]  Llegó con una carpa inflable gigante que parecía un gusano.
+[SPEAKER_01]  Y adentro acontecieron dos prodigios.
+[SPEAKER_01]  El primero...
+[SPEAKER_01]  Fue.
+[SPEAKER_01]  que me regalaron
+[SPEAKER_01]  un
+[SPEAKER_01]  Una copia.
+[SPEAKER_01]  en papel.
+[SPEAKER_01]  del tablero de instrumentos de la cápsula Géminis.
+[SPEAKER_01]  ustedes no se pueden imaginar.
+[SPEAKER_01]  cuántos viajes interplanetarios hice.
+[SPEAKER_01]  con ese papel, ¿no? Era increíble.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  Sí, va bien.
+[SPEAKER_01]  Me llevó...
+[SPEAKER_01]  a que hoy todavía estoy metido en el tema de constelaciones satelitales inteligentes y que aprenden entre sí con Starlink y todas las demás.
+[SPEAKER_01]  Y la otra cosa que aconteció fue...
+[SPEAKER_01]  que empezaron a hablar conmigo de un tema.
+[SPEAKER_01]  Clarísimo, estaba en primaria.
+[SPEAKER_01]  La teoría cuántica.
+[SPEAKER_01]  Eso me sirvió.
+[SPEAKER_01]  ¿Por qué?
+[SPEAKER_01]  Al terminar la primaria, le dan el premio de ciencias con un...
+[SPEAKER_01]  con un...
+[SPEAKER_01]  Trabajito.
+[SPEAKER_01]  que ahora me asombra decir cómo me metí yo en eso, no entiendo todavía.
+[SPEAKER_01]  pero
+[SPEAKER_01]  Pero...
+[SPEAKER_01]  que se llamaba la teoría corpuscular de la luz y que abordaba...
+[SPEAKER_01] 
+[SPEAKER_01]  Muy temprano.
+[SPEAKER_01]  el problemita que había.
+[SPEAKER_01]  entre que decían que la luz era de corpúsculos que eran fotones.
+[SPEAKER_01]  y que
+[SPEAKER_01]  La otra teoría que decía que la luz era ondas.
+[SPEAKER_01]  Y entonces venía el problema de que si ponías una tabla con un agujero...
+[SPEAKER_01]  la luz penetraba
+[SPEAKER_01]  Cuando haces...
+[SPEAKER_01]  en el agua ese experimento.
+[SPEAKER_01]  El agua entra y genera ondas y llena todo el recinto.
+[SPEAKER_01]  Pero cuando era luz, penetra.
+[SPEAKER_01]  por el agujero y se va en un as.
+[SPEAKER_01]  directo hasta el otro lado y no hay ondas.
+[SPEAKER_01]  Ese problema era fascinante.
+[SPEAKER_01]  Entonces me metí en esos temas.
+[SPEAKER_01]  Mmm.
+[SPEAKER_01]  Terminé la primaria.
+[SPEAKER_01]  Y una tía me consiguió un cupo en un colegio que se llamó el Colegio...
+[SPEAKER_01]  Simón Rodríguez, Colegio Distrital para Hijos de Educadores.
+[SPEAKER_01]  ¿Qué cosa fue aquella? Perdí.
+[SPEAKER_01]  todas las materias, todas. En rojo, todas.
+[SPEAKER_00]  rojo.
+[SPEAKER_01]  pero aprendí.
+[SPEAKER_01]  a colarme en los buses, a robar en el Tía y en el Vida, que eran las tiendas que había en aquella época. Solo por el hecho de que veíamos los guardas robarse una cosilla.
+[SPEAKER_01]  sin que te detectaran, esa era la gracia.
+[SPEAKER_01]  Éramos malos tipos, malos.
+[SPEAKER_01]  como perdí todas las materias, pues me tuvieron que cambiar de colegio y me llevaron al colegio.
+[SPEAKER_01]  al bachillerato de la Universidad de Gran Colombia.
+[SPEAKER_01]  Ahí acontecieron otro par de provincias.
+[SPEAKER_01]  Bachillerato normal, todas esas cosas, era pílome, tenía...
+[SPEAKER_01]  Tenía unos amigos que trabajaban muy fuerte.
+[SPEAKER_01]  las matemáticas y todo eso a mí me costaba trabajo.
+[SPEAKER_01]  Entonces...
+[SPEAKER_01]  Me pegué con ellos, hicimos un muy buen trabajo, un equipito muy chévere.
+[SPEAKER_01]  Pero...
+[SPEAKER_01]  Tuvimos al final del bachillerato dos profesores.
+[SPEAKER_01]  David Luna de Física.
+[SPEAKER_01]  que nos enseñó a amar la física.
+[SPEAKER_01]  Éramos 60, ya saben, bachillerato, dos secciones A y B de 30 estudiantes cada uno, de los 60, 40.
+[SPEAKER_01]  nos metimos a ingeniería.
+[SPEAKER_01]  Este cuate hizo...
+[SPEAKER_01]  algo prodigioso, dije tipos que odiábamos las matemáticas y nos gustaba.
+[SPEAKER_01]  estar de vagos por ahí, todas esas cosas.
+[SPEAKER_01]  cómo nos hizo esa conversión. Yo creo mucho en los docentes que son capaces de hacer esas cosas.
+[SPEAKER_01]  Y había otro.
+[SPEAKER_01]  Aún mejor.
+[SPEAKER_01]  el profesor de trigonometría.
+[SPEAKER_01]  Que...
+[SPEAKER_01]  nos desafiaba.
+[SPEAKER_01]  las calificaciones en billar.
+[SPEAKER_01]  Decía, entreguen a su gallo.
+[SPEAKER_01]  y la calificación de todo el curso.
+[SPEAKER_01]  Se las juego en una partida.
+[SPEAKER_01]  Si yo gano, todos sacan 1,5.
+[SPEAKER_01]  Si ustedes me ganan, sacan 4.
+[SPEAKER_01]  5 no, porque el 5 es solamente para él.
+[SPEAKER_01]  Entonces entrenábamos billar como locos y todas esas cosas.
+[SPEAKER_01]  Y luego nos llevó...
+[SPEAKER_01]  él daba clases en un colegio femenino. En aquella época los colegios estaban separados.
+[SPEAKER_01]  Y ese nos llevó niñas del colegio donde él daba clases.
+[SPEAKER_01]  estaban en el mismo nivel y daba la misma clase de trigonometría.
+[SPEAKER_01]  las llevó al colegio. Fue un acontecimiento. O sea, todo el mundo en el colegio asomado viendo que las niñas llegaban a competir contra nosotros.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Por suerte.
+[SPEAKER_01]  Ganamos.
+[SPEAKER_01]  Entonces nos fue bien y todas esas cosas. Y luego nos llevó a nosotros a competir contra ellas.
+[SPEAKER_01]  Al final...
+[SPEAKER_01]  Éramos unas hachas en trigonometría.
+[SPEAKER_01]  Yo todavía tengo, lo iba a traer y se me olvidó.
+[SPEAKER_01]  Un vasito que acabo de comprar.
+[SPEAKER_01]  que tiene una base triangular.
+[SPEAKER_01]  y el círculo arriba, y eso genera una superficie de transición, que después allá en la universidad uno empezaba a ver.
+[SPEAKER_01]  esos fundamentos, nos enseñó a amar esas cosas, a entenderlas.
+[SPEAKER_01]  Cosas que después se volvieron muy complicadas.
+[SPEAKER_01]  Entonces quedaron fundadas las bases para...
+[SPEAKER_01]  que
+[SPEAKER_01]  Yo tenía una inclinación y en mis exámenes vocacionales salió que mi inclinación era más hacia las ciencias humanas y económicas.
+[SPEAKER_01]  Mi padre y mi familia venían de por ahí.
+[SPEAKER_01]  Entonces, este era un invento raro de ingeniería y todas esas cosas. Me empezó a gustar.
+[SPEAKER_01]  le tenía terror a que íbamos a tener que tomar muchas matemáticas y todo eso. Pero bueno, nos fuimos avanzando.
+[SPEAKER_01]  Total.
+[SPEAKER_01]  Me seguían gustando los viajes espaciales, me enteraba mucho, buscaba la manera de saber.
+[SPEAKER_01]  qué estaba pasando con los viajes espaciales.
+[SPEAKER_01]  Y me gustaba mucho, me iba.
+[SPEAKER_01]  de Conejillo a la biblioteca Luis Ángel Arango.
+[SPEAKER_01]  Y pasaba horas.
+[SPEAKER_01]  leyendo sobre esos temas raros.
+[SPEAKER_01]  de la teoría cuántica, de la teoría corpuscular, de la luz y todas estas cosas. Me fascinaba un poquito el tema.
+[SPEAKER_01]  Era un poco raro, pero...
+[SPEAKER_01]  Pero...
+[SPEAKER_01]  Eso rápidamente me dio la idea.
+[SPEAKER_01]  de que yo lo que quería estudiar era algo que tal vez en Colombia no se daba y empecé a buscar.
+[SPEAKER_01]  me encontré que lo que más me gustaría hacer era estudiar Ingeniería Nuclear.
+[SPEAKER_01]  Eso no existía en Colombia, solo había dos universidades en Estados Unidos que lo ofrecían.
+[SPEAKER_01]  y no había manera de conseguir una beca.
+[SPEAKER_01]  No teníamos recursos para echarme la carrera ya, así que bueno, ni modo.
+[SPEAKER_01]  pensé en Australia.
+[SPEAKER_01]  Y Australia resultó ser un tema muy interesante porque cuando le dije a mi padre, me dijo, yo quise estudiar en Australia.
+[SPEAKER_01]  Y espero que tú lo puedas hacer para que cumplas mi sueño.
+[SPEAKER_01]  Bueno, no hubo lana tampoco, así que, bueno, lana es mexicano, porque ya les dijimos que estoy ahora viviendo en México, entonces se me van a salir de pronto algunos mexicanismos por acá. El caso es que nos fuimos.
+[SPEAKER_01] 
+[SPEAKER_01]  a buscar
+[SPEAKER_01]  en la Universidad Nacional. Entonces, estaba empezando también.
+[SPEAKER_01]  una carrera de ingeniería administrativa que luego derivó en ingeniería de sistemas.
+[SPEAKER_01]  Pero...
+[SPEAKER_01]  Y había una en la Universidad de los Andes que era muy lejana para mí.
+[SPEAKER_01]  va a costar mucho dinero, no va a tener.
+[SPEAKER_01]  Pues me presenté, fui a la universidad, hablé allá y me dijeron, te podemos dar un cuarto de ley.
+[SPEAKER_01]  consiguete otra media.
+[SPEAKER_01]  en el ISEX.
+[SPEAKER_01]  y con eso arrancas y te damos un crédito.
+[SPEAKER_01]  Fue muy raro eso en la universidad, entonces así entré a los ANS, presenté el examen de admisión.
+[SPEAKER_01]  Y pasó algo prodigioso.
+[SPEAKER_01]  Por estar metido leyendo tanta cosa y todo eso, ya manejaba bastante inglés.
+[SPEAKER_01]  Entonces, en el examen de clasificación de inglés de los Andes...
+[SPEAKER_01]  Yo salí sobrado.
+[SPEAKER_01]  me metieron a literatura inglesa.
+[SPEAKER_01]  porque a todos los demás los metían a la inglés 1, a la inglés 2.
+[SPEAKER_01]  Y era una sufridera espantosa. Yo veía a todos mis compañeros.
+[SPEAKER_01]  Sí, era...
+[SPEAKER_01]  Hablaban, igual que el Departamento de Matemáticas, del muro de las lamentaciones.
+[SPEAKER_01]  Cuando empezamos en Ingeniería de Sistemas.
+[SPEAKER_01]  Empezaron.
+[SPEAKER_01]  A surgir algunas cosas raras.
+[SPEAKER_01]  Yo era un especimen raro para la ingeniería de sistemas. Me gustaba mucho programar y no me gustaban mucho las computadoras.
+[SPEAKER_01]  Pueden imaginar ustedes el drama.
+[SPEAKER_01]  Un tipo que está estudiando una carrera para manejar computadoras y no le gustan las computadoras.
+[SPEAKER_01]  Entonces, el hijo.
+[SPEAKER_01]  Y me sentía un poco con esa...
+[SPEAKER_01]  sensación de
+[SPEAKER_01]  que se reforzó porque...
+[SPEAKER_01]  Mi primer trabajo.
+[SPEAKER_01]  publicado
+[SPEAKER_01]  en una revista formal y todas esas cosas.
+[SPEAKER_01]  Me lo publicó la Facultad de Filosofía y Letras de la Universidad de Los Ángeles.
+[SPEAKER_01]  en el departamento de español.
+[SPEAKER_01]  porque hice un estudio de Gabriel García Márquez y de todas las generaciones, y como estaba aprendiendo a programar, entonces me fue muy fácil armar las relaciones entre las familias, las generaciones y todo eso.
+[SPEAKER_01]  y a la gente de la Facultad de Filosofía y Letras, que se habían leído N veces las novelas de García Márquez.
+[SPEAKER_01]  Esto fue.
+[SPEAKER_01]  Luz.
+[SPEAKER_01]  en la caverna.
+[SPEAKER_01]  O sea, para ellos fue una maravilla. Entonces me publicaron y todas esas cosas.
+[SPEAKER_01]  Al rato.
+[SPEAKER_01]  Me metí en las clases de economía.
+[SPEAKER_01]  No sabía.
+[SPEAKER_01]  Y resulté medio bien dotado, como muy súper dotado para economía. Saqué 5 en el final de la materia.
+[SPEAKER_01]  Me diarra que te vienen todos los exámenes, el profesor me puso de asistente.
+[SPEAKER_01]  Fue fantástico. Era una materia dura de la Universidad de Los Ángeles. Economía no era...
+[SPEAKER_01]  perita en dulce, entonces...
+[SPEAKER_01]  para mí no había secretos con la elasticidad de la demanda.
+[SPEAKER_01]  nada de esas cosas y la macroeconomía y la microeconomía de gran dominio de esas cosas.
+[SPEAKER_01]  Y ahí conocí a Enrique Ogliastre, que se acababa de ganar un proyecto de la Fundación Roquefeller.
+[SPEAKER_01]  para estudiar.
+[SPEAKER_01]  el pensamiento de los grandes ejecutivos a lo largo de los años en un programa parecido a este.
+[SPEAKER_01]  le iban preguntando a la gente.
+[SPEAKER_01]  ¿Usted qué opinaba sobre este problema cuando tenía esta edad y cuando tenía esta otra y cuando tenía esta otra?
+[SPEAKER_01]  tabulábamos.
+[SPEAKER_01]  Ahí conocí al doctor Eduardo Aldana, que era uno de los pocos expertos en Colombia que sabía manejar.
+[SPEAKER_01]  una cosa que había llegado y que podía funcionar en la Universidad de los Andes, que era el programa SPSS.
+[SPEAKER_01]  de estadísticas.
+[SPEAKER_01]  Entonces, con eso empezamos a trabajar y...
+[SPEAKER_01]  La Fundación Rockefeller me publicó un estudio.
+[SPEAKER_01]  Pues mi primera publicación internacional.
+[SPEAKER_01]  Todavía estaba por ahí.
+[SPEAKER_01]  Tercer año de la universidad.
+[SPEAKER_01]  de los años.
+[SPEAKER_01]  Interesante porque...
+[SPEAKER_01]  lo menciono.
+[SPEAKER_01]  porque
+[SPEAKER_01]  Yo me sentía...
+[SPEAKER_01]  en esa ambivalencia entre...
+[SPEAKER_01]  Esas partes que tienen que ver con la economía, con la política, con el humanismo.
+[SPEAKER_01]  y la dureza de la ingeniería de sistemas que era tan altamente exigente.
+[SPEAKER_01]  Bueno.
+[SPEAKER_01]  Se decía en nuestra época, no sé si eso continuará así, que uno podía hacer ingeniería de sistemas y había estudiado tantas matemáticas que con solo dar clases te daban la licencia.
+[SPEAKER_01]  de la licenciatura de matemáticas.
+[SPEAKER_01]  Y yo tenía un coco.
+[SPEAKER_01]  Llegué hasta el tercer año y debía una materia que se llamaba álgebra abstracta.
+[SPEAKER_01]  por alguna razón.
+[SPEAKER_01]  Me retiré seis veces.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  jajaja
+[SPEAKER_01]  Llegué hasta el final del grado, no recuerdo.
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  y
+[SPEAKER_01]  No podría quedar registrado aquí.
+[SPEAKER_01]  ¿Cómo hice para llegar hasta el final de la carrera debiendo un prerequisito de tercer año?
+[SPEAKER_01]  que era álgebra abstracta.
+[SPEAKER_01]  Pero negocié con el departamento de matemáticas, no puedo decir con quién.
+[SPEAKER_01]  Pero dije, mire.
+[SPEAKER_01]  ya empecé a ver la carrera de circuitos lógicos, que era fascinante.
+[SPEAKER_01]  La daba Rodrigo Querubín.
+[SPEAKER_01]  era una materia que te disparaba la mente.
+[SPEAKER_01]  Él, sobre todo, dando la clase, era una delicia, era realmente un agasajo ir a clase con él.
+[SPEAKER_01]  Con Rodrigo.
+[SPEAKER_01]  Entonces yo entendía mucho de cómo era que funcionaban las computadoras.
+[SPEAKER_01]  y no me explicaba.
+[SPEAKER_01]  ¿Por qué diablos todo eso se basaba en álgebra abstracta?
+[SPEAKER_01]  Y los tipos del departamento de matemáticas...
+[SPEAKER_01]  no entendían esa materia para qué servía para nosotros.
+[SPEAKER_01]  Entonces yo llegué al departamento de matemáticas y dije, a ver.
+[SPEAKER_01]  ¿Qué pasa si yo les hago?
+[SPEAKER_01]  Un super escrito de...
+[SPEAKER_01]  Todos estos temas del álgeno abstracto.
+[SPEAKER_01]  cómo se usan.
+[SPEAKER_01]  en las computadoras.
+[SPEAKER_01]  Y goba.
+[SPEAKER_01]  Te ponemos.
+[SPEAKER_01]  Nada más raspando la materia si haces el escrito.
+[SPEAKER_01]  Lo hice.
+[SPEAKER_01]  Y estaba yo sacando, recordarán ustedes esas publicaciones que se hacían en...
+[SPEAKER_01]  en alcoholímetro, que eran unas páginas azules, salían escritos.
+[SPEAKER_00]  Extensive salía morado.
+[SPEAKER_01]  morado.
+[SPEAKER_01]  era moral.
+[SPEAKER_01]  Bueno, entonces estaba yo sacando mis morados ahí y llegó un profesor.
+[SPEAKER_01]  que había invitado el Departamento de Matemáticas el doctor Moore.
+[SPEAKER_01]  Lo había invitado el doctor Sorbo, que era el director del departamento en ese momento.
+[SPEAKER_01]  y
+[SPEAKER_01]  Él vio ese escrito.
+[SPEAKER_01]  Ya hablaba español, poquito, pero hablaba. Vio el título de mí.
+[SPEAKER_01]  tenía escrito y toda esa cosa.
+[SPEAKER_01]  Y le echo un ojo y me dijo, me regalas una copia, sí.
+[SPEAKER_01]  Al otro día me mandaron llamar del departamento de matemáticas y me dijo...
+[SPEAKER_01]  Es impresionante lo que usted ha escrito. Yo estoy escribiendo un libro sobre teoría de reticulados y quiero que usted me ayude.
+[SPEAKER_01]  Entonces, aquí que está ahora el estudiante dice, estudiante pollito.
+[SPEAKER_01]  terminé metido en teoría de reticulados con este cuadro. O sea, álgea abstracta y todas esas cosas eran tachuela con lo que terminé metido.
+[SPEAKER_01]  por esa coincidencia extraordinaria.
+[SPEAKER_01]  Pasado eso...
+[SPEAKER_01]  y
+[SPEAKER_01]  Yo creo que...
+[SPEAKER_01]  tal vez haciendo un poquito de memoria.
+[SPEAKER_01]  Un minuto.
+[SPEAKER_01]  Otra cosa que pasó allí que influyó muchísimo.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  el rumbo que uno toma.
+[SPEAKER_01]  había como muchas ventanas por donde mirar la ingeniería de sistemas, tenía ese arte la universidad en aquel momento, en que te daba muchos tipos de posibles salidas.
+[SPEAKER_01]  Entonces uno iba armando sus últimas materias en trayectoria.
+[SPEAKER_01]  Entonces yo me metí con Ernesto Lleras en el curso de cibernet.
+[SPEAKER_01]  Aquello fue...
+[SPEAKER_01]  Un Big Bang, una explosión.
+[SPEAKER_01]  La clase de Ernesto Lleras, él no daba la clase, agarraba una silla, la volteaba, se sentaba encima del pupitre, nos juntaba alrededor en un círculo y empezaba a hablar.
+[SPEAKER_01]  de Stratford Beer, de Bomberta Lanci, de todas aquellas teorías.
+[SPEAKER_01]  Y entonces, poco a poco fuimos entendiendo todos nosotros que, claro, el tema...
+[SPEAKER_01]  era que el primitivismo de las máquinas obligaba a los lenguajes de programación, pero ese no era el problema.
+[SPEAKER_01]  El problema eran los sistemas de información, el comportamiento de los sistemas, los sistemas abiertos.
+[SPEAKER_01]  Los sistemas cerrados, la ultraestabilidad, el feedback.
+[SPEAKER_01]  montones de cosas que empezamos a entender.
+[SPEAKER_01]  Recuerdo una frase.
+[SPEAKER_01]  desde esa época.
+[SPEAKER_01]  Ya van a ser 50 años.
+[SPEAKER_01]  Son 49 años.
+[SPEAKER_01]  Un minuto.
+[SPEAKER_01]  En esa época...
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  había una frase ahí
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  en el estudio de Stratford Birk que decía, la ciencia de la cibernética se aplica.
+[SPEAKER_01]  al gobierno.
+[SPEAKER_01]  Y la noción de gobierno está presente.
+[SPEAKER_01]  en todos los organismos.
+[SPEAKER_01]  todas las máquinas.
+[SPEAKER_01]  y en todas las construcciones de los seres humanos.
+[SPEAKER_01]  los partidos políticos, las academias.
+[SPEAKER_01]  Entonces empezamos a entender.
+[SPEAKER_01]  Que feedback no era un asunto de la teoría de Shannon de los...
+[SPEAKER_01]  de los ruidos y en los canales y todas esas cosas, sino que eso era importante en los partidos políticos. A mí me sonó eso.
+[SPEAKER_01]  supremamente importante en todas las construcciones humanas.
+[SPEAKER_01]  Total que...
+[SPEAKER_01]  Me empecé a meter allí.
+[SPEAKER_01]  Y olvidé mencionar...
+[SPEAKER_01]  Ahora que estoy recordando, perdón, va a haber un poquito de desorden, ¿no? Back and forth, pero...
+[SPEAKER_03]  Gracias.
+[SPEAKER_01]  Ahora que me acuerdo, en el primer año...
+[SPEAKER_01]  El terror a las matemáticas se acrecentó. Porque yo venía...
+[SPEAKER_01]  había estado ahí en el...
+[SPEAKER_01]  concurso de mejores bachilleros de Colombia, un concurso que se llamaba el concurso de Coltejer.
+[SPEAKER_01]  Yo venía de ser un súper estudiante.
+[SPEAKER_01] 
+[SPEAKER_01]  en el bachillerato de la Universidad Gran Colombia.
+[SPEAKER_01]  ¿Sí? Metido en estos temas, como les dije, amantes de la física y de la trigonometría y de cosas de ese estilo. Y en el primer semestre, en el primer examen de matemáticas que presenté.
+[SPEAKER_01]  Esto fue por el doctor Castro.
+[SPEAKER_01]  Y saqué 1.2.
+[SPEAKER_01]  En todo el bachillerato no había visto tal cosa, excepto ese año en que perdí todas las materias.
+[SPEAKER_01]  y
+[SPEAKER_01]  Me sorprendió mucho.
+[SPEAKER_01]  Todos los días a las 7 de la mañana.
+[SPEAKER_01]  A Edgar Páez y a Ninos Pasara, el doctor Castro Altamira.
+[SPEAKER_01]  ¿Usted cree en que eso creó?
+[SPEAKER_01]  una amistad indisoluble que dura hasta ahora un amor.
+[SPEAKER_01]  Entre nosotros, Edgar y yo, estudiábamos matemáticas.
+[SPEAKER_01]  Como locos.
+[SPEAKER_01]  Cinco o seis horas diarias, mucho, estudiábamos mucho. Cuando el examen final lo hizo el departamento, no el profesor.
+[SPEAKER_01]  Entonces, nosotros sacamos 5 en el examen y pasamos la materia y todas esas cosas.
+[SPEAKER_01]  Eso me conectó con una red de amigos que éramos muy pilos, muy estudiosos, estudiábamos mucho.
+[SPEAKER_01]  Edgar Páez y luego...
+[SPEAKER_01]  conectamos con
+[SPEAKER_01]  con Arturo Villarreal
+[SPEAKER_01]  que fue en aquel momento el promedio más alto de la Universidad de Los Andes y fue imbatible.
+[SPEAKER_01]  hasta que una sobrinita mía le batió el récord del promedio más alto de la universidad.
+[SPEAKER_01]  No sé ahora cómo estará ese quien lo lleva, pero...
+[SPEAKER_01]  Pero en aquel momento era, híjole.
+[SPEAKER_01]  pero es amigo del tipo que tiene el...
+[SPEAKER_01]  promedio más alto de la Universidad de Los Ángeles.
+[SPEAKER_01]  El caso es que...
+[SPEAKER_01]  para no extender mucho allí.
+[SPEAKER_01]  Creo que la universidad en aquel momento...
+[SPEAKER_01]  Y yo creo que lo sigue siendo.
+[SPEAKER_01]  estableció
+[SPEAKER_01]  con unos niveles muy altos de calidad en los profesores.
+[SPEAKER_01]  Porque lo que la mayoría de nosotros recuerda...
+[SPEAKER_01]  Son profesores excepcionalmente buenos.
+[SPEAKER_01]  Yo todavía puedo repetir de memoria, aunque hace ya 50 años.
+[SPEAKER_01]  Pero, pero...
+[SPEAKER_01]  Pero aparte de Rodrigo Querubín, que sus clases eran fantásticas, había unas clases...
+[SPEAKER_01]  espectaculares, por ejemplo.
+[SPEAKER_01]  tal vez ustedes recuerden a un doctor Sáp.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  que daba una clase de diseño, una clase de imaginación, hoy sería...
+[SPEAKER_01]  un taller esplendoroso de aprender innovación. En aquel momento se llamaba diseño, pero era un reto a la mente, nos ponía los problemas más increíbles. Recuerdo mi primer ejercicio fue diseñar una ballesta.
+[SPEAKER_01]  Entonces...
+[SPEAKER_01]  Tú llegas ahí con un poco esa idea de ingeniería de sistema y todas esas cosas, y no tienes que diseñar una ballesta, y dices, ¿cómo es eso? A estudiar ballesta y a estudiar tensiones, a estudiar cosas y tal. Era increíble. Luego nos decía, bueno, sí, pero ahora sin cuerdas.
+[SPEAKER_01]  ¿Qué?
+[SPEAKER_01]  Y a ver, entonces era muy, muy, muy interesante.
+[SPEAKER_01]  había
+[SPEAKER_01]  profesores como Isaac Majerowicz, por ejemplo.
+[SPEAKER_01]  en la parte de ingeniería eléctrica y todas esas cosas.
+[SPEAKER_01]  Era importantísimo.
+[SPEAKER_01]  Un minuto.
+[SPEAKER_01]  Profesor Garcés también.
+[SPEAKER_01]  eran en teoría sistemas y todas estas cosas. O sea que había...
+[SPEAKER_01]  cosas impresionantes.
+[SPEAKER_01]  Pero yo no dejaba el tema.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  que me hacía cosquilla.
+[SPEAKER_01]  Y un día...
+[SPEAKER_01]  muy presionado porque era muy dura la carrera de ingeniería de sistemas, había que estudiar muchísimo.
+[SPEAKER_01]  Yo hoy pienso que...
+[SPEAKER_01]  Casi sería imposible detener la disciplina que nosotros tuvimos que aportar.
+[SPEAKER_01]  para salir adelante con esas asignaturas, eran muy duras, muy exigentes.
+[SPEAKER_01]  todos los textos estaban en inglés, sepas o no, dale con un diccionario y a pedalear.
+[SPEAKER_01]  Y muchas cosas no las entendíamos porque estaban hechas para el ambiente educativo norteamericano donde se daban por sentadas y eso no lo teníamos.
+[SPEAKER_01]  etcétera, pero
+[SPEAKER_01]  Fatigado con eso, el consejero que uno tenía me dijo, sabes qué, métete de urgencia.
+[SPEAKER_01]  a cursos de humanidades para que aflojes un poquito. Entonces, el próximo semestre, métete a eso.
+[SPEAKER_01]  Pero el consejo me lo dijo tarde, cuando me fui a escribir ya no había.
+[SPEAKER_01]  cursos de las que ofrecían en la facultad, los que la facultad de ingeniería permitía.
+[SPEAKER_01]  En humanidades. Así que me metí a ciencias políticas.
+[SPEAKER_01]  Y eso fue otro prodigio.
+[SPEAKER_01]  Porque en ese departamento...
+[SPEAKER_01]  también tenían profesores extraordinarios. Entonces a mí me tocaron.
+[SPEAKER_01]  Profesores como...
+[SPEAKER_01]  Rafael Rivas Posada, el doctor Inestrosa, que después fue rector de la Universidad Esternado.
+[SPEAKER_01]  Por lo opuesto.
+[SPEAKER_01]  que era un especialista en sistemas.
+[SPEAKER_01]  y que le hizo entender a todo el mundo la gran diferencia entre...
+[SPEAKER_01]  La teoría del conflicto y la teoría del marco estructural.
+[SPEAKER_01]  y
+[SPEAKER_01]  Y entonces empezabas a entender.
+[SPEAKER_01]  el papel de la tecnología en la sociedad y cómo la, visto desde diferentes marcos políticos, tenía significados e impactos diferentes.
+[SPEAKER_01]  supremamente importante.
+[SPEAKER_01]  ¿Por qué menciono eso? Porque fue muy útil.
+[SPEAKER_01]  y
+[SPEAKER_01] 
+[SPEAKER_01]  Al terminar, a mí me pareció que...
+[SPEAKER_01]  publiqué varios trabajos ahí en la Facultad de Ciencias Políticas.
+[SPEAKER_01]  y
+[SPEAKER_01]  Al terminar me decían, no podemos creer que un pollo de ingeniero.
+[SPEAKER_01]  haya venido y haya salido con las bajas calificaciones de la facultad.
+[SPEAKER_01]  Ciencias políticas.
+[SPEAKER_01]  Entonces...
+[SPEAKER_01]  Quedó.
+[SPEAKER_01]  Una visión.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  de la ingeniería de sistemas.
+[SPEAKER_01]  desde el punto de vista de su impacto social.
+[SPEAKER_01]  No la he dejado de sostener.
+[SPEAKER_01]  O sea, después de estar en una clase.
+[SPEAKER_01]  de Rafael Rivas Posada.
+[SPEAKER_01]  o de estos grandes.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  No era posible pensar que la tecnología... Revisa el volumen otra vez. Sí, no era... Gracias, perdón.
+[SPEAKER_02]  Revisé el volumen.
+[SPEAKER_01]  no era posible pensar en la...
+[SPEAKER_01]  en la ingeniería de sistemas.
+[SPEAKER_01]  solita, ¿no?
+[SPEAKER_01]  como...
+[SPEAKER_01]  Perdón, me cambio aquí un poco a ver si...
+[SPEAKER_01]  Mejora.
+[SPEAKER_01]  cómo manejar el tema del impacto de la ingeniería de sistemas en la sociedad.
+[SPEAKER_01]  Empecé a trabajar en eso.
+[SPEAKER_01]  Aún no terminábamos la carrera.
+[SPEAKER_01]  Y empecé.
+[SPEAKER_01]  con esos temas.
+[SPEAKER_01]  Entonces me colaba en las clases, aunque no estuviera escrito y no pudiera.
+[SPEAKER_01]  y registrarme formalmente.
+[SPEAKER_01]  Y una vez me colé en un seminario.
+[SPEAKER_01]  externo.
+[SPEAKER_01]  de alto nivel que se celebraba en una sala anexa a la rectoría de la universidad.
+[SPEAKER_01]  El conferencista era el capitán.
+[SPEAKER_01]  y
+[SPEAKER_01]  Alberto Espina.
+[SPEAKER_01]  que había sido fundador de Colciencia.
+[SPEAKER_01]  y fue a dar una clase sobre polos de desarrollo.
+[SPEAKER_01]  acompañado
+[SPEAKER_01]  del doctor Patiño Rosselli, que era autor de la teoría.
+[SPEAKER_01]  Dios salí.
+[SPEAKER_01]  impactado, fascinado, la manera de cambiar el desarrollo de una nación, y se no es parejo, no es una tela, si tú creas polos de desarrollo, luego los conectas y cada polo de desarrollo atrae a su alrededor.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  inversiones, empleos y capacidades para la gente. No estábamos todavía.
+[SPEAKER_01]  A medida mis compañeros bebían cerveza y trabajaban un poco en las computadoras programando.
+[SPEAKER_01]  Y yo estaba metido en los temas de polos de desarrollo.
+[SPEAKER_01]  Y conocer al capitán Ospina fue muy importante.
+[SPEAKER_01]  Porque por las preguntas que yo le hice.
+[SPEAKER_01]  Y me dijo, usted debe...
+[SPEAKER_01]  Ir.
+[SPEAKER_01]  a hablar con el director de sistemas de información de conciencias.
+[SPEAKER_01]  Y me mandó. Entonces yo fui, golpeé la puerta.
+[SPEAKER_01]  Oiga, que el capitán Ospina me recomienda hablar con usted. Y yo, bueno, pues pásele.
+[SPEAKER_01]  Empezamos a hablar.
+[SPEAKER_01]  y
+[SPEAKER_01]  en
+[SPEAKER_01]  conciencia se empecé a aprender.
+[SPEAKER_01]  el tema
+[SPEAKER_01]  de que la teoría general de sistemas que yo sabía tenía una aplicación importantísima para conectar los sistemas de información científica del país.
+[SPEAKER_01]  muy en mis primeros días, en los primeros artículos que publicaba.
+[SPEAKER_01]  Ese director me enseñó.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  que él publicaba una cosita que llamaba La Agenda.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  La...
+[SPEAKER_01]  La...
+[SPEAKER_01]  boleta parroquial.
+[SPEAKER_01]  Y la boleta parroquial era que todas las semanas él ponía en una hojita una página.
+[SPEAKER_01]  por condena.
+[SPEAKER_01]  Doblada por la mitad, entonces generaba cuatro carillas.
+[SPEAKER_01]  Y en las cuatro carillas hacía un resumen de todo lo que me ha pasado importante en la semana.
+[SPEAKER_01]  Y todas las semanas salía una. Entonces yo seguí con esa disciplina.
+[SPEAKER_01]  en todos mis trabajos.
+[SPEAKER_01]  Siempre hago la hojita parroquial.
+[SPEAKER_01]  Y la hojita parroquial en aquel momento empezaba a hablar.
+[SPEAKER_01]  de que
+[SPEAKER_01]  No.
+[SPEAKER_01]  Decía yo cosas como esta.
+[SPEAKER_01]  La calidad.
+[SPEAKER_01]  de la investigación científica de una nación.
+[SPEAKER_01]  es directamente proporcional a la calidad de la información con la que se alimenta.
+[SPEAKER_01]  Y tenemos muy malos sistemas de información en Colombia. Luego no es...
+[SPEAKER_01]  esperable.
+[SPEAKER_01]  que tengamos buena investigación científica.
+[SPEAKER_01]  hay un diferencial delta que lo crea el científico.
+[SPEAKER_01]  Pero si el científico está mal alimentado, pues la...
+[SPEAKER_01]  investigación final no será tan buena.
+[SPEAKER_01]  a pesar de su capacidad o conocimiento.
+[SPEAKER_01]  Entonces...
+[SPEAKER_01]  Creamos en conciencia después.
+[SPEAKER_01]  una cosa que se llamó el Sistema Nacional de Información.
+[SPEAKER_01]  Y ahí empezamos un poco.
+[SPEAKER_01]  a desarrollar esos temas.
+[SPEAKER_01]  Regreso.
+[SPEAKER_01]  Salto atrás un momentito.
+[SPEAKER_01]  Porque esa conexión con Colcinsa fue prodigiosa. ¿Por qué? Porque...
+[SPEAKER_01]  En ingeniería de sistemas las tesis tenían que ver con temas o de programación o de desarrollo de problemas empresariales o cosas de ese estilo.
+[SPEAKER_01]  Entonces la mía se volvió una tesis rarísima porque...
+[SPEAKER_01]  Yo escogí primero que todo, lo único que entendía de todas estas cosas y me escuchaba.
+[SPEAKER_01]  que era el doctor Eduardo Aldana, que era el rector de la universidad.
+[SPEAKER_01]  Mis compañeros me decían...
+[SPEAKER_01]  Loco, no te vas a graduar.
+[SPEAKER_01]  Nunca.
+[SPEAKER_01]  Porque ¿a quién se le ocurre escoger al rector de la universidad como director de su tesis? Primero te va a reventar.
+[SPEAKER_01]  Y segundo, no tiene tiempo.
+[SPEAKER_01]  de atenderte, así que vas a durar años en graduarte.
+[SPEAKER_01]  El doctor Aldana hizo un muy buen trabajo, me guió muchísimo en todos esos temas. Luego apareció...
+[SPEAKER_01]  Un, un, un, un.
+[SPEAKER_01]  El doctor Ernesto Lleras.
+[SPEAKER_01]  Aquí.
+[SPEAKER_01]  se ofreció a ser co-director de la tesis porque el doctor Aldana evidentemente no tenía tiempo de estar leyendo mis escritos y todo eso.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Entonces, entre el doctor Aldana...
+[SPEAKER_01]  Eduardo Aldana y Ernesto Lleras dirigieron mi trabajo.
+[SPEAKER_01]  Pero no era una tesis de programación ni de computadoras. Lo que yo creé fue un sistema de información para la industria de alimentos que se montó y se estableció, se creó.
+[SPEAKER_01]  en el Instituto de Investigaciones Tecnológicas que en aquella época existía.
+[SPEAKER_01]  Ahí en el final de la Universidad Nacional.
+[SPEAKER_01]  en la 30 con la 53, ahí estaba la...
+[SPEAKER_01]  construcción del Instituto de Investigaciones Tecnológicas, sostenido por la OEA Conciencias y un grupo de empresarios.
+[SPEAKER_01]  Se creó el sistema.
+[SPEAKER_01]  información sobre tecnología de alimentos.
+[SPEAKER_01]  Y eso generó...
+[SPEAKER_01]  Mi tesis de grado.
+[SPEAKER_01]  que me dio mucho gusto porque...
+[SPEAKER_01] 
+[SPEAKER_01]  Yo veía las tesis de mis amigos que eran tesis dirigidas a ser guardadas en la universidad.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Y no iba a pasar nada más con eso.
+[SPEAKER_01]  En cambio la mía era una tesis que yo podía ir a visitar mi tesis.
+[SPEAKER_01]  porque habían construido el centro de información en...
+[SPEAKER_01]  el instituto y estaba conectándose en red con otros.
+[SPEAKER_01]  No teníamos telecomunicaciones ni nada de esas cosas.
+[SPEAKER_01]  para el tema
+[SPEAKER_01]  Pero eso me conectó.
+[SPEAKER_01]  con conciencias. ¿Qué creen que pasó?
+[SPEAKER_01]  Amén.
+[SPEAKER_01]  Colcienzas me invitó.
+[SPEAKER_01]  colaborar con ellos.
+[SPEAKER_01]  Pero antes yo me gradué normal, como todos los estudiantes, año 75.
+[SPEAKER_01]  Ya vamos.
+[SPEAKER_01]  El año entrante, para los 50 años.
+[SPEAKER_01]  Y al terminar...
+[SPEAKER_01]  y
+[SPEAKER_01]  Pasaron dos cosas.
+[SPEAKER_01]  como estaba conectado con el doctor Ernesto Lleras.
+[SPEAKER_01]  Él era muy amigo de Guillermo Perry.
+[SPEAKER_01]  que lo habían nombrado en esos días.
+[SPEAKER_01]  Director de Sistemas de la Administración de Impuestos.
+[SPEAKER_01]  y acababan de comprar una computadora, por eso lo habían llevado a él para allá, necesitaban una persona.
+[SPEAKER_01]  de gran capacidad para manejar un tema como ese. Habían comprado una supercomputadora para...
+[SPEAKER_01]  para esta administración.
+[SPEAKER_01]  Probablemente era una de las más grandes de Colombia.
+[SPEAKER_01]  Entonces, él jaló un poco, le pidió a Ernesto que jalara a unos estudiantes de los Andes para que le ayudaran.
+[SPEAKER_01]  allá en el Ministerio de Hacienda.
+[SPEAKER_01]  Ahí vi una de las primeras metáforas.
+[SPEAKER_01]  que me ha seguido toda mi vida y la uso todavía como ejemplo, ahora que estamos con estos temas de inteligencia artificial y todas esas cosas.
+[SPEAKER_01]  Estábamos trabajando pollos de ingeniería en unas mesitas ahí en la noche.
+[SPEAKER_01]  había que trabajar de noche por supuesto para eso lleva los estudiantes
+[SPEAKER_03]  Había que trabajar.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Y estábamos tarde esa noche.
+[SPEAKER_01]  trabajando allí y de pronto vimos una doña.
+[SPEAKER_01]  gordita, bajita, que llegó con un banquito, se paró en el banquito y le echó una botella completa de Coca-Cola de las grandes.
+[SPEAKER_01]  encima de las rejillas de la computadora.
+[SPEAKER_01]  Cuando vimos aquello salimos corriendo y señora, ¿qué hace?
+[SPEAKER_01]  Dijo, es que esta cosa nos va a quitar el empleo.
+[SPEAKER_01]  Nunca olvidaré.
+[SPEAKER_01]  que eso
+[SPEAKER_01]  Entonces fue...
+[SPEAKER_01]  Muy interesante porque ahora que estamos con los temas de inteligencia artificial y te dicen es que la inteligencia artificial te va a quitar el empleo.
+[SPEAKER_01]  recurro a esa metáfora de decir
+[SPEAKER_01]  Hombre.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  lo que terminó pasando.
+[SPEAKER_01]  ahí en la administración de impuestos.
+[SPEAKER_01]  es que tuvieron que triplicar el personal.
+[SPEAKER_01]  No solamente no les quitó el impuesto, sino que se tuvieron que crear montones de puestos nuevos.
+[SPEAKER_01]  para hacer funcionar la computadora.
+[SPEAKER_01]  Se pagaba solo, decía el doctor Perry.
+[SPEAKER_01]  porque los recaudos habían aumentado de una manera tan especial.
+[SPEAKER_01]  que pagaba todo el crecimiento y la compra de las máquinas y todas estas cosas.
+[SPEAKER_01]  Eso fue muy interesante.
+[SPEAKER_01]  Yo creo que...
+[SPEAKER_01]  Este es como todo este episodio.
+[SPEAKER_01]  que viene desde la formación abajo en el colegio.
+[SPEAKER_01]  y luego ese periodo esplendoroso de la universidad.
+[SPEAKER_01]  Sí, estoy.
+[SPEAKER_01]  Tengo que ser honesto en decir que no disfruté mucho.
+[SPEAKER_01]  el campus de la universidad.
+[SPEAKER_01]  pero, pero, pero...
+[SPEAKER_02]  Voy a hacer un...
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Voy a hacer un repasito y de pronto... Vale, vale, vale.
+[SPEAKER_01]  Vale, vale, vale, vale, vale, vale.
+[SPEAKER_02]  Acabas de hacer un recorrido muy interesante.
+[SPEAKER_02]  Para personas como yo, que en esa época estábamos en la universidad.
+[SPEAKER_02]  Me encuentro con varias cosas interesantes.
+[SPEAKER_02]  Que fuiste, no sé cómo lo llamaste, el centro literario en el colegio. Sí.
+[SPEAKER_02]  Pues me tocó ser presidente del Centro Literario en La Salle.
+[SPEAKER_02]  Y estudiábamos en castellano antiguo el mío sí.
+[SPEAKER_02]  ¿Sí?
+[SPEAKER_02]  eran épocas donde había mucho el tema de la literatura en esos colegios.
+[SPEAKER_02]  Muy interesante el tema satelital. Yo estoy trabajando con los satélites de la Unión Europea, del proyecto Copérnico.
+[SPEAKER_02]  ¿Cómo no? Estoy trabajando en algoritmos con ese tema actualmente, pues estoy en eso.
+[SPEAKER_02]  Me gustó mucho lo del billar.
+[SPEAKER_02]  Porque en la calle teníamos 21 billares. Mira esos paralelos tan raros, ¿no?
+[SPEAKER_02]  Y el profesor de geometría era el que nos acompañaba a jugar billar.
+[SPEAKER_02]  ¿No?
+[SPEAKER_02]  Y también era una fiebre enorme con el billar, pero había una ciencia.
+[SPEAKER_02]  el juego no era solamente aquel juego.
+[SPEAKER_02]  Todavía tengo el libro de Samuelson, de economía.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Lo tengo aquí al lado mío.
+[SPEAKER_01]  cañones y mantequilla en eso está
+[SPEAKER_02]  Como 600 páginas, no las he terminado de leer.
+[SPEAKER_01] 
+[SPEAKER_02]  Pero todavía lo tengo y lo miro porque...
+[SPEAKER_02]  nos movió unas cosas que de verdad, como tú dices, que no sabíamos.
+[SPEAKER_02]  Eduardo Aldana fue mi presidente de tesis.
+[SPEAKER_02]  También.
+[SPEAKER_02]  sobre transporte.
+[SPEAKER_02]  Trabaje F de Desarrollo con SPSS con Guillermo Perry.
+[SPEAKER_02]  Mira estas coincidencias, ¿no?
+[SPEAKER_02]  en unos modelos de econometría, ¿sí? Ya ha graduado, ¿no? Pero es que son paralelos, lo que yo estoy aquí como...
+[SPEAKER_02]  Mencionando.
+[SPEAKER_02]  Edgar Paez fue mi vecino.
+[SPEAKER_02]  ¿Cómo no? Fue de María Teresa, que era la presidenta de Sun Microsystems. ¿De acuerdo? Así es.
+[SPEAKER_01]  No, no.
+[SPEAKER_01]  Sí, cómo no
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  que tuvieron una cosa muy interesante.
+[SPEAKER_02]  Ella era brillantísima ejecutiva, él también, profesional.
+[SPEAKER_02]  Pero él se dedicó a cuidar a la familia.
+[SPEAKER_02]  en una época.
+[SPEAKER_02]  Para que María Teresa surgiera. ¿Tú te acuerdas de esa historia? Cómo no, es perfecto. Él vivía aquí a la casa siguiente mía y fuimos también grandes amigos.
+[SPEAKER_00]  Para que María te...
+[SPEAKER_01]  El mismo.
+[SPEAKER_01] 
+[SPEAKER_02]  Profesor Zapp, que jugaba fútbol, él era de civil, me acuerdo mucho, ¿no?
+[SPEAKER_01]  ¿Cómo no?
+[SPEAKER_02]  Ernesto Lleras
+[SPEAKER_02]  que la historia de la computación que te conté está en esto ya yo te voy a mandar esos vídeos
+[SPEAKER_02]  que estás mencionando personas que, bueno, en resumen...
+[SPEAKER_02]  Eso que estás contando muestra mucho la orientación suya hasta el concepto de la sociedad.
+[SPEAKER_02]  de la política en el buen sentido.
+[SPEAKER_02]  de la información para hacer un país mejor.
+[SPEAKER_02]  porque seguramente nos vas a contar algunas cosas sobre ese tema.
+[SPEAKER_02]  Pero veo muy bien, muy bien, pues muy interesante el recorrido.
+[SPEAKER_02]  Porque parte de lo que nosotros hemos...
+[SPEAKER_02]  visto acá con el grupo S.
+[SPEAKER_02]  cómo se forma un proyecto de vida.
+[SPEAKER_02]  ¿No?
+[SPEAKER_02]  como personas como Roberto Pardo
+[SPEAKER_02]  Trabaja en lo que trabaja hoy en día.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  ¡Gracias!
+[SPEAKER_02]  como etcétera, etcétera, todos los que hemos entrevistado.
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_02]  De tal manera que es una secuencia muy interesante.
+[SPEAKER_02]  No sé si alguno tiene alguna pregunta en este momento. Aunque vamos a seguir, claro, Germán. Muchas gracias.
+[SPEAKER_03]  Gracias.
+[SPEAKER_00]  Yo tengo varias.
+[SPEAKER_02]  Dale, dale.
+[SPEAKER_00]  Además que es muy grata la historia y agradezco la narración.
+[SPEAKER_00]  Porque igual, creo que todos encontramos identificaciones en distintos momentos.
+[SPEAKER_00]  A ver...
+[SPEAKER_00]  Ahí...
+[SPEAKER_00]  Ahí en el proceso...
+[SPEAKER_00]  del estudiante.
+[SPEAKER_00]  unos intereses declarados y además
+[SPEAKER_00]  Algunas cosas que parecen azar, pero pues sabemos que no lo son.
+[SPEAKER_00]  Y entonces ese joven Germán Scorcia que está en la Universidad de los Andes y de pronto...
+[SPEAKER_00]  pasa por el departamento de matemáticas casi que de manera casual. Yo lo digo de manera casual porque yo soy residente ahí.
+[SPEAKER_00]  Uno siempre resulta...
+[SPEAKER_00]  pasando de manera casual
+[SPEAKER_00]  Y en algún momento, algo lo enamora.
+[SPEAKER_00]  algo en el moral y
+[SPEAKER_00]  Y se queda en esos sitios donde después va encontrando sus caminos.
+[SPEAKER_03]  Mmm.
+[SPEAKER_00]  hacia donde hoy.
+[SPEAKER_00]  Voy a esquiar.
+[SPEAKER_00]  la distancia
+[SPEAKER_00]  que de alguna manera
+[SPEAKER_00]  Eh.
+[SPEAKER_00]  Toma el joven Scorsese.
+[SPEAKER_00]  del resto de sus compañeros.
+[SPEAKER_00]  Sí.
+[SPEAKER_00]  toma alguna distancia
+[SPEAKER_00]  por motivos además académicos.
+[SPEAKER_00]  Entonces, eso me imagino que...
+[SPEAKER_00]  que alteró
+[SPEAKER_00]  el proceso.
+[SPEAKER_00]  para ubicarme en tiempo solamente para eso ustedes tienen más esa referencia
+[SPEAKER_00]  Mmm.
+[SPEAKER_00]  Pediría, por favor, que si nos puedes ubicar un poquito en años, en fechas. Uno.
+[SPEAKER_00]  Pero además...
+[SPEAKER_00]  Y hacia allá es hacia donde iba mi reflexión.
+[SPEAKER_00]  ¿Nos puedes contar un poco de cómo es esa distancia?
+[SPEAKER_00]  Porque igual, el estudiante también tiene que tomar los cursos de programación, los cálculos.
+[SPEAKER_00]  Y ahí tiene que estar el error.
+[SPEAKER_00]  una relación distinta con sus compañeros.
+[SPEAKER_00]  Pero sin embargo, él que está aquí,
+[SPEAKER_00]  con unos intereses, está en nuestros otros cursos.
+[SPEAKER_00]  ¿Cómo es esa relación con el resto de la comunidad?
+[SPEAKER_00]  de estudiantes.
+[SPEAKER_00]  Porque en últimas, esos son los que resultan haciendo también...
+[SPEAKER_00]  los compañeros en todo el entorno del desarrollo profesional.
+[SPEAKER_01]  Bueno.
+[SPEAKER_01]  Pues es muy interesante, yo creo que...
+[SPEAKER_01]  Esto va como en las series, entonces vamos a ver, entremos en un episodio ahora.
+[SPEAKER_01]  que...
+[SPEAKER_01]  Yo creo que tiene...
+[SPEAKER_01]  para mí, para mi vida profesional, una enorme significación. Y se basa en los antecedentes que tú estás comentando.
+[SPEAKER_01]  fui encontrando espacios en donde...
+[SPEAKER_01]  Claro, había que desarrollar programas y toda clase de cosas.
+[SPEAKER_01]  Pero los temas.
+[SPEAKER_01]  míos eran distintos.
+[SPEAKER_01]  Yo, por ejemplo, empecé a hacer...
+[SPEAKER_01]  cuando había que hacer los primeros cursos de programación de Portran y cosas de ese estilo.
+[SPEAKER_01]  Mis trabajos eran...
+[SPEAKER_01]  en el área de
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  biomedicina.
+[SPEAKER_01]  Yo empezaba ya a hablar de esos temas porque yo había oído hablar en casa.
+[SPEAKER_01]  al doctor Hugo Hennisberg, que era director del departamento de genética allá en la Universidad de Los Andes, y él hablaba de la drosófila, y fue la primera vez que yo oí hablar de ingeniería genética.
+[SPEAKER_01]  Eso no se me borró.
+[SPEAKER_01]  Y entonces cuando teníamos que hacer temas de programación, pues uno podía escoger, o sea, qué problema resolver. Y entonces yo me metía en cosas rarísimas.
+[SPEAKER_01]  especiales.
+[SPEAKER_01]  Y ya les digo que con este tema de los sistemas de información...
+[SPEAKER_01]  Pero poco a poco sí fui.
+[SPEAKER_01]  en forma muy intencional, saliéndome.
+[SPEAKER_01]  ASEAN
+[SPEAKER_01]  el...
+[SPEAKER_01]  El tema de los sistemas de información. O sea, para mí el tema era...
+[SPEAKER_01]  en la carrera de Ingeniería de Sistemas.
+[SPEAKER_01]  Y que...
+[SPEAKER_01]  Dedicarse a programar máquinas.
+[SPEAKER_01]  Era un espacio.
+[SPEAKER_01]  temporal.
+[SPEAKER_01]  Aquí.
+[SPEAKER_01]  La verdadera importancia del tema era entender los sistemas, aprender a diseñarlos, entender las entradas y las salidas de la información, entender las perturbaciones y los procesos difíciles de manejar.
+[SPEAKER_01]  y que a eso metido en el ser humano y las comunidades y las empresas y las organizaciones.
+[SPEAKER_01]  y los ministerios y todas estas cosas.
+[SPEAKER_01]  Todavía le faltaba una enorme cantidad de trabajo de corrección.
+[SPEAKER_01]  Entonces...
+[SPEAKER_01]  Desde muy temprano entendí que el milagro no iban a ser las computadoras.
+[SPEAKER_01]  sino que el milagro iban a ser los diseños de los sistemas.
+[SPEAKER_01]  Sigue siendo.
+[SPEAKER_01]  hoy en día.
+[SPEAKER_01]  Y en estos días que tengo que dar conferencias explicando los temas de inteligencia artificial.
+[SPEAKER_01]  Recordaba yo.
+[SPEAKER_01]  que con las tarjetitas perforadas.
+[SPEAKER_01]  de la KP-29.
+[SPEAKER_01]  programamos en Fortran y una de las cosas que...
+[SPEAKER_01]  con
+[SPEAKER_01]  Con algunos de los compañeros empezamos a...
+[SPEAKER_01]  Me dio jugar un poquito, era un trabajo para aprender Fortran, pero...
+[SPEAKER_01]  Podríamos programar entonces, le enseñamos a...
+[SPEAKER_01]  a jugar.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gato lo llaman aquí en México, como se llama en Colombia.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  tricky
+[SPEAKER_01]  Le enseñamos a jugar triqui al 360 44 de la universidad.
+[SPEAKER_01]  Y entonces...
+[SPEAKER_01]  Poco a poco fuimos entendiendo.
+[SPEAKER_01]  jugando con la computadora.
+[SPEAKER_01]  lo que hoy son los principios de inteligencia artificial. Entonces uso mucho esa metáfora para explicarle a la gente que es lo que está pasando con la inteligencia artificial. Dije, era fácil.
+[SPEAKER_01]  Cuando tú haces tu primera jugada en triki, pones una bolita.
+[SPEAKER_01]  en algún lugar del triqui.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  La computadora ha contestado.
+[SPEAKER_01]  pero a la computadora le habíamos dado la instrucción de que guardara las jugadas, entonces luego lo dijimos en una subrutina.
+[SPEAKER_01]  que guardara las jugadas que conducían a ganar y luego en otra.
+[SPEAKER_01]  todas las que conducían a perder en diferentes categorías y estados de la jugada.
+[SPEAKER_01]  Total que fuimos aprendiendo.
+[SPEAKER_01]  El manejo de información.
+[SPEAKER_01]  Y era lógico lo que nos pasó.
+[SPEAKER_01]  que luego de que la computadora, mientras más entrenamiento recibía porque jugábamos más.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  mayor tasa de aciertos tenía, hasta el punto en que no le pudimos volver a ganar.
+[SPEAKER_01]  porque ya empezábamos a ver sin entender muy bien, honestamente.
+[SPEAKER_01]  pero empezábamos a ver patrones de comportamiento, entonces cuando...
+[SPEAKER_01]  le decíamos a la computadora que escogiera las jugadas que conducían a ganar, pues encontraba patrones de comportamiento y entonces escogía una jugada óptima.
+[SPEAKER_01]  con la cual
+[SPEAKER_01]  vencía a los contrincantes. Entonces casi siempre la computadora ganaba y lo máximo que sacábamos.
+[SPEAKER_01]  Era empate.
+[SPEAKER_01]  Y menciono esto porque tiene que ver con esta cosa que yo...
+[SPEAKER_01]  Quería comentar que me parece supremamente importante, y como este episodio...
+[SPEAKER_01]  que viene ahora.
+[SPEAKER_01]  Entonces...
+[SPEAKER_01]  Y saliendo de la universidad, como les decía, mi primer encargo fue ahí en la administración de Hacienda.
+[SPEAKER_01]  Pero luego...
+[SPEAKER_01]  Una ingeniera brillantísima que dirigía el Departamento de Sistemas del Ministerio de Obras me llamó.
+[SPEAKER_01]  y fui a trabajar.
+[SPEAKER_01]  como
+[SPEAKER_01]  como analista de sistemas allá.
+[SPEAKER_01]  era rudo porque había que...
+[SPEAKER_01]  El ministerio no tenía computador, entonces...
+[SPEAKER_01]  Había que llevar las tarjetas y los programas a la...
+[SPEAKER_01]  computadora delincuente que quedaba por ahí al frente en el Centro Administrativo Nacional.
+[SPEAKER_01]  y
+[SPEAKER_01]  ese tipo de procesos.
+[SPEAKER_01]  me puso muy en contacto con otras realidades.
+[SPEAKER_01]  Ahí aprendí, por ejemplo, que la nómina de los trabajadores del sindicato del ministerio...
+[SPEAKER_01]  Incluían hasta cinco concubinas y sus familias.
+[SPEAKER_01]  negociaciones del sindicato. Entonces cuando uno con su lógica uniandina llegaba a programar un sistema de nómina, dice nombre de la persona, cónyuge, y las prestaciones, entonces esas cosas, dices, wey.
+[SPEAKER_01]  Bueno, güeyes aquí en México, ¿no? Y se va ya, güey.
+[SPEAKER_01]  No es así.
+[SPEAKER_01]  son cinco con sus familias y no sé qué más, y bueno, todas esas cosas, entonces se perdían. Había que ir a llevar los cheques hasta las obras, entonces ¿qué hace el trabajador con un cheque por ahí metido en la mitad? Ahí entendían, eso no puede ser así, ¿cómo les estamos mandando cheques impresos? Yo muy orgulloso, a las tres de la mañana mandaban una camioneta del ministerio que me recogiera a la casa porque ya iban a salir los cheques.
+[SPEAKER_01]  Yo tenía que estar presente junto con un guarda porque eran...
+[SPEAKER_01]  Impresos en...
+[SPEAKER_01]  Cosas de seguridad.
+[SPEAKER_01]  Y empezaban a salir todos esos cheques y yo decía, y luego agarrar una camioneta, ir hasta el distrito de obras, en no sé dónde, me tocó una vez en Quebrada Blanca o qué sé yo.
+[SPEAKER_01]  sufrido aquellos problemas y todas esas cosas. Entonces yo decía, este tipo acá con un cheque.
+[SPEAKER_01]  Estamos haciéndole un mal.
+[SPEAKER_01]  antes nos recibían los cheques y todas esas cosas. Entonces, había cosas muy interesantes que yo veía y hice.
+[SPEAKER_01]  Esto hay que arreglar.
+[SPEAKER_01]  Esto no puede seguir siendo así.
+[SPEAKER_01]  Así que mucho de todas esas cosas cambiaron. Y estaba metido en esos rollos cuando me llamaron de conciencias.
+[SPEAKER_01]  que el director que yo había conocido se retiraba, se iba a un cargo en la OEA.
+[SPEAKER_01]  y
+[SPEAKER_01]  me ofrecían a mí la posición. Entonces, inmediatamente acepté sin preguntar.
+[SPEAKER_01]  ¿Cuándo puedo empezar? Y si yo ya empecé, señor.
+[SPEAKER_01]  Yo ya estoy trabajando aquí.
+[SPEAKER_01]  Lo siguiente que estoy oyendo de usted es...
+[SPEAKER_01]  Estoy oyendo a mi jefe.
+[SPEAKER_01]  Le dio risa.
+[SPEAKER_01]  Me dijo, a ver, te voy a hacer un examen, te voy a dar estos libros que son de política científica.
+[SPEAKER_01]  Léetelos y regresas conmigo pasado mañana y te hago un examen.
+[SPEAKER_01]  Te voy a hacer muchas preguntas duras sobre todo eso.
+[SPEAKER_01]  Ustedes no se imaginan cómo estudié yo.
+[SPEAKER_01]  Toda la política científica desde Mario Bunge.
+[SPEAKER_01]  todo, todo, todo, todo en estas cosas
+[SPEAKER_01]  Y encontrábamos.
+[SPEAKER_01]  Mi viejo problema que yo había identificado desde el principio que era...
+[SPEAKER_01]  que la investigación científica estaba muy mal alimentada en Colombia por la información.
+[SPEAKER_01]  Y yo soñaba con conectar, porque habíamos visto esas cosas en la universidad.
+[SPEAKER_01]  Dice, pero ¿por qué la biblioteca de la Universidad Nacional?
+[SPEAKER_01]  no está conectada con la de la UIS en Bucaramanga.
+[SPEAKER_01]  No había conexiones.
+[SPEAKER_01]  No había tecnología para eso.
+[SPEAKER_01]  Pero simplemente dice, no se hablan.
+[SPEAKER_01]  Entonces, creamos un proyecto que lo promovía la OEA, que se llamó el proyecto de préstamo interbibliotecario.
+[SPEAKER_01]  Conseguí fondos de las Naciones Unidas, ahí empecé la primera vez a negociar fondos financieros.
+[SPEAKER_01]  y
+[SPEAKER_01]  Creamos un programa.
+[SPEAKER_01]  de préstamos interbibliotecarios, donde unas camionetas...
+[SPEAKER_01]  de las Naciones Unidas administradas por Colciencias.
+[SPEAKER_01]  iban de biblioteca en biblioteca dejando y recibiendo libros para que el usario de una biblioteca
+[SPEAKER_01]  en el CIAT en Palmira.
+[SPEAKER_01]  o de la Universidad de Los Andes.
+[SPEAKER_01]  si pudiera leer un libro que no estaba en los Andes, pero que estaba en la nacional.
+[SPEAKER_01]  Ese era el mecanismo, era complejo, con papeles.
+[SPEAKER_01]  una cosa difícil y ya empezábamos a pensar en esto.
+[SPEAKER_01]  Ese capítulo lo cierro años más tarde.
+[SPEAKER_01]  María Consuelo Franqui, compañera de la universidad.
+[SPEAKER_01]  programó
+[SPEAKER_01]  Una cosa que llamamos el formato común de comunicaciones.
+[SPEAKER_01]  que se volvió un estándar internacional mundial por la UNESCO, la consultoría la hizo para Conciencias María Consuelo, y el resultado de esa consultoría lo mandamos a París, y se generó un estándar internacional para intercambio de referencias bibliográficas entre todas las bibliotecas del mundo.
+[SPEAKER_01]  O sea, no fue trivial, fue una cosa interesante.
+[SPEAKER_01]  Eso dio origen a una cosa que se llamó el Sistema Nacional de Información.
+[SPEAKER_01]  El SNI.
+[SPEAKER_01]  que tenía varios subsistemas, el subsistema de todas las bibliotecas y centros de documentación.
+[SPEAKER_01]  de energía, de agricultura, de salud, de educación. Teníamos siete subsistemas.
+[SPEAKER_01]  Y en los subsistemas intentábamos conectar entre sí todas estas cosas.
+[SPEAKER_01]  era lógico que apareciera.
+[SPEAKER_01]  las primeras necesidades de telecomunicar unos con otros.
+[SPEAKER_01]  Entonces estuve en los primeros experimentos.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  de usar modems
+[SPEAKER_01]  y los pequeños intentos de comunicación entre universidades para intercambiar referencias bibliográficas de los libros.
+[SPEAKER_01]  Y eso en conciencias fue tomando fuerza, el sistema nacional de información se volvió muy importante.
+[SPEAKER_01]  Y empezó la administración. Y aquí viene un punto que a mí me parece que fue muy, muy importante para la vida.
+[SPEAKER_01]  de esta profesión y de estos temas en Colombia, no solamente la profesión como tal.
+[SPEAKER_01]  Pero la vida de estos temas.
+[SPEAKER_01]  Y es que...
+[SPEAKER_01]  casi como relatando el episodio, digo yo.
+[SPEAKER_01]  Miren.
+[SPEAKER_01]  con la mano apoyada ahí en el pincel de la puerta.
+[SPEAKER_01]  hablaba
+[SPEAKER_01]  Jan Jack Servanis Kruijder
+[SPEAKER_01]  Político y escritor francés muy famoso, amigo del presidente.
+[SPEAKER_01]  aquella época que estaba empezando su mandato.
+[SPEAKER_01]  el doctor Belisario de Tancura. A mí no me caía muy bien porque en aquella época Colombia era muy sencilla la política, o eres conservador o eres liberal.
+[SPEAKER_01]  Y yo no quería ser conservador entonces.
+[SPEAKER_01]  un poco era tan liberal pero...
+[SPEAKER_01]  Pero...
+[SPEAKER_01]  No era tan amigo del presidente, pero...
+[SPEAKER_01]  Empezamos a hacer...
+[SPEAKER_01]  ese tema.
+[SPEAKER_01]  de que la llegada de la informática era importante.
+[SPEAKER_01]  Jan Klatsch, hermano escriber, le dijo al presidente esto.
+[SPEAKER_01]  Tengo grabado a fuego.
+[SPEAKER_01]  presidente.
+[SPEAKER_01]  ¿Para qué correr?
+[SPEAKER_01]  a subirse en el último vagón de un tren que ya está llegando a su destino.
+[SPEAKER_01]  que es la industrialización.
+[SPEAKER_01]  en vez de tomar asiento de primera.
+[SPEAKER_01]  en un tren.
+[SPEAKER_01]  que está al partir.
+[SPEAKER_01]  la informática.
+[SPEAKER_01]  cambie la dirección de las inversiones del país.
+[SPEAKER_01]  Eso dicho ahí...
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Sala en la presidencia de la República.
+[SPEAKER_01]  la oficina del presidente.
+[SPEAKER_01]  Este...
+[SPEAKER_01]  podría no haber tenido ninguna repercusión.
+[SPEAKER_02] 
+[SPEAKER_01]  ¿Pero qué creen, el presidente, que era poeta y literato?
+[SPEAKER_01]  Entendió perfecto.
+[SPEAKER_01]  Y tomo acción.
+[SPEAKER_01]  acciones.
+[SPEAKER_01]  muy importantes en aquel momento.
+[SPEAKER_01]  La primera.
+[SPEAKER_01]  creó el Consejo Nacional de Recursos Humanos e Informática. Ojo el orden de las palabras.
+[SPEAKER_01]  Fuimos muy cuidadosos en eso. Yo estaba de asesor porque estaba en conciencias, entonces era asesor.
+[SPEAKER_01]  de ciencia y tecnología en la presidencia.
+[SPEAKER_01]  se creó
+[SPEAKER_01]  El...
+[SPEAKER_01]  Pero antes de ver qué resultó, déjenme continuar con este...
+[SPEAKER_01]  episodio de lo que pasó.
+[SPEAKER_01]  Entonces, Serván Escrivá le dijo eso.
+[SPEAKER_01]  Serván Escriber había escrito dos libros de profecías.
+[SPEAKER_01]  Uno era el libro que se llamó Desafío Mundial, de Diffie Mundial.
+[SPEAKER_01]  y otro que se llamaba
+[SPEAKER_01]  El desafío americano.
+[SPEAKER_01]  pronosticaron allí la crisis del petróleo, los cambios en la tecnología, los grandes cataclismos en las economías que habría en aquella época.
+[SPEAKER_01]  Todo eso.
+[SPEAKER_01]  Así que en realidad...
+[SPEAKER_01]  Me parece que...
+[SPEAKER_01]  que eso fue muy interesante.
+[SPEAKER_01]  Y él le dijo al presidente...
+[SPEAKER_01]  Vengo acompañado de dos amigos.
+[SPEAKER_01]  1
+[SPEAKER_01]  que lo presentó como Nicolás Negroponte. Dice, esto es un loquito.
+[SPEAKER_01]  que trabaja con...
+[SPEAKER_01]  Vivo en París, en una cosa que se llama el Centro Mundial de la Informática.
+[SPEAKER_01]  Lo.
+[SPEAKER_01]  Y este...
+[SPEAKER_01]  Cree.
+[SPEAKER_01]  Igual que yo, que el tema de la informática va a darle la vuelta al mundo.
+[SPEAKER_01]  Y que...
+[SPEAKER_01]  vamos a tener que tomar acciones económicas y educativas.
+[SPEAKER_01]  muy trascendentales para los próximos años.
+[SPEAKER_01]  Entonces él está trabajando en eso.
+[SPEAKER_01]  Hablan de una cosa rara estos señores
+[SPEAKER_01]  que la llaman ellos inteligencia artificial.
+[SPEAKER_01]  Esto fue...
+[SPEAKER_01]  el 22 de noviembre de 1982.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Y él presentó a un cuate.
+[SPEAKER_01]  que venía con él.
+[SPEAKER_01]  y
+[SPEAKER_01]  de nombre Seymour Papert.
+[SPEAKER_01]  hoy considerado.
+[SPEAKER_01]  uno de los verdaderos padres de la inteligencia artificial. Él era el director.
+[SPEAKER_01]  del programa de inteligencia artificial del MIT.
+[SPEAKER_01]  en aquel momento.
+[SPEAKER_01]  Y comparto con todos los que nos seguirán en esta grabación cosas prodigiosas que yo escuché.
+[SPEAKER_01]  Esatán.
+[SPEAKER_01]  dijo
+[SPEAKER_01]  Negroponte.
+[SPEAKER_01]  presidente.
+[SPEAKER_01]  Nos estamos moviendo.
+[SPEAKER_01]  de una civilización.
+[SPEAKER_01]  basada en átomos.
+[SPEAKER_01]  a una civilización basada en bits.
+[SPEAKER_01]  y la economía.
+[SPEAKER_01]  está pasando de ser una economía basada.
+[SPEAKER_01]  en la extracción de materias primas del territorio.
+[SPEAKER_01]  a una economía basada en la economía de los años 70.
+[SPEAKER_01]  en el aprovechamiento de la materia gris.
+[SPEAKER_01]  residente en personas.
+[SPEAKER_01]  Para que me entienda, nos movemos de átomos a bits.
+[SPEAKER_01]  y la economía se está moviendo del territorio.
+[SPEAKER_01]  a la mente.
+[SPEAKER_01]  ¿Dónde poner el dinero cuando es escaso?
+[SPEAKER_01]  prodigioso.
+[SPEAKER_01]  O sea, si yo hubiera sido jefe de Estado, igual me quedo.
+[SPEAKER_01]  En aquel momento...
+[SPEAKER_01]  con la cosa
+[SPEAKER_01]  Muy claro.
+[SPEAKER_01]  Hay una manito encendida, no sé si fui yo.
+[SPEAKER_03]  Chau.
+[SPEAKER_01]  Y la tuya.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  y
+[SPEAKER_01]  Y él dijo, pero yo no estoy loco, el que es loco es este que está aquí al lado mío.
+[SPEAKER_01]  que es simorfato.
+[SPEAKER_01]  Y escuché dos cosas, muchas, ¿no?
+[SPEAKER_01]  Tenemos tiempo limitado.
+[SPEAKER_01]  Pero esto es importante.
+[SPEAKER_01]  Dijo papá.
+[SPEAKER_01]  El problema principal con la tecnología.
+[SPEAKER_01]  radica en el aprendizaje.
+[SPEAKER_01]  Y para que me entiendan, el aprendizaje solo acontece.
+[SPEAKER_01]  por
+[SPEAKER_01]  Curiosidad.
+[SPEAKER_01]  Exploración.
+[SPEAKER_01]  y descubrimiento.
+[SPEAKER_01]  Los sistemas educativos están diseñados.
+[SPEAKER_01]  para que lo primero que hacen es darle la respuesta al individuo y luego calificársela si es correcta o no.
+[SPEAKER_01]  e inhiben todo el proceso que realmente conduce al aprender, que es...
+[SPEAKER_01]  La exploración, el descubrimiento y la curiosidad.
+[SPEAKER_01]  nos dice que es una enfermedad planetaria.
+[SPEAKER_01]  que nos costará mucho.
+[SPEAKER_01]  Erradicar.
+[SPEAKER_01]  ¿Se será peor?
+[SPEAKER_01]  que muchas, como estaba en Colombia, dijo, mencionó.
+[SPEAKER_01]  a la malaria porque conocía a Manuel Elkin Patarrocha.
+[SPEAKER_01]  Dijo también cosas como esta.
+[SPEAKER_01]  Lejos, miren.
+[SPEAKER_01]  Los niños deben aprender.
+[SPEAKER_01]  Lenguajes de programación.
+[SPEAKER_01]  de la misma manera que aprenden lenguajes naturales.
+[SPEAKER_01]  Porque en 30 años van a vivir escenarios dominados por la inteligencia artificial.
+[SPEAKER_01]  Era casi inentendible esta frase.
+[SPEAKER_01]  en 1982.
+[SPEAKER_01]  Hoy todos entendemos lo que nos pasó.
+[SPEAKER_01]  Y si se hubiera hecho caso, seríamos una potencia mundial. Porque la mayoría de toda la civilización...
+[SPEAKER_01]  Desde esa época hasta acá.
+[SPEAKER_01]  hubiese aprendido inteligencia artificial en la escuela.
+[SPEAKER_01]  ¿Por qué?
+[SPEAKER_01]  Él había diseñado un lenguaje de programación.
+[SPEAKER_01]  Basado en Lisboa.
+[SPEAKER_01]  que se llamó LOGO, que era el primer lenguaje de inteligencia artificial para niños.
+[SPEAKER_01]  Ya lo llevamos a Colombia.
+[SPEAKER_01]  Y entonces el...
+[SPEAKER_01]  Proponía.
+[SPEAKER_01]  que los niños lo que tenían era que aprender a pensar.
+[SPEAKER_01]  y que la mejor manera de aprender a pensar era...
+[SPEAKER_01]  darle instrucciones.
+[SPEAKER_01]  a un objeto que no sabía nada.
+[SPEAKER_01]  Entonces, que en vez de repetir la lección del maestro, el niño lo que tenía que hacer era enseñarle.
+[SPEAKER_01]  a un objeto.
+[SPEAKER_01]  y con pocos comandos, cuatro o seis, seis comandos, arriba, abajo, izquierda, derecha, giros, izquierda, derecha.
+[SPEAKER_01]  los niños aprendían a programar objetos.
+[SPEAKER_01]  a darles instrucciones.
+[SPEAKER_01]  Y aprendían a pensar.
+[SPEAKER_01]  Muy importante esto, muy importante.
+[SPEAKER_01]  porque todavía tenemos tiempo.
+[SPEAKER_01]  Pero hay que hacer la tarea, que la tenemos dibujada.
+[SPEAKER_01]  Desde el año 82.
+[SPEAKER_01]  Pasó como en los circos.
+[SPEAKER_01]  Ese...
+[SPEAKER_01]  Esa misión de MIT.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  se llevó al enano. Entonces yo me fui con los cuatro de Maipi.
+[SPEAKER_01]  Fue muy interesante, cada hora, cada minuto, cada cosa era supremamente interesante.
+[SPEAKER_01]  Tendría muchas frases que compartir con ustedes.
+[SPEAKER_01]  de cosas
+[SPEAKER_01]  magníficas que pensaba
+[SPEAKER_01]  estos amigos en aquella época.
+[SPEAKER_01]  Años después ellos crearon el Media Lab en MIT, muy famoso.
+[SPEAKER_01]  Y este...
+[SPEAKER_01]  Y años después...
+[SPEAKER_01]  Y hoy se les reconoce que fueron los que entendieron para dónde iba el tema de la inteligencia artificial y que sería un tema dominante en toda la humanidad.
+[SPEAKER_01]  Serio.
+[SPEAKER_01]  Esto no fue...
+[SPEAKER_01]  jugando.
+[SPEAKER_01]  Ahí les regreso a donde estábamos. El presidente entendió y empezó a tomar acciones.
+[SPEAKER_01]  Tomamos cinco.
+[SPEAKER_01]  Muchas, pero...
+[SPEAKER_01]  Cinco que yo recuerdo muy bien, acciones importantes. La primera, les había dicho, la creación del Consejo Nacional de Recursos Humanos e Informática.
+[SPEAKER_01]  Designó al expresidente Pastrana para dirigir ese consejo, llamó muchos ministros y exministros y altas autoridades.
+[SPEAKER_01]  Serván Schreiber le dijo pon la gente de más alto nivel del país.
+[SPEAKER_01]  aquí.
+[SPEAKER_01]  porque este es otro país el que vas a construir.
+[SPEAKER_01]  Creamos.
+[SPEAKER_01]  la Secretaría de Informática de la Presidencia de la República.
+[SPEAKER_01]  de mi puño y letra, no tenía nada. Acuérdense que las máquinas en aquella época eran...
+[SPEAKER_01]  de esferita.
+[SPEAKER_01]  Y entonces siempre estaban ocupadas, así que a mano escribimos el decreto que crea.
+[SPEAKER_01]  la Secretaría de Informática de la Presidencia de la República.
+[SPEAKER_01]  la dirigió, tal vez Manuel se acuerde, se me escapó el nombre en ese momento. Jorge Félix.
+[SPEAKER_01]  Antes, el rector de la universidad...
+[SPEAKER_01]  es afito.
+[SPEAKER_01]  de Medellín.
+[SPEAKER_01]  Se lo trajo el presidente porque era amigo de él.
+[SPEAKER_01]  y lo trajo como presidente de la...
+[SPEAKER_01]  de la Secretaría de Informática. Se crearon...
+[SPEAKER_01]  los centros públicos de acceso a informática en las cámaras de comercio que tenían oficinas muy centrales en todas las ciudades del país y en el primer piso donde la gente hacía los trámites.
+[SPEAKER_01]  había mucho tráfico de personas, entonces ahí pusimos los centros de acceso a la informática.
+[SPEAKER_01]  Nos conseguimos una donación de Apple IIi que acababan de salir, o sea, era una donación de no máquinas viejas, sino de recién salidas.
+[SPEAKER_01]  y algunas IBMs PCS y con eso...
+[SPEAKER_01]  En el caso de Bogotá, le enseñamos a los gamines.
+[SPEAKER_01]  Ah.
+[SPEAKER_01]  no robarse las máquinas, sino a cuidarlas.
+[SPEAKER_01]  Y luego con un truco del doctor Pappert, que ya lo había aplicado él en Boston, les enseñó a los gamines a decir, oiga, la encargada se enfermó y no puede venir hoy, ¿tú puedes dar la clase y atender a los que van a llegar?
+[SPEAKER_01]  Entonces los ganines daban la clase de cómo usar las computadoras.
+[SPEAKER_01]  en las cámaras de comercio.
+[SPEAKER_01]  Creamos también un programa de becas, yo mismo fui a ver las principales embajadas de...
+[SPEAKER_01]  de los
+[SPEAKER_01]  principales gobiernos en Colombia.
+[SPEAKER_01]  para pedirles becas.
+[SPEAKER_01]  sobre informática, ingeniería de sistemas y todas estas cosas para el desarrollo de este tema en el país.
+[SPEAKER_01]  Se arruinó un poco todo este asunto.
+[SPEAKER_01]  porque poco tiempo después apareció la...
+[SPEAKER_01]  toma del Palacio de Justicia.
+[SPEAKER_01]  La tragedia del volcán nevado.
+[SPEAKER_03]  Sí.
+[SPEAKER_01]  del Ruiz Conarguero
+[SPEAKER_03]  Sí.
+[SPEAKER_01]  5 y 11 de noviembre.
+[SPEAKER_03]  5 y 11 de noviembre.
+[SPEAKER_01]  descompuso mucho todo eso.
+[SPEAKER_01]  Aún así,
+[SPEAKER_01] 
+[SPEAKER_01]  me propusieron ser el director del secretario de informática.
+[SPEAKER_01]  Amén.
+[SPEAKER_01]  Apoyó esa moción Ernesto Lleras que le pidieron.
+[SPEAKER_01]  Una recomendación de la presidencia.
+[SPEAKER_01]  Pero...
+[SPEAKER_01]  Yo acababa de aceptar.
+[SPEAKER_01]  O sea, me gané un premio internacional.
+[SPEAKER_01]  que
+[SPEAKER_01]  de ciencias.
+[SPEAKER_01]  del IBRC, del International Development Research Center de Canadá, con el Parlamento de Canadá.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Pues no era cambiable.
+[SPEAKER_01]  Esa distinción de recibir un premio por dos años e ir a trabajar con un...
+[SPEAKER_01]  la persona que más sabía en el mundo sobre los temas que yo estaba investigando.
+[SPEAKER_01]  y ponerse a trabajar en la presidencia de la República. Entonces no pude aceptar, vino Jorge Phillips, hizo un trabajo magnífico, una persona con profundísimo conocimiento del tema y del sector.
+[SPEAKER_01] 
+[SPEAKER_01]  Y eso siguió ese rumbo que luego dio paso años después.
+[SPEAKER_01]  a cosas como la agenda nacional.
+[SPEAKER_01]  digital o la agenda de conectividad y varios tipos de procesos nacionales.
+[SPEAKER_01]  relacionados con estos temas.
+[SPEAKER_01]  Tal vez sea interesante mencionar.
+[SPEAKER_01]  que
+[SPEAKER_01]  terminando la universidad.
+[SPEAKER_01]  surgió algo también muy prodigioso.
+[SPEAKER_01]  Estaba aquí acompañándonos Beatriz Caicedo.
+[SPEAKER_01]  de Asís, pero
+[SPEAKER_01]  yo escribí de puño y letra de nuevo porque no teníamos acceso.
+[SPEAKER_01]  Con la manito.
+[SPEAKER_01]  los estatutos para crear asistencia.
+[SPEAKER_01]  la Asociación Colombiana de Ingenieros de Sistemas.
+[SPEAKER_01]  Fue muy interesante.
+[SPEAKER_01]  porque era una combinación de...
+[SPEAKER_01]  grandes
+[SPEAKER_01]  de los egresados que menciona Manuel, que nos habían antecedido a nosotros, que ya eran...
+[SPEAKER_01]  ingenieros graduados y estaban desempeñando posiciones altísimas.
+[SPEAKER_01]  y un equipito de estudiantes patojos como nosotros que arrastrábamos el lápiz y entonces ayudábamos, yo mismo ayudé, como ya sabía redactar en tono de resolución.
+[SPEAKER_01]  este
+[SPEAKER_01]  ayudé a hacer mucho los estatutos y todas estas cosas.
+[SPEAKER_01]  Así que...
+[SPEAKER_01]  No estoy en el acta de fundadores de ASIS por una curiosidad.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Ah, caramba.
+[SPEAKER_01]  Llegué a la biblioteca Luis Ángel Arango, que fue donde se creó.
+[SPEAKER_01]  donde se firmaron los estatutos.
+[SPEAKER_01]  Y...
+[SPEAKER_01]  Estaban pidiendo una cuota de algo, una cuota de ingreso, una cosa así. Y yo ese día no tenía un peso.
+[SPEAKER_01]  Y me dio vergüenza ir a pedir dinero, entonces me devolví.
+[SPEAKER_04]  Ajá, ajá.
+[SPEAKER_01]  Pero no importa.
+[SPEAKER_01]  De ahí en adelante pasaron cosas.
+[SPEAKER_01]  extraordinarias con Asís.
+[SPEAKER_02]  Hermano, hermano, hay un par de chiquitos, mira.
+[SPEAKER_01]  El mal.
+[SPEAKER_01]  Adelante.
+[SPEAKER_02]  Yo terminé en un grupo que se llama la historia de la computación latinoamericana.
+[SPEAKER_02]  a raíz del programa de la historia de la convocación colombiana y cosas que lo llaman a uno.
+[SPEAKER_02]  He ido varias veces a Brasil y a Argentina, he presentado historias de nosotros.
+[SPEAKER_02]  Y el año pasado intentamos, iniciamos a escribir la historia de Asís.
+[SPEAKER_02]  te recomiendo
+[SPEAKER_02]  lo que tú puedas.
+[SPEAKER_02]  compartirme
+[SPEAKER_02]  Sí, porque seguramente el otro año vamos a ir al evento internacional.
+[SPEAKER_02]  Y queremos presentar la historia de Asil. Yo la tengo escrita, ya nos reunimos con...
+[SPEAKER_02]  con los que iniciaron, tú contigo no estabas, pero...
+[SPEAKER_02]  Te dejo esa recomendación.
+[SPEAKER_02]  porque es muy importante.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Sí, sí.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01] 
+[SPEAKER_02]  hermano
+[SPEAKER_01]  Y es muy valiosa, yo creo.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  un poquito antes del inicio formal de la sesión antes en cámaras.
+[SPEAKER_01]  Estábamos hablando con Beatriz de cosas que ahora voy a relatar justamente porque...
+[SPEAKER_01] 
+[SPEAKER_01]  fueron creando convergencias en el tiempo.
+[SPEAKER_01]  Entonces, existía ASIS y ya yo había ayudado.
+[SPEAKER_01]  Como me gustaba tanto la parte académica por estar en conciencias y todo eso, entonces empecé a dirigir el salón de informática, que se llamaba así en aquel tiempo, que se hacía en corferias y todas esas cosas. Hubo algunas sesiones que fueron prodigiosas también, extraordinarias.
+[SPEAKER_01]  en todo esto.
+[SPEAKER_01]  Y quiero relatar dos nada más en este momento porque es una historia que pudiera ser...
+[SPEAKER_01]  realmente importante y muy larga, pero hay dos que sí conectan muy bien con esto.
+[SPEAKER_01]  La primera es que...
+[SPEAKER_01]  Empezó a generarse un ambiente político y apareció una cosa en el escenario que se llamaba el Instituto Iberoamericano de Informática.
+[SPEAKER_01]  que creaba un seminario que se llamaba el Seminario de Autoridades Latinoamericanas en Informática.
+[SPEAKER_01]  O...
+[SPEAKER_01]  y
+[SPEAKER_01]  Para preparar esas cosas propuse a Asís la creación de un seminario que se llamó
+[SPEAKER_01]  Ingeniería de sistemas y problemas nacionales.
+[SPEAKER_01]  hicimos varias ediciones. No duró mucho, pero fue muy importante.
+[SPEAKER_01]  La primera.
+[SPEAKER_01]  fue informática y libertad.
+[SPEAKER_01]  Para los ingenieros de sistemas esto era un poco exótico, ¿no?
+[SPEAKER_01]  Informática y libertad.
+[SPEAKER_01]  Luego yo metí otro tema que se llamaba informática y flujos transfronterizos de datos.
+[SPEAKER_01]  informática y empleo.
+[SPEAKER_01]  informática y satélites, informática y aprendizaje. Y así fuimos llevando temas.
+[SPEAKER_01]  Y resulta que, por los ambientes políticos...
+[SPEAKER_01]  había aparecido
+[SPEAKER_01]  una cosa que se llamó el Club de Cali.
+[SPEAKER_01]  que lo presidía Carlos Andrés Pérez, pero haya sido creado en Colombia.
+[SPEAKER_01]  el expresidente de Venezuela.
+[SPEAKER_01]  Y entonces el club se reunía.
+[SPEAKER_01]  y trabajaban estos temas de alto nivel.
+[SPEAKER_01]  con todos estos asuntos.
+[SPEAKER_01]  Entonces, por primera vez empezó a aparecer.
+[SPEAKER_01]  El tema de...
+[SPEAKER_01]  que la ingeniería de sistemas estaba vinculada no solamente a grandes problemas nacionales.
+[SPEAKER_01]  sino a grandes problemas.
+[SPEAKER_01]  mundiales importantes.
+[SPEAKER_01]  Informática y soberanía, por ejemplo, se llevó tres sesiones, fue una cosa supremamente dura de manejar y ya era visible, eso originó el siguiente tema que fue...
+[SPEAKER_01]  flujos transfronterizos de datos.
+[SPEAKER_01]  porque había asistido un amigo mío, un amigo mío, no, era una persona que conocía de la Cancillería.
+[SPEAKER_01]  que había estado en las Naciones Unidas tratando el tema de flujos transfronterizos de ASOX y lo presentó en ASIS.
+[SPEAKER_01]  etcétera, fuimos moviendo esos temas
+[SPEAKER_01]  Y entonces empiezas a encontrar.
+[SPEAKER_01]  que esta profesión tenía mucho que ver con la libertad, con la soberanía, con el territorio, con la mente, con un montón de otras cosas. Que el asunto no eran las computadoras nada más.
+[SPEAKER_01]  Obviamente te amparas en la potencia de estas máquinas.
+[SPEAKER_01]  para los nuevos desarrollos que había, pero que estaban pegándole ya a otros temas. Entonces, yo creo que ahí se generó una dimensión política.
+[SPEAKER_01]  que no teníamos y que no tenían las universidades en aquel momento.
+[SPEAKER_01]  sobre el impacto de estas nuevas tecnologías en la sociedad, en la humanidad.
+[SPEAKER_01]  Y eso se volvió realmente muy importante.
+[SPEAKER_01]  Déjenme decir que...
+[SPEAKER_01]  que...
+[SPEAKER_01]  Después de esa sesión con el doctor Paper y todo eso.
+[SPEAKER_01]  Yo me fui a trabajar, como les dije, porque...
+[SPEAKER_01]  Tuve un extraordinario privilegio.
+[SPEAKER_01]  que fue ganarme ese premio, ya desapareció, era insostenible.
+[SPEAKER_01]  del IDOC y del Parlamento de Canadá.
+[SPEAKER_01]  que consistía en que te vas dos años a trabajar con el mejor científico del mundo.
+[SPEAKER_01]  en el tema que tú estás investigando.
+[SPEAKER_01]  Todo pagado, con mi familia, con todas esas cosas. Entonces ellos encontraron que en la Universidad de Waterloo...
+[SPEAKER_01]  había uno de los desarrollos más avanzados en los temas que yo estaba estudiando en ese momento, que era...
+[SPEAKER_01] 
+[SPEAKER_01]  Un tema que había aprendido en París.
+[SPEAKER_01]  que era el de
+[SPEAKER_01]  Mmm.
+[SPEAKER_01]  Tecnología.
+[SPEAKER_01]  para utilizar el intervalo de blanqueo vertical de la señal de televisión para transmitir datos digitales. Entonces la propuesta era muy sencilla.
+[SPEAKER_01]  Si ya tenemos una infraestructura mundial pagada para emitir y recibir señal de televisión.
+[SPEAKER_01]  Y tú le puedes inyectar señal digital, podemos convertir.
+[SPEAKER_01]  Cada televisor.
+[SPEAKER_01]  instalado
+[SPEAKER_01]  en una terminal de computadora para propósitos educativos, que era lo que yo empujaba.
+[SPEAKER_01]  propósitos educativos y científicos.
+[SPEAKER_01]  Ganó después el entretenimiento.
+[SPEAKER_01]  Y se desató una carrera.
+[SPEAKER_01]  Entre esa apuesta...
+[SPEAKER_01]  y las computadoras personales.
+[SPEAKER_01]  Debo declarar que yo empujaba.
+[SPEAKER_01]  fuertemente por la apuesta de
+[SPEAKER_01]  utilizar la infraestructura instalada y pagada ya en televisión.
+[SPEAKER_01]  y que no nos costaba nada inyectar las señales de televisión, las señales digitales, porque el intervalo de bloqueo digital...
+[SPEAKER_01]  no se estaba utilizando.
+[SPEAKER_01]  Eso me ganó el premio.
+[SPEAKER_01]  concursé con candidatos de toda América Latina.
+[SPEAKER_01]  Estaba concursando el secretario de informática de la presidencia de la república. Cuando yo llegué al examen...
+[SPEAKER_01]  Y lo vi.
+[SPEAKER_01]  Lo conocía porque había ido a visitarlo.
+[SPEAKER_01]  Dije, pues ya estoy perdido.
+[SPEAKER_01]  porque no le gano al secretario de informática de la presidencia del Brasil.
+[SPEAKER_00]  No le ganó.
+[SPEAKER_01]  Y resulta que él presentó examen primero que yo y salió diciendo...
+[SPEAKER_01]  No voy.
+[SPEAKER_01]  No soy tan bueno en inglés como yo creía y pedí traductor y fue un desastre mi presentación.
+[SPEAKER_01]  Entonces cuando él me dijo eso, dije, entonces a ver.
+[SPEAKER_01]  Me voy a lucir y eché el examen, gané.
+[SPEAKER_01]  Me mandaron al concurso mundial.
+[SPEAKER_01]  Gané el concurso mundial y fui a dar a Canadá.
+[SPEAKER_01]  a trabajar con el doctor Frank Tompa, que en ese momento estaba dirigiendo un proyecto.
+[SPEAKER_01]  que se llamaba el New English Oxford Dictionary.
+[SPEAKER_01]  Que era...
+[SPEAKER_01]  volver a compilar todo el diccionario de la lengua inglesa.
+[SPEAKER_01]  pero con algoritmos.
+[SPEAKER_01]  que conectaban entre sí los términos. Entonces, todo lo que hoy conocemos como tesaurus dinámico, conectado y todas esas cosas, eran bases en aquel momento.
+[SPEAKER_01]  Pero aquello fue un prodigio. En el corredor...
+[SPEAKER_01]  donde estaba mi oficina.
+[SPEAKER_01]  estaba la oficina de Johnny Wong.
+[SPEAKER_01]  que había inventado
+[SPEAKER_01]  el concepto de token ring.
+[SPEAKER_01]  Y más adelantito estaba el doctor Larson, que había diseñado el sistema de la cabeza retráctil para leer los discos duros de la época.
+[SPEAKER_01]  en aquel momento, ¿no? Entonces...
+[SPEAKER_01]  Eran algunas autoridades. ¿Por qué era importante esa universidad? Porque nosotros en los Andes habíamos aprendido a programar en Fortran.
+[SPEAKER_01]  con una versión que se llamaba el Watford.
+[SPEAKER_01]  Iwat Forera
+[SPEAKER_01]  Fortran de la Universidad de Waterloo.
+[SPEAKER_01]  Era muy curioso. Entonces yo estaba allá en Waterloo.
+[SPEAKER_01]  ¿Y qué me encuentro?
+[SPEAKER_01]  que en el museo tenían una 360-44.
+[SPEAKER_01]  que era hermana de una que ellos tenían.
+[SPEAKER_01]  y que la habían...
+[SPEAKER_01]  negociado.
+[SPEAKER_01]  con una universidad en Suramérica.
+[SPEAKER_01]  que se llamaba la Universidad de Los Ángeles.
+[SPEAKER_01]  Esto resulta que terminé.
+[SPEAKER_01]  viendo allá a la máquina hermana donde habíamos estudiado.
+[SPEAKER_01]  y que nosotros habíamos aprendido.
+[SPEAKER_01]  a compilar
+[SPEAKER_01]  Fortran.
+[SPEAKER_01]  con el compilador diseñado en la Universidad de Waterloo.
+[SPEAKER_01]  Ese proyecto tuvo una importancia que fue...
+[SPEAKER_01]  que muchas de las primeras aplicaciones de las computadoras empezaron a tener...
+[SPEAKER_01]  Foco en cómo aprender. Entonces muchos de los software que empezaron a salir, los primeros programas eran para...
+[SPEAKER_01]  dirigirse a educar.
+[SPEAKER_01]  Podemos cerrar este episodio simplemente diciendo que...
+[SPEAKER_01]  En paralelo nos empezamos a dar cuenta.
+[SPEAKER_01]  de que el asunto no era ingeniero de sistemas.
+[SPEAKER_01]  que el asunto iba a ser más grande y que iban a necesitar.
+[SPEAKER_01]  Que chido.
+[SPEAKER_01]  Toda la población entendiera que era este suyo.
+[SPEAKER_01]  Y no parecía ser obvio.
+[SPEAKER_01]  Eso no.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  ¿Que a nadie le sonaba? ¿Que todo el mundo tiene que aprender ideas y sistemas? ¿O qué? ¿O qué? ¿O qué es lo que aspiras?
+[SPEAKER_01]  Era muy importante pensar en aquel momento en esos temas.
+[SPEAKER_01]  Y en Asís apareció otra oportunidad.
+[SPEAKER_01]  un día en una sesión.
+[SPEAKER_01]  Guillermo Santos.
+[SPEAKER_01]  se levanta y dice, oigan, voy a crear una cosa que se llama la página de informática en el tiempo.
+[SPEAKER_01]  de la página de computación en el tiempo.
+[SPEAKER_01]  y necesito que algunos de ustedes me ayuden a escribir y cosas de ese estilo. Entonces, como yo, a mí se me daba lo de escribir.
+[SPEAKER_01]  Ya había aprendido a escribir en tono de resolución, en tono de funcionario, en tono de investigador.
+[SPEAKER_01]  Entonces ya sabía diferentes cosas. Así que yo le dije, mira, yo te escribo y te puedo escribir en varias.
+[SPEAKER_01]  Puedo escribir artículos para títulos firmes, puedo escribir yo para firmar yo.
+[SPEAKER_01]  Puedo escribir como catedrático, como técnico o incluso con caricaturas.
+[SPEAKER_01]  Y empezamos a generar la página informática.
+[SPEAKER_01]  No entendíamos nosotros mismos en ese momento.
+[SPEAKER_01]  el alcance de aquello.
+[SPEAKER_01]  Sí tenía muy claro Guillermo, dice, la mayoría de la gente tiene que empezar a entender esto, qué son los beats, entonces dedícate a explicar, y explicábamos, y explicábamos, y cada rato. Y queríamos competir con José Klopatovsky, que tenía en aquella época una sección en el tiempo muy establecida, que era la de automotriz.
+[SPEAKER_01]  automóviles, no me acuerdo cómo se llamaba, autos creo que se llamaban, no me acuerdo.
+[SPEAKER_01]  El caso es que...
+[SPEAKER_01]  Pues yo salí a rodar en la bicicleta con...
+[SPEAKER_01]  Mis hijitos.
+[SPEAKER_01]  Y nos echábamos por ahí, por la calle 68, para llegar al tiempo, a la hora de la armada, los domingos por la mañana.
+[SPEAKER_01]  y a pelear con el jefe de armada que tenía un par de anclas aquí en los brazos, parecía Popeye.
+[SPEAKER_01]  Le dije, ¿pero por qué pusiste un aviso de lincora debajo del tema donde estamos explicando qué es el software?
+[SPEAKER_01]  que por qué, qué, me mostraba las anclas, y me dijeron, no, no, que me parece encantador que hayas puesto un aviso de lincora.
+[SPEAKER_01]  en la página de computadoras.
+[SPEAKER_01]  Después Guillermo Santos nos dijo.
+[SPEAKER_01]  Les doy tres meses para que ustedes consigan que la página...
+[SPEAKER_01]  se financie sola o la cerramos.
+[SPEAKER_01]  Entonces empezamos a hablar ahí con algunos, IBM, Borrocks.
+[SPEAKER_01]  Había unos amigos ahí de Asís que tenían, empezaban a hacer algunas empresas, Texas Instruments y algunos de esos.
+[SPEAKER_01]  Empezaron a poner avisitos, dice, ¿ahí por qué?
+[SPEAKER_01]  Nos acariciaban la cabecita así, ay muchachos, bueno, ahí les voy a poner un aviso.
+[SPEAKER_00]  acariciar.
+[SPEAKER_01]  Y resulta que en esos tres meses...
+[SPEAKER_01]  conseguimos tanto financiamiento que financiábamos casi la mitad del periodo.
+[SPEAKER_01]  Entonces nos dijeron, ah, pues...
+[SPEAKER_01]  Echenle ganas, dirían aquí en México, ¿no? Bueno, síganse con el tema.
+[SPEAKER_01]  Y nos fue muy bien.
+[SPEAKER_01]  y
+[SPEAKER_01]  Supe por el mismo Guillermo que después de que se vendió el tiempo y todas esas cosas, él quedó.
+[SPEAKER_01]  con la publicación Enter, que no estoy todavía seguro si continúa.
+[SPEAKER_01]  Pero...
+[SPEAKER_01]  En el fondo de toda esa idea hay una didáctica.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Toda la población tiene que atender.
+[SPEAKER_01]  y entender estos temas.
+[SPEAKER_01]  Bueno, déjenme cerrar, pasar a otro episodio muy rápidamente.
+[SPEAKER_01]  que tiene que ver con...
+[SPEAKER_01]  Se me ocurre proponer ahora que...
+[SPEAKER_01] 
+[SPEAKER_01]  Pasaron varias cosas, ¿no? De proyectos que empezaron a...
+[SPEAKER_01]  a surgir allí
+[SPEAKER_01]  Yo estuve con varias consultorías ayudando a hacer agenda nacional en Colombia digital, en diferentes, con Planeación Nacional, tenía amigos con el BID.
+[SPEAKER_01]  que nos ayudaban a financiar, etc.
+[SPEAKER_01]  Hicimos una consultoría con...
+[SPEAKER_01]  con
+[SPEAKER_01]  transfero que era una pequeña
+[SPEAKER_01]  sociedad consultora que creamos.
+[SPEAKER_01]  con Jaime Tavares y...
+[SPEAKER_01]  Ay, nuestro amigo del Banco Mundial.
+[SPEAKER_01]  un colombiano insignia que trabaja en educación, ahora está en...
+[SPEAKER_01]  en ciudades inteligentes, me parece, del Banco Mundial.
+[SPEAKER_01]  El caso es que empezamos a mover el tema de...
+[SPEAKER_01]  cómo poner una agenda nacional, cómo hacer que las instituciones del gobierno todas tuvieran alineación, proyectos y cosas de ese estilo.
+[SPEAKER_01]  Por estar metido en eso, terminé en la Comisión Nacional de Sistemas. Fui su secretario varios años.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Una persona...
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  en una publicación, en alguna ocasión, intentando criticarme, dijo...
+[SPEAKER_01]  pues en esta Comisión Nacional de Sistemas bajo el mandato de Germán.
+[SPEAKER_01]  Todos los proyectos han sido aprobados.
+[SPEAKER_01]  Por supuesto.
+[SPEAKER_01]  La Comisión Nacional de Sistemas había sido creada para convertirse en un dique.
+[SPEAKER_01]  que impidiera
+[SPEAKER_01]  que las instituciones públicas gastaran en comprar.
+[SPEAKER_01]  computadoras y tecnología y cosas de ese estilo.
+[SPEAKER_01]  La idea era...
+[SPEAKER_01]  La computadora que tenemos es la computadora, que es la del Dani.
+[SPEAKER_01]  Y todas las instituciones públicas hagan fila, lleven sus tarjetas o sus cintas y les dan ese proceso.
+[SPEAKER_01]  Ese era el criterio.
+[SPEAKER_01]  Y yo llegué allá y dije, es al revés.
+[SPEAKER_01]  Todas tienen que tener su propio sistema.
+[SPEAKER_01]  Pero como era un tema de presupuesto nacional, entonces lo que se buscaba era una racionalización, ese era el nombre.
+[SPEAKER_01]  de la guía del trabajo de la Comisión Nacional del Sistema, racionalizar el uso de la informática.
+[SPEAKER_01]  Entonces, en ese caso...
+[SPEAKER_01]  fue muy difícil.
+[SPEAKER_01]  salir adelante con estos temas, pero yo lo que hacía era más bien propulsar a las instituciones para que tuvieran...
+[SPEAKER_01]  en aquel momento los primeros minicomputadores.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  Era...
+[SPEAKER_01]  Era casi sacrílego hablar de...
+[SPEAKER_01]  mini computadores, todo el mundo tenía que tener un mainframe para que la cosa fuera en serio.
+[SPEAKER_01]  Entonces empezamos a mover redes y conectarlos unos con otros y todo eso.
+[SPEAKER_01]  Hablando de Reyes.
+[SPEAKER_01]  Aconteció un episodio después de Conciencias.
+[SPEAKER_01]  Bendito y bien.
+[SPEAKER_01]  a que fuera director.
+[SPEAKER_01]  de sistemas académicos de la IBM para Colombia.
+[SPEAKER_01]  Y estando allí...
+[SPEAKER_01]  me mandaron a hacer una residencia en Nueva York para establecer...
+[SPEAKER_01]  Un programa de cooperación entre la IBM y las agencias de cooperación más importantes del mundo, el Banco Mundial, el Banco Interamericano de Desarrollo.
+[SPEAKER_01]  Unicef.
+[SPEAKER_01]  las Naciones Unidas, entonces fui a Nueva York, a Washington, todas esas cosas.
+[SPEAKER_01]  Me la pasé en esas.
+[SPEAKER_01]  Y estando en esas me dicen...
+[SPEAKER_01]  desde Colombia que estaban empezando a crear la primera conexión de Internet.
+[SPEAKER_01]  Y estaba la Universidad de los Andes con...
+[SPEAKER_01]  Nuestro amigo.
+[SPEAKER_01]  ¿Cómo se llama?
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Estaba la Universidad Nacional y la Universidad de Los Ángeles, había una...
+[SPEAKER_01]  pequeño si pisa pide quién se va a quedar con el nodo en colombia y todas esas cosas y pero si está bien
+[SPEAKER_01]  Pero ahora, ¿cómo lo vas a conectar? Y entonces se necesitaba hacer una prueba con la Universidad de Stony Brook.
+[SPEAKER_01]  la Universidad de Nueva York en Stony Brook.
+[SPEAKER_01]  la New York State University.
+[SPEAKER_01]  en Stony Brook.
+[SPEAKER_01]  Y resulta que estando en la residencia en Nueva York.
+[SPEAKER_01]  me habían pedido que tratara de conseguir un modem de IBM que se necesitaba para hacer la conexión.
+[SPEAKER_01]  y empezar a tener una conexión entre Stone y Brook.
+[SPEAKER_01]  y el nodo colombiano que sería en los Andes o en la nacional. Finalmente terminó siendo en los Andes.
+[SPEAKER_01]  Y cuando...
+[SPEAKER_01]  Llego yo a mi oficina.
+[SPEAKER_01]  Había una fotocopiadora conectada a un módem.
+[SPEAKER_01]  Y yo veía que no imprimía nada, nunca ni nada, una impresora fotocopiadora.
+[SPEAKER_01]  Y nada, y nada, y nada.
+[SPEAKER_01]  yo veía el móvil y fui...
+[SPEAKER_01]  y verifique
+[SPEAKER_01]  era la referencia del que se necesitaba.
+[SPEAKER_01]  ¿Qué creen que pasó?
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  saberlo, la IBM prestó el model
+[SPEAKER_01]  que viajó en la cajuela de mi coche y fue a dar a Stony Brook.
+[SPEAKER_01]  Y allá se hicieron los primeros enlaces.
+[SPEAKER_01]  con ese par de modems que había uno en Colombia y el otro estaba en Estudio Lux.
+[SPEAKER_01]  para crear las primeras redes
+[SPEAKER_01]  Interesante porque ya teníamos claro el sistema de redes. Yo siempre proponía que las instituciones públicas lo que tenían que tener eran redes.
+[SPEAKER_01]  Y si la idea era racionalizar el uso.
+[SPEAKER_01]  de los recursos tecnológicos y de la programación y de las tarjetas y de todas esas cosas.
+[SPEAKER_01]  Pues había que...
+[SPEAKER_01]  establecer redes. Entonces siempre fue una...
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  El que estuvo en los Andes en esa época fue Hugo Zinn.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  tema de internet.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Sí.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Y...
+[SPEAKER_02]  Un buen fin.
+[SPEAKER_01]  Y del lado de la nacional estaba...
+[SPEAKER_01]  Una figura muy conocida. Ay, déjeme decir.
+[SPEAKER_01]  Me va a venir el nombre en un momento.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  ¡Ay!
+[SPEAKER_01]  Lo estoy viendo.
+[SPEAKER_01]  De la Universidad Nacional.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  ¿Mauro Flores?
+[SPEAKER_04]  ¿No hablo flore?
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Nador.
+[SPEAKER_01]  Mauro Flores
+[SPEAKER_04]  Mauro Flores.
+[SPEAKER_01]  Mauro Flores, sí, Mauro Flores estaba, pero también había José Miguel.
+[SPEAKER_02]  A ver, está.
+[SPEAKER_01]  José Manuel, José...
+[SPEAKER_01]  Bien, gracias.
+[SPEAKER_01]  Va a venir, va a venir, es una figura.
+[SPEAKER_01]  Fuimos muy amigos en aquella época y todas esas cosas.
+[SPEAKER_01]  Pero...
+[SPEAKER_01]  Pero perdóname.
+[SPEAKER_04]  Pero perdóname, pero no Alfonso Pérez Gama.
+[SPEAKER_01]  Alfonso Pérez Gámez.
+[SPEAKER_01]  el mero
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Eh...
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  En esa época fue...
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Curioso.
+[SPEAKER_01]  accidental.
+[SPEAKER_01]  con un módem que todavía no...
+[SPEAKER_01]  Yo dejé el móvil en la Sony Brook con el compromiso de que ellos lo devolvieran a la IBM.
+[SPEAKER_00]  Yo dejé a Moro.
+[SPEAKER_04] 
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Porque yo me iba a los pocos días.
+[SPEAKER_01]  y espero que lo hayan devuelto.
+[SPEAKER_02]  En todo caso... Por razones del tiempo que tenemos...
+[SPEAKER_01]  En todo caso...
+[SPEAKER_01]  Ahora sí.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Tratemos de cerrar un poquito. Sí, cierro. Porque hay una limitación.
+[SPEAKER_01]  Bueno, que hay una limpieza.
+[SPEAKER_01]  un poquito, ¿no? Claro. Mira, no, no, es muy rápido ahora.
+[SPEAKER_02]  Claro.
+[SPEAKER_01]  Creo que podemos hablar un poquito de...
+[SPEAKER_01]  qué está pasando y para dónde vamos.
+[SPEAKER_01]  En este momento...
+[SPEAKER_01]  Aquí hay una cosa que se llama, aquí en México está la Asociación Mexicana.
+[SPEAKER_01]  de industria de tecnología de información.
+[SPEAKER_01]  que es un clúster de empresas que incluye a IBM, Google, Apple, Microsoft, etc. Todas las grandes y todas las chicas.
+[SPEAKER_01]  de los estados, de la gente.
+[SPEAKER_01]  de empresas que no son solamente de tecnología e información, sino por ejemplo ya tenemos...
+[SPEAKER_01]  participación de Tesla.
+[SPEAKER_01]  que es automotriz, pero participan en nuestra asociación por temas de inteligencia artificial.
+[SPEAKER_01]  Entonces, con ellos estamos armando.
+[SPEAKER_01]  el mapa de rutas sobre inteligencia artificial.
+[SPEAKER_01]  Vamos, nos falta como unos tres meses para terminar con una metodología de cambios. Yo la he usado porque he ayudado a hacer mapas de ruta.
+[SPEAKER_01]  para varios sectores estratégicos del país.
+[SPEAKER_01]  Hice una especialización en prospectiva.
+[SPEAKER_01]  Entonces trabajo mucho en diseño de escenarios.
+[SPEAKER_01]  del futuro.
+[SPEAKER_01]  para tener futuros intencionales, no futuros casuales.
+[SPEAKER_01]  Entonces,
+[SPEAKER_01]  El mapa de rutas se enfoca en eso, en tratar de tener un posicionamiento nacional.
+[SPEAKER_01]  en el tema de inteligencia artificial definiendo con mucha precisión.
+[SPEAKER_01]  ¿Qué queremos? ¿Dónde queremos estar? ¿En qué tiempos para lograr qué cosas?
+[SPEAKER_01]  A Colombia no le está pasando, pero le va a pasar.
+[SPEAKER_01]  Lo que ya está pasando aquí, que llegaron antes de Tesla, que tienen un ruido enorme aquí, una gigafactoría de Tesla.
+[SPEAKER_01]  viene aquí
+[SPEAKER_01]  Resulta que el secretario de Economía nos dijo en una entrevista ayer, estoy trabajando en el mapa haciendo entrevistas y todo eso.
+[SPEAKER_01]  este
+[SPEAKER_01]  que
+[SPEAKER_01]  Hay empresas chinas que llegaron primero.
+[SPEAKER_01]  en silencio, sin hacer ningún ruido, se llevaron toda la gente que pudieron que sepa de estos temas de tecnología y todo eso. Están creando un vacío.
+[SPEAKER_01]  y
+[SPEAKER_01]  Están metidísimos.
+[SPEAKER_01]  no solamente en la reconversión de manufactura a electromovilidad.
+[SPEAKER_01]  en el sector automotriz.
+[SPEAKER_01]  Si no...
+[SPEAKER_01]  en crear
+[SPEAKER_01]  una capa nacional.
+[SPEAKER_01]  de personas que manejan inteligencia artificial.
+[SPEAKER_01]  para toda...
+[SPEAKER_01]  clase de aplicación.
+[SPEAKER_01]  Ellos lo que ven es un gran source.
+[SPEAKER_01]  de inteligencia artificial para servir en todos los sectores.
+[SPEAKER_01]  refrescos, banca.
+[SPEAKER_01]  lo que quieras.
+[SPEAKER_01]  Es más, un colombiano en días pasados que vino aquí a un simposio militar de asuntos estratégicos decía
+[SPEAKER_01]  ¿Eh?
+[SPEAKER_01]  El crimen organizado, sobre todo en América Latina, se movió de las drogas a la extorsión.
+[SPEAKER_01]  que las drogas eran un nicho.
+[SPEAKER_01]  Y la extorsión es en todos los negocios, dijo este colombiano aquí.
+[SPEAKER_01]  Digo.
+[SPEAKER_01]  Hoy hay extorsión a los que venden croquetas para los perros.
+[SPEAKER_01]  Entonces la pequeña fábrica o la grande.
+[SPEAKER_01]  que producen croquetas para los perros, todos están pagando un derecho a poder vender.
+[SPEAKER_01]  Las croquetas.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Ese colombiano hizo ese símil y dijo aquí.
+[SPEAKER_01]  que
+[SPEAKER_01]  esa idea de tener esos grandes hubs de talento.
+[SPEAKER_01]  en informática.
+[SPEAKER_01]  y sobre todo en inteligencia artificial.
+[SPEAKER_01]  Es un camino.
+[SPEAKER_01]  para el que se está enrumbando toda la humanidad.
+[SPEAKER_01]  y que no es trivial.
+[SPEAKER_01]  Andar diciendo...
+[SPEAKER_01]  que eso es algo que todo el mundo tiene que aprender.
+[SPEAKER_01]  Yo uso la frase incluso para quitarle, tengo una conferencia montada que la llamo...
+[SPEAKER_01]  del miedo al dominio.
+[SPEAKER_01]  Y ya ustedes oyeron toda esta historia de las razones de Te Papa diciendo la programación, ¿por qué?
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  La inteligencia artificial no debe ocasionarnos miedo, sino que debemos dominarla.
+[SPEAKER_01]  Y lo que yo digo es que...
+[SPEAKER_01]  La inteligencia artificial no te va a quitar el puesto.
+[SPEAKER_01]  te lo va a quitar alguien que domine la inteligencia artificial.
+[SPEAKER_01]  Mientras tú no...
+[SPEAKER_01]  Y cierro simplemente diciendo dos cosas.
+[SPEAKER_01]  Queridos amigos.
+[SPEAKER_01]  todos los que nos seguirán en la grabación.
+[SPEAKER_01]  que veo yo venir.
+[SPEAKER_01]  Dos cosas.
+[SPEAKER_01]  Estoy trabajando muy seriamente con varios organismos internacionales en un tema de la ciudadanía.
+[SPEAKER_01]  digital global.
+[SPEAKER_01]  es reentender las reglas del juego, las definiciones y una serie de cosas. Ya estamos viviendo con estos desarrollos que nosotros mismos hicimos.
+[SPEAKER_01]  en un planeta que...
+[SPEAKER_01]  para algunas cosas es muy fuerte con las fronteras y para otras las fronteras ya no existen.
+[SPEAKER_01]  Entonces las nacionalidades, las fronteras, las ubicaciones y cosas de ese estilo dejan de desaparecer. Mi sobrina me llamó ayer a decirme que en la empresa le habían exigido.
+[SPEAKER_01]  que
+[SPEAKER_01]  no tuviera oficina, ni siquiera en su casa. Ahí se aprende.
+[SPEAKER_01]  Necesitamos que aprendas a trabajar desde cualquier lugar, en el autobús, en un tren, en una playa. Dice, no importa, vete a la playa, mándanos fotos tomando chela en la playa.
+[SPEAKER_01]  Es lo que queremos ver.
+[SPEAKER_01]  No queremos ver.
+[SPEAKER_01]  Que las nuevas generaciones trabajen igual que las anteriores diciendo que están trabajando.
+[SPEAKER_01]  Si no, fíjate.
+[SPEAKER_01]  Dice, no, no es homeless.
+[SPEAKER_01]  No es office space.
+[SPEAKER_01]  Es una nueva forma de pensar.
+[SPEAKER_01]  Cierro diciendo que esto tiene nuevos tipos de derechos. Yo empecé a decir...
+[SPEAKER_01]  Si yo puedo crear unos avatars que son agentes míos y ese agente lo mando a la junta de condóminos del edificio.
+[SPEAKER_01]  con unas propuestas.
+[SPEAKER_01]  Y resulta que me lo eligen.
+[SPEAKER_01]  vocal de la Junta, porque las propuestas fueron muy interesantes.
+[SPEAKER_01]  Será muy fácil hacer una lista de todas las cosas que ese agente no puede hacer.
+[SPEAKER_01]  hacer la lista de las tres que sí puede hacer.
+[SPEAKER_01]  Va a ser muy difícil.
+[SPEAKER_01]  Porque una sola que aceptemos.
+[SPEAKER_01]  generará
+[SPEAKER_01]  De aquí para adelante, la aceptación social...
+[SPEAKER_01]  de un nuevo tipo de ciudadano.
+[SPEAKER_01]  Y tendremos que definir qué tan responsable eres tú.
+[SPEAKER_01]  de las decisiones o propuestas que haga ese agente, cosas de ese estilo.
+[SPEAKER_01]  Y cierro diciendo que...
+[SPEAKER_01]  Lo que yo veo es la siguiente.
+[SPEAKER_01]  Por muchos años pasé todo el continente.
+[SPEAKER_01]  hablando de
+[SPEAKER_01]  Ahí viene la sociedad de la...
+[SPEAKER_01]  información y del conocimiento.
+[SPEAKER_01]  Ya saben por qué, porque lo dijo Negroponte.
+[SPEAKER_01]  Ahí, de los átomos a los vientos. Entonces yo andé con ellos, con el MIT, por toda América, diciendo, ahí viene la sociedad de la información y del conocimiento.
+[SPEAKER_01]  Pues ahora ando en una campaña igual, pero de otra orden.
+[SPEAKER_01]  Nos vamos a mover a la sociedad de la imaginación.
+[SPEAKER_01]  Y ya se está empezando a configurar una nueva economía, la economía de la imaginación.
+[SPEAKER_01]  Es bastante lógico pensar.
+[SPEAKER_01]  que nadie entendió lo de la sociedad de la información hasta que apareció Google.
+[SPEAKER_01]  Ahora ya teníamos una evidencia de una empresa que solo maneja datos y que vale más que todas las automotrices juntas.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Ya entendimos el cambio de industrialización a informatización. Y el siguiente cambio es imaginación.
+[SPEAKER_01]  ¿Cómo creen que va a ser el recurso más?
+[SPEAKER_01]  caro de los próximos años.
+[SPEAKER_01]  Claro, la imaginación de la mente.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Colo.
+[SPEAKER_01]  colocarse más allá de la frontera donde están llegando nuestros algoritmos hoy.
+[SPEAKER_01]  Entonces, si ya todo lo van a poder hacer los algoritmos, ¿en dónde vas a poner valor?
+[SPEAKER_01]  El valor de las personas va a recibir en su capacidad de imaginar cosas más allá.
+[SPEAKER_01]  en estas fronteras, pero no es trivial.
+[SPEAKER_01]  La creatividad no es algo que se puede improvisar, es la más rigurosa de las disciplinas.
+[SPEAKER_01]  Entonces nos estamos moviendo a una economía basada en la imaginación, que a su vez es una economía basada en la atención.
+[SPEAKER_01]  Todos nosotros hoy vivimos.
+[SPEAKER_01]  con una pantalla de celular que es una especie en extinción. Ahora van a ser...
+[SPEAKER_01]  los espacios físicos tridimensionales.
+[SPEAKER_01]  los que se comunican con nosotros.
+[SPEAKER_01]  Y entonces...
+[SPEAKER_01]  La atención.
+[SPEAKER_01]  Es el nuevo nombre de la competitividad.
+[SPEAKER_01]  Las empresas hoy en día compiten en los mercados al principio.
+[SPEAKER_01]  El de la tienda competía con el del frente, que estaba cruzando la calle.
+[SPEAKER_01]  Pero hoy en día está en los botones que tienes en tu celular, que hoy son...
+[SPEAKER_01]  promedio 40 y que van a llegar a 300 y luego van a desaparecer.
+[SPEAKER_01]  Esas competiciones...
+[SPEAKER_01]  Son por la atención. ¿Qué es lo que espera un botón de esos? Que tú lo piques.
+[SPEAKER_01]  Y si picas el botón, tienes.
+[SPEAKER_01]  Un nanosegundo para captar la tensión y dos para retenerla.
+[SPEAKER_01]  Esa es la nueva guerra.
+[SPEAKER_01]  Entonces ahí toda la inteligencia artificial y todo eso va a jugar.
+[SPEAKER_01]  Un juego.
+[SPEAKER_01]  extraordinario.
+[SPEAKER_01]  economía de la imaginación es la señal que yo les comparto hacia el final, de lo que yo veo en la siguiente hora.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Una conclusión importantísima.
+[SPEAKER_02]  Porque todo lo que nos está diciendo es para dónde van las cosas.
+[SPEAKER_02]  Yo me acordé ahora que hablábamos cuando Obama se reunió con Vinton Serk.
+[SPEAKER_02]  y hablaron de que la computer science ya no era solo una carrera, sino una forma de pensamiento.
+[SPEAKER_02]  Y comenzaron a hablar de la pensamiento computacional.
+[SPEAKER_02]  ¿Sí?
+[SPEAKER_02]  como política pública, básicamente.
+[SPEAKER_02]  Eh...
+[SPEAKER_02]  Bueno, como tenemos, el tiempo nos mata porque tenemos actividades. Yo todavía no he terminado.
+[SPEAKER_02]  las actividades.
+[SPEAKER_02]  Si quiere alguno comentar y si quiere Edgar para darle la palabra.
+[SPEAKER_02]  también como siempre
+[SPEAKER_03]  Por ahora, por ahora, reconocer el puesto.
+[SPEAKER_03]  los inmensos aportes que nos
+[SPEAKER_03]  ha dado a esta sociedad del conocimiento y la informática, Germán.
+[SPEAKER_03]  Agradecer también el desarrollo y la participación en estos...
+[SPEAKER_03]  el pionero de Alpins y de todo lo que nosotros hoy venimos apoyando.
+[SPEAKER_03]  Y creo que no conocíamos toda la historia, pero estamos muy satisfechos y muy contentos.
+[SPEAKER_03]  de ser ahora que continuemos estas labores
+[SPEAKER_03]  Creo que la charla es muy pedagógica, muy instructiva.
+[SPEAKER_03]  y nos satisface mucho todo el desarrollo y el interés que...
+[SPEAKER_03]  que has podido tener en los diferentes aspectos en los que te has retado y que te han invitado inclusive a participar.
+[SPEAKER_03]  nos llevamos
+[SPEAKER_03]  gratamente la historia
+[SPEAKER_03]  No tendría por ahora preguntas adicionales, pero sí le daría la palabra a Kevin.
+[SPEAKER_03]  que es nuestro estudiante, para que él pueda...
+[SPEAKER_03]  Gracias.
+[SPEAKER_03]  concluir el tema.
+[SPEAKER_00]  Bueno, buenas tardes Germán
+[SPEAKER_00]  y
+[SPEAKER_00]  Te estaba escuchando.
+[SPEAKER_00]  Lástima que se acabó el tiempo porque estaba muy chévere.
+[SPEAKER_00]  Como un...
+[SPEAKER_00]  Relatas cada parte de la historia.
+[SPEAKER_00]  porque el...
+[SPEAKER_00]  Literal se va escuchando como cada parte también como va evolucionando.
+[SPEAKER_00]  Todo, o sea, prácticamente...
+[SPEAKER_00]  es
+[SPEAKER_00]  Lo que más me llamó la atención fue como la conexión.
+[SPEAKER_00]  En contraste...
+[SPEAKER_00]  dentro de la carrera.
+[SPEAKER_00]  en el ámbito político también.
+[SPEAKER_00]  O sea...
+[SPEAKER_00]  Como
+[SPEAKER_00]  Encuentro uno también como ese poder que tiene la tecnología.
+[SPEAKER_00]  Una...
+[SPEAKER_00]  que yo lo diría como si fuera una fuerza transformadora en la esfera política.
+[SPEAKER_00]  Entonces,
+[SPEAKER_00]  Eso me llamó mucho la atención.
+[SPEAKER_00]  Eh...
+[SPEAKER_00]  tu trayectoria también pero que
+[SPEAKER_00]  lo que más me tenía ahí.
+[SPEAKER_00]  En...
+[SPEAKER_00]  escuchando
+[SPEAKER_00]  y ya sobre todo eso.
+[SPEAKER_00]  Muy, muy, muy, muy chévere.
+[SPEAKER_01]  Qué bien.
+[SPEAKER_02]  Es un homenaje. Si alguien, Germán, un poco metafísicamente, es que el tiempo no dura.
+[SPEAKER_01]  Es un homenaje.
+[SPEAKER_01]  tal o no dura
+[SPEAKER_02]  no dura
+[SPEAKER_01]  al cual
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Pero sí podemos tener a Germán con nosotros, Kevin.
+[SPEAKER_01]  Pero sí podemos tener...
+[SPEAKER_02]  O sea, porque yo creo que va a haber actividades, como siempre lo hemos hablado, en lo que viene, que te son acerques nuevamente.
+[SPEAKER_02]  porque es que tú estás haciendo una cosa de un futuro, bueno, has manejado el futuro permanentemente.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  A mí no me gusta la frase que dice que el futuro ya llegó.
+[SPEAKER_02]  porque el futuro nunca llega.
+[SPEAKER_02]  ¿Sí?
+[SPEAKER_02]  Pero toda esa trayectoria indudablemente es súper valiosa.
+[SPEAKER_02]  Y si bien el tiempo nos molesta por las actividades y que...
+[SPEAKER_02]  Esto.
+[SPEAKER_02]  Pero esto da pauta para...
+[SPEAKER_02]  que te nos vuelvas a acercar en todos estos procesos, ¿no, Germán?
+[SPEAKER_01]  Un último mensaje, Manuel, Kevin.
+[SPEAKER_01]  y
+[SPEAKER_01]  viendo a Beatriz.
+[SPEAKER_01]  Quiero mandar una señal.
+[SPEAKER_01]  de los movimientos estratégicos que vienen es el espacio.
+[SPEAKER_01]  Hay una canción mexicana aquí que dice, tú para arriba volteas muy poco.
+[SPEAKER_01]  Yo para abajo no sé mirar.
+[SPEAKER_01]  No estamos mirando el espacio.
+[SPEAKER_01]  Y la fusión de inteligencia artificial y espacio va a crear...
+[SPEAKER_01]  cosas importantes.
+[SPEAKER_01]  increíbles en el espacio.
+[SPEAKER_01]  Y Colombia ha tenido una tradición, ahora lo mencionó Manuel, muy importante en la mirada al espacio.
+[SPEAKER_01]  Batallé en Viena y en París contra los que hoy se están convirtiendo en los principales aliados de Colombia para la defensa.
+[SPEAKER_01]  de los derechos en el espacio.
+[SPEAKER_01]  y empezar a generar una nueva noción de soberanía tridimensional.
+[SPEAKER_01]  Porque con sus satélites estar lindos...
+[SPEAKER_01]  ¿Sí?
+[SPEAKER_01]  puso al satélite dentro de una bolsa, entonces los noruegos, que eran los principales enemigos de Colombia.
+[SPEAKER_01]  en la época de la órbita geostacionaria.
+[SPEAKER_01]  Hoy dicen
+[SPEAKER_01]  Un gringo loco metió al planeta entre una bolsa.
+[SPEAKER_01]  que es su red de 36.000 satélites.
+[SPEAKER_01]  que aprenden entre sí, que se hablan entre sí y una serie de cosas.
+[SPEAKER_01]  Pero habrá nuevas fábricas, nuevas cosas. Hay una inversión enorme. Traza el dinero. ¿Y dónde se está poniendo el dinero de las grandes potencias? En el espacio. Hay que mirar el espacio.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  como cuando empezábamos ingeniería de sistemas.
+[SPEAKER_01]  Y no sabíamos todo lo que iba a venir.
+[SPEAKER_02]  Y no sé.
+[SPEAKER_01]  Y había que formar la mente, poner inversión, comprar las máquinas y hacer lo necesario.
+[SPEAKER_01]  para estar
+[SPEAKER_01]  preparados para ese futuro que vendría.
+[SPEAKER_01]  Así que...
+[SPEAKER_02]  Se está haciendo un primer trabajo, estamos diseñando un segundo satélite de las fuerzas.
+[SPEAKER_02]  Hermana Esquí.
+[SPEAKER_02]  la verdad que llamada espacial.
+[SPEAKER_02]  Correcto.
+[SPEAKER_04]  Correcto.
+[SPEAKER_02]  un ambiente espacial muy fuerte, hay dos asociaciones.
+[SPEAKER_02]  Yo he venido trabajando con las universidades, ellos son testigos de contar de la...
+[SPEAKER_02]  los decanos y los directores que es importante el tema satelital.
+[SPEAKER_02]  que no existe muy fuerte en Colombia, pero bueno, OIRTE nos da...
+[SPEAKER_02]  fuerza para seguir.
+[SPEAKER_02]  trabajando en ese tema que es indudablemente...
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  un evento de así cierro así ya
+[SPEAKER_02]  Bueno, no es...
+[SPEAKER_01]  Bueno, no es así.
+[SPEAKER_01]  este
+[SPEAKER_01]  En Corferias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Creamos la primera videoconferencia que se transmitió en América.
+[SPEAKER_01]  Un cuate amigo mío.
+[SPEAKER_01]  que trabajaba en la NASA en Houston.
+[SPEAKER_01]  me dijo, me acaban de dar un aparato.
+[SPEAKER_01]  que tiene un nombre raro, lo llaman teléfono celular. ¿Y sabes qué? Uno puede comunicarse desde Leticia en el Amazonas.
+[SPEAKER_01]  Hasta Nueva York sin cables.
+[SPEAKER_01]  Yo mismo no creí.
+[SPEAKER_01]  Y fue una conferencia de Asís.
+[SPEAKER_01]  Eso es histórico.
+[SPEAKER_01]  La primera que creó una videoconferencia.
+[SPEAKER_01]  en medio de la conferencia.
+[SPEAKER_01]  La antena.
+[SPEAKER_01]  de Chocontá, que estaba recibiendo la señal desde Nueva York y transmitiéndola y todas esas cosas.
+[SPEAKER_01]  Sí.
+[SPEAKER_01]  canceló el permiso.
+[SPEAKER_01]  Y estaba uno de nuestros colegas ahí.
+[SPEAKER_01]  que había estado trabajando en el Ministerio de Comunicaciones.
+[SPEAKER_01]  Y le tocó llamar.
+[SPEAKER_01]  a la antena y encontró que había un alumno.
+[SPEAKER_01]  Uno que había sido alumno de él, que era el que había cortado el permiso.
+[SPEAKER_01]  Y le gritó por el teléfono, nosotros estábamos ahí en plena escena.
+[SPEAKER_01]  Le gritó por el teléfono.
+[SPEAKER_01]  Si algo...
+[SPEAKER_01]  hice por usted en su educación, es el momento que me pague.
+[SPEAKER_01]  Levante la señal otra vez.
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  La embajada americana que va prestado los equipos y todas esas cosas, llevó botellas de champaña.
+[SPEAKER_01]  Y celebramos allá en Corferias, en el evento de Asís, la primera videoconferencia usando...
+[SPEAKER_01]  Telefonía celular, que era la primera vez que se usaba en Colombia.
+[SPEAKER_01]  Estuvo primero sin tener un celular en la mano.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Muy bien, felicidades.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Felicidades.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Muchas gracias.
+[SPEAKER_02]  Muchas gracias.
+[SPEAKER_02]  Muchas gracias.
+[SPEAKER_05]  ¡Muchas gracias!
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Discúlpame, Germán. Yo sé que el tiempo es cosa, lo que nos tiene aquí.
+[SPEAKER_02]  ¡Ah!
+[SPEAKER_05]  Eh.
+[SPEAKER_05]  penando
+[SPEAKER_05]  Y digo penando porque...
+[SPEAKER_05]  Porque bueno...
+[SPEAKER_05]  Habrá otras cosas que hacer.
+[SPEAKER_04]  No.
+[SPEAKER_05]  Dentro de unos pocos minutos la retomaremos.
+[SPEAKER_05]  Pero...
+[SPEAKER_05]  Pero esta charla...
+[SPEAKER_05]  All right.
+[SPEAKER_05]  No debería terminar acá.
+[SPEAKER_04]  ¡Oh!
+[SPEAKER_05]  Es decir...
+[SPEAKER_05]  Gracias.
+[SPEAKER_05]  Si miro mis apuntes...
+[SPEAKER_05]  Tengo...
+[SPEAKER_05]  Por lo menos.
+[SPEAKER_05]  Unas diez preguntas que hacer y como mínimo unos cuantos temas sobre los cuales me gustaría que pudiésemos conocer tus opiniones. Y cuando digo unos cuantos, no dejan de ser seis.
+[SPEAKER_05]  Entonces, y cada uno va a tener profundidad.
+[SPEAKER_05]  Dadas las condiciones de tiempo,
+[SPEAKER_05]  Más bien.
+[SPEAKER_05]  Me gustaría...
+[SPEAKER_05]  Y creo que no me...
+[SPEAKER_05]  No me van a decir que no todos los compañeros de la mesa.
+[SPEAKER_05]  Sí.
+[SPEAKER_05]  algún día tenemos que cuadrar
+[SPEAKER_05]  Es decir, ¿te vamos a dejar colgar?
+[SPEAKER_05]  Solamente con la promesa de hacer una segunda parte o un nuevo encuentro.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  Gran generosidad de ustedes. Yo escribí tres páginas, hermano.
+[SPEAKER_01]  Muy bien.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Adiós.
+[SPEAKER_01]  Precisito.
+[SPEAKER_02]  José, yo estaba aquí jugando.
+[SPEAKER_01]  No digas, no digas.
+[SPEAKER_02]  Tres páginas tengo escritas, lo mismo que dice Rafa.
+[SPEAKER_02]  De tal manera que viene en camino ese proceso, estar con nosotros de nuevo.
+[SPEAKER_00]  con nosotros de nuevo
+[SPEAKER_02]  Y seguimos analizando y ya retomando, por ejemplo, este tema que acabas último de mencionar.
+[SPEAKER_02]  Porque es el tema de la nueva forma de pensamiento de la gente.
+[SPEAKER_05]  Y esto no se debe quedar en nosotros, perdón por decirlo así. A mí me parece importantísimo que incluso más allá del producto que va a salir de todo este trabajo que estamos haciendo.
+[SPEAKER_02]  Gracias.
+[SPEAKER_02]  No, no, no.
+[SPEAKER_05]  y
+[SPEAKER_05]  abusando de una vez de Germán.
+[SPEAKER_05]  Eh...
+[SPEAKER_05]  Hablando también por Redis, la red de decanos de...
+[SPEAKER_05]  de afines
+[SPEAKER_05]  Creo que...
+[SPEAKER_05]  que sería muy grato.
+[SPEAKER_05]  que este, por lo menos un...
+[SPEAKER_05]  un webinar, alguna cosa lográsemos hacer invitando a cientos de estudiantes.
+[SPEAKER_05]  A todos los que van a ayudar a mover esta frontera y a seguirla moviendo en Colombia.
+[SPEAKER_05]  Si ellos te escuchan el 20% de lo que nos dijiste.
+[SPEAKER_05]  Va a haber mucha más pasión.
+[SPEAKER_05]  No, se va a impactar.
+[SPEAKER_04]  No, eso es...
+[SPEAKER_05]  haciendo sentir este superpoder que tenemos en las manos vía la tecnología.
+[SPEAKER_02]  Recuerda que con las aulas espejo estamos llegando a 500.
+[SPEAKER_03]  Hagamos uno de esos, uno de los espejos.
+[SPEAKER_02]  simultáneamente
+[SPEAKER_02]  Podemos proponer una charla con ese tema.
+[SPEAKER_02]  para seguir.
+[SPEAKER_02]  Vamos a seguir.
+[SPEAKER_02]  Creo que el proceso contigo es de esa...
+[SPEAKER_02]  De esa forma.
+[SPEAKER_02]  Muchas gracias.
+[SPEAKER_01]  Con toda honestidad, cuenten conmigo.
+[SPEAKER_01]  Es algo que desearía yo incluso...
+[SPEAKER_01]  en lo personal.
+[SPEAKER_01]  para devolverle a Colombia tanto, tanto, tanto.
+[SPEAKER_01]  Gracias.
+[SPEAKER_03]  Muy agradecidos, muy agradecidos.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Germán, ¿tienes programado venir a Colombia a corto plazo?
+[SPEAKER_04]  Gracias.
+[SPEAKER_01]  Bueno, me invitaron a una reunión ayer en Los Andes y no pude ir.
+[SPEAKER_01]  Sobre el tema de inteligencia artificial. Sí, sí, es la excepción. Yorina Zuluaga.
+[SPEAKER_00]  Gracias.
+[SPEAKER_03]  Sí, sí, es la excepción.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Y bueno, Andrea y todos ellos ahí.
+[SPEAKER_00]  Y bueno, andamos.
+[SPEAKER_01]  Estoy conectado con el tema de inteligencia artificial porque acaba de salir el mapa en Colombia y yo estoy terminando el de México.
+[SPEAKER_01]  Entonces estamos queriendo ver cómo...
+[SPEAKER_01]  hacemos metodológicamente y en conclusiones y en trazados cosas que puedan ayudar a ambas naciones, ¿no? Y eventualmente volverlo latinoamericano, así que...
+[SPEAKER_01]  trataremos y por supuesto que si llego a Colombia.
+[SPEAKER_01]  Iré a casa de nuevo con los hijos. Nos avisa, sí.
+[SPEAKER_04]  Gracias.
+[SPEAKER_04]  Nos avisa, sí.
+[SPEAKER_01]  Y Manuel, gran generosidad de tu parte.
+[SPEAKER_04] 
+[SPEAKER_01]  una amistad que nos une de tantos años.
+[SPEAKER_01]  Una trayectoria extraordinaria de tu parte también, así que...
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Y no olvido...
+[SPEAKER_02]  Y no olvido, no olvido, Germán.
+[SPEAKER_02]  Lo amables que fueron con mi esposa María Fernanda.
+[SPEAKER_02]  cuando fue a México y no le funcionó la tarjeta de crédito. Esa es una historia que ya no...
+[SPEAKER_02]  Que son historias de amigos, hermano. Bueno.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Seguimos.
+[SPEAKER_02]  Tú estás en...
+[SPEAKER_00]  ¿Tú estás en Ciudad de México?
+[SPEAKER_01]  No, no, no.
+[SPEAKER_01]  Un poquito afuera, en una cosa que se llama Bosque Real, que es un condominio extraordinario, una especie de ciudad.
+[SPEAKER_01]  dentro de la ciudad.
+[SPEAKER_01]  muy moderna.
+[SPEAKER_01]  diseñada para ser una ciudad inteligente.
+[SPEAKER_01]  Luego les hablé de eso porque me metí en ese tema con el MIT, con el Sensible City Lab.
+[SPEAKER_00]  Gracias.
+[SPEAKER_04]  Con rama.
+[SPEAKER_00]  Gracias.
+[SPEAKER_01]  que es muy interesante.
+[SPEAKER_05]  La pregunta de Betty yo creo que va porque...
+[SPEAKER_05]  Rafa, ya vamos.
+[SPEAKER_01]  Gracias.
+[SPEAKER_00]  Rafa y yo vamos para México en marzo.
+[SPEAKER_05]  Ahora en...
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  el existe
+[SPEAKER_00]  Gracias.
+[SPEAKER_05]  Pues las maratones de programación.
+[SPEAKER_05]  El Mundial de Programación...
+[SPEAKER_05]  que este fin de año será en Astana, en Castellcitan.
+[SPEAKER_05]  Gracias.
+[SPEAKER_02]  Gracias a ti, Sam.
+[SPEAKER_05]  El...
+[SPEAKER_05]  ¿Cómo se clasifica el mundial? Vía un torneo que se llama Programadores de América.
+[SPEAKER_01]  Ok.
+[SPEAKER_05]  Programadores de América ha tenido una competencia regional latinoamericana previa.
+[SPEAKER_05]  y los 40 mejores equipos de Latinoamérica.
+[SPEAKER_05]  Van a competir.
+[SPEAKER_05]  en Guadalajara.
+[SPEAKER_04]  Bueno, venimos.
+[SPEAKER_05]  Es intenso.
+[SPEAKER_05]  Vamos a estar en Iteso, en...
+[SPEAKER_05]  Nada, en marzo.
+[SPEAKER_01]  Adiós.
+[SPEAKER_01]  Ah, muy conocido.
+[SPEAKER_02]  Del 14 al 18 es en Guadalajara.
+[SPEAKER_02]  Sí.
+[SPEAKER_01]  14 al 18 de marzo.
+[SPEAKER_01]  Ok.
+[SPEAKER_01]  A ver cómo podemos conectar. Por lo pronto, dos señales.
+[SPEAKER_04]  Claro.
+[SPEAKER_01]  Eh, eh, eh, eh.
+[SPEAKER_01]  Y a TRIPAC que conectemos.
+[SPEAKER_01]  La primera es que les comenté que soy miembro de la Academia Mexicana de Informática.
+[SPEAKER_01]  Y a lo mejor no tiene esta academia algo parecido.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  equipo de profesionales y todo eso.
+[SPEAKER_01]  pero ver cómo podemos apoyar la maratón.
+[SPEAKER_01]  Yo fui uno de los creadores de la maratón y todo lo que yo pueda hacer para...
+[SPEAKER_01]  para apoyar, sería fantástico.
+[SPEAKER_01]  y ayude a crear.
+[SPEAKER_01]  Una ciudad.
+[SPEAKER_01]  dentro de Guadalajara que se llama Ciudad Creativa Digital.
+[SPEAKER_01]  por asuntos políticos y todo eso, no llegó a la expansión que se necesitaba, pero terminó convertida en un hub de industrias creativas.
+[SPEAKER_01]  Y se reúnen ahí pequeños startups.
+[SPEAKER_01]  y empresas de programación y la ciudad les presta servicio y todas esas cosas.
+[SPEAKER_04]  Interesante.
+[SPEAKER_01]  Es posible que pueda haber una conexión interesante.
+[SPEAKER_01]  El ITESO es primer nivel aquí, es muy importante el ITESO.
+[SPEAKER_01]  De manera que donde van a estar es marca mayor.
+[SPEAKER_01]  pero esta ciudad creativa puede tener conexión, llevar jóvenes, vemos qué se necesita y cómo se puede apoyar.
+[SPEAKER_01]  la iniciativa para cuando vengan acá.
+[SPEAKER_02]  Excelente.
+[SPEAKER_02]  Bueno.
+[SPEAKER_05]  Perfecto, muchas, muchas gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_01]  Muchas gracias.
+[SPEAKER_02]  ¡Súper! ¡Gracias, Germán!
+[SPEAKER_05]  Gracias Germán. Feliz fin de semana. Que estés bien.
+[SPEAKER_04]  Gracias.
+[SPEAKER_02]  Gracias.
+[SPEAKER_05]  Hasta luego, gracias.
+[SPEAKER_01]  Gracias.
+[SPEAKER_01]  Gracias.
