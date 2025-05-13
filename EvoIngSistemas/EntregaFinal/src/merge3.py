@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-with open("transcript_1994CB.txt", "w") as outfile:
+with open("transcript_2008YYNR.txt", "w") as outfile:
     for fname in [
-        "transcript_part1_1994CB.txt",
-        "transcript_part2_1994CB.txt",
-        "transcript_part3_1994CB.txt"
+        "transcript_part1_2008YYNR.txt",
+        "transcript_part2_2008YYNR.txt",
+        "transcript_part3_2008YYNR.txt"
     ]:
         with open(fname) as infile:
             outfile.write(infile.read())
