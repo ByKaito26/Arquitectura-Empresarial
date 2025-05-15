@@ -77,26 +77,28 @@
     rulecolor=\color{black!70},
     framerule=0.5pt,
     tabsize=4,
-    captionpos=b
-}
+    captionpos=b,
+    morekeywords={nvm,pm2,serve,mkdir,source,bat,yt-dlp} % Add custom Bash keywords here
+  }
 
-\lstdefinestyle{javastyle}{
-    language=Java,
-    basicstyle=\ttfamily,
-    backgroundcolor=\color{gray!10},
-    keywordstyle=\color{blue},
-    commentstyle=\color{green!40!black},
-    stringstyle=\color{red},
-    showstringspaces=false,
-    numbers=left,
-    numberstyle=\tiny\color{gray},
-    breaklines=true,
-    breakatwhitespace=true,
-    frame=tb,
-    rulecolor=\color{black!70},
-    framerule=0.5pt,
-    tabsize=4,
-    captionpos=b
+\lstdefinestyle{pythonstyle}{
+    language=Python,
+    basicstyle=\ttfamily\small,              % Typewriter font, slightly smaller
+    backgroundcolor=\color{gray!10},         % Light gray background
+    keywordstyle=\color{blue}\bfseries,      % Keywords in bold blue
+    commentstyle=\color{green!50!black}\itshape, % Comments in italic green
+    stringstyle=\color{red!70!black},        % Strings in dark red
+    showstringspaces=false,                  % No special marks for spaces
+    numbers=left,                            % Line numbers on the left
+    numberstyle=\tiny\color{gray},           % Line number style
+    breaklines=true,                         % Break long lines
+    breakatwhitespace=true,                  % Break at spaces when needed
+    frame=tb,                                % Top and bottom border
+    rulecolor=\color{black!40},              % Slightly lighter border
+    framerule=0.5pt,                         % Thin frame
+    tabsize=4,                               % Tab size
+    captionpos=b,                            % Caption below the listing
+    morekeywords={self,assert},              % Add extra keywords if needed
 }
 
 % ------------------------------------------------------------------------------
@@ -136,12 +138,49 @@
 
 \section{Transcripción de las entrevistas}
 
-En la actividad de AVATA del curso \textit{Arquitectura Empresarial} 
+En la actividad de AVATA del curso \textit{Arquitectura Empresarial} (figura \ref{fig:avata}) se dejó un archivo comprimido \texttt{.rar} con la transcripción de las entrevistas junto con unas etiquetas de tiempo tal como se muestra en la figura \ref{fig:transcript}. El objetivo es el de tener estos textos de manera organizada para así poder diferenciar de los entrevistador(es) y el entrevistado. Para lograr esto se van a utilizar dos modelos de inteligencia artificial pre-entrenados; \textit{Pyannote.audio}\cite{Bredin23,Plaquet23}, encargado de segmentar el audio por \textit{speaker} capturando en qué instante de tiempo otra persona habla; \textit{Whisper}\cite{radford2022robustspeechrecognitionlargescale}, encargado de transcribir lo que dicen los \textit{speakers}.
+
+\begin{figure}[ht]
+  \centering
+  \includegraphics[width=\textwidth]{img/img1.png}
+  \caption{\label{fig:avata} Actividad del curso junto con sus entregables y la transcripción de los textos.}
+\end{figure}
+
+
+\begin{figure}[ht]
+  \centering
+  \includegraphics[width=0.5\textwidth]{img/img2.png}
+  \caption{\label{fig:transcript} Ejecución del comando \lstinline[style=bashstyle]!bat 1974\ -\ Roberto\ Pardo\ \(transcript\).txt!  }
+\end{figure}
+
+\subsection{Descarga del audio}
+
+Para poder obtener la transcripción completa de la entrevista se necesita de primero tener los audios de cada una de las entrevistas. Debido a que cada una de estas se encuentra en una lista de reproducción en la plataforma \textit{YouTube}\cite{youtube}. Los videos se pueden descargar con la herramienta \lstinline[style=bashstyle]!yt-dlp!, la cual, para el caso del encargado de esta tarea que está desde un computador GNU/Linux Arch, el paquete se puede instalar de la siguiente manera:
+
+\begin{lstlisting}[style=bashstyle]
+sudo pacman -S yt-dlp
+\end{lstlisting}
+
+Una vez obtenido el paquete se puede proceder a la descarga del audio de todos los videos que se encuentran en la lista de reproducción \url{https://www.youtube.com/playlist?list=PLH7DU-xDqcbejjNtxxIYDR9K5F1NYGi8L} ejecutando el siguiente comando:
+
+\begin{lstlisting}[style=bashstyle]
+yt-dlp -x --audio-format mp3 "https://www.youtube.com/playlist?list=PLH7DU-xDqcbejjNtxxIYDR9K5F1NYGi8L" 
+\end{lstlisting}
+
+Después de hacer la ejecución se descargan en audio \texttt{mp3} las 23 entrevistas, la salida deberá verse parecida a la figura
+
+\begin{figure}[ht]
+  \centering
+  \includegraphics[width=0.5\textwidth]{img/OutputYT.png}
+  \caption{\label{fig:yt-dlp} Descarga completada de todas las 23 entrevistas}
+\end{figure}
 
 
 
 
 
+\bibliographystyle{ieeetr}
+\bibliography{referencias}
 
 
 \end{document}
